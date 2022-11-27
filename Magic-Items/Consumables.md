@@ -1,14 +1,19 @@
-### Potions
+---
+layout: doc
+---
+# Consumables
+
+## Potions
 
 You can buy potions that fall in the tier of the environment you're in. You can carry as many potions as you wish. Drinking a potion takes a standard action, even if you don't have it in hand already. Feeding a potion to an unconscious ally is also a standard action.
 
 You can only be under the effect of a single potion at a time. If you're using a potion that has a lingering effect, drinking another potion ends the first effect. Non-healing potions tend to have effects that last until the end of a battle, or around five minutes if you're prepping for a battle and drinking potions beforehand.
 
-#### Healing Potions
+### Healing Potions
 
 A healing potion lets the creature drinking it heal using one of their recoveries. Potions provide bonus healing on top of what you'd generally get with a recovery, but there's a hit point cap for the maximum healing you can get from a potion, no matter how well you roll your recovery.
 
-#### Healing Potion Costs
+### Healing Potion Costs
 
 | **Tier** | **Cost** | **Effect** | **HP Cap** |
 | --- | --- | --- | --- |
@@ -17,11 +22,11 @@ A healing potion lets the creature drinking it heal using one of their recoverie
 | Epic | 200 gp | Recovery +3d8 hp | 100 |
 | Iconic | 300 gp | Recovery +4d8 hp | 130 |
 
-#### Potion of [Energy] Resistance
+### Potion of [Energy] Resistance
 
-When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See Resistance. For the types of resistance available, see Other Damage Types.
+When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See Resistance. For the types of resistance available, see [Other Damage Types](../General-Rules/Combat.md#other-damage-types).
 
-#### Resistance Potion Costs
+### Resistance Potion Costs
 
 | **Tier** | **Resistance** | **Cost** |
 | --- | --- | --- |
@@ -29,7 +34,7 @@ When you drink one of these potions, you gain resistance to a single specified e
 | Champion | Resist 16+ | 200 gp |
 | Epic | Resist 16+ | 400 gp |
 
-### Oils
+## Oils
 
 While potions affect creatures, magic oils affect items. Oils provide temporary magical enhancement to weapons, armor, and spellcasters' implements.
 
@@ -39,7 +44,7 @@ Each oil confers a bonus of +1 (adventurer), +2 (champion), or +3 (epic). Used o
 
 Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher bonus.
 
-#### Oil Costs
+### Oil Costs
 
 | **Tier** | **Bonus** | **Cost** |
 | --- | --- | --- |
@@ -47,11 +52,11 @@ Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher
 | Champion | +2 Oil | 200 gp |
 | Epic | +3 Oil | 400 gp |
 
-### Runes
+## Runes
 
 Runes function exactly like magical oils, but in addition to the expected +1/+2/+3 bonus, each rune also provides an additional random enhancement to the item it is applied to. Roll for the effect when the rune is applied to the item. An item can only have one rune applied to it at a time.
 
-#### Rune Costs
+### Rune Costs
 
 | **Tier** | **Bonus** | **Cost** |
 | --- | --- | --- |
@@ -59,7 +64,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | Champion | +2 Rune | 300 gp |
 | Epic | +3 Rune | 600 gp |
 
-#### ­Random Rune Effect on Armor
+### ­Random Rune Effect on Armor
 
 | **Roll** | **Effect** |
 | --- | --- |
@@ -69,7 +74,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | 61–80 | As 41–60, and you can reroll one failed save while the rune is active |
 | 81–100 | You can take your first rally this battle with a quick action (if you can already rally with a quick action, the action is free) |
 
-#### Random Rune Effect on Weapon
+### Random Rune Effect on Weapon
 
 | **Roll** | **Effect** |
 | --- | --- |
@@ -79,7 +84,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | 61–80 | Weapon deals +1d10 damage while escalation die is 3+ (champion: +4d6; epic: +3d20) |
 | 81–100 | Reroll one missed attack roll with weapon |
 
-#### Random Rune Effect on Spellcasting Implement
+### Random Rune Effect on Spellcasting Implement
 
 | **Roll** | **Effect** |
 | --- | --- |
@@ -88,4 +93,3 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | 41–60 | +1 additional attack bonus with daily spells |
 | 61–80 | +1 additional attack bonus if spell has more than one target |
 | 81–100 | Reroll one missed attack roll with implement |
-

@@ -1,31 +1,34 @@
-## Paladin
+---
+layout: doc
+---
+# Paladin
 
-### Ability Scores
+## Ability Scores
 
 Paladins gain a +2 class bonus to Strength or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: city guardsman, combat medic, bodyguard, outlaw hunter, and inquisitor.
+Paladins get 2 skill points in any Strength or Charisma skill like Athletics, Intimidate, and Performance.
 
-### Gear
+## Gear
 
 At 1st level, a paladin starts with a melee weapon or two, a ranged weapon if they want it, armor, a shield, and standard non-magical gear that is suggested by the character's backgrounds.
 
-#### Gold Pieces
+### Gold Pieces
 
-Paladins may start with either 25 gp or 1d6 x 10 gp.
+Paladins start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
 | **None** | 10 | — |
 | **Light** | 12 | — |
-| _ **Heavy** _ | _16_ | — |
-| _ **Shield** _ | _+1_ | — |
+| _**Heavy**_ | _16_ | — |
+| _**Shield**_ | _+1_ | — |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ Paladins may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 scimitar, shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, battleaxe | 1d10 greatsword, halberd |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -41,9 +44,9 @@ Paladins may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
 
-### Level Progression
+## Level Progression
 
-| **Paladin** | **Total Hit Points** | **Total Feats** | **Class Talents (M)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Paladin** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
 | **Level 1** | (8 + CON mod) x **3** | 1 adventurer | 3 |  | ability modifier |
@@ -57,7 +60,7 @@ Paladins may start with either 25 gp or 1d6 x 10 gp.
 | **Level 9** | (8 + CON mod) x **20** | 4 adventurer3 champion2 epic | 5 |  | 3 x ability modifier |
 | **Level 10** | (8 + CON mod) x **24** | 4 adventurer3 champion3 epic | 5 | +1 to 3 abilities | 3 x ability modifier |
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -68,17 +71,17 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 17 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
 | **Recovery Dice** | (1d10 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 points |
-| **Talents** | 3 (see level progression chart) |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points |
+| **Talents** | 3 (see [level progression chart](#level-progression)) |
 | **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -90,7 +93,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -102,69 +105,69 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 All paladins have the Smite Evil class feature.
 
-#### Smite Evil
+### Smite Evil
 
 You can use this talent once per battle, plus an additional number of times per day equal to your Charisma modifier.
 
 As a free action before you make a paladin melee attack roll, you can declare that you're using a Smite Evil attack. Add +1d12 to the damage roll AND deal half damage with the attack if it misses.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your Smite Evil attacks gain a +4 attack bonus.
 
-##### Champion Feat
+#### Champion Feat
 
 Add 2d12 to the damage roll instead of 1d12.
 
-##### Epic Feat
+#### Epic Feat
 
 Add 4d12 to the damage roll instead of 2d12.
 
-### Class Talents
+## Class Talents
 
 Choose three of the following class talents.
 
 You get an additional paladin class talent at 5th level, and again at 8th level.
 
-#### Bastion
+### Bastion
 
 You gain +1 AC.
 
 In addition, once per battle when a nearby ally is hit by an attack, you can choose to lose hit points equal to half of that damage, and have your ally take only half of the damage instead. The damage you lose can come from temporary hit points, but isn't affected by damage resistance and other tricks to avoid the damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Increase your total number of recoveries by 1.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day, you can use Bastion twice in the same battle.
 
-##### Epic Feat
+#### Epic Feat
 
 When you use Bastion now, your ally takes no damage. You still lose hit points equal to half the damage.
 
-#### Cleric Training
+### Cleric Training
 
 Choose one cleric spell of your level or lower. That spell is now part of your powers. (You can change out the spell normally.)
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can use your Charisma as the attack ability for cleric spells you can cast.
 
-##### Champion Feat
+#### Champion Feat
 
 You can now cast the cleric class feature _heal_ spell twice per day.
 
-##### Epic Feat
+#### Epic Feat
 
 Choose two cleric spells instead of one.
 
-#### Divine Domain
+### Divine Domain
 
 **Special:** You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
 
@@ -172,57 +175,57 @@ Choose one of the domains listed in the cleric's class talent list. You gain all
 
 If the domain you choose is designed to help cleric spells and attacks, reinterpret the talent to help your paladin powers. You can use the domain's feats if you wish; reinterpret them similarly if necessary.
 
-#### Fearless
+### Fearless
 
 You are immune to fear abilities and to any non-damage effects of attacks named or described as fear attacks.
 
 In addition, you gain a +1 melee attack bonus against enemies that are not engaged by any of your allies. The bonus increases to +2 against enemies with fear abilities.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a +1 bonus to death saves.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain a +1 bonus to all saves except death saves.
 
-##### Epic Feat
+#### Epic Feat
 
 Your nearby allies gain a +1 bonus to death saves.
 
-#### Implacable
+### Implacable
 
 You can roll saves at the start of your turn instead of at the end of your turn. A successful save against ongoing damage, for example, means that you will not take the ongoing damage that turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a +1 bonus to saves.
 
-##### Champion Feat
+#### Champion Feat
 
 Once during your turn as a free action, you can choose to lose hit points equal to your level to reroll a save.
 
-##### Epic Feat
+#### Epic Feat
 
 You gain a +1 bonus to Physical Defense and Mental Defense.
 
-#### Lay on Hands
+### Lay on Hands
 
 Twice per day as a quick action, you can heal yourself or an ally next to you with a touch. You spend the recovery while the recipient heals as if they had spent the recovery.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Add twice your Charisma modifier to the healing provided by Lay on Hands.
 
-##### Champion Feat
+#### Champion Feat
 
 Lay on Hands healing uses a free recovery instead of one of your own.
 
-##### Epic Feat
+#### Epic Feat
 
 You can now use Lay on Hands four times per day instead of two.
 
-#### Paladin's Challenge
+### Paladin's Challenge
 
 When you hit an enemy with a melee attack, you can choose to challenge that enemy as a free action. Until the end of the battle, provided that both you and the enemy you've challenged are conscious and capable of making an attack, you each take a –4 attack penalty against all other creatures and a –4 penalty to disengage checks from each other.
 
@@ -240,51 +243,50 @@ An enemy can only be the subject of one Paladin's Challenge at a time; a new cha
 
 In the unlikely case in which two paladins fight each other, any use of Paladin's Challenge locks them into a challenge that only ends when one of them drops.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The attack and disengage penalty for challenged enemies (but not for you) is equal to –4 or to the escalation die, whichever is higher.
 
-##### Champion Feat
+#### Champion Feat
 
 You can have two challenges active at the same time against different enemies.
 
-##### Epic Feat
+#### Epic Feat
 
 Enemies you challenge are vulnerable to your attacks.
 
-#### Path of Universal Righteous Endeavor
+### Path of Universal Righteous Endeavor
 
 **Special:** You can't take this talent if you take the Way of Evil Bastards talent.
 
 Your nearby allies gain a +1 bonus to all saves.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
-Once per day, you can reroll your relationship dice with a heroic or ambiguous icon.
+Once per day, you can reroll your relationship advantages check with a heroic or ambiguous relationship.
 
-##### Champion Feat
+#### Champion Feat
 
 All of your melee and ranged attacks deal holy damage.
 
-##### Epic Feat
+#### Epic Feat
 
-You gain an additional relationship point with a heroic or ambiguous icon.
+You gain an additional relationship point with a heroic or ambiguous relationship.
 
-#### Way of Evil Bastards
+### Way of Evil Bastards
 
 **Special:** You can't take this talent if you take the Path of Universal Righteous Endeavor talent.
 
 When one of your Smite Evil attacks drops a non-mook enemy to 0 hp, that use of Smite Evil is not expended.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
-Once per day, you can reroll your relationship dice with a villainous or ambiguous icon.
+Once per day, you can reroll your relationship advantages check with a villainous or ambiguous relationship.
 
-##### Champion Feat
+#### Champion Feat
 
 When one of your Smite Evil attacks drops three or more mooks, it is not expended.
 
-##### Epic Feat
+#### Epic Feat
 
-You gain an additional relationship point with a villainous or ambiguous icon.
-
+You gain an additional relationship point with a villainous or ambiguous relationship.

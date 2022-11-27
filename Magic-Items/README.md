@@ -1,6 +1,23 @@
+---
+layout: doc
+---
 # Magic Items
 
 There are two types of magic item. True magic items are permanent magic items used as loot during adventures and rewards for success. One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See Loot: Treasure Rewards for notes on the wealth successful characters earn each adventure.)
+
+## Table of Contents  <!-- omit in toc -->
+
+- [Magic Items](#magic-items)
+  - [One-Use Items](#one-use-items)
+  - [True Magic Items](#true-magic-items)
+    - [Magic Item Personalities \& Quirks](#magic-item-personalities--quirks)
+  - [Chakras](#chakras)
+    - [One Size Fits](#one-size-fits)
+  - [Magic Item Basics](#magic-item-basics)
+    - [Default Bonuses](#default-bonuses)
+    - [Magic Item Powers](#magic-item-powers)
+    - [Useful Magic Items by Class](#useful-magic-items-by-class)
+  - [Artifacts](#artifacts)
 
 ## One-Use Items
 
@@ -100,4 +117,4 @@ On the other hand, you don't have to attune all of an artifact's powers and you 
 
 Only one artifact may be carried at a time. In addition, each power you choose from an artifact counts as an additional magic item for the number of true magic items you are allowed to use before your item's quirks overpower you.
 
-Since acquiring an artifact is a major campaign event and such a big deal, even the icons will take notice. Each artifact should have a section on icon relationships that the artifact more or less requires. If you attune an artifact and don't have the required relationships, you will soon, as fate and destiny reshape around you! Otherwise the artifact will eventually disappear on you, finding a bearer more to its taste.
+Since acquiring an artifact is a major campaign event and such a big deal, even deific relationships will take notice. Each artifact should have a section on relationships that the artifact more or less requires. If you attune an artifact and don't have the required relationships, you will soon, as fate and destiny reshape around you! Otherwise the artifact will eventually disappear on you, finding a bearer more to its taste.

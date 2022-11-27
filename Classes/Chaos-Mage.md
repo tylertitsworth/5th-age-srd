@@ -1,31 +1,34 @@
-## Chaos Mage
+---
+layout: doc
+---
+# Chaos Mage
 
-### Ability Scores
+## Ability Scores
 
 Chaos Mages gain a +2 class bonus to Intelligence or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: blossoming witch, jester, fireworks exhibitionist, no-longer-frustrated librarian, stirge wrangler, living spell, living dungeon denizen, wandering musician, hero from another world.
+Chaos Mages get 2 skill points in any Intelligence or Charisma skill like Arcana, History, and Persuasion.
 
-### Gear
+## Gear
 
 At 1st level, chaos mages start with adventuring clothes, a simple dagger (or a uniquely weird but similarly powerful weapon befitting to their background), and any other minor (and unusual) elements of gear their backgrounds suggest.
 
-#### Gold Pieces
+### Gold Pieces
 
-Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
+Chaos Mages start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
-| _ **None** _ | _10_ | — |
-| _ **Light** _ | _10_ | — |
+| _**None**_ | _10_ | — |
+| _**Light**_ | _10_ | — |
 | **Heavy** | 11 | –2 |
 | **Shield** | +1 | –2 |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 (-2 atk) mace, shortsword | 1d8 (-4 atk) spear |
 | **Heavy or Martial** | 1d8 (-5 atk) scimitar, warhammer | 1d10 (–6 atk) greatsword |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -41,9 +44,9 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (–4 atk) heavy crossbow | 1d8 (–5 atk) longbow |
 
-### Level Progression
+## Level Progression
 
-| **Chaos Mage Level** | **Total Hit Points** | **Total Feats** | **Daily Spells (M)** | **Once-per-Battle Spells (M)** | **Spell Level (M)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Chaos Mage Level** | **Total Hit Points** | **Total Feats** | **Daily Spells (H)** | **Once-per-Battle Spells (H)** | **Spell Level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 1 | 1 | 1st level | _Not affected_ | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 2 | 1 | 1st level | — | ability modifier |
@@ -57,29 +60,29 @@ Chaos Mages may start with either 25 gp or 1d6 x 10 gp.
 | **Level 9** | (6 + CON mod) x 20 | 4 adventurer3 champion2 epic | 5 | 2 | 9th level | — | 3 x ability modifier |
 | **Level 10** | (6 + CON mod) x 24 | 4 adventurer3 champion3 epic | 6 | 2 | 9th level | +1 to 3 abilities | 3 x ability modifier |
 
-(M): Indicates columns in which multiclass characters lag one level behind.
+(H): Indicates columns in which hybrid characters lag one level behind.
 
 Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-### Stats
+## Stats
 
 | **Ability Bonus** | +2 Intelligence or Charisma (different from racial bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
-| **Armor Class (heavy armor)** | 10 + middle mod of Con/Dex/Wis + Level |
-| **Armor Class (shield and heavy armor)** | 10 + middle mod of Str/Con/Dex + Level |
-| **Physical Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Mental Defense** | (6 + Con mod) x Level modifier (see level progression chart) |
-| **Hit Points** | 8 |
-| **Recoveries** | (1d6 x Level) + Con mod |
-| **Recovery Dice** | 8 points, max 5 in any one background |
-| **Backgrounds** | 3 points (4 at 5th level; 5 at 8th level) |
-| **Icon Relationships** | 3 |
-| **Talents** | 1 per Level |
+| **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
+| **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
+| **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
+| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Recoveries** | (probably) 8 |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
+| **Talents** | 3 |
+| **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -91,7 +94,7 @@ At-Will
 
 **Miss:** —
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -103,7 +106,7 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 Chaos mages use arcane implements, such as wands and staffs, to improve their attacks. Unlike wizards and clerics, chaos mages don't choose the spells they know. Instead, a chaos mage of a given level can access all the spells in a category that are their level or lower.
 
@@ -111,7 +114,7 @@ The category of spell you'll cast on your turn is randomly decided, but you get 
 
 Chaos mages are not allowed to cast rituals.
 
-#### Chaos Magic
+### Chaos Magic
 
 Chaos magic has three main categories of spells: attack, defense, and iconic.
 
@@ -127,23 +130,23 @@ If you draw…
 
 - Attack: The next chaos mage spell you cast during the battle must be an attack spell, but you won't have to choose the spell until your turn.
 - Defense: The next chaos mage spell you cast during the battle must be a defense spell, but you won't have to choose the spell until your turn.
-- Iconic: The next chaos mage spell you cast during the battle must be an iconic spell. Immediately roll a die to determine which icon's spells you'll have to choose from. For example, if there are 12 icons in your game, assign a number to each icon and roll a d12. You don't have to choose the specific spell until your turn.
+- Iconic: The next chaos mage spell you cast during the battle must be an iconic spell. Immediately roll a die to determine which relationship's spells you'll have to choose from. For example, if your character has 3 relationships, assign a number to each relationship and roll a d3. You don't have to choose the specific spell until your turn.
 
 Whether you cast an at-will, per-battle, or daily spell, you cast it at the spell level shown on the spell progression table.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
-Once per day when you cast an iconic daily or once-per-battle spell from an icon you have at least a one-point relationship with, roll a normal save. If you succeed, you don't expend that spell, allowing you to cast it again, or another daily/once-per-battle spell.
+Once per day when you cast an iconic daily or once-per-battle spell from an relationship you have at least a one-point with, roll a normal save. If you succeed, you don't expend that spell, allowing you to cast it again, or another daily/once-per-battle spell.
 
-##### Champion Feat
+#### Champion Feat
 
-Once per day when you draw an iconic spell, before rolling, choose an icon you have at least a one-point relationship with. The spell you cast next will be from that icon.
+Once per day when you draw an iconic spell, before rolling, choose an relationship you have at least a one-point with. The spell you cast next will be from that relationship.
 
-##### Epic Feat
+#### Epic Feat
 
-You can use the champion feat power a second time, but only if you choose an icon that you have at least a two-point relationship with.
+You can use the champion feat power a second time, but only if you choose a relationship that you have at least a two points with.
 
-#### High Weirdness
+### High Weirdness
 
 Chaos mages usually display an uncanny weirdness that presents itself through their spellcasting, and sometimes even bleeds through to their general demeanor. This weirdness is represented in game mechanics through the High Weirdness table below.
 
@@ -151,21 +154,21 @@ When an enemy scores a critical hit against you, roll high weirdness and consult
 
 Unless otherwise specified, the high weirdness effects last until the end of the battle.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If you have one or more Warp talents, whenever you make a d6 roll for one, also roll for a new high weirdness effect. The new effect replaces the weirdness effect currently active, if any.
 
 If you have no Warp talents, roll for a new high weirdness effect whenever you draw an iconic spell.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle when you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, each time you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
 
-##### High Weirdness Table
+#### High Weirdness Table
 
 | **d100** | **High Weirdness Effect** |
 | --- | --- |
@@ -178,7 +181,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **12** | You must speak in what you think could be the voice of the last creature your chaos mage attacked. If it doesn't seem to have a voice, invent one. |
 | **13** | Small squeaking rodents erupt from any plausible cover that you go near. There's no real effect except they're somewhat noisy and rodents suddenly pop up in unexpected places. |
 | **14** | Your (the PC) favorite song begins playing around you magically, getting louder and louder (tell the table what type of song it is, or maybe hum it). It might or might not interfere with bardic songs or monsters that need to be heard properly to get their dirty work done. |
-| **15** | A disembodied voice begins narrating the events of the battle to all participants. The voice isn't necessarily on your side, pick a random icon it seems to be associated with. |
+| **15** | A disembodied voice begins narrating the events of the battle to all participants. The voice isn't necessarily on your side, pick a random relationship it seems to be associated with. |
 | **16** | You grow horns or other spikes all over. If you already have horns, then you lose them. Some of the horns, or lack thereof, persist after the weirdness ends. |
 | **17** | One of your arms becomes a functional tentacle. It has no mechanical effects, but unless you're special or lucky it's probably not a very pretty tentacle. Your option on whether or not it remains after the weirdness ends. |
 | **18** | A great gust of wind circles around the battlefield. It probably has no serious effect unless there's something happening that a great gust of wind could seriously affect. |
@@ -205,7 +208,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **66–70** | Your features shift and settle into a temporary new pattern. You gain a random racial ability until the end of your next turn. Ignore results that duplicate a racial ability you already have. Roll a d8. 1: dwarf's that's your best shot; 2: dark elf's cruel; 3: high elf's highblood teleport; 4: gnome's confounding; 5: half–elf's surprising; 6: halfling's evasive; 7: holy one's halo; 8: tieflings's curse of chaos. |
 | **71–75** | If one of your allies is at 0 hit points or below, that ally can roll a free death save that won't count against their missed death save total. |
 | **76–80** | Choose one creature (including you) that has already rallied this battle. It can rally again this battle (using the same action it normally would) as if it hadn't already rallied (no roll if the first use). |
-| **81–85** | Your presence blurs through space, spirit, and time, and you can fight in spirit on your turn (see Combat Rules, Special Action) in addition to taking your normal turn. |
+| **81–85** | Your presence blurs through space, spirit, and time, and you can fight in spirit on your turn (see [Combat Rules, Special Action](../General-Rules/Combat.md#special-actions)) in addition to taking your normal turn. |
 | **86–90** | You shift, you waver, or you go transparent. You don't take any miss damage while this weirdness is affecting you. |
 | **91–95** | The magic items in the area all start talking at once. You or one ally of your choice can roll to recharge one magic item (affected creature's choice). |
 | **96–97** | Something related to your one unique thing goes very right for you. This is on you and the GM to work out together. The GM has the final say, though. |
@@ -213,17 +216,17 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **99** | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once. |
 | **100** | You gain an extra standard action during the next turn after this weirdness goes into effect. |
 
-### Class Talents
+## Class Talents
 
 Choose three of the following class talents.
 
-#### Warp Talents
+### Warp Talents
 
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
 
 If a warp talent gives you access to a spell from another class, associate it with chaos magic's attack category or defense category. You can then cast it if that spell type comes up for you.
 
-##### Attacking Warp
+#### Attacking Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an attack spell. This talent works best for chaos mages with a high Dexterity.
 
@@ -238,19 +241,19 @@ When your random spell choice indicates an attack spell, roll a d6 to determine 
 | **5** | _Metal_: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
 | **6** | _Void:_ During your next turn, you can use a move action to teleport to a nearby location you can see. |
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level).
 
-###### Champion Feat
+##### Champion Feat
 
 While you are flying due to any effect, you gain a bonus to disengage checks equal to your Dexterity modifier.
 
-###### Epic Feat
+##### Epic Feat
 
 When one of your spells or powers lets you teleport to a nearby location, you can instead teleport to a far away location you can see.
 
-##### Defensive Warp
+#### Defensive Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be a defense spell. This talent works best for chaos mages with a high Wisdom.
 
@@ -265,19 +268,19 @@ When your random spell choice indicates a defense spell, roll a d6 to determine 
 | **5** | _Metal_: Until the end of your next turn, you gain a +2 bonus to AC. |
 | **6** | _Void:_ Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack. |
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 When you heal using a recovery, add hit points equal to the escalation die to that healing.
 
-###### Champion Feat
+##### Champion Feat
 
 While you are at maximum hit points, you gain a +1 bonus to all defenses.
 
-###### Epic Feat
+##### Epic Feat
 
 When an attacker rerolls an attack against you, it takes an attack penalty equal to your Wisdom modifier.
 
-##### Iconic Warp
+#### Iconic Warp
 
 Your magic provides you with a random warp effect when the next spell you cast will be an iconic spell. This talent works best for chaos mages with a high Intelligence.
 
@@ -285,110 +288,110 @@ When your random spell choice indicates an iconic spell, roll a d6 to determine 
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: Randomly determine two icon associations for the spell you'll cast instead of one. Choose one of those associations to use for that spell. |
+| **1** | _Air_: Randomly determine two relationship associations for the spell you'll cast instead of one. Choose one of those associations to use for that spell. |
 | **2** | _Earth:_ Until the end of your next turn, you gain a bonus to PD and MD equal to your Intelligence modifier. |
 | **3** | _Fire_: Until the end of your next turn, you gain the once-per-battle racial power of a random nearby ally; ignore this benefit if it duplicates your own racial power or if it doesn't make sense during the battle (human, for example). |
 | **4** | _Water_:Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier. |
 | **5** | _Metal_: Until the end of your next turn, critical hits scored against you only count as normal hits. |
 | **6** | _Void:_ When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 Once per battle when you roll for an iconic warp effect, roll the d6 twice and choose the result you want.
 
-###### Champion Feat
+##### Champion Feat
 
 When you roll a natural 18–20 on a save, a nearby ally of your choice can roll a save against a save ends effect.
 
-###### Epic Feat
+##### Epic Feat
 
 When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative)."
 
-#### Separate Existence
+### Separate Existence
 
 You are ever-so-slightly detached from normal physical reality. Play the story side of that as you like; the game mechanics side is that you can cast ranged spells while engaged with enemies without taking opportunity attacks.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 While you have an _air_ or _void_ warp effect active, you take no damage from missed attacks.
 
-##### Champion Feat
+#### Champion Feat
 
 When you teleport, you can heal using a recovery.
 
-#### Stench of Necromancy
+### Stench of Necromancy
 
 You gain a random spell from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
 If the necromancer spell refers to Intelligence, you can replace that ability score with references to Charisma.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 One battle per day, you can gain the Cackling Soliloquist talent from the necromancer class.
 
-##### Champion Feat
+#### Champion Feat
 
 While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
-##### Epic Feat
+#### Epic Feat
 
 If you don't like the first random necromancer spell you select for the day, you can determine another random necromancer spell. You're stuck with the second one.
 
-#### Touch of Wizardry
+### Touch of Wizardry
 
 You gain a random spell from the wizard class. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard spell and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
 If the wizard spell refers to Intelligence, you can replace that ability score with references to Charisma.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a random wizard talent at the start of each day. Roll a d3. 1: Abjuration; 2: Evocation; 3: High Arcana (_counter magic_). Replace references to "wizard" in these talents with "chaos mage" and Intelligence with Charisma.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain a single daily use of the wizard's _utility spell_, cast at your level or lower.
 
-##### Epic Feat
+#### Epic Feat
 
 If you don't like the first random wizard spell you select for the day, you can determine another random wizard spell. You're stuck with the second one.
 
-#### Trace of the Divine
+### Trace of the Divine
 
 You gain a random spell from the cleric class. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
 If the cleric spell refers to Wisdom, you can replace that ability score with references to Charisma.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 At the start of the day, choose a random cleric invocation, excepting those from the healing domain. You can use that invocation as if you were a cleric once this day as a quick action.
 
-##### Champion Feat
+#### Champion Feat
 
 While you have an _air_ or _water_ warp effect active, when you heal using a recovery or cast a spell that lets an ally heal using a recovery, add an extra recovery die to the healing.
 
-##### Epic Feat
+#### Epic Feat
 
 In addition to the random invocation you gain at the start of the day, you also get the talent/domain powers that go with it.
 
-#### Whiff of Sorcery
+### Whiff of Sorcery
 
 You gain a random spell from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage spellcasting sequence.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Twice per day, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer spell or a chaos mage spell the next time you cast a spell. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of spell you will be casting, since you select a spell type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic spell coming.)
 
-##### Champion Feat
+#### Champion Feat
 
 While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage (double your Charisma modifier at 5th level; triple it at 8th level).
 
-##### Epic Feat
+#### Epic Feat
 
 If you don't like the first random sorcerer spell you select for the day, you can determine another random sorcerer spell. You're stuck with the second one.
 
-### Attack Spells (1st Level+)
+## Attack Spells (1st Level+)
 
-#### Force Tentacle
+### Force Tentacle
 
 Ranged spell
 
@@ -410,19 +413,19 @@ At-Will
 
 9th level spell: 9d10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can now also target far away enemies.
 
-##### Champion Feat
+#### Champion Feat
 
 This spell's damage dice increase by one size to d12s.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, you can deal half damage on a natural even miss with this spell.
 
-#### Chaos Ray
+### Chaos Ray
 
 Ranged spell
 
@@ -446,7 +449,7 @@ Once per battle
 
 9th level spell 8d10 damage: 5d12 damage on a miss.
 
-#### Blarrrrgh!
+### Blarrrrgh
 
 Ranged spell
 
@@ -475,9 +478,9 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-### Defense Spells (1st Level+)
+## Defense Spells (1st Level+)
 
-#### Chaos Blessing
+### Chaos Blessing
 
 Close-quarters spell
 
@@ -485,13 +488,13 @@ At-Will
 
 **Effect:** Roll a d20 to determine which effect the blessing grants. Higher-level versions of the spell improve the first three blessings, but you still get only the blessing you roll.
 
-| _ **d20** _ | _ **Effect** _ |
+| _**d20**_ | _**Effect**_ |
 | --- | --- |
-| _ **1–4** _ | _Gift—_You or one of your nearby allies gains 7 temporary hit points. |
-| _ **5–8** _ | _Resilience—_You gain 7 temporary hit points. |
-| _ **9–12** _ | _Aura/tentacles—_The next enemy that moves to engage you this battle takes 2d6 damage. |
-| _ **13–16** _ | _Defense bonus—_You gain a +2 bonus to the defense of your choice (AC, PD, or MD) until an attack against that defense misses you or until the end of the battle. |
-| _ **17–20** _ | _Healing—_You or your nearby ally with the fewest hit points can heal using a recovery. (If you're the one with the fewest hit points among you and your nearby allies, it's you.) |
+| _**1–4**_ | _Gift—_You or one of your nearby allies gains 7 temporary hit points. |
+| _**5–8**_ | _Resilience—_You gain 7 temporary hit points. |
+| _**9–12**_ | _Aura/tentacles—_The next enemy that moves to engage you this battle takes 2d6 damage. |
+| _**13–16**_ | _Defense bonus—_You gain a +2 bonus to the defense of your choice (AC, PD, or MD) until an attack against that defense misses you or until the end of the battle. |
+| _**17–20**_ | _Healing—_You or your nearby ally with the fewest hit points can heal using a recovery. (If you're the one with the fewest hit points among you and your nearby allies, it's you.) |
 
 3rd level spell: _gift_ and _resilience_ now grant 12 temporary hit points; _aura/tentacles_ damage is 2d10.
 
@@ -501,19 +504,19 @@ At-Will
 
 9th level spell: _gift_ and _resilience_ now grant 60 temporary hit points; _aura/tentacles_ damage is 10d8.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The _defense bonus_ effect now applies to all the target's defenses (and therefore ends as soon as the target is missed by an attack).
 
-##### Champion Feat
+#### Champion Feat
 
 A number of times per day equal to your highest non-Charisma modifier, you can roll twice when you cast _chaos blessing_ and gain both effects (reroll a duplicate result).
 
-##### Epic Feat
+#### Epic Feat
 
 The damage dice for the _aura/tentacles_ effect increase by one size (for example, d8s to d10s).
 
-#### Warped Healing
+### Warped Healing
 
 Close-quarters spell
 
@@ -531,15 +534,15 @@ Once per battle
 
 9th level spell: 70 temporary hit points.
 
-### Iconic Spells & Feats
+## Iconic Spells & Feats
 
-In setting up your game universe, you should have a set of icons. Distribute them more or less evenly into the spell groups below according to the theme that matches best (Blood of Warriors, Light of the High Ones, Twisted Path). When the chaos mage rolls a particular icon, they can choose any spell associate that that icon's group of spells.
+In setting up your game universe, you should have a set of relationships. Distribute them more or less evenly into the spell groups below according to the theme that matches best (Blood of Warriors, Light of the High Ones, Twisted Path). When the chaos mage rolls a particular relationship, they can choose any spell associate that that relationship's group of spells.
 
-Multiple icons should belong to each group. Each group should have at-will spells and at least one per-battle and daily spell.
+Multiple relationships should belong to each group. Each group should have at-will spells and at least one per-battle and daily spell.
 
-#### Blood of Warriors
+### Blood of Warriors
 
-##### Castigation (1st level+)
+#### Castigation (1st level+)
 
 Close-quarters spell
 
@@ -563,19 +566,19 @@ At-Will
 
 9th level spell: 6d10 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 When you hit a demon with this spell, it's also hampered (save ends).
 
-###### Champion Feat
+##### Champion Feat
 
 The damage dice for the spell increase by one size (for example, d6s to d8s).
 
-###### Epic Feat
+##### Epic Feat
 
 The spell now deals half damage on a miss.
 
-##### Terribly Spiky Armor (3rd level+)
+#### Terribly Spiky Armor (3rd level+)
 
 Ranged spell
 
@@ -589,7 +592,7 @@ Daily
 
 9th level spell: 7d10 damage.
 
-##### Yours! (1st level+)
+#### Yours! (1st level+)
 
 Ranged spell
 
@@ -603,19 +606,19 @@ _1–10:_ The target can heal using a recovery.
 
 _11–20:_ The target can make a basic attack as a free action.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 When this spell allows a target to attack, the attack deals half damage on a miss instead of normal miss damage.
 
-###### Champion Feat
+##### Champion Feat
 
 The target can move as a free action before using a recovery or attacking.
 
-###### Epic Feat
+##### Epic Feat
 
 When the target heals using a recovery, it adds hit points equal to 1d10 x the escalation die to that healing.
 
-##### Ours! (1st level+)
+#### Ours! (1st level+)
 
 Ranged spell
 
@@ -625,7 +628,7 @@ Daily
 
 **Effect:** The target can heal using a free recovery, adding hit points equal to 1d6 x the escalation die to that healing. Unless you or the target is a dwarf, randomly choose one of the target's true magic items. You actively gain that item's quirk until the end of the day.
 
-##### Fiery Claw (1st level+)
+#### Fiery Claw (1st level+)
 
 Ranged spell
 
@@ -649,19 +652,19 @@ At-Will
 
 9th level spell 9d8 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 This spell can now deal holy damage instead of fire damage.
 
-###### Champion Feat
+##### Champion Feat
 
 The damage dice for this spell increase from d8s to d10s.
 
-###### Epic Feat
+##### Epic Feat
 
 This spell now deals half damage on a miss.
 
-##### Final Wrath (5th level+)
+#### Final Wrath (5th level+)
 
 Ranged spell
 
@@ -681,15 +684,15 @@ Daily
 
 9th level spell: 2d6 x 10 damage.
 
-###### Champion Feat
+##### Champion Feat
 
 This spell now deals half damage on a miss.
 
-###### Epic Feat
+##### Epic Feat
 
 This spell now targets 2d3 enemies in a group.
 
-##### War Drums (1st level+)
+#### War Drums (1st level+)
 
 Ranged spell
 
@@ -705,19 +708,19 @@ At-Will
 
 9th level spell: 83 extra damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 Add your Charisma modifier to the extra damage (double your Charisma modifier at 5th level; triple it at 8th level).
 
-###### Champion Feat
+##### Champion Feat
 
 When you cast this spell,each nearby enemy that's staggered also takes 2d6 thunder damage (4d6 thunder damage at 8th level).
 
-###### Epic Feat
+##### Epic Feat
 
 Whenthis spell's effect deals the extradamage, you can roll a hard save (16+). If you succeed, the _war drums_ keep beating and the effect extends to the next natural odd hit this battle! (And so on if you keep succeeding.)
 
-##### Savage Endings (3rd level+)
+#### Savage Endings (3rd level+)
 
 Ranged spell
 
@@ -733,21 +736,21 @@ Daily
 
 9th level spell: 10d10 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 The spell no longer targets your allies.
 
-###### Champion Feat
+##### Champion Feat
 
 The spell's damage dice increase by one size (for example, d10s to d12s).
 
-###### Epic Feat
+##### Epic Feat
 
 When you drop one or more non-mook creatures to 0 hp with this spell, you can heal using a free recovery.
 
-#### Light of the High Ones
+### Light of the High Ones
 
-##### Silver Arrows (1st level+)
+#### Silver Arrows (1st level+)
 
 Ranged spell
 
@@ -765,19 +768,19 @@ At-Will
 
 9th level spell: 27 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 This spell now targets 1d4 nearby or far away enemies.
 
-###### Champion Feat
+##### Champion Feat
 
 This spell now targets 1d6 nearby or far away enemies.
 
-###### Epic Feat
+##### Epic Feat
 
 This spell now targets a number of nearby or far away enemies equal to the escalation die.
 
-##### Cascading Power (5th level+)
+#### Cascading Power (5th level+)
 
 Ranged spell
 
@@ -793,7 +796,7 @@ After the damage, roll the escalation die and use the new result.
 
 9th level spell: Damage equal to 2d12 x the escalation die.
 
-##### Shards of Magic (1st level+)
+#### Shards of Magic (1st level+)
 
 Ranged spell
 
@@ -817,19 +820,19 @@ At-Will
 
 9th level spell: Even hit: 7d10 damage; Odd hit: 40 ongoing damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 A natural odd miss now deals damage equal to your level.
 
-###### Champion Feat
+##### Champion Feat
 
 A natural odd miss now deals half the force damage an even hit would have dealt.
 
-###### Epic Feat
+##### Epic Feat
 
 A natural even miss now allows you to teleport to a far away location you can see as a free action.
 
-##### Coronation (3rd level+)
+#### Coronation (3rd level+)
 
 Close-quarters spell
 
@@ -841,15 +844,15 @@ Daily
 
 **Hit:** The target is confused until the end of its next turn.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per battle when a staggered enemy misses you with an attack while this spell's effect is active, you can make the attack against that enemy.
 
-###### Epic Feat
+##### Epic Feat
 
 When you make a natural even roll with a _coronation_ attack, you can have the target become confused (save ends) instead of taking damage.
 
-##### Bolt and Thunder (1st level+)
+#### Bolt and Thunder (1st level+)
 
 Ranged spell
 
@@ -869,19 +872,19 @@ At-Will
 
 9th level spell: 5d8 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 This spell now deals damage equal to your level on a miss.
 
-###### Champion Feat
+##### Champion Feat
 
 The damage dice for this spell increase by one size (for example, from 3d6 to 3d8).
 
-###### Epic Feat
+##### Epic Feat
 
 This spell now deals half damage on a miss.
 
-##### The Final Surge (3rd level+)
+#### The Final Surge (3rd level+)
 
 Ranged spell
 
@@ -895,9 +898,9 @@ Daily
 
 9th level spell: 2d10 x the number of recoveries.
 
-#### Twisted Path
+### Twisted Path
 
-##### Tortured Scream (1st level+)
+#### Tortured Scream (1st level+)
 
 Ranged spell
 
@@ -921,29 +924,29 @@ At-Will
 
 9th level spell: 2d8 x 10 damage, you or ally loses 8d6 hit points.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 The spell now deals half damage on a miss.
 
-###### Champion Feat
+##### Champion Feat
 
 You or an ally now lose one less die of hit points (for example, 3d6 instead of 4d6).
 
-###### Epic Feat
+##### Epic Feat
 
 The first time each battle you miss with this spell, if the escalation die is 3+, you can reroll the attack by having you or your ally lose the same amount of hit points again.
 
-##### Trace of Corruption (1st level+)
+#### Trace of Corruption (1st level+)
 
 Ranged spell
 
 Daily
 
-**Target:** You or one nearby ally; the target must have a positive or conflicted relationship with a villainous icon
+**Target:** You or one nearby ally; the target must have a positive or conflicted relationship with a villain.
 
 **Effect:** The target rolls a save against each save ends effect affecting it. Then the target can heal using a recovery from a nearby ally (target's choice, even if that ally isn't willing).
 
-##### Evil Touch (1st level+)
+#### Evil Touch (1st level+)
 
 Close-quarters spell
 
@@ -967,19 +970,19 @@ At-Will
 
 9th level spell: 9d10 damage, 25 temporary hit points.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 This spell now deals half damage on a miss.
 
-###### Champion Feat
+##### Champion Feat
 
 When the target drops to 0 hp, instead of gaining temporary hit points, you can choose to deal that amount of negative energy damage to one nearby enemy as a free action.
 
-###### Epic Feat
+##### Epic Feat
 
 This spell can now target a nearby enemy.
 
-##### Unsummoning (7th level+)
+#### Unsummoning (7th level+)
 
 Ranged spell
 
@@ -997,15 +1000,15 @@ Replace the target with the GM's choice of an undamaged and hostile undead creat
 
 9th level spell: 8d10 + Charisma psychic damage on a miss.
 
-###### Champion Feat
+##### Champion Feat
 
 This spell can now also target an entire mob of mooks. If the attack hits, replace them with a mob of undead mooks that is one level lower.
 
-###### Epic Feat
+##### Epic Feat
 
 You don't expend the spell when you miss with it.
 
-##### Holy Spark (1st level+)
+#### Holy Spark (1st level+)
 
 Ranged spell
 
@@ -1027,19 +1030,19 @@ At-Will
 
 9th level spell: 9d8 damage, 15 temporary hit points.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 When you miss with the spell, one of your nearby allies now gains the temporary hit points.
 
-###### Champion Feat
+##### Champion Feat
 
 This spell now deals half damage on a miss.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now target a far away enemy with this spell. In addition, the spell's damage dice increase by one size from d8s to d10s.
 
-##### Temple Bells (1st level+)
+#### Temple Bells (1st level+)
 
 Ranged spell
 
@@ -1057,19 +1060,19 @@ Daily
 
 9th level spell: Target with 100 hp or fewer.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 One target that heals can also roll a save against a save ends effect.
 
-###### Champion Feat
+##### Champion Feat
 
 The recovery is now free.
 
-###### Epic Feat
+##### Epic Feat
 
 Add 50 hp to the hit point threshold for targets that can be affected.
 
-##### Shadow Dance (1st level+)
+#### Shadow Dance (1st level+)
 
 Ranged spell
 
@@ -1087,19 +1090,19 @@ At-Will
 
 9th level spell: 4d12 damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 Once per day, one or more targets of the spell can be far away.
 
-###### Champion Feat
+##### Champion Feat
 
 The damage increases by one die (for example, 2d10 becomes 3d10).
 
-###### Epic Feat
+##### Epic Feat
 
 The spell can now target up to three nearby creatures.
 
-##### Step into Shadow (3rd level+)
+#### Step into Shadow (3rd level+)
 
 Close-quarters spell
 
@@ -1111,15 +1114,15 @@ _1–4:_ You can heal using a recovery.
 
 _5+:_ You deal double damage to the first target you hit with a chaos mage spell this turn.
 
-###### Champion Feat
+##### Champion Feat
 
 You can choose to add +1 to the d6 roll after seeing it.
 
-###### Epic Feat
+##### Epic Feat
 
 If you roll 6+, you gain both effects.
 
-##### Twisted beam (1st level+)
+#### Twisted beam (1st level+)
 
 Ranged spell
 
@@ -1143,23 +1146,22 @@ At-Will
 
 9th level spell: 9d8 damage, 18 ongoing damage.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 This spell can now target far away enemies.
 
-###### Champion Feat
+##### Champion Feat
 
 A natural odd miss now deals half natural even hit damage.
 
-###### Epic Feat
+##### Epic Feat
 
 The first save against the ongoing damage from a natural even miss is a hard save (16+). The second and subsequent saves are normal.
 
-##### Ancient Scales (3rd level+)
+#### Ancient Scales (3rd level+)
 
 Ranged spell
 
 Daily
 
 **Effect:** Until the end of the battle, you have _flight_ while the escalation die is even. While the escalation die is odd, you can cast _twisted beam_ once during your turn as a quick action.
-

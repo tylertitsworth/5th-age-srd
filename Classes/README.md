@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Classes
 
 ## Class Basics
@@ -18,7 +21,7 @@ These are guidelines for allowing PCs to change their chosen spells, powers, tal
 
 #### Talents
 
-Talents are a core element of your character. If you're going to rearrange your talents, something extremely significant needs to have happened in your character's story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in icon relationships.
+Talents are a core element of your character. If you're going to rearrange your talents, something extremely significant needs to have happened in your character's story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in relationships.
 
 #### Spells
 
@@ -32,29 +35,25 @@ You can reselect your power choices when you gain a level.
 
 If you've made changes to spells and powers, revise your feats appropriately. If the changes make sense for the character's story and the GM agrees, play them.
 
-#### Incremental Advances
-
-You can gain a higher-level power or spell from an incremental advance. If you opt to raise an existing spell to a higher level, you can replace its lower-level spot with a new lower-level spell. If you swap out lower-level spell for a higher-level spell, you can't replace a spell or power you have already expended.
-
 ### Starting Stats for 1st Level Characters
 
-| **Class** | **Base HP** | **Usual Base AC\*** | **Base Physical Defense** | **Base Mental Defense** | **Background Points** | **Recovery Dice** |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Barbarian** | 7 | 12 | 11 | 10 | 8 | d10/lvl |
-| **Bard** | 7 | 12 | 10 | 11 | 8 | d8/lvl |
-| **Chaos Mage** | 6 | 10 | 10 | 11 | 8 | d6/lvl |
-| **Cleric** | 7 | 14 | 11 | 11 | 8 | d8/lvl |
-| **Commander** | 7 | 12 | 10 | 12 | 8 | d8/lvl |
-| **Druid\*\*** | 6\*\* | 10\*\* | 11 | 11 | 8 | d6/lvl\*\* |
-| **Fighter** | 8 | 15 | 10 | 10 | 8 | d10/lvl |
-| **Monk** | 7 | 10 | 11 | 11 | 8 | d8/lvl |
-| **Necromancer** | 6 | 10 | 10 | 11 | 8 | d6/lvl |
-| **Occultist** | 6 | 11 | 10 | 11 | 8 | d6/lvl |
-| **Paladin** | 8 | 16 | 10 | 12 | 8 | d10/lvl |
-| **Ranger** | 7 | 14 | 11 | 10 | 8 | d8/lvl |
-| **Rogue** | 6 | 12 | 12 | 10 | 8 | d8/lvl |
-| **Sorcerer** | 6 | 10 | 11 | 10 | 8 | d6/lvl |
-| **Wizard** | 6 | 10 | 10 | 12 | 8 | d6/lvl |
+| **Class** | **Base HP** | **Usual Base AC\*** | **Base Physical Defense** | **Base Mental Defense** | **Recovery Dice** |
+| --- | --- | --- | --- | --- | --- |
+| [**Barbarian**](./Barbarian.md#barbarian) | 7 | 12 | 11 | 10 | d10/lvl |
+| [**Bard**](./Bard.md#bard) | 7 | 12 | 10 | 11 | d8/lvl |
+| [**Chaos Mage**](./Chaos-Mage.md#chaos-mage) | 6 | 10 | 10 | 11 | d6/lvl |
+| [**Cleric**](./Cleric.md#cleric) | 7 | 14 | 11 | 11 | d8/lvl |
+| [**Commander**](./Commander.md#commander) | 7 | 12 | 10 | 12 | d8/lvl |
+| [**Druid**](./Druid.md#druid) | 6\*\* | 10\*\* | 11 | 11 | d6/lvl\*\* |
+| [**Fighter**](./Fighter.md#fighter) | 8 | 15 | 10 | 10 | d10/lvl |
+| [**Monk**](./Monk.md#monk) | 7 | 10 | 11 | 11 | d8/lvl |
+| [**Necromancer**](./Necromancer.md#necromancer) | 6 | 10 | 10 | 11 | d6/lvl |
+| [**Occultist**](./Occultist.md#occultist) | 6 | 11 | 10 | 11 | d6/lvl |
+| [**Paladin**](./Paladin.md#paladin) | 8 | 16 | 10 | 12 | d10/lvl |
+| [**Ranger**](./Ranger.md#ranger) | 7 | 14 | 11 | 10 | d8/lvl |
+| [**Rogue**](./Rogue.md#rogue) | 6 | 12 | 12 | 10 | d8/lvl |
+| [**Sorcerer**](./Sorcerer.md#sorcerer) | 6 | 10 | 11 | 10 | d6/lvl |
+| [**Wizard**](./Wizard.md#wizard) | 6 | 10 | 10 | 12 | d6/lvl |
 
 \*The base AC numbers assume that the PC is in the armor that suits them best; see the class write-ups for details. PCs who know how to fight using a shield get +1 AC when they have a shield in one hand.
 

@@ -1,31 +1,34 @@
-## Fighter
+---
+layout: doc
+---
+# Fighter
 
-### Ability Scores
+## Ability Scores
 
 Fighters gain a +2 class bonus to Strength or Constitution, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: swordmaster, mercenary captain, sea raider, shieldwall spearman, explorer, bouncer, thug, city guardsman, former gladiator, former orc captive, bankrupt nobleman, duelist, and goblin-hunter.
+Fighters get 2 skill points in any Strength or Constitution skill like Athletics and Endurance.
 
-### Gear
+## Gear
 
 At 1st level, a fighter starts with a melee weapon or two, a ranged weapon if they want it, armor, and standard non-magical gear that is suggested by the character's backgrounds.
 
-#### Gold Pieces
+### Gold Pieces
 
-Fighters may start with either 25 gp or 1d6 x 10 gp.
+Fighters start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
 | **None** | 10 | — |
 | **Light** | 13 | — |
-| _ **Heavy** _ | _15_ | — |
-| _ **Shield** _ | _+1_ | — |
+| _**Heavy**_ | _15_ | — |
+| _**Shield**_ | _+1_ | — |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ Fighters may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 shortsword, hand axe | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, warhammer | 1d10 greatsword, greataxe |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -41,9 +44,9 @@ Fighters may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
 
-### Level Progression
+## Level Progression
 
-| **Fighter Level** | **Total Hit Points** | **Total Feats** | **Maneuvers Known (M)** | **Maneuver Pool Available (M)** | **Class Talents** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Fighter Level** | **Total Hit Points** | **Total Feats** | **Maneuvers Known (H)** | **Maneuver Pool Available (H)** | **Class Talents** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 3 | 1st level | 3 | _Not affected_ | ability modifier |
 | **Level 1** | (8 + CON mod) x 3 | 1 adventurer | 3 | 1st level | 3 |  | ability modifier |
@@ -57,11 +60,11 @@ Fighters may start with either 25 gp or 1d6 x 10 gp.
 | **Level 9** | (8 + CON mod) x 20 | 4 adventurer3 champion2 epic | 7 | 9th level | 4 |  | 3 x ability modifier |
 | **Level 10** | (8 + CON mod) x 24 | 4 adventurer3 champion3 epic | 8 | 9th level | 4 | +1 to 3 abilities | 3 x ability modifier |
 
-(M): Indicates columns in which multiclass characters lag one level behind.
+(H): Indicates columns in which hybrid characters lag one level behind.
 
 Fighter weapon attack maneuvers deal damage based on the fighter's level. You also don't have to keep track of upgrading a 1st level maneuver into a 3rd level maneuver, because all the maneuvers function at your level. You can change which maneuvers you know and have ready whenever you gain a level.
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -72,18 +75,18 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 16 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 9 |
 | **Recovery Dice** | (1d10 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 points |
-| **Talents** | 3 (see level progression chart) |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points |
+| **Talents** | 3 (see [level progression chart](#level-progression)) |
 | **Feats** | 1 per Level |
 | **Ability Bonus** | +2 Strength or Constitution (different from racial bonus) |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -95,7 +98,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -107,33 +110,33 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 Fighters have two class features: Extra Tough and Threatening.
 
-#### Extra Tough
+### Extra Tough
 
 You start with nine recoveries instead of the usual eight.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Increase your total recoveries by 1.
 
-#### Threatening
+### Threatening
 
 Whenever an enemy attempts to disengage from you, it takes a penalty to its check equal to your Dexterity or Constitution modifier, whichever is higher.
 
 The penalty doesn't apply if you are stunned, grabbed, or otherwise incapable of making an opportunity attack.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Whenever an enemy fails to disengage from you, you also deal damage to that enemy equal to your Dexterity or Constitution modifier. At 5th level, damage is double the modifier. At 8th level, it's triple.
 
-##### Champion Feat
+#### Champion Feat
 
 Whenever a non-mook enemy fails to disengage from you, it's vulnerable to your attacks for the rest of the battle.
 
-### Class Talents
+## Class Talents
 
 Choose three of the following class talents.
 
@@ -141,87 +144,87 @@ You get an additional fighter class talent at 6th level.
 
 Fighters have flexible attacks called maneuvers; you roll your attack and then choose which maneuver you want the attack to use. You only get to use one maneuver with each attack, so it's usually best to choose maneuvers with a few different triggering rolls
 
-#### Cleave
+### Cleave
 
 Once per battle, make a fighter melee attack as a free action after one of your melee attacks drops an enemy to 0 hp.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If you have your move action available, you can use it before making your Cleave attack to reach an enemy you are not already engaged with.
 
-##### Champion Feat
+#### Champion Feat
 
 You can use Cleave twice each battle, but only once a round.
 
-##### Epic Feat
+#### Epic Feat
 
 You gain a +4 attack bonus with your Cleave attacks.
 
-#### Comeback Strike
+### Comeback Strike
 
 Once per battle as a free action, make another attack with a –2 penalty after your first fighter attack during your turn misses.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You no longer take the –2 penalty to your Comeback Strike attacks.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day, you can use Comeback Strike twice in a battle.
 
-##### Epic Feat
+#### Epic Feat
 
 You gain a +4 attack bonus with your Comeback Strike attacks.
 
-#### Counter-Attack
+### Counter-Attack
 
 Once per round when the escalation die is even and an enemy misses you with a natural odd melee attack roll, you can make a basic melee attack dealing half damage against that enemy as a free action. (The attack can't use any limited abilities or flexible attack maneuvers.)
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your Counter-Attack attack now deals full damage.
 
-##### Champion Feat
+#### Champion Feat
 
 You can use Counter-Attack once per turn instead of once per round (in effect, you're free to Counter-Attack once per enemy turn).
 
-##### Epic Feat
+#### Epic Feat
 
 You can now use Counter-Attack when the escalation die is 3+.
 
-#### Deadeye Archer
+### Deadeye Archer
 
 Your attacks with d8 ranged weapons (heavy crossbow, longbow) now deal d10 damage per level. Your attacks with d6 ranged weapons (light crossbow, shortbow) now deal d8 damage per level. In addition, your misses with basic ranged attacks deal damage equal to your level.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If you spend a quick action to aim before making a ranged basic attack, add your Dexterity modifier to the damage if you miss.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle, expand your crit range with a fighter ranged attack by 4 (usually to 16+) for that attack. Declare you're using this feat power before you roll the attack.
 
-##### Epic Feat
+#### Epic Feat
 
 Your crit range with ranged weapon attacks expands by 1 (usually to 19+).
 
-#### Heavy Warrior
+### Heavy Warrior
 
 Once per battle while wearing heavy armor, when you are hit by an attack that targets AC, as a free action, you can take half damage from that attack instead.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per day, you can use Heavy Warrior twice in a battle (against different attacks).
 
-##### Champion Feat
+#### Champion Feat
 
 You can also use the power against an attack that targets PD.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per day, you can reroll a recharge roll for a magic armor power.
 
-#### Power Attack
+### Power Attack
 
 Once per battle before you roll an attack, you can declare you're using Power Attack to deal additional damage with that attack roll. If the attack hits, you deal the following additional damage:
 
@@ -229,55 +232,55 @@ Deal 1d4 additional damage per level if you are using a one-handed weapon.
 
 Deal 1d6 additional damage per level if you are using a two-handed weapon.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You deal the additional Power Attack damage even if the attack misses.
 
-##### Champion Feat
+#### Champion Feat
 
 One battle per day, you can use Power Attack twice in the battle.
 
-##### Epic Feat
+#### Epic Feat
 
 One-handed weapon damage using Power Attack increases to 1d6 per level; two-handed weapon damage using Power Attack increases to 1d8 per level.
 
-#### Skilled Intercept
+### Skilled Intercept
 
 Once per round as a free action, roll a normal save (11+) to intercept an enemy who is moving to attack one of your nearby allies. You can pop free from one enemy to move and intercept the attack. If you are engaged with more than one enemy, the others can take opportunity attacks against you.
 
 The moving enemy makes its attack with you as a target instead. If you're wearing heavy armor and the attack hits, you only take half damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can pop free from up to two enemies when using Skilled Intercept.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain a bonus to your Skilled Intercept save equal to the escalation die.
 
-##### Epic Feat
+#### Epic Feat
 
 Enemies can't make opportunity attacks against you during your Skilled Intercept movement.
 
-#### Tough as Iron
+### Tough as Iron
 
 Once per battle, you can rally using a quick action instead of a standard action.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per day, you can rally twice during a battle as a quick action, without needing to roll a save for the second rally.
 
-##### Champion Feat
+#### Champion Feat
 
 Increase your total number of recoveries by 2.
 
-##### Epic Feat
+#### Epic Feat
 
 When you roll a natural 20 with an attack, you gain an additional use of Tough As Iron this battle.
 
-### 1st Level Maneuvers
+## 1st Level Maneuvers
 
-#### Brace for It
+### Brace for It
 
 Flexible melee attack
 
@@ -285,15 +288,15 @@ Flexible melee attack
 
 **Effect:** Until the end of your next turn, the first critical hit you take from a melee attack becomes a normal hit instead.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 _Brace for it_ now works against a critical hit from any type of attack.
 
-##### Champion Feat
+#### Champion Feat
 
 _Brace for it_ works against any number of critical hits before your next turn.
 
-#### Carve an Opening
+### Carve an Opening
 
 Flexible melee attack
 
@@ -301,11 +304,11 @@ Flexible melee attack
 
 **Effect:** Your crit range with melee attacks expands by a cumulative +1 this battle until you score a melee critical hit. When you score a melee critical hit, your crit range drops back to normal.
 
-##### Champion Feat
+#### Champion Feat
 
 The crit range bonus from carve an opening is +2 instead of +1.
 
-#### Deadly Assault
+### Deadly Assault
 
 Flexible melee or ranged attack
 
@@ -313,15 +316,15 @@ Flexible melee or ranged attack
 
 **Effect:** Reroll any 1s from your damage roll. You're stuck with the rerolls.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Now you can reroll both 1s and 2s with deadly assault.
 
-##### Champion Feat
+#### Champion Feat
 
 _Deadly assault_ now also triggers on a natural 17+.
 
-#### Defensive Fighting
+### Defensive Fighting
 
 Flexible melee attack
 
@@ -329,19 +332,19 @@ Flexible melee attack
 
 **Effect:** Gain a +2 bonus to AC until the end of your next turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You also gain the bonus to Physical Defense.
 
-##### Champion Feat
+#### Champion Feat
 
 The bonus increases to +3.
 
-##### Epic Feat
+#### Epic Feat
 
 You also gain the bonus to Mental Defense.
 
-#### Grim Intent
+### Grim Intent
 
 Flexible melee attack
 
@@ -349,7 +352,7 @@ Flexible melee attack
 
 **Effect:** The next time you would deal miss damage with a melee attack, add a WEAPON die to that damage. At 5th level, instead add 2 total WEAPON dice; at 8th level, instead add 3 total WEAPON dice.
 
-#### Heavy Blows
+### Heavy Blows
 
 Flexible melee attack
 
@@ -357,15 +360,15 @@ Flexible melee attack
 
 **Effect:** You gain a bonus to your miss damage with that attack equal to the escalation die.
 
-##### Champion Feat
+#### Champion Feat
 
 If you attacked with a two-handed weapon, _heavy blows_ can trigger on any miss, odd or even.
 
-##### Epic Feat
+#### Epic Feat
 
 The bonus instead equals double the escalation die with a one-handed weapon, or triple it with a two-handed weapon.
 
-#### Precision Attack
+### Precision Attack
 
 Flexible melee attack
 
@@ -373,7 +376,7 @@ Flexible melee attack
 
 **Effect:** You gain a bonus to the damage roll equal to your Dexterity modifier. At 5th level, the damage bonus increases to double your Dexterity modifier; at 8th level the damage bonus increases to triple it.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can now use _precision attack_ with a ranged attack.
 
@@ -387,11 +390,11 @@ Flexible ranged attack
 
 You can't use any maneuvers with the second attack.
 
-##### Champion Feat
+#### Champion Feat
 
 The _second shot_ attack penalty is –2 instead.
 
-#### Shield Bash
+### Shield Bash
 
 Flexible melee attack
 
@@ -401,15 +404,15 @@ Flexible melee attack
 
 **Effect:** The target pops free from you after the attack (does not allow opportunity attacks).
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If the target is also engaged with any of your allies, you can have it pop free from them as well.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle, you can also daze the target (save ends) of your shield bash attack, if that enemy is staggered.
 
-#### Two-Weapon Pressure
+### Two-Weapon Pressure
 
 Flexible melee attack
 
@@ -419,13 +422,13 @@ Flexible melee attack
 
 **Effect:** Until the end of your next turn, you gain a +2 melee attack bonus against the target.
 
-##### Champion Feat
+#### Champion Feat
 
 The bonus increases to +4.
 
-### 3rd Level Maneuvers
+## 3rd Level Maneuvers
 
-#### Hack & Slash
+### Hack & Slash
 
 Flexible melee attack
 
@@ -435,7 +438,7 @@ Flexible melee attack
 
 **Effect:** Make another melee weapon attack against a different target.
 
-#### Make 'em Flinch
+### Make 'em Flinch
 
 Flexible ranged attack
 
@@ -443,7 +446,7 @@ Flexible ranged attack
 
 **Effect:** Add the higher modifier from your Strength or Dexterity to the miss damage. At 5th level the damage bonus increases to double your chosen modifier; at 8th level the damage bonus increases to triple it.
 
-#### Punish Them
+### Punish Them
 
 Flexible melee attack
 
@@ -453,19 +456,19 @@ Flexible melee attack
 
 **Effect:** The target is dazed until the end of its turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If the target was moving, it stops moving and loses the rest of its move action.
 
-##### Champion Feat
+#### Champion Feat
 
 The dazed effect is now save ends.
 
-##### Epic Feat
+#### Epic Feat
 
 The target is now weakened (save ends) instead of dazed.
 
-#### Steady Now
+### Steady Now
 
 Flexible melee attack
 
@@ -473,11 +476,11 @@ Flexible melee attack
 
 **Effect:** You gain temporary hit points equal to your Constitution modifier.
 
-##### Champion Feat
+#### Champion Feat
 
 The temporary hit points increase to double your Constitution modifier.
 
-#### Strong Guard
+### Strong Guard
 
 Flexible melee attack
 
@@ -487,17 +490,17 @@ Flexible melee attack
 
 **Effect:** One ally next to you (including an ally engaged with the same enemy as you) gains a +2 AC bonus until the start of your next turn or until you are no longer next to them.
 
-##### Champion Feat
+#### Champion Feat
 
 Bonus also applies to PD.
 
-##### Epic Feat
+#### Epic Feat
 
 Bonus increases to +3.
 
-### 5th Level Maneuvers
+## 5th Level Maneuvers
 
-#### A Dozen Cuts
+### A Dozen Cuts
 
 Flexible melee attack
 
@@ -505,11 +508,11 @@ Flexible melee attack
 
 **Effect:** The target also takes ongoing damage equal to double your Dexterity modifier, or triple it at 8th level.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle, you can trigger _a dozen cuts_ with a natural odd hit.
 
-#### Hero's Skill
+### Hero's Skill
 
 Flexible melee or ranged attack
 
@@ -517,15 +520,15 @@ Flexible melee or ranged attack
 
 **Effect:** Add +2 to the attack roll, then halve any damage dealt by the attack if it hits.
 
-##### Champion Feat
+#### Champion Feat
 
 Add +4 to the attack roll instead of +2.
 
-##### Epic Feat
+#### Epic Feat
 
 The damage is no longer halved on a hit after using _hero's skill_.
 
-#### Sword Master's Anticipation
+### Sword Master's Anticipation
 
 Flexible melee attack
 
@@ -535,9 +538,9 @@ Flexible melee attack
 
 **Effect:** The next time you use Skilled Intercept this battle, your Skilled Intercept save automatically succeeds.
 
-### 7th Level Maneuvers
+## 7th Level Maneuvers
 
-#### Never Surrender
+### Never Surrender
 
 Flexible melee attack
 
@@ -545,11 +548,11 @@ Flexible melee attack
 
 **Effect:** You can roll a save against a save ends effect.
 
-##### Epic Feat
+#### Epic Feat
 
 You gain a +2 bonus to the save.
 
-#### Spinning Charge
+### Spinning Charge
 
 Flexible melee attack
 
@@ -561,11 +564,11 @@ Flexible melee attack
 
 You can't use any maneuvers with the second attack, and it deals only half damage.
 
-##### Epic Feat
+#### Epic Feat
 
 If the escalation die is 3+, the second _spinning charge_ attack deals full damage.
 
-#### Sword of Destiny
+### Sword of Destiny
 
 Flexible melee attack
 
@@ -573,13 +576,13 @@ Flexible melee attack
 
 **Effect:** You can heal using a free recovery.
 
-##### Epic Feat
+#### Epic Feat
 
 If the escalation die is 3+, you can now trigger _sword of destiny_ with a natural 18+.
 
-### 9th Level Maneuvers
+## 9th Level Maneuvers
 
-#### Combat Mastery
+### Combat Mastery
 
 Flexible melee attack
 
@@ -589,11 +592,11 @@ Flexible melee attack
 
 **Effect:** Increase the escalation die by 1.
 
-##### Epic Feat
+#### Epic Feat
 
 _Combat mastery_ now also triggers on any natural even hit.
 
-#### Set 'em Up
+### Set 'em Up
 
 Flexible melee attack
 
@@ -601,7 +604,6 @@ Flexible melee attack
 
 **Effect:** The crit range of your attacks against the target expands by 3 (generally 17+) until the end of the battle (cumulative).
 
-##### Epic Feat
+#### Epic Feat
 
 The crit range bonus from _set 'em up_ now also applies to any ally who attacks the target while you are engaged with it.
-

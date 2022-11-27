@@ -1,31 +1,34 @@
-## Druid
+---
+layout: doc
+---
+# Druid
 
-### Ability Scores
+## Ability Scores
 
 Druids gain a +2 class bonus to Strength, Dexterity, or Wisdom, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: orc-tribe hunter/gatherer, avalanche prophet, cult zealot, river guide, tribe healer, failed shaman, wild temple priest, mystic waterfall guardian, and raised by wolverines.
+Druids get 2 skill points in any Strength, Dexterity, or Wisdom skill like Athletics, Sleight of Hand, and Survival.
 
-### Gear
+## Gear
 
 At 1st level, druids start with a melee weapon, light armor, possibly a staff, perhaps a bow or other ranged weapon, and other minor possessions suggested by their backgrounds.
 
-#### Gold Pieces
+### Gold Pieces
 
-Druids may start with either 25 gp or 1d6 x 10 gp.
+Druids start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
-| _ **None** _ | _10_ | — |
-| _ **Light** _ | _10\*_ | — |
+| _**None**_ | _10_ | — |
+| _**Light**_ | _10\*_ | — |
 | **Heavy** | 14 | -2 |
 | **Shield** | +1 | -2\* |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -35,7 +38,7 @@ Druids may start with either 25 gp or 1d6 x 10 gp.
 
 \*Warrior druid talent choices can change shield and one-handed weapon stats.
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -43,7 +46,7 @@ Druids may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 (-2 atk) light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 (–2 atk) longbow |
 
-### Level Progression
+## Level Progression
 
 | **Druid Level** | **Total Hit Points\*** | **Total Feats** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- |
@@ -68,7 +71,7 @@ Druids may start with either 25 gp or 1d6 x 10 gp.
  3 champion
  3 epic | +1 to 3 abilities | 3 x ability modifier |
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -78,17 +81,17 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | (probably) 8 |
 | **Recovery Dice** | (1d6 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 (4 at 5th level; 5 at 8th level) |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 (4 at 5th level; 5 at 8th level) |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -100,7 +103,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -112,7 +115,7 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 Druids use divine implements, such as symbols and staffs, to improve their spellcasting. They can choose up to three talents to have many useful aptitudes, or they can specialize by putting two points into one talent (and the other into another talent). A druid who chooses three separate talents is an _initiate_ in each one. Investing two points into a single talent allows the druid to become _adept_ in that talent, thereby gaining more power at the expense of options, and an _initiate_ in another talent.
 
@@ -122,31 +125,31 @@ You never suffer from natural weather-related cold, heat, or exposure. You can g
 
 You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Shifter or Animal Companion talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Terrain Caster talent.
 
-#### Adventurer Feat
+### Adventurer Feat
 
 You can talk with plants and animals pretty much as often you like, and you gain a +5 bonus to any skill checks involved.
 
-### Druid Talents
+## Druid Talents
 
 Each of your talents unlocks pools of spells and powers that are not available to characters who lack the talent. Druids who choose to be an adept with a talent gain additional benefits and powers in that talent.
 
-_ **Animal Companion:** _ As an initiate talent, it's based on the ranger's Animal Companion talent, but it's only useful in half your battles instead of all the time. If you choose to be an Animal Companion adept, your animal companion will be with you every battle and you also learn spells that make your animal companion more effective.
+_**Animal Companion:**_ As an initiate talent, it's based on the ranger's Animal Companion talent, but it's only useful in half your battles instead of all the time. If you choose to be an Animal Companion adept, your animal companion will be with you every battle and you also learn spells that make your animal companion more effective.
 
-_ **Elemental Caster:** _ This talent is one of the druid's two main spellcasting options. As an initiate talent, it grants access to a wide range of daily spells associated with air, earth, fire, and water. Becoming an Elemental Caster adept increases the number of spells you know and provides greater access to summoned elementals. As either an initiate or an adept, you can use adventurer-tier elemental mastery feats to gain at-will spell attacks.
+_**Elemental Caster:**_ This talent is one of the druid's two main spellcasting options. As an initiate talent, it grants access to a wide range of daily spells associated with air, earth, fire, and water. Becoming an Elemental Caster adept increases the number of spells you know and provides greater access to summoned elementals. As either an initiate or an adept, you can use adventurer-tier elemental mastery feats to gain at-will spell attacks.
 
-_ **Shifter:** _ This talent enables you to shift your form in two ways: scout form transformations into quick-moving animals for out of combat reconnaissance, and beast form transformations into combat-ready predators. Adepts gain more benefits while fighting in beast form.
+_**Shifter:**_ This talent enables you to shift your form in two ways: scout form transformations into quick-moving animals for out of combat reconnaissance, and beast form transformations into combat-ready predators. Adepts gain more benefits while fighting in beast form.
 
-_ **Terrain Caster:** _ This talent is the druid's other major spellcasting option. As an initiate, you gain access to daily spells that you can only cast in one of the eight specific types of terrain. Adepts get twice as many daily spells. Feats provide at-will spell attacks that can be used regardless of what terrain you are in.
+_**Terrain Caster:**_ This talent is the druid's other major spellcasting option. As an initiate, you gain access to daily spells that you can only cast in one of the eight specific types of terrain. Adepts get twice as many daily spells. Feats provide at-will spell attacks that can be used regardless of what terrain you are in.
 
-_ **Warrior Druid:** _ This talent lets a druid use once-per-battle flexible attacks that enable them to fight as a serious melee combatant in humanoid form. Generally, this talent makes druids into weapon and shield users, but the talent can integrate with the Shifter talent while a druid fights in beast form.
+_**Warrior Druid:**_ This talent lets a druid use once-per-battle flexible attacks that enable them to fight as a serious melee combatant in humanoid form. Generally, this talent makes druids into weapon and shield users, but the talent can integrate with the Shifter talent while a druid fights in beast form.
 
-_ **Wild Healer:** _ As an initiate talent, it gives you access to _regeneration_ spells and eventually a _wild heal_ spell. Adepts get enough _regeneration_ spells, _wild heal_ spells, and _greater regeneration_ spells to be a primary healer in any adventuring group.
+_**Wild Healer:**_ As an initiate talent, it gives you access to _regeneration_ spells and eventually a _wild heal_ spell. Adepts get enough _regeneration_ spells, _wild heal_ spells, and _greater regeneration_ spells to be a primary healer in any adventuring group.
 
-#### Animal Companion
+### Animal Companion
 
-You have a normal-sized animal companion that fights alongside you in battle. See Animal Companion Rules.
+You have a normal-sized animal companion that fights alongside you in battle. See [Animal Companion Rules](#animal-companion-rules).
 
-#### Elemental Caster
+### Elemental Caster
 
 As an elemental caster, you can summon elementals and draw on the raw magic of nature, providing many powerful daily spells. Like a wizard or cleric, you choose the Elemental Caster spells you will be able to cast after each full heal-up.
 
@@ -154,7 +157,7 @@ You can choose as many feats as you wish from feat trees related to mastering th
 
 Elemental caster initiates can cast fewer daily spells than adepts. Adepts are also able to use two different _summon elemental_ spells each day, to the initiate's one.
 
-##### Elemental Caster Initiate Level Progression
+#### Elemental Caster Initiate Level Progression
 
 | **Druid Level** | **1st level** | **3rd level** | **5th level** | **7th level** | **9th level** |
 | --- | --- | --- | --- | --- | --- |
@@ -170,7 +173,7 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | **Level 9** | — | — | — | 2 | 1 |
 | **Level 10** | — | — | — | 1 | 2 |
 
-##### Elemental Caster Adept Level Progression
+#### Elemental Caster Adept Level Progression
 
 | **Druid Level** | **1st level** | **3rd level** | **5th level** | **7th level** | **9th level** |
 | --- | --- | --- | --- | --- | --- |
@@ -186,21 +189,21 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 | **Level 9** | — | — | — | 3 | 3 |
 | **Level 10** | — | — | — | 2 | 4 |
 
-##### Air Mastery
+#### Air Mastery
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _hail hail_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 All elementals you summon gain a bonus to disengage checks equal to your Strength or Dexterity modifier.
 
-###### Epic Feat
+##### Epic Feat
 
 The first daily Air spell you cast each day is now a recharge 16+ after battle spell for the rest of the day.
 
-###### Hail Hail
+##### Hail Hail
 
 Ranged spell
 
@@ -224,21 +227,21 @@ At-Will
 
 9th level spell: 7d10 damage, 4d6 mook damage on odd hit.
 
-##### Earth Mastery
+#### Earth Mastery
 
-###### _ **Adventurer Feat** _
+##### _**Adventurer Feat**_
 
 You gain the _ripping vines_ spell below.
 
-###### _ **Champion Feat** _
+##### _**Champion Feat**_
 
 Enemies roll two d20 when they attempt to disengage from elementals you summon, and must take the lower result.
 
-###### _ **Epic Feat** _
+##### _**Epic Feat**_
 
 The first daily Earth spell you cast each day is now a recharge 16+ after battle spell for the rest of the day.
 
-###### _ **Ripping Vines** _
+##### _**Ripping Vines**_
 
 Ranged spell
 
@@ -262,21 +265,21 @@ At-Will
 
 9th level spell: 7d10 damage, ongoing damage equal to triple your Strength or Dexterity modifier on a natural odd hit.
 
-##### Fire Mastery
+#### Fire Mastery
 
-###### _ **Adventurer Feat** _
+##### _**Adventurer Feat**_
 
 You gain the _flame spear_ spell below.
 
-###### _ **Champion Feat** _
+##### _**Champion Feat**_
 
 When an elemental you have summoned drops to 0 hp, one enemy engaged with it takes damage equal to your level + double your Wisdom modifier.
 
-###### _ **Epic Feat** _
+##### _**Epic Feat**_
 
 The first daily Fire spell you cast each day is now a recharge 16+ after battle spell for the rest of the day.
 
-###### _ **Flame Spear** _
+##### _**Flame Spear**_
 
 Ranged spell
 
@@ -298,21 +301,21 @@ At-Will
 
 9th level spell: 10d10 damage, 4d6 damage on odd hit.
 
-##### Water Mastery
+#### Water Mastery
 
-###### _ **Adventurer Feat** _
+##### _**Adventurer Feat**_
 
 You gain the _deeper waters_ spell below.
 
-###### _ **Champion Feat** _
+##### _**Champion Feat**_
 
 Each elemental you summon gains temporary hit points equal to your level the first time each turn it rolls a natural even attack roll.
 
-###### _ **Epic Feat** _
+##### _**Epic Feat**_
 
 The first daily Water spell you cast each day is now a recharge 16+ after battle spell for the rest of the day.
 
-###### _ **Deeper Waters** _
+##### _**Deeper Waters**_
 
 Ranged spell
 
@@ -334,11 +337,11 @@ At-Will
 
 9th level spell: 8d10 damage.
 
-##### 1st Level Spells
+#### 1st Level Spells
 
 Spells that include the name of the elemental domain in their title, such as _earth strength_ and _faerie fire_, don't require domain markers. Spells whose names aren't self-explanatory are marked with their domain in parentheses.
 
-###### Earth Strength
+##### Earth Strength
 
 Ranged spell
 
@@ -362,7 +365,7 @@ _Staggered target:_ The target can heal using a recovery.
 
 9th level spell: The spell targets two random nearby allies instead of one.
 
-###### Faerie Fire
+##### Faerie Fire
 
 Ranged spell
 
@@ -384,7 +387,7 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-###### Gust (Air)
+##### Gust (Air)
 
 Close-quarters spell
 
@@ -408,7 +411,7 @@ Daily
 
 9th level spell: 2d8 x 10 damage, and 15 ongoing cold damage.
 
-###### Water Breathing
+##### Water Breathing
 
 Ranged spell
 
@@ -426,7 +429,7 @@ Quick action to cast
 
 9th level spell: The effect lasts until your next full heal-up.
 
-##### 3rd Level Spells
+#### 3rd Level Spells
 
 The 3rd level Elemental Caster spells are the four elemental summoning spells: _summon air elemental_, _summon earth elemental_, _summon fire elemental_, and _summon water elemental_. Each summoning spell summons an elemental of the same level as the spell.
 
@@ -436,23 +439,23 @@ Each elemental that's at least 5th level has a transformation ability that great
 
 Initiates can choose only one _summon elemental_ spell each day, while adepts can choose up to two.
 
-(See Summoning Rules for the basic summoning rules.)
+(See [Summoning Rules](../General-Rules/Summoning.md) for the basic summoning rules.)
 
 These feats apply to the following summoning spells.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 Your summoned creatures can arrive anywhere you can see nearby, instead of needing to appear beside you.
 
-###### Champion Feat
+##### Champion Feat
 
 When you summon a non-mook creature, roll 2d10 and add double your Strength modifier or Dexterity modifier, whichever is higher. Your summoned creature increases its base hit points by that amount. (At 8th level, roll 3d10 and add triple the modifier.)
 
-###### Epic Feat
+##### Epic Feat
 
 Once per day when you heal using a recovery, a creature you summoned can heal the same amount, ignoring the usual restrictions on limited healing for summoned creatures.
 
-###### Summon Air Elemental (3rd level+)
+##### Summon Air Elemental (3rd level+)
 
 Ranged spell
 
@@ -466,7 +469,7 @@ Daily
 
 9th level spell: You now summon a 9th level epic air elemental (85 hp).
 
-###### Summon Earth Elemental (3rd level+)
+##### Summon Earth Elemental (3rd level+)
 
 Ranged spell
 
@@ -480,7 +483,7 @@ Daily
 
 9th level spell: You now summon a 9th level epic earth elemental (70 hp).
 
-###### Summon Fire Elemental (3rd level+)
+##### Summon Fire Elemental (3rd level+)
 
 Ranged spell
 
@@ -494,7 +497,7 @@ Daily
 
 9th level spell: You can now summon a 9th level epic fire elemental (83 hp).
 
-###### Summon Water Elemental (3rd level+)
+##### Summon Water Elemental (3rd level+)
 
 Ranged spell
 
@@ -508,9 +511,9 @@ Daily
 
 9th level spell: You summon a 9th level epic water elemental (80 hp).
 
-##### 5th Level Spells
+#### 5th Level Spells
 
-###### Flame Seeds (Fire)
+##### Flame Seeds (Fire)
 
 Ranged spell
 
@@ -528,7 +531,7 @@ Daily
 
 9th level spell: 8d12 damage.
 
-###### Fog Bank (Water)
+##### Fog Bank (Water)
 
 Ranged spell
 
@@ -540,9 +543,9 @@ Daily
 
 9th level spell: You can now choose which creatures in the battle the spell targets.
 
-##### 7th Level Spells
+#### 7th Level Spells
 
-###### Lightning Strikes (Air)
+##### Lightning Strikes (Air)
 
 Ranged spell
 
@@ -560,9 +563,9 @@ Daily
 
 9th level spell: 10d12 damage; 25 miss damage.
 
-##### 9th Level Spells
+#### 9th Level Spells
 
-###### Wall of Stone (Earth)
+##### Wall of Stone (Earth)
 
 Ranged spell
 
@@ -574,35 +577,35 @@ You, the spellcasting druid, can move through the wall at will, but you can't en
 
 The wall isn't permanent: walls of stone generally disappear at sunrise or sunset.
 
-##### Summoning Rules
+#### Summoning Rules
 
 These general rules also apply to the necromancer's Summoning class feature.
 
-###### Standard action spells
+##### Standard action spells
 
 Casting a summoning spell generally requires a standard action. The creature(s) you summon appears next to you, though feats or powers might enable you to summon it nearby instead.
 
-###### Duration
+##### Duration
 
 A summoned creature fights for you until the end of the battle or until it drops to 0 hit points. At 0 hp, summoned creatures are slain and removed from the battle.
 
-###### One summoning spell at a time
+##### One summoning spell at a time
 
 Each spellcaster can have only a single summoning spell active at a time. If all the creatures from an earlier summoning spell have been slain, you're free to cast another. Alternatively, you can dismiss your own previously summoned creatures as a quick action to clear the way for a new summoning spell.
 
-###### Halfway there
+##### Halfway there
 
 Summoned creatures are not the same as real creatures. They're partly real, partly magical. Their abilities don't always match the capabilities of the creatures that the adventurers encounter _for real_. Sometimes this is reflected in a summoned creature's attacks or abilities. It's always reflected in a summoned creature's hit points.
 
-###### Hit points
+##### Hit points
 
 Each summoned creature stat block indicates its base hit points. Starting hit points for summoned creatures are nearly always lower than hit points for non-summoned versions of the same creature. Some class feats might increase the hit points of summoned creatures.
 
-###### Actions on arrival
+##### Actions on arrival
 
 The turn you summon a creature, that creature takes its turn immediately after your turn in initiative order. During its turn, the summoned creature can act like any other creature, taking a standard, move, and quick action. The summoned creature continues to take its turn immediately after you (even if your initiative order changes) until the end of the battle.
 
-###### Escalation die
+##### Escalation die
 
 As a rule, summoned creatures don't benefit from the escalation die. A summoned creature can add the escalation die to attacks, however, if _you use a quick action_ to give it orders or magical reinforcement. The summoned creature then gets to use the escalation die until the start of your next turn, including for opportunity attacks and other attacks that it gets to make during other creatures' turns.
 
@@ -610,27 +613,27 @@ For example, during the turn you summon the creature, you use a quick action aft
 
 If you've summoned a mob of mooks, a single quick action lets every member of the mob use the escalation die.
 
-###### Allies
+##### Allies
 
 Summoned creatures generally count as your allies (for roleplaying as well as for resolving effects).
 
-###### No recoveries, bad healing
+##### No recoveries, bad healing
 
 Summoned creatures don't have recoveries. If you cast a healing spell on a summoned creature that requires the use of a recovery, the summoned creature heals hit points equal to your level. If you use an effect that would heal a summoned creature without using a recovery, the summoned creature only heals half the normal hit points of the effect. Temporary hit points still work normally.
 
-###### No nastier specials
+##### No nastier specials
 
 Creatures you summon don't use nastier specials.
 
-###### Spell or creature
+##### Spell or creature
 
 When a summoning spell is cast, it's definitely a spell. After casting the spell, a summoned creature is a creature.
 
-#### Shifter
+### Shifter
 
 You glory in shifting into the forms of animals that nature blessed with keen eyes, swift wings, and terrible fangs. You also gain a number of aspects that you can assume while battling in beast form to improve your capabilities.
 
-##### Shifter Initiate Level Progression
+#### Shifter Initiate Level Progression
 
 | **Druid Level** | **Daily Scout Form Shifts** | **Daily Beast Form Shifts** | **Daily Beast Form Aspects** |
 | --- | --- | --- | --- |
@@ -646,7 +649,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | **Level 9** | 2 | 2 | 2 |
 | **Level 10** | 2 | 2 | 2 |
 
-##### Shifter Adept Level Progression
+#### Shifter Adept Level Progression
 
 | **Druid Level** | **Daily Scout Form Shifts** | **Daily Beast Form Shifts** | **Daily Beast Form Aspects** |
 | --- | --- | --- | --- |
@@ -662,27 +665,27 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 | **Level 9** | 3 | At-will | 5 |
 | **Level 10** | 3 | At-will | 5 |
 
-##### Scout Form
+#### Scout Form
 
 Scout forms are magical versions of normal, smaller animals that are useful for scouting, such as bobcats, coyotes, owls, lizards, dire rats, giant spiders, and so on. In scout form, you shouldn't have any problem slipping through the world without being troubled by any but the most serious defenses. However, you don't look like a natural animal; there's something extremely magical about you.
 
 Becoming a small animal isn't a perfect translation of self. Your humanoid brain doesn't work the same when you've shifted into scout form. You don't talk. You can't cast spells. Your magical items and possessions change shape with you, but you don't get to use them in scout form. You maintain your identity and know who your allies are, but you're as much an animal as a person while in the form.
 
-###### Fighting in Scout Form
+##### Fighting in Scout Form
 
 Fighting in scout form should be avoided unless you're fighting a mundane animal. If you do attempt to fight, your attacker hits you unless he rolls a natural 1, and taking damage this way transforms you back into humanoid form.
 
-###### Shifting Into Scout Form and Back
+##### Shifting Into Scout Form and Back
 
 Transforming from humanoid or beast form into scout form requires a standard action. To transform back to human form from scout form requires a quick action. A Shifter adept can transform directly from scout to beast form (as a quick action), but a Shifter initiate must transform to human form first. You can only shift once per round. You can stay in scout form as long as you like, or switch back to humanoid form and then back again the next round.
 
-###### Using Scout Form Shifts
+##### Using Scout Form Shifts
 
 Shifting into scout form is a daily, but you can do it at will. You can shift for roleplaying reasons, or for combat reconnaissance. To gain an advantage for an upcoming battle (or one just about to start), using your scout form requires a skill check.
 
 Before rolling initiative, you expend one daily scout form use and roll a skill check to see how successful you were with your combat recon. Depending on the terrain, the weather, and the particular enemies or dangers, the GM will ask you to use an ability score that makes sense for the situation just like any other check, though Wisdom, Dexterity, and Strength are often common choices.
 
-You'll normally roll against the standard difficulty of the current environment. While in scout form in an adventurer-tier area, the normal check starts at DC 15, a hard check is DC 20, and a ridiculously hard check is DC 25. Champion tier increases the DC by 5, and epic tier by 5 more.Note that a successful check that qualifies for a higher DC gains you the information/advantage for that result, plus any lower results. A normal success or better probably negates any chance of an ambush or surprise by the enemy you've scouted.
+You'll normally roll against the standard difficulty of the current environment. While in scout form in an adventurer-tier area, the normal check starts at DC 15, a hard check is DC 20, and a ridiculously hard check is DC 25. Champion tier increases the DC by 5, and epic tier by 5 more. Note that a successful check that qualifies for a higher DC gains you the information/advantage for that result, plus any lower results. A normal success or better probably negates any chance of an ambush or surprise by the enemy you've scouted.
 
 **Failure:** Nothing came of your scouting.
 
@@ -690,33 +693,26 @@ You'll normally roll against the standard difficulty of the current environment.
 
 **Hard success:** As a free action at some point during the battle, you can grant one of your allies a reroll on an attack roll or save. That ally must take the new result. You must explain how something that happened while you were scouting contributed to this benefit.
 
-**Ridiculously hard success:** The GM chooses between giving _you_ a reroll at some point during the battle, or giving you a floating story-guide icon relationship result of 6 with a random icon.
+**Ridiculously hard success:** The GM chooses between giving _you_ a reroll at some point during the battle, or giving you a floating story-guided relationship point with a relevant relationship.
 
 You only need to take one of the two adventurer-tier feats to access the champion-tier feat. You can also take both adventurer-tier feats, if you wish.
 
 _Adventurer Feat_
-
-Your temporary animal background roll is a 1d6 instead of 1d4 + 1, and count a 1 rolled as a 2.
-
-_Adventurer Feat_
-
 A normal success with your combat recon skill check also grants your allies a +2 bonus to initiative this battle.
 
 _Champion Feat_
-
 Rerolls from your combat recon exploits gain a +2 bonus.
 
 _Epic Feat_
-
 You now get two benefits instead of one when you succeed at a ridiculously hard skill check with your scout form.
 
-##### Beast Form
+#### Beast Form
 
 Shifter initiates have a certain number of uses of beast form each day, allowing them to fight one or more battles in the shape of powerful predators. Since beast form transformations are like other daily powers, lasting no more than five minutes, Shifter initiates seldom stay in beast form, instead moving around in humanoid form or scout form.
 
 Shifter adepts can use beast form at-will.
 
-###### Beast Form
+##### Beast Form
 
 Daily for Shifter initiates (1 or 2 uses)
 
@@ -730,17 +726,17 @@ The choice of what type of animal you become is up to you. You don't always have
 
 Shifter adepts can speak in growly voices and cast spells while in beast form. Shifter initiates can speak in beast form but can't cast spells unless they take the champion-tier feat below.
 
-_ **Magic items:** _ Your magic items stick with you and you get the benefit of their default bonuses. Yes, this means the bonuses from your magic axe translate to your beast form. Shifter adepts can use their magic item powers while in beast form. Shifter initiates can't, but see the champion-tier feat below.
+_**Magic items:**_ Your magic items stick with you and you get the benefit of their default bonuses. Yes, this means the bonuses from your magic axe translate to your beast form. Shifter adepts can use their magic item powers while in beast form. Shifter initiates can't, but see the champion-tier feat below.
 
-_ **Beast form actions:** _ Shifter adepts can shift freely between humanoid form and beast form during a battle. Shifter initiates who shift into beast form use up one of their daily beast form shifts, but they can shift between beast form and humanoid form without using a daily shift for the rest of that battle.
+_**Beast form actions:**_ Shifter adepts can shift freely between humanoid form and beast form during a battle. Shifter initiates who shift into beast form use up one of their daily beast form shifts, but they can shift between beast form and humanoid form without using a daily shift for the rest of that battle.
 
 For both adepts and initiates, shifting to humanoid form during your turn is a quick action. So is shifting back to beast form.
 
-_ **Beast aspects:** _ While in beast form, you can take on aspects of different beasts to help you in battle (see below). You don't have to use the aspects; they're an option to improve your beast form attacks and powers, not a requirement.
+_**Beast aspects:**_ While in beast form, you can take on aspects of different beasts to help you in battle (see below). You don't have to use the aspects; they're an option to improve your beast form attacks and powers, not a requirement.
 
 While in beast form, you attack in melee using a _beast form attack_.
 
-###### Beast Form Attack
+##### Beast Form Attack
 
 Melee attack
 
@@ -755,20 +751,15 @@ At-Will
 **Miss:** Repeat the attack against the same or a different target. This second attack has no _miss_ effect.
 
 _Adventurer Feat_
-
 For both initiates and adepts, your second beast form attack (the one you roll when the first attack misses) now deals miss damage equal to your level. If you are a Shifter adept, you can have two beast aspects active at the same time. If you start using a third aspect, one of the two previous aspects of your choice ends.
 
 _Champion Feat_
-
 If you are a Shifter initiate, you can now cast spells and use magic item powers while in beast form. If you are a Shifter adept, you can have three beast aspects active at the same time. If you start using a fourth aspect, one of the two previous aspects of your choice ends.
 
 _Epic Feat_
-
 If you are a Shifter adept, your beast form can now be a lycanthropic form when you wish—furred, deadly, and possessing a new power that you can use only while in lycanthropic form: _shake it off_.
 
-_Shake It Off_
-
-**Special:** You gain access to this power by taking the epic feat for _beast form attack_. To use it, you must be using at least one beast aspect.
+_Shake It Off_**Special:** You gain access to this power by taking the epic feat for _beast form attack_. To use it, you must be using at least one beast aspect.
 
 **Recharge** 16+ after battle
 
@@ -778,22 +769,21 @@ Free action
 
 **Effect:** You end a beast aspect power that you are using and then take only 6d6 damage from the triggering attack and ignore the rest of the damage. You still suffer any other effects of the attack (including ongoing damage).
 
-###### Beast Aspect
+##### Beast Aspect
 
 Beast aspects are powers you can use while in beast form to help you in battle. You must choose the aspects you know at each full heal-up. You can select any of the following aspects beginning at 1st level.
 
 Normally you can use only one beast aspect at a time and using another aspect ends the previous one. The _beast form attack_ feats change that for the Shifter adept.
 
-_ **Beast aspect bonuses** _ **:** Many beast aspects provide bonuses to defenses or attacks. Shifter adepts can combine bonuses to the same stats from two aspects they are using simultaneously, an exception to the general rule that bonuses don't stack. For example, a Shifter adept using _bear aspect_ with its champion feat would have a +2 AC, and if the adept was also using _behemoth aspect_ with its champion feat, the total defensive bonuses for the adept would be +5 AC and +3 PD.
+_**Beast aspect bonuses**_ **:** Many beast aspects provide bonuses to defenses or attacks. Shifter adepts can combine bonuses to the same stats from two aspects they are using simultaneously, an exception to the general rule that bonuses don't stack. For example, a Shifter adept using _bear aspect_ with its champion feat would have a +2 AC, and if the adept was also using _behemoth aspect_ with its champion feat, the total defensive bonuses for the adept would be +5 AC and +3 PD.
 
-_ **Effects:** _ Beast aspects only affect you while you are in beast form, which means that every aspect should be understood to read "while in beast form" for all its effects and powers.
+_**Effects:**_ Beast aspects only affect you while you are in beast form, which means that every aspect should be understood to read "while in beast form" for all its effects and powers.
 
 Shifting out of beast form to humanoid form prevents a beast aspect from having any effect, but it doesn't end the aspect. When you shift back to beast form, the aspect is in effect again. Aspects last until the end of the battle.
 
-_ **Appearances:** _ The names of the aspects are a guide to what you might look like when channeling that beast, but it's also possible to decide that your usual beast form is, for example, wolf-like, and that using bear aspect or behemoth aspect merely adds bear-like or behemoth-like qualities to your standard wolf-shape.
+_**Appearances:**_ The names of the aspects are a guide to what you might look like when channeling that beast, but it's also possible to decide that your usual beast form is, for example, wolf-like, and that using bear aspect or behemoth aspect merely adds bear-like or behemoth-like qualities to your standard wolf-shape.
 
 _Bear Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -817,7 +807,6 @@ Epic Feat
 Until the first time it recharges each day, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 _Behemoth Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -845,7 +834,6 @@ Epic Feat
 The save that determines the adept's benefit(s) is now a normal save.
 
 _Mantis Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -869,7 +857,6 @@ Epic Feat
 Until the first time it recharges each day, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 _Leopard Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -881,7 +868,6 @@ Quick action
 **Adept Effect:** As the initiate effect, and you gain a +2 bonus to AC. You also gain a +5 bonus to disengage checks and to saves against being stuck, dazed, or stunned.
 
 _Owlbear Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -905,7 +891,6 @@ Epic Feat
 Until the first time it recharges each day, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 _Tiger Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -929,7 +914,6 @@ Epic Feat
 Until the first time it recharges each day, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 _Wolverine Aspect_
-
 Beast aspect
 
 Daily, or recharge 16+ for adepts
@@ -962,7 +946,7 @@ Epic Feat
 
 Until the first time it recharges each day, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
-#### Terrain Caster
+### Terrain Caster
 
 There are eight different ranges of terrain that are relevant to druidic magic:
 
@@ -979,7 +963,7 @@ At-will or once-per-battle spells provided by terrain caster adventurer feats ca
 
 Terrains need not be exclusive; ruins can exist on mountains, and the terrain caster can draw upon each. Any ambiguity should be decided by the GM.
 
-##### Terrain Caster Initiate Level Progression
+#### Terrain Caster Initiate Level Progression
 
 | **Druid Level** | **Daily Spells** | **Level the Spells are Cast At** |
 | --- | --- | --- |
@@ -995,7 +979,7 @@ Terrains need not be exclusive; ruins can exist on mountains, and the terrain ca
 | **Level 9** | 3 | 9th level |
 | **Level 10** | 3 | 9th level |
 
-##### Terrain Caster Adept Level Progression
+#### Terrain Caster Adept Level Progression
 
 | **Druid Level** | **Daily Spells** | **Level the Spells are Cast At** |
 | --- | --- | --- |
@@ -1011,21 +995,21 @@ Terrains need not be exclusive; ruins can exist on mountains, and the terrain ca
 | **Level 9** | 7 | 9th level |
 | **Level 10** | 7 | 9th level |
 
-##### Cave, Dungeon, Underworld
+#### Cave, Dungeon, Underworld
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _ways of the dark_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per battle, when an attack targeting MD hits you while you're not fighting in bright sunlight, you can force the attacker to reroll that attack, but you must accept the reroll.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily cave/dungeon/underworld spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Ways of the Dark (Terrain Feat Spell)
+##### Ways of the Dark (Terrain Feat Spell)
 
 At-Will (in any terrain)
 
@@ -1049,7 +1033,7 @@ Ranged spell
 
 9th level spell: 7d8 damage.
 
-###### Spider Climb (1st level)
+##### Spider Climb (1st level)
 
 Ranged spell
 
@@ -1069,7 +1053,7 @@ Quick action to cast
 
 9th level spell: The spell now targets you and 1d4 + 1 nearby allies.
 
-###### Fungal Ambuscade (3rd level)
+##### Fungal Ambuscade (3rd level)
 
 Ranged spell
 
@@ -1089,7 +1073,7 @@ Daily
 
 9th level spell: 90 ongoing damage on a hit, 40 ongoing damage on a miss.
 
-###### Spikestones (5th level)
+##### Spikestones (5th level)
 
 Ranged spell
 
@@ -1105,21 +1089,21 @@ Since the spell normally only works underground, it affects creatures with _flig
 
 9th level spell: 9d10 damage.
 
-##### Forest, Woods
+#### Forest, Woods
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _rain of acorns_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per battle when you hit an enemy that's a beast with _rain of acorns_, the target is also confused until the end of your next turn.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily forest/woods spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Rain of Acorns (Terrain Feat Spell)
+##### Rain of Acorns (Terrain Feat Spell)
 
 Ranged spell
 
@@ -1142,10 +1126,9 @@ At-Will (in any terrain)
 9th level spell: 6d6 damage.
 
 _Champion Feat_
-
 This spell now targets 1d4 enemies in a group.
 
-###### Barkskin (1st level)
+##### Barkskin (1st level)
 
 Ranged spell
 
@@ -1161,7 +1144,7 @@ Quick action to cast
 
 9th level spell: You can now choose two targets.
 
-###### Entangle (3rd level)
+##### Entangle (3rd level)
 
 Ranged spell
 
@@ -1181,7 +1164,7 @@ Daily
 
 9th level spell: 10d10 damage; hit/miss effect affects targets with 350 hp or fewer.
 
-###### Plantwalk (5th level)
+##### Plantwalk (5th level)
 
 Ranged spell
 
@@ -1199,21 +1182,21 @@ Once per level when you cast this spell, you also summon a 5th level earth eleme
 
 9th level spell: You can now use the spell to teleport virtually unlimited distances as long as you travel to a grove or forest and emerge from a tree or plant well-known to you. The once per level summoning now summons a 9th level earth elemental.
 
-##### Ice, Tundra, Deep Snow
+#### Ice, Tundra, Deep Snow
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _frost touch_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 You gain _resist cold 16+_ and your spells ignore the _resist cold_ abilities that the targets of your spells have.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily ice/tundra/deep snow spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Frost Touch (Terrain Feat Spell)
+##### Frost Touch (Terrain Feat Spell)
 
 Close-quarters spell
 
@@ -1237,7 +1220,7 @@ Once per battle (in any terrain)
 
 9th level spell: 2d6 x 10 damage, or 2d8 x 10 to an enemy you are engaged with.
 
-###### Ice Shield (1st level)
+##### Ice Shield (1st level)
 
 Close-quarters spell
 
@@ -1257,7 +1240,7 @@ Quick action to cast
 
 9th level spell: 10d10 damage.
 
-###### Icicle (3rd level)
+##### Icicle (3rd level)
 
 Ranged spell
 
@@ -1279,7 +1262,7 @@ Daily
 
 9th level spell: 2d10 x 10 damage.
 
-###### Cone of Cold (5th level)
+##### Cone of Cold (5th level)
 
 Ranged spell
 
@@ -1299,21 +1282,21 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-##### Migration Route (Large Herd Animal)
+#### Migration Route (Large Herd Animal)
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _whoomph_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 When you cast _whoomph_ during a battle, you can cast _the beast shrugs_ later in that battle even if you are not on migration route terrain.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily migration route spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Whoomph (Terrain Feat Spell)
+##### Whoomph (Terrain Feat Spell)
 
 Close-quarters spell
 
@@ -1335,7 +1318,7 @@ At-Will (in any terrain)
 
 9th level spell: 8d10 damage, or 3d6 x 10 against a mook.
 
-###### The Beast Shrugs (3rd level)
+##### The Beast Shrugs (3rd level)
 
 Ranged spell
 
@@ -1353,7 +1336,7 @@ Daily
 
 9th level spell: Heal 10d10 hit points.
 
-###### Stomp! (5th level)
+##### Stomp! (5th level)
 
 Ranged spell
 
@@ -1371,7 +1354,7 @@ Daily
 
 9th level spell: 3d8 x 10 damage.
 
-###### Migratory Teleport (7th level)
+##### Migratory Teleport (7th level)
 
 Ranged spell
 
@@ -1385,21 +1368,21 @@ Any effects of spells or items cast/created before teleporting are canceled and 
 
 9th level spell: You can now try to teleport to any location along the migration route. Stabbing your finger on the world map suffices, but your aim won't be perfect. Attempts to teleport to places off the map to the north or west usually don't work.
 
-##### Mountains
+#### Mountains
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _spark_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per day, you can heal using a second recovery when some other effect has enabled you to heal using a single recovery. This bonus recovery is a free recovery, but it doesn't benefit from any bonuses the first recovery gains.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily mountains spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Spark (Terrain Feat Spell)
+##### Spark (Terrain Feat Spell)
 
 Close-quarters spell
 
@@ -1421,7 +1404,7 @@ At-Will (in any terrain)
 
 9th level spell: 8d10 damage, or 3d6 x 10 against a flying creature.
 
-###### Rumble (1st level)
+##### Rumble (1st level)
 
 Close-quarters spell
 
@@ -1439,7 +1422,7 @@ Quick action to cast
 
 9th level spell: 4d6 + Wisdom modifier damage.
 
-###### Stoneskin (3rd level)
+##### Stoneskin (3rd level)
 
 Ranged spell
 
@@ -1455,7 +1438,7 @@ Quick action to cast
 
 9th level spell: _Resist damage_ increases to 18+.
 
-###### Call Lightning (7th level)
+##### Call Lightning (7th level)
 
 Ranged spell
 
@@ -1471,21 +1454,21 @@ Daily
 
 9th level spell: 7d12 damage.
 
-##### Plains, Overworld
+#### Plains, Overworld
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _sunbeams_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per battle as a free action, you can choose a spell that targets nearby creatures or enemies. That spell can target far away creatures or enemies this battle.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily plains/overworld spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Sunbeams (Terrain Feat Spell)
+##### Sunbeams (Terrain Feat Spell)
 
 Ranged spell
 
@@ -1505,7 +1488,7 @@ At-Will (in any terrain)
 
 9th level spell: 4d12 damage.
 
-###### Heat Metal (1st level)
+##### Heat Metal (1st level)
 
 Ranged spell
 
@@ -1527,7 +1510,7 @@ Daily
 
 9th level spell: 10d12 damage, and 50 ongoing damage (hit and miss).
 
-###### Air & Fire (3rd level)
+##### Air & Fire (3rd level)
 
 Ranged spell
 
@@ -1545,7 +1528,7 @@ If something prevents you from casting the spell during your next turn, you stil
 
 9th level spell: Now you can cast a 9th level daily Air or Fire spell.
 
-###### Harmony (5th level)
+##### Harmony (5th level)
 
 Ranged spell
 
@@ -1563,21 +1546,21 @@ The effect doesn't work while a target is at 0 hit points or below. Temporary hi
 
 9th level spell: The spell can now target up to four willing allies.
 
-##### Ruins
+#### Ruins
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _ruination_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 Once per day when you drop to 0 hit points or below, you can roll a normal save. If you succeed, heal using a recovery before going unconscious. If you fail, it counts as a failed death check.
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily ruins spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Ruination (Terrain Feat Spell)
+##### Ruination (Terrain Feat Spell)
 
 Ranged spell
 
@@ -1597,7 +1580,7 @@ Once per battle (in any terrain)
 
 9th level spell: 6d12 damage.
 
-###### Inevitable Collapse (1st level)
+##### Inevitable Collapse (1st level)
 
 Ranged spell
 
@@ -1621,7 +1604,7 @@ _special ongoing damage:_ The target can't start rolling saves against this dama
 
 9th level spell: 10d12 damage, and 40 ongoing damage; 20 ongoing on a miss.
 
-###### How Things End (5th level)
+##### How Things End (5th level)
 
 Ranged spell
 
@@ -1641,7 +1624,7 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-###### Devastation (9th level)
+##### Devastation (9th level)
 
 Ranged spell
 
@@ -1649,27 +1632,27 @@ Daily
 
 **Special:** You can cast this spell only once per level.
 
-**Target:** One structure constructed by mortals that isn't in the overworld, in the underworld, or under an icon's personal magical protection.
+**Target:** One structure constructed by mortals that isn't in the overworld, in the underworld, or under a relationship's personal magical protection.
 
 **Skill Check:** To gain the effect, you must succeed on a skill check corresponding to the tier of the structure and the GM's assessment of the difficulty: normal, hard, or ridiculously hard.
 
 **Effect:** The structure begins to come down as if it aged centuries in minutes. It may take up to an hour to collapse entirely. Supremely magical structures may have their own ways of regenerating.
 
-##### Swamp, Lake, River
+#### Swamp, Lake, River
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 You gain the _poison thorns_ spell below.
 
-###### Champion Feat
+##### Champion Feat
 
 You gain _resist poison 16+._
 
-###### Epic Feat
+##### Epic Feat
 
 You can now cast one bonus daily swamp/lake/river spell that doesn't count against your total daily spells, but you still can't cast a specific daily spell of that type more than once per day.
 
-###### Poison Thorns (Terrain Feat Spell)
+##### Poison Thorns (Terrain Feat Spell)
 
 Ranged spell
 
@@ -1689,7 +1672,7 @@ At-Will (in any terrain)
 
 9th level spell: 30 damage, and 30 ongoing poison damage.
 
-###### The Big Muddy (1st level)
+##### The Big Muddy (1st level)
 
 Ranged spell
 
@@ -1709,7 +1692,7 @@ Daily
 
 9th level spell: Targets with 320 hit points or fewer.
 
-###### Reclamation (3rd level)
+##### Reclamation (3rd level)
 
 Ranged spell
 
@@ -1729,7 +1712,7 @@ Daily
 
 9th level spell: 2d8 x 10 damage.
 
-###### Purification Chant (7th level)
+##### Purification Chant (7th level)
 
 Ranged spell
 
@@ -1745,7 +1728,7 @@ Daily
 
 9th level spell: 2d10 x 10 damage.
 
-#### Warrior Druid
+### Warrior Druid
 
 Choose this talent if you want to fight well in melee with your normal weapons and armor.
 
@@ -1767,11 +1750,11 @@ Like the fighter class, you gain access to flexible attacks when you make basic 
 
 If you're also a Shifter initiate, you can use your Warrior Druid flexible attacks while in beast form, _but only_ with your first beast form attack roll each turn. Adepts can use them freely.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Choose another Warrior Druid benefit you weren't able to start with. Whether you're an initiate or an adept, you can take this feat twice to gain the two Warrior Druid benefits you are missing.
 
-##### Warrior Druid Initiate Level Progression
+#### Warrior Druid Initiate Level Progression
 
 | **Druid Level** | **Druid Flexible Attacks** |
 | --- | --- |
@@ -1787,7 +1770,7 @@ Choose another Warrior Druid benefit you weren't able to start with. Whether you
 | **Level 9** | 4 |
 | **Level 10** | 4 |
 
-##### Warrior Druid Adept Level Progression
+#### Warrior Druid Adept Level Progression
 
 | **Druid Level** | **Druid Flexible Attacks** |
 | --- | --- |
@@ -1803,11 +1786,11 @@ Choose another Warrior Druid benefit you weren't able to start with. Whether you
 | **Level 9** | 6 |
 | **Level 10** | 6 |
 
-##### Flexible Attacks
+#### Flexible Attacks
 
 Choose which flexible attacks you know. You can choose any of the following at 1st level, though some won't work as well depending on your choice of talents.
 
-###### Ancestral Guidance
+##### Ancestral Guidance
 
 Flexible once-per battle melee attack
 
@@ -1818,14 +1801,12 @@ Flexible once-per battle melee attack
 If you are a Warrior Druid adept and you use _ancestral guidance_ while in humanoid form, you also regain all the once-per-battle flexible attacks you have expended this battle.
 
 _Adventurer Feat_
-
 Once per battle when you make an attack against AC, you can instead make that attack against the target's MD as the spirits guide your strike.
 
 _Champion Feat_
-
 When you use this flexible attack, you can roll a save against a save ends effect.
 
-###### Beast Spirits
+##### Beast Spirits
 
 Flexible once-per-battle melee attack
 
@@ -1836,10 +1817,9 @@ Flexible once-per-battle melee attack
 **Special:** The four _beast spirits_ spells last until the end of the battle or until the target falls unconscious. If the target already has a _beast spirits_ spell effect on it, that spell is cancelled when a new _beast spirits_ spell targets it.
 
 _Champion Feat_
-
 You can use the improved version of each spell as amended by the champion-tier feats listed underneath it.
 
-###### Behemoth's Endurance
+##### Behemoth's Endurance
 
 Close-quarters spell
 
@@ -1850,10 +1830,9 @@ Free action to cast when triggered
 **Effect:** Until the end of the battle or until targeted with another _beast spirits_ spell, the target gains a +2 bonus to PD and temporary hit points equal to your level + your Wisdom modifier.
 
 _Champion Feat_
-
 The target instead gains a +4 bonus to PD and temporary hit points equal to your level + double your Wisdom modifier (triple your Wisdom modifier at 8th level).
 
-###### Bull's Strength
+##### Bull's Strength
 
 Close-quarters spell
 
@@ -1864,10 +1843,9 @@ Free action to cast when triggered
 **Effect:** Until the end of the battle or until targeted with another _beast spirits_ spell, the target gains a +1 bonus to melee attacks.
 
 _Champion Feat_
-
 The target gains a +2 bonus to melee attacks instead of +1.
 
-###### Cat's Grace
+##### Cat's Grace
 
 Close-quarters spell
 
@@ -1878,10 +1856,9 @@ Free action to cast when triggered
 **Effect:** Until the end of the battle or until targeted with another _beast spirits_ spell, the target gains a +1 bonus to AC.
 
 _Champion Feat_
-
 The target also gains a +2 bonus to disengage checks and Dexterity skill checks.
 
-###### Owl's Wisdom
+##### Owl's Wisdom
 
 Close-quarters spell
 
@@ -1892,10 +1869,9 @@ Free action to cast when triggered
 **Effect:** Until the end of the battle or until targeted with another _beast spirits_ spell, the target gains a +2 bonus to MD and a +1 bonus to saves.
 
 _Champion Feat_
-
 The target instead gains a +4 bonus to MD and a +2 bonus to saves.
 
-###### Elemental Pivot
+##### Elemental Pivot
 
 Flexible once-per-battle melee attack
 
@@ -1904,14 +1880,12 @@ Flexible once-per-battle melee attack
 **Effect:** During your next turn, you can cast an elemental caster's Elemental Mastery at-will feat spell of your choice as a quick action, even if you don't normally know that spell.
 
 _Adventurer Feat_
-
 If you also have the Elemental Caster talent, you gain a +2 attack bonus with that spell.
 
 _Champion Feat_
-
 Any other Elemental Caster spell you cast during your next turn also gains a +2 attack bonus.
 
-###### Greenmantle
+##### Greenmantle
 
 Flexible once-per-battle melee attack
 
@@ -1920,18 +1894,15 @@ Flexible once-per-battle melee attack
 **Effect:** You gain a +4 bonus to AC until an attack against AC misses you.
 
 _Adventurer Feat_
-
 If you are using a shield, _this_ flexible attackinstead triggers on a natural 16+.
 
 _Champion Feat_
-
 The bonus now also applies to PD (and attacks against PD that miss).
 
 _Epic Feat_
-
 You now gain a +6 AC bonus instead of +4.
 
-###### Invoke the Storm
+##### Invoke the Storm
 
 Flexible once-per-battle melee attack
 
@@ -1940,18 +1911,15 @@ Flexible once-per-battle melee attack
 **Effect:** Roll a d3. Deal lightning damage equal to five times the number you rolled to one nearby enemy other than the target of the triggering attack.
 
 _Adventurer Feat_
-
 Roll a d4 instead of a d3.
 
 _Champion Feat_
-
 Roll a d6 instead of a d4 and use whichever is higher, the escalation die or your d6 roll.
 
 _Epic Feat_
-
 Add the escalation die and your d6 roll together, then multiply by five for the damage you deal.
 
-###### Nature's Fury
+##### Nature's Fury
 
 Flexible once-per-battle melee attack
 
@@ -1960,14 +1928,12 @@ Flexible once-per-battle melee attack
 **Effect:** The triggering attack deals half damage.
 
 _Adventurer Feat_
-
 Any allies engaged with the target can pop free from it if they wish.
 
 _Champion Feat_
-
 The flexible attack now also triggers on a natural odd miss.
 
-###### Red Claw
+##### Red Claw
 
 Flexible once-per-battle melee attack
 
@@ -1976,18 +1942,15 @@ Flexible once-per-battle melee attack
 **Effect:** Until the end of the battle, your animal companion gains a +1 attack bonus. If you use this flexible attack multiple times in the battle, the bonuses are cumulative.
 
 _Adventurer Feat_
-
 When you use this flexible attack, your animal companion's crit range also expands by 2.
 
 _Champion Feat_
-
 The attack bonus is now +2 instead of +1.
 
-_ **Epic Feat** _
-
+_**Epic Feat**_
 When you use this flexible attack, your animal companion also heals hit points equal to triple your Strength or Dexterity modifier.
 
-###### Resilience
+##### Resilience
 
 Flexible once-per battle melee attack
 
@@ -1996,18 +1959,15 @@ Flexible once-per battle melee attack
 **Effect:** You gain 5 temporary hit points and _resist damage 12+_ against attacks that target AC until two attacks against you have had their damage halved from that resistance.
 
 _Adventurer Feat_
-
 The damage resistance also applies to attacks that target PD.
 
 _Champion Feat_
-
 You now gain 10 temporary hit points instead of 5, and the damage resistance increases to 14+.
 
 _Epic Feat_
-
 You now gain 15 temporary hit points instead of 10, and the damage resistance increases to 16+.
 
-###### Shillelagh
+##### Shillelagh
 
 Flexible once-per battle melee attack
 
@@ -2016,18 +1976,15 @@ Flexible once-per battle melee attack
 **Effect:** If the target isn't staggered after the attack, the attack is a critical hit. If the target is staggered after the attack, you can heal using a recovery and the target is stuck until the end of its next turn.
 
 _Adventurer Feat_
-
 This flexible attack now also triggers on a natural 3.
 
 _Champion Feat_
-
 The stuck effect is now save ends.
 
 _Epic Feat_
-
 This flexible attack now also triggers on a natural 17.
 
-###### Spirits of the Land
+##### Spirits of the Land
 
 Flexible once-per-battle melee attack
 
@@ -2036,14 +1993,12 @@ Flexible once-per-battle melee attack
 **Effect:** During your next turn, you can cast a Terrain Caster at-will feat spell of your choice once as a quick action, even if you don't normally know that spell. The spell must match a type of terrain you are in.
 
 _Adventurer Feat_
-
 If you also have the Terrain Caster talent, you gain a +2 attack bonus with that spell.
 
 _Champion Feat_
-
 Any other Terrain Caster spell you cast during your next turn also gains a +2 attack bonus.
 
-###### Strength of Earth
+##### Strength of Earth
 
 Flexible once-per battle melee attack
 
@@ -2051,7 +2006,7 @@ Flexible once-per battle melee attack
 
 **Effect:** Each enemy engaged with you can't attempt to disengage (save ends). They can still move away and take opportunity attacks, if they wish.
 
-###### Warrior's Blessing
+##### Warrior's Blessing
 
 Flexible once-per-battle melee attack
 
@@ -2060,18 +2015,15 @@ Flexible once-per-battle melee attack
 **Effect:** You heal hit points equal to your Strength or Dexterity modifier (double that modifier at 5th level; triple it at 8th level).
 
 _Adventurer Feat_
-
 Add 1d6 to the healing provided by this flexible attack.
 
 _Champion Feat_
-
 One nearby ally also gains the same amount of healing that you do from this flexible attack.
 
 _Epic Feat_
-
 Add 4d10 instead of 1d6 to the healing provided by this flexible attack, and you can use _warrior's blessing_ twice per battle.
 
-###### Wild Harmony
+##### Wild Harmony
 
 Flexible once-per battle melee attack
 
@@ -2080,36 +2032,33 @@ Flexible once-per battle melee attack
 **Effect:** If you cast a _regeneration_ or _greater regeneration_ spell before the start of your next turn, the target adds your Wisdom modifier to the healing they gain from their _first_ recovery roll (not subsequent rolls). (Double your Wisdom modifier at 5th level; triple it at 8th level).
 
 _Adventurer Feat_
-
 The target now adds the healing bonus to each recovery roll from that spell.
 
 _Champion Feat_
-
 This flexible attack now also triggers on any natural even roll.
 
 _Epic Feat_
-
 When this flexible attack triggers, you or one nearby conscious ally heal hit points equal to double your Wisdom modifier.
 
-#### Wild Healer
+### Wild Healer
 
 The Wild Healer talent provides you spell options as indicated on your level progression chart, with possible bonus spells provided by feats. _Regeneration_ is your main healing spell; you start with both a per-battle and daily use, and gain more uses as you level up. Wild Healer initiates and adepts get access to the _wild heal_ spell later in their career. G_reater regeneration_ is only available to adepts.
 
 The feats below are available to Wild Healer initiates and adepts.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If you're a Wild Healer initiate, you gain a daily use of the _wild heal_ spell. If you're a Wild Healer adept, you instead gain a once-per-battle use of the _wild heal_ spell.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain an additional daily use of _regeneration_.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per day as a free action when a target of one of your _regeneration_ spells (or _greater regeneration_) fails the save to continue its regeneration, the target succeeds instead.
 
-##### Wild Healer Initiate Level Progression
+#### Wild Healer Initiate Level Progression
 
 | **Druid Level** | **Per-battle regeneration spells** | **Daily regeneration spells** | **Daily greater regeneration spells** | **Daily wild heal spells** |
 | --- | --- | --- | --- | --- |
@@ -2125,7 +2074,7 @@ Once per day as a free action when a target of one of your _regeneration_ spells
 | **Level 9** | 1 | 2 | — | 2 |
 | **Level 10** | 1 | 2 | — | 2 |
 
-##### Wild Healer Adept Level Progression
+#### Wild Healer Adept Level Progression
 
 | **Druid Level** | **Per-battle regeneration spells** | **Daily regeneration spells** | **Daily greater regeneration spells** | **Daily wild heal spells** |
 | --- | --- | --- | --- | --- |
@@ -2141,7 +2090,7 @@ Once per day as a free action when a target of one of your _regeneration_ spells
 | **Level 9** | 2 | 3 | 2 | 2 |
 | **Level 10** | 2 | 3 | 2 | 3 |
 
-##### Regeneration
+#### Regeneration
 
 Close-quarters spell
 
@@ -2165,7 +2114,7 @@ _Special:_ The save to continue the _regeneration_ effect becomes a hard save (1
 
 **Special:** You can only have one _regeneration_ or _greater regeneration_ spell on you at a time. A second spell cast on you cancels the first.
 
-##### Greater Regeneration
+#### Greater Regeneration
 
 Close-quarters spell
 
@@ -2189,7 +2138,7 @@ _Special:_ The save to continue the _regeneration_ effect becomes a hard save (1
 
 **Special:** You can only have one _regeneration_ or _greater regeneration_ spell on you at a time. A second spell cast on you cancels the first.
 
-##### Wild Heal
+#### Wild Heal
 
 Close-quarters spell
 
@@ -2201,7 +2150,7 @@ Quick action
 
 **Effect:** Each target heals using one of its recoveries.
 
-### Animal Companion Rules
+## Animal Companion Rules
 
 You have a devoted animal companion who fights alongside you like a member of your adventuring party.
 
@@ -2209,17 +2158,17 @@ If you have a single talent invested into Animal Companion, you are an Animal Co
 
 These are the same rules as for the ranger.
 
-#### Calling to Battle
+### Calling to Battle
 
 When you roll initiative, you may choose whether you want your animal companion to take part in the battle. You may also call your animal companion during the battle with a quick action.
 
 Animal Companion initiates may only call their animal companion once every other battle. The animal companion may not fight in two battles in a row—even between full heal-ups, adventures, or gaining new levels. Animal Companion adepts don't have this limitation; their animal companion can fight in every battle if the adept so chooses.
 
-#### Recoveries
+### Recoveries
 
 As an initiate, add a recovery to your total recoveries. As an adept, add two recoveries to your total recoveries. You can use a recovery on yourself or your animal companion.
 
-#### Actions
+### Actions
 
 Your animal companion acts on your initiative turn, either immediately before or after you, depending on the animal type.
 
@@ -2227,13 +2176,13 @@ Your animal companion moves gets a move action and a standard action, but not a 
 
 If you have powers that care about the "first time you attack an enemy," an attack by your animal companion counts as your attack.
 
-#### Animal Harm
+### Animal Harm
 
 Your animal companion can be healed like an ally. If it gets healed without you being healed, it uses one of your recoveries. When you use a recovery while next to your animal companion (including being engaged with the same enemy), your animal companion is also healed using a free recovery.
 
 Instead of dying like a monster or NPC at 0 hp, your animal companion follows PC rules for falling unconscious at 0 hp and dying after four failed death saves or when its negative hit points equal half its normal hit points. If your animal companion dies, it's gone for the battle, though you can call it (or another one) to fight in the next battle (as an adept) or the in the battle after that (as an initiate). That animal companion will be one level lower than an animal companion would normally be, i.e. two levels below you. At the start of the next battle, bump the animal companion up to its proper level, i.e. one below you.
 
-#### Stats & Levels
+### Stats & Levels
 
 Each animal companion has roughly the same base stats as listed below.
 
@@ -2241,59 +2190,59 @@ Your animal companion is always one level lower than you. As a 1st level druid, 
 
 On top of the base stats, each type of animal has a zoologically appropriate power or advantage.
 
-#### Companion Bonuses
+### Companion Bonuses
 
 Each type of animal companion is a little different.
 
-##### Bear (also Giant Badger, Wolverine)
+#### Bear (also Giant Badger, Wolverine)
 
 **Acts:** After druid
 
 **Advantage:** The bear gains temporary hit points equal to its level each time it hits with an attack.
 
-##### Champion Feat
+#### Champion Feat
 
 The temporary hit points increase to double its level.
 
-##### Boar (also Spiky Lizard)
+#### Boar (also Spiky Lizard)
 
 **Acts:** Before druid
 
 **Advantage:** The boar gains a +1 attack bonus when it moves before its attack during the same turn.
 
-##### Eagle (also Falcon, Hawk, Owl, Vulture)
+#### Eagle (also Falcon, Hawk, Owl, Vulture)
 
 **Acts:** Before druid
 
 **Advantage:** It flies! Its melee damage die is dropped by one size (d6 at level 0).
 
-##### Panther (also Lion, Tiger)
+#### Panther (also Lion, Tiger)
 
 **Acts:** Before druid
 
 **Advantage:** The panther's crit range expands by 2 against enemies with lower initiative.
 
-##### Snake (also Giant Spider, Poison Toad)
+#### Snake (also Giant Spider, Poison Toad)
 
 **Acts:** After druid
 
 **Advantage:** The snake also deals ongoing poison damage equal to twice your level on a natural attack roll of 18+.
 
-##### Champion Feat
+#### Champion Feat
 
 The ongoing damage is three times your level instead.
 
-##### Epic Feat
+#### Epic Feat
 
 The ongoing damage is four times your level instead.
 
-##### Wolf (also Big Dog, Coyote, Hyena, Jackal)
+#### Wolf (also Big Dog, Coyote, Hyena, Jackal)
 
 **Acts:** After druid
 
 **Advantage:** The wolf gains a +1 attack bonus against enemies its master attacked the same turn, or against enemies engaged with its master.
 
-#### Baseline Stats
+### Baseline Stats
 
 Use the following stats as the baseline for your animal companion. Remember that your companion stays a level lower than you. Generally your companion's Physical Defense should be higher than its Mental Defense, but you could flip that if you have a good explanation.
 
@@ -2311,29 +2260,29 @@ Use the following stats as the baseline for your animal companion. Remember that
 | 9 | +17 vs. AC | 9d6 | 27 | 25 | 21 | 180 (90) |
 | 10 | +18 vs. AC | 10d6 | 28 | 26 | 22 | 216 (108) |
 
-#### Animal Companion Feats
+### Animal Companion Feats
 
 Druid animal companion feats are designed so that they do not build on each other. Unlike other feats, you don't have to take animal companion feats progressively, one after the other as long as you qualify for the correct tier.
 
-##### Adventurer Feats
+#### Adventurer Feats
 
 - Once per day, your animal companion can attack twice in a round with a standard action.
 - Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
 - Once per day, reroll one of your animal companion's missed attack rolls.
 - Your animal companion adds the escalation die to its attacks.
 
-##### Champion Feats
+#### Champion Feats
 
 - Once per day, your animal companion can force an enemy to reroll an attack that hit it.
 - Your Lethal Hunter talent also applies to your animal companion.
 - Increase your animal companion's Physical Defense and Mental Defense by +1.
 
-##### Epic Feats
+#### Epic Feats
 
 - Increase your animal companion's damage die by one size (for example, from d6s to d8s, or d8s to d10s).
 - Increase your animal companion's AC by +1.
 
-#### Animal Companion Spells
+### Animal Companion Spells
 
 As an Animal Companion adept, you gain a number of spells to help your animal companion—or another's—fight better. You don't have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of daily spells you get. Once you cast a particular daily spell, no matter its level, you can't cast it again until you take your next full heal-up.
 
@@ -2352,9 +2301,9 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 9 | 10 | 4 | 9th level |
 | 10 | - | 4 | 9th level |
 
-#### 1st Level Spells
+### 1st Level Spells
 
-##### Pack Link
+#### Pack Link
 
 Ranged spell
 
@@ -2370,7 +2319,7 @@ Daily
 
 7th level spell: The target's basic melee attacks now deal half damage on any miss.
 
-##### Vitality
+#### Vitality
 
 Ranged spell
 
@@ -2390,9 +2339,9 @@ Daily
 
 9th level spell: The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries.
 
-#### 3rd Level Spells
+### 3rd Level Spells
 
-##### Magic Fang
+#### Magic Fang
 
 Ranged spell
 
@@ -2408,9 +2357,9 @@ Daily
 
 9th level spell: The target's crit range expands by a total of 4.
 
-#### 5th Level Spells
+### 5th Level Spells
 
-##### Armor of Shell & Spirits
+#### Armor of Shell & Spirits
 
 Ranged spell
 
@@ -2428,9 +2377,9 @@ Daily
 
 9th level spell: Resistance increases to _resist damage 14+._
 
-#### 7th Level Spells
+### 7th Level Spells
 
-##### Blood is Strong
+#### Blood is Strong
 
 Ranged spell
 
@@ -2444,9 +2393,9 @@ Daily
 
 9th level spell: You now heal hit points equal to 2d10 + double your Wisdom modifier.
 
-#### 9th Level Spells
+### 9th Level Spells
 
-##### Spirit Guardian
+#### Spirit Guardian
 
 Ranged spell
 
@@ -2461,4 +2410,3 @@ Daily
 You can't cast spells or use your normal humanoid powers and class features while in your companion's body. You can either keep fighting as your animal companion or you can roll a normal save as a quick action once during each of your turns; if you succeed, your body and your animal companion's body swap places while your spirits return to their proper bodies. You keep the hit points of the animal companion before you rolled the save, but can heal using a recovery when the swap is complete, if you wish. Returning to your own partially-healed body thanks to the successful save ends the spell's effect.
 
 While your animal companion is in your body, it can roll death saves and be healed. If it becomes conscious it can attack using its basic melee attacks, but it doesn't have access to any of your spells or powers. Any failed death saves remain with the spirit that failed them, not the body.
-

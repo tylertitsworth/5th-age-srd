@@ -1,31 +1,34 @@
-## Bard
+---
+layout: doc
+---
+# Bard
 
-### Ability Scores
+## Ability Scores
 
 Bards gain a +2 class bonus to Dexterity or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: wandering minstrel, cathedral musician, court jester, mercenary, tavern owner, failed hedge wizard, diplomat, spy, royal taster, caravan guide, smuggler, and battle skald.
+Bards get 2 skill points in any Dexterity or Charisma skill like Acrobatics, Performance, and Streetwise.
 
-### Gear
+## Gear
 
 At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of gear their backgrounds suggest.
 
-#### Gold Pieces
+### Gold Pieces
 
-Bards may start with either 25 gp or 1d6 x 10 gp.
+Bards start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
-| _ **None** _ | _10_ | — |
-| _ **Light** _ | _12_ | — |
+| _**None**_ | _10_ | — |
+| _**Light**_ | _12_ | — |
 | **Heavy** | 13 | –2 |
 | **Shield** | +1 | –1 |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ Bards may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 mace, shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, scimitar | 1d10 (–2 atk) greatsword, dire flail |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -41,9 +44,9 @@ Bards may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–1 atk) heavy crossbow | 1d8 (–2 atk) longbow |
 
-### Level Progression
+## Level Progression
 
-| **Bard Level** | **Total Hit Points** | **Total Feats** | **Battle Cries (M)** | **Spells & Songs, 1st level (M)** | **Spells & Songs, 3rd level (M)** | **Spells & Songs, 5th level (M)** | **Spells & Songs, 7th level (M)** | **Spells & Songs, 9th level (M)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Bard Level** | **Total Hit Points** | **Total Feats** | **Battle Cries (H)** | **Spells & Songs, 1st level (H)** | **Spells & Songs, 3rd level (H)** | **Spells & Songs, 5th level (H)** | **Spells & Songs, 7th level (H)** | **Spells & Songs, 9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x **3** | 1 adventurer | 2 | 2 | — | — | — | — | _Not affected_ | ability modifier |
 | **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 2 | 2 | — | — | — | — |  | ability modifier |
@@ -59,9 +62,9 @@ Bards may start with either 25 gp or 1d6 x 10 gp.
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels
 
-(M): Indicates columns in which multiclass characters lag one level behind
+(H): Indicates columns in which hybrid characters lag one level behind
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -71,17 +74,17 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
 | **Recovery Dice** | (1d8 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 points |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -93,7 +96,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -105,11 +108,11 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 As a bard advances in level, they have three different types of powers to choose in combat: bardic songs, battle cries, and spells.
 
-#### Bardic Songs
+### Bardic Songs
 
 Bardic songs last for one or more rounds and end with a final verse that carries a big payoff. Although magical, bardic songs don't count as spells; they don't force the bard to suffer opportunity attacks from engaged enemies, and they can't be canceled by effects that can cancel spells. In fact, bards can cast spells while in the middle of singing a bardic song.
 
@@ -125,39 +128,39 @@ You can only sing one bardic song at a time. If you are singing a song (or spend
 
 Bardic songs are loud, and cancel any of stealth effects you may have.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your bardic songs don't stop immediately when you are knocked unconscious, stunned, or silenced. Instead, they continue for one round, giving you the chance to sustain the song on your next turn.
 
-#### Battle Cries
+### Battle Cries
 
 Bards use battle cries to encourage, inspire, warn, and magically aid their allies. Battle cries are triggered by flexible melee attacks. The bard makes a melee attack and is able to use a battle cry that corresponds to the attack's natural result, sometimes whether or not the attack hits.
 
 Bonuses provided by battle cries can help a bard's allies but not the bard.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can generate the effect of any 1st or 3rd level battle cry you know as a standard action (instead of making a flexible melee attack to see which battle cry you are able to trigger). This allows you to choose the particular battle cry you want, at the expense of taking your standard action.
 
-#### Spells
+### Spells
 
 Bards use arcane spells that function like those of other spell-casting classes. Some spells are daily, some recharge, and others are at-will.
 
 Unlike most character classes, bards use two different ability scores for their attacks. Their melee and ranged weapon attacks use Strength or Dexterity, while their spells use Charisma.
 
-### Class Talents
+## Class Talents
 
 Choose three of the following class talents.
 
-#### Balladeer
+### Balladeer
 
-At each level, including 1st level, you may learn a great ballad of your choice. Each day you can sing one of these songs to give you a positive relationship with an icon that you would not ordinarily have…as well as increasing a negative relationship with another icon.
+At each level, including 1st level, you may learn a great ballad of your choice. Each day you can sing one of these songs to give you a more positive relationship with a relationship that you would not ordinarily have.
 
 Song choices for the great ballad are up to the role-player.
 
 It takes at least a few rounds to sing a great ballad, so ideally it happens outside of combat. As you sing the ballad, it's an opportunity to tell the GM what's special about the story you are telling.
 
-Make a Charisma skill check using your best singing or musical background. If you succeed, you gain 2 points of positive relationship with the chosen icon for the rest of the day (until the next full heal-up). The DC depends on the environment:
+Make a Charisma skill check using your performance. If you succeed, you gain 2 points with a relationship for the rest of the day (until the next full heal-up). The DC depends on the environment:
 
 **DC 15:** Adventurer environment
 
@@ -165,47 +168,47 @@ Make a Charisma skill check using your best singing or musical background. If yo
 
 **DC 25:** Epic environment
 
-You can use these points to roll relationship dice the way you roll your normal icon relationships (see Icon Relationships). If you already have positive or conflicted dice with the icon you've sung about, add them to your new bonus dice. If you have negative dice with the icon you've sung a ballad to, they can be temporarily overruled by the ballad, but the GM should feel free to interpret any 5s rolled with a heavy hand.
+You can use these points to increase your standing with a relationship the way you would normally allocate relationship points. If you have negative points with a relationship you've sung a ballad to, they can be temporarily overruled by the ballad.
 
-When your great ballad magically compliments an icon, another icon should take a hit. As you explain the story of your ballad to the GM, you should account for at least one icon who is being mocked, vilified, or referred to in unflattering terms. You get an equal number of cursed dice for that icon. Cursed dice aren't like negative relationship dice—they never help you. At the GM's option, you'll have to roll these cursed dice at least once and interpret them as possible problems for you: rolls of 1 are a definite problem; rolls of 2 mean there are story complications connected to the temporary enemy icon.
+When your great ballad magically compliments a relationship, another relationship should take a hit. As you explain the story of your ballad to the GM, you should account for at least one relationship who is being mocked, vilified, or referred to in unflattering terms. You get an equal number of negative points for that relationship.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The first time you use your ballad-created relationship, any 5s you roll become 6s. You also gain a +2 bonus to your Balladeer checks.
 
-##### Champion Feat
+#### Champion Feat
 
-You can sing two great songs a day. You can't sing positively about an icon that you've already sung about as an enemy earlier in the day.
+You can sing two great songs a day. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the day.
 
-##### Epic Feat
+#### Epic Feat
 
 If you are willing to gain an equal number of cursed relationship dice with all of the listed enemies for a song, increase the positive bonus dice you gain from a successful ballad to 3 or 4.
 
-#### Battle Skald
+### Battle Skald
 
 You cannot take this talent if you have taken the _Spellsinger_ talent.
 
 Increase the number of battle cries you know by one. The bonus battle cry can be from your highest possible level.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 One battle per day, you can use your battle cries to help yourself.
 
-##### Champion Feat
+#### Champion Feat
 
 When you use a battle cry on yourself, it also helps an ally.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per battle, reroll an attack that was meant to trigger a battle cry but didn't.
 
-#### Jack of Spells
+### Jack of Spells
 
 Choose another spell-casting character class. You can choose one spell from the spell list (but not the talent list) of that class, of your own level or lower, as an extra spell you know how to cast. You can even take its feats up to your tier, if it has any. You may only choose from the spell list—not from talents.
 
 This spell is a bonus spell, not included in your bard class count.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can use your Charisma as the ability score that provides spell's attack bonus and damage bonus (if any). Other ability score references remain unchanged.
 
@@ -213,53 +216,53 @@ If the spell is a wizard spell, you also gain three cantrips of your choice from
 
 If you choose a spell from the sorcerer class, you also gain the sorcerer's _dancing lights_ class feature.
 
-##### Champion Feat
+#### Champion Feat
 
 Choose a second spell-casting class. Choose another spell from that class as well.
 
-##### Epic Feat
+#### Epic Feat
 
 Choose a third spell-casting class. Gain a spell from that class also.
 
-#### Loremaster
+### Loremaster
 
 You cannot take this talent if you have taken the _Mythkenner_ talent.
 
 Choose two of the following three bonuses:
 
 - Your bardic skills and magic are now based on your Intelligence rather than Charisma. Any time an element of the bard class refers to Charisma, you can replace that element with a reference to Intelligence.
-- Take two additional points of backgrounds. You can use these additional points to raise a background that has something to do with history, bardic lore, or magical knowledge up to the usually impossible rating of +6.
-- Take a single point of relationship with an icon. Add the point to a relationship you already have up to your normal maximum, or start a new one—positive, conflicted, or negative.
+- Take two additional skill points. You can use these additional points to raise an intelligence skill up to the usually impossible rating of +6.
+- Take a single point of relationship with a relationship. Add the point to a relationship you already have up to your normal maximum.
 
-#### Mythkenner
+### Mythkenner
 
 You cannot take this talent if you have taken the _Loremaster_ talent.
 
 Choose two of the following three bonuses:
 
 1. Your bardic skills and magic are now based on your Wisdom rather than Charisma. Any time an element of the bard class refers to Charisma, you can replace that element with a reference to Wisdom.
-2. Take two additional points of backgrounds; you can use these additional points to raise a background that has something to do with religion, mythology, or history up to the usually impossible rating of +6.
-3. Take a single point of relationship with an icon. Add the point to a relationship you already have up to your normal maximum, or start a new one—positive, conflicted, or negative.
+2. Take two additional skill points; you can use these additional points to raise a wisdom skill up to the usually impossible rating of +6.
+3. Take a single point of relationship with a relationship. Add the point to a relationship you already have up to your normal maximum.
 
-#### Songmaster
+### Songmaster
 
 When you attempt to maintain a bardic song, if you describe it in a fashion that entertains the GM, or at least a couple of the players, you get a bonus of +1 to +3 to maintain the song.
 
 This talent is for those that enjoy improvisation.
 
-#### Spellsinger
+### Spellsinger
 
 You cannot take this talent if you have taken the _Battle Skald_ talent.
 
 You can choose an extra bardic song or bard spell at the highest level you know.
 
-#### Storyteller
+### Storyteller
 
-Once per scene when one of your allies rolls relationship dice for an icon, you can roleplay a one or two sentence story (usually related to the icon, but perhaps otherwise pivotal) that allows them to reroll the relationship check if they don't like the first result.
+Once per scene when one of your allies' relationship changes, you can roleplay a one or two sentence story (usually related to the relationship, but perhaps otherwise pivotal) that allows them to make the change more positive by either improving that relationship by 2 points or preventing a negative point from being allocated to another relationship.
 
-### 1st Level Battle Cries
+## 1st Level Battle Cries
 
-#### Move It!
+### Move It
 
 Flexible melee attack
 
@@ -270,19 +273,19 @@ Flexible melee attack
 - One of your unengaged allies can move as a free action
 - One of your engaged allies can make a disengage check as a free action.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The disengage check gains a +2 bonus.
 
-##### Champion Feat
+#### Champion Feat
 
 The bonus increases to +5.
 
-##### Epic Feat
+#### Epic Feat
 
 An engaged ally you target with this battle cry can pop free from one enemy as a free action before making the disengage check.
 
-#### Pull It Together!
+### Pull It Together
 
 Flexible melee attack
 
@@ -290,19 +293,19 @@ Flexible melee attack
 
 **Effect:** One nearby ally can heal using a recovery.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The target adds +1d4 healing per point on the escalation die.
 
-##### Champion Feat
+#### Champion Feat
 
 The attack can now also trigger on any natural even roll; the extra healing is now +1d6 per point.
 
-##### Epic Feat
+#### Epic Feat
 
 You can use _pull it together_ three times per battle; the extra healing is now +1d10 per point.
 
-#### Stay Strong!
+### Stay Strong
 
 Flexible melee attack
 
@@ -310,19 +313,19 @@ Flexible melee attack
 
 **Effect:** Give a nearby ally a +2 bonus to AC until the start of your next turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Bonus also applies to PD.
 
-##### Champion Feat
+#### Champion Feat
 
 Bonus also applies to MD.
 
-##### Epic Feat
+#### Epic Feat
 
 Bonus increases to +4.
 
-#### We Need You!
+### We Need You
 
 Flexible melee attack
 
@@ -330,21 +333,21 @@ Flexible melee attack
 
 **Effect:** A nearby conscious ally can roll a save against a save ends effect.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The save gains a +1 bonus.
 
-##### Champion Feat
+#### Champion Feat
 
 The bonus increases to +2.
 
-##### Epic Feat
+#### Epic Feat
 
 If the escalation die is 3+, two nearby conscious allies (instead of one) can each roll a save (with bonuses).
 
-### 1st Level Songs
+## 1st Level Songs
 
-#### Song of Heroes
+### Song of Heroes
 
 Bardic song
 
@@ -364,7 +367,7 @@ Quick action each turn; 11+ to sustain
 
 9th level song: The effect also provides a +1 bonus to Mental Defense.
 
-#### Song of Spilt Blood
+### Song of Spilt Blood
 
 Bardic song
 
@@ -384,9 +387,9 @@ Quick action each turn; 6+ to sustain
 
 9th level song: Add +15 hp to the recovery.
 
-### 1st Level Spells
+## 1st Level Spells
 
-#### Battle Chant
+### Battle Chant
 
 Ranged spell
 
@@ -408,19 +411,19 @@ At-Will
 
 9th level spell: 10d4 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your _battle chant_ damage dice are now d6s instead of d4s.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, your _battle chant_ damage dice become d10s.
 
-#### Befuddle
+### Befuddle
 
 Ranged spell
 
@@ -442,19 +445,19 @@ Recharge 11+ after battle
 
 9th level spell: Target with 266 hp or fewer.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Recharge check is now 6+.
 
-##### Champion Feat
+#### Champion Feat
 
 The target of the spell doesn't have to be nearby, just in line of sight.
 
-##### Epic Feat
+#### Epic Feat
 
 On a hit, the confusion effect is now save ends.
 
-#### Charm Person
+### Charm Person
 
 Ranged spell
 
@@ -478,7 +481,7 @@ Daily
 
 9th level spell: Target with 266 hp or fewer.
 
-#### Soundburst
+### Soundburst
 
 Ranged spell
 
@@ -500,21 +503,21 @@ Daily
 
 9th level spell: 3d6 x 10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 On a natural even hit, the dazed effect is now save ends.
 
-##### Champion Feat
+#### Champion Feat
 
 The spell is now recharge 16+ after battle instead of daily.
 
-##### Epic Feat
+#### Epic Feat
 
 You can now target 1d4 + 1 enemies in a group with the spell.
 
-### 3rd Level Battle Cries
+## 3rd Level Battle Cries
 
-#### Hang Tough!
+### Hang Tough
 
 Flexible melee attack
 
@@ -522,19 +525,19 @@ Flexible melee attack
 
 **Effect:** Give a nearby ally temporary hit points equal to your Charisma modifier.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If the ally is staggered, double the temporary hit points.
 
-##### Champion Feat
+#### Champion Feat
 
 Add your level to the temporary hit points given (add before any doubling).
 
-##### Epic Feat
+#### Epic Feat
 
 You can choose yourself instead of an ally as the target of the battle cry.
 
-#### It's All Yours!
+### It's All Yours
 
 Flexible melee attack
 
@@ -542,19 +545,19 @@ Flexible melee attack
 
 **Effect:** This battle, your next ally to attack the target you missed gains a +2 attack bonus with that attack.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 That ally's attack also deals +1d6 damage.
 
-##### Champion Feat
+#### Champion Feat
 
 The damage bonus increases to +3d6.
 
-##### Epic Feat
+#### Epic Feat
 
 The damage bonus increases to +3d12.
 
-#### Take Heart!
+### Take Heart
 
 Flexible melee attack
 
@@ -562,9 +565,9 @@ Flexible melee attack
 
 **Effect:** Choose a nearby ally. That ally can either roll a save against a save ends effect or roll a normal save against a condition that has a duration that lasts until the end or beginning of a turn.
 
-### 3rd Level Songs
+## 3rd Level Songs
 
-#### Song of Aid
+### Song of Aid
 
 Bardic song
 
@@ -582,7 +585,7 @@ Quick action each turn; 11+ to sustain
 
 9th level song: 9d8 temporary hit points; sustain the song on a 7+.
 
-#### Song of Thunder
+### Song of Thunder
 
 Bardic song
 
@@ -606,17 +609,17 @@ Standard action each turn; 11+ to sustain
 
 9th level song: 10d12 damage.
 
-##### Champion Feat
+#### Champion Feat
 
 The number of targets increases to 2d4.
 
-##### Epic Feat
+#### Epic Feat
 
 Two of the targets can now be far away instead of nearby.
 
-### 3rd Level Spells
+## 3rd Level Spells
 
-#### Vicious Mockery
+### Vicious Mockery
 
 Ranged spell
 
@@ -636,19 +639,19 @@ Recharge 11+ after battle
 
 9th level spell: 2d8 x 10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 On a hit, the effect that damages the target when it misses is now save ends.
 
-##### Champion Feat
+#### Champion Feat
 
 Recharge check is now 6+.
 
-##### Epic Feat
+#### Epic Feat
 
 A natural even miss does not expend the spell.
 
-#### Wild Heal
+### Wild Heal
 
 Ranged spell
 
@@ -664,21 +667,21 @@ Daily
 
 9th level spell: Add +25 hp to the recovery.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The spell is now recharge 16+ after battle instead of daily.
 
-##### Champion Feat
+#### Champion Feat
 
 Add a third random target.
 
-##### Epic Feat
+#### Epic Feat
 
 The recoveries the targets use are now free.
 
-### 5th Level Battle Cries
+## 5th Level Battle Cries
 
-#### Stay True!
+### Stay True
 
 Flexible melee attack
 
@@ -686,7 +689,7 @@ Flexible melee attack
 
 **Effect:** A nearby ally regains the use of a once-per-battle racial ability that was expended this battle.
 
-#### Victory Is Ours!
+### Victory Is Ours
 
 Flexible melee attack
 
@@ -694,17 +697,17 @@ Flexible melee attack
 
 **Effect:** A nearby ally can heal using a recovery, and three nearby allies gain a +3d6 damage bonus to their next damage roll this battle.
 
-##### Champion Feat
+#### Champion Feat
 
 The battle cry can now trigger when the escalation die is 3+ instead of 5+.
 
-##### Epic Feat
+#### Epic Feat
 
 The damage bonus is now +3d12.
 
-### 5th Level Songs
+## 5th Level Songs
 
-#### Song of Magic
+### Song of Magic
 
 Bardic song
 
@@ -720,9 +723,9 @@ Quick action each turn; 16+ to sustain
 
 9th level song: Rolls to retain expended spells gain a bonus equal to the escalation die.
 
-### 5th Level Spells
+## 5th Level Spells
 
-#### Arrow of Verse
+### Arrow of Verse
 
 Ranged spell
 
@@ -740,15 +743,15 @@ Recharge 16+ after battle
 
 9th level spell: 2d10 x 10 damage.
 
-##### Champion Feat
+#### Champion Feat
 
 Recharge check is now 11+.
 
-##### Epic Feat
+#### Epic Feat
 
 Bonus dice and miss dice are now d12s.
 
-#### Discombobulate
+### Discombobulate
 
 Ranged spell
 
@@ -766,9 +769,9 @@ Daily
 
 9th level spell: Target with 240 hp or fewer.
 
-### 7th Level Battle Cries
+## 7th Level Battle Cries
 
-#### They Fall Before Us!
+### They Fall Before Us
 
 Flexible melee attack
 
@@ -778,13 +781,13 @@ Flexible melee attack
 
 **Effect:** A nearby ally can make a basic attack as a free action.
 
-##### Epic Feat
+#### Epic Feat
 
 The battle cry can now trigger on a natural 19+.
 
-### 7th Level Songs
+## 7th Level Songs
 
-#### Song of Blood & Legends
+### Song of Blood & Legends
 
 Bardic song
 
@@ -798,7 +801,7 @@ Standard action each turn; 16+ to sustain
 
 9th level song: The recovery granted by the final verse attack is free.
 
-#### Song of Victory
+### Song of Victory
 
 Bardic song
 
@@ -812,9 +815,9 @@ Quick action each turn; 16+ to sustain
 
 9th level song: 7d6 damage.
 
-### 7th Level Spells
+## 7th Level Spells
 
-#### The Overworld Two-Step
+### The Overworld Two-Step
 
 Close-quarters spell
 
@@ -824,17 +827,17 @@ Recharge 16+ after battle
 
 **Effect:** You can swap your position and the positions of all your nearby allies, even if you can't see them when you cast the spell. Each position presently occupied by you or an ally must end up occupied after the swap, but otherwise you can swap freely.
 
-##### Champion Feat
+#### Champion Feat
 
 Recharge check is now 11+.
 
-##### Epic Feat
+#### Epic Feat
 
 You can now also swap the positions of far-away allies you can see, up to a maximum of 9 creatures.
 
-### 9th Level Battle Cries
+## 9th Level Battle Cries
 
-#### The Time Is Now!
+### The Time Is Now
 
 Flexible melee attack
 
@@ -842,13 +845,13 @@ Flexible melee attack
 
 **Effect:** Choose one nearby ally. That ally can expend a recovery to regain a daily power or spell.
 
-##### Epic Feat
+#### Epic Feat
 
 The battle cry can now trigger on natural 18+.
 
-### 9th Level Songs
+## 9th Level Songs
 
-#### Song of Destinies
+### Song of Destinies
 
 Bardic song
 
@@ -858,11 +861,11 @@ Quick action each turn; 11+ to sustain
 
 **Opening & Sustained Effect:** Later this turn, you can add 1 to the natural result of one ally's d20 roll. Then, afterwards, you can subtract 1 from the natural result of an enemy's d20 roll.
 
-**Final Verse:** The GM chooses an icon relevant to the situation; you choose the PC who will make an icon relationship check. That player makes the check and joins the GM in a duet of improvisation as to how the icon relationship roll has some impact on the current battle.
+**Final Verse:** The GM chooses a relationship relevant to the situation; you choose the PC who will make a performance check. That player makes the check and joins the GM in a duet of improvisation as to how the relationship has some impact on the current battle.
 
-### 9th Level Spells
+## 9th Level Spells
 
-#### Inspire Legends
+### Inspire Legends
 
 Close-quarters spell
 
@@ -873,4 +876,3 @@ Daily
 **Targets:** You and all nearby allies
 
 **Effect:** Each target can roll a d20 for each of its expended daily, recharge, and per battle powers and spells other than inspire legends. If the roll is 11+, the character regains the use of that power or spell.
-

@@ -1,0 +1,11 @@
+remote_theme: Bilal2453/cayman-docs
+# theme: jekyll-theme-cayman
+title: "5th Age SRD"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
+show_downloads: true
+navigation:
+  name_over_title: true
+github:
+  sheet_url: https://drive.google.com/uc?export=download&id=11x6r-RT5omvPfgIoEdTv8Dezi_-9_qV2

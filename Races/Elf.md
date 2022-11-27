@@ -1,3 +1,8 @@
+---
+layout: doc
+---
+# Elf
+
 ## Dark Elf
 
 ### Racial Bonus

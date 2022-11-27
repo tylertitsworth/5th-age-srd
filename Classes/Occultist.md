@@ -1,33 +1,36 @@
-## Occultist
+---
+layout: doc
+---
+# Occultist
 
 There is only one occultist, and your one unique thing should account for your knowledge and mastery of powers hidden and occluded.
 
-### Ability Scores
+## Ability Scores
 
 The occultist gains a +2 class bonus to Intelligence or Wisdom, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds for the occultist's singular knowledge include:librarian of the forbidden, or wandering mystic.Perhaps the occultist is a holy one whose secret knowledge comes from the heavens, or perhaps she has been touched by the abyss, and her secret knowledge comes from someplace far more sinister.
+Occultists get 2 skill points in any Intelligence or Wisdom skill like Craft, History, and Perception.
 
-### Gear
+## Gear
 
 At 1st level, the occultist starts with the embroidered robes, secret scrolls, and runic vestments that you would expect from someone with such arcane power. He might have a small item that looks like a harmless bauble but whose markings become more intricate and mesmerizing the longer it's viewed. To defend himself, he has a staff or a dagger hidden under his robe. He also has some personal possessions left over from his earlier life.
 
-#### Gold Pieces
+### Gold Pieces
 
-The occultist may start with either 25 gp or 1d6 x 10 gp.
+The occultist start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
-| _ **None** _ | _10_ | — |
-| _ **Light** _ | _11_ | — |
+| _**None**_ | _10_ | — |
+| _**Light**_ | _11_ | — |
 | **Heavy** | 13 | -2 |
 | **Shield** | +1 | -2 |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -35,7 +38,7 @@ The occultist may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 (-2 atk) mace, shortsword | 1d8 (-2 atk) spear |
 | **Heavy or Martial** | 1d8 (-4 atk) longsword, warhammer | 1d10 (-4 atk) greatsword |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -43,9 +46,9 @@ The occultist may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow |
 
-### Level Progression
+## Level Progression
 
-| **Occultist** | **Total Hit Points** | **Total Feats** | **Class Talents (M)** | **1st level spell (M)** | **3rd level spell (M)** | **5th level spell (M)** | **7th level spell (M)** | **9th level spell (M)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
+| **Occultist** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 (3 total) | 3 | — | — | — | — | Not affected | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 4 | 4 | — | — | — | — |  | ability modifier |
@@ -59,9 +62,9 @@ The occultist may start with either 25 gp or 1d6 x 10 gp.
 | **Level 9** | (6 + CON mod) x 20 | 4 adventurer3 champion2 epic | 6 | — | — | — | 4 | 5 |  | 3 x ability modifier |
 | **Level 10** | (6 + CON mod) x 24 | 4 adventurer3 champion3 epic | 6 | — | — | — | — | 10 | +1 to 3 abilities | 3 x ability modifier |
 
-(M): Indicates columns in which multiclass characters lag one level behind.
+(H): Indicates columns in which hybrid characters lag one level behind.
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
 
@@ -71,17 +74,17 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
 | **Recovery Dice** | (1d6 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
-| **Talents** | 4 (see level progression chart) |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
+| **Talents** | 4 (see [level progression chart](#level-progression)) |
 | **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee Attack
+### Melee Attack
 
 At-Will
 
@@ -93,7 +96,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged Attack
+### Ranged Attack
 
 At-Will
 
@@ -105,62 +108,61 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
-#### Arcane Implements
+### Arcane Implements
 
 You use arcane power to alter fate. While wands and staffs are designed for casting spells that are different from the spells you use, given a little time you can bend such an implement to your will.
 
-##### Epic Feat
+#### Epic Feat
 
 If you find a magic weapon that isn't an arcane implement but that calls to your soul, you can bend it to your will and use its attack and damage bonus for spellcasting also. Any other arcane benefits you gain from the weapon are at the GM's discretion.
 
-#### Delayed Magical Healing
+### Delayed Magical Healing
 
 Magical healing effects heal you one round after the effect would normally be applied. You gain the healing at the start of the turn of whoever applied the magical healing effect, or at the start of your next turn if you drank a healing potion or found some other way of magically healing yourself during your last turn. This doesn't apply outside of combat or when you rally.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your baseline hit points are 7 instead of 6.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle when a healing effect would be applied to you, you can roll a save (11+). If you succeed, you get the healing immediately. If you fail, lose a hit point.
 
-##### Epic Feat
+#### Epic Feat
 
 Increase your total recoveries by 1. Once per day as a free action when a natural attack roll of 17 or less hits you, you take only half damage from that attack instead.
 
-#### Focus and Spellcasting
+### Focus and Spellcasting
 
 Wielding your arcane power of reality requires two steps. First, you take time to focus your mind. Once you have this focus, you can cast a spell. Casting a spell generally expends your focus, though there will be exceptions depending on the spell.
 
 Gaining your focus requires a standard action, and it draws opportunity attacks just like using a ranged attack does. (The "range" in this case is "beyond this world.") You can cast most of your spells only in response to an event, typically during an enemy's turn or an ally's turn.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 When you cast a spell and retain your focus, you gain a +2 bonus to all defenses until the start of your next turn.
 
-##### Champion Feat
+#### Champion Feat
 
 While you have your focus, when an enemy misses you with an attack, it takes psychic damage equal to your level.
 
-##### Epic Feat
+#### Epic Feat
 
 The "retain focus" range of your occultist spells increases by 2 (for example, 1–5 would be 1–7).
 
-#### Rebuke
+### Rebuke
 
 With focus, you can pummel someone with their own negative karma. In addition to the spells you normally know based on your level, you also know _karmic rebuke_. There are no feats associated with this spell, but you can improve it with the Superior Rebuke talent.
 
 _Karmic rebuke_ requires a quick action instead of an interrupt action. It's designed so you can cast it during your turn when you've retained your focus, then use your standard action to get your focus back that same turn.
 
-##### Karmic Rebuke
+#### Karmic Rebuke
 
 Close-quarters spell
 
 **At-Will**
-
 Quick action to cast; expend focus
 
 **Target:** One nearby enemy
@@ -177,111 +179,111 @@ Quick action to cast; expend focus
 
 9th level spell: 7d10 damage.
 
-#### Uniqueness
+### Uniqueness
 
 You're the only occultist. Your one unique thing should address your identity as the occultist, but you need to contribute your own personal take on the character just like you would with a dwarf fighter or other character class. A character's _unique_ concerns story material beyond a class description, yours included.
 
-#### Spell Choices and Flexible Recharge
+### Spell Choices and Flexible Recharge
 
 Like a standard spellcaster, you choose the spells you will be able to cast after each full heal-up. When you successfully recharge a spell, you can regain any spell of that spell's level, not necessarily the same spell again. In effect, you roll to recharge that level's spell slot.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per day, you can automatically succeed on a recharge roll that's 6+ (but not 11+ or 16+).
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day when you recharge a spell (usually during a quick rest), you can make a recharge roll for a recharge spell even if you haven't expended that spell (allowing you to have an additional use of that spell available).
 
-##### Epic Feat
+#### Epic Feat
 
 Once per day, you can automatically succeed on a recharge roll.
 
-### Class Talents
+## Class Talents
 
 Choose four of the following class talents. You get an additional occultist class talent at 5th level, and again at 8th level.
 
-#### Brain-Melting Secrets
+### Brain-Melting Secrets
 
 When you hit with a spell attack that deals psychic damage, one target of the attack can't attack you during its next turn this battle unless you are the only nearby enemy.
 
-##### _ **Adventurer Feat** _
+#### _**Adventurer Feat**_
 
 The effect works whenever you hit an enemy with a spell, not only one that deals psychic damage.
 
-##### _ **Champion Feat** _
+#### _**Champion Feat**_
 
 You are immune to the confused and dazed conditions. In addition, charm, fear, sleep, and similar mental effects have no effect on you.
 
-##### _ **Epic Feat** _
+#### _**Epic Feat**_
 
 Once per battle when you deal psychic damage to an enemy, if it has 300 hp or fewer, you can also weaken it (save ends).
 
-#### Hewer of Truth
+### Hewer of Truth
 
 You can use an edged melee weapon without an attack penalty. You can use Intelligence instead of Strength for your attack rolls with that weapon, and Wisdom instead of Strength for your damage rolls. In addition, when you hit an enemy engaged with you with a spell, you can cause a small amount of extra harm to that foe with your weapon. The target takes ongoing damage equal to your melee attack miss damage.
 
-##### _ **Adventurer Feat** _
+#### _**Adventurer Feat**_
 
 Twice per day when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon (double your Wisdom modifier at 5th level; triple it at 8th level).
 
-##### _ **Champion Feat** _
+#### _**Champion Feat**_
 
 While you have your focus, you gain a +4 bonus to opportunity attacks.
 
-##### _ **Epic Feat** _
+#### _**Epic Feat**_
 
 Once per day when you hit an enemy with _karmic rebuke_, you can make a basic melee attack as a free action.
 
-#### Icon Channeler
+### Icon Channeler
 
 _You cannot take this talent if you have taken the_ Icon Envoy _talent._
 
-You have three fewer relationship dice than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to roll relationship dice, you get a 5 to apply to any icon you choose. Like any other character, you can gain relationship dice through extraordinary story events. Remember, just because an icon is out to kill you doesn't mean you have relationship dice with that icon. Dice represent the utility of a connection in the story not its strength. If you encounter icons other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
+You have three fewer relationship points than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to allocate relationship points, you get an advantage as though you have 3 points with any one occult relationship you choose. Like any other character, you can gain occult relationship points through extraordinary story events. Remember, just because a occult relationship is out to kill you doesn't mean you have negative relationship points. Points represent the utility of a connection in the story not its strength. If you encounter occult relationships other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
 
-##### _ **Adventurer Feat** _
+#### _**Adventurer Feat**_
 
-Choose three icons when you take this feat. Each time you apply your 5 to one of those icons, roll a d6. On a 5–6, change that 5 you're applying to a 6.
+Choose three occult relationships when you take this feat. Each time you apply the effects of Icon Channeler to occult relationships, you gain an advantage as though you had 6 points with those occult relationships.
 
-##### _ **Champion Feat** _
+#### _**Champion Feat**_
 
-As the adventurer feat, except that you can also choose three more icons (six total) when you take this feat that allow you to roll the d6 when you apply a 5 to one of them.
+As the adventurer feat, except that you can also choose three more occult relationships (six total).
 
-##### _ **Epic Feat** _
+#### _**Epic Feat**_
 
-You now get two 5s when the other characters roll icon relationship dice. You can roll a d6 for each 5 if you apply it to a chosen icon from the adventurer and champion feats.
+Each time you apply the effects of Icon Channeler to occult relationships, you gain an advantage as though you had 9 points with those occult relationships.
 
-#### Icon Envoy
+### Icon Envoy
 
 _You cannot take this talent if you have taken the_ Icon Channeler _talent._
 
-Each time the characters roll relationship dice, declare which player will get at least a 5 with one of their icons before the rolls. The player rolls one of their dice for that icon before the others. That first roll counts as a 5 unless the player rolls 6. Roll all other icon dice normally.
+Each time characters get to barter for relationship advantages and roll a persuasion check, declare which player will get at least a 16 with one of their relationships before the rolls. The player rolls one of their checks for that relationship before the others. That first roll counts as a 16 unless that player rolls higher. Roll all other relationship checks normally.
 
-##### _ **Adventurer Feat** _
+#### _**Adventurer Feat**_
 
-Once per level, instead of working with the icon relationships your ally has, give an ally a 5 with an icon they don't have a relationship with.
+Once per level, instead of working with the relationships your ally has, give an ally a 16 with a relationship they don't already have a relationship with.
 
-##### _ **Champion Feat** _
+#### _**Champion Feat**_
 
-If the first roll for the called icon is even (2, 4, 6), it counts as a 6 instead of a 5.
+If the first roll for the called relationship is even, it counts as a 20 instead of a 16.
 
-##### _ **Epic Feat** _
+#### _**Epic Feat**_
 
-If the first roll for the called icon is odd (1, 3, 5), you can declare a second player and one of their icons, and have them roll one icon die the same way.
+If the first roll for the called relationship is odd, you can declare a second player and one of their relationships, and have them roll one persuasion check the same way.
 
-#### Otherworld Shadow
+### Otherworld Shadow
 
 A shadow self haunts and lurks near you most of the time, sometimes an actual shadow on a wall, but other times only a presence sensed just over your shoulder. Once per day as an interrupt action, negate all damage and effects from an enemy's attacks against you that turn as your shadow absorbs them. Using this talent's power means you avoid damage from a monster's multiple attacks if it has them. It also works against multiple attacks from mooks in the same mob working on the same initiative count, but not attacks from multiple non-mook monsters.
 
-##### _ **Adventurer Feat** _
+#### _**Adventurer Feat**_
 
 Your shadow grants you greater personal resilience: increase your total recoveries by 1.
 
-##### _ **Champion Feat** _
+#### _**Champion Feat**_
 
 Once per day as a free action, you can end all ongoing damage affecting you as you pass off the damage to your shadow.
 
-##### _ **Epic Feat** _
+#### _**Epic Feat**_
 
 Once per day as a free action, you gain a _fear aura_ that affects each enemy attacking you or engaged with you. The hit point threshold for the fear effect is the standard value for a monster five levels above you. Allies are not subject to the fear effect unless they cast a spell that targets you or otherwise interact with you directly in some way. Even in this case, that ally can spend a move action to be immune to your shadow's _fear aura_ for one round.
 
@@ -298,73 +300,73 @@ Once per day as a free action, you gain a _fear aura_ that affects each enemy at
 | **9** | 192 |
 | **10** | 230 |
 
-#### Stance of Necessity
+### Stance of Necessity
 
 Twice per day as a quick action, you can gain a +4 bonus to all defenses. The protection lasts until the end of the battle and is in effect while you do NOT have your focus. The bonus also ends when an attack hits you while you don't have your focus.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can guard a nearby ally instead of yourself (you don't have to see that ally). The defense bonus ends if either you or the ally is hit while you don't have your focus.
 
-##### Champion Feat
+#### Champion Feat
 
 Your Stance of Necessity uses are now recharge 16+ instead of daily.
 
-##### Epic Feat
+#### Epic Feat
 
 When an enemy misses you with an attack while you don't have your focus, it takes psychic damage equal to triple your Wisdom modifier + Level.
 
-#### Superior Rebuke
+### Superior Rebuke
 
 The first time each round that you expend your focus to cast a spell as an interrupt action and fail to retain your focus, roll a d20 afterward. On an 18–20, you can also cast _karmic rebuke_ as a free action, using that roll in place of your attack roll. You can use this talent again during a later round in the battle once you have your focus again.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can also make the _karmic rebuke_ attack when the d20 roll is 2–4 (low monster MD plus an escalation die bonus often means you'll still hit).
 
-##### Champion Feat
+#### Champion Feat
 
 You can also make a _karmic rebuke_ attack as a free action when you roll a natural 5, 10, 15, or 20 on initiative, even if you don't have your focus.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day as a free action, you can enhance your _karmic__rebuke_. When you enhance it, enemies are vulnerable (crit range expands by 2) to your _karmic rebuke_ attacks until the end of the battle or until you score a critical hit with the attack.
 
-#### Unwinding the Soul
+### Unwinding the Soul
 
 When you cast a spell and roll a natural 11+ with the attack, after the attack you can "unwind" the target as a free action, making it vulnerable to your attacks until the end of the battle. You can unwind only one enemy at a time, so if you choose to unwind a different enemy, the previous foe is no longer vulnerable to your attacks.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can now unwind a second enemy, but if you unwind a third, the first enemy is no longer vulnerable. You can also take this feat multiple times, allowing you to unwind another enemy each time you select it.
 
-##### Champion Feat
+#### Champion Feat
 
 You can now unwind an enemy with any attack roll other than a natural 1 when you cast a spell, instead of only on an 11+.
 
-##### Epic Feat
+#### Epic Feat
 
 When you attack an enemy that you have begun to unwind and roll a natural 11+ against it, it takes extra psychic damage equal to your Wisdom modifier + Level from all subsequent hits by you or your allies.
 
-#### Warp Flesh
+### Warp Flesh
 
 When you cast a spell that targets Mental Defense and the target has a higher MD than PD, the attack "twists" and targets PD instead. When a spell twists this way, it deals force damage instead of its normal damage type.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 When you cast a spell that twists, you gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).
 
-##### Champion Feat
+#### Champion Feat
 
 When you score a critical hit with a spell, the target also takes ongoing force damage equal to double your Wisdom modifier (triple it at 8th level). The ongoing damage isn't doubled by the crit.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per battle when you hit an enemy with a spell, you can negate all of the target's resistances (hard save ends, 16+). This effect occurs even if the target's PD is higher than its MD.
 
-### 1st Level Spells
+## 1st Level Spells
 
-#### Better Yet, Here
+### Better Yet, Here
 
 Close-quarters spell
 
@@ -392,15 +394,15 @@ Interrupt action to cast; expend focus
 
 9th level spell: 8d10 damage.
 
-##### Champion Feat
+#### Champion Feat
 
 When this attack drops the enemy to 0 hp or drops the last mook of a mob, you don't expend your focus.
 
-##### Epic Feat
+#### Epic Feat
 
 When the triggering ally scores a critical hit with the attack, you don't expend your focus.
 
-#### Bitter Lessons
+### Bitter Lessons
 
 Close-quarters spell
 
@@ -428,7 +430,7 @@ Interrupt action to cast; expend focus
 
 9th level spell: 8d10 damage.
 
-#### Brilliant Comeback
+### Brilliant Comeback
 
 Close-quarters spell
 
@@ -450,19 +452,19 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–15
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The triggering ally adds hit points equal to your Wisdom modifier to the recovery (double your Wisdom modifier at 5th level; triple it at 8th level).
 
-##### Champion Feat
+#### Champion Feat
 
 The triggering ally can make an at-will attack instead of a basic attack.
 
-##### Epic Feat
+#### Epic Feat
 
 The target of the triggering ally's attack is vulnerable to that attack.
 
-#### Inevitable Fall
+### Inevitable Fall
 
 Close-quarters spell
 
@@ -490,11 +492,11 @@ Interrupt action to cast; expend focus
 
 9th level spell: 2d10 x 10 damage, and 35 ongoing damage; 35 ongoing damage on a miss.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The save to end the ongoing damage, hit or miss, is hard (16+).
 
-#### Moment of Karma
+### Moment of Karma
 
 Close-quarters spell
 
@@ -522,19 +524,19 @@ Interrupt action to cast; expend focus
 
 9th level spell: 10d10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 When the target is staggered before the attack, it's vulnerable to this attack.
 
-##### Champion Feat
+#### Champion Feat
 
 When you hit with this spell, the target also takes ongoing damage equal to double your Wisdom modifier (triple it at 8th level).
 
-##### Epic Feat
+#### Epic Feat
 
 Add triple your Wisdom modifier to your miss damage.
 
-#### Timely Mistake
+### Timely Mistake
 
 Close-quarters spell
 
@@ -562,21 +564,21 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 If the triggering attack targets one of your allies, that ally gains a bonus to all defenses against the rerolled attack equal to your Wisdom modifier.
 
-##### Champion Feat
+#### Champion Feat
 
 This spell's damage dice increase by one size (for example, d6s become d8s).
 
-##### Epic Feat
+#### Epic Feat
 
 When you miss with this spell but retain your focus with the roll, the target takes double the miss damage, unless you rolled a 1.
 
-### 3rd Level Spells
+## 3rd Level Spells
 
-#### Blood for Blood
+### Blood for Blood
 
 Close-quarters spell
 
@@ -602,19 +604,19 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The spell can now trigger when an ally is dazed, weakened, or stunned by an enemy's attack.
 
-##### Champion Feat
+#### Champion Feat
 
 On a hit, the target is now vulnerable until the end of battle.
 
-##### Epic Feat
+#### Epic Feat
 
 Your retain focus range with this spell is now 1–15.
 
-#### Diversion of Pain
+### Diversion of Pain
 
 Close-quarters spell
 
@@ -634,19 +636,19 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–15.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The new target of the attack gains a +2 bonus to all defenses against the triggering attack.
 
-##### Champion Feat
+#### Champion Feat
 
 You can now cast this spell when a triggering enemy hits you with an attack.
 
-_ **Epic Feat** _
+_**Epic Feat**_
 
 The new target gains _resist damage 18+_ against the triggering attack.
 
-#### Fortune Smiles
+### Fortune Smiles
 
 Close-quarters spell
 
@@ -666,15 +668,15 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** —
 
-##### Champion Feat
+#### Champion Feat
 
 Your retain focus range with this spell is now 1–5.
 
-##### Epic Feat
+#### Epic Feat
 
 When you cast this spell, choose a second nearby ally. It can roll a save against a save ends effect.
 
-#### Strike of the Last Breath
+### Strike of the Last Breath
 
 Close-quarters spell
 
@@ -700,13 +702,13 @@ If the target can't make a basic attack against the enemy making the triggering 
 
 9th level spell: Prevent 7d10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The target can make an at-will attack instead of a basic attack.
 
-### 5th Level Spells
+## 5th Level Spells
 
-#### Call of Doom
+### Call of Doom
 
 Close-quarters spell
 
@@ -730,7 +732,7 @@ Free action to cast
 
 9th level spell: 10d10 damage.
 
-#### Crooked Step
+### Crooked Step
 
 Close-quarters spell
 
@@ -748,15 +750,15 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-##### Champion Feat
+#### Champion Feat
 
 The ally the triggering enemy is attacking gains a bonus to all defenses against that attack equal to your Intelligence modifier.
 
-##### Epic Feat
+#### Epic Feat
 
 When this spell makes the triggering enemy miss with an attack, that enemy takes psychic damage equal to (1d8 x the spell level) + triple your Wisdom modifier. For example, casting at 7th level with a Wisdom of 20, and rolling a 4 on the d8, you'd deal 43 damage (28 + 15).
 
-#### Fateful Confrontation
+### Fateful Confrontation
 
 Close-quarters spell
 
@@ -774,19 +776,19 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 The spell now triggers against a far away unengaged enemy.
 
-##### Champion Feat
+#### Champion Feat
 
 Your retain focus range with this spell is now 1–15.
 
-##### Epic Feat
+#### Epic Feat
 
 The spell is now recharge 11+ after battle instead.
 
-#### Stifle
+### Stifle
 
 Close-quarters spell
 
@@ -808,17 +810,17 @@ Interrupt action to cast; expend focus
 
 9th level spell: 160 hp or fewer.
 
-##### Champion Feat
+#### Champion Feat
 
 On a hit, the target also takes psychic damage equal to your Level + double your Wisdom modifier (triple it at 8th level).
 
-##### Epic Feat
+#### Epic Feat
 
 Increase the triggering hit point threshold by 50.
 
-### 7th Level Spells
+## 7th Level Spells
 
-#### Arcane Loop
+### Arcane Loop
 
 Close-quarters spell
 
@@ -834,15 +836,15 @@ Interrupt action to cast; expend focus
 
 9th level spell: A spell of 9th level or lower.
 
-##### Champion Feat
+#### Champion Feat
 
 The triggering ally also gains temporary hit points equal to double your Wisdom modifier + the level of the triggering spell. In addition, that ally gains the temporary hit points again when they cast that spell this battle.
 
-##### Epic Feat
+#### Epic Feat
 
 Your retain focus range with this spell is now 1–15.
 
-#### Liberating Blow
+### Liberating Blow
 
 Close-quarters spell
 
@@ -858,13 +860,13 @@ Interrupt action to cast; expend focus
 
 9th level spell: The target can now make an at-will or close-quarters attack instead of a basic melee attack, using your attack roll.
 
-##### Epic Feat
+#### Epic Feat
 
 The target's disengage check is successful whether or not the attack hits.
 
-### 9th Level Spells
+## 9th Level Spells
 
-#### Hasten Fate
+### Hasten Fate
 
 Close-quarters spell
 
@@ -878,11 +880,11 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** —.
 
-##### Epic Feat
+#### Epic Feat
 
 The spell now triggers when the escalation die is 2–5.
 
-#### Rewind the Skeins
+### Rewind the Skeins
 
 Close-quarters spell
 
@@ -892,9 +894,8 @@ Standard action to cast; you can only cast this spell out of battle
 
 **Trigger:** You realize that the last two minutes of out of battle roleplay or existence have gone horribly wrong and you want to rewind and try to redirect reality in a manner that you wish.
 
-**Effect:** Reality goes back two minutes. You remember what happened the first time. No one else does. This effect usually can't rewind past battles—it's designed for reliving or avoiding social interactions, roleplaying moments, traps, non-combat events, earthquakes, tarrasque appearances (if you could use it before rolling initiative!), and even icon relationship rolls.
+**Effect:** Reality goes back two minutes. You remember what happened the first time. No one else does. This effect usually can't rewind past battles—it's designed for reliving or avoiding social interactions, roleplaying moments, traps, non-combat events, earthquakes, tarrasque appearances (if you could use it before rolling initiative!), and even relationship advantage rolls.
 
-##### Epic Feat
+#### Epic Feat
 
 Take it back five minutes.
-

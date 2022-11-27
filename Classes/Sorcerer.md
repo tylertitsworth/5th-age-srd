@@ -1,31 +1,34 @@
-## Sorcerer
+---
+layout: doc
+---
+# Sorcerer
 
-### Ability Scores
+## Ability Scores
 
 Sorcerers gain a +2 class bonus to Charisma or Constitution, as long as it isn't the same ability you increase with your +2 racial bonus.
 
-### Backgrounds
+## Skills
 
-Possible backgrounds include: tribal shaman, pirate captain, spell-arena gladiator, failed wizard, sahuagin hunter.
+Sorcerers get 2 skill points in any Charisma or Constitution skill like Intimidate, Performance, and Streetwise.
 
-### Gear
+## Gear
 
 At 1st level, a sorcerer usually has a simple melee weapon, a few changes of clothing, a wand or staff, and other paraphernalia suggested by their backgrounds.
 
-#### Gold Pieces
+### Gold Pieces
 
-Sorcerers may start with either 25 gp or 1d6 x 10 gp.
+Sorcerers start with 25gp.
 
-#### Armor
+### Armor
 
 | **Armor Type** | **Base AC** | **Atk Penalty** |
 | --- | --- | --- |
-| _ **None** _ | _10_ | — |
-| _ **Light** _ | _10_ | — |
+| _**None**_ | _10_ | — |
+| _**Light**_ | _10_ | — |
 | **Heavy** | 11 | –2 |
 | **Shield** | +1 | -2 |
 
-#### Melee Weapons
+### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ Sorcerers may start with either 25 gp or 1d6 x 10 gp.
 | **Light or Simple** | 1d6 shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 (-2 atk) longsword | 1d10 (-2 atk) greatsword\* |
 
-#### Ranged Weapons
+### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
@@ -43,9 +46,9 @@ Sorcerers may start with either 25 gp or 1d6 x 10 gp.
 
 \* A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
-### Level Progression
+## Level Progression
 
-| **Sorcerer Level** | **Total Hit Points** | **Total Feats** | **1st level spell (M)** | **3rd level spell (M)** | **5th level spell (M)** | **7th level spell (M)** | **9th level spell (M)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Sorcerer Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 4 | — | — | — | — | _Not affected_ | ability modifier |
 | **Level 1** | (6 + CON mod) x **3** | 1 adventurer | 4 | — | — | — | — |  | ability modifier |
@@ -62,9 +65,9 @@ Sorcerers may start with either 25 gp or 1d6 x 10 gp.
 
 Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
-(M): Indicates columns in which multiclass characters lag one level behind.
+(H): Indicates columns in which hybrid characters lag one level behind.
 
-### Stats
+## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -74,17 +77,17 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see level progression chart) |
+| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
 | **Recovery Dice** | (1d6 x Level) + Con mod |
-| **Backgrounds** | 8 points, max 5 in any one background |
-| **Icon Relationships** | 3 points |
+| **Skills** | 2, max 5 in any one skill |
+| **Relationships** | 3 points |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 
-### Basic Attacks
+## Basic Attacks
 
-#### Melee attack
+### Melee attack
 
 At-Will
 
@@ -96,7 +99,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-#### Ranged attack
+### Ranged attack
 
 At-Will
 
@@ -108,15 +111,15 @@ At-Will
 
 **Miss:** —
 
-### Class Features
+## Class Features
 
 All sorcerers share three general class features: Access to Wizardry, Dancing Lights, and Gather Power. _Breath weapon_, _chain_, and _random energy_ are keywords used in sorcerer spells
 
-#### Access to Wizardry
+### Access to Wizardry
 
 Starting at 3rd level, you can take a wizard spell in place of a sorcerer spell. The wizard spell must be two levels lower than the sorcerer spell.
 
-#### Breath Weapon
+### Breath Weapon
 
 Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
 
@@ -126,19 +129,19 @@ You can have only one _breath weapon_ spell active at a time. If you cast a diff
 
 Failing a death save cancels any _breath weapon_ spells you have active.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
 
-#### Chain
+### Chain
 
 When you attack with a _chain_ spell and get a natural even roll, you can roll another attack against a different enemy within range. Keep on rolling attacks as long as you get even rolls and don't run out of new targets. Each enemy can be targeted only once.
 
-#### Dancing Lights
+### Dancing Lights
 
 All sorcerers can cast the _dancing lights_ spell as a standard action. Unlike the wizard's _light_ cantrip, the sorcerer's _dancing lights_ spell produces a number of varicolored light globes that bloom within 5 to 30 feet of the sorcerer every two to five seconds. The sorcerer has very little control over the exact location or illumination provided by the lights, meaning that they can occasionally be used for dramatic plot purposes.
 
-#### Gather Power
+### Gather Power
 
 Once initiative has been rolled and a battle is underway, a sorcerer can spend a standard action to gather magical power, preparing themselves for casting a double-strength spell with their next standard action. Gathering power is loud and very noticeable.
 
@@ -150,7 +153,7 @@ In addition, because you spend your standard action to gather power, you generat
 
 If you get a benefit that deals damage to enemies, you can choose the type of damage (cold, fire, lightning, or thunder).
 
-##### Chaotic Benefit, Adventurer Tier (levels 1–4)
+#### Chaotic Benefit, Adventurer Tier (levels 1–4)
 
 | **Roll (d6)** | **Effect** |
 | --- | --- |
@@ -158,7 +161,7 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 | **3-4** | Deal damage equal to your level to all nearby staggered enemies. |
 | **5-6** | Deal damage equal to your level to one nearby enemy. |
 
-##### Chaotic Benefit, Champion Tier (levels 5–7)
+#### Chaotic Benefit, Champion Tier (levels 5–7)
 
 | **Roll (d6)** | **Effect** |
 | --- | --- |
@@ -166,7 +169,7 @@ If you get a benefit that deals damage to enemies, you can choose the type of da
 | **3-4** | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. |
 | **5-6** | Deal damage equal to your level + your Charisma modifier to one nearby enemy. |
 
-##### Chaotic Benefit, Epic Tier (levels 8–10)
+#### Chaotic Benefit, Epic Tier (levels 8–10)
 
 | **Roll (d6)** | **Effect** |
 | --- | --- |
@@ -184,19 +187,19 @@ Breath weapon spells add an extra wrinkle. Of course you can gather power the fi
 
 If you've gathered power for a spell that deals ongoing damage, the ongoing damage is doubled the first time it is dealt, but not on subsequent rounds, if any.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per battle, you can choose the chaotic benefit you want instead of rolling for it.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle when the escalation die is 4+, you can gather power as a quick action.
 
-##### Epic Feat
+#### Epic Feat
 
 When you gather power, if the escalation die is 2+, you can roll two chaotic benefits. Unlike most effects, the benefits stack if you roll the same result twice.
 
-#### Random Energy
+### Random Energy
 
 Some sorcerer spells deal damage of a random type. If it matters for the situation, use a d4 to determine which type of damage the spell deals.
 
@@ -207,53 +210,53 @@ Some sorcerer spells deal damage of a random type. If it matters for the situati
 | **3** | Lightning |
 | **4** | Thunder |
 
-### Class Talents
+## Class Talents
 
-#### About Heritage Talents
+### About Heritage Talents
 
-Sorcerers possess innate talent for magic that is impulsive and chaotic where wizardry is measured and studied. Most sorcerers have strong magical links to one of the icons.
+Sorcerers possess innate talent for magic that is impulsive and chaotic where wizardry is measured and studied. Most sorcerers have strong magical links to one of the sorcerous relationships.
 
-#### Arcane Heritage
+### Arcane Heritage
 
 Although magic is in the blood of every sorcerer, you have a greater understanding of magic than most sorcerers and even some wizards.
 
-You gain a +2 bonus to a background that involves or suggests magical knowledge or talent, up to your normal maximum background point limit.
+You gain 2 skill points in intelligence or charisma that involves or suggests magical knowledge or talent, up to your normal maximum skill point limit.
 
 You can also use one of your sorcerer spell choices to choose any wizard spell of the same level. You get only one such equal-level wizard spell at a time; all others have to be purchased using the 2-level penalty in the Access to Wizardry class feature described above.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Use your Charisma as the attack ability for the wizard spell you choose with your Arcane Heritage talent.
 
-##### Champion Feat
+#### Champion Feat
 
 You can cast your wizard spells empowered as if they were sorcerer powers. Generally, empowering wizard spells only helps by doubling the damage.
 
-#### Blood Link
+### Blood Link
 
-Choose one of your sorcerous heritage talents. You gain 1 relationship point with the icon associated with that heritage; you choose whether the point is positive, conflicted, or negative. This point can add to your normal relationship points but you can't exceed the normal relationship maximums with it. (Remember that positive relationships with villainous icons are limited to 1 point.)
+Choose one of your sorcerous heritage talents. You gain 1 relationship point with the relationship associated with that heritage; you choose whether the point is positive or negative. This point can add to your normal relationship points but you can't exceed the normal relationship maximums with it.
 
-##### Champion Feat
+#### Champion Feat
 
-Gain another relationship point with an icon associated with one of your heritage talents. As above, you must follow the relationship maximums.
+Gain another relationship point with a relationship associated with one of your heritage talents. As above, you must follow the relationship maximums.
 
-#### Chromatic Destroyer Heritage
+### Chromatic Destroyer Heritage
 
 You can have multiple _breath weapon_ spells active at the same time. You don't gain extra actions, so if you succeed with multiple _breath weapon_ spells, you'll generally have to choose which one to use.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain a +2 attack bonus with empowered _breath weapon_ spells.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per day, turn a failed _breath weapon_ re-use roll into a success.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, gain resist dragon attack 16+ (all attacks made by dragons; dragon must roll natural 16+ with the attack or it deals only half damage).
 
-#### Fey Heritage
+### Fey Heritage
 
 One battle per day, when you roll initiative, you can choose to invoke your Fey Heritage and gain the racial power of one the elven races in addition to your own racial power. Roll on the table below. If you roll your own race's power, you gain the half-elf's _surprising_ racial power instead.
 
@@ -263,19 +266,19 @@ One battle per day, when you roll initiative, you can choose to invoke your Fey 
 | **3-4** | Highblood teleport (high elf) |
 | **5-6** | Elven grace (wood elf) |
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can now invoke your Fey Heritage talent in two battles each day.
 
-##### Champion Feat
+#### Champion Feat
 
 You gain a +2 attack bonus against elves and monsters in the elven sphere of influence (including the Drider, Storm Giant, and Medusa).
 
-##### Epic Feat
+#### Epic Feat
 
 Once per battle when the escalation die reaches 6+, as a free action, you can gain an elf racial power that you have not already used in this battle.
 
-#### Infernal Heritage
+### Infernal Heritage
 
 Once per day, as a quick action when the escalation die is 1+, you can enter a spell frenzy until the end of the battle.
 
@@ -283,51 +286,51 @@ While in a spell frenzy, you roll 2d20 for each of your sorcerer spell attacks. 
 
 For each die that misses, you take damage equal to double the level of the target of your attack.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You gain resist energy damage 12+ to fire and to one of the following types of energy of your choice: acid, cold, lightning, psychic, thunder.
 
-##### Champion Feat
+#### Champion Feat
 
 Increase one of your resistances to 16+.
 
-##### Epic Feat
+#### Epic Feat
 
 In addition to your normal use of spell frenzy, you can also enter a spell frenzy as a free action while the escalation die is 5+.
 
-#### Metallic Protector Heritage
+### Metallic Protector Heritage
 
 Your rolls to re-use breath weapon spells during a fight gain a +2 bonus.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 As a quick action at the start of each battle, you can gain resist energy 12+ to one of the following types of energy of your choice: acid, cold, fire, lightning, or poison.
 
-##### Champion Feat
+#### Champion Feat
 
 When you gather power and your chaotic benefit increases your defenses, you can choose one nearby ally to gain the same defense bonus.
 
-##### Epic Feat
+#### Epic Feat
 
 One battle per day, you can choose to gain resist demon attack 16+ instead of resist energy 12+ from your Metallic Protector Heritage talent.
 
-#### Sorcerer's Familiar
+### Sorcerer's Familiar
 
 You have a familiar much like a wizard's familiar, but more changeable. Unlike the wizard, you don't choose two abilities for your familiar. Instead you choose one permanent ability that suits your familiar's nature; the only limitation is that you can't choose _tough_ as the permanent ability. Each time you get a full heal-up, randomly determine two _other_ abilities your familiar will possess until your next full heal-up.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Your familiar gains another randomly changing ability.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per level, if your familiar is close to you, it can cast one of your spells as a free action on your initiative count, even if you have already expended the spell. The spell functions as if you had cast it.
 
-##### Epic Feat
+#### Epic Feat
 
 Your familiar gains another randomly changing ability.
 
-#### Spell Fist
+### Spell Fist
 
 Your style of sorcery emphasizes close-range fighting. There are two advantages and one possible drawback to your style.
 
@@ -337,37 +340,37 @@ You can use ranged spells while engaged with enemies without taking opportunity 
 
 You use your Constitution modifier instead of your Charisma modifier to determine the damage you add to all your sorcerer spells.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At 5th level, add double your Charisma modifier; at 8th level, triple it.
 
-##### Champion Feat
+#### Champion Feat
 
 Once per battle, you can include one enemy engaged with you as an additional target of any attack spell you cast that targets other enemies.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per day when you cast an empowered spell, each enemy engaged with you becomes an additional target of that spell if it's not already targeted by the spell.
 
-#### Undead Remnant Heritage
+### Undead Remnant Heritage
 
 You have resist negative energy 12+ and gain a +1 attack bonus against undead. You can also include negative energy damage on your personal random energy damage type table, swapping out an energy type you don't want to access randomly.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Decrease your total recoveries by 1; you gain a +2 bonus to death saves.
 
-##### Champion Feat
+#### Champion Feat
 
 Your resist negative energy power improves to 16+, and the attack bonus against undead increases to +2.
 
-##### Epic Feat
+#### Epic Feat
 
 If you put out one of your eyes and cut off one of your hands, you gain a +1 bonus to all attacks.
 
-### 1st Level Spells
+## 1st Level Spells
 
-#### Breath of the White
+### Breath of the White
 
 Close-quarters spell
 
@@ -391,7 +394,7 @@ Daily
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
 
-#### Burning Hands
+### Burning Hands
 
 Close-quarters spell
 
@@ -411,19 +414,19 @@ Targets: Up to two nearby enemies in a group
 
 9th level spell: 5d8 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 When you miss with _burning hands_, you deal fire damage to the target equal to each damage die that rolled its maximum possible result.
 
-##### Champion Feat
+#### Champion Feat
 
 When you roll a natural 18+ with a _burning hands_ attack roll, you can choose another nearby target for the spell. The new target doesn't have to be part of the original group.
 
-##### Epic Feat
+#### Epic Feat
 
 You can now target each enemy engaged with you with your _burning hands_ spell in addition to any other targets.
 
-#### Chaos Bolt
+### Chaos Bolt
 
 Ranged spell
 
@@ -447,15 +450,15 @@ At-Will
 
 9th level spell: 9d8 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You don't take the –2 penalty for attacking a far away enemy with the spell.
 
-##### Champion Feat
+#### Champion Feat
 
 If you are a champion-tier sorcerer, roll any chaotic benefit gained with this spell on the epic chaotic benefits table. If you are an epic-tier sorcerer, choose the epic chaotic benefit you want instead of rolling.
 
-#### Lightning Fork
+### Lightning Fork
 
 Ranged spell
 
@@ -477,21 +480,21 @@ Recharge 16+ after battle
 
 9th level spell: 2d8 x 10 damage.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 Once per battle, you can reroll one of your _lightning fork_ attacks rolls.
 
-##### Champion Feat
+#### Champion Feat
 
 If you miss all targets with _lightning fork_, you don't expend it.
 
-##### Epic Feat
+#### Epic Feat
 
 The recharge roll for _lightning fork_ is now 11+.
 
-_ **Chain Spell:** _ Each time you make a natural even attack roll, you can attack a different target with the spell.
+_**Chain Spell:**_ Each time you make a natural even attack roll, you can attack a different target with the spell.
 
-#### Resist Energy
+### Resist Energy
 
 Ranged spell
 
@@ -509,11 +512,11 @@ Recharge 16+ after battle
 
 9th level spell: Recharge roll is now 11+.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can target an additional creature with the spell.
 
-#### Scorching Ray
+### Scorching Ray
 
 Ranged spell
 
@@ -535,21 +538,21 @@ At-Will
 
 9th level spell: 10d6 damage; 5d6 ongoing.
 
-##### Adventurer Feat
+#### Adventurer Feat
 
 You can now use the spell against a far away target, but with a –2 attack penalty.
 
-##### Champion Feat
+#### Champion Feat
 
 Each time you cast the spell, you can have the attack deal random energy damage instead of fire damage. Replace the fire entry on the random energy table with your choice of negative energy or acid.
 
-##### Epic Feat
+#### Epic Feat
 
 You don't take the –2 penalty for attacking a far away enemy with the spell.
 
-### 3rd Level Spells
+## 3rd Level Spells
 
-#### Breath of the Green
+### Breath of the Green
 
 Close-quarters spell
 
@@ -571,7 +574,7 @@ Daily
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
 
-#### Chaos Pulse
+### Chaos Pulse
 
 Ranged spell
 
@@ -593,7 +596,7 @@ At-Will
 
 9th level spell: 9d10 damage.
 
-#### Dragon's Leap
+### Dragon's Leap
 
 Ranged spell
 
@@ -613,7 +616,7 @@ Quick action to cast
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
 
-#### Echoing Thunder
+### Echoing Thunder
 
 Ranged spell
 
@@ -633,13 +636,13 @@ At-Will
 
 9th level spell: 9d6 damage; 4d6 aftershock damage.
 
-##### Champion Feat
+#### Champion Feat
 
 The spell's aftershock damage is now also doubled when echoing thunder is empowered.
 
-### 5th Level Spells
+## 5th Level Spells
 
-#### Breath of the Black
+### Breath of the Black
 
 Close-quarters spell
 
@@ -657,13 +660,13 @@ Daily
 
 9th level spell: 2d6 x 10 damage, and 60 ongoing damage; 30 ongoing on a miss.
 
-##### Epic Feat
+#### Epic Feat
 
 Double the spell's ongoing damage on a miss.
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the black_ that turn if you wish.
 
-#### The Elven Shadows
+### The Elven Shadows
 
 Ranged spell
 
@@ -683,11 +686,11 @@ Daily
 
 9th level spell: 10d12 damage.
 
-##### Epic Feat
+#### Epic Feat
 
 Once per battle, the teleport from a hit with _the elven shadows_ can be to a far away location you can see.
 
-#### Three Dooms
+### Three Dooms
 
 Ranged spell
 
@@ -705,9 +708,9 @@ Recharge 16+ after battle
 
 9th level spell: 2d12 x 10 damage.
 
-_ **Chain Spell** _ **:** Each time you make a natural even attack roll, you can attack a different target with the spell.
+_**Chain Spell**_ **:** Each time you make a natural even attack roll, you can attack a different target with the spell.
 
-#### Unearthly Glamour
+### Unearthly Glamour
 
 Ranged spell
 
@@ -719,9 +722,9 @@ Daily
 
 9th level spell: The effect lasts for 2 hours.
 
-### 7th Level Spells
+## 7th Level Spells
 
-#### Breath of the Blue
+### Breath of the Blue
 
 Close-quarters spell
 
@@ -737,13 +740,13 @@ Daily
 
 9th level spell: 2d10 x 10 damage; 25 lightning damage to nearby allies.
 
-##### Epic Feat
+#### Epic Feat
 
 You can now target a far away enemy with the spell (no attack penalty).
 
-_ **Breath Spell** _ **:** For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the blue_ this turn if you wish.
+_**Breath Spell**_ **:** For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the blue_ this turn if you wish.
 
-#### Stolen Faces
+### Stolen Faces
 
 Ranged spell
 
@@ -761,7 +764,7 @@ You can't steal racial powers you already possess.
 
 9th level spell: You get to use your allies' powers as if you also had any of their feats that improve those powers.
 
-#### Touch of Evil
+### Touch of Evil
 
 Close-quarters spell
 
@@ -786,11 +789,11 @@ Roll a d8 to see which power you gain:
 | **5** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
 | **6** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
 | **7** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
-| **8** | Eye of the demon | Choose any two features you want. For the rest of this day, all your icon relationships disappear and are replaced by an identical number of conflicted points with a villainous icon (preferably one that is demonic). |
+| **8** | Eye of the demon | Choose any two features you want. For the rest of this day, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
 
-### 9th Level Spells
+## 9th Level Spells
 
-#### Breath of the Void
+### Breath of the Void
 
 Close-quarters spell
 
@@ -806,19 +809,19 @@ Daily
 
 _Breath Spell_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the void_ this turn if you wish.
 
-#### Calling the Blood
+### Calling the Blood
 
 Close-quarters spell
 
 Daily
 
-**Effect:** Randomly select an icon (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that icon to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of an icon that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
+**Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relatioship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
 
-##### Epic Feat
+#### Epic Feat
 
 Randomly choose twice, then choose the single result you prefer.
 
-#### Silver Flame
+### Silver Flame
 
 Close-quarters spell
 
@@ -826,15 +829,14 @@ Daily
 
 Quick action to cast
 
-**Effect:** Roll your relationship dice that you have with a sorcerous heroic icon.
+**Effect:** Roll a performance check related to a sorcerous heroic relationship that you have.
 
-For each 6 you roll, you gain one 7th level or lower spell from any spellcasting class that you can cast this battle. For each 5 you roll, you gain one 5th level or lower spell from any spellcasting class that you can cast this battle.
+On a 16+, you gain one 7th level or lower spell from any spellcasting class that you can cast this battle. On a 11+, you gain one 5th level or lower spell from any spellcasting class that you can cast this battle.
 
-If the escalation die is 5+, you can swap the escalation die for one or your rolls. If you get no successes, you regain the spell after this battle.
+If the escalation die is 5+, you can add the escalation die for one or your rolls. If you get no successes, you regain the spell after this battle.
 
 You can acquire one of the new spells the same round you cast this spell. Then select and acquire any other gained spells at the start of your next turn.
 
 You can use your Charisma as the ability score that provides the acquired spells' attack bonuses and damage bonuses (if any). Other ability score references remain unchanged.
 
-As you might expect, each 5 you roll also invokes an icon-related complication or obligation in the tradition of rolling 5s on relationship checks.
-
+As you might expect, if you roll a failure that also invokes a relationship-related complication or obligation in the tradition of rolling failures on relationship checks.
