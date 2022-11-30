@@ -53,12 +53,12 @@ Bards start with 25gp.
 | **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 2, up to 1st level | 3 | — | — | — | — |  | ability modifier |
 | **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3, up to 3rd level | 1 | 2 | — | — | — |  | ability modifier |
 | **Level 4** | (7 + CON mod) x 6 | 4 adventurer | 3, up to 3rd level | — | 4 | — | — | — | +1 to 3 abilities | ability modifier |
-| **Level 5** | (7 + CON mod) x 8 | 4 adventurer1 champion | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
-| **Level 6** | (7 + CON mod) x 10 | 4 adventurer2 champion | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
-| **Level 7** | (7 + CON mod) x 12 | 4 adventurer3 champion | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adventurer3 champion1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adventurer3 champion2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adventurer3 champion3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 5** | (7 + CON mod) x 8 | 4 adventurer; 1 champion | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
+| **Level 6** | (7 + CON mod) x 10 | 4 adventurer; 2 champion | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
+| **Level 7** | (7 + CON mod) x 12 | 4 adventurer; 3 champion | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels
 

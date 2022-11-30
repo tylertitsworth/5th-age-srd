@@ -54,11 +54,11 @@ Necromancers start with 25gp.
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 3 | — | — | — |  | ability modifier |
 | **Level 4** | (6 + CON mod) x 6 | 4 adventurer | — | 6 | — | — | — | +1 to 3 abilities | ability modifier |
 | **Level 5** | (6 + CON mod) x 8 | 4 adventurerchampion | — | 3 | 4 | — | — |  | 2 x ability modifier |
-| **Level 6** | (6 + CON mod) x 10 | 4 adventurer2 champion | — | — | 7 | — | — |  | 2 x ability modifier |
-| **Level 7** | (6 + CON mod) x 12 | 4 adventurer3 champion | — | — | 3 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adventurer3 champion1 epic | — | — | — | 8 | — |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adventurer3 champion2 epic | — | — | — | 3 | 6 |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adventurer3 champion3 epic | — | — | — | — | 9 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion | — | — | 7 | — | — |  | 2 x ability modifier |
+| **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | — | — | 3 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | — | — | — | 8 | — |  | 3 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | — | — | — | 3 | 6 |  | 3 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | — | — | — | — | 9 | +1 to 3 abilities | 3 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 

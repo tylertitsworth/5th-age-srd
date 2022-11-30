@@ -55,21 +55,12 @@ Druids start with 25gp.
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer |  | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer |  | ability modifier |
 | **Level 4** | (6 + CON mod) x 6 | 4 adventurer | +1 to 3 abilities | ability modifier |
-| **Level 5** | (6 + CON mod) x 8 | 4 adventurer
- 1 champion |  | 2 x ability modifier |
-| **Level 6** | (6 + CON mod) x 10 | 4 adventurer
- 2 champion |  | 2 x ability modifier |
-| **Level 7** | (6 + CON mod) x 12 | 4 adventurer
- 3 champion | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adventurer
- 3 champion
- 1 epic |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adventurer
- 3 champion
- 2 epic |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adventurer
- 3 champion
- 3 epic | +1 to 3 abilities | 3 x ability modifier |
+| **Level 5** | (6 + CON mod) x 8 | 4 adventurer; 1 champion |  | 2 x ability modifier |
+| **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion |  | 2 x ability modifier |
+| **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic |  | 3 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic |  | 3 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | +1 to 3 abilities | 3 x ability modifier |
 
 ## Stats
 
