@@ -405,13 +405,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d10 damage.
-
-5th level spell: 5d10 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 9d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d10 damage. |
+| 5th | 5d10 damage. |
+| 7th | 7d10 damage. |
+| 9th | 9d10 damage. |
 
 #### Adventurer Feat
 
@@ -470,13 +469,12 @@ Daily
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 6d6 damage.
-
-5th level spell: 6d10 damage.
-
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 6d6 damage. |
+| 5th | 6d10 damage. |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ## Defense Spells (1st Level+)
 
@@ -496,13 +494,12 @@ At-Will
 | _**13–16**_ | _Defense bonus—_You gain a +2 bonus to the defense of your choice (AC, PD, or MD) until an attack against that defense misses you or until the end of the battle. |
 | _**17–20**_ | _Healing—_You or your nearby ally with the fewest hit points can heal using a recovery. (If you're the one with the fewest hit points among you and your nearby allies, it's you.) |
 
-3rd level spell: _gift_ and _resilience_ now grant 12 temporary hit points; _aura/tentacles_ damage is 2d10.
-
-5th level spell: _gift_ and _resilience_ now grant 20 temporary hit points; _aura/tentacles_ damage is 4d10.
-
-7th level spell: _gift_ and _resilience_ now grant 35 temporary hit points; _aura/tentacles_ damage is 6d8.
-
-9th level spell: _gift_ and _resilience_ now grant 60 temporary hit points; _aura/tentacles_ damage is 10d8.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | _gift_ and _resilience_ now grant 12 temporary hit points; _aura/tentacles_ damage is 2d10. |
+| 5th | _gift_ and _resilience_ now grant 20 temporary hit points; _aura/tentacles_ damage is 4d10. |
+| 7th | _gift_ and _resilience_ now grant 35 temporary hit points; _aura/tentacles_ damage is 6d8. |
+| 9th | _gift_ and _resilience_ now grant 60 temporary hit points; _aura/tentacles_ damage is 10d8. |
 
 #### Adventurer Feat
 
@@ -526,13 +523,12 @@ Once per battle
 
 **Effect:** Randomly choose one of the targets. That target can heal using a recovery. The other target gains 10 temporary hit points and grows a strange eye, limb, or other physical feature that lasts as long as the temporary hit points do.
 
-3rd level spell: 20 temporary hit points.
-
-5th level spell: 30 temporary hit points.
-
-7th level spell: 45 temporary hit points.
-
-9th level spell: 70 temporary hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 20 temporary hit points. |
+| 5th | 30 temporary hit points. |
+| 7th | 45 temporary hit points. |
+| 9th | 70 temporary hit points. |
 
 ## Iconic Spells & Feats
 
@@ -558,13 +554,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d6 damage.
-
-5th level spell: 5d6 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 6d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage. |
+| 5th | 5d6 damage. |
+| 7th | 5d8 damage. |
+| 9th | 6d10 damage. |
 
 ##### Adventurer Feat
 
@@ -586,11 +581,11 @@ Daily
 
 **Effect:** Until the end of the battle, you gain a +3 bonus to AC and when an enemy engaged with you misses you with an attack, it takes 3d6 + Charisma damage.
 
-5th level spell: 5d6 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d6 damage. |
+| 7th | 5d8 damage. |
+| 9th | 7d10 damage. |
 
 #### Yours! (1st level+)
 
@@ -680,9 +675,10 @@ Daily
 
 **Miss:** Damage equal to your level.
 
-7th level spell: 9d10 damage.
-
-9th level spell: 2d6 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 9d10 damage. |
+| 9th | 2d6 x 10 damage. |
 
 ##### Champion Feat
 
@@ -700,13 +696,12 @@ At-Will
 
 **Effect:** The next natural odd attack roll you or one of your allies makes this battle that hits an enemy deals 13 extra damage.
 
-3rd level spell: 23 extra damage.
-
-5th level spell: 33 extra damage.
-
-7th level spell: 53 extra damage.
-
-9th level spell: 83 extra damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 23 extra damage. |
+| 5th | 33 extra damage. |
+| 7th | 53 extra damage. |
+| 9th | 83 extra damage. |
 
 ##### Adventurer Feat
 
@@ -730,11 +725,11 @@ Daily
 
 **Effect:** Each target takes 5d6 + Charisma damage.
 
-5th level spell: 5d8 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 10d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d8 damage. |
+| 7th | 7d10 damage. |
+| 9th | 10d10 damage. |
 
 ##### Adventurer Feat
 
@@ -760,13 +755,12 @@ At-Will
 
 **Effect:** The target takes 4 force damage.
 
-3rd level spell: 7 damage.
-
-5th level spell: 10 damage.
-
-7th level spell: 14 damage.
-
-9th level spell: 27 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 7 damage. |
+| 5th | 10 damage. |
+| 7th | 14 damage. |
+| 9th | 27 damage. |
 
 ##### Adventurer Feat
 
@@ -792,9 +786,10 @@ Daily
 
 After the damage, roll the escalation die and use the new result.
 
-7th level spell: Damage equal to 2d6 x the escalation die.
-
-9th level spell: Damage equal to 2d12 x the escalation die.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Damage equal to 2d6 x the escalation die. |
+| 9th | Damage equal to 2d12 x the escalation die. |
 
 #### Shards of Magic (1st level+)
 
@@ -812,13 +807,12 @@ At-Will
 
 **Natural Even Miss:** You can teleport to a nearby location you can see as a free action.
 
-3rd level spell: Even hit: 3d6 damage; Odd hit: 10 ongoing damage.
-
-5th level spell: Even hit: 5d6 damage; Odd hit: 18 ongoing damage.
-
-7th level spell: Even hit: 5d8 damage; Odd hit: 28 ongoing damage.
-
-9th level spell: Even hit: 7d10 damage; Odd hit: 40 ongoing damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Even hit: 3d6 damage; Odd hit: 10 ongoing damage. |
+| 5th | Even hit: 5d6 damage; Odd hit: 18 ongoing damage. |
+| 7th | Even hit: 5d8 damage; Odd hit: 28 ongoing damage. |
+| 9th | Even hit: 7d10 damage; Odd hit: 40 ongoing damage. |
 
 ##### Adventurer Feat
 
@@ -864,13 +858,12 @@ At-Will
 
 **Hit:** 1d4 + Charisma lightning damage, and a different random nearby enemy takes the same amount of thunder damage.
 
-3rd level spell: 2d6 damage.
-
-5th level spell: 3d6 damage.
-
-7th level spell: 5d6 damage.
-
-9th level spell: 5d8 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d6 damage. |
+| 5th | 3d6 damage. |
+| 7th | 5d6 damage. |
+| 9th | 5d8 damage. |
 
 ##### Adventurer Feat
 
@@ -892,11 +885,11 @@ Daily
 
 **Effect:** You and each of your nearby allies each heal hit points equal to 1d6 x the number of recoveries that character has expended this day. (And no, free recoveries don't count; this spell only counts the resources you've expended.)
 
-5th level spell: 1d10 x the number of recoveries.
-
-7th level spell: 2d6 x the number of recoveries.
-
-9th level spell: 2d10 x the number of recoveries.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 1d10 x the number of recoveries. |
+| 7th | 2d6 x the number of recoveries. |
+| 9th | 2d10 x the number of recoveries. |
 
 ### Twisted Path
 
@@ -916,13 +909,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 6d6 damage, you or ally loses 2d6 hit points.
-
-5th level spell: 6d10 damage, you or ally loses 4d6 hit points.
-
-7th level spell: 10d10 damage, you or ally loses 6d6 hit points.
-
-9th level spell: 2d8 x 10 damage, you or ally loses 8d6 hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 6d6 damage, you or ally loses 2d6 hit points. |
+| 5th | 6d10 damage, you or ally loses 4d6 hit points. |
+| 7th | 10d10 damage, you or ally loses 6d6 hit points. |
+| 9th | 2d8 x 10 damage, you or ally loses 8d6 hit points. |
 
 ##### Adventurer Feat
 
@@ -962,13 +954,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d10 damage, 8 temporary hit points.
-
-5th level spell: 5d10 damage, 10 temporary hit points.
-
-7th level spell: 7d10 damage, 15 temporary hit points.
-
-9th level spell: 9d10 damage, 25 temporary hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d10 damage, 8 temporary hit points. |
+| 5th | 5d10 damage, 10 temporary hit points. |
+| 7th | 7d10 damage, 15 temporary hit points. |
+| 9th | 9d10 damage, 25 temporary hit points. |
 
 ##### Adventurer Feat
 
@@ -998,7 +989,9 @@ Replace the target with the GM's choice of an undamaged and hostile undead creat
 
 **Miss:** 7d10 + Charisma psychic damage.
 
-9th level spell: 8d10 + Charisma psychic damage on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 8d10 + Charisma psychic damage on a miss. |
 
 ##### Champion Feat
 
@@ -1022,13 +1015,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d8 damage, 5 temporary hit points.
-
-5th level spell: 5d8 damage, 8 temporary hit points.
-
-7th level spell: 7d8 damage, 10 temporary hit points.
-
-9th level spell: 9d8 damage, 15 temporary hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d8 damage, 5 temporary hit points. |
+| 5th | 5d8 damage, 8 temporary hit points. |
+| 7th | 7d8 damage, 10 temporary hit points. |
+| 9th | 9d8 damage, 15 temporary hit points. |
 
 ##### Adventurer Feat
 
@@ -1052,13 +1044,12 @@ Daily
 
 **Effect:** The target can heal using a recovery.
 
-3rd level spell: Target with 20 hp or fewer.
-
-5th level spell: Target with 40 hp or fewer.
-
-7th level spell: Target with 60 hp or fewer.
-
-9th level spell: Target with 100 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 20 hp or fewer. |
+| 5th | Target with 40 hp or fewer. |
+| 7th | Target with 60 hp or fewer. |
+| 9th | Target with 100 hp or fewer. |
 
 ##### Adventurer Feat
 
@@ -1082,13 +1073,12 @@ At-Will
 
 **Effect:** The targets teleport and swap places. Each teleported enemy takes 1d6 damage. You and your allies don't take damage from teleporting.
 
-3rd level spell: 2d6 damage.
-
-5th level spell: 2d10 damage.
-
-7th level spell: 3d12 damage.
-
-9th level spell: 4d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d6 damage. |
+| 5th | 2d10 damage. |
+| 7th | 3d12 damage. |
+| 9th | 4d12 damage. |
 
 ##### Adventurer Feat
 
@@ -1138,13 +1128,12 @@ At-Will
 
 **Natural Even Miss:** 3 ongoing acid damage.
 
-3rd level spell: 3d6 damage, 6 ongoing damage.
-
-5th level spell: 5d6 damage, 9 ongoing damage.
-
-7th level spell: 7d8 damage, 12 ongoing damage.
-
-9th level spell: 9d8 damage, 18 ongoing damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage, 6 ongoing damage. |
+| 5th | 5d6 damage, 9 ongoing damage. |
+| 7th | 7d8 damage, 12 ongoing damage. |
+| 9th | 9d8 damage, 18 ongoing damage. |
 
 ##### Adventurer Feat
 

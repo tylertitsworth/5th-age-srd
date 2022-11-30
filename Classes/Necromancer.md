@@ -227,13 +227,12 @@ As a quick action, you can drop a nearby enemy that has 5 hp or fewer down to 0 
 
 You can use Deathknell to drop a mook, but only if it's the last mook in its mob and the mob has 5 hp or fewer left.
 
-3rd level spell: Drop an enemy with 10 hp or fewer. Heal 1d10 hit points.
-
-5th level spell: Drop an enemy with 15 hp or fewer. Heal 2d8 hit points.
-
-7th level spell: Drop an enemy with 20 hp or fewer. Heal 4d6 hit points.
-
-9th level spell: Drop an enemy with 25 hp or fewer. Heal 4d8 hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Drop an enemy with 10 hp or fewer. Heal 1d10 hit points. |
+| 5th | Drop an enemy with 15 hp or fewer. Heal 2d8 hit points. |
+| 7th | Drop an enemy with 20 hp or fewer. Heal 4d6 hit points. |
+| 9th | Drop an enemy with 25 hp or fewer. Heal 4d8 hit points. |
 
 #### Adventurer Feat
 
@@ -407,13 +406,12 @@ Once per battle
 
 **Miss:** The spell is not expended.
 
-3rd level spell: 5d6 damage vs. enemy, 10 damage vs. ally.
-
-5th level spell: 5d10 damage vs. enemy, 15 damage vs. ally.
-
-7th level spell: 7d10 damage vs. enemy, 20 damage vs. ally.
-
-9th level spell: 10d12 damage vs. enemy, 30 damage vs. ally.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage vs. enemy, 10 damage vs. ally. |
+| 5th | 5d10 damage vs. enemy, 15 damage vs. ally. |
+| 7th | 7d10 damage vs. enemy, 20 damage vs. ally. |
+| 9th | 10d12 damage vs. enemy, 30 damage vs. ally. |
 
 #### Adventurer Feat
 
@@ -439,13 +437,12 @@ At-Will
 
 **Hit:** 1d10 + Intelligence negative energy damage.
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 8d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 6d10 damage. |
+| 9th | 8d10 damage. |
 
 #### Adventurer Feat
 
@@ -471,13 +468,12 @@ Once per battle
 
 **Hit:** The target is confused (hard save ends, 16+).
 
-3rd level spell: Target with 96 hp or fewer.
-
-5th level spell: Target with 160 hp or fewer.
-
-7th level spell: Target with 266 hp or fewer.
-
-9th level spell: Target with 460 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 96 hp or fewer. |
+| 5th | Target with 160 hp or fewer. |
+| 7th | Target with 266 hp or fewer. |
+| 9th | Target with 460 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -507,13 +503,12 @@ _Special:_ Instead of taking the ongoing damage at the end of its turn, the targ
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 2d8 damage.
-
-5th level spell: 4d6 damage.
-
-7th level spell: 6d6 damage.
-
-9th level spell: 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d8 damage. |
+| 5th | 4d6 damage. |
+| 7th | 6d6 damage. |
+| 9th | 7d10 damage. |
 
 #### Adventurer Feat
 
@@ -537,13 +532,12 @@ Daily
 
 As you cast the spell at higher levels, the mooks you summon vary, as shown below. The stats for each mob of mooks you can summon are also shown below.
 
-3rd level spell: 1d3 + 1 putrid zombie mooks.
-
-5th level spell: 1d3 + 1 starving ghoul mooks.
-
-7th level spell: 1d3 + 1 masterless vampire spawn mooks.
-
-9th level spell: 1d3 + 1 Blackamber skeletal warrior mooks.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 1d3 + 1 putrid zombie mooks. |
+| 5th | 1d3 + 1 starving ghoul mooks. |
+| 7th | 1d3 + 1 masterless vampire spawn mooks. |
+| 9th | 1d3 + 1 Blackamber skeletal warrior mooks. |
 
 #### Champion Feat
 
@@ -603,13 +597,12 @@ Daily
 
 **Miss:** 1d10 + Intelligence psychic damage.
 
-3rd level spell: Target with 70 hp or fewer, 4d6 damage on a miss.
-
-5th level spell: Target with 100 hp or fewer, 6d6 damage on a miss.
-
-7th level spell: Target with 180 hp or fewer, 6d10 damage on a miss.
-
-9th level spell: Target with 300 hp or fewer, 8d10 damage on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 70 hp or fewer, 4d6 damage on a miss. |
+| 5th | Target with 100 hp or fewer, 6d6 damage on a miss. |
+| 7th | Target with 180 hp or fewer, 6d10 damage on a miss. |
+| 9th | Target with 300 hp or fewer, 8d10 damage on a miss. |
 
 #### Adventurer Feat
 
@@ -639,13 +632,12 @@ Daily
 
 **Second Miss:** Half damage, or full damage if the escalation die is 1+ and you choose to decrease it by 1.
 
-3rd level spell: 4d10 damage.
-
-5th level spell: 7d10 damage.
-
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d10 damage. |
+| 5th | 7d10 damage. |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -671,13 +663,12 @@ Daily
 
 **Effect:** The target gains 30 temporary hit points that last until the end of the next battle. Until the end of the next battle, the target takes a –5 penalty to Charisma and Dexterity skill checks (no penalty to attacks), to disengage checks, and to initiative rolls.
 
-3rd level spell: 50 temporary hit points.
-
-5th level spell: 80 temporary hit points.
-
-7th level spell: 130 temporary hit points.
-
-9th level spell: 210 temporary hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 50 temporary hit points. |
+| 5th | 80 temporary hit points. |
+| 7th | 130 temporary hit points. |
+| 9th | 210 temporary hit points. |
 
 ## 3rd Level Spells
 
@@ -695,11 +686,11 @@ Daily
 
 **Miss:** Half damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
-5th level spell: 7d12 damage.
-
-7th level spell: 2d6 x 10 damage.
-
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 7d12 damage. |
+| 7th | 2d6 x 10 damage. |
+| 9th | 2d10 x 10 damage. |
 
 **Special:** The stats for the mooks created by each level of _the bones beneath_ appear below. The level or physical nature of the mooks is irrelevant; the magic of the spell turns whatever creatures it's forced to work with into skeletal mook allies with the stats below.
 
@@ -751,11 +742,11 @@ Daily
 
 **Miss vs.** **an ally:** You take half the damage the ally would have taken on a hit.
 
-5th level spell: 8d12 damage to an enemy, 2d6 damage to an ally.
-
-7th level spell: 2d8 x 10 damage to an enemy, 3d8 damage to an ally.
-
-9th level spell: 4d6 x 10 damage to an enemy, 3d10 damage to an ally.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 8d12 damage to an enemy, 2d6 damage to an ally. |
+| 7th | 2d8 x 10 damage to an enemy, 3d8 damage to an ally. |
+| 9th | 4d6 x 10 damage to an enemy, 3d10 damage to an ally. |
 
 ### Ghoul Form
 
@@ -769,11 +760,11 @@ Daily
 
 The target also only gains half the normal amount from healing effects, no matter the source.
 
-5th level spell: The target now also gains a +4 bonus to initiative, Dexterity checks, and disengage checks.
-
-7th level spell: Enemies engaged with the target are now vulnerable to all attacks.
-
-9th level spell: The target also gains an advantage from a necromantic relationship.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | The target now also gains a +4 bonus to initiative, Dexterity checks, and disengage checks. |
+| 7th | Enemies engaged with the target are now vulnerable to all attacks. |
+| 9th | The target also gains an advantage from a necromantic relationship. |
 
 ### Negative Energy Shield
 
@@ -785,11 +776,11 @@ Daily
 
 **Effect:** Until the end of the battle, when an enemy engaged with you attacks you with a natural odd attack roll, it takes 6d6 + Intelligence negative energy damage.
 
-5th level spell: 6d10 damage.
-
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 6d10 damage. |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ### Ray of Enfeeblement
 
@@ -805,11 +796,11 @@ Daily
 
 **Miss:** Half damage.
 
-5th level spell: 7d12 damage.
-
-7th level spell: 2d6 x 10 damage.
-
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 7d12 damage. |
+| 7th | 2d6 x 10 damage. |
+| 9th | 2d10 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -837,11 +828,11 @@ _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up
 
 _Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
 
-5th level spell: You can now cast this spell 1d4 times per day, targeting corpses or even just heads that have been dead up to a week.
-
-7th level spell: Questions can now be phrased to receive three-word answers, targeting corpses/heads that have been dead up to a month.
-
-9th level spell: Questions can now be phrased to receive one to two sentence answers, targeting corpses/heads or skeletal remains of almost any age.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now cast this spell 1d4 times per day, targeting corpses or even just heads that have been dead up to a week. |
+| 7th | Questions can now be phrased to receive three-word answers, targeting corpses/heads that have been dead up to a month. |
+| 9th | Questions can now be phrased to receive one to two sentence answers, targeting corpses/heads or skeletal remains of almost any age. |
 
 ### Summon Horror (3rd level+)
 
@@ -853,11 +844,11 @@ Daily
 
 As you cast the spell at higher levels, the creature you summon varies, as shown below. The stats for each creature are shown below.
 
-5th level spell: You can now summon a wight.
-
-7th level spell: You can now summon a barrow wight.
-
-9th level spell: You can now summon a greater wight.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now summon a wight. |
+| 7th | You can now summon a barrow wight. |
+| 9th | You can now summon a greater wight. |
 
 #### Summoned Ghoul
 
@@ -897,11 +888,11 @@ Until the end of the battle, as a free action at the start of each of your turns
 
 The effect ends at the end of the battle, when you drop to 0 hp, or when your _wave of decay_ damage drops an enemy to 0 hit points!
 
-5th level spell: 2d12 damage.
-
-7th level spell: 3d12 damage.
-
-9th level spell: 5d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 2d12 damage. |
+| 7th | 3d12 damage. |
+| 9th | 5d12 damage. |
 
 #### Champion Feat
 
@@ -923,9 +914,10 @@ Quick action to cast
 
 **Effect:** Choose a creature you can see in the battle. If that creature is the next creature to drop to 0 hp, you heal using a recovery.
 
-7th level spell: When the creature drops, one of your nearby allies can heal using a recovery instead of you.
-
-9th level spell: If the chosen creature is _not_ the next creature in the battle to drop to 0 hp, you still gain 30 temporary hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | When the creature drops, one of your nearby allies can heal using a recovery instead of you. |
+| 9th | If the chosen creature is _not_ the next creature in the battle to drop to 0 hp, you still gain 30 temporary hit points. |
 
 #### Champion Feat
 
@@ -949,9 +941,10 @@ Daily
 
 **Miss:** 15 ongoing negative energy damage (hard save ends, 16+).
 
-7th level spell: 50 ongoing damage on a hit, with fail increments/miss damage of 25.
-
-9th level spell: 80 ongoing damage on a hit, with fail increments/miss damage of 40.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 50 ongoing damage on a hit, with fail increments/miss damage of 25. |
+| 9th | 80 ongoing damage on a hit, with fail increments/miss damage of 40. |
 
 ### Summon Wraith (5th level+)
 
@@ -963,9 +956,10 @@ Daily
 
 As you cast the spell at higher levels, you summon multiple wraiths. Stats for the two versions of the wraith summoned by the spell are listed below.
 
-7th level spell: You can now summon two wraiths.
-
-9th level spell: You can now summon two greater wraiths.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | You can now summon two wraiths. |
+| 9th | You can now summon two greater wraiths. |
 
 #### Epic Feat
 
@@ -1005,9 +999,10 @@ Daily
 
 **Miss:** Negative energy damage equal to your level.
 
-7th level spell: Targets with 160 hp or fewer.
-
-9th level spell: Targets with 260 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Targets with 160 hp or fewer. |
+| 9th | Targets with 260 hp or fewer. |
 
 #### Champion Feat
 
@@ -1035,7 +1030,9 @@ Daily
 
 **Miss:** Half damage.
 
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 2d8 x 10 damage. |
 
 ### Feigned Defeat
 
@@ -1047,7 +1044,9 @@ Quick action to cast
 
 **Effect:** You lose 10d8 hit points that can't be prevented in any way. At the start of your next turn, you heal using 3 free recoveries. If you are at 0 hp or below, or even dead, you return to life at 0 hp before healing.
 
-9th level spell: You lose 10d12 hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You lose 10d12 hit points. |
 
 ### Ghost Form
 
@@ -1061,7 +1060,9 @@ Daily
 
 The target also only gains half the normal amount from healing effects, no matter the source.
 
-9th level spell: While in ghost form, you can move through solid objects, but you can't end your movement inside them.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | While in ghost form, you can move through solid objects, but you can't end your movement inside them. |
 
 #### Champion Feat
 

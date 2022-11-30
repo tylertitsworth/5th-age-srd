@@ -384,13 +384,12 @@ Daily
 
 **Miss:** Half damage.
 
-3rd level spell: 5d6 damage.
-
-5th level spell: 4d10 damage.
-
-7th level spell: 6d12 damage.
-
-9th level spell: 10d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage. |
+| 5th | 4d10 damage. |
+| 7th | 6d12 damage. |
+| 9th | 10d12 damage. |
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
 
@@ -406,13 +405,12 @@ Targets: Up to two nearby enemies in a group
 
 **Hit:** 1d6 + Charisma fire damage.
 
-3rd level spell: 1d8 damage.
-
-5th level spell: 2d8 damage.
-
-7th level spell: 3d8 damage.
-
-9th level spell: 5d8 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 1d8 damage. |
+| 5th | 2d8 damage. |
+| 7th | 3d8 damage. |
+| 9th | 5d8 damage. |
 
 #### Adventurer Feat
 
@@ -442,13 +440,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d8 damage.
-
-5th level spell: 5d8 damage.
-
-7th level spell: 7d8 damage.
-
-9th level spell: 9d8 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d8 damage. |
+| 5th | 5d8 damage. |
+| 7th | 7d8 damage. |
+| 9th | 9d8 damage. |
 
 #### Adventurer Feat
 
@@ -472,13 +469,12 @@ Recharge 16+ after battle
 
 **Miss:** Half damage.
 
-3rd level spell: 7d6 damage.
-
-5th level spell: 6d10 damage.
-
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 7d6 damage. |
+| 5th | 6d10 damage. |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -504,13 +500,12 @@ Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, the target gains resist damage 12+ to the following energy type of your choice: cold, fire, lightning, thunder.
 
-3rd level spell: Choose two types of energy the target gains resistance to.
-
-5th level spell: Resistance is now 16+.
-
-7th level spell: The spell now affects two targets.
-
-9th level spell: Recharge roll is now 11+.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Choose two types of energy the target gains resistance to. |
+| 5th | Resistance is now 16+. |
+| 7th | The spell now affects two targets. |
+| 9th | Recharge roll is now 11+. |
 
 #### Adventurer Feat
 
@@ -530,13 +525,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d6 damage; 2d4 ongoing.
-
-5th level spell: 4d6 damage; 2d6 ongoing.
-
-7th level spell: 6d6 damage; 3d6 ongoing.
-
-9th level spell: 10d6 damage; 5d6 ongoing.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage; 2d4 ongoing. |
+| 5th | 4d6 damage; 2d6 ongoing. |
+| 7th | 6d6 damage; 3d6 ongoing. |
+| 9th | 10d6 damage; 5d6 ongoing. |
 
 #### Adventurer Feat
 
@@ -566,11 +560,11 @@ Daily
 
 **Miss:** 5 ongoing poison damage.
 
-5th level spell: 25 + Charisma ongoing poison damage; 10 ongoing on a miss.
-
-7th level spell: 35 + Charisma ongoing poison damage; 15 ongoing on a miss.
-
-9th level spell: 50 + Charisma ongoing poison damage; 25 ongoing on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 25 + Charisma ongoing poison damage; 10 ongoing on a miss. |
+| 7th | 35 + Charisma ongoing poison damage; 15 ongoing on a miss. |
+| 9th | 50 + Charisma ongoing poison damage; 25 ongoing on a miss. |
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
 
@@ -590,11 +584,11 @@ At-Will
 
 **Odd Miss:** Damage equal to your level.
 
-5th level spell: 5d10 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 9d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d10 damage. |
+| 7th | 7d10 damage. |
+| 9th | 9d10 damage. |
 
 ### Dragon's Leap
 
@@ -608,11 +602,11 @@ Quick action to cast
 
 **Effect:** You can fly at the rate you normally move until the end of your turn. (So if you don't land or find someplace to hang from, you'll fall.)
 
-5th level spell: You can now fly until the end of your next turn.
-
-7th level spell: You can now fly twice as fast as you normally move on the ground. You also gain a +5 bonus to disengage checks.
-
-9th level spell: The spell is now recharge 16+ after battle instead of daily.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now fly until the end of your next turn. |
+| 7th | You can now fly twice as fast as you normally move on the ground. You also gain a +5 bonus to disengage checks. |
+| 9th | The spell is now recharge 16+ after battle instead of daily. |
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
 
@@ -630,11 +624,11 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-5th level spell: 5d6 damage; 2d6 aftershock damage.
-
-7th level spell: 7d6 damage; 3d6 aftershock damage.
-
-9th level spell: 9d6 damage; 4d6 aftershock damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d6 damage; 2d6 aftershock damage. |
+| 7th | 7d6 damage; 3d6 aftershock damage. |
+| 9th | 9d6 damage; 4d6 aftershock damage. |
 
 #### Champion Feat
 
@@ -656,9 +650,10 @@ Daily
 
 **Miss:** 10 ongoing acid damage.
 
-7th level spell: 10d10 damage, and 40 ongoing damage; 20 ongoing on a miss.
-
-9th level spell: 2d6 x 10 damage, and 60 ongoing damage; 30 ongoing on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 10d10 damage, and 40 ongoing damage; 20 ongoing on a miss. |
+| 9th | 2d6 x 10 damage, and 60 ongoing damage; 30 ongoing on a miss. |
 
 #### Epic Feat
 
@@ -682,9 +677,10 @@ Daily
 
 **Miss:** Damage equal to your level.
 
-7th level spell: 9d10 damage.
-
-9th level spell: 10d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 9d10 damage. |
+| 9th | 10d12 damage. |
 
 #### Epic Feat
 
@@ -704,9 +700,10 @@ Recharge 16+ after battle
 
 **Miss:** Half damage, and you still take random energy damage equal to the unmodified dice roll.
 
-7th level spell: 2d8 x 10 damage.
-
-9th level spell: 2d12 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 2d8 x 10 damage. |
+| 9th | 2d12 x 10 damage. |
 
 _**Chain Spell**_ **:** Each time you make a natural even attack roll, you can attack a different target with the spell.
 
@@ -718,9 +715,10 @@ Daily
 
 **Effect:** You gain a +5 bonus to all Charisma skill checks for the next five minutes. If you fail a Charisma skill check during this time, however, anyone you were attempting to convince or influence with the check is freaked out or disgusted by the supernatural glamour attached to you and has extremely negative reactions to you.
 
-7th level spell: The effect lasts for 1 hour.
-
-9th level spell: The effect lasts for 2 hours.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | The effect lasts for 1 hour. |
+| 9th | The effect lasts for 2 hours. |
 
 ## 7th Level Spells
 
@@ -738,7 +736,9 @@ Daily
 
 **Miss:** Half damage, and no damage to target's allies.
 
-9th level spell: 2d10 x 10 damage; 25 lightning damage to nearby allies.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 2d10 x 10 damage; 25 lightning damage to nearby allies. |
 
 #### Epic Feat
 
@@ -762,7 +762,9 @@ Each ally you steal a racial power from can roll an easy save (6+). Success mean
 
 You can't steal racial powers you already possess.
 
-9th level spell: You get to use your allies' powers as if you also had any of their feats that improve those powers.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You get to use your allies' powers as if you also had any of their feats that improve those powers. |
 
 ### Touch of Evil
 

@@ -403,13 +403,12 @@ At-Will
 
 **Hit:** 1d4 + Charisma thunder damage.
 
-3rd level spell: 2d4 damage.
-
-5th level spell: 4d4 damage.
-
-7th level spell: 6d4 damage.
-
-9th level spell: 10d4 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d4 damage. |
+| 5th | 4d4 damage. |
+| 7th | 6d4 damage. |
+| 9th | 10d4 damage. |
 
 #### Adventurer Feat
 
@@ -437,13 +436,12 @@ Recharge 11+ after battle
 
 **Natural Even Miss:** The target is dazed until the end of your next turn.
 
-3rd level spell: Target with 64 hp or fewer.
-
-5th level spell: Target with 96 hp or fewer.
-
-7th level spell: Target with 160 hp or fewer.
-
-9th level spell: Target with 266 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 64 hp or fewer. |
+| 5th | Target with 96 hp or fewer. |
+| 7th | Target with 160 hp or fewer. |
+| 9th | Target with 266 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -473,13 +471,12 @@ Daily
 
 **Special:** On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
 
-3rd level spell: Target with 64 hp or fewer.
-
-5th level spell: Target with 96 hp or fewer.
-
-7th level spell: Target with 160 hp or fewer.
-
-9th level spell: Target with 266 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 64 hp or fewer. |
+| 5th | Target with 96 hp or fewer. |
+| 7th | Target with 160 hp or fewer. |
+| 9th | Target with 266 hp or fewer. |
 
 ### Soundburst
 
@@ -495,13 +492,12 @@ Daily
 
 **Miss:** Half damage, and deal thunder damage equal to your level to each of your allies engaged with the target.
 
-3rd level spell: 6d8 damage.
-
-5th level spell: 8d10 damage.
-
-7th level spell: 2d6 x 10 damage.
-
-9th level spell: 3d6 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 6d8 damage. |
+| 5th | 8d10 damage. |
+| 7th | 2d6 x 10 damage. |
+| 9th | 3d6 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -633,11 +629,11 @@ Recharge 11+ after battle
 
 **Miss:** Damage equal to your level.
 
-5th level spell: 9d6 damage.
-
-7th level spell: 10d8 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 9d6 damage. |
+| 7th | 10d8 damage. |
+| 9th | 2d8 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -661,11 +657,11 @@ Daily
 
 **Effect:** Each target can heal using a recovery.
 
-5th level spell: Add +5 hp to the recovery.
-
-7th level spell: Add +15 hp to the recovery.
-
-9th level spell: Add +25 hp to the recovery.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Add +5 hp to the recovery. |
+| 7th | Add +15 hp to the recovery. |
+| 9th | Add +25 hp to the recovery. |
 
 #### Adventurer Feat
 
@@ -739,9 +735,10 @@ Recharge 16+ after battle
 
 **Miss:** Xd6 psychic damage, where X = escalation die.
 
-7th level spell: 10d10 damage.
-
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 10d10 damage. |
+| 9th | 2d10 x 10 damage. |
 
 #### Champion Feat
 
@@ -765,9 +762,10 @@ Daily
 
 **Miss:** The target is dazed until the end of your next turn.
 
-7th level spell: Target with 140 hp or fewer.
-
-9th level spell: Target with 240 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Target with 140 hp or fewer. |
+| 9th | Target with 240 hp or fewer. |
 
 ## 7th Level Battle Cries
 

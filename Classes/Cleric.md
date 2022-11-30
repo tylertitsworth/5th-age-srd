@@ -329,13 +329,12 @@ Quick action to cast
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target gains a +1 attack bonus until the end of the battle.
 
-3rd level spell: Each target also gains 1d10 temporary hit points per point of the attack bonus.
-
-5th level spell: Each target also gains 2d10 temporary hit points instead of 1d10 per point of the attack bonus.
-
-7th level spell: All attack bonuses granted by the spell increase by +1.
-
-9th level spell: Each target also gains 3d10 temporary hit points instead of 2d10 per point of the attack bonus.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Each target also gains 1d10 temporary hit points per point of the attack bonus. |
+| 5th | Each target also gains 2d10 temporary hit points instead of 1d10 per point of the attack bonus. |
+| 7th | All attack bonuses granted by the spell increase by +1. |
+| 9th | Each target also gains 3d10 temporary hit points instead of 2d10 per point of the attack bonus. |
 
 ### Cure Wounds
 
@@ -347,13 +346,12 @@ Quick action to cast
 
 **Effect:** You or a nearby ally can heal using a free recovery.
 
-3rd level spell: The target can also roll a save against each save ends effect.
-
-5th level spell: This spell is now recharge 16+ after battle instead of daily.
-
-7th level spell: The target can heal using two free recoveries instead of one.
-
-9th level spell: This spell is now recharge 11+ instead.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The target can also roll a save against each save ends effect. |
+| 5th | This spell is now recharge 16+ after battle instead of daily. |
+| 7th | The target can heal using two free recoveries instead of one. |
+| 9th | This spell is now recharge 11+ instead. |
 
 ### Hammer of Faith
 
@@ -363,13 +361,12 @@ Daily
 
 **Effect:** Until the end of the battle, your basic melee attacks use d12s as their base weapon damage dice.
 
-3rd level spell: The spell now requires only a quick action to cast.
-
-5th level spell: You deal half damage on misses with basic melee attacks this battle.
-
-7th level spell: Once during the battle, you can reroll a basic melee attack.
-
-9th level spell: For the rest of the battle, change any of your basic melee attack damage dice rolls that are less than the escalation die to the escalation die value.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The spell now requires only a quick action to cast. |
+| 5th | You deal half damage on misses with basic melee attacks this battle. |
+| 7th | Once during the battle, you can reroll a basic melee attack. |
+| 9th | For the rest of the battle, change any of your basic melee attack damage dice rolls that are less than the escalation die to the escalation die value. |
 
 ### Javelin of Faith
 
@@ -385,13 +382,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 8d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 6d10 damage. |
+| 9th | 8d10 damage. |
 
 #### Adventurer Feat
 
@@ -419,13 +415,12 @@ Quick action to cast
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target gains a +1 bonus to AC this battle.
 
-3rd level spell: The bonus also applies to PD.
-
-5th level spell: The bonus increases by +1 while the target is staggered.
-
-7th level spell: The bonus also applies to MD.
-
-9th level spell: The bonus when cast for power increases to +4. The bonus when cast for broad effect increases to +2.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The bonus also applies to PD. |
+| 5th | The bonus increases by +1 while the target is staggered. |
+| 7th | The bonus also applies to MD. |
+| 9th | The bonus when cast for power increases to +4. The bonus when cast for broad effect increases to +2. |
 
 ### Spirits of the Righteous
 
@@ -441,13 +436,12 @@ Once per battle
 
 **Miss:** Your nearby ally with the fewest hit points gains a +2 bonus to AC until the end of your next turn.
 
-3rd level spell: 7d6 damage.
-
-5th level spell: 7d10 damage.
-
-7th level spell: 10d12 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 7d6 damage. |
+| 5th | 7d10 damage. |
+| 7th | 10d12 damage. |
+| 9th | 2d8 x 10 damage. |
 
 #### Champion Feat
 
@@ -471,13 +465,12 @@ Daily
 
 **Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level holy damage
 
-3rd level spell: Target with 90 hp or fewer.
-
-5th level spell: Target with 150 hp or fewer.
-
-7th level spell: Target with 240 hp or fewer.
-
-9th level spell: Target with 400 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 90 hp or fewer. |
+| 5th | Target with 150 hp or fewer. |
+| 7th | Target with 240 hp or fewer. |
+| 9th | Target with 400 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -507,11 +500,11 @@ Daily
 
 **Miss:** The target hates you for having tried to scare it, and it wants to hurt you most of all, but it won't be any stupider than usual in pursuing that goal.
 
-5th level spell: Target with 120 hp or fewer.
-
-7th level spell: Target with 190 hp or fewer.
-
-9th level spell: Target with 300 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Target with 120 hp or fewer. |
+| 7th | Target with 190 hp or fewer. |
+| 9th | Target with 300 hp or fewer. |
 
 ### Combat Boon
 
@@ -521,11 +514,11 @@ At-Will
 
 **Effect:** Make a basic melee attack. If the attack hits, you or one conscious nearby ally can roll a save against a save ends effect.
 
-5th level spell: The save gains a +1 bonus.
-
-7th level spell: If the attack hits, you and your nearby conscious allies can roll a total of two saves (one per character).
-
-9th level spell: The save bonus increases to +2.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | The save gains a +1 bonus. |
+| 7th | If the attack hits, you and your nearby conscious allies can roll a total of two saves (one per character). |
+| 9th | The save bonus increases to +2. |
 
 #### Adventurer Feat
 
@@ -549,11 +542,11 @@ Quick action to cast
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target gains 20 temporary hit points.
 
-5th level spell: Temporary hp = 60/30.
-
-7th level spell: Temporary hp = 80/40.
-
-9th level spell: Temporary hp = 100/50.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Temporary hp = 60/30. |
+| 7th | Temporary hp = 80/40. |
+| 9th | Temporary hp = 100/50. |
 
 ### Judgment
 
@@ -569,11 +562,11 @@ Daily
 
 **Miss:** Holy damage equal to your level.
 
-5th level spell: 8d10 damage.
-
-7th level spell: 2d6 x 10 damage.
-
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 8d10 damage. |
+| 7th | 2d6 x 10 damage. |
+| 9th | 2d10 x 10 damage. |
 
 #### Champion Feat
 
@@ -595,11 +588,11 @@ Daily
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target can heal using a recovery.
 
-5th level spell: The spell can now target far away allies.
-
-7th level spell: Power equals triple the usual hp for one recovery; broad equals 150% the usual hp per recovery.
-
-9th level spell: Recoveries provided by the spell are now free.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | The spell can now target far away allies. |
+| 7th | Power equals triple the usual hp for one recovery; broad equals 150% the usual hp per recovery. |
+| 9th | Recoveries provided by the spell are now free. |
 
 #### Champion Feat
 
@@ -619,11 +612,11 @@ Quick action to cast
 
 **Cast for broad Effect:** Choose up to three nearby creatures (including you); each target deals +1d8 damage with melee attacks this battle.
 
-5th level spell: Power +4d6, Broad +2d6.
-
-7th level spell: Power +4d10, Broad +2d10.
-
-9th level spell: Power +6d10, Broad +3d10.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Power +4d6, Broad +2d6. |
+| 7th | Power +4d10, Broad +2d10. |
+| 9th | Power +6d10, Broad +3d10. |
 
 ## 5th Level Spells
 
@@ -637,9 +630,10 @@ Quick action to cast
 
 **Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes holy damage equal to double your level.
 
-7th level spell: 160 hp or fewer.
-
-9th level spell: 250 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 160 hp or fewer. |
+| 9th | 250 hp or fewer. |
 
 ### Sanctuary
 
@@ -649,9 +643,10 @@ Daily
 
 **Effect:** Choose yourself or a nearby ally. Enemies with 100 hp or fewer cannot attack the chosen target until that creature attacks or the escalation die reaches 6+.
 
-7th level spell: 160 hp or fewer.
-
-9th level spell: 250 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 160 hp or fewer. |
+| 9th | 250 hp or fewer. |
 
 ### Sphere of Radiance
 
@@ -669,9 +664,10 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 8d12 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 8d12 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ## 7th Level Spells
 
@@ -685,7 +681,9 @@ Quick action to cast
 
 **Effect:** Choose a defense: AC, PD, or MD. For the rest of the battle while you are conscious, you and each ally near you gains a +1 bonus to that defense. Each enemy that misses you or one of your nearby allies with an attack against the defense you chose is hampered until the end of its next turn.
 
-9th level spell: Attacks against the chosen defense cannot score critical hits.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | Attacks against the chosen defense cannot score critical hits. |
 
 #### Epic Feat
 
@@ -711,7 +709,9 @@ The fifth time you resurrect someone, that's the end of your story and you die. 
 
 **Limited Resurrection:** If the target of your resurrection spell has been resurrected more times than you have cast the spell, there is a 50% chance that the experience will play out using _their_ higher number of resurrections instead of the number of times you have cast the spell.
 
-9th level spell: You no longer need to have most of the corpse to perform this spell.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You no longer need to have most of the corpse to perform this spell. |
 
 ## 9th Level Spells
 

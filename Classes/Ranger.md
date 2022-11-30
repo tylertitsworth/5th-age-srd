@@ -497,13 +497,12 @@ Daily
 
 **Effect:** The target heals using a free recovery.
 
-3rd level spell: In addition, the target heals hit points equal to your Wisdom modifier at the start of each of its turns until the end of the battle or until it drops to 0 hit points.
-
-5th level spell: The healing the target gains at the start of its turn is now double your Wisdom modifier.
-
-7th level spell: The healing the target gains at the start of its turn is now triple your Wisdom modifier.
-
-9th level spell: The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | In addition, the target heals hit points equal to your Wisdom modifier at the start of each of its turns until the end of the battle or until it drops to 0 hit points. |
+| 5th | The healing the target gains at the start of its turn is now double your Wisdom modifier. |
+| 7th | The healing the target gains at the start of its turn is now triple your Wisdom modifier. |
+| 9th | The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries. |
 
 ### 3rd Level Spells
 
@@ -521,7 +520,9 @@ Daily
 
 5th level spell: The target's crit range expands by 2.
 
-9th level spell: The target's crit range expands by a total of 4.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The target's crit range expands by a total of 4. |
 
 ### 5th Level Spells
 
@@ -539,9 +540,10 @@ Daily
 
 **Effect:** Until the end of the battle, the target gains _resist damage 12+_ against attacks that target AC.
 
-7th level spell: Resistance now includes attacks that target PD.
-
-9th level spell: Resistance increases to _resist damage 14+._
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Resistance now includes attacks that target PD. |
+| 9th | Resistance increases to _resist damage 14+._ |
 
 ### 7th Level Spells
 
@@ -557,7 +559,9 @@ Daily
 
 **Effect:** Until the end of the battle, when the target hits with a melee attack, you heal hit points equal to 1d10 + your Wisdom modifier.
 
-9th level spell: You now heal hit points equal to 2d10 + double your Wisdom modifier.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You now heal hit points equal to 2d10 + double your Wisdom modifier. |
 
 ### 9th Level Spells
 

@@ -171,13 +171,12 @@ Quick action to cast; expend focus
 
 **Hit:** 1d6 + Wisdom psychic damage.
 
-3rd level spell: 3d6 damage.
-
-5th level spell: 5d6 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage. |
+| 5th | 5d6 damage. |
+| 7th | 5d8 damage. |
+| 9th | 7d10 damage. |
 
 ### Uniqueness
 
@@ -386,13 +385,12 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 8d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 6d10 damage. |
+| 9th | 8d10 damage. |
 
 #### Champion Feat
 
@@ -422,13 +420,12 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–15.
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 8d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 6d10 damage. |
+| 9th | 8d10 damage. |
 
 ### Brilliant Comeback
 
@@ -442,13 +439,12 @@ Interrupt action to cast; expend focus
 
 **Effect:** The triggering ally can make a basic attack as a free action. Instead of using their attack bonus, that ally uses an attack bonus equal to your Intelligence modifier + 5.
 
-3rd level spell: Intelligence modifier +7.
-
-5th level spell: Intelligence modifier +10.
-
-7th level spell: Intelligence modifier +12.
-
-9th level spell: Intelligence modifier +15.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Intelligence modifier +7. |
+| 5th | Intelligence modifier +10. |
+| 7th | Intelligence modifier +12. |
+| 9th | Intelligence modifier +15. |
 
 **Retain Focus:** 1–15
 
@@ -484,13 +480,12 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-3rd level spell: 8d6 damage, and 10 ongoing damage; 10 ongoing damage on a miss.
-
-5th level spell: 8d10 damage, and 15 ongoing damage; 15 ongoing damage on a miss.
-
-7th level spell: 2d6 x 10 damage, and 25 ongoing damage; 25 ongoing damage on a miss.
-
-9th level spell: 2d10 x 10 damage, and 35 ongoing damage; 35 ongoing damage on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 8d6 damage, and 10 ongoing damage; 10 ongoing damage on a miss. |
+| 5th | 8d10 damage, and 15 ongoing damage; 15 ongoing damage on a miss. |
+| 7th | 2d6 x 10 damage, and 25 ongoing damage; 25 ongoing damage on a miss. |
+| 9th | 2d10 x 10 damage, and 35 ongoing damage; 35 ongoing damage on a miss. |
 
 #### Adventurer Feat
 
@@ -516,13 +511,12 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-3rd level spell: 5d6 damage.
-
-5th level spell: 5d10 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 10d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage. |
+| 5th | 5d10 damage. |
+| 7th | 7d10 damage. |
+| 9th | 10d10 damage. |
 
 #### Adventurer Feat
 
@@ -554,13 +548,12 @@ Interrupt action to cast; expend focus
 
 **Miss:** Damage equal to spell level.
 
-3rd level spell: 3d6 damage.
-
-5th level spell: 5d6 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage. |
+| 5th | 5d6 damage. |
+| 7th | 5d8 damage. |
+| 9th | 7d10 damage. |
 
 **Retain Focus:** 1–5.
 
@@ -596,11 +589,11 @@ Interrupt action to cast; expend focus
 
 **Miss:** Damage equal to spell level.
 
-5th level spell: 5d6 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d6 damage. |
+| 7th | 5d8 damage. |
+| 9th | 7d10 damage. |
 
 **Retain Focus:** 1–5.
 
@@ -628,11 +621,11 @@ Interrupt action to cast; expend focus
 
 **Effect:** The triggering attack now targets you or a different ally of your choice as long as that creature would be a legal target of the attack. Keep the same attack roll.
 
-5th level spell: An enemy of 8th level or less can now trigger this spell.
-
-7th level spell: An enemy of 11th level or less can now trigger this spell.
-
-9th level spell: An enemy of any level can now trigger this spell.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | An enemy of 8th level or less can now trigger this spell. |
+| 7th | An enemy of 11th level or less can now trigger this spell. |
+| 9th | An enemy of any level can now trigger this spell. |
 
 **Retain Focus:** 1–15.
 
@@ -660,11 +653,11 @@ Interrupt action to cast; expend focus
 
 **Effect:** That ally gains a bonus to the save equal to your Intelligence modifier.
 
-5th level spell: A level 5–7 effect.
-
-7th level spell: A level 8–10 effect.
-
-9th level spell: A level 11+ effect.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | A level 5–7 effect. |
+| 7th | A level 8–10 effect. |
+| 9th | A level 11+ effect. |
 
 **Retain Focus:** —
 
@@ -696,11 +689,11 @@ If the target can't make a basic attack against the enemy making the triggering 
 
 **Retain Focus:** 1–5.
 
-5th level spell: Prevent 5d6 damage.
-
-7th level spell: Prevent 5d8 damage.
-
-9th level spell: Prevent 7d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Prevent 5d6 damage. |
+| 7th | Prevent 5d8 damage. |
+| 9th | Prevent 7d10 damage. |
 
 #### Adventurer Feat
 
@@ -728,9 +721,10 @@ Free action to cast
 
 **Retain Focus:** —.
 
-7th level spell: 6d10 damage.
-
-9th level spell: 10d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 6d10 damage. |
+| 9th | 10d10 damage. |
 
 ### Crooked Step
 
@@ -744,9 +738,10 @@ Interrupt action to cast; expend focus
 
 **Effect:** The triggering enemy rerolls its attack and uses the roll of your choice. If the attack misses, that enemy isn't engaged with your ally (i.e. it wasn't able to move quickly/close enough).
 
-7th level spell: 160 hp or fewer.
-
-9th level spell: 250 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 160 hp or fewer. |
+| 9th | 250 hp or fewer. |
 
 **Retain Focus:** 1–5.
 
@@ -806,9 +801,10 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–10.
 
-7th level spell: 100 hp or fewer.
-
-9th level spell: 160 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 100 hp or fewer. |
+| 9th | 160 hp or fewer. |
 
 #### Champion Feat
 
@@ -834,7 +830,9 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** —.
 
-9th level spell: A spell of 9th level or lower.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | A spell of 9th level or lower. |
 
 #### Champion Feat
 
@@ -858,7 +856,9 @@ Interrupt action to cast; expend focus
 
 **Retain Focus:** 1–5.
 
-9th level spell: The target can now make an at-will or close-quarters attack instead of a basic melee attack, using your attack roll.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The target can now make an at-will or close-quarters attack instead of a basic melee attack, using your attack roll. |
 
 #### Epic Feat
 

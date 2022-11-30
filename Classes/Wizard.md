@@ -365,13 +365,12 @@ Daily
 
 **Effect:** This spell provides you with an effective magical disguise that lasts about ten minutes, making the skill check to avoid unmasking one step easier: easy if it would have been a normal task, normal if it would have been a hard task, and hard if it would have been a ridiculously hard task. The spell only affects your general appearance, not your size. It can be used to hide your features behind the generic features of another person or race. Using it to impersonate a specific creature makes it less effective as a disguise (-2 to -5 penalty).
 
-3rd level spell: The spell lasts for 1 hour.
-
-5th level spell: The spell also provides smell; +2 bonus to any checks.
-
-7th level spell: The spell also handles correct-sounding vocal patterns and rough mannerisms; +4 bonus to any checks.
-
-9th level spell: You can now target an ally with the spell; you can also now use it on up to two creatures at once.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The spell lasts for 1 hour. |
+| 5th | The spell also provides smell; +2 bonus to any checks. |
+| 7th | The spell also handles correct-sounding vocal patterns and rough mannerisms; +4 bonus to any checks. |
+| 9th | You can now target an ally with the spell; you can also now use it on up to two creatures at once. |
 
 ### 1st Level Utility: Feather Fall
 
@@ -383,13 +382,12 @@ Free action to cast
 
 **Effect:** When you cast this spell, it arrests your fall, letting you glide down the ground over a round or two.
 
-3rd level spell: You can now target a nearby ally with the spell.
-
-5th level spell: You can now target up to two nearby creatures with the spell.
-
-7th level spell: You can now target up to five nearby creatures with the spell.
-
-9th level spell: You gain some control over where a target falls, like a quickly gliding feather.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | You can now target a nearby ally with the spell. |
+| 5th | You can now target up to two nearby creatures with the spell. |
+| 7th | You can now target up to five nearby creatures with the spell. |
+| 9th | You gain some control over where a target falls, like a quickly gliding feather. |
 
 ### 1st Level Utility: Hold Portal
 
@@ -399,13 +397,12 @@ Daily
 
 **Effect:** You cast this spell on a door. For ten minutes, adventurer-tier creatures can't get through the door. Champion-tier creatures can batter it down; each attempt requires a DC 20 Intelligence skill check (including an applicable skill) by the caster to resist the battering and keep the spell going. Epic-tier creatures can walk right through.
 
-3rd level spell: The spell now lasts for an hour. Adventurer-tier creatures are stymied. Champion-tier creatures can batter the door down or destroy it after three failed DC 20 skill checks by the spellcaster. Epic creatures notice that the now-busted door had magic on it.
-
-5th level spell: Champion-tier creatures take a few minutes to force the door open. Epic creatures can force it open after one failed DC 25 skill check by the spellcaster.
-
-7th level spell: Champion-tier creatures are stymied for up to an hour by the door. Epic tier creatures get through after three failed DC 25 skill checks by the spellcaster.
-
-9th level spell: Champion-tier creatures can't enter. Epic-tier creatures can't get through for an hour.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The spell now lasts for an hour. Adventurer-tier creatures are stymied. Champion-tier creatures can batter the door down or destroy it after three failed DC 20 skill checks by the spellcaster. Epic creatures notice that the now-busted door had magic on it. |
+| 5th | Champion-tier creatures take a few minutes to force the door open. Epic creatures can force it open after one failed DC 25 skill check by the spellcaster. |
+| 7th | Champion-tier creatures are stymied for up to an hour by the door. Epic tier creatures get through after three failed DC 25 skill checks by the spellcaster. |
+| 9th | Champion-tier creatures can't enter. Epic-tier creatures can't get through for an hour. |
 
 ### 3rd Level Utility: Levitate
 
@@ -415,11 +412,11 @@ Daily
 
 **Effect:** Until the end of the battle, you can use a move action to rise straight up into the air or descend straight down. The spell itself won't move you horizontally. The up-or-down movement is about half as fast as your normal movement. While levitating, you take a –2 penalty to your attacks and are vulnerable to attacks against you.
 
-5th level spell: You can now cast the spell on a nearby willing ally instead of yourself.
-
-7th level spell: You can now cast the spell as a quick action, and the spell can now affect two targets.
-
-9th level spell: The spell can now affect five targets.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now cast the spell on a nearby willing ally instead of yourself. |
+| 7th | You can now cast the spell as a quick action, and the spell can now affect two targets. |
+| 9th | The spell can now affect five targets. |
 
 ### 3rd Level Utility: Message
 
@@ -433,13 +430,12 @@ Quick action to cast
 
 The maximum distance you can send a message depends on the spell's level.
 
-3rd level spell: Across half a city, at most.
-
-5th level spell: Across the entire city and a bit into the countryside.
-
-7th level spell: Between cities near to each other.
-
-9th level spell: From any city to any other city, or across a sea.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Across half a city, at most. |
+| 5th | Across the entire city and a bit into the countryside. |
+| 7th | Between cities near to each other. |
+| 9th | From any city to any other city, or across a sea. |
 
 ### 3rd Level Utility: Speak with Item
 
@@ -451,11 +447,11 @@ Quick action to cast
 
 **Effect:** Speak briefly, mind-to-mind, with a magic item you are touching that is owned by you or one of your allies. The item's owner gets a free power recharge roll if that item's power has been expended.
 
-5th level spell: You no longer need to be touching the item; it only has to be nearby.
-
-7th level spell: The item's owner gains a +2 bonus to the item recharge roll.
-
-9th level spell: If the item recharge roll fails, you keep this spell, but the item won't talk to you until after your next full heal-up.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You no longer need to be touching the item; it only has to be nearby. |
+| 7th | The item's owner gains a +2 bonus to the item recharge roll. |
+| 9th | If the item recharge roll fails, you keep this spell, but the item won't talk to you until after your next full heal-up. |
 
 ### 5th Level Utility: Water Breathing
 
@@ -467,9 +463,10 @@ Quick action to cast
 
 **Effect:** You can breathe underwater for the rest of the battle (or about five minutes). You become aware a couple of rounds ahead of when the magic of the spell is about to end.
 
-7th level spell: You and 1d4 + 2 nearby allies can breathe underwater this battle.
-
-9th level spell: The spell affects you and 1d6 + 2 nearby allies for 4d6 hours.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | You and 1d4 + 2 nearby allies can breathe underwater this battle. |
+| 9th | The spell affects you and 1d6 + 2 nearby allies for 4d6 hours. |
 
 ### 7th Level Utility: Scrying
 
@@ -497,13 +494,12 @@ Daily
 
 **Miss:** 5 ongoing acid damage, and you regain the spell during your next quick rest.
 
-3rd level spell: 5d10 damage, and 10 ongoing damage; 10 ongoing on a miss.
-
-5th level spell: 8d10 damage, and 15 ongoing damage; 15 ongoing on a miss.
-
-7th level spell: 3d4 x 10 damage, and 25 ongoing damage; 25 ongoing on a miss.
-
-9th level spell: 5d4 x 10 damage, and 40 ongoing damage; 40 ongoing on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d10 damage, and 10 ongoing damage; 10 ongoing on a miss. |
+| 5th | 8d10 damage, and 15 ongoing damage; 15 ongoing on a miss. |
+| 7th | 3d4 x 10 damage, and 25 ongoing damage; 25 ongoing on a miss. |
+| 9th | 5d4 x 10 damage, and 40 ongoing damage; 40 ongoing on a miss. |
 
 ### Blur
 
@@ -515,13 +511,12 @@ Daily
 
 **Effect:** For the rest of the battle (or for five minutes), attacks against the target miss 20% of the time.
 
-3rd level spell: The spell is now a quick action to cast.
-
-5th level spell: Miss 25% of the time.
-
-7th level spell: Miss 30% of the time, and you can now target 1d2 creatures with the spell.
-
-9th level spell: Miss 30% of the time, and you can now target two creatures with the spell.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The spell is now a quick action to cast. |
+| 5th | Miss 25% of the time. |
+| 7th | Miss 30% of the time, and you can now target 1d2 creatures with the spell. |
+| 9th | Miss 30% of the time, and you can now target two creatures with the spell. |
 
 ### Charm Person
 
@@ -539,13 +534,12 @@ Daily
 
 **Special:** On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
 
-3rd level spell: Target with 64 hp or fewer.
-
-5th level spell: Target with 96 hp or fewer.
-
-7th level spell: Target with 160 hp or fewer.
-
-9th level spell: Target with 266 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Target with 64 hp or fewer. |
+| 5th | Target with 96 hp or fewer. |
+| 7th | Target with 160 hp or fewer. |
+| 9th | Target with 266 hp or fewer. |
 
 ### Color Spray
 
@@ -559,13 +553,12 @@ Cyclic (cast once per battle OR at-will when the escalation die is even)
 
 **Hit:** 2d8 psychic damage, and if the target has 10 hp or fewer after the damage, it is weakened until the end of your next turn.
 
-3rd level spell: 4d6 damage, 20 hp or fewer.
-
-5th level spell: 6d8 damage, 30 hp or fewer.
-
-7th level spell: 10d6 damage, 40 hp or fewer.
-
-9th level spell: 10d12 damage, 60 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage, 20 hp or fewer. |
+| 5th | 6d8 damage, 30 hp or fewer. |
+| 7th | 10d6 damage, 40 hp or fewer. |
+| 9th | 10d12 damage, 60 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -591,13 +584,12 @@ At-Will
 
 **Effect:** 2d4 force damage.
 
-3rd level spell: 2d8 damage.
-
-5th level spell: 4d6 damage.
-
-7th level spell: 6d6 damage.
-
-9th level spell: 10d6 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d8 damage. |
+| 5th | 4d6 damage. |
+| 7th | 6d6 damage. |
+| 9th | 10d6 damage. |
 
 #### Adventurer Feat
 
@@ -625,13 +617,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 4d8 damage.
-
-5th level spell: 6d8 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 10d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d8 damage. |
+| 5th | 6d8 damage. |
+| 7th | 7d10 damage. |
+| 9th | 10d12 damage. |
 
 #### Adventurer Feat
 
@@ -655,13 +646,12 @@ Free action to cast, when an attack hits your AC.
 
 **Effect:** The attacker must reroll the attack. You must accept the new result.
 
-3rd level spell: You gain a +2 AC bonus against the rerolled attack.
-
-5th level spell: You can also use the spell against attacks that target your Physical Defense; replace references to AC with PD.
-
-7th level spell: The bonus to AC/PD on the rerolled attack increases to +4.
-
-9th level spell: The bonus to AC/PD on the rerolled attack increases to +6.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | You gain a +2 AC bonus against the rerolled attack. |
+| 5th | You can also use the spell against attacks that target your Physical Defense; replace references to AC with PD. |
+| 7th | The bonus to AC/PD on the rerolled attack increases to +4. |
+| 9th | The bonus to AC/PD on the rerolled attack increases to +6. |
 
 #### Adventurer Feat
 
@@ -689,13 +679,12 @@ At-Will
 
 **Miss:** You take damage equal to the target's level from botched feedback.
 
-3rd level spell: 1d6 damage.
-
-5th level spell: 2d6 damage.
-
-7th level spell: 3d6 damage.
-
-9th level spell: 4d6 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 1d6 damage. |
+| 5th | 2d6 damage. |
+| 7th | 3d6 damage. |
+| 9th | 4d6 damage. |
 
 #### Adventurer Feat
 
@@ -725,11 +714,11 @@ Daily
 
 **Miss:** If you miss all targets, you regain this spell during your next quick rest.
 
-5th level spell: Target with 160 hp or fewer, and the target can be far away.
-
-7th level spell: Target with 250 hp or fewer, or two targets each with 125 hp or fewer.
-
-9th level spell: Target with 500 hp or fewer, or two targets each with 250 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Target with 160 hp or fewer, and the target can be far away. |
+| 7th | Target with 250 hp or fewer, or two targets each with 125 hp or fewer. |
+| 9th | Target with 500 hp or fewer, or two targets each with 250 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -759,11 +748,11 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-5th level spell: 4d12 damage.
-
-7th level spell: 7d10 damage.
-
-9th level spell: 10d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 4d12 damage. |
+| 7th | 7d10 damage. |
+| 9th | 10d12 damage. |
 
 ### Force Salvo
 
@@ -779,11 +768,11 @@ Targets: One or more nearby or far away enemies (see below)
 
 **Hit:** 4d10 force damage.
 
-5th level spell: 7d10 damage.
-
-7th level spell: 10d12 damage.
-
-9th level spell: 3d6 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 7d10 damage. |
+| 7th | 10d12 damage. |
+| 9th | 3d6 x 10 damage. |
 
 #### Adventurer Feat
 
@@ -811,11 +800,11 @@ Daily
 
 **Miss:** The target is dazed until the end of your next turn.
 
-5th level spell: Target with 100 hp or fewer.
-
-7th level spell: Target with 160 hp or fewer.
-
-9th level spell: Target with 250 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Target with 100 hp or fewer. |
+| 7th | Target with 160 hp or fewer. |
+| 9th | Target with 250 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -843,11 +832,11 @@ Targets: 1d3 + 1 nearby enemies in a group or in a (rough) line
 
 **Miss:** Half damage.
 
-5th level spell: 10d10 damage.
-
-7th level spell: 2d8 x 10 damage.
-
-9th level spell: 3d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 10d10 damage. |
+| 7th | 2d8 x 10 damage. |
+| 9th | 3d8 x 10 damage. |
 
 #### Champion Feat
 
@@ -869,11 +858,11 @@ Cyclic (once per battle OR at-will when the escalation die is even)
 
 **Hit:** The target is hampered (only makes basic attacks) until the end of your next turn.
 
-5th level spell: Target with 160 hp or fewer.
-
-7th level spell: Target with 266 hp or fewer.
-
-9th level spell: Target with 400 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Target with 160 hp or fewer. |
+| 7th | Target with 266 hp or fewer. |
+| 9th | Target with 400 hp or fewer. |
 
 #### Adventurer Feat
 
@@ -901,11 +890,11 @@ Daily
 
 **Miss:** The target is dazed until the end of your next turn.
 
-5th level spell: Targets 5d20 +50 max hp.
-
-7th level spell: Targets 7d20 + 100 max hp.
-
-9th level spell: Targets 9d20 + 200 max hp.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Targets 5d20 +50 max hp. |
+| 7th | Targets 7d20 + 100 max hp. |
+| 9th | Targets 9d20 + 200 max hp. |
 
 ### Teleport Shield
 
@@ -919,11 +908,11 @@ Always: For the rest of the battle, once per round when an enemy moves to engage
 
 **Hit:** Teleport the enemy somewhere nearby you can see. You can place them in combat with one of your allies, but you can't place them in a dangerous location. (It's a defensive tool).
 
-5th level spell: The teleported enemy also takes 4d10 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 10d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | The teleported enemy also takes 4d10 damage. |
+| 7th | 6d10 damage. |
+| 9th | 10d10 damage. |
 
 #### Champion Feat
 
@@ -949,9 +938,10 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 3d4 x 10 damage.
-
-9th level spell: 3d6 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 3d4 x 10 damage. |
+| 9th | 3d6 x 10 damage. |
 
 #### Champion Feat
 
@@ -973,9 +963,10 @@ Daily
 
 **Effect:** You teleport somewhere nearby that you can see.
 
-7th level spell: Your destination can now be far away, but not so far that it is out of range of enemy attacks that can hit far away targets.
-
-9th level spell: You can take one ally who is next to you along with you as you teleport.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Your destination can now be far away, but not so far that it is out of range of enemy attacks that can hit far away targets. |
+| 9th | You can take one ally who is next to you along with you as you teleport. |
 
 ### Fireball
 
@@ -995,9 +986,10 @@ Daily
 
 Reckless miss: Your allies engaged with the target take one-fourth damage.
 
-7th level spell: 12d10 damage.
-
-9th level spell: 20d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 12d10 damage. |
+| 9th | 20d10 damage. |
 
 #### Champion Feat
 
@@ -1019,9 +1011,10 @@ Daily
 
 High Arcana: The duration out of combat is 1 hour instead.
 
-7th level spell: You can now target 1d3 nearby allies (including you) with the spell.
-
-9th level spell: Creatures made invisible by the spell have a 25% chance of remaining invisible the first time (and first time only) they attack or get flashy.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | You can now target 1d3 nearby allies (including you) with the spell. |
+| 9th | Creatures made invisible by the spell have a 25% chance of remaining invisible the first time (and first time only) they attack or get flashy. |
 
 ## 7th Level Spells
 
@@ -1037,7 +1030,9 @@ Daily
 
 Whenever the target uses a move action, there is a 50% chance that it can teleport somewhere nearby instead of physically moving.
 
-9th level spell: 75% chance.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 75% chance. |
 
 ### Flight
 
@@ -1049,7 +1044,9 @@ Daily
 
 **Effect:** The target can fly until the end of the battle (or for five minutes). Your speed doesn't increase appreciably but you can move in three-dimensions.
 
-9th level spell: When you cast the spell, you can choose one: the effect lasts for an hour OR you can target 1d4 + 1 creatures for the normal duration.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | When you cast the spell, you can choose one: the effect lasts for an hour OR you can target 1d4 + 1 creatures for the normal duration. |
 
 ### Haste
 
@@ -1063,7 +1060,9 @@ Daily
 
 In addition, at the start of each of the target's turns this battle, if the escalation die is even, roll a d20 and add the escalation die; on a 16+, the target gains an additional standard action that turn.
 
-9th level spell: The roll for additional standard actions is now 11+ instead of 16+.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The roll for additional standard actions is now 11+ instead of 16+. |
 
 ### Invisibility Purge
 
@@ -1079,7 +1078,9 @@ Targets: Any nearby enemies who are invisible, whether you know they are there o
 
 **Miss:** If there are one or more invisible creatures nearby, you become aware of their presence. Not where they are, or who they are, but that there are invisible creatures present.
 
-9th level spell: The spell also affects far away targets that you could normally see.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The spell also affects far away targets that you could normally see. |
 
 ### Overcome Resistance
 
@@ -1091,7 +1092,9 @@ Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, the target ignores the resistance power of any creature it targets with an attack.
 
-9th level spell: You can now target 1d4 nearby allies with the spell.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You can now target 1d4 nearby allies with the spell. |
 
 ### Transfer Enchantment
 
@@ -1109,7 +1112,9 @@ Daily
 
 **Miss:** Half damage.
 
-9th level spell: 2d10 x 10 damage; if the spell misses, you regain it during your next quick rest.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 2d10 x 10 damage; if the spell misses, you regain it during your next quick rest. |
 
 ## 9th Level Spells
 

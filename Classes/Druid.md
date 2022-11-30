@@ -219,13 +219,12 @@ At-Will
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d6 damage, 1d6 mook damage on odd hit.
-
-5th level spell: 5d6 damage, 1d10 mook damage on odd hit.
-
-7th level spell: 5d8 damage, 2d8 mook damage on odd hit.
-
-9th level spell: 7d10 damage, 4d6 mook damage on odd hit.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage, 1d6 mook damage on odd hit. |
+| 5th | 5d6 damage, 1d10 mook damage on odd hit. |
+| 7th | 5d8 damage, 2d8 mook damage on odd hit. |
+| 9th | 7d10 damage, 4d6 mook damage on odd hit. |
 
 #### Earth Mastery
 
@@ -257,13 +256,12 @@ At-Will
 
 **Crit:** As a hit, plus the target is stuck (save ends).
 
-3rd level spell: 3d6 damage.
-
-5th level spell: 5d6 damage, ongoing damage equal to double your Strength or Dexterity modifier on a natural odd hit.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d10 damage, ongoing damage equal to triple your Strength or Dexterity modifier on a natural odd hit.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage. |
+| 5th | 5d6 damage, ongoing damage equal to double your Strength or Dexterity modifier on a natural odd hit. |
+| 7th | 5d8 damage. |
+| 9th | 7d10 damage, ongoing damage equal to triple your Strength or Dexterity modifier on a natural odd hit. |
 
 #### Fire Mastery
 
@@ -293,13 +291,12 @@ At-Will
 
 **Natural Odd Hit:** As a hit, plus one of your allies engaged with the target, if any, takes 1d6 fire damage.
 
-3rd level spell: 5d6 damage, 2d6 damage on odd hit.
-
-5th level spell: 5d8 damage, 2d8 damage on odd hit.
-
-7th level spell: 7d10 damage, 3d10 damage on odd hit.
-
-9th level spell: 10d10 damage, 4d6 damage on odd hit.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage, 2d6 damage on odd hit. |
+| 5th | 5d8 damage, 2d8 damage on odd hit. |
+| 7th | 7d10 damage, 3d10 damage on odd hit. |
+| 9th | 10d10 damage, 4d6 damage on odd hit. |
 
 #### Water Mastery
 
@@ -329,13 +326,12 @@ At-Will
 
 **Natural Even Hit:** As a hit, plus the target takes ongoing damage equal to your level or increases an already existing ongoing damage effect by your level (your choice).
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 8d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6damage. |
+| 7th | 6d10 damage. |
+| 9th | 8d10 damage. |
 
 #### 1st Level Spells
 
@@ -357,13 +353,12 @@ _Unstaggered target:_ The target gains a bonus to its attacks and damage equal t
 
 _Staggered target:_ The target can heal using a recovery.
 
-3rd level spell: You can now be the chosen target.
-
-5th level spell: An unstaggered target also gains the bonus to saves.
-
-7th level spell: A staggered target can heal using a free recovery instead.
-
-9th level spell: The spell targets two random nearby allies instead of one.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | You can now be the chosen target. |
+| 5th | An unstaggered target also gains the bonus to saves. |
+| 7th | A staggered target can heal using a free recovery instead. |
+| 9th | The spell targets two random nearby allies instead of one. |
 
 ##### Faerie Fire
 
@@ -379,13 +374,12 @@ Daily
 
 **Miss:** Half damage, and the target is vulnerable until the end of your next turn.
 
-3rd level spell: 6d6 damage, and in addition to being vulnerable, the target can't turn invisible or hide from you or your allies (save ends both).
-
-5th level spell: 6d10 damage, and the target also can't teleport (save ends all).
-
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 6d6 damage, and in addition to being vulnerable, the target can't turn invisible or hide from you or your allies (save ends both). |
+| 5th | 6d10 damage, and the target also can't teleport (save ends all). |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ##### Gust (Air)
 
@@ -403,13 +397,12 @@ Daily
 
 **Miss:** You don't expend the spell.
 
-3rd level spell: 6d6 damage.
-
-5th level spell: 6d10 damage and 10 ongoing cold damage, and you gain _flight_ until the end of your next turn.
-
-7th level spell: 10d10 damage and 10 ongoing cold damage, and you gain _flight_ until the end of the battle.
-
-9th level spell: 2d8 x 10 damage, and 15 ongoing cold damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 6d6 damage. |
+| 5th | 6d10 damage and 10 ongoing cold damage, and you gain _flight_ until the end of your next turn. |
+| 7th | 10d10 damage and 10 ongoing cold damage, and you gain _flight_ until the end of the battle. |
+| 9th | 2d8 x 10 damage, and 15 ongoing cold damage. |
 
 ##### Water Breathing
 
@@ -421,13 +414,12 @@ Quick action to cast
 
 **Effect:** You can breathe underwater until the end of the battle, or for five minutes.
 
-3rd level spell: The spell now targets up to five nearby allies as well as you.
-
-5th level spell: The effect lasts for about five hours.
-
-7th level spell: The effect lasts for about ten hours.
-
-9th level spell: The effect lasts until your next full heal-up.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | The spell now targets up to five nearby allies as well as you. |
+| 5th | The effect lasts for about five hours. |
+| 7th | The effect lasts for about ten hours. |
+| 9th | The effect lasts until your next full heal-up. |
 
 #### 3rd Level Spells
 
@@ -463,11 +455,11 @@ Daily
 
 **Effect:** You summon a 3rd level small air elemental (20 hp).
 
-5th level spell: You now summon a 5th level air elemental (33 hp).
-
-7th level spell: You now summon a 7th level big air elemental (47 hp).
-
-9th level spell: You now summon a 9th level epic air elemental (85 hp).
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You now summon a 5th level air elemental (33 hp). |
+| 7th | You now summon a 7th level big air elemental (47 hp). |
+| 9th | You now summon a 9th level epic air elemental (85 hp). |
 
 ##### Summon Earth Elemental (3rd level+)
 
@@ -477,11 +469,11 @@ Daily
 
 **Effect:** You summon a 3rd level small earth elemental (17 hp).
 
-5th level spell: You now summon a 5th level earth elemental (26 hp).
-
-7th level spell: You now summon a 7th level big earth elemental (44 hp).
-
-9th level spell: You now summon a 9th level epic earth elemental (70 hp).
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You now summon a 5th level earth elemental (26 hp). |
+| 7th | You now summon a 7th level big earth elemental (44 hp). |
+| 9th | You now summon a 9th level epic earth elemental (70 hp). |
 
 ##### Summon Fire Elemental (3rd level+)
 
@@ -491,11 +483,11 @@ Daily
 
 **Effect:** You summon a 3rd level small fire elemental (21 hp).
 
-5th level spell: You can now summon a 5th level fire elemental (33 hp).
-
-7th level spell: You can now summon a 7th level big fire elemental (48 hp).
-
-9th level spell: You can now summon a 9th level epic fire elemental (83 hp).
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now summon a 5th level fire elemental (33 hp). |
+| 7th | You can now summon a 7th level big fire elemental (48 hp). |
+| 9th | You can now summon a 9th level epic fire elemental (83 hp). |
 
 ##### Summon Water Elemental (3rd level+)
 
@@ -505,11 +497,11 @@ Daily
 
 **Effect:** You summon a 3rd level small water elemental (18 hp).
 
-5th level spell: You summon a 5th level water elemental (30 hp).
-
-7th level spell: You summon a 7th level big water elemental (45 hp).
-
-9th level spell: You summon a 9th level epic water elemental (80 hp).
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You summon a 5th level water elemental (30 hp). |
+| 7th | You summon a 7th level big water elemental (45 hp). |
+| 9th | You summon a 9th level epic water elemental (80 hp). |
 
 #### 5th Level Spells
 
@@ -527,9 +519,10 @@ Daily
 
 **Effect:** Until the end of the battle, you can use a quick action once per turn to increase the _flame seeds_ ongoing fire damage by 5 for each target that hasn't saved. (Yes, you can use a quick action the same turn that you cast the spell.)
 
-7th level spell: 5d12 damage.
-
-9th level spell: 8d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 5d12 damage. |
+| 9th | 8d12 damage. |
 
 ##### Fog Bank (Water)
 
@@ -541,7 +534,9 @@ Daily
 
 **Effect:** Until the start of your next turn, when a target attempts to attack, ready an action, or delay, it must roll a hard save (16+). If the target fails, it expends that action to no effect.
 
-9th level spell: You can now choose which creatures in the battle the spell targets.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You can now choose which creatures in the battle the spell targets. |
 
 #### 7th Level Spells
 
@@ -561,7 +556,9 @@ Daily
 
 **Effect:** Until the end of the battle, when the escalation die is odd at the start of your turn, repeat this attack once that turn against one random nearby enemy as a free action, even if you don't have line of sight to that creature.
 
-9th level spell: 10d12 damage; 25 miss damage.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 10d12 damage; 25 miss damage. |
 
 #### 9th Level Spells
 
@@ -973,13 +970,12 @@ Ranged spell
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 2d8 damage.
-
-5th level spell: 3d8 damage.
-
-7th level spell: 5d8 damage.
-
-9th level spell: 7d8 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d8 damage. |
+| 5th | 3d8 damage. |
+| 7th | 5d8 damage. |
+| 9th | 7d8 damage. |
 
 ##### Spider Climb (1st level)
 
@@ -993,13 +989,12 @@ Quick action to cast
 
 **Effect:** Until the end of the battle or for five minutes, you can climb up sheer surfaces and stick to ceilings as if you were a spider. You can fight and cast spells normally while climbing.
 
-3rd level spell: If you're fighting while standing upside down on a ceiling or sideways on a wall, you can reroll the first natural odd attack roll you get if you tell a fun story about how the _spider climb_ effect is letting you fight better than you ordinarily would!
-
-5th level spell: While the spell is in effect, you can fall up to 100 feet without taking damage.
-
-7th level spell: The effect lasts up to an hour and you can also target a nearby ally.
-
-9th level spell: The spell now targets you and 1d4 + 1 nearby allies.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | If you're fighting while standing upside down on a ceiling or sideways on a wall, you can reroll the first natural odd attack roll you get if you tell a fun story about how the _spider climb_ effect is letting you fight better than you ordinarily would! |
+| 5th | While the spell is in effect, you can fall up to 100 feet without taking damage. |
+| 7th | The effect lasts up to an hour and you can also target a nearby ally. |
+| 9th | The spell now targets you and 1d4 + 1 nearby allies. |
 
 ##### Fungal Ambuscade (3rd level)
 
@@ -1015,11 +1010,11 @@ Daily
 
 **Miss:** The target takes 5 ongoing poison damage (two saves ends).
 
-5th level spell: 25 ongoing damage on a hit, 10 ongoing damage on a miss.
-
-7th level spell: 50 ongoing damage on a hit, 20 ongoing damage on a miss.
-
-9th level spell: 90 ongoing damage on a hit, 40 ongoing damage on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 25 ongoing damage on a hit, 10 ongoing damage on a miss. |
+| 7th | 50 ongoing damage on a hit, 20 ongoing damage on a miss. |
+| 9th | 90 ongoing damage on a hit, 40 ongoing damage on a miss. |
 
 ##### Spikestones (5th level)
 
@@ -1033,9 +1028,10 @@ You can move normally in the area. Your allies must roll an easy save (6+); if t
 
 Since the spell normally only works underground, it affects creatures with _flight_ because it's assumed that nasty stalactites jut out from the ceiling as well as the walls and floors. If you're in a _giant_ cavern when you cast it, fliers could probably zip around away from surfaces without too much trouble (GM's call).
 
-7th level spell: 7d10 damage.
-
-9th level spell: 9d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 7d10 damage. |
+| 9th | 9d10 damage. |
 
 #### Forest, Woods
 
@@ -1065,13 +1061,12 @@ At-Will (in any terrain)
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 2d4 damage.
-
-5th level spell: 2d6 damage.
-
-7th level spell: 4d6 damage.
-
-9th level spell: 6d6 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d4 damage. |
+| 5th | 2d6 damage. |
+| 7th | 4d6 damage. |
+| 9th | 6d6 damage. |
 
 _Champion Feat_
 This spell now targets 1d4 enemies in a group.
@@ -1090,7 +1085,9 @@ Quick action to cast
 
 5th level spell: The +3 bonus also applies to PD except against attacks that deal fire damage.
 
-9th level spell: You can now choose two targets.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You can now choose two targets. |
 
 ##### Entangle (3rd level)
 
@@ -1106,11 +1103,11 @@ Daily
 
 **Miss:** Damage equal to your level, if the target has 80 hp or fewer after the damage, it's stuck (easy save ends, 6+).
 
-5th level spell: 5d10 damage; hit/miss effect affects targets with 135 hp or fewer.
-
-7th level spell: 6d10 damage; hit/miss effect affects targets with 220 hp or fewer.
-
-9th level spell: 10d10 damage; hit/miss effect affects targets with 350 hp or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d10 damage; hit/miss effect affects targets with 135 hp or fewer. |
+| 7th | 6d10 damage; hit/miss effect affects targets with 220 hp or fewer. |
+| 9th | 10d10 damage; hit/miss effect affects targets with 350 hp or fewer. |
 
 ##### Plantwalk (5th level)
 
@@ -1126,9 +1123,10 @@ Quick action to cast
 
 Once per level when you cast this spell, you also summon a 5th level earth elemental beside one of the trees or plants involved in your teleport. Use the elemental caster's _summon earth elemental_ spell.
 
-7th level spell: The once per level summoning now summons a 7th level earth elemental.
-
-9th level spell: You can now use the spell to teleport virtually unlimited distances as long as you travel to a grove or forest and emerge from a tree or plant well-known to you. The once per level summoning now summons a 9th level earth elemental.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | The once per level summoning now summons a 7th level earth elemental. |
+| 9th | You can now use the spell to teleport virtually unlimited distances as long as you travel to a grove or forest and emerge from a tree or plant well-known to you. The once per level summoning now summons a 9th level earth elemental. |
 
 #### Ice, Tundra, Deep Snow
 
@@ -1160,13 +1158,12 @@ Once per battle (in any terrain)
 
 **Natural Odd Miss:** Damage equal to your level.
 
-3rd level spell: 4d6 damage, or 6d6 to an enemy you are engaged with.
-
-5th level spell: 5d10 damage, or 6d10 to an enemy you are engaged with.
-
-7th level spell: 8d10 damage, or 10d10 to an enemy you are engaged with.
-
-9th level spell: 2d6 x 10 damage, or 2d8 x 10 to an enemy you are engaged with.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage, or 6d6 to an enemy you are engaged with. |
+| 5th | 5d10 damage, or 6d10 to an enemy you are engaged with. |
+| 7th | 8d10 damage, or 10d10 to an enemy you are engaged with. |
+| 9th | 2d6 x 10 damage, or 2d8 x 10 to an enemy you are engaged with. |
 
 ##### Ice Shield (1st level)
 
@@ -1180,13 +1177,12 @@ Quick action to cast
 
 **Effect:** Until the end of the battle, when an enemy engaged with you attacks you and rolls a natural 1–15, it takes 1d10 cold damage after the attack.
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 6d10 damage.
-
-9th level spell: 10d10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 6d10 damage. |
+| 9th | 10d10 damage. |
 
 ##### Icicle (3rd level)
 
@@ -1204,11 +1200,11 @@ Daily
 
 **Miss:** Half damage, and the target is stuck until the end of its next turn.
 
-5th level spell: 7d10 damage.
-
-7th level spell: 10d12 damage.
-
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 7d10 damage. |
+| 7th | 10d12 damage. |
+| 9th | 2d10 x 10 damage. |
 
 ##### Cone of Cold (5th level)
 
@@ -1226,9 +1222,10 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 #### Migration Route (Large Herd Animal)
 
@@ -1258,13 +1255,12 @@ At-Will (in any terrain)
 
 **Miss:** Damage equal to your level against a non-mook; no effect against a mook.
 
-3rd level spell: 3d6 damage, or 6d6 against a mook.
-
-5th level spell: 5d6 damage, or 6d10 against a mook.
-
-7th level spell: 5d8 damage, or 10d8 against a mook.
-
-9th level spell: 8d10 damage, or 3d6 x 10 against a mook.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage, or 6d6 against a mook. |
+| 5th | 5d6 damage, or 6d10 against a mook. |
+| 7th | 5d8 damage, or 10d8 against a mook. |
+| 9th | 8d10 damage, or 3d6 x 10 against a mook. |
 
 ##### The Beast Shrugs (3rd level)
 
@@ -1278,11 +1274,11 @@ Daily
 
 **Effect:** Until the end of the battle, the target can use a quick action (once per turn) to heal 4d6 hit points. The target can take this action only when it's not staggered.
 
-5th level spell: Heal 6d6 hit points.
-
-7th level spell: Heal 7d10 hit points.
-
-9th level spell: Heal 10d10 hit points.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Heal 6d6 hit points. |
+| 7th | Heal 7d10 hit points. |
+| 9th | Heal 10d10 hit points. |
 
 ##### Stomp! (5th level)
 
@@ -1298,9 +1294,10 @@ Daily
 
 **Miss:** You don't expend the spell, but must cast it again with your next standard action. If you don't, you take damage from the spell as if you had been hit and the spell is expended.
 
-7th level spell: 3d4 x 10 damage.
-
-9th level spell: 3d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 3d4 x 10 damage. |
+| 9th | 3d8 x 10 damage. |
 
 ##### Migratory Teleport (7th level)
 
@@ -1314,7 +1311,9 @@ When you teleport, roll a d20. If you roll a 1, something unusual intervened and
 
 Any effects of spells or items cast/created before teleporting are canceled and no longer function on arrival, so it's best to wait and use such spells after you arrive.
 
-9th level spell: You can now try to teleport to any location along the migration route. Stabbing your finger on the world map suffices, but your aim won't be perfect. Attempts to teleport to places off the map to the north or west usually don't work.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You can now try to teleport to any location along the migration route. Stabbing your finger on the world map suffices, but your aim won't be perfect. Attempts to teleport to places off the map to the north or west usually don't work. |
 
 #### Mountains
 
@@ -1344,13 +1343,12 @@ At-Will (in any terrain)
 
 **Miss:** Damage equal to your level.
 
-3rd level spell: 3d6 damage, or 6d6 against a flying creature.
-
-5th level spell: 5d6 damage, or 6d10 against a flying creature.
-
-7th level spell: 5d8 damage, or 10d8 against a flying creature.
-
-9th level spell: 8d10 damage, or 3d6 x 10 against a flying creature.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d6 damage, or 6d6 against a flying creature. |
+| 5th | 5d6 damage, or 6d10 against a flying creature. |
+| 7th | 5d8 damage, or 10d8 against a flying creature. |
+| 9th | 8d10 damage, or 3d6 x 10 against a flying creature. |
 
 ##### Rumble (1st level)
 
@@ -1362,13 +1360,12 @@ Quick action to cast
 
 **Effect:** Until the end of the battle, when you end your turn engaged with one or more enemies, each of those creatures takes thunder damage equal to your Wisdom modifier.
 
-3rd level spell: 1d6 + Wisdom modifier damage.
-
-5th level spell: 2d6 + Wisdom modifier damage.
-
-7th level spell: 3d6 + Wisdom modifier damage.
-
-9th level spell: 4d6 + Wisdom modifier damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 1d6 + Wisdom modifier damage. |
+| 5th | 2d6 + Wisdom modifier damage. |
+| 7th | 3d6 + Wisdom modifier damage. |
+| 9th | 4d6 + Wisdom modifier damage. |
 
 ##### Stoneskin (3rd level)
 
@@ -1384,7 +1381,9 @@ Quick action to cast
 
 5th level spell: _Resist damage_ now also applies to attacks targeting PD.
 
-9th level spell: _Resist damage_ increases to 18+.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | _Resist damage_ increases to 18+. |
 
 ##### Call Lightning (7th level)
 
@@ -1400,7 +1399,9 @@ Daily
 
 **Miss:** Damage equal to your level.
 
-9th level spell: 7d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 7d12 damage. |
 
 #### Plains, Overworld
 
@@ -1428,13 +1429,12 @@ At-Will (in any terrain)
 
 **Hit:** 1d4 + Wisdom fire damage.
 
-3rd level spell: 3d4 damage.
-
-5th level spell: 2d8 damage.
-
-7th level spell: 4d6 damage.
-
-9th level spell: 4d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d4 damage. |
+| 5th | 2d8 damage. |
+| 7th | 4d6 damage. |
+| 9th | 4d12 damage. |
 
 ##### Heat Metal (1st level)
 
@@ -1450,13 +1450,12 @@ Daily
 
 **Miss:** 10 ongoing fire damage.
 
-3rd level spell: 5d6 damage, and 15 ongoing damage (hit and miss).
-
-5th level spell: 5d10 damage, and 25 ongoing damage (hit and miss).
-
-7th level spell: 9d10 damage, and 40 ongoing damage (hit and miss).
-
-9th level spell: 10d12 damage, and 50 ongoing damage (hit and miss).
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage, and 15 ongoing damage (hit and miss). |
+| 5th | 5d10 damage, and 25 ongoing damage (hit and miss). |
+| 7th | 9d10 damage, and 40 ongoing damage (hit and miss). |
+| 9th | 10d12 damage, and 50 ongoing damage (hit and miss). |
 
 ##### Air & Fire (3rd level)
 
@@ -1470,11 +1469,11 @@ Quick action to cast
 
 If something prevents you from casting the spell during your next turn, you still expend this daily spell.
 
-5th level spell: Now you can cast a 5th level daily Air or Fire spell.
-
-7th level spell: Now you can cast a 7th level daily Air or Fire spell.
-
-9th level spell: Now you can cast a 9th level daily Air or Fire spell.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Now you can cast a 5th level daily Air or Fire spell. |
+| 7th | Now you can cast a 7th level daily Air or Fire spell. |
+| 9th | Now you can cast a 9th level daily Air or Fire spell. |
 
 ##### Harmony (5th level)
 
@@ -1490,9 +1489,10 @@ Quick action to cast
 
 The effect doesn't work while a target is at 0 hit points or below. Temporary hit points also don't count.
 
-7th level spell: The spell can now target up to three willing allies.
-
-9th level spell: The spell can now target up to four willing allies.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | The spell can now target up to three willing allies. |
+| 9th | The spell can now target up to four willing allies. |
 
 #### Ruins
 
@@ -1520,13 +1520,12 @@ Once per battle (in any terrain)
 
 **Hit:** Each nearby enemy takes 2d6 damage (don't add your ability score modifier). For mooks, deal the damage once to the mob, not to each member of it.
 
-3rd level spell: 4d6 damage.
-
-5th level spell: 6d6 damage.
-
-7th level spell: 9d6 damage.
-
-9th level spell: 6d12 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 damage. |
+| 5th | 6d6 damage. |
+| 7th | 9d6 damage. |
+| 9th | 6d12 damage. |
 
 ##### Inevitable Collapse (1st level)
 
@@ -1544,13 +1543,12 @@ _special ongoing damage:_ The target can't start rolling saves against this dama
 
 **Miss:** 5 special ongoing damage (as above).
 
-3rd level spell: 5d6 damage, and 15 ongoing damage; 5 ongoing on a miss.
-
-5th level spell: 5d10 damage, and 20 ongoing damage; 10 ongoing on a miss.
-
-7th level spell: 8d10 damage, and 25 ongoing damage; 15 ongoing on a miss.
-
-9th level spell: 10d12 damage, and 40 ongoing damage; 20 ongoing on a miss.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5d6 damage, and 15 ongoing damage; 5 ongoing on a miss. |
+| 5th | 5d10 damage, and 20 ongoing damage; 10 ongoing on a miss. |
+| 7th | 8d10 damage, and 25 ongoing damage; 15 ongoing on a miss. |
+| 9th | 10d12 damage, and 40 ongoing damage; 20 ongoing on a miss. |
 
 ##### How Things End (5th level)
 
@@ -1568,9 +1566,10 @@ Daily
 
 **Miss:** Half damage.
 
-7th level spell: 10d10 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ##### Devastation (9th level)
 
@@ -1612,13 +1611,12 @@ At-Will (in any terrain)
 
 **Hit:** 5 damage, and 5 ongoing poison damage.
 
-3rd level spell: 8 damage, and 8 ongoing poison damage.
-
-5th level spell: 13 damage, and 13 ongoing poison damage.
-
-7th level spell: 20 damage, and 20 ongoing poison damage.
-
-9th level spell: 30 damage, and 30 ongoing poison damage.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 8 damage, and 8 ongoing poison damage. |
+| 5th | 13 damage, and 13 ongoing poison damage. |
+| 7th | 20 damage, and 20 ongoing poison damage. |
+| 9th | 30 damage, and 30 ongoing poison damage. |
 
 ##### The Big Muddy (1st level)
 
@@ -1632,13 +1630,12 @@ Daily
 
 **Hit:** The target is stuck (save ends).
 
-3rd level spell: Targets with 80 hit points or fewer.
-
-5th level spell: Targets with 140 hit points or fewer.
-
-7th level spell: Targets with 200 hit points or fewer.
-
-9th level spell: Targets with 320 hit points or fewer.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Targets with 80 hit points or fewer. |
+| 5th | Targets with 140 hit points or fewer. |
+| 7th | Targets with 200 hit points or fewer. |
+| 9th | Targets with 320 hit points or fewer. |
 
 ##### Reclamation (3rd level)
 
@@ -1654,11 +1651,11 @@ Daily
 
 **Miss:** Half damage.
 
-5th level spell: 6d8 damage.
-
-7th level spell: 10d8 damage.
-
-9th level spell: 2d8 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 6d8 damage. |
+| 7th | 10d8 damage. |
+| 9th | 2d8 x 10 damage. |
 
 ##### Purification Chant (7th level)
 
@@ -1674,7 +1671,9 @@ Daily
 
 **Miss:** Half damage, and you and 1d3 of your nearby allies can each roll a save against any save ends effect created by the target.
 
-9th level spell: 2d10 x 10 damage.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 2d10 x 10 damage. |
 
 ### Warrior Druid
 
@@ -2279,13 +2278,12 @@ Daily
 
 **Effect:** The target heals using a free recovery.
 
-3rd level spell: In addition, the target heals hit points equal to your Wisdom modifier at the start of each of its turns until the end of the battle or until it drops to 0 hit points.
-
-5th level spell: The healing the target gains at the start of its turn is now double your Wisdom modifier.
-
-7th level spell: The healing the target gains at the start of its turn is now triple your Wisdom modifier.
-
-9th level spell: The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries.
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | In addition, the target heals hit points equal to your Wisdom modifier at the start of each of its turns until the end of the battle or until it drops to 0 hit points. |
+| 5th | The healing the target gains at the start of its turn is now double your Wisdom modifier. |
+| 7th | The healing the target gains at the start of its turn is now triple your Wisdom modifier. |
+| 9th | The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries. |
 
 ### 3rd Level Spells
 
@@ -2303,7 +2301,9 @@ Daily
 
 5th level spell: The target's crit range expands by 2.
 
-9th level spell: The target's crit range expands by a total of 4.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The target's crit range expands by a total of 4. |
 
 ### 5th Level Spells
 
@@ -2321,9 +2321,10 @@ Daily
 
 **Effect:** Until the end of the battle, the target gains _resist damage 12+_ against attacks that target AC.
 
-7th level spell: Resistance now includes attacks that target PD.
-
-9th level spell: Resistance increases to _resist damage 14+._
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Resistance now includes attacks that target PD. |
+| 9th | Resistance increases to _resist damage 14+._ |
 
 ### 7th Level Spells
 
@@ -2339,7 +2340,9 @@ Daily
 
 **Effect:** Until the end of the battle, when the target hits with a melee attack, you heal hit points equal to 1d10 + your Wisdom modifier.
 
-9th level spell: You now heal hit points equal to 2d10 + double your Wisdom modifier.
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You now heal hit points equal to 2d10 + double your Wisdom modifier. |
 
 ### 9th Level Spells
 
