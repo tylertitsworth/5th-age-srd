@@ -5,12 +5,12 @@ An adaption of the [13th Age Archmage Engine](https://www.13thagesrd.com/) combi
 # Table of Contents
 
 - [Character Rules](./Character-Rules/README.md)
-  - [Combat](./General-Rules/Combat.md)
-  - [Feats](./General-Rules/Feats.md)
-  - [Gear](./General-Rules/Gear.md)
-  - [Hybrid](./General-Rules/Hybrid.md)
-  - [Rituals](./General-Rules/Rituals.md)
-  - [Summoning](./General-Rules/Summoning.md)
+  - [Combat](./Character-Rules/Combat.md)
+  - [Feats](./Character-Rules/Feats.md)
+  - [Gear](./Character-Rules/Gear.md)
+  - [Hybrid](./Character-Rules/Hybrid.md)
+  - [Rituals](./Character-Rules/Rituals.md)
+  - [Summoning](./Character-Rules/Summoning.md)
 - [Classes](./Classes/README.md)
   - [Barbarian](./Classes/Barbarian.md)
   - [Bard](./Classes/Bard.md)
