@@ -95,7 +95,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Strength + Levelvs. AC
+**Attack:** Strength + level vs. AC
 
 **Hit:** WEAPON + Strength damage
 
@@ -107,7 +107,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Dexterity + Levelvs. AC
+**Attack:** Dexterity + level vs. AC
 
 **Hit:** WEAPON + Dexterity damage
 

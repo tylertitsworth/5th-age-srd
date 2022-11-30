@@ -193,7 +193,7 @@ You can take a wizard spell in place of one of your necromancer spells of the sa
 
 #### Champion Feat
 
-You gain a bonus wizard spellthat is at least two levels below your level_**,**_ in addition to the spells you can cast as a necromancer. You can change this spell for a new one you know whenever you take a full heal-up.
+You gain a bonus wizard spell that is at least two levels below your level, in addition to the spells you can cast as a necromancer. You can change this spell for a new one you know whenever you take a full heal-up.
 
 #### Epic Feat
 
@@ -287,7 +287,7 @@ Your minion acts on your initiative, taking a standard action, a move action, an
 
 The listed attack and damage values are for melee attacks. Your skeletal minion can't heal. When it drops to 0 hp, it's destroyed for that battle. When you take a quick rest, a new (or patched up) skeletal minion will take its place.
 
-#### Level1 Skeletal Minion
+#### Level 1 Skeletal Minion
 
 **Attack** +6 vs. AC
 
@@ -301,7 +301,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 14
 
-#### Level2 Skeletal Minion
+#### Level 2 Skeletal Minion
 
 **Attack** +7 vs. AC
 
@@ -315,7 +315,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 18
 
-#### Level3 Skeletal Minion
+#### Level 3 Skeletal Minion
 
 **Attack** +9 vs. AC
 
@@ -329,7 +329,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 22
 
-#### Level4 Skeletal Minion
+#### Level 4 Skeletal Minion
 
 **Attack** +10 vs. AC
 
@@ -343,7 +343,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 27
 
-#### Level5 Skeletal Minion
+#### Level 5 Skeletal Minion
 
 **Attack** +11 vs. AC
 
@@ -357,7 +357,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 36
 
-#### Level6 Skeletal Minion
+#### Level 6 Skeletal Minion
 
 **Attack** +13 vs. AC
 
@@ -371,7 +371,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 45
 
-#### Level7 Skeletal Minion
+#### Level 7 Skeletal Minion
 
 **Attack** +14 vs. AC
 
@@ -385,7 +385,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 54
 
-#### Level8 Skeletal Minion
+#### Level 8 Skeletal Minion
 
 **Attack** +15 vs. AC
 
@@ -399,7 +399,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 72
 
-#### Level9 Skeletal Minion
+#### Level 9 Skeletal Minion
 
 **Attack** +17 vs. AC
 
@@ -413,7 +413,7 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 **HP** 90
 
-#### Level10 Skeletal Minion
+#### Level 10 Skeletal Minion
 
 **Attack** +18 vs. AC
 
@@ -433,7 +433,7 @@ Like animal companion feats, skeletal minion feats don't build on each other. Yo
 
 ##### Adventurer Feats
 
-- Your skeletal minion now adds the escalation die to its attack rolls_**.**_
+- Your skeletal minion now adds the escalation die to its attack rolls.
 - When an enemy attempts to disengage from the skeletal minion, it takes a penalty to the check equal to the escalation die.
 - As a quick action, you can set your skeletal minion ablaze, or extinguish the blaze. While it's flaming, your skeleton minion's damage dice increase by one size, and it deals fire damage with its melee attacks, but it takes damage equal to your level each time its natural attack roll is odd.
 
@@ -569,7 +569,7 @@ If you wish, the target doesn't make any attacks while confused. Instead it beco
 
 _**Epic Feat**_
 
-The target now adds the escalation die to its attacks while confused by this spell_._
+The target now adds the escalation die to its attacks while confused by this spell.
 
 ### Death's Gauntlet
 
@@ -903,7 +903,7 @@ Ranged spell
 
 Variable
 
-_Special:_You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
+_Special:_ You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
 
 **Target:** One corpse you are touching that has been dead less than a day. Note that creatures that were undead for a longer period before they were killed are not legal targets.
 

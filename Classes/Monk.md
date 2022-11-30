@@ -176,7 +176,7 @@ Quick action
 
 **Target:** One enemy
 
-**Attack:** Dexterity + Levelvs. AC
+**Attack:** Dexterity + level vs. AC
 
 **Hit:** JAB + Strength damage
 

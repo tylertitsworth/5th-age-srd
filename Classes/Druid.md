@@ -97,7 +97,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Strength or Dexterity + Levelvs. AC
+**Attack:** Strength or Dexterity + level vs. AC
 
 **Hit:** WEAPON + Strength or Dexterity damage
 
@@ -109,7 +109,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Dexterity + Levelvs. AC
+**Attack:** Dexterity + level vs. AC
 
 **Hit:** WEAPON + Dexterity damage
 
@@ -2079,7 +2079,7 @@ Once per day as a free action when a target of one of your _regeneration_ spells
 | **Druid Level** | **Per-battle regeneration spells** | **Daily regeneration spells** | **Daily greater regeneration spells** | **Daily wild heal spells** |
 | --- | --- | --- | --- | --- |
 | **Level 1 Multiclass** | 1 | — | — | — |
-| **Level1** | 1 | 1 | — | 1 |
+| **Level 1** | 1 | 1 | — | 1 |
 | **Level 2** | 1 | 1 | 1 | 1 |
 | **Level 3** | 2 | 1 | 1 | 1 |
 | **Level 4** | 2 | 1 | 1 | 1 |
