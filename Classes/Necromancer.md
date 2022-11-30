@@ -48,7 +48,7 @@ Necromancers start with 25gp.
 
 | **Necromancer** | **Total Hit Points** | **Total Feats** | **1st level (H)** | **3rd level (H)** | **5th level (H)** | **7th level (H)** | **9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 3 | — | — | — | — | Not affected | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 3 | — | — | — | — | Not affected | ability modifier |
 | **Level 1** | (6 + CON mod\*) x 3 | 1 adventurer | 4 | — | — | — | — |  | ability modifier |
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 5 | — | — | — | — |  | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 3 | — | — | — |  | ability modifier |

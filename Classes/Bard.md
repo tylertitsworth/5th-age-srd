@@ -48,7 +48,7 @@ Bards start with 25gp.
 
 | **Bard Level** | **Total Hit Points** | **Total Feats** | **Battle Cries (H)** | **Spells & Songs, 1st level (H)** | **Spells & Songs, 3rd level (H)** | **Spells & Songs, 5th level (H)** | **Spells & Songs, 7th level (H)** | **Spells & Songs, 9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x **3** | 1 adventurer | 2 | 2 | — | — | — | — | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x **3** | 1 adventurer | 2 | 2 | — | — | — | — | _Not affected_ | ability modifier |
 | **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 2 | 2 | — | — | — | — |  | ability modifier |
 | **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 2, up to 1st level | 3 | — | — | — | — |  | ability modifier |
 | **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3, up to 3rd level | 1 | 2 | — | — | — |  | ability modifier |

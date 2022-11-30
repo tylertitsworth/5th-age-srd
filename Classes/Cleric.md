@@ -48,7 +48,7 @@ Clerics start with 25gp.
 
 | **Cleric Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 4 | — | — | — | — | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 4 | — | — | — | — | _Not affected_ | ability modifier |
 | **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 4 | — | — | — | — | — | ability modifier |
 | **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 5 | — | — | — | — | — | ability modifier |
 | **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 2 | 3 | — | — | — | — | ability modifier |

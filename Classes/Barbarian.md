@@ -46,7 +46,7 @@ Barbarians start with 25gp.
 
 | **Barbarian Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus from Ability Score** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 3 adventurer | _Not affected_ | Ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 3 adventurer | _Not affected_ | Ability modifier |
 | **Level 1** | (7 + CON mod) x **3** | 1 adventurer | 3 adventurer | | ability modifier |
 | **Level 2** | (7 + CON mod) x **4** | 2 adventurer | 3 adventurer | | ability modifier |
 | **Level 3** | (7 + CON mod) x **5** | 3 adventurer | 3 adventurer | | ability modifier |

@@ -48,7 +48,7 @@ Chaos Mages start with 25gp.
 
 | **Chaos Mage Level** | **Total Hit Points** | **Total Feats** | **Daily Spells (H)** | **Once-per-Battle Spells (H)** | **Spell Level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 1 | 1 | 1st level | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 | 1 | 1st level | _Not affected_ | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 2 | 1 | 1st level | — | ability modifier |
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 3 | 1 | 1st level | — | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 1 | 3rd level | — | ability modifier |

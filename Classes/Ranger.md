@@ -48,7 +48,7 @@ Rangers start with 25gp.
 
 | **Ranger Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
 | **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 3 |  | ability modifier |
 | **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 3 |  | ability modifier |
 | **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3 |  | ability modifier |
@@ -454,7 +454,7 @@ As an Animal Companion adept, you gain a number of spells to help your animal co
 
 Animal Companion spells are not available to Animal Companion initiates.
 
-| **Ranger Level** | **Multiclass Level** | **Daily Spells** | **Spells are Cast At** |
+| **Ranger Level** | **Hybrid Level** | **Daily Spells** | **Spells are Cast At** |
 | --- | --- | --- | --- |
 | 1 | 1, 2 | 1 | 1st level |
 | 2 | 3 | 2 | 1st level |

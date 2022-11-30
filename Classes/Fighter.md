@@ -48,7 +48,7 @@ Fighters start with 25gp.
 
 | **Fighter Level** | **Total Hit Points** | **Total Feats** | **Maneuvers Known (H)** | **Maneuver Pool Available (H)** | **Class Talents** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 3 | 1st level | 3 | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 3 | 1st level | 3 | _Not affected_ | ability modifier |
 | **Level 1** | (8 + CON mod) x 3 | 1 adventurer | 3 | 1st level | 3 |  | ability modifier |
 | **Level 2** | (8 + CON mod) x 4 | 2 adventurer | 4 | 1st level | 3 |  | ability modifier |
 | **Level 3** | (8 + CON mod) x 5 | 3 adventurer | 4 | 3rd level | 3 |  | ability modifier |

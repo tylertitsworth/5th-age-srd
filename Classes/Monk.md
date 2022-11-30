@@ -44,7 +44,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 | **Monk** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Forms (H)** | **Ki (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 adventurer (3 total) | 2 adventurer | 0 + Wis mod | Not affected | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 adventurer (3 total) | 2 adventurer | 0 + Wis mod | Not affected | ability modifier |
 | **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 3 adventurer | 2 adventurer | 1 + Wis mod |  | ability modifier |
 | **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 3 adventurer | 2 adventurer | 2 + Wis mod |  | ability modifier |
 | **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3 adventurer | 3 adventurer | 2 + Wis mod |  | ability modifier |

@@ -48,7 +48,7 @@ Paladins start with 25gp.
 
 | **Paladin** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
 | **Level 1** | (8 + CON mod) x **3** | 1 adventurer | 3 |  | ability modifier |
 | **Level 2** | (8 + CON mod) x **4** | 2 adventurer | 3 |  | ability modifier |
 | **Level 3** | (8 + CON mod) x **5** | 3 adventurer | 3 |  | ability modifier |

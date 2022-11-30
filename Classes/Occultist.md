@@ -50,7 +50,7 @@ The occultist start with 25gp.
 
 | **Occultist** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 (3 total) | 3 | — | — | — | — | Not affected | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 (3 total) | 3 | — | — | — | — | Not affected | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 4 | 4 | — | — | — | — |  | ability modifier |
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 4 | 5 | — | — | — | — |  | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 4 | 2 | 3 | — | — | — |  | ability modifier |

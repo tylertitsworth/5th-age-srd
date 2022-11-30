@@ -50,7 +50,7 @@ Druids start with 25gp.
 
 | **Druid Level** | **Total Hit Points\*** | **Total Feats** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | As 1st level PC | Not affected | ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | Not affected | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer |  | ability modifier |
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer |  | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer |  | ability modifier |
@@ -152,7 +152,7 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 
 | **Druid Level** | **1st level** | **3rd level** | **5th level** | **7th level** | **9th level** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | — | — | — | — |
+| **Level 1 Hybrid** | 1 | — | — | — | — |
 | **Level 1** | 1 | — | — | — | — |
 | **Level 2** | 1 | — | — | — | — |
 | **Level 3** | — | 1 | — | — | — |
@@ -168,7 +168,7 @@ Elemental caster initiates can cast fewer daily spells than adepts. Adepts are a
 
 | **Druid Level** | **1st level** | **3rd level** | **5th level** | **7th level** | **9th level** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | — | — | — | — |
+| **Level 1 Hybrid** | 1 | — | — | — | — |
 | **Level 1** | 1 | — | — | — | — |
 | **Level 2** | 2 | — | — | — | — |
 | **Level 3** | 1 | 2 | — | — | — |
@@ -573,7 +573,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 
 | **Druid Level** | **Daily Scout Form Shifts** | **Daily Beast Form Shifts** | **Daily Beast Form Aspects** |
 | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | — | — |
+| **Level 1 Hybrid** | 1 | — | — |
 | **Level 1** | 1 | 1 | — |
 | **Level 2** | 1 | 1 | — |
 | **Level 3** | 1 | 1 | 1 |
@@ -589,7 +589,7 @@ You glory in shifting into the forms of animals that nature blessed with keen ey
 
 | **Druid Level** | **Daily Scout Form Shifts** | **Daily Beast Form Shifts** | **Daily Beast Form Aspects** |
 | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | At-will | — |
+| **Level 1 Hybrid** | 1 | At-will | — |
 | **Level 1** | 1 | At-will | 1 |
 | **Level 2** | 1 | At-will | 2 |
 | **Level 3** | 1 | At-will | 3 |
@@ -903,7 +903,7 @@ Terrains need not be exclusive; ruins can exist on mountains, and the terrain ca
 
 | **Druid Level** | **Daily Spells** | **Level the Spells are Cast At** |
 | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | 1st level |
+| **Level 1 Hybrid** | 1 | 1st level |
 | **Level 1** | 1 | 1st level |
 | **Level 2** | 1 | 1st level |
 | **Level 3** | 2 | 3rd level |
@@ -919,7 +919,7 @@ Terrains need not be exclusive; ruins can exist on mountains, and the terrain ca
 
 | **Druid Level** | **Daily Spells** | **Level the Spells are Cast At** |
 | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | 1st level |
+| **Level 1 Hybrid** | 1 | 1st level |
 | **Level 1** | 1 | 1st level |
 | **Level 2** | 2 | 1st level |
 | **Level 3** | 3 | 3rd level |
@@ -1696,7 +1696,7 @@ Choose another Warrior Druid benefit you weren't able to start with. Whether you
 
 | **Druid Level** | **Druid Flexible Attacks** |
 | --- | --- |
-| **Level 1 Multiclass** | 1 |
+| **Level 1 Hybrid** | 1 |
 | **Level 1** | 1 |
 | **Level 2** | 2 |
 | **Level 3** | 2 |
@@ -1712,7 +1712,7 @@ Choose another Warrior Druid benefit you weren't able to start with. Whether you
 
 | **Druid Level** | **Druid Flexible Attacks** |
 | --- | --- |
-| **Level 1 Multiclass** | 1 |
+| **Level 1 Hybrid** | 1 |
 | **Level 1** | 2 |
 | **Level 2** | 3 |
 | **Level 3** | 4 |
@@ -2000,7 +2000,7 @@ Once per day as a free action when a target of one of your _regeneration_ spells
 
 | **Druid Level** | **Per-battle regeneration spells** | **Daily regeneration spells** | **Daily greater regeneration spells** | **Daily wild heal spells** |
 | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | — | — | — |
+| **Level 1 Hybrid** | 1 | — | — | — |
 | **Level 1** | 1 | 1 | — | — |
 | **Level 2** | 1 | 1 | — | — |
 | **Level 3** | 1 | 1 | — | — |
@@ -2016,7 +2016,7 @@ Once per day as a free action when a target of one of your _regeneration_ spells
 
 | **Druid Level** | **Per-battle regeneration spells** | **Daily regeneration spells** | **Daily greater regeneration spells** | **Daily wild heal spells** |
 | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | 1 | — | — | — |
+| **Level 1 Hybrid** | 1 | — | — | — |
 | **Level 1** | 1 | 1 | — | 1 |
 | **Level 2** | 1 | 1 | 1 | 1 |
 | **Level 3** | 2 | 1 | 1 | 1 |
@@ -2226,7 +2226,7 @@ As an Animal Companion adept, you gain a number of spells to help your animal co
 
 Animal Companion spells are not available to Animal Companion initiates.
 
-| **Druid Level** | **Multiclass Level** | **Daily Spells** | **Spells are Cast At** |
+| **Druid Level** | **Hybrid Level** | **Daily Spells** | **Spells are Cast At** |
 | --- | --- | --- | --- |
 | 1 | 1, 2 | 1 | 1st level |
 | 2 | 3 | 2 | 1st level |

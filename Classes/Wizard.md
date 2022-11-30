@@ -50,7 +50,7 @@ Wizards start with 25gp.
 
 | **Wizard Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Multiclass** | (Avg. of both classes) x 3 | 1 adventurer | 5 | — | — | — | — | _Not affected_ |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 5 | — | — | — | — | _Not affected_ |
 | **Level 1** | (6 + CON mod) x **3** | 1 adventurer | 5 | — | — | — | — |  |
 | **Level 2** | (6 + CON mod) x **4** | 2 adventurer | 6 | — | — | — | — |  |
 | **Level 3** | (6 + CON mod) x **5** | 3 adventurer | 3 | 4 | — | — | — |  |
