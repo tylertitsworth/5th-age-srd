@@ -287,145 +287,65 @@ Your minion acts on your initiative, taking a standard action, a move action, an
 
 The listed attack and damage values are for melee attacks. Your skeletal minion can't heal. When it drops to 0 hp, it's destroyed for that battle. When you take a quick rest, a new (or patched up) skeletal minion will take its place.
 
-#### Level 1 Skeletal Minion
+#### Level 1
 
-**Attack** +6 vs. AC
+| Normal 1st level | **Attack +6 vs. AC--1d6 damage** | **AC** **PD**| **17** **15** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **11** **14** |
 
-**Damage** d6
+#### Level 2
 
-**AC** 17
+| Normal 2nd level | **Attack +7 vs. AC--1d8 damage** | **AC** **PD**| **18** **16** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **12** **18** |
 
-**PD** 15
+#### Level 3
 
-**MD** 11
+| Normal 3th level | **Attack +9 vs. AC--1d12 damage** | **AC** **PD**| **19** **17** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **13** **22** |
 
-**HP** 14
+#### Level 4
 
-#### Level 2 Skeletal Minion
+| Normal 4th level | **Attack +10 vs. AC--12d6 damage** | **AC** **PD**| **21** **19** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **15** **27** |
 
-**Attack** +7 vs. AC
+#### Level 5
 
-**Damage** d8
+| Normal 5th level | **Attack +11 vs. AC--12d8 damage** | **AC** **PD**| **22** **20** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **16** **36** |
 
-**AC** 18
+#### Level 6
 
-**PD** 16
+| Normal 6th level | **Attack +13 vs. AC--13d6 damage** | **AC** **PD**| **23** **21** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **17** **45** |
 
-**MD** 12
+#### Level 7
 
-**HP** 18
+| Normal 7th level | **Attack +14 vs. AC--13d8 damage** | **AC** **PD**| **25** **23** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **19** **54** |
 
-#### Level 3 Skeletal Minion
+#### Level 8
 
-**Attack** +9 vs. AC
+| Normal 8th level | **Attack +15 vs. AC--14d6 damage** | **AC** **PD**| **26** **24** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **20** **72** |
 
-**Damage** d12
+#### Level 9
 
-**AC** 19
+| Normal 9th level | **Attack +17 vs. AC--14d8 damage** | **AC** **PD**| **27** **25** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **21** **90** |
 
-**PD** 17
+#### Level 10
 
-**MD** 13
-
-**HP** 22
-
-#### Level 4 Skeletal Minion
-
-**Attack** +10 vs. AC
-
-**Damage** 2d6
-
-**AC** 21
-
-**PD** 19
-
-**MD** 15
-
-**HP** 27
-
-#### Level 5 Skeletal Minion
-
-**Attack** +11 vs. AC
-
-**Damage** 2d8
-
-**AC** 22
-
-**PD** 20
-
-**MD** 16
-
-**HP** 36
-
-#### Level 6 Skeletal Minion
-
-**Attack** +13 vs. AC
-
-**Damage** 3d6
-
-**AC** 23
-
-**PD** 21
-
-**MD** 17
-
-**HP** 45
-
-#### Level 7 Skeletal Minion
-
-**Attack** +14 vs. AC
-
-**Damage** 3d8
-
-**AC** 25
-
-**PD** 23
-
-**MD** 19
-
-**HP** 54
-
-#### Level 8 Skeletal Minion
-
-**Attack** +15 vs. AC
-
-**Damage** 4d6
-
-**AC** 26
-
-**PD** 24
-
-**MD** 20
-
-**HP** 72
-
-#### Level 9 Skeletal Minion
-
-**Attack** +17 vs. AC
-
-**Damage** 4d8
-
-**AC** 27
-
-**PD** 25
-
-**MD** 21
-
-**HP** 90
-
-#### Level 10 Skeletal Minion
-
-**Attack** +18 vs. AC
-
-**Damage** 5d6
-
-**AC** 28
-
-**PD** 26
-
-**MD** 22
-
-**HP** 108
+| Normal 10th level | **Attack +18 vs. AC--15d6 damage** | **AC** **PD**| **28** **26** |
+| --- | --- | --- | --- |
+| **Mook Undead** | | **MD** **HP** | **22** **108** |
 
 #### Skeletal Minion Feats
 
@@ -635,33 +555,39 @@ If one or more mooks summoned by the spell survive the battle, you can keep one 
 
 #### Crumbling Skeleton
 
-| **Normal** **1st level** **Mook** **Undead** | Initiative: +6; Vulnerability: holy **Sword +6 vs. AC** **—**3 damage _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **16** **14** **10** **6** |
+| **Normal** **1st level** | Initiative: +6; Vulnerability: holy; **Sword +6 vs. AC** **—** 3 damage | **AC** **PD** | **16** **14** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **10** **6** |
 
 #### Putrid Zombie
 
-| **Normal** **3rd level** **Mook** **Undead** | Initiative: +2; Vulnerability: holy **Rotting fist +7 vs. AC—** 5 damage  _Natural 16+:_ Both the zombie and its target take 1d6 damage! _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | **AC** **PD** **MD** **HP** | **18** **16** **12** **16** |
+| **Normal** **3rd level** | Initiative: +2; Vulnerability: holy; **Rotting fist +7 vs. AC—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Natural 16+:_ Both the zombie and its target take 1d6 damage! | **MD** **HP** | **12** **16** |
+| | _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | | |
 
 #### Starving Ghoul
 
-| **Normal** **5th level** **Mook** **Undead** | Initiative: +8; Vulnerability: holy **Ripping claws +10 vs. AC** **—**7 damage _Natural 16+_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. _Pound of flesh:_ The starving ghoul's _ripping claws_ attack deals +5 damage against vulnerable targets. | **AC** **PD** **MD** **HP** | **20** **18** **14** **18** |
+| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Ripping claws +10 vs. AC** **—** 7 damage | **AC** **PD** | **20** **18** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Natural 16+_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **14** **18** |
+| | _Pound of flesh:_ The starving ghoul's _ripping claws_ attack deals +5 damage against vulnerable targets. | | |
 
 #### Masterless Vampire Spawn
 
-| **Normal** **7th level** **Mook** **Undead** | Initiative: +11; Vulnerability: holy **Claw +11 vs. AC—** 14 damage _Natural even hit:_ The vampire spawn can make a _fangs_ attack against the target as a free action. _[Special trigger]_ **Fangs +15 vs. AC—** 7 damage, and a humanoid target is weakened (–4 attack and defenses) until the end of the masterless vampire spawn's next turn | **AC** **PD** **MD** **HP** | **22** **19** **17** **24** |
+| **Normal** **7th level** | Initiative: +11; Vulnerability: holy; **Claw +11 vs. AC—** 14 damage | **AC** **PD** | **22** **19** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Natural even hit:_ The vampire spawn can make a _fangs_ attack against the target as a free action. | **MD** **HP** | **17** **24** |
+| | _[Special trigger]_ **Fangs +15 vs. AC—** 7 damage, and a humanoid target is weakened (–4 attack and defenses) until the end of the masterless vampire spawn's next turn | | |
 
 #### Blackamber Skeletal Warrior
 
-| **Normal** **9th level** **Mook**  **Undead** | Initiative: +15; Vulnerability: holy **Shortsword +15 vs. AC** **—**28 damage _Natural 16+:_ Each Blackamber skeletal warrior in the battle moves up 1d4 points in initiative order. _Natural even miss:_ 10 damage. **R: Javelin** **+13 vs. AC** **—** 24 damage _Press advantage:_ The warrior deals +1d10 damage with its attacks against enemies that have a lower initiative than it. _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **26** **20** **22** **25** |
+| **Normal** **9th level** | Initiative: +15; Vulnerability: holy; **Shortsword +15 vs. AC** **—**28 damage | **AC** **PD** | **26** **20** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Natural 16+:_ Each Blackamber skeletal warrior in the battle moves up 1d4 points in initiative order. | **MD** **HP** | **22** **25** |
+| | _Natural even miss:_ 10 damage. **R: Javelin** **+13 vs. AC** **—** 24 damage | | |
+| | _Press advantage:_ The warrior deals +1d10 damage with its attacks against enemies that have a lower initiative than it. | | |
+| | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | | |
 
 ### Terror
 
@@ -783,27 +709,27 @@ This isn't a summoning spell, so the mooks created by this spell don't count as 
 
 #### Just-ripped-free Skeleton Mook (3rd)
 
-| **Normal** **3rd level** **Mook** **Undead** | Initiative: +8; Vulnerability: holy **Sword or axe or whatever +8 vs. AC** **—**5 damage _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **18** **16** **12** **11** |
+| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Sword or axe or whatever +8 vs. AC** **—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **12** **11** |
 
 #### Just-ripped-free Skeleton Mook (5th)
 
-| **Normal** **3rd level** **Mook** **Undead** | Initiative: +10; Vulnerability: holy **Sword or axe or whatever +10 vs. AC** **—**8 damage _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **20** **18** **14** **18** |
+| **Normal** **3rd level** | Initiative: +10; Vulnerability: holy; **Sword or axe or whatever +10 vs. AC** **—** 8 damage | **AC** **PD** | **20** **18** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **14** **18** |
 
 #### Just-ripped-free Skeleton Mook (7th)
 
-| **Normal** **3rd level** **Mook** **Undead** | Initiative: +12; Vulnerability: holy **Sword or axe or whatever +12 vs. AC** **—**16 damage _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **22** **20** **16** **27** |
+| **Normal** **3rd level** | Initiative: +12; Vulnerability: holy; **Sword or axe or whatever +12 vs. AC** **—** 16 damage | **AC** **PD** | **22** **20** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **16** **27** |
 
 #### Just-ripped-free Skeleton Mook (9th)
 
-| **Normal** **3rd level** **Mook** **Undead** | Initiative: +14; Vulnerability: holy **Sword or axe or whatever +14 vs. AC** **—**28 damage _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **AC** **PD** **MD** **HP** | **24** **22** **18** **44** |
+| **Normal** **3rd level** | Initiative: +14; Vulnerability: holy; **Sword or axe or whatever +14 vs. AC** **—** 28 damage | **AC** **PD** | **24** **22** |
 | --- | --- | --- | --- |
-| | | | |
+| **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **18** **44** |
 
 ### Circle of Death
 
@@ -935,27 +861,29 @@ As you cast the spell at higher levels, the creature you summon varies, as shown
 
 #### Summoned Ghoul
 
-| **Normal** **3rd level** **Spoiler** **Undead** | Initiative: +8; Vulnerability: holy **Claws and bite +8 vs. AC** **—** 8 damage  _Natural even hit:_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. _Pound of flesh:_ The ghoul's _claws and bite_ attack deals +4 damage against vulnerable targets. _Infected bite:_ Any creature that is slain by a ghoul and not consumed will rise as a ghoul the next night. | **AC** **PD** **MD** **HP** | **18** **16** **12** **20** |
+| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Claws and bite +8 vs. AC** **—** 8 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | _Natural even hit:_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **12** **20** |
+| | _Pound of flesh:_ The ghoul's _claws and bite_ attack deals +4 damage against vulnerable targets. | | |
+| | _Infected bite:_ Any creature that is slain by a ghoul and not consumed will rise as a ghoul the next night. | | |
 
 #### Summoned Wight
 
-| **Normal** **5th level** **Spoiler** **Undead** | Initiative: +8; Vulnerability: holy **Sword +10 vs. AC—** 14 damage  _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing negative energy damage. | **AC** **PD** **MD** **HP** | **22** **18** **14** **32** |
+| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Sword +10 vs. AC—** 14 damage | **AC** **PD** | **22** **18** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing negative energy damage. | **MD** **HP** | **14** **32** |
 
 #### Summoned Barrow Wight
 
-| **Normal** **7th level** **Spoiler** **Undead** | Initiative: +10; Vulnerability: holy **Sword +12 vs. AC—** 21 damage  _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing negative energy damage. | **AC** **PD** **MD** **HP** | **24** **20** **16** **52** |
+| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Sword +12 vs. AC—** 21 damage | **AC** **PD** | **24** **20** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing negative energy damage. | **MD** **HP** | **16** **52** |
 
 #### Summoned Greater Wight
 
-| **Normal** **9th level** **Spoiler** **Undead** | Initiative: +12; Vulnerability: holy **Attack +14 vs AC—** 40 damage  _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing negative energy damage. | **AC** **PD** **MD** **HP** | **26** **22** **18** **90** |
+| **Normal** **9th level** | Initiative: +12; Vulnerability: holy; **Attack +14 vs AC—** 40 damage | **AC** **PD** | **26** **22** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing negative energy damage. | **MD** **HP** | **18** **90** |
 
 ### Wave of Decay
 
@@ -1045,15 +973,23 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 
 #### Summoned Wraith
 
-| **Normal** **5th level** **Spoiler** **Undead** | Initiative: +10; Vulnerability: holy **Ice-cold ghost blade +10 vs. PD—** 14 negative energy damage _Natural 16+:_ The target is also weakened until the end of its next turn. **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—**10 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. _Flight_: The wraith hovers and zooms about. _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally.A wraith can move through solid objects, but it can't end its movement inside them. | **AC** **PD** **MD** **HP** | **19** **14** **17** **33** |
+| **Normal** **5th level** | Initiative: +10; Vulnerability: holy; **Ice-cold ghost blade +10 vs. PD—** 14 negative energy damage | **AC** **PD** | **19** **14** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 10 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **17** **33** |
+| | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
+| | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
+| | _Flight_: The wraith hovers and zooms about. | | |
+| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 #### Summoned Greater Wraith
 
-| **Normal** **7th level** **Spoiler** **Undead** | Initiative: +12; Vulnerability: holy **Ice-cold ghost blade +12 vs. PD—** 20 negative energy damage _Natural 16+:_ The target is also weakened until the end of its next turn. **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 15 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. _Flight_: The wraith hovers and zooms about. _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally.A wraith can move through solid objects, but it can't end its movement inside them. | **AC** **PD** **MD** **HP** | **21** **16** **19** **47** |
+| **Normal** **7th level** | Initiative: +12; Vulnerability: holy; **Ice-cold ghost blade +12 vs. PD—** 20 negative energy damage | **AC** **PD** | **21** **16** |
 | --- | --- | --- | --- |
-| | | | |
+| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 15 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **19** **47** |
+| | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
+| | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
+| | _Flight_: The wraith hovers and zooms about. | | |
+| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 ### You Know What to Do
 
