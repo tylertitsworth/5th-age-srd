@@ -53,7 +53,7 @@ Necromancers start with 25gp.
 | **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 5 | — | — | — | — |  | ability modifier |
 | **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 3 | — | — | — |  | ability modifier |
 | **Level 4** | (6 + CON mod) x 6 | 4 adventurer | — | 6 | — | — | — | +1 to 3 abilities | ability modifier |
-| **Level 5** | (6 + CON mod) x 8 | 4 adventurerchampion | — | 3 | 4 | — | — |  | 2 x ability modifier |
+| **Level 5** | (6 + CON mod) x 8 | 4 adventurer; 1 champion | — | 3 | 4 | — | — |  | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion | — | — | 7 | — | — |  | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | — | — | 3 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
 | **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | — | — | — | 8 | — |  | 3 x ability modifier |
@@ -698,27 +698,27 @@ The new mooks take their turn immediately after your turn.
 
 This isn't a summoning spell, so the mooks created by this spell don't count as summoned mooks.
 
-#### Just-ripped-free Skeleton Mook (3rd)
+#### 3rd Level
 
 | **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Sword or axe or whatever +8 vs. AC** **—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **12** **11** |
 
-#### Just-ripped-free Skeleton Mook (5th)
+#### 5th Level
 
-| **Normal** **3rd level** | Initiative: +10; Vulnerability: holy; **Sword or axe or whatever +10 vs. AC** **—** 8 damage | **AC** **PD** | **20** **18** |
+| **Normal** **5th level** | Initiative: +10; Vulnerability: holy; **Sword or axe or whatever +10 vs. AC** **—** 8 damage | **AC** **PD** | **20** **18** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **14** **18** |
 
-#### Just-ripped-free Skeleton Mook (7th)
+#### 7th Level
 
-| **Normal** **3rd level** | Initiative: +12; Vulnerability: holy; **Sword or axe or whatever +12 vs. AC** **—** 16 damage | **AC** **PD** | **22** **20** |
+| **Normal** **7th level** | Initiative: +12; Vulnerability: holy; **Sword or axe or whatever +12 vs. AC** **—** 16 damage | **AC** **PD** | **22** **20** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **16** **27** |
 
-#### Just-ripped-free Skeleton Mook (9th)
+#### 9th Level
 
-| **Normal** **3rd level** | Initiative: +14; Vulnerability: holy; **Sword or axe or whatever +14 vs. AC** **—** 28 damage | **AC** **PD** | **24** **22** |
+| **Normal** **9th level** | Initiative: +14; Vulnerability: holy; **Sword or axe or whatever +14 vs. AC** **—** 28 damage | **AC** **PD** | **24** **22** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **18** **44** |
 
