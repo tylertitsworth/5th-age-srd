@@ -124,9 +124,9 @@ Subsequent rolls cannot be the same as the previous roll. If you roll the same n
 
 If you roll…
 
-- Attack: The next psion affinity you cast during the battle must be an attack affinity, but you won't have to choose the affinity until your turn.
-- Defense: The next psion affinity you cast during the battle must be a defense affinity, but you won't have to choose the affinity until your turn.
-- Iconic: The next psion affinity you cast during the battle must be an iconic affinity. Immediately roll a die to determine which relationship's affinities you'll have to choose from. For example, if your character has 3 relationships, assign a number to each relationship and roll a d3. You don't have to choose the specific affinity until your turn.
+- **Attack:** The next psion affinity you cast during the battle must be an attack affinity, but you won't have to choose the affinity until your turn.
+- **Defense:** The next psion affinity you cast during the battle must be a defense affinity, but you won't have to choose the affinity until your turn.
+- **Iconic:** The next psion affinity you cast during the battle must be an iconic affinity. Immediately roll a die to determine which relationship's affinities you'll have to choose from. For example, if your character has 3 relationships, assign a number to each relationship and roll a d3. You don't have to choose the specific affinity until your turn.
 
 Whether you cast an at-will, per-battle, or daily affinity, you cast it at the affinity level shown on the affinity progression table.
 
