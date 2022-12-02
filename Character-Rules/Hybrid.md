@@ -113,23 +113,23 @@ As a 1st level character, you've got all the gear you need from both your classe
 
 The important things to remember in keeping track of the key ability for a hybrid character are a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents, and b) the talents are class elements that are affected by the key ability modifiers.
 
-| | **Barbarian** | **Bard** | **Chaos mage** | **Cleric** | **Commander** | **Druid** | **Fighter** | **Monk** | **Necromancer** | **Occultist** | **Paladin** | **Ranger** | **Rogue** | **Sorcerer** | **Wizard** |
+| | **Barbarian** | **Bard** | **Cleric** | **Commander** | **Druid** | **Fighter** | **Monk** | **Necromancer** | **Occultist** | **Paladin** | **Psion** | **Ranger** | **Rogue** | **Sorcerer** | **Wizard** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Barbarian** | X | Str/Cha | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Con | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Bard** | Str/Cha | X | Str OR Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Str OR Dex/Cha | Dex/Cha | Str OR Dex | Int/Cha |
-| **Chaos mage** | Str/Cha | Str OR Dex/Cha | X | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Str OR Dex/Cha | Dex/Cha | Con/Cha | Int/Cha |
-| **Cleric** | Str/Wis | Wis/Cha | Wis/Cha | X | Wis/Cha |Str/Wis | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Str/Wis | Dex/Wis | Wis/Cha | Int/Wis |
-| **Commander** | Str/Cha | Str/Cha | Str/Cha | Wis/Cha | X |Wis/Cha | Str/Cha | Str/Dex | Int/Cha | Int/Cha | Str/Cha | Str/Cha | Dex/Cha | Str/Cha | Int/Cha |
-| **Druid** | Str/Wis | Wis/Cha | Wis/Cha | Str/Wis | Wis/Cha |X | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Str OR Dex/Wis | Dex/Wis | Wis/Cha | Int/Wis |
-| **Fighter** | Str/Con | Str/Cha | Str/Cha | Str/Wis | Str/Cha |Str/Wis | X | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Monk** | Str/Dex | Dex/Cha | Dex/Cha | Dex/Wis` | Str/Dex |Dex/Wis | Str/Dex | X | Dex/Int | Dex/Int | Str/Dex | Str/Dex | Str/Dex | Dex/Cha | Dex/Int |
-| **Necromancer** | Str/Int | Int/Cha | Int/Cha | Int/Cha | Int/Cha |Int/Wis | Str/Int | Dex/Int | X | Int/Cha | Str/Int | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Cha |
-| **Occultist** | Str/Int | Int/Cha | Int/Cha | Int/Wis | Int/Cha |Int/Wis | Str/Int | Dex/Int | Int/Cha | X | Str/Int | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Wis |
-| **Paladin** | Str/Cha | Str/Cha | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Cha | Str/Dex | Str/Int | Str/Int | X | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Ranger** | Str/Dex | Str OR Dex/Cha | Str OR Dex/Cha | Str/Wis | Str/Cha | Str OR Dex/Wis | Str/Dex | Str/Dex | Str OR Dex/Int | Str OR Dex/Int | Str/Dex | X | Str/Dex | Dex/Cha | Dex/Int |
-| **Rogue** | Str/Dex | Dex/Cha | Dex/Cha | Dex/Wis | Dex/Cha |Dex/Wis | Str/Dex | Str/Dex | Dex/Int | Dex/Int | Str/Dex | Str/Dex | X | Dex/Cha | Dex/Int |
-| **Sorcerer** | Str/Cha | Dex/Cha | Con/Cha | Wis/Cha | Str/Cha |Wis/Cha | Dex/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Dex/Cha | Dex/Cha | X | Int/Cha |
-| **Wizard** | Str/Int | Int/Cha | Int/Cha | Int//Wis | Int/Cha |Int/Wis | Dex/Int | Dex/Int | Int/Cha | Int/Wis | Str/Int | Dex/Int | Dex/Int | Int/Cha | X |
+| **Barbarian** | X | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Con | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
+| **Bard** | Str/Cha | X | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Str OR Dex/Cha | Str OR Dex/Cha | Dex/Cha | Str OR Dex | Int/Cha |
+| **Cleric** | Str/Wis | Wis/Cha | X | Wis/Cha |Str/Wis | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str/Wis | Dex/Wis | Wis/Cha | Int/Wis |
+| **Commander** | Str/Cha | Str/Cha | Wis/Cha | X |Wis/Cha | Str/Cha | Str/Dex | Int/Cha | Int/Cha | Str/Cha | Str/Cha | Str/Cha | Dex/Cha | Str/Cha | Int/Cha |
+| **Druid** | Str/Wis | Wis/Cha | Str/Wis | Wis/Cha |X | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str OR Dex/Wis | Dex/Wis | Wis/Cha | Int/Wis |
+| **Fighter** | Str/Con | Str/Cha | Str/Wis | Str/Cha |Str/Wis | X | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
+| **Monk** | Str/Dex | Dex/Cha | Dex/Wis | Str/Dex |Dex/Wis | Str/Dex | X | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | Str/Dex | Dex/Cha | Dex/Int |
+| **Necromancer** | Str/Int | Int/Cha | Int/Cha | Int/Cha |Int/Wis | Str/Int | Dex/Int | X | Int/Cha | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Cha |
+| **Occultist** | Str/Int | Int/Cha | Int/Wis | Int/Cha |Int/Wis | Str/Int | Dex/Int | Int/Cha | X | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Wis |
+| **Paladin** | Str/Cha | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Cha | Str/Dex | Str/Int | Str/Int | X | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
+| **Psion** | Str/Cha | Str OR Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | X | Str OR Dex/Cha | Dex/Cha | Con/Cha | Int/Cha |
+| **Ranger** | Str/Dex | Str OR Dex/Cha | Str/Wis | Str/Cha | Str OR Dex/Wis | Str/Dex | Str/Dex | Str OR Dex/Int | Str OR Dex/Int | Str/Dex | Str OR Dex/Cha | X | Str/Dex | Dex/Cha | Dex/Int |
+| **Rogue** | Str/Dex | Dex/Cha | Dex/Wis | Dex/Cha |Dex/Wis | Str/Dex | Str/Dex | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | X | Dex/Cha | Dex/Int |
+| **Sorcerer** | Str/Cha | Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Dex/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Con/Cha | Dex/Cha | Dex/Cha | X | Int/Cha |
+| **Wizard** | Str/Int | Int/Cha | Int//Wis | Int/Cha |Int/Wis | Dex/Int | Dex/Int | Int/Cha | Int/Wis | Str/Int | Int/Cha | Dex/Int | Dex/Int | Int/Cha | X |
 
 _Note:_ Hybrids that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don't take the weapon damage die penalty suffered by other hybrid characters. The hybrid ability scores of these combinations appear in italics above.
 
@@ -170,24 +170,6 @@ Once per battle, as long as both classes use flexible attacks for the type of at
 #### Champion Tier
 
 You can now use the adventurer-tier feat twice per battle.
-
-## Chaos Mage Hybrid
-
-You lag one level behind in the three central columns of the Chaos Mage Level Progression table: daily spells, once-per-battle spells, and spell level.
-
-Drop three new stones of the same color (but a different color from your attack/defense/iconic stones) into your chaos mage bag. These stones correspond to your other class. When you draw one of the stones, any warp effects or high weirdness you've got going on from a previous chaos mage turn end. On your next turn, you must use a standard action attack from your non-chaos mage class, just as if you had drawn a stone for one of your standard three types of chaos magic.
-
-If your chaos mage talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
-
-### Continual Warp
-
-#### Adventurer Tier
-
-If you have a warp effect already going, drawing the stone from your other class doesn't cancel the warp effect. The warp effect continues until it's replaced by another warp effect or the end of the battle, as usual.
-
-#### Champion Tier
-
-If you invested in high weirdness, your high weirdness effects don't stop when you draw a hybrid stone.
 
 ## Cleric Hybrid
 
@@ -266,6 +248,24 @@ Once per battle while wearing heavy armor, use an attack from a class that norma
 #### Champion Tier
 
 Two battles per day, avoid all attack penalties for wearing heavy armor from a class that normally has such an attack penalty. During any other battles that day, you can still only use the once-per battle power from the adventurer-tier feat.
+
+## Psion Hybrid
+
+You lag one level behind in the three central columns of the Psion Level Progression table: daily spells, once-per-battle spells, and spell level.
+
+Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. One your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
+
+If your psionc talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
+
+### Continual Warp
+
+#### Adventurer Tier
+
+If you have a warp effect already going, drawing the stone from your other class doesn't cancel the warp effect. The warp effect continues until it's replaced by another warp effect or the end of the battle, as usual.
+
+#### Champion Tier
+
+If you invested in high weirdness, your high weirdness effects don't stop when you draw a hybrid stone.
 
 ## Ranger Hybrid
 

@@ -89,7 +89,6 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 | --- | --- |
 | Barbarian | two-handed weapon, light armor |
 | Bard | light weapon, light armor, wand/staff |
-| Chaos Mage | wand/staff, shirt (armor) |
 | Cleric | symbol/staff, heavy armor, simple one-handed weapon, shield |
 | Commander | light weapon, light armor, shield |
 | Druid | symbol/staff, light armor, simple one-handed weapon, shield |
@@ -98,6 +97,7 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 | Necromancer | wand/staff, shirt (armor) |
 | Occultist | wand/staff, shirt (armor) |
 | Paladin | one-handed martial weapon, heavy armor, shield |
+| Psion | wand/staff, shirt (armor) |
 | Ranger | one-handed martial weapons, bow, arrows, possibly other ranged weapons, light armor |
 | Rogue | light weapon, light armor |
 | Sorcerer | wand/staff, shirt (armor) |
