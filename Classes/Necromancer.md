@@ -823,7 +823,8 @@ Variable
 
 _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
 
-**Target:** One corpse you are touching that has been dead less than a day. Note that creatures that were undead for a longer period before they were killed are not legal targets.
+**Target:** One corpse you are touching that has been dead less than a day.
+>Note that creatures that were undead for a longer period before they were killed are not legal targets.
 
 **Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died.\* The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
 
