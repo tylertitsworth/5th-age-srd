@@ -7,6 +7,7 @@ plugins:
   - jekyll-titles-from-headings
 show_downloads: true
 navigation:
+  h_min: 2
   h_max: 5
   name_over_title: true
 github:
