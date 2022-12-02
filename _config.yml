@@ -1,6 +1,7 @@
 remote_theme: Bilal2453/cayman-docs
 # theme: jekyll-theme-cayman
 title: "5th Age SRD"
+subtitle: "5th Age"
 plugins:
   - jekyll-seo-tag
   - jekyll-titles-from-headings

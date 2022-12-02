@@ -30,9 +30,10 @@
   <a id="skip-to-content" href="#content">Skip to the content.</a>
 
   <header class="page-header" role="banner">
-    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <h1 class="project-name">{{ site.subtitle | default: site.github.repository_name }}</h1>
     {% capture page_title %}{{ page.name | split: "." | first }}{% endcapture %}
-    <h2 class="project-dir">/ <a href="{{ site.github.url | default: '../' | relative_url }}">{{ site.title | default: 'Main Page' }}</a> / <a href="{{ page.url | absolute_url | default: './' }}">{% if n.name_over_title %}{{ page_title }}{% else %}{{ page.title | default: page_title }}{% endif %}</a></h2>
+    <h2 class="project-dir">/ <a href="{{ site.github.url | default: '../' | relative_url }}">{{ site.subtitle | default: 'Main Page' }}</a> / <a href="{{ page.url | absolute_url | default: './' }}">{% if n.name_over_title %}{{ page_title }}{% else %}{{ page.subtitle | default: page_title }}{% endif %}</a></h2>
+    <br>
     {% if site.show_downloads %}
         <a href="{{ site.github.sheet_url }}" class="btn">Download Character Sheet</a>
     {% endif %}
