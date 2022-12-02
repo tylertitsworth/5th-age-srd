@@ -131,7 +131,7 @@ The important things to remember in keeping track of the key ability for a hybri
 | **Sorcerer** | Str/Cha | Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Dex/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Con/Cha | Dex/Cha | Dex/Cha | X | Int/Cha |
 | **Wizard** | Str/Int | Int/Cha | Int//Wis | Int/Cha |Int/Wis | Dex/Int | Dex/Int | Int/Cha | Int/Wis | Str/Int | Int/Cha | Dex/Int | Dex/Int | Int/Cha | X |
 
-_Note:_ Hybrids that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don't take the weapon damage die penalty suffered by other hybrid characters. The hybrid ability scores of these combinations appear in italics above.
+>_Note:_ Hybrids that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don't take the weapon damage die penalty suffered by other hybrid characters. The hybrid ability scores of these combinations appear in italics above.
 
 ## Barbarian Hybrid
 

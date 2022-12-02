@@ -205,7 +205,8 @@ When you have relationship advantages you're waiting to use during a session, yo
 
 _**Séance:**_ Similarly, once per day while you're not in battle, you can perform a short rite (1–2 minutes) to call upon a spirit of the dead that's related to a random relationship other than a necromantic relationship. The spirit will speak to you, relaying information helpfully, or under protest if it's related to a relationship that considers you an enemy or with which you have a negative relationship.
 
-You can't always rely on the dead to speak the truth, or to know what they are talking about. Whenever you use the séance power above, the GM secretly rolls a d20 before the discussion. On a 3+, the spirit knows what it is talking about. On a 1–2, the information is outdated, sabotaged, or just erroneous. (Note that this roll is only used for séances, not for spirits you talk to thanks to relationship advantages mentioned above.)
+You can't always rely on the dead to speak the truth, or to know what they are talking about. Whenever you use the séance power above, the GM secretly rolls a d20 before the discussion. On a 3+, the spirit knows what it is talking about. On a 1–2, the information is outdated, sabotaged, or just erroneous.
+>Note that this roll is only used for séances, not for spirits you talk to thanks to relationship advantages mentioned above.
 
 At 5th level you can use séance two times per day. At 8th level you can use it three times per day.
 
@@ -826,7 +827,7 @@ _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up
 
 **Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died.\* The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
 
-_Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
+>_Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
 
 | Higher Level | Effect |
 | --- | --- |

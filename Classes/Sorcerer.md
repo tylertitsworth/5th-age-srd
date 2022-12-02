@@ -62,7 +62,7 @@ Sorcerers start with 25gp.
 | **Level 9** | (6 + CON mod) x **20** | 4 adventurer; 3 champion; 2 epic | — | — | — | 3 | 6 |  | 3 x ability modifier |
 | **Level 10** | (6 + CON mod) x **24** | 4 adventurer; 3 champion; 3 epic | — | — | — | — | 9 | +1 to 3 abilities | 3 x ability modifier |
 
-Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
+>Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
@@ -695,7 +695,8 @@ Recharge 16+ after battle
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 2d4 x 10 random energy damage, and you take damage of the same type equal to the unmodified dice roll (2d4, 2d8, or 2d12). (Note that there's no Charisma bonus to damage.)
+**Hit:** 2d4 x 10 random energy damage, and you take damage of the same type equal to the unmodified dice roll (2d4, 2d8, or 2d12).
+>Note that there's no Charisma bonus to damage.
 
 **Miss:** Half damage, and you still take random energy damage equal to the unmodified dice roll.
 

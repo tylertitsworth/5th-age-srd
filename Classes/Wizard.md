@@ -62,7 +62,7 @@ Wizards start with 25gp.
 | **Level 9** | (6 + CON mod) x **20** | 4 adventurer; 3 champion; 2 epic | — | — | 1 | 5 | 6 |  |
 | **Level 10** | (6 + CON mod) x **24** | 4 adventurer; 3 champion; 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities |
 
-Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
+>Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 

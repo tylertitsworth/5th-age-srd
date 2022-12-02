@@ -737,7 +737,7 @@ Daily
 
 **Effect:** You utter a powerful prayer upon your comrades, giving each a special blessing. At any point later this battle, each blessed ally can acknowledge the blessing by saying "thank you" to your god, gods, or pantheon as a free action to reroll a d20 roll. That ally must take the reroll result.
 
-Note that you are giving the blessing and don't receive it yourself.
+>Note that you are giving the blessing and don't receive it yourself.
 
 #### Epic Feat
 

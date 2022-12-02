@@ -62,7 +62,7 @@ Psions start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
+>Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
 ## Stats
 
