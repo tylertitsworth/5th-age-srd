@@ -9,6 +9,7 @@ An adaption of the [13th Age Archmage Engine](https://www.13thagesrd.com/) combi
   - [Feats](./Character-Rules/Feats.md)
   - [Gear](./Character-Rules/Gear.md)
   - [Hybrid](./Character-Rules/Hybrid.md)
+  - [Relationships](./Character-Rules/Relationships.md)
   - [Rituals](./Character-Rules/Rituals.md)
   - [Summoning](./Character-Rules/Summoning.md)
 - [Classes](./Classes/README.md)
