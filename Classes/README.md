@@ -41,7 +41,6 @@ If you've made changes to spells and powers, revise your feats appropriately. If
 | --- | --- | --- | --- | --- | --- |
 | [**Barbarian**](./Barbarian.md#barbarian) | 7 | 12 | 11 | 10 | d10/lvl |
 | [**Bard**](./Bard.md#bard) | 7 | 12 | 10 | 11 | d8/lvl |
-| [**Chaos Mage**](./Chaos-Mage.md#chaos-mage) | 6 | 10 | 10 | 11 | d6/lvl |
 | [**Cleric**](./Cleric.md#cleric) | 7 | 14 | 11 | 11 | d8/lvl |
 | [**Commander**](./Commander.md#commander) | 7 | 12 | 10 | 12 | d8/lvl |
 | [**Druid**](./Druid.md#druid) | 6\*\* | 10\*\* | 11 | 11 | d6/lvl\*\* |
@@ -50,6 +49,7 @@ If you've made changes to spells and powers, revise your feats appropriately. If
 | [**Necromancer**](./Necromancer.md#necromancer) | 6 | 10 | 10 | 11 | d6/lvl |
 | [**Occultist**](./Occultist.md#occultist) | 6 | 11 | 10 | 11 | d6/lvl |
 | [**Paladin**](./Paladin.md#paladin) | 8 | 16 | 10 | 12 | d10/lvl |
+| [**Psion**](./Psion.md#psion) | 6 | 10 | 10 | 11 | d6/lvl |
 | [**Ranger**](./Ranger.md#ranger) | 7 | 14 | 11 | 10 | d8/lvl |
 | [**Rogue**](./Rogue.md#rogue) | 6 | 12 | 12 | 10 | d8/lvl |
 | [**Sorcerer**](./Sorcerer.md#sorcerer) | 6 | 10 | 11 | 10 | d6/lvl |

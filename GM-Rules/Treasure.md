@@ -12,18 +12,18 @@ The table below lists the highest amount of gold pieces you should consider awar
 
 | **PC Level** | **GP per Character** |
 | --- | --- |
-| 1 | 100 |
+| 1 | 75 |
 | 2 | 125 |
-| 3 | 175 |
-| 4 | 210 |
-| 5 | 250 |
-| 6 | 325 |
-| 7 | 425 |
-| 8 | 500 |
-| 9 | 650 |
-| 10 | 850 |
+| 3 | 200 |
+| 4 | 300 |
+| 5 | 500 |
+| 6 | 750 |
+| 7 | 1250 |
+| 8 | 2000 |
+| 9 | 3000 |
+| 10 | 5000 |
 
-### Optional No Math System
+### No Math System
 
 Each player rolls a d20 and checks the table below. Results are not cumulative; what you roll is what you get.
 
@@ -36,3 +36,13 @@ Each player rolls a d20 and checks the table below. Results are not cumulative; 
 | 5–10 | One healing potion from PC's tier. |
 | 11–15 | Two potions/oils/runes of PC's choice from PC's tier. |
 | 16–20 | Three potions/oils/runes of PC's choice from PC's tier. |
+
+### Selling Magic Items
+
+| Tier | DnD 5e Rarity | Armor/Weapon Bonus | Price (gp) |
+| ---- | ------------- | ------------------ | ---------- |
+| | Common | | 300 |
+| Adventurer | Uncommon | +1 | 1000 |
+| Champion | Rare | +2 | 3000 |
+| Epic | Very Rare | +3 | 10000 |
+| | Legendary | | 30000 |
