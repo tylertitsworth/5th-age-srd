@@ -246,7 +246,7 @@ If you roll a natural 20 on a disengage check, you can move to a far away locati
 
 #### Epic Tier
 
-You can use your racial power twice per battle (if it can normally be used once per battle).
+You can use your species power twice per battle (if it can normally be used once per battle).
 
 ### Perceptive
 

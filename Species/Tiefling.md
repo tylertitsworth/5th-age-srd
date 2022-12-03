@@ -3,11 +3,11 @@ layout: doc
 ---
 # Tiefling
 
-## Racial Bonus
+## Species Bonus
 
 +2 Str or +2 Int
 
-## Racial Power
+## Species Power
 
 ### Curse of Chaos
 

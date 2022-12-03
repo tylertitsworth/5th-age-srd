@@ -169,7 +169,7 @@ The eyes do not hear, but they see well. Each uses your Perception modifier, wit
 
 If an eye sees an intruder, it emits a loud warning sound defined by you during the ritual. This sound could be anything from a stentorian “Enemies approach!” to an owl's screech to a fanfare of trumpets. The Perception DC to hear the eye's sound is 0 (modified by distance as normal).
 
-The eyes never consider you an intruder. In addition, you can designate any number of other ritual participants as nonintruders. When you perform the ritual, you can also designate one or more categories of creatures that the eyes will ignore. You can define these categories by obvious physical characteristics (such as height, weight, or body shape), creature type (such as humanoid), creature race (such as hill giant), or obvious equipment (such as a creature carrying a shield with a flame emblazoned upon it).
+The eyes never consider you an intruder. In addition, you can designate any number of other ritual participants as nonintruders. When you perform the ritual, you can also designate one or more categories of creatures that the eyes will ignore. You can define these categories by obvious physical characteristics (such as height, weight, or body shape), creature type (such as humanoid), creature species (such as hill giant), or obvious equipment (such as a creature carrying a shield with a flame emblazoned upon it).
 
 The ritual's effects last for 24 hours or until you move far away from all the eyes.
 
@@ -1520,7 +1520,7 @@ _Focus_: A silver rope worth at least 2,000 gp.
 
 **Market/Component Cost**: 600 gp**/**120 gp
 
-**Effect**: Upon completing the ritual, you and up to eight allies assume the appearance of any Medium humanoid creatures. The ritual allows you to assume the general appearance of a particular race, but not of a unique creature. The ritual's effect is centered on you; if any ally moves far away from you, the ritual's effect ends for that ally.
+**Effect**: Upon completing the ritual, you and up to eight allies assume the appearance of any Medium humanoid creatures. The ritual allows you to assume the general appearance of a particular species, but not of a unique creature. The ritual's effect is centered on you; if any ally moves far away from you, the ritual's effect ends for that ally.
 
 **Skill Check**: Creatures viewing or interacting with you or your allies can make an Insight skill check to detect the deception. The check's DC equals your Arcana skill check result. A creature is allowed a check the first time it sees you and each time it interacts with you or one of your allies. If the creature touches you or an ally, it automatically realizes the deception.
 

@@ -3,11 +3,11 @@ layout: doc
 ---
 # Warforged
 
-## Racial Bonus
+## Species Bonus
 
 +2 Str or +2 Con
 
-## Racial Power
+## Species Power
 
 ### Never Say Die
 

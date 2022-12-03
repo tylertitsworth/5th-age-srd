@@ -3,7 +3,7 @@ layout: doc
 ---
 # Human
 
-## Racial Bonus
+## Species Bonus
 
 +2 to any ability score.
 
@@ -11,7 +11,7 @@ layout: doc
 
 At 1st level, human PCs start with two feats instead of one.
 
-## Racial Power
+## Species Power
 
 ### Quick to Fight
 

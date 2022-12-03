@@ -111,7 +111,7 @@ You gain a +1 bonus to all defenses while at maximum hit points. Quirk: Made une
 
 (Quick action – daily)
 
-If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a racial power, class power, or magic item power this way. Quirk: Repeats stories over and over.
+If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way. Quirk: Repeats stories over and over.
 
 #### Splendor
 
@@ -548,7 +548,7 @@ The pendant brings out the best in other magic items you carry, so that their qu
 
 (Recharge 16+)
 
-This necklace changes shape and jewels depending on the race of the wearer. When you use this necklace, you gain another use of your racial power in the battle. Quirk: Sometimes unwittingly speaks in a language that sounds like it could be the original language of their race, if anyone else could understand it.
+This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle. Quirk: Sometimes unwittingly speaks in a language that sounds like it could be the original language of their species, if anyone else could understand it.
 
 #### Water Breathing
 
@@ -968,7 +968,7 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 
 (+3 longbow – recharge 16+)
 
-If your elven grace racial ability roll failed this turn, use the natural result of this bow's attack roll as another elven grace roll, after you see the roll. Quirk: Complains too often that the glorious centuries of old are gone forever.
+If your elven grace species ability roll failed this turn, use the natural result of this bow's attack roll as another elven grace roll, after you see the roll. Quirk: Complains too often that the glorious centuries of old are gone forever.
 
 #### Mighty Stunning
 

@@ -5,7 +5,7 @@ layout: doc
 
 ## Dark Elf
 
-### Racial Bonus
+### Species Bonus
 
 +2 Dex or +2 Cha
 
@@ -17,7 +17,7 @@ If you can already use swords that deal d6 and d8 damage without attack penaltie
 
 Otherwise, if your class would ordinarily have an attack penalty with such swords, you can now use them without penalties.
 
-### Racial Power
+### Species Power
 
 #### Cruel
 
@@ -29,11 +29,11 @@ Once per day, you can instead use _cruel_ to deal 5 ongoing damage per level aga
 
 ## High Elf
 
-### Racial Bonus
+### Species Bonus
 
 +2 Int or +2 Cha
 
-### Racial Power
+### Species Power
 
 #### Highblood Teleport
 
@@ -45,11 +45,11 @@ Deal damage equal to twice your level to one enemy engaged with you before or af
 
 ## Wood Elf
 
-### Racial Bonus
+### Species Bonus
 
 +2 Dex or +2 Wis
 
-### Racial Power
+### Species Power
 
 #### Elven Grace
 

@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Bards gain a +2 class bonus to Dexterity or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
+Bards gain a +2 class bonus to Dexterity or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -68,7 +68,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Dexterity or Charisma (different from racial bonus) |
+| **Ability Bonus** | +2 Dexterity or Charisma (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
@@ -681,7 +681,7 @@ Flexible melee attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 3+; otherwise natural 20
 
-**Effect:** A nearby ally regains the use of a once-per-battle racial ability that was expended this battle.
+**Effect:** A nearby ally regains the use of a once-per-battle species ability that was expended this battle.
 
 ### Victory Is Ours
 

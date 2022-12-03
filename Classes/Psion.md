@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Psions gain a +2 class bonus to Intelligence or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
+Psions gain a +2 class bonus to Intelligence or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -66,7 +66,7 @@ Psions start with 25gp.
 
 ## Stats
 
-| **Ability Bonus** | +2 Intelligence or Charisma (different from racial bonus) |
+| **Ability Bonus** | +2 Intelligence or Charisma (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
@@ -201,7 +201,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **51–55** | You gain an additional quick action during each of your turns while this weirdness is in effect. |
 | **56–60** | When one of your allies casts an psionic affinity this battle, the affinity gains a small bonus effect chosen by the GM (something that suits the affinity and the story). |
 | **61–65** | You and your allies gain small halos, or celestial light pours in, or a subtle glow illuminates each countenance. When one of your allies casts a divine affinity this battle, it gains a small bonus effect chosen by the GM, something that suits the affinity and the story. |
-| **66–70** | Your features shift and settle into a temporary new pattern. You gain a random racial ability until the end of your next turn. Ignore results that duplicate a racial ability you already have. Roll a d8. 1: dwarf's that's your best shot; 2: dark elf's cruel; 3: high elf's highblood teleport; 4: gnome's confounding; 5: half–elf's surprising; 6: halfling's evasive; 7: holy one's halo; 8: tieflings's curse of chaos. |
+| **66–70** | Your features shift and settle into a temporary new pattern. You gain a random species ability until the end of your next turn. Ignore results that duplicate a species ability you already have. Roll a d8. 1: dwarf's that's your best shot; 2: dark elf's cruel; 3: high elf's highblood teleport; 4: gnome's confounding; 5: half–elf's surprising; 6: halfling's evasive; 7: holy one's halo; 8: tieflings's curse of chaos. |
 | **71–75** | If one of your allies is at 0 hit points or below, that ally can roll a free death save that won't count against their missed death save total. |
 | **76–80** | Choose one creature (including you) that has already rallied this battle. It can rally again this battle (using the same action it normally would) as if it hadn't already rallied (no roll if the first use). |
 | **81–85** | Your presence blurs through space, spirit, and time, and you can fight in spirit on your turn (see [Combat Rules, Special Action](../General-Rules/Combat.md#special-actions)) in addition to taking your normal turn. |
@@ -286,7 +286,7 @@ When your random affinity choice indicates an iconic affinity, roll a d6 to dete
 | --- | --- |
 | **1** | _Air_: Randomly determine two relationship associations for the affinity you'll cast instead of one. Choose one of those associations to use for that affinity. |
 | **2** | _Earth:_ Until the end of your next turn, you gain a bonus to PD and MD equal to your Intelligence modifier. |
-| **3** | _Fire_: Until the end of your next turn, you gain the once-per-battle racial power of a random nearby ally; ignore this benefit if it duplicates your own racial power or if it doesn't make sense during the battle (human, for example). |
+| **3** | _Fire_: Until the end of your next turn, you gain the once-per-battle species power of a random nearby ally; ignore this benefit if it duplicates your own species power or if it doesn't make sense during the battle (human, for example). |
 | **4** | _Water_:Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier. |
 | **5** | _Metal_: Until the end of your next turn, critical hits scored against you only count as normal hits. |
 | **6** | _Void:_ When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |

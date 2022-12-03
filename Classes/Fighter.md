@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Fighters gain a +2 class bonus to Strength or Constitution, as long as it isn't the same ability you increase with your +2 racial bonus.
+Fighters gain a +2 class bonus to Strength or Constitution, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -68,7 +68,7 @@ Fighter weapon attack maneuvers deal damage based on the fighter's level. You al
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength or Constitution (different from racial bonus) |
+| **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 15 + middle mod of Con/Dex/Wis + Level |
@@ -82,7 +82,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Relationships** | 3 points |
 | **Talents** | 3 (see [level progression chart](#level-progression)) |
 | **Feats** | 1 per Level |
-| **Ability Bonus** | +2 Strength or Constitution (different from racial bonus) |
+| **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 
 ## Basic Attacks
 

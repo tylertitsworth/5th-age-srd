@@ -3,11 +3,11 @@ layout: doc
 ---
 # Dwarf
 
-## Racial Bonus
+## Species Bonus
 
 +2 Con or +2 Wis
 
-## Racial Power
+## Species Power
 
 ### That's Your Best Shot?
 

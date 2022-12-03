@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Barbarians gain a +2 class bonus to Strength or Constitution, as long as it isn't the same ability you increase with your +2 racial bonus.
+Barbarians gain a +2 class bonus to Strength or Constitution, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -64,7 +64,7 @@ Barbarians start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength or Constitution (different from racial bonus) |
+| **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |

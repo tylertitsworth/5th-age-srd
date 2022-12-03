@@ -3,11 +3,11 @@ layout: doc
 ---
 # Half-elf
 
-## Racial Bonus
+## Species Bonus
 
 +2 Con or +2 Cha
 
-## Racial Power
+## Species Power
 
 ### Surprising
 

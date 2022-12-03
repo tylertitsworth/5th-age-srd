@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Commanders gain a +2 class bonus to Strength or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
+Commanders gain a +2 class bonus to Strength or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -64,7 +64,7 @@ Commanders start with 25gp.
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Charisma (different from racial bonus) |
+| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
@@ -611,9 +611,9 @@ Interrupt action
 
 **Cost:** 1 command point
 
-**Target:** One nearby non-human ally using a once-per-battle racial power (on the ally's turn)
+**Target:** One nearby non-human ally using a once-per-battle species power (on the ally's turn)
 
-**Effect:** Roll a d20. On a 11+, the target doesn't expend the use of its racial power and can use it again later this battle.
+**Effect:** Roll a d20. On a 11+, the target doesn't expend the use of its species power and can use it again later this battle.
 
 ## 3rd Level Tactics
 

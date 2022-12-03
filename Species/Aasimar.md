@@ -3,11 +3,11 @@ layout: doc
 ---
 # Aasimar
 
-## Racial Bonus
+## Species Bonus
 
 +2 Wis or +2 Cha
 
-## Racial Power
+## Species Power
 
 ### Halo
 

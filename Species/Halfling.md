@@ -3,7 +3,7 @@ layout: doc
 ---
 # Halfling
 
-## Racial Bonus
+## Species Bonus
 
 +2 Con or +2 Dex
 
@@ -11,7 +11,7 @@ layout: doc
 
 Gnomes have a +2 AC bonus against opportunity attacks.
 
-## Racial Power
+## Species Power
 
 ### Evasive
 

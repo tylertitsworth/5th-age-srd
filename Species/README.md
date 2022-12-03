@@ -1,10 +1,10 @@
-# Races
+# Species
 
-The major races included in 5th Age include humans, dwarves, elves, gnomes, half-elves, half-orcs, and halflings. Your character need not be limited to these races, however. Minor races, including Dragonborn, Aasimar, Warforged, and Tiefling, are also referenced below.
+The major species included in 5th Age include humans, dwarves, elves, gnomes, half-elves, half-orcs, and halflings. Your character need not be limited to these species, however. Minor species, including Dragonborn, Aasimar, Warforged, and Tiefling, are also referenced below.
 
-Each race is associated with two ability scores, one of which can be chosen for your character's racial bonus.
+Each species is associated with two ability scores, one of which can be chosen for your character's species bonus.
 
-| **Race** | **Str** | **Con** | **Dex** | **Int** | **Wis** | **Cha** | **Any** |
+| **Species** | **Str** | **Con** | **Dex** | **Int** | **Wis** | **Cha** | **Any** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Human](./Human.md) | | | | | | | +2 |
 | [Dwarf](./Dwarf.md) | | +2 | | | +2 | | |
@@ -22,4 +22,4 @@ Each race is associated with two ability scores, one of which can be chosen for 
 
 The character also receives a separate class bonus. These two bonuses must apply to different ability scores.
 
-Each race also provides the character a special power that can be used once per battle. (It is regained after a quick rest.) This is called the _racial power_.
+Each species also provides the character a special power that can be used once per battle. (It is regained after a quick rest.) This is called the _racial power_.

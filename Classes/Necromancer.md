@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Necromancers gain a +2 class bonus to Intelligence or Charisma, as long as it isn't the same ability you increase with your +2 racial bonus.
+Necromancers gain a +2 class bonus to Intelligence or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -70,7 +70,7 @@ Although not listed on the table, this class gets three talents. It does not get
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Charisma (different from racial bonus) |
+| **Ability Bonus** | +2 Intelligence or Charisma (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |

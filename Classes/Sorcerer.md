@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Sorcerers gain a +2 class bonus to Charisma or Constitution, as long as it isn't the same ability you increase with your +2 racial bonus.
+Sorcerers gain a +2 class bonus to Charisma or Constitution, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -70,7 +70,7 @@ Sorcerers start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Charisma or Constitution (different from racial bonus) |
+| **Ability Bonus** | +2 Charisma or Constitution (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
@@ -257,9 +257,9 @@ One battle per day, gain resist dragon attack 16+ (all attacks made by dragons; 
 
 ### Fey Heritage
 
-One battle per day, when you roll initiative, you can choose to invoke your Fey Heritage and gain the racial power of one the elven races in addition to your own racial power. Roll on the table below. If you roll your own race's power, you gain the half-elf's _surprising_ racial power instead.
+One battle per day, when you roll initiative, you can choose to invoke your Fey Heritage and gain the species power of one the elven species in addition to your own species power. Roll on the table below. If you roll your own species's power, you gain the half-elf's _surprising_ species power instead.
 
-| **Roll (d6)** | **Racial Power** |
+| **Roll (d6)** | **Species Power** |
 | --- | --- |
 | **1-2** | Cruel (drow) |
 | **3-4** | Highblood teleport (high elf) |
@@ -275,7 +275,7 @@ You gain a +2 attack bonus against elves and monsters in the elven sphere of inf
 
 #### Epic Feat
 
-Once per battle when the escalation die reaches 6+, as a free action, you can gain an elf racial power that you have not already used in this battle.
+Once per battle when the escalation die reaches 6+, as a free action, you can gain an elf species power that you have not already used in this battle.
 
 ### Infernal Heritage
 
@@ -756,11 +756,11 @@ Free action to cast, before initiative is rolled
 
 Targets: 1d4 + 1 nearby allies
 
-**Effect:** You steal the once-per-battle racial powers of your allies this battle, but you don't get the advantage of your allies' feats or items that improve those powers.
+**Effect:** You steal the once-per-battle species powers of your allies this battle, but you don't get the advantage of your allies' feats or items that improve those powers.
 
-Each ally you steal a racial power from can roll an easy save (6+). Success means they get to use their power also this battle. Failure means they can't; you took it fully.
+Each ally you steal a species power from can roll an easy save (6+). Success means they get to use their power also this battle. Failure means they can't; you took it fully.
 
-You can't steal racial powers you already possess.
+You can't steal species powers you already possess.
 
 | Higher Level | Effect |
 | --- | --- |

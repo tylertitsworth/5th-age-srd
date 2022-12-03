@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Wizards gain a +2 class bonus to Intelligence or Wisdom, as long as it isn't the same ability you increase with your +2 racial bonus.
+Wizards gain a +2 class bonus to Intelligence or Wisdom, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -70,7 +70,7 @@ Wizards start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Wisdom (different from racial bonus) |
+| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
@@ -260,7 +260,7 @@ Your familiar flies as well as a hawk. It doesn't fly that often and usually sti
 
 ##### Mimic
 
-One battle per day, you gain the use of the racial power (without feats) of one nearby ally.
+One battle per day, you gain the use of the species power (without feats) of one nearby ally.
 
 ##### Poisonous
 
@@ -363,7 +363,7 @@ Close-quarters spell
 
 Daily
 
-**Effect:** This spell provides you with an effective magical disguise that lasts about ten minutes, making the skill check to avoid unmasking one step easier: easy if it would have been a normal task, normal if it would have been a hard task, and hard if it would have been a ridiculously hard task. The spell only affects your general appearance, not your size. It can be used to hide your features behind the generic features of another person or race. Using it to impersonate a specific creature makes it less effective as a disguise (-2 to -5 penalty).
+**Effect:** This spell provides you with an effective magical disguise that lasts about ten minutes, making the skill check to avoid unmasking one step easier: easy if it would have been a normal task, normal if it would have been a hard task, and hard if it would have been a ridiculously hard task. The spell only affects your general appearance, not your size. It can be used to hide your features behind the generic features of another person or species. Using it to impersonate a specific creature makes it less effective as a disguise (-2 to -5 penalty).
 
 | Higher Level | Effect |
 | --- | --- |

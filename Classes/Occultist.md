@@ -7,7 +7,7 @@ There is only one occultist, and your one unique thing should account for your k
 
 ## Ability Scores
 
-The occultist gains a +2 class bonus to Intelligence or Wisdom, as long as it isn't the same ability you increase with your +2 racial bonus.
+The occultist gains a +2 class bonus to Intelligence or Wisdom, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -68,7 +68,7 @@ The occultist start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Wisdom (different from racial bonus) |
+| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |

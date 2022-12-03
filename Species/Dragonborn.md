@@ -3,11 +3,11 @@ layout: doc
 ---
 # Dragonborn
 
-## Racial Bonus
+## Species Bonus
 
 +2 Str or +2 Cha
 
-## Racial Power
+## Species Power
 
 ### Breath Weapon
 

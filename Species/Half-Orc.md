@@ -3,11 +3,11 @@ layout: doc
 ---
 # Half-orc
 
-## Racial Bonus
+## Species Bonus
 
 +2 Str or +2 Dex
 
-## Racial Power
+## Species Power
 
 ### Lethal
 

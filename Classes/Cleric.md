@@ -5,7 +5,7 @@ layout: doc
 
 ## Ability Scores
 
-Clerics gain a +2 class bonus to Wisdom or Strength, as long as it isn't the same ability you increase with your +2 racial bonus.
+Clerics gain a +2 class bonus to Wisdom or Strength, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
@@ -66,7 +66,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Wisdom (different from racial bonus) |
+| **Ability Bonus** | +2 Strength or Wisdom (different from species bonus) |
 | --- | --- |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 14 + middle mod of Con/Dex/Wis + Level |
