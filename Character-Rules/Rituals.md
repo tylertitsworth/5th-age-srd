@@ -158,6 +158,7 @@ Each light can fly. Whenever you use a move action to move, you can move all the
 **Effect**: This ritual creates watchful eyes that you place nearby where you perform the ritual. Each eye is located in a particular location; it is intangible and can't be interacted with physically. The eyes are nearly invisible and have a Stealth check result of 20 to avoid detection.
 
 **Skill Check**: Your Arcana skill check determines how many eyes you can place and what type of vision or sensory ability they possess.
+
 | Arcana Skill Check Result | Eyes Created | Vision/Sensory Ability |
 | ------------------- | ------------ | ---------------------- |
 | 14 or lower | 1 | Normal Vision |
@@ -213,6 +214,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect**: When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
 
 **Skill Check**: Your Arcana or Religion check determines the length of time prior to the target's death that you experience.
+
 | Arcana or Religion Check Result | Time Period |
 | ------------------------------- | ----------- |
 | 9 or lower | 2 round |
@@ -374,6 +376,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect**: When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
 
 **Skill Check**: Your Arcana or Religion check determines the length of time prior to the target's death that you experience.
+
 | Arcana or Religion Check Result | Time Period |
 | ------------------------------- | ----------- |
 | 9 or lower | 2 round |
@@ -411,6 +414,7 @@ _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp)
 **Effect**: You target a nonhostile Tiny animal, such as a sparrow, a raven, a fox, or a carp. The animal must remain within 5 squares of you for the time necessary to perform the ritual. Once the ritual is complete, you whisper a message of up to 25 words to the animal and name a recipient and a location. The animal bounds off toward the location, in search of the recipient. The animal avoids danger along its path. Upon finding the recipient, the animal approaches until it is adjacent to the recipient, and then your whisper issues from the animal's mouth, conveying the message. When the animal delivers its message or the ritual's duration ends, your influence ends and the animal reverts to its natural behavior.
 
 **Skill Check**: Your Nature skill check determines how long the animal is affected by the ritual.
+
 | Nature Skill Check Result | Duration |
 | -------------------- | -------- |
 | 9 or lower | 6 hours |
@@ -493,6 +497,7 @@ An affected creature suffers no ill effects from ambient temperatures between �
 **Effect**: You cloak yourself and any allies present for the ritual in a camouflaging shroud. The subjects of this ritual gain a bonus to Stealth checks while traveling, and other creatures take a penalty when using Perception to find your tracks.
 
 **Skill Check**: Your Nature skill check determines the bonus you and your allies gain and the penalty others take.
+
 | Nature Skill Check Result | Bonus to Stealth | Penalty to Find Tracks |
 | ------------------- | ---------------- | ---------------------- |
 | 19 or lower | +2 | –2 |
@@ -509,7 +514,7 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 ## Level 2 Rituals
 
-### Generic rituals
+### Generic Rituals
 
 #### Find Traps
 
@@ -558,6 +563,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action if you do so f
 **Market/Component Cost**: 250 gp/50 gp
 
 **Effect**: When you complete this ritual, all creatures except for intelligent undead perceive you as undead. You are seen as having the undead type by any undead of Intelligence 9 or lower. Powers and wards that affect the undead type affect you as well.
+
 | Arcana Skill Check Result | Duration |
 | ------------------- | -------- |
 | 9 or lower | 1 hour |
@@ -635,6 +641,7 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 **Effect**: You see images you wish to see related to an object you hold at the completion of the ritual.
 
 **Skill Check**: Your Arcana skill check result determines the number of images you see that are associated with the object's past. You might choose to see a sword's last owner, the creature that forged it, and the last creature it killed.
+
 | Arcana Skill Check Result | Number of Images |
 | ------------------- | ---------------- |
 | 9 or lower | 1 |
@@ -651,6 +658,7 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 **Effect**: This ritual conjures forth up to eight horselike creatures. Each one is Large and can be ridden by you or any other character you designate during the ritual.
 
 **SKill Check**: Your Arcana skill check determines whether your steed has any special movement capabilities. The steeds have the special movement capabilities associated with your check result and all lower results.
+
 | Arcana Skill Check Result | Special Movement |
 | ------------------- | ---------------- |
 | 9 or lower | None |
@@ -671,6 +679,7 @@ A steed created by this ritual lasts for 12 hours or until it takes any damage. 
 **Effect**: You convey a mental message of up to 25 words to a person you know. If the target is within range, he or she receives the message mentally and can respond likewise.
 
 **Skill Check**: The ritual's maximum range is determined by your Arcana skill check result.
+
 | Arcana Skill Check Result | Maximum Range |
 | ------------------- | ------------- |
 | 9 or lower | 10 miles |
@@ -697,6 +706,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Market/Component Cost**: 250 gp/50 gp
 
 **Effect**: You shrink an object. Your Arcana skill check result determines how small the item becomes and how long the effect of the ritual lasts.
+
 | Arcana Skill Check Result | Size | Duration |
 | ------------------- | ---- | -------- |
 | 9 or lower | 75% of true size | 1 hour |
@@ -769,6 +779,7 @@ If you know that your subject is suffering from multiple diseases, you must choo
 **Market/Component Cost**: 250 gp/10 gp
 
 **Effect**: Delay Affliction puts a single enduring effect, any of those affected by Remove Affliction, on hold for a period determined by the ritual caster's check result. Until that time is up, the target acts in all ways as though he or she were not affected by the affliction. Upon completing this ritual, make a Survival skill check, using the level of the effect you are trying to delay (or the level of the creature that caused the effect) as a penalty to this check.
+
 | Survival Skill Check Result | Duration |
 | --------------------- | -------- |
 | 9 or lower | 1 day |
@@ -822,6 +833,7 @@ There are two drawbacks to using the ritual to aid your decisions.
 **Effect**: You ask the corpse of an intelligent creature questions and receive answers. The corpse knows what the creature knew in life, what has occurred near the corpse, and no more; the spirit has (usually) moved on to another plane and is not present in the body.
 
 **Skill Check**: Your Religion check result determines the number of questions you can ask.
+
 | Religion Check Result | Number of Questions |
 | --------------------- | ------------------- |
 | 9 or lower | 0 |
@@ -858,6 +870,7 @@ _Watch_: The animal remains in its current location and watches that area. When 
 Unless otherwise commanded, the animal accompanies you for the ritual's duration, perching on your shoulder, hiding in your pocket, or walking alongside you. The animal has AC 14, PD 12, and MD 12. The animal has 1 hit point, and a missed attack never damages the animal.
 
 **Skill Check**: Your Nature skill check determines the length of time the animal remains in your service, but you can release an animal from your service as a quick action.
+
 | Nature Skill Check Result | Duration |
 | -------------------- | -------- |
 | 9 or lower | 1 hour |
@@ -874,6 +887,7 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 **Effect**: By communing with primal spirits of nature, you can learn a number of facts about your immediate environs (within 1 mile of you).
 
 **Skill Check**: You can ask a number of questions, based on the result of your Nature skill check, about the terrain features, plants, minerals, bodies of water, creatures, and other aspects of your surroundings.
+
 | Nature Skill Check Result | Number of Questions |
 | ------------------- | ------------------- |
 | 9 or lower | 1 |
@@ -890,6 +904,7 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 **Effect**: The Feat of Strength ritual confers to a single willing subject a significant boost of strength.
 
 **Skill Check**: Your Endurance skill check has a bonus to the check determined by your Nature skill check result. The increase to Strength does not affect any other aspect of the character aside from making Endurance checks.
+
 | Nature Skill Check Result | Bonus to Endurance Check |
 | -------------------- | ------------------------- |
 | 9 or lower | +1 |
@@ -918,6 +933,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Effect**: For the ritual's duration, you can communicate with natural beasts and mundane plants (but not plant creatures). The ritual does not make animals friendly, and the animals or plants are limited in their knowledge by their experiences and mobility. For example, a plant knows only about its immediate surroundings, and a fish can describe only what it has seen or experienced underwater.
 
 **Skill Check**: Your Nature skill check result determines the number of questions you can ask.
+
 | Nature Skill Check Result | Number of Questions |
 | ------------------- | ------------------- |
 | 9 or lower | 0 |
@@ -934,6 +950,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Effect**: When you complete the ritual, you create motes of blue light nearby you. Each mote hovers in a square of your choice and sheds dim light in a 2-square radius. The motes are intangible and cannot be interacted with. While within the radius of a mote's light, a creature takes a –5 penalty to Stealth checks.
 
 **Skill Check**: Your Nature skill check determines the number of motes you create.
+
 | Nature Skill Check Result | Number of Motes |
 | ------------------- | --------------- |
 | 9 or lower | 1 |
@@ -959,6 +976,7 @@ Any food or water created but uneaten disappears at the end of the duration.
 
 **Effect**: You open a magical portal in a tree adjacent to you, connecting it to a second tree that you can see. You and up to eight allies can move through the portal and emerge instantly from the second tree, and return by stepping into the second tree.
 **Skill Check**: The portal remains in place for a duration determined by your Nature skill check result, but only you and the designated allies can pass through the portal in either direction.
+
 | Nature Skill Check Result | Duration |
 | -------------------- | -------- |
 | 9 or lower | 1 hour |
@@ -981,6 +999,7 @@ Any food or water created but uneaten disappears at the end of the duration.
 When you learn the origin and type of the last creature to use the portal, you also learn any keywords associated with that creature.
 
 Analyze Portal can also reveal the identity of the creature that created the portal. If no creature created it, you learn of the event that created it.
+
 | Nature Skill Check Result | Additional Information |
 | ------------------- | ---------------------- |
 | 19 or lower | The name of the portal's destination |
@@ -1030,6 +1049,7 @@ _Focus_: A gold rod you use in the performance of the ritual.
 For the ritual's duration, you can spend an action to use the affected creature's senses. You use your Perception skill modifier when you do so. While sensing through the undead, you cannot use your own senses and are considered blind and deaf. You can end the effect as a free action. If the undead creature is destroyed, the ritual ends immediately.
 
 **Skill Check**: Your Arcana skill check determines the maximum distance at which you can receive sensory input from the target creature.
+
 | Arcana Skill Check Result | Maximum Relative Distance |
 | ------------------- | ------------------------- |
 | 9 or lower | 1 mile |
@@ -1076,6 +1096,7 @@ The sphere's interior is 70 degrees Fahrenheit, and the exterior keeps out norma
 **Effect**: You create a shortcut across the fabric of the world, linking your location with a permanent teleportation circle somewhere else on the same plane. With a step, you can move from one circle to the other. As part of performing the ritual, you must sketch out a large circle in various rare chalks and inks. This temporary teleportation circle must exactly match the permanent teleportation circle at your destination. It disappears at the end of the portal's duration.
 
 **Skill Check**: At the completion of this ritual, make an Arcana skill check. The result determines the duration that the portal remains open.
+
 | Arcana Skill Check Result | Portal Duration |
 | ------------------- | -------- |
 | 9 or lower | 1 round |
@@ -1113,6 +1134,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Effect**: When you perform this ritual, choose a specific creature. You must have an object that is tied to the creature, such as a bit of hair, a favorite scarf, or a personal weapon. You hold the object in one hand and suspend the focus from the other hand, holding it above a map representing a region no larger than 50 by 50 miles. If the creature is in the area, the focus is drawn to the creature's exact location as depicted on the map. As you watch, the focus follows the creature's movement.
 
 **Skill Check**: Your Arcana skill check determines the duration of the time during which you can pinpoint the creature's location. This ritual is only as accurate as the map that is used.
+
 | Arcana Skill Check Result | Duration |
 | ------------------- | -------- |
 | 9 or lower | 1 round |
@@ -1175,6 +1197,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 Water Breathing doesn't change your ability to breathe air. It doesn't confer a greater swim speed or the ability to fight underwater unhindered. It does protect any gear you and the participants carry, such as books and scrolls, from water damage.
 
 **Skill Check**: Your Arcana skill check result determines the duration of the effect.
+
 | Arcana Skill Check Result | Duration |
 | ------------------- | -------- |
 | 9 or lower | 2 hours |
@@ -1191,6 +1214,7 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 **Effect**: When you perform a Wizard's Sight ritual, choose a location nearby you, you don't have to see or have line of effect to. You create a magical sensor in that location. You can see and hear as if you were standing there, and you have darkvision through the sensor. Use the Perception skill to determine whether you hear quiet sounds or notice unobtrusive things while observing an area through the sensor.
 
 **Skill Check**: Your Arcana skill check determines how long the sensor lasts.
+
 | Arcana Skill Check Result | Duration |
 | ------------------- | -------- |
 | 9 or lower | 1 round |
@@ -1259,6 +1283,7 @@ The subject's soul must be free and willing to return to life. Some magical effe
 **Effect**: Remove Affliction wipes away a single enduring effect afflicting the subject. The ritual can remove curses, effects such as charm or domination, and fear, confusion, insanity, polymorph, and petrification effects. All effects of the curse or other effect end.
 
 **Skill Check**: This ritual is physically taxing to the recipient; if used on an injured character, it can even kill him or her. Upon completing this ritual, make a Survival skill check, using the tier of the effect you are trying to remove (or the level of the creature that caused the effect) as a penalty to this check. The result indicates the amount of damage the character takes. Assuming the character survives, this damage can be healed normally.
+
 | Effect Tier | Penalty |
 | --------------------- | ------- |
 | Adventurer | 0 |
@@ -1296,6 +1321,7 @@ You can use this ritual on an unwilling subject (usually, a former ally who is u
 Water Breathing doesn't change your ability to breathe air. It doesn't confer a greater swim speed or the ability to fight underwater unhindered. It does protect any gear you and the participants carry, such as books and scrolls, from water damage.
 
 **Skill Check**: Your Nature skill check result determines the duration of the effect.
+
 | Nature Skill Check Result | Duration |
 | ------------------- | -------- |
 | 9 or lower | 2 hours |
@@ -1356,6 +1382,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect**: Creatures nearby you while you perform the ritual take a penalty to Persuasion checks determined by your skill check result. The penalty lasts for the duration of the ritual.
 
 **Skill Check**: The penalty to Persuasion checks is equal to your Arcana skill check result.
+
 | Arcana Skill Check Result | Persuasion Penalty |
 | ------------------------- | ------------------ |
 | 9 or lower | –2 |
@@ -1380,6 +1407,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Market/Component Cost**: 600 gp/120 gp
 
 **Effect**: Name an object. For the duration of the ritual's effect, you can detect the direction and distance to the nearest example of that object, as long as one is within the range defined by your Arcana skill check result. When attempting to locate a specific object you gain a penalty based on how well you know the object.
+
 | Object Familiarity | Penalty |
 | ------------------ | -------- |
 | Very familiar to you | 0 |
@@ -1387,6 +1415,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 | Described by you | -10 |
 
 **Skill Check**: The range of the ritual is equal to your Arcana skill check result.
+
 | Arcana Skill Check Result | Range |
 | ------------------------- | ----- |
 | 9 or lower | Nearby |
@@ -1403,6 +1432,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect**: You create a small, personal demiplane that can store nonliving items of up to 250 pounds. The demiplane has a portal that is 6 inches in diameter and is always open. The portal floats near you or can be affixed to your clothing (like a pocket), and you can retrieve items from the portal as a minor action. The portal is visible to others, and it moves with you at your speed.
 
 **Skill Check**: At the completion of the ritual, make an Arcana skill check. The result determines how long the portal stays open. If the portal closes before you retrieve the stowed objects, they appear at your feet.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 9 or lower | 1 day |
@@ -1435,6 +1465,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect**: You create the illusion of a single creature, of any size from Small to Large. It looks and smells like the creature in question. If the creature can speak or emit sounds, the illusion can do so as well, but on a limited basis (subject to the DM's judgment)—it's not possible, for instance, for the illusion to engage in an extended conversation.
 
 **Skill Check**: You can give the illusion simple instructions, such as having it wander a set area, appear to chew on local plants, and the like. Your Arcana skill check determines the number of actions you can instruct the illusion to take.
+
 | Arcana Skill Check Result | Actions |
 | ------------------------- | ------- |
 | 9 or lower | 1 quick; 1 move|
@@ -1459,6 +1490,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect**: You create a shortcut across the fabric of the world, linking your location with a [permanent teleportation circle](#linked-portal) elsewhere on the same plane. As part of performing this ritual, you sketch out a 10-foot-diameter circle in rare chalks and inks. Alternatively, you can use a permanent teleportation circle, which reduces the component cost to 150 gp and grants you a +5 bonus to your Arcana skill check.
 
 **Skill Check**: At the ritual's completion, make an Arcana skill check. The result determines the duration that the portal remains open.
+
 | Arcana Skill Check Result | Portal Duration |
 | ------------------------- | --------------- |
 | 9 or lower | 1 round |
@@ -1605,6 +1637,7 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 **Effect**: You and up to seven other creatures present for the ritual take on certain aquatic abilities: the ability to breathe water as easily as air, to speak underwater normally, and to fight underwater without penalty. Each subject also gains a +5 power bonus to Athletics skill checks to swim.
 
 **Skill Check**: Your Nature skill check result determines the duration of the effect.
+
 | Nature Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 14 or lower | 3 hours |
@@ -1644,6 +1677,7 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 **Effect**: Ravage time magically accelerates the effects of time on an object, causing it to weaken, decay, and crumble into dust. This ritual affects only nonmagical inanimate objects such as gear, armor, weapons, food, and corpses.
 
 **Skill Check**: A single performance destroys a 5-foot cube of materials of a type based on the Arcana skill check result.
+
 | Arcana Skill Check Result | Material Type |
 | ------------------------- | ------------- |
 | 14 or lower | Unpreserved organic materials |
@@ -1665,6 +1699,7 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 **Effect**: You perform this ritual at a specific safe location, attuning the site so that your body returns to it if you are killed. On the first round after you die, your body and all your possessions burn away to ash, reforming (still dead) in the locale you attune with this ritual. If the attuned location has been destroyed or altered in a way that prevents your body's return, the ritual fails.
 
 **Skill Check**: Your Arcana skill check determines how long your retrieval site remains attuned.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 14 or lower | 1 week |
@@ -1681,6 +1716,7 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 **Effect**: For the duration of the ritual, you and up to eight allies can communicate telepathically. You do not need to share a common language to communicate telepathically.
 
 **Skill Check**: Your Arcana skill check result determines the duration of the ritual.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 9 or lower | 30 minutes |
@@ -1705,6 +1741,7 @@ If you or one of your affected allies leaves the Astral Sea, such as by stepping
 The ritual caster can choose to end the ritual at any time. This requires 10 minutes, has no cost or skill check, and instantly returns all participants to the world. A participant always returns to the same location from which he or she departed the world.
 
 **Skill Check**: At the completion of the ritual, make an Arcana skill check. The result determines how long the ritual's participants remain in the Astral Sea.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 14 or lower | 3 days |
@@ -1721,6 +1758,7 @@ The ritual caster can choose to end the ritual at any time. This requires 10 min
 **Market/Component Cost**: 1,000 gp/200 gp
 
 **Effect**: You change the weather outside in a 2-mile radius centered on you. The change is limited by the current season. Choose from the options below based on the season.
+
 | Season | Weather Results |
 | ------ | --------------- |
 | Spring | Heat wave, sleet storm, or thunderstorm. |
@@ -1731,6 +1769,7 @@ The ritual caster can choose to end the ritual at any time. This requires 10 min
 You control the weather's general tendencies, such as the direction and intensity of the wind or the degree of obscurity from fog, hail, rain, and snow. You cannot control specific applications of the weather, such as where lightning strikes.
 
 **Skill Check**: You can alter the weather among the available options as an action for the duration of the ritual, which is determined by your Nature skill check. Each time you choose to change the weather result, the new weather conditions take 10 minutes to manifest.
+
 | Nature Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 9 or lower | 4 hours |
@@ -1747,6 +1786,7 @@ You control the weather's general tendencies, such as the direction and intensit
 **Effect**: You imprison a nearby creature in a tree, a boulder, or another solid natural object. The subject must be helpless or willing, and the object you imprison it inside must be larger than it.
 
 **Skill Check**: Your Nature skill check determines the maximum level of the subject.
+
 | Nature Skill Check Result | Maximum Level |
 | ------------------------- | ------------- |
 | 14 or lower | Your level -2 |
@@ -1768,6 +1808,7 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 **Effect**: You transform an area of defiled terrain into normal terrain.
 
 **Skill Check**: The size of the area you transform is determined by the result of your Nature skill check.
+
 | Nature Skill Check Result | Area Transformed |
 | ------------------------- | ---------------- |
 | 14 or lower | Medium Area |
@@ -1790,6 +1831,7 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 The crowd must not be hostile to you and must be able to see and hear you for the entire performance. At the end of the ritual, you can request a single service from the crowd, to which the members of the audience respond as if you were a trusted friend. You can request anything that doesn't involve violence, put the listeners at inordinate risk or imperil their friends or family, or place them in financial ruin. For example, you might ask the listeners to help put out a fire raging in the city, hide you and your allies from searching guards, or provide you with shelter or food.
 
 **Skill Check**: A Persuasion check made at the end of this ritual determines what sort of help you can request.
+
 | Persuasion Skill Check Result | Effect |
 | ----------------------------- | ------ |
 | 9 or lower | The listeners perform an action that lasts up to 1 hour and that benefits them in at least some small way. |
@@ -1852,6 +1894,7 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by lea
 **Effect**: You command an immortal creature whose level does not exceed yours. The subject of this ritual must be able to see and hear you and must remain nearby you for the entire time necessary to perform the ritual. Because most creatures do not willingly submit to this ritual, you must usually make the creature helpless or restrain the creature by means of a Magic Circle ritual. Unless it is prevented from doing so, the creature can leave at any time. Finally, you must be able to communicate with the creature, or the ritual automatically fails.
 
 To determine the extent of your authority over the subject, you engage in a special skill challenge during the time it takes to perform the ritual. The DCs for the checks in this challenge are equal to twice the subject's level + 10. Arcana is the primary skill; each time you or an ally succeeds on a Arcana skill check in the challenge, you or an ally can use Persuasion, History, Arcana, or Intimidate for one subsequent skill check. Once you have amassed 3 failures or achieved 10 successes, the skill challenge ends. Consult the following table and apply the effect associated with the number of successes you achieved.
+
 | Number of Successes | Effect |
 | ------------------- | ------ |
 | 0 or 1 | The creature has authority over you and can issue one command that you must obey, a task that requires up to a day of effort. |
@@ -1872,6 +1915,7 @@ When the specified task is completed, the ritual is discharged, and the creature
 **Effect**: You coax forth an Oracle Eternal. Oracles have no tangible presence and no agendas; they exist only to observe events. This makes them unparalleled sources of information because they have the potential to have seen and heard everything, even information otherwise known to only one creature.
 
 **Skill Check**: Make a Religion check to determine how many questions you can ask an oracle before it vanishes.
+
 | Religion Skill Check Result | Number of Questions |
 | -------------------------- | ------------------- |
 | 9 or lower | 1 |
@@ -1906,6 +1950,7 @@ Greater heroes accrue greater fatigue and require more effort to recuperate. At 
 **Effect**: No scrying sensor can enter the area of Forbiddance and no creature can teleport into it, unless the sensor or the creature is a higher tier than the ritual caster who performed the ritual.
 
 **Skill Check**: Your Arcana skill check determines the size of the warded area.
+
 | Arcana Skill Check Result | Warded Area |
 | ------------------------- | ----------- |
 | 14 or lower | Nearby |
@@ -1926,6 +1971,7 @@ The warding effect lasts for 24 hours, but the ritual caster (not any assistants
 A target of this ritual must be either willing or helpless for the duration of the ritual. You can target yourself with this ritual only if you have at least one assistant in performing it.
 
 **Skill Check**: On an unwilling target, your Arcana skill check result must beat the target's MD defense for the ritual to succeed, in addition to determining how hard the ritual is on the target (in terms of damage; see below).
+
 | Arcana Skill Check Result | Effect on Target |
 | ------------------------ | ---------------- |
 | 19 or lower | Damage equal to the target's maximum hit points |
@@ -1943,6 +1989,7 @@ A target of this ritual must be either willing or helpless for the duration of t
 **Effect**: This ritual works the same as Linked Portal, except that you can use it to travel to other planes. As with [Linked Portal](#linked-portal), your planar destination must have a permanent teleportation circle whose sigil sequence you have memorized.
 
 **Skill Check**: Your Arcana skill check determines how long the portal remains open.
+
 | Arcana Skill Check Result | Portal Duration |
 | ------------------------- | --------------- |
 | 14 or lower | 1 round |
@@ -1962,6 +2009,7 @@ When you first learn this ritual, you learn the sigil sequences of two common pl
 At the ritual's conclusion, you name a location you have previously visited. The location must be a fixed place, and it must be in the same location it was when you last visited it.
 
 **Skill Check**: Once the location is named, make an Arcana skill check. The check determines the distance between you and your destination when you arrive on the plane.
+
 | Arcana Skill Check Result | Distance from Destination Location |
 | ------------------------- | ---------------------------------- |
 | 9 or lower | An adjacent or random plane determined by the GM |
@@ -2008,6 +2056,7 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 **Effect**: You grant yourself the ability to discern deities and the servants of deities (such as exarchs and angels) who walk among mortals, limning those you see in a holy glow that is visible only to you. When you see such a creature, you also learn to what deity the creature serves. Objects, places, and creatures that are favored or cursed by the gods are likewise delineated, and this ritual allows you to intuit the relative importance of the object, place, or creature to its deity.
 
 **Skill Check**: Your Arcana skill check determines how long the effect lasts.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 14 or lower | 3 hours |
@@ -2031,6 +2080,7 @@ The magic of the ritual interprets your statement of intended subject in the mos
 You have no inherent way to discern where the sensor is in relation to you, but careful observation might give you some clues. The sensor moves with the subject for the duration of the effect.
 
 **Skill Check**: Your Arcana skill check determines how long the sensor lasts.
+
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
 | 14 or lower | 1 round |
@@ -2067,6 +2117,7 @@ The effect of this ritual ends when you have been alerted to a divination or scr
 **Effect**: You consult an entity of fate—perhaps a servant of Avandra, Ioun, Pelor, or the Raven Queen—for a glimpse into what the future holds. You ask questions, and a rumbling voice replies.
 
 **Skill Check**: Your Arcana skill check determines the number of questions you can ask.
+
 | Arcana Skill Check Result | Number of Questions |
 | ------------------------- | ------------------- |
 | 19 or lower | 3 |
@@ -2148,6 +2199,7 @@ You must set one or more possible conditions that release the creature, should t
 **Effect**: Successfully performing the Raise Land ritual enables you to lift a specific quantity of ground into the air. The depth of the earth affected extends down to half the area's radius, thus a 20-square-radius section of land is 10 squares thick. The freed earth rises at a rate of 10 feet per round until it attains a height equal to the radius (or less, if you choose). If this ritual is attempted indoors, the raised land stops once it hits a barrier.
 
 **Skill Check**: Your Nature skill check determines the radius of the area affected.
+
 | Nature Skill Check Result | Radius of Area Affected |
 | ------------------------- | ----------------------- |
 | 14 or lower | Nearby |
