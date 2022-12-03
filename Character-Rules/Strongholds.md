@@ -11,7 +11,9 @@ Heroes must be at least champion tier and acquire some workforce to build the st
 
 ## Cost Table
 
-| Stronghold | Associated Class | Cost (GP) | Time (Days) |
+If the heroes find destroyed or abandoned stronghold, they can repair it for half the usual cost and time it would normally take, so long as that stronghold is the same type as the original.
+
+| Stronghold | Associated Class | Cost (GP) | Time (Days)\* |
 | ---------- | ---------------- | --------- | ----------- |
 | Camp | Barbarian | 1000 | 30 |
 | Chapel | Paladin | 6000 | 180 |
@@ -29,6 +31,30 @@ Heroes must be at least champion tier and acquire some workforce to build the st
 | Temple | Cleric | 4000 | 120 |
 | Theater | Bard | 4000 | 120 |
 | Tower | Sorcerer | 5000 | 150 |
+
+\* Heroes are allowed to pay more money to decrease the amount of time it takes to build the stronghold, the amount of time reduced is determined by the GM.
+
+## Castles
+
+If multiple characters chip in to pay for a stronghold—or one character just spends a lot of money—it is a castle and provides multiple benefits. Complex tasks take proportionally more time and money than simple ones, so a castle costs 10% more and takes 10% longer for every basic stronghold function it incorporates. A castle cannot contain multiple of the same type of stronghold.
+
+## Stronghold Upgrades
+
+You can spend more money to build a larger stronghold from the start, but there is no time or cost savings.
+
+| Level | Size | Toughness | Cost (GP) | Time (Days) |
+| ----- | ---- | --------- | --------- | ----------- |
+| 1st | d6\* | 22\*\* | - | - |
+| 2nd | d8 | 24 | 2,500\*\*\* | 50\*\*\* |
+| 3rd | d10 | 26 | 5,000 | 100 |
+| 4th | d12 | 28 | 7,500 | 150 |
+| 5th | d20 | 30 | 10,000 | 200 |
+
+\* Strongholds without intended defenses have a size factor of a d4.
+
+\*\* Strongholds without intended defenses have a toughness factor of 18.
+
+\*\*\* Strongholds that take less time to build may have their cost and time reduced based on the original original cost and time ratio above.
 
 ## Stronghold Benefits
 
@@ -720,22 +746,6 @@ A sorcerer’s army is usually light and highly mobile. Unlike other classes the
 | 71–75 | Elf Ambassador |
 | 76–80 | Dragonborn Ambassador |
 | 81–100 | Roll on the Special Allies table |
-
-## Stronghold Upgrades
-
-| Level | Size | Toughness | Cost (GP) | Time (Days) |
-| ----- | ---- | --------- | --------- | ----------- |
-| 1st | d6\* | 22\*\* | - | - |
-| 2nd | d8 | 24 | 2,500\*\*\* | 50\*\*\* |
-| 3rd | d10 | 26 | 5,000 | 100 |
-| 4th | d12 | 28 | 7,500 | 150 |
-| 5th | d20 | 30 | 10,000 | 200 |
-
-\* Strongholds without intended defenses have a size factor of a d4.
-
-\*\* Strongholds without intended defenses have a toughness factor of 18.
-
-\*\*\* Strongholds that take less time to build may have their cost and time reduced based on the original original cost and time ratio above.
 
 ## Other Followers
 
