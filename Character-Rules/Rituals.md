@@ -188,7 +188,7 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 **Casting Time/Duration**: 1 minute/10 minutes
 
-**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 30 gp
+**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 300 gp
 
 **Effect**: For the ritual's duration, whenever you make a Persuasion check to lie or tell a false truth, you can roll twice and use either result. The ritual's effect automatically ends when you roll initiative.
 
@@ -224,7 +224,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Casting Time/Duration**: 10 minutes/As long as you play plus 10 minutes
 
-**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 50 gp
+**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 300 gp
 
 **Effect**: Your performance makes your audience drowsy. Affected creatures are also considered distracted, which might allow an ally (or you, after you stop playing) to make Stealth checks to hide from them even without concealment.
 
@@ -333,7 +333,7 @@ _Focus_: A ceramic hand. The person who holds this focus is empowered to command
 
 **Casting Time/Duration**: 10 minutes/8 hours
 
-**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 50 gp
+**Market/Component Cost**: 150 gp/30 gp, plus a focus worth 300 gp
 
 **Effect**: For the ritual's duration, you and up to eight allies who heard the whole performance of the ritual can travel farther than normal. For the purpose of determining how far you and the allies can travel in an hour or a day, treat the group's speed as the slowest member's speed + 2.
 
@@ -1148,7 +1148,7 @@ The magic of a sealed portal can be detected with the Arcana skill. The level of
 
 **Casting Time/Duration**: 10 minutes/48 hours
 
-**Market/Component Cost**: 400 gp/80 gp, plus a focus worth 100 gp
+**Market/Component Cost**: 400 gp/80 gp, plus a focus worth 1000 gp
 
 **Effect**: Your performance nourishes up to ten Small or Medium creatures for the duration, as if they had enjoyed a great feast. The creatures also gain a +5 bonus to Endurance checks for the duration. You designate the affected creatures as part of performing the ritual, and they must hear all of it.
 
@@ -1158,7 +1158,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Casting Time/Duration**: 10 minutes/10 minutes
 
-**Market/Component Cost**: 400 gp/80 gp, plus a focus worth 200 gp
+**Market/Component Cost**: 400 gp/80 gp, plus a focus worth 1000 gp
 
 **Effect**: For the ritual's duration, you and any ally who heard the whole performance of the ritual can roll twice and use either result when making Persuasion checks to influence anyone else who heard all of it.
 
@@ -1496,7 +1496,7 @@ _Focus_: A silver rope worth at least 2,000 gp.
 
 **Casting Time/Duration**: 10 minutes/Instantaneous
 
-**Market/Component Cost**: 600 gp/120 gp
+**Market/Component Cost**: 600 gp/120 gp, plus a focus worth 1000 gp
 
 **Effect**: When you perform this ritual at the beginning of an extended rest, you reduce the time needed for the extended rest by 2 hours for yourself and any allies who hear the performance. A character can benefit from this ritual only once during any 24-hour period.
 
@@ -1778,6 +1778,28 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 ## Level 6 Rituals
 
 ### Arcane Rituals
+
+#### Anthem of Unity
+
+**Casting Time/Duration**: 10 minutes/1 day
+
+**Market/Component Cost**: 1,000 gp/200 gp, plus a focus worth 3,000 gp
+
+**Effect**: When you perform the Anthem of Unity for a crowd of ordinary people—peasants, commoners, artisans, and the like—you unite them behind a single cause. Only creatures whose tier is lower than yours can be affected by this ritual.
+
+The crowd must not be hostile to you and must be able to see and hear you for the entire performance. At the end of the ritual, you can request a single service from the crowd, to which the members of the audience respond as if you were a trusted friend. You can request anything that doesn't involve violence, put the listeners at inordinate risk or imperil their friends or family, or place them in financial ruin. For example, you might ask the listeners to help put out a fire raging in the city, hide you and your allies from searching guards, or provide you with shelter or food.
+
+**Skill Check**: A Persuasion check made at the end of this ritual determines what sort of help you can request.
+| Persuasion Skill Check Result | Effect |
+| ----------------------------- | ------ |
+| 9 or lower | The listeners perform an action that lasts up to 1 hour and that benefits them in at least some small way. |
+| 10-19 | The listeners perform a task that lasts up to 1 hour and that poses no risk or reward to them. |
+| 20-29 | The listeners perform a task that lasts up to 6 hours and that poses a mild risk but at least some benefit to them. |
+| 30 or higher | The listeners perform a task that lasts up to 1 day and that poses a mild risk without any benefit to them. |
+
+The number of individuals affected extends to anyone who witnesses the entire performance, so the larger the venue, the more people you can affect.
+
+_Focus_: A musical instrument you play as part of performing the ritual.
 
 #### Create Teleportation Circle
 
