@@ -9,7 +9,7 @@ Wizards gain a +2 class bonus to Intelligence or Wisdom, as long as it isn't the
 
 ## Skills
 
-Wizards get 2 skill points in any Intelligence or Wisdom skill like Arcana, Biology, and Craft.
+Wizards get 2 skill points in any Intelligence or Wisdom skill like Arcana, Nature, and Craft.
 
 ## Gear
 
@@ -138,11 +138,11 @@ Wizardly magic taps into the power of the overworld. While a wizard is in the ov
 
 ### Ritual Magic
 
-Wizards can cast their spells as rituals.
+Wizards can cast arcane [rituals](../General-Rules/Rituals.md).
 
 #### Champion Feat
 
-You can cast full rituals by using all your actions each round to focus on the ritual for 1d3 + 1 rounds. As with standard rituals, your fast rituals are not meant to replace combat spells; they're a means of acquiring and improvising wondrous magical effects rather than a means of inflicting damage and conditions.
+You can master a ritual in half the required time.
 
 ## Class Talents
 

@@ -82,7 +82,7 @@ Once per battle, tell the GM how you are using your weapon's reach to perform an
 
 #### Adventurer Tier
 
-You can cast any spells you know as rituals. Classes that are already ritual casters (cleric, wizard) don't need this feat. (See Rituals for ritual casting rules.)
+You can cast any spells you know as rituals. Classes that are already ritual casters (cleric, wizard) don't need this feat. (See [Rituals for ritual casting rules](./Rituals.md#casting-a-ritual).)
 
 ### Skill Escalation
 

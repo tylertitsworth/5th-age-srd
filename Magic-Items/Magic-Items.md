@@ -434,7 +434,7 @@ When you roll a natural 16+ with your first melee attack during your turn while 
 
 #### Arcane Contact
 
-These gloves improve your ability to contact, detect, and distinguish supernatural forces, provided you can touch some material object connected to a force. If, for example, you are improvising a ritual to gain a vision related to the scary artifact you just found, touching the artifact will help. The benefit is modest, determined by the GM, and possibly secret. The gloves provide no protection against the supernatural forces that touching an artifact might usher into your soul. Quirk: Always cracks knuckles.
+These gloves improve your ability to contact, detect, and distinguish supernatural forces, provided you can touch some material object connected to a force. The gloves provide no protection against the supernatural forces that touching an artifact might usher into your soul. Quirk: Always cracks knuckles.
 
 #### Archer's Gauntlets
 

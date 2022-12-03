@@ -120,6 +120,10 @@ You can also talk to plants and animals. If there is useful information to gain,
 
 You can talk with plants and animals pretty much as often you like, and you gain a +5 bonus to any skill checks involved.
 
+### Ritual Magic
+
+Druids can cast primal [rituals](../General-Rules/Rituals.md).
+
 ## Druid Talents
 
 Each of your talents unlocks pools of spells and powers that are not available to characters who lack the talent. Druids who choose to be an adept with a talent gain additional benefits and powers in that talent.

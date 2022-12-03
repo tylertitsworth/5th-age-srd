@@ -128,7 +128,7 @@ Each character has a number of points to allocate to a set of skills. These are 
 | Acrobatics | Dexterity |
 | Arcana | Intelligence |
 | Athletics | Strength |
-| Biology | Intelligence |
+| Nature | Intelligence |
 | Craft | Wisdom |
 | Endurance | Strength |
 | History | Intelligence |

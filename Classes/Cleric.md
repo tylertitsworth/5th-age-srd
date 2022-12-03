@@ -143,7 +143,7 @@ When you cast _heal_ on an ally you are next to, that ally adds +30 hp to the re
 
 ### Ritual Magic
 
-Clerics can cast their spells as [rituals](../General-Rules/Rituals.md).
+Clerics can cast divine [rituals](../General-Rules/Rituals.md).
 
 ## Class Talents
 

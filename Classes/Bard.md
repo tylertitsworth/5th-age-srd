@@ -172,6 +172,10 @@ You can use these points to increase your standing with a relationship the way y
 
 When your great ballad magically compliments a relationship, another relationship should take a hit. As you explain the story of your ballad to the GM, you should account for at least one relationship who is being mocked, vilified, or referred to in unflattering terms. You get an equal number of negative points for that relationship.
 
+#### Ritual Magic
+
+Balladeers can cast arcane [rituals](../General-Rules/Rituals.md) that require a musical instrument focus.
+
 #### Adventurer Feat
 
 The first time you use your ballad-created relationship, any 5s you roll become 6s. You also gain a +2 bonus to your Balladeer checks.
@@ -243,12 +247,6 @@ Choose two of the following three bonuses:
 1. Your bardic skills and magic are now based on your Wisdom rather than Charisma. Any time an element of the bard class refers to Charisma, you can replace that element with a reference to Wisdom.
 2. Take two additional skill points; you can use these additional points to raise a wisdom skill up to the usually impossible rating of +6.
 3. Take a single point of relationship with a relationship. Add the point to a relationship you already have up to your normal maximum.
-
-### Songmaster
-
-When you attempt to maintain a bardic song, if you describe it in a fashion that entertains the GM, or at least a couple of the players, you get a bonus of +1 to +3 to maintain the song.
-
-This talent is for those that enjoy improvisation.
 
 ### Spellsinger
 

@@ -99,6 +99,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Musical instrument (simple) | 1–5 gp |
 | Pipeweed (1 use) | 2 cp |
 | Prayer book | 2 gp |
+| Ritual Book | 10 gp |
 | Rope, 50 ft elven | 3 gp |
 | Rope, 50 ft good | 6 sp |
 | Rope, 50 ft poor | 2 sp |

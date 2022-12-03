@@ -124,7 +124,7 @@ All necromancers must spend at least one relationship point with any necromantic
 
 ### Ritual Magic
 
-Necromancers can cast their spells as [rituals](../General-Rules/Rituals.md).
+Necromancers can cast arcane [rituals](../General-Rules/Rituals.md).
 
 ### Spell Choices
 
