@@ -3,9 +3,11 @@ layout: doc
 ---
 # Strongholds
 
+Strongholds are an optional objective for the heroes to pursue. They are a place where the heroes can rest, recover, and prepare for the next adventure. They are also a place where the heroes can recruit new allies, and where they can train and improve their skills.
+
 ## Requirements
 
-Parties must be at least 5th level and acquire some workforce to build the stronghold. When choosing a Stronghold to build, the class associated with that stronghold must currently be in the party and the workforce must agree to build that stronghold as relevant.
+Heroes must be at least champion tier and acquire some workforce to build the stronghold. When choosing a Stronghold to build, the class associated with that stronghold must currently be in the party and the workforce must agree to build that stronghold as relevant.
 
 ## Cost Table
 
