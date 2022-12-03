@@ -178,9 +178,9 @@ Each turn, you can pop free of one enemy before one attack roll that is part of 
 
 ### Favored Enemy
 
-Choose a specific monster type (e.g. aberration, beast, construct, demon, dragon, giant, humanoid\*, ooze, plant, or undead**)**. The crit range of your ranger attacks against that type of enemy expands by 2.
+Choose a specific monster type (e.g. aberration, beast, construct, demon, dragon, giant, humanoid\*, ooze, plant, or undead). The crit range of your ranger attacks against that type of enemy expands by 2.
 
-\*Choosing humanoid: Unlike other favored enemies, choosing humanoid as your favored enemy takes up two ranger class talent slots.
+>\*Choosing humanoid: Unlike other favored enemies, choosing humanoid as your favored enemy takes up two ranger class talent slots.
 
 #### Adventurer Feat
 

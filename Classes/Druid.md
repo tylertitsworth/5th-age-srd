@@ -36,7 +36,7 @@ Druids start with 25gp.
 | **Light or Simple** | 1d6 mace, axe, shell blade | 1d8 spear |
 | **Heavy or Martial** | 1d8 (-2 atk)\* warhammer, flail | 1d10 (–2 atk) dire flail, greataxe |
 
-\*Warrior druid talent choices can change shield and one-handed weapon stats.
+>\*Warrior druid talent choices can change shield and one-handed weapon stats.
 
 ### Ranged Weapons
 
@@ -48,7 +48,7 @@ Druids start with 25gp.
 
 ## Level Progression
 
-| **Druid Level** | **Total Hit Points\*** | **Total Feats** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| **Druid Level** | **Total Hit Points** | **Total Feats** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- |
 | **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | Not affected | ability modifier |
 | **Level 1** | (6 + CON mod) x 3 | 1 adventurer |  | ability modifier |

@@ -64,7 +64,7 @@ Although not listed on the table, this class gets three talents. It does not get
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-\*You don't subtract the modifier from your base hp value if you have a negative Constitution modifier.
+>\*You don't subtract the modifier from your base hp value if you have a negative Constitution modifier.
 
 ## Stats
 
@@ -826,7 +826,7 @@ _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up
 **Target:** One corpse you are touching that has been dead less than a day.
 >Note that creatures that were undead for a longer period before they were killed are not legal targets.
 
-**Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died.\* The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
+**Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died. The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
 
 >_Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
 

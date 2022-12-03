@@ -13,7 +13,7 @@ Heroes must be at least champion tier and acquire some workforce to build the st
 
 If the heroes find destroyed or abandoned stronghold, they can repair it for half the usual cost and time it would normally take, so long as that stronghold is the same type as the original.
 
-| Stronghold | Associated Class | Cost (GP) | Time (Days)\* |
+| Stronghold | Associated Class | Cost (GP)\* | Time (Days)\* |
 | ---------- | ---------------- | --------- | ----------- |
 | Camp | Barbarian | 1000 | 30 |
 | Chapel | Paladin | 6000 | 180 |
@@ -32,7 +32,7 @@ If the heroes find destroyed or abandoned stronghold, they can repair it for hal
 | Theater | Bard | 4000 | 120 |
 | Tower | Sorcerer | 5000 | 150 |
 
-\* Heroes are allowed to pay more money to decrease the amount of time it takes to build the stronghold, the amount of time reduced is determined by the GM.
+>\*Heroes are allowed to pay more money to decrease the amount of time it takes to build the stronghold, the amount of time reduced is determined by the GM.
 
 ## Castles
 
@@ -50,11 +50,11 @@ You can spend more money to build a larger stronghold from the start, but there 
 | 4th | d12 | 28 | 7,500 | 150 |
 | 5th | d20 | 30 | 10,000 | 200 |
 
-\* Strongholds without intended defenses have a size factor of a d4.
+>\*Strongholds without intended defenses have a size factor of a d4.
 
-\*\* Strongholds without intended defenses have a toughness factor of 18.
+>\*\*Strongholds without intended defenses have a toughness factor of 18.
 
-\*\*\* Strongholds that take less time to build may have their cost and time reduced based on the original original cost and time ratio above.
+>\*\*\*Strongholds that take less time to build may have their cost and time reduced based on the original original cost and time ratio above.
 
 ## Stronghold Benefits
 
@@ -620,7 +620,7 @@ In addition, the GM can choose to reveal any of the following:
 
 When the Cleric casts Heal, they can choose all allies next to\* them rather than just one. You can do this a number of times equal to your temple level. You regain all expended uses after a long rest.
 
-\* If they take the adventurer feat, they can choose all allies nearby to them.
+>\* If they take the adventurer feat, they can choose all allies nearby to them.
 
 #### Followers
 
