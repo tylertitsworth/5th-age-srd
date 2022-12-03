@@ -2090,9 +2090,9 @@ You have no inherent way to discern where the sensor is in relation to you, but 
 
 You can hear through the sensor as well as see, and you have darkvision through it. Use the Perception skill to determine whether you hear quiet sounds or notice unobtrusive things while observing an area through the sensor.
 
-Observe Creature creates a scrying sensor—a shimmer in the air—that watchful creatures might notice. Creatures must succeed on a Perception skill check with a DC equal to 15 + your level to notice the sensor. If the target of this ritual notices your scrying sensor, the target can use an action to focus its will in an attempt to destroy the sensor. Make an opposed Insight skill check; if the target's result is higher than yours, the sensor is destroyed and you spend one recovery but regain no hit points. The subject can repeat this effort until the sensor is destroyed or the duration ends.
+Scrying creates a scrying sensor—a shimmer in the air—that watchful creatures might notice. Creatures must succeed on a Perception skill check with a DC equal to 15 + your level to notice the sensor. If the target of this ritual notices your scrying sensor, the target can use an action to focus its will in an attempt to destroy the sensor. Make an opposed Insight skill check; if the target's result is higher than yours, the sensor is destroyed and you spend one recovery but regain no hit points. The subject can repeat this effort until the sensor is destroyed or the duration ends.
 
-Sufficiently powerful warding magic, such as the [Forbiddance](#forbiddance) ritual, can block Observe Creature. If the subject's location is warded in such a manner, you learn that as soon as you begin the ritual, so you can interrupt the ritual and not expend any components.
+Sufficiently powerful warding magic, such as the [Forbiddance](#forbiddance) ritual, can block Scrying. If the subject's location is warded in such a manner, you learn that as soon as you begin the ritual, so you can interrupt the ritual and not expend any components.
 
 _Focus_: A mirror or a crystal ball worth at least 10,000 gp. The focus conveys what you see and hear.
 
