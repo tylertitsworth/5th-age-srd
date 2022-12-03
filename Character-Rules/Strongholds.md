@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Strongholds
 
 ## Requirements
