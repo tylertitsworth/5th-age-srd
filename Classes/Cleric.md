@@ -742,3 +742,45 @@ Daily
 #### Epic Feat
 
 This spell is now a quick action to cast.
+
+## Additional Domains
+
+Additional domains can be added to this document upon request. See the Domain table.
+
+| Domain | Spells |
+| --- | --- |
+| Air / Storm / Thunder | Thundering Blow, Air Bubble, Storm Cloud |
+| Animal / Beast | Poison Claw, Voice of Beasts, Celestial Guardian |
+| Archery / Hunting | Exalted Shot, Blessing of the Hunt, Holy Arrow |
+| Chaos / Disorder / Rebellion | Chaos Hammer, Haywire, Incite Rebellion |
+| Darkness / Night | Embrace of the Night, Darkness, Meld into the Shadows, Disappear into the Night |
+| Doom / Destruction | Doomhammer, Doom, Touch of Despair |
+| Dragon | Divine Odem, Sense Dragons, Summon Metallic Dragon |
+| Earth / Mountain | Earthen Hail, Return to Dust, Rock Shield, Earthquake |
+| Evil / Egoism | Festering Evil, Blasphemy, Slay Living |
+| Farming / Harvest | Cut the Weeds, Protect the Harvest, Reap What You Sow |
+| Fire | Burning Brand, Penance by Fire, Flame Strike |
+| Freedom / Travel | Freedom Bells, Blessed Journey, Freedom of Movement, Traveller’s Footsteps |
+| Good / Selflessness | Aiding Strike, Martyr’s Shield, Righteous Resolve, Carry On, My Friend |
+| Healing | Healing Strike, Restoration, Flash Heal |
+| Justice / Vengeance | Hammer of Retribution, Eyes of the Judge, Compel Duel, Banishment |
+| Knowledge / Lore | Sacred Mantra, Divine Insight, Pious Tongue, Intuitive Reading |
+| Life / Death | Invigorate, Death Ward, Symbol of Life, Raise Dead, Gate to the Underworld |
+| Love / Beauty | Radiant Heart, Call for a White Knight, Love Charm |
+| Luck / Fortune | Lucky Star, Fortuna’s Frown, Serendipity |
+| Madness / Nightmare | Manic Cackle, Fever Dream, Waking Nightmare |
+| Magic / Arcana | Magic Spark, The Might of Magic, Shield of the Archons |
+| Metal / Smithing | Blessed Steel, Heat Metal, Blade Barrier |
+| Music / Song | Divine Cantata, Sacred Hymn, Angelic Chorus |
+| Pain / Suffering | Inflict Wounds, Thorny Crown, Harm |
+| Plant / Forest | Thorn Whip, Binding Vines, Ensnaring Roots |
+| Protection / Community | Shielding Strike, Shield Other, Blessed Orator, Summon Guardian of Faith, Walk Unharmed |
+| Secrets / Cultism | Ominous Chant, Encrypt, Erase Memory |
+| Spirits / Undeath | Withering Touch, Captive Spirit, Bolster Undead |
+| Strength | Powerful Blow, Bend Bars and Lift Gates, Siphon Strength |
+| Sun / Anti-Undead | Ray of Light, Consecration, Searing Light |
+| Time | Sands of Time, Temporal Disruption, Visions of the Past |
+| Trickery / Illusion | Wink of the Trickster, Taunt and Tease, Trickster’s Guise, Borrowed Trick |
+| War / Leadership | Lead the Assault, Booming Command, Elevated Command |
+| Water / Sea / River | Jetblast, Neutralize Poison, Water Breathing |
+| Winter / Ice | Ice Shards, Frost Hammer, Snow Storm |
