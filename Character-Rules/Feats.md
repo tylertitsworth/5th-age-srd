@@ -280,7 +280,7 @@ Choose one of your spells that is not an at-will spell. Gain a +1 bonus to attac
 
 ### Thrill of the Kill
 
-Requires: Relationship with the Lich King
+Requires: Relationship a Lich
 
 #### Adventurer Tier
 

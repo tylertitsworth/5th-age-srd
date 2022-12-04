@@ -21,6 +21,7 @@ Players work with their GM to determine how advantages scale with more positive 
 
 | Benefit | 1 PTS | 2 PTS | 3 PTS | 4 PTS | 5 PTS | Example |
 | ------- | ----- | ----- | ----- | ----- | ----- | ------- |
+| Feat | 1 | - | 2 | - | 3 | Explorer, Sailor, Archaeologist |
 | Skill Point | 1 | 2 | 3 | 4 | 5 | Any |
 | Discount | 10% | 15% | 20% | 25% | 30% | Merchant, Artisan, Appraiser |
 | Wage (Weekly) | 5% | 10% | 15% | 20% | 25% | Guild, Royalty, Nobility |
