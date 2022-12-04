@@ -154,6 +154,24 @@ You now gain 1d6 command points instead of 1d4 when you use this action.
 
 Choose three of the following class talents. You get an additional commander talent at 5th level.
 
+### Ambassador
+
+Whenever you or an ally gains a positive relationship point you gain insight into their goals and motives in the form of a leverage die.
+
+Once before your next full recovery, you can add this die to any relationship advantages skill check you make. You use it on your own check or aid a nearby ally.
+
+#### Adventurer Feat
+
+You gain 1 additional skill point in a skill related to court intrigue, etiquette and politics. You can use this skill point to raise that skill beyond the normal maximum of 5.
+
+#### Champion Feat
+
+You can now use the leverage die to gain a 1d6 bonus command points with your Weight the Odds class feature instead.
+
+#### Epic Feat
+
+You can use your leverage die as a bonus to a recharge roll for a tactic.
+
 ### Armor Skills
 
 Unlike other commanders, you take no attack penalties for fighting in heavy armor. (As indicated on your class chart, your base AC in heavy armor is 14.)
@@ -185,6 +203,22 @@ You can use this talent twice per battle.
 #### Epic Feat
 
 You gain an additional command point at the start of each round while the escalation die is 4+.
+
+### Centurion
+
+Your Fight from the Front melee attacks gain a +1 bonus to their critical threat range. If you score a critical hit with it, you gain the maximum possible on your command points roll.
+
+#### Adventurer Feat
+
+During the first round of battle, you can act immediately after the initiative of any ally you choose, instead of your own initiative.
+
+#### Champion Feat
+
+During the first round of combat, gain a 1d4 bonus to the attack roll with your Fight from the Front melee attack.
+
+#### Epic Feat
+
+Increase the critical threat range bonus to +2.
 
 ### Combat Maneuver
 
@@ -219,6 +253,24 @@ Once per session when you roll a critical hit on an attack roll you gain inspira
 #### Epic Feat
 
 When you gain inspiration, you and each nearby ally gain a +1 bonus to death saves until the next full heal-up.
+
+### Drill Sergeant
+
+_Special:_ You cannot take this talent in combination with the Strategist or Tactician talents.
+
+Any time an element of the commander class refers to Charisma, you can replace  it with Constitution. In addition, your base PD is increased to 12, but your base MD is reduced to 10.
+
+#### Adventurer Feat
+
+You gain 1 additional skill point in a background related to either intimidation or physical exercise. You can use this skill point to raise that background beyond the normal maximum of 5.
+
+#### Champion Feat
+
+When you use a command, you can spend an additional command point to give a nearby enemy a -2 penalty to their next attack roll.
+
+#### Epic Feat
+
+When you give an ally a bonus to attack rolls with a command or tactic, increase that bonus by 1.
 
 ### Forceful Command
 
@@ -300,6 +352,42 @@ When you use this talent, the target of the critical hit can heal using a recove
 
 When you use this talent, you and each of your nearby allies gains a +2 bonus to all defenses until the end of your next turn.
 
+### Roguish Bent
+
+You can use Dexterity instead of Strength for commander attacks with one-handed melee weapons.
+
+In addition, choose a rogue power of your level or lower as a bonus power. If it’s a momentum power, track momentum like a rogue. Starting from 3rd level, you can switch out a commander power for a rogue power two levels lower.
+
+If the rogue power is a standard action melee attack you use on your turn, you gain command points as if using your Fight from the Front class feature.
+
+#### Adventurer Feat
+
+When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an even hit, deal 1d6 extra damage, 2d6 at 5th level, and 3d6 at 8th level.
+
+#### Champion Feat
+
+When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an odd hit, gain a bonus command point.
+
+#### Epic Feat
+
+Increase the extra damage from the adventurer feat to 3d10.
+
+### Skirmish Leader
+
+You take no attack penalty with martial ranged weapons. You can use your Fight from the Front class feature with ranged weapon attacks.
+
+#### Adventurer Feat
+
+You gain a command point when an ally scores a critical hit with a ranged attack.
+
+#### Champion Feat
+
+Once per level, you can lead a party to retreat from battle without suffering a campaign loss.
+
+#### Epic Feat
+
+You gain a +1 bonus to Fight from the Front ranged attacks against targets that are engaged with one of your allies.
+
 ### Strategist
 
 You rely on planning, teamwork, and calm execution of orders as a commander instead of charismatic presence. Any time an element of the commander class refers to Charisma, you can replace that element with a reference to Intelligence.
@@ -352,9 +440,101 @@ Once per day after a battle, you can gain a bonus to all recharge rolls you make
 
 Once per day as a free action, you can choose a tactic you don't normally possess and use it as if you did (you don't get any feats associated with it).
 
+### Cloaked Figure (5th level+)
+
+Once per battle, when you use your Weigh the Odds class feature, choose one of your Recharge after battle tactics and make a recharge roll for it.
+
+#### Champion Feat
+
+You can use this talent any time you use Weigh the Odds.
+
+### Commanding Voice (5th level+)
+
+You gain a bonus command, and one point towards a skill in personal leadership and diplomacy. You can use this skill point to raise that background beyond the normal maximum of 5.
+
+#### Champion Feat
+
+Gain the adventurer feat of all commands you know.
+
+#### Epic Feat
+
+Gain the champion feat of all commands you know.
+
+### Hold the Line (5th level+)
+
+Once per battle, when you target a nearby ally with a command or tactic, give all enemies engaged to that ally disadvantage on their next attack roll.
+
+#### Champion Feat
+
+If the enemy fails their next attack roll, they take psychic damage equal to twice your level.
+
+#### Epic Feat
+
+You can use this talent twice per battle.
+
+### Tactical Genuis (5th level+)
+
+You gain a bonus tactic, and one point towards a skill in military strategy and tactics. You can use this skill point to raise that background beyond the normal maximum of 5.
+
+#### Champion Feat
+
+Gain the adventurer feat of all tactics you know.
+
+#### Epic Feat
+
+Gain the champion feat of all tactics you know.
+
+### Veteran Leader (5th level+)
+
+You gain a +1 bonus to hit with your Fight from the Front melee attacks.
+
+#### Champion Feat
+
+After you use your Fight from the Front class feature, you have a +2 bonus to AC until the end of your next turn.
+
+#### Epic Feat
+
+Gain the +2 bonus to all defenses.
+
+### Well-Oiled Machine (5th level+)
+
+Once per round, you can use a command with a cost of one command point for zero instead. Pay any additional costs normally.
+
+#### Epic Feat
+
+You can now use one that costs two for zero.
+
 ## 1st Level Commands
 
-### Get Out of There
+### Clear Your Mind!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** One nearby ally who was hit by an attack against MD
+
+**Effect:** The attack must reroll the attack.
+
+#### Adventurer Feat
+
+Reduce the cost to 1 command point.
+
+### Duck!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** One nearby ally who was hit by an attack against PD
+
+**Effect:** The attacker must reroll the attack.
+
+#### Adventurer Feat
+
+If the attack is a miss, the ally takes no miss damage.
+
+### Get Out of There!
 
 Interrupt action
 
@@ -376,7 +556,39 @@ If you spend an additional command point, you can now target one additional near
 
 When targets of this command are stuck, that condition ends on them.
 
-### Rally Now
+### Lay Low!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** One nearby ally who made a successful disengage check
+
+**Effect:** Until the end of the ally's next turn, enemies can only attack the ally if they successfully engage them.
+
+#### Adventurer Feat
+
+Decrease the cost to 1 command point.
+
+### That One Too!
+
+Interrupt action
+
+**Cost:** 1 command point
+
+**Target:** One nearby ally who made a melee attack
+
+**Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at 5th level and trice at 8th, to a different enemy they are also engaged with.
+
+#### Adventurer Feat
+
+If the triggering attack was a critical hit, double the damage from this command.
+
+#### Champion Feat
+
+The ally deals the damage to all enemies it is engaged with, except the target of the triggering attack.
+
+### Rally Now!
 
 Interrupt action
 
@@ -400,7 +612,7 @@ When the target has to roll a save to rally, you can grant them a +2 bonus to th
 
 The target of this command also gains a +2 bonus to all defenses until the end of its next turn.
 
-### Save Now
+### Save Now!
 
 Interrupt action
 
@@ -444,7 +656,7 @@ If the rerolled attack scores a critical hit, you gain 1 command point.
 
 You can use this command before an ally makes an attack roll for 3 command points (instead of 2) for an entirely different effect: The target can make an additional basic attack this turn as a free action if the attack hits.
 
-### You Set Them Up, I Finish
+### You Set Them Up, I Finish!
 
 Interrupt action
 
@@ -466,7 +678,37 @@ The command now costs 3 command points to use.
 
 Your attacks that benefit from the +2 attack bonus against that enemy also add triple your Charisma modifier to your damage on a hit.
 
+### You're the Hero!
+
+Interrupt action
+
+**Cost:** 1 command point
+
+**Target:** One nearby ally who has just started thier turn
+
+**Effect:** The ally gains 3 times their level in temporary hit points. They also ignore any penalties to attack this turn, such as from the dazed or fear conditions.
+
+#### Adventurer Feat
+
+The ally can ignore any effect that would prevent them from using the escalation die.
+
+#### Champion Feat
+
+The ally is immune to any fear aura until the end of the battle.
+
 ## 1st Level Tactics
+
+### Chess Master
+
+Quick action
+
+Once per battle
+
+**Effect:** A nearby ally can move as a free action.
+
+#### Adventurer Feat
+
+If the escalation die is 4+, you can grant the move to two nearby allies.
 
 ### Basic Tactical Strike
 
@@ -490,6 +732,20 @@ The target gains an attack bonus equal to your Charisma modifier with that attac
 
 The recharge roll is now 6+.
 
+### Defensive Formation
+
+Quick action
+
+Once per battle
+
+**Target:** Each nearby ally who is engaged with an enemy together with at least one other ally
+
+**Effect:** The targets gain a +3 bonus to all defenses against enemies they are engaged with, until the end of your next turn.
+
+#### Adventurer Feat
+
+If a target is hit by an enemy they are engaged with, reduce the damage by your Charisma modifier, twice at 5th level and thrice at 8th level.
+
 ### Enforce Clarity
 
 Quick action
@@ -512,6 +768,18 @@ You can now target one additional nearby ally with this tactic.
 
 The recharge roll is now6+.
 
+### Inspiring Leadership
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Until the end of the battle, whenever you hit with your Fight from the Front melee attack, a nearby ally gains temporary hit points equal to your Charisma modifier, twice at 5th level and thrice at 8th level.
+
+#### Adventurer Feat
+
+On a natural 16+ on the attack roll, grant the temporary hit points to a second ally.
+
 ### Just Stay Calm
 
 Quick action, when the escalation die is 2+
@@ -531,6 +799,32 @@ You can include yourself as one of the targets.
 #### Epic Feat
 
 When you use this tactic, you can spend an additional command point to avoid decreasing the escalation die.
+
+### King's Castle
+
+Quick action
+
+Once per battle
+
+**Effect:** Two nearby allies switch positions. This is not a teleport — the allies must be able to reach the other location by normal means. This also switches who the targets are engaged with. This movement does not provoke opportunity attacks, and it cannot be intercepted.
+
+#### Adventurer Feat
+
+You can switch around the positions of three allies, and you can be one of the three.
+
+### Offensive Formation
+
+Quick action
+
+Once per battle
+
+**Target:** Each nearby ally who is engaged with an enemy together with at least one other ally
+
+**Effect:** The targets gain a +3 bonus to attack rolls against enemies they are engaged with, until the end of your next turn.
+
+#### Adventurer Feat
+
+If a target hits an enemy they are engaged with, increase the damage by your Charisma modifier, twice at 5th level and thrice at 8th level.
 
 ### Outmaneuver
 
@@ -583,6 +877,24 @@ The target gains a bonus to the melee attack it makes from this command equal to
 
 This turn, if the target moves to attack an enemy you are also engaged with, that enemy is vulnerable to the attack.
 
+### Hang in There!
+
+Interrupt action
+
+**Cost:** 1 command point
+
+**Target:** One nearby ally who has made a recovery roll
+
+**Effect:** The target can choose to reroll any of the recovery dice. Keep the reroll.
+
+#### Adventurer Feat
+
+The target adds your Charisma modifier to the hit points healed, twice at 5th level and thrice at 8th level.
+
+#### Champion Feat
+
+You can spend an additional command point to grant the target a bonus recovery die.
+
 ### Hit Harder
 
 Interrupt action
@@ -605,6 +917,34 @@ You can spend an additional command point (1 max) to add another damage die of t
 
 You can also use this command as a free action (instead of as an interrupt action) when an ally hits with an opportunity attack.
 
+### Raise Shields!
+
+Interrupt action
+
+**Cost:** 1 command point
+
+**Target:** One or more nearby allies who are being targeted by an attack against AC or PD
+
+**Effect:** The allies gain a bonus to their defense equal to the number of nearby allies wielding a shield (maximum +4) until the end of your next turn.
+
+#### Adventurer Feat
+
+The bonus is a +2 per nearby ally wielding a shield.
+
+### Twist the blade!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** One nearby ally who hit with a melee attack
+
+**Effect:** The ally also deals 5, 10 at 5th level, and 20 at 8th level, ongoing damage.
+
+#### Adventurer Feat
+
+If the escalation die is 2+, this power costs only 1 command point.
+
 ### You Are A Precious Snowflake
 
 Interrupt action
@@ -616,6 +956,34 @@ Interrupt action
 **Effect:** Roll a d20. On a 11+, the target doesn't expend the use of its species power and can use it again later this battle.
 
 ## 3rd Level Tactics
+
+### Choke Point
+
+Quick action
+
+Recharge 16+ after battle
+
+**Target:** One nearby ally
+
+**Effect:** Until the end of the battle, enemies have disadvantage on saves to disengage from the target ally.
+
+#### Adventurer Feat
+
+You can target up to three nearby allies (including yourself).
+
+### Expert Flanking
+
+Quick action
+
+Recharge 16+ after battle
+
+**Target:** One nearby ally who is engaged with an enemy together with at least one other ally
+
+**Effect:** The ally can make a basic melee attack against an enemy they are engaged with as a free action, with advantage on the attack roll.
+
+#### Adventurer Feat
+
+The attack deals half damage on a miss.
 
 ### Finish This
 
@@ -638,6 +1006,20 @@ You can now use this tactic when one or two enemies are left in the battle.
 #### Epic Feat
 
 You can now spend between 1 and 5 command points on the effect.
+
+### Honor the Fallen
+
+Quick action
+
+Once per battle
+
+_Special:_ You can only use this tactic if at least one ally is currently unconscious or dead.
+
+**Effect:** Gain one command point for each ally that is currently unconscious or was killed in this battle.
+
+#### Adventurer Feat
+
+Gain two command points instead.
 
 ### Scramble
 
@@ -683,7 +1065,49 @@ You can now gain command points from your Fight from the Front class feature usi
 
 The recharge roll is now 11+.
 
+### Target their Weak Points
+
+Quick action
+
+Recharge 16+ after battle
+
+**Target:** A nearby enemy
+
+**Effect:** Until the end of the battle, the enemy is vulnerable to your allies’ attacks.
+
+#### Adventurer Feat
+
+The enemy also takes extra damage from your allies' attacks equal to your level.
+
 ## 5th Level Commands
+
+### Block It Out!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** A nearby ally who took damage from an attack against MD
+
+**Effect:** The ally takes half damage.
+
+#### Champion Feat
+
+If the attack targeted multiple allies (including you), you can grant the effect to all of them by spending one command point per target.
+
+### Great! Keep going!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** A nearby ally who reduced an opponent below zero hit points
+
+**Effect:** The ally can make a standard action attack against a different nearby enemy. They can move to engage the enemy first if required.
+
+#### Champion Feat
+
+You can use this power as a free action (it no longer counts against your limit of one interrupt per round).
 
 ### Hit 'Em From Here
 
@@ -702,6 +1126,20 @@ The target can now be a far away ally.
 #### Epic Feat
 
 The target ally's power, spell, or attack can now target multiple far away creatures (if it can target multiple creatures normally).
+
+### Keep Your Head Straight!
+
+Interrupt action
+
+**Cost:** 1 command point
+
+**Target:** A nearby ally who is forced to take an action against their will (by a spell, condition etc.)
+
+**Effect:** The ally can immediately save against the effect, even if the effect normally does not allow a save.
+
+#### Champion Feat
+
+The ally adds your Charisma modifier as a bonus to the save.
 
 ### Strike Here
 
@@ -777,6 +1215,42 @@ Add twice your Charisma modifier to the temporary hit points each target gains.
 
 One of the targets can also heal using a recovery.
 
+### Determined Leadership
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Until the end of the battle, whenever you miss with your Fight from the Front melee attack, deal half damage and gain a command point.
+
+#### Champion Feat
+
+On your first natural even miss with Fight from the Front this battle, reroll the attack.
+
+### Lead with Steel
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Gain advantage on the next Fight from the Front melee attack this turn. If both attack rolls hit, gain the maximum possible command points instead of rolling.
+
+#### Champion Feat
+
+On a miss, regain this tactic.
+
+### Mind Games
+
+Quick action
+
+Once per battle
+
+**Effect:** Wager a number of command points up to your Charisma modifier, then make a Charisma + Level attack roll against the highest MD of all nearby enemies. On a hit, regain twice as many command points as you wagered. On a miss, those command points are lost.
+
+#### Champion Feat
+
+On a natural 18+, regain three times the amount you wagered.
+
 ## 7th Level Commands
 
 ### Chain of Commands
@@ -788,6 +1262,20 @@ Free action
 **Target:** You
 
 **Effect:** The next interrupt action you use to make a command doesn't prevent you from using another interrupt action later in the round.
+
+### Take Cover!
+
+Interrupt action
+
+**Cost:** 2 command points
+
+**Target:** A nearby ally who takes damage from a ranged or close-quarters attack
+
+**Effect:** The ally takes half damage.
+
+#### Champion Feat
+
+If the attack targeted two allies (including you), both allies take half damage.
 
 ### You Know What to Do
 
@@ -825,6 +1313,30 @@ If the d20 roll is 16+, increase the escalation die by 2 instead of 1.
 
 When the escalation die reaches 8, you gain 1d6 command points and can make recharge rolls for all your tactics.
 
+### Increase the Pressure
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Increase the escalation die by 1.
+
+#### Champion Feat
+
+Until the end of your next turn, enemies cannot use abilities that interact with the escalation die, such as adding it to attack rolls or stealing it.
+
+### Last Stand
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** You and all nearby allies gain a +2 bonus to saving throws (including death saves) until the end of the battle, and two extra dice when using a recovery to heal.
+
+#### Champion Feat
+
+You also gain command points equal to your Charisma modifier.
+
 ### On Your Feet, Maggots
 
 Quick action
@@ -861,6 +1373,16 @@ This tactic can now be used as a free action.
 
 You can now target a far away ally.
 
+### Tactical Retreat
+
+Standard Action
+
+Recharge 16+ after battle
+
+**Target:** You and all nearby allies
+
+**Effect:** The group flees from the battle. The group does not suffer a campaign loss, but the cowardice causes some factions to lose faith in them. The GM chooses one relationship advantage of each PC that they cannot use until they gain a level.
+
 ## 9th Level Commands
 
 ### Natural Command
@@ -893,6 +1415,20 @@ If the target succeeds on its death save, it can take its turn normally as if it
 
 ## 9th Level Tactics
 
+### Focus Fire
+
+Quick action
+
+Recharge 16+ after battle
+
+**Target:** 1d3 nearby allies
+
+**Effect:** Each target can make an at-will ranged attack as a free action against one enemy designated by you.
+
+#### Champion Feat
+
+The attacks deal extra damage equal to your Intelligence or Charisma modifier on a miss.
+
 ### Force a Conclusion
 
 Free action
@@ -904,6 +1440,18 @@ Free action
 #### Epic Feat
 
 You gain command points equal to the newly rolled escalation die value.
+
+### Lead Through Hell
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Until the end of the battle, whenever you use your Fight from the Front class feature, a nearby ally can make a save against a save-ends effect.
+
+#### Epic Feat
+
+The ally can add your Charisma modifier to the saving throw.
 
 ### Now, Not Later
 
@@ -932,3 +1480,15 @@ Quick action
 #### Epic Feat
 
 If the attack hits, it's a critical hit.
+
+### Uncanny Intuition
+
+Quick action
+
+Recharge 16+ after battle
+
+**Effect:** Until the end of the battle, whenever you use your Fight from the Front or Weigh the Odds class feature, grant a nearby ally a bonus to their next attack roll equal to the number of command points you gained.
+
+#### Epic Feat
+
+If you only gained one or two command points, grant the bonus to two allies instead.
