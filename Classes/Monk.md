@@ -196,7 +196,7 @@ When the escalation die is 4+, your Flurry attack deals PUNCH + Strength damage 
 
 #### Ki Power
 
-_(A Thousand Palms)_: You must be engaged with 2 or more enemies to use this power. After making a Flurry attack, you can spend 1 point of ki to make another Flurry attack against a target you have not already attacked with Flurry this turn.
+_(A Thousand Palms):_ You must be engaged with 2 or more enemies to use this power. After making a Flurry attack, you can spend 1 point of ki to make another Flurry attack against a target you have not already attacked with Flurry this turn.
 
 ### Greeting Fist (Seven Deadly Secrets)
 
@@ -228,7 +228,7 @@ Once per battle, reroll an attack that qualified for Greeting Fist damage.
 
 #### Ki Power
 
-_(Opening the Death Gate)_: When you deal Greeting Fist damage, you can spend 1 point of ki to double that damage (as usual, a crit would then triple that damage).
+_(Opening the Death Gate):_ When you deal Greeting Fist damage, you can spend 1 point of ki to double that damage (as usual, a crit would then triple that damage).
 
 ### Temple Weapon Master (Seven Deadly Secrets)
 
@@ -238,7 +238,7 @@ Once per battle while you're fighting with a weapon or weapons associated with y
 
 #### Ki Power
 
-(_Supreme Warrior Discipline)_: When you use your Temple Weapon Master power, you can spend 1 point of ki to gain a bonus to AC equal to the _current_ escalation die until an attack against AC misses you or until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.)
+(_Supreme Warrior Discipline):_ When you use your Temple Weapon Master power, you can spend 1 point of ki to gain a bonus to AC equal to the _current_ escalation die until an attack against AC misses you or until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.)
 
 ##### _Adventurer Feat_
 
@@ -260,7 +260,7 @@ In addition, you can go one round without using a monk attack form and still mai
 
 #### Ki Power
 
-_(Diamond Soul)_: When you are dazed, weakened, or stunned, you can spend 1 point of ki to make an immediate normal save (11+). If you succeed, the effect ends. If you fail, the condition affects you normally. (This power also works on effects that aren't save ends. It also breaks the stunned rule by letting you use a free action to spend ki.)
+_(Diamond Soul):_ When you are dazed, weakened, or stunned, you can spend 1 point of ki to make an immediate normal save (11+). If you succeed, the effect ends. If you fail, the condition affects you normally. (This power also works on effects that aren't save ends. It also breaks the stunned rule by letting you use a free action to spend ki.)
 
 ##### Adventurer Feat
 
@@ -304,7 +304,7 @@ In addition, if you fall with a wall, tree, or other physical object next to you
 
 #### Ki Power
 
-_(Wind's Comrade)_: You can spend 1 point of ki during your turn to gain _flight_ until the end of your turn.
+_(Wind's Comrade):_ You can spend 1 point of ki during your turn to gain _flight_ until the end of your turn.
 
 ##### Adventurer Feat
 
@@ -358,7 +358,7 @@ Spinning Willow Style saves are now easy saves (6+).
 
 #### Ki Power
 
-(_The Willow Bends)_:You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
+(_The Willow Bends):_You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
 
 ## Champion Tier Talents
 
@@ -372,7 +372,7 @@ If the spell is at-will, you can cast it in place of a flow attack. If the spell
 
 #### Ki Power
 
-(_Gather the Flame)_:You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
+(_Gather the Flame):_You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
 
 ### Improbable Stunt
 
@@ -382,7 +382,7 @@ The outrageous action of your stunt isn't something you have to roll for, even i
 
 #### Ki Power
 
-(_Ludicrous Improbability Maneuver)_:You can spend 1 ki point to use Improbable Stunt again this battle.
+(_Ludicrous Improbability Maneuver):_You can spend 1 ki point to use Improbable Stunt again this battle.
 
 ### Path of the Perfect Warrior
 
@@ -390,7 +390,7 @@ One battle per day, you can increase your JAB damage dice to d8s, your PUNCH dam
 
 #### Ki Power
 
-(_Perfect Breath)_:Once per day when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
+(_Perfect Breath):_Once per day when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
 
 ## Epic Tier Talents
 

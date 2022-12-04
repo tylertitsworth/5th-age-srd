@@ -220,7 +220,7 @@ Choose three of the following class talents.
 
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
 
-If a warp talent gives you access to a spell from another class, associate it with psionic's attack category or defense category. You can then cast it if that affinity type comes up for you.
+If a warp talent gives you access to a affinity from another class, associate it with psionic's attack category or defense category. You can then cast it if that affinity type comes up for you.
 
 #### Attacking Warp
 
@@ -303,6 +303,127 @@ When you roll a natural 18–20 on a save, a nearby ally of your choice can roll
 
 When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative)."
 
+### Blip of Bard
+
+You gain a random affinity or song from the bard class. Whenever you take a full heal-up, randomly choose a bard affinity of up to the highest level you can cast. For the rest of the day, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage affinitycasting sequence.
+
+#### Adventurer Feat
+
+After each full heal-up, choose an art form such as kazoo improvisation, ice carving or gnome pantomime. Roll a d6 and gain as many points in a related background. The inspiration lasts until the next full heal-up, at which point a new inspiration strikes.
+
+#### Champion Feat
+
+After each full heal-up, choose one random battle cry from the bard list. You can use this battle cry with your chaos mage melee attacks. Once per day, you can also trigger it with an at-will affinity attack roll.
+
+#### Epic Feat
+
+If you don’t like either the random bard affinity or the battle cry you rolled for the day, roll again. You’re stuck with the second one.
+
+### Psionic Warrior
+
+You don’t take an attack penalty when wielding a one-handed melee weapon of any kind, or a shield. You also take no attack penalty for wearing heavy armor, and your base AC in heavy armor is increased to 12.
+
+When you would roll to determine your next affinity, you can choose to gain the effects below instead of an affinity. The effect depends on the affinity you roll, and it lasts until the end of your next turn.
+
+| **Affinity** | **Effect** |
+| --- | --- |
+| Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
+| Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
+| Iconic / Blood | Gain advantage on your next melee attack roll. |
+| Iconic / Light | Your melee attacks deal holy damage, you deal half damage on a miss. |
+| Iconic / Twisted | Your melee attacks deal negative energy damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
+
+If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
+
+_Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion daily affinity.
+
+#### Adventurer Feat
+
+Your recoveries use exploding dice (add one more die for each that comes up as maximum).
+
+#### Champion Feat
+
+Your AC in light armor is increased to 11, and in heavy armor to 13.
+
+#### Epic Feat
+
+Once per battle, when the escalation die is 3+, make a melee attack as a quick action after using a psion affinity on that turn.
+
+### Eidolon of Anarchy
+
+As a rampant psionic vessel, your body isn’t stable. The color of your hair, eyes and even skin keeps shifting through all the colors of the rainbow, based on your mood, the weather, and the whims of psionics. On some days, you wake up as a different race or gender. All of this is wildly confusing to others, but you were born with it and know this is who you are. When you manifest a affinity, it’s less of a conscious act of casting than a failure to contain the psionics.
+
+Since psionics are a manifestation of your physical being, you use Constitution instead of Charisma for all Psion affinities.
+
+As a side effect, your body and mind shake off attempts to reshape them more easily. You can roll saves at the start of your turn instead of at the end of your turn. A successful save against ongoing damage, for example, means that you will not take the ongoing damage that turn.
+
+#### Adventurer Feat
+
+Reroll natural 1s when spending a recovery to heal.
+
+#### Champion Feat
+
+Once per battle, when you are out of daily affinities, you can cast a daily affinity by expending a recovery without healing instead.
+
+#### Epic Feat
+
+When you save against a save ends effect with a natural even success, make a Constitution + level vs. PD attack against a random nearby enemy. If you hit, that target is now under the effect you just shook off.
+
+### Enigmatic Pet
+
+You have befriended a small creature, like a cat or a fox, which hangs around you to get petted and fed. It seems completely oblivious to the chaos and mayhem that surrounds you, and ignores any High Weirdness effects. You have a nagging feeling that the universe has sent it to counterbalance the effects of your powers.
+
+Once per day, your pet can cancel an ongoing magical or supernatural effect. That effect can be a condition on a creature, an item effect, something in the environment, or your own High Weirdness. If the effect is permanent, such as an item enchantment, roll a save each turn to see when the effect is reactivated.
+
+Your pet won’t join you in a fight, and it can’t be targeted by affinitys or attacks.
+
+Also choose one ability for your pet from the list below:
+
+- _Axiomatic_: Once per day, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
+- _Detector_: It can smell magic by scent.
+- _Flight_: It can fly.
+- _Healer_: Once per day, it can grant someone the use of a recovery to heal by touch.
+- _Innate Magic_: Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
+- _Mundane Aura_: It appears fully natural and resists any divination magic cast on it.
+- _Negator_: It can use its anti-magic ability twice per day.
+- _Shapechanger_: It can take any shape it likes, as long as it stays roughly cat-sized.
+- _Shield_: Once per day, it can force an enemy to reroll an attack against you with a d12.
+- _Shy_: It can turn invisible at-will.
+- _Talkative_: Your pet can talk. Each session, determine its personality with the Personality table
+
+| d6 | Personality |
+| --- | --- |
+| 1 | Cutesy |
+| 2 | Zen-like |
+| 3 | Condescending |
+| 4 | Sneaky |
+| 5 | Hungry |
+| 6 | Cuddly |
+
+#### Adventurer Feat
+
+Your pet has a second ability from the list.
+
+#### Champion Feat
+
+Your pet has a third ability.
+
+#### Epic Feat
+
+Your pet has a fourth ability.
+
+### Master of Mayhem
+
+You gain a bonus daily affinity, for a total of three at 1st level.
+
+#### Champion Feat
+
+Once per battle, roll twice for affinity. Keep one to determine your affinity and mark both as used.
+
+#### Epic Feat
+
+When you have no psion daily affinities left, regain one when you take a quick rest.
+
 ### Separate Existence
 
 You are ever-so-slightly detached from normal physical reality. Play the story side of that as you like; the game mechanics side is that you can cast ranged affinities while engaged with enemies without taking opportunity attacks.
@@ -317,9 +438,9 @@ When you teleport, you can heal using a recovery.
 
 ### Stench of Necromancy
 
-You gain a random spell from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain a random affinity from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer affinity of the highest level you can cast. For the rest of the day, you know this necromancer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
 
-If the necromancer spell refers to Intelligence, you can replace that ability score with references to Charisma.
+If the necromancer affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
@@ -335,9 +456,9 @@ If you don't like the first random necromancer affinity you select for the day, 
 
 ### Touch of Wizardry
 
-You gain a random spell from the wizard class. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard spell and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain a random affinity from the wizard class. Whenever you take a full heal-up, randomly choose a wizard affinity of the highest level you can cast. For the rest of the day, you know this wizard affinity and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your turn.
 
-If the wizard spell refers to Intelligence, you can replace that ability score with references to Charisma.
+If the wizard affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
@@ -345,17 +466,17 @@ You gain a random wizard talent at the start of each day. Roll a d3. 1: Abjurati
 
 #### Champion Feat
 
-You gain a single daily use of the wizard's _utility spell_, cast at your level or lower.
+You gain a single daily use of the wizard's _utility affinity_, cast at your level or lower.
 
 #### Epic Feat
 
-If you don't like the first random wizard spell you select for the day, you can determine another random wizard spell. You're stuck with the second one.
+If you don't like the first random wizard affinity you select for the day, you can determine another random wizard affinity. You're stuck with the second one.
 
 ### Trace of the Divine
 
-You gain a random spell from the cleric class. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain a random affinity from the cleric class. Whenever you take a full heal-up, randomly choose a cleric affinity of the highest level you can cast. For the rest of the day, you know this cleric affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
 
-If the cleric spell refers to Wisdom, you can replace that ability score with references to Charisma.
+If the cleric affinity refers to Wisdom, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
@@ -369,13 +490,29 @@ While you have an _air_ or _water_ warp effect active, when you heal using a rec
 
 In addition to the random invocation you gain at the start of the day, you also get the talent/domain powers that go with it.
 
-### Whiff of Sorcery
+### Unleashed Pain
 
-You gain a random spell from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer spell and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+While you are staggered, increase the damage dice of your psion affinities by one step (d4 to d6 and so on).
 
 #### Adventurer Feat
 
-Twice per day, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer spell or a psion affinity the next time you cast an affinity. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of affinity you will be casting, since you select an affinity type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic affinity coming.)
+Once per battle, when rolling an affinity, you can swap the affinity for an iconic affinity that has already been used. You can only do this if you have a used iconic affinity.
+
+#### Champion Feat
+
+While you are staggered, your psion affinities gain a +2 bonus to their critical threat range.
+
+#### Epic Feat
+
+While you are staggered, all damage dice of your affinities are exploding dice (when you roll the maximum number, roll another die and add it).
+
+### Whiff of Sorcery
+
+You gain a random affinity from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer affinity of the highest level you can cast. For the rest of the day, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+
+#### Adventurer Feat
+
+Twice per day, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer affinity or a psion affinity the next time you cast an affinity. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of affinity you will be casting, since you select an affinity type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic affinity coming.)
 
 #### Champion Feat
 
@@ -383,7 +520,7 @@ While you have an _air_ or _fire_ warp effect active, add fire damage equal to y
 
 #### Epic Feat
 
-If you don't like the first random sorcerer spell you select for the day, you can determine another random sorcerer spell. You're stuck with the second one.
+If you don't like the first random sorcerer affinity you select for the day, you can determine another random sorcerer affinity. You're stuck with the second one.
 
 ## Attack Affinities (1st Level+)
 
@@ -472,6 +609,121 @@ Daily
 | 7th | 10d10 damage. |
 | 9th | 2d8 x 10 damage. |
 
+### Warped Steel
+
+Close-quarters affinity
+
+Once per battle
+
+Quick action
+
+**Target:** One melee weapon you are wielding
+
+**Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to a random nearby enemy.
+
+#### Adventurer Feat
+
+On a natural odd miss, deal the damage to two random nearby enemies.
+
+### Brain Warp (3rd Level+)
+
+Ranged affinity
+
+Once per battle
+
+_Special:_ You can expend a daily affinity instead to attack two enemies.
+
+**Target:** One nearby enemy
+
+**Attack:** Charisma + Level vs. MD
+
+**Hit:** The target makes an attack against a random nearby enemy, with the escalation die as a bonus. If it has more than one attack ability, the GM picks one randomly.
+
+**Miss:** The target has disadvantage on its next attack roll.
+
+#### Champion Feat
+
+The target also adds your Charisma modifier to the attack roll against its own ally.
+
+### Raining Chaos (5th Level+)
+
+Ranged affinity
+
+Daily
+
+_Always:_ You can fly until the end of your next turn.
+
+**Target:** One random enemy per point of escalation die (targets can be hit multiple times)
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** 6d6 + Charisma damage. The element of the damage is different for each attack -- fire, lightning, cold, acid, thunder, and then poison.
+
+**Miss:** Half damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 8d8 damage. |
+| 9th | 10d10 damage. |
+
+#### Champion Feat
+
+The damage dice of this affinity are now exploding dice.
+
+### Chaos Wave (7th Level+)
+
+You summon a wave of crackling chaos that changes all creatures it hits on its way. They grow slimy scales, new limbs, or a third eye on their forehead.
+
+Close-quarters affinity
+
+Daily
+
+_Always:_ Roll on the High Weirdness table
+
+**Target:** 1d4 nearby enemies
+
+**Attack:** Charisma + Level vs. MD
+
+_Natural Even Hit:_ 10d12 + Charisma lightning damage, and you switch PD and MD of the target until the end of the battle.
+
+_Natural Odd Hit:_ 10d12 + Charisma psychic damage. If the escalation die is odd, give the target +2 AC and -2 to attacks; if it is even, give it -2 AC and +2 to attacks until the end of the battle.
+
+**Miss:** Half damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 2d10 x 10 damage. |
+
+#### Champion Feat
+
+You can now attack far away enemies with this affinity.
+
+### Gravity Well (9th Level+)
+
+Ranged affinity
+
+Daily
+
+**Effect:** Attack one random nearby enemy per point of escalation die with [Telekinesis](#telekinesis).
+
+### Devolution (9th Level+)
+
+Ranged affinity
+
+Daily
+
+**Target:** 1d3 nearby enemies
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** The target takes 50 ongoing negative energy damage as its body slowly devolves. The save against the ongoing damage is a hard save (16+). If a target has 100 hit points or fewer left when it fails a save, it becomes primordial ooze, leaving only a puddle of gooey mess.
+
+**Miss:** --
+
+#### Epic Feat
+
+Devolve at 150 hp or fewer.
+
 ## Defense Affinities (1st Level+)
 
 ### Eidolic Boon
@@ -525,6 +777,133 @@ Once per battle
 | 5th | 30 temporary hit points. |
 | 7th | 45 temporary hit points. |
 | 9th | 70 temporary hit points. |
+
+### Repelling Barrier
+
+Close-quarters affinity
+
+At-Will
+
+**Target:** All enemies engaged with you
+
+**Attack:** Charisma + Level vs. PD
+
+**Hit:** 1d4 + Charisma force damage, and the target pops free from you.
+
+**Miss:** Damage equal to your level
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 2d6 damage |
+| 5th | 3d8 damage |
+| 7th | 4d10 damage |
+| 9th | 6d12 damage |
+
+#### Adventurer Feat
+
+Until the start of your next turn, you can repeat the attack as a free action against each enemy who moves to engage you.
+
+### Elemental Barrier
+
+Close-quarters affinity
+
+Daily
+
+**Effect:** Until the end of the battle, you gain a +2 bonus to all defenses, and resist force, psychic and thunder 14+. At the start of each turn, you lose one of the benefits of this spell. Roll 1d6 to see which one.
+
+| d6 | Effect |
+| --- | --- |
+| 1 | AC Bonus |
+| 2 | PD Bonus |
+| 3 | MD Bonus |
+| 4 | Resist force |
+| 5 | Resist psychic |
+| 6 | Resist thunder |
+
+If you roll a protection you have already lost, you’ve lucked out this turn — you don’t lose another benefit.
+
+#### Adventurer Feat
+
+Increase the defense bonuses granted by this spell to +3.
+
+#### Champion Feat
+
+Increase the resistances provided by this spell to 16+.
+
+### Blade Ward (3rd Level+)
+
+Close-quarters affinity
+
+Once per battle
+
+**Effect:** You animate a melee weapon you are holding to ward off your enemies. Until the start of your next turn, whenever an enemy attacks you in melee, the weapon makes a melee attack against the target as a free action, striking before that enemy. Use your melee basic attack, but with your Charisma modifier for attack and damage rolls. If the blade rolls a natural odd miss, it moves away from you to protect a random nearby ally instead.
+
+### Blur (3rd Level+)
+
+Close-quarters affinity
+
+Daily
+
+**Effect:** Until the end of the battle, roll 1d100 when you are hit by an attack. On a 20 or lower, the attack is a miss, and there is an additional effect as per the table below:
+
+| d100 | Effect |
+| --- | --- |
+| 1 | The spell fizzles after blocking this attack. |
+| 2 | The attack hits a random nearby ally for half damage instead. |
+| 3 | The attack hits a different, random nearby enemy instead. |
+| 4 | The attack hits two different, random nearby enemies for half damage. |
+| 5 | The attack hits the attacker. |
+| 6 | The attacker is vulnerable to your attacks until the end of the battle. |
+| 7 | The attacker takes psychic damage equal to your level. |
+| 8 | The attacker takes 5 (5th level: 10; 8th level: 20) ongoing fire damage. |
+| 9 | The attacker is weakened until the end of their next turn. |
+| 10 | A nearby enemy is dazed (distracted by a swarm of butterflies) until the end of its next turn. |
+| 11 | You are dazed until the end of your next turn. |
+| 12 | You teleport to a random nearby location. |
+| 13 | Teleport the attacker to a random nearby location. |
+| 14 | Both you and the attacker teleport to different random nearby locations. |
+| 15 | You gain resist 16+ against the attack’s type of damage until the end of your next turn. |
+| 16 | Transfer the blur effect to a random nearby ally. |
+| 17 | A random nearby ally also benefits from the blur effect until the end of your next turn. |
+| 18 | You summon an illusory double of yourself. The next time you are hit, there is a 50% chance it turns into a miss. Then the double is destroyed. |
+| 19 | The next time Chaotic Blur fails to block an attack this battle, you still take only half damage. |
+| 20 | Increase the chance that Chaotic Blur triggers by 5% (so 21-25 are now also a miss, then 26-30 and so on), without additional effects on those numbers. |
+
+#### Adventurer Feat
+
+You can target a nearby ally with the spell instead.
+
+### Mental Cocoon (5th Level+)
+
+Close-quarters affinity
+
+Daily
+
+**Target:** You or a nearby ally
+
+**Effect:** You protect yourself with a psionic vortex that provides resist all except psionic 18+ and vulnerable to psychic. After every time the cocoon resists damage, change “psychic” to whatever the resistance just protected against (weapon attacks, fire, beast claws etc.). If the resisted attack was a natural even roll, transfer the cocoon to a random ally. The cocoon persists until the end of the battle.
+
+### Sanctuary (7th Level+)
+
+Close-quarters affinity
+
+Daily
+
+**Effect:** Until the end of the battle, before an enemy attacks you, they must immediately roll an easy save (6+).
+
+_Natural Odd Failure:_ The target is struck by fear (-4 to attacks and can’t benefit from the escalation die) until the end of their next turn.
+
+_Natural Even Failure:_ The target is stuck and vulnerable to attacks until the end of their next turn.
+
+_Natural 18+:_ The target destroys the affinity zone and you must roll for a High Weirdness effect.
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | The save is now a normal save (11+) |
+
+#### Epic Feat
+
+On a natural 1 on the save, the target is stunned until the end of their next turn.
 
 ## Iconic Affinities & Feats
 
