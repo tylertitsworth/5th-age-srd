@@ -6,6 +6,7 @@ An adaption of the [13th Age Archmage Engine](https://www.13thagesrd.com/) combi
 
 - [Character Rules](./Character-Rules/README.md)
   - [Combat](./Character-Rules/Combat.md)
+  - [Companions](./Character-Rules/Compansions.md)
   - [Feats](./Character-Rules/Feats.md)
   - [Gear](./Character-Rules/Gear.md)
   - [Hybrid](./Character-Rules/Hybrid.md)
