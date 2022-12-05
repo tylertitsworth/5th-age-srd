@@ -164,7 +164,7 @@ You can switch one blighter druid spell for a necromancer spell without the leve
 
 ##### Champion Feat
 
-You lose the druid’s Nature Talking class feature. Instead, you gain Speak with Dead (see 13 True Ways) as a bonus spell.
+You lose the druid’s Nature Talking class feature. Instead, you gain [Speak with Dead](./Necromancer.md#speak-with-dead) as a bonus spell.
 
 ##### Epic Feat
 
@@ -394,8 +394,8 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 3rd | Summon a 3rd-level rust monster (Bestiary 184) with 30 hp. |
-| 5th | Summon a 4th-level harpy (Core Book p. 234) with 40 hp. |
-| 7th | Summon a 4th-level basilisk (Bestiary p. 10) with 80 hp. |
+| 5th | Summon a 4th-level harpy with 40 hp. |
+| 7th | Summon a 4th-level basilisk with 80 hp. |
 | 9th | Summon a 1d3+1 9th-level wraith bats (Bestiary p. 15) with 30 hp. |
 
 #### Summon Giant Bug (1st Level)
@@ -526,12 +526,12 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a large 3rd-level ochre jelly (13th Age Core Book p. 241) with 80 hp. This spell follows the summoning rules in 13 True Ways (p. 11). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
+**Effect:** You summon a large 3rd-level ochre jelly with 80 hp. This spell follows the summoning rules in 13 True Ways (p. 11). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
-| 7th | Summon a huge 5th-level gelatinous cube (13th Age Core Book p. 241) with 120 hp. |
-| 9th | Summon a huge 7th-level gelatinous dodecahedron (13th Age Bestiary p. 90) with 200 hp. |
+| 7th | Summon a huge 5th-level gelatinous cube with 120 hp. |
+| 9th | Summon a huge 7th-level gelatinous dodecahedron with 200 hp. |
 
 #### Thorn Cage (5th Level)
 
@@ -712,7 +712,16 @@ Once per battle, your companion can make a melee attack as an interrupt action a
 
 #### Dire Animal Companion
 
-Whenever you call a new companion, roll 1d6 on the dire animal table (CB p. 206). Your companion gains that feature.
+Whenever you call a new companion, roll 1d6 on the dire animal table Your companion gains that feature.
+
+| d6 | Feature | Description |
+| --- | --- | --- |
+| 1 | Armor plates | Add +2 to the dire animal’s AC, and add +1 to its PD. |
+| 2 | Spiky bits | Whenever an enemy hits the dire animal with a melee attack, deal damage equal to twice the animal’s level to that attacker. |
+| 3 | Carnage | The dire animal’s attacks that miss deal damage equal to its level. When staggered, its missed attacks deal damage equal to double its level. |
+| 4 | Poison | The dire animal’s main attack also deals 5 ongoing poison damage per tier (5 ongoing poison at levels 1–4, 10 at 5–7 etc.). |
+| 5 | Dire regeneration | When the escalation die is even, this animal heals damage equal to triple its level at the start of its turn. |
+| 6 | Fury | While staggered, the dire animal gains a +2 attack bonus and deals +4 damage, but at the end of each of its turns it takes 2d6 damage. |
 
 Your companion’s size increases to large, and you can ride it.
 
@@ -731,8 +740,19 @@ Your companion is a small dragon, or a beast with draconic blood. It is smarter 
 - It can fly and hover (without this, it can only make short hops and glide).
 - It gains a breath weapon spell from the sorcerer list as a bonus power, at two levels below its level (minimum 1). It uses its standard attack bonus to attack with the spell. If you choose this twice, gain the spell at the companion’s level.
 - It gains resist element 12+ (choose acid, cold, fire, lightning, poison or thunder). If you choose this ability twice, increase the bonus to 15+. If you choose it three times, increase it to 18+.
-- Roll 1d8 to give the companion a random dragon ability. See the table on Core Book p. 217. If you choose this twice, roll 1d8 twice and gain both abilities OR roll 1d12 instead.
+- Roll 1d8 to give the companion a random dragon ability. If you choose this twice, roll 1d8 twice and gain both abilities OR roll 1d12 instead.
 - It can use up to three magic items and activate their powers, which don’t count against your level limit.
+
+| d8 | Dragon Ability | Description |
+| --- | --- | --- |
+| 1 | True seeing | The dragon is immune to invisibility and ignores any illusions. |
+| 2 | Whipping tail | When an enemy engaged with the dragon rolls a natural 1 or 2 with an attack roll, the dragon can make an opportunity attack against that creature as a free action. The attack is set up by the dragon’s whipping tail but delivered by the dragon’s usual melee attack. |
+| 3 | Tough Hide | The dragon has a +1 bonus to AC. |
+| 4 | Twisted Mind | The dragon has a +2 bonus to MD. |
+| 5 | Nimble | The dragon has a +2 bonus to PD. |
+| 6 | No vulnerability | Unlike other dragons of its color, this dragon has no vulnerability. The PCs will figure that out the first time they try to use its supposed vulnerability against it. |
+| 7 | Now I’m mad! | The first time the dragon is staggered each battle, it uses its breath weapon attack as a free action that does not count against the normal uses of its breath. |
+| 8 | Serious threat | Disengage checks against the dragon take a –5 penalty. When a creature fails to disengage from the dragon, it takes damage equal to double the dragon’s level. |
 
 ##### Adventurer Feat
 
@@ -847,7 +867,7 @@ You gain a bard spell or song of up to your level as a bonus spell. You also gai
 
 ##### Adventurer Feat
 
-You can use enchanted instruments as implements. You gain Enchant Instrument (p. XX) as a bonus spell.
+You can use enchanted instruments as implements. You gain Enchant Instrument as a bonus spell.
 
 ##### Champion Feat
 
@@ -1013,7 +1033,7 @@ Add four times your Strength to melee attack damage (instead of three times).
 
 ### Circle of the Feysong Spells
 
-The spells you cast as a fey druid are an expression of your faerie nature, and many are designed to cause mischief. You get a number of spells depending on your level and whether you are an initiate, adept or master, as per the unified progression table at the start of this chapter. You choose your spells after each full heal-up.
+The spells you cast as a fey druid are an expression of your faerie nature, and many are designed to cause mischief. You get a number of spells depending on your level and whether you are an initiate, adept or master, as per the unified progression table. You choose your spells after each full heal-up.
 
 Unlike other druids, fey druids use Charisma instead of Wisdom as the main stat for their magic.
 
@@ -1240,14 +1260,14 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a 2nd-level Faun Troubadour (13 Age Bestiary 2 p. 59, 30 hp) or a 3rd-level Pixie Warrior (13 True Ways p. 198, 16 hp). This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
+**Effect:** You summon a 2nd-level Faun Troubadour (30 hp) or a 3rd-level Pixie Warrior (16 hp). This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
 For a faun, if your PD is higher than your MD, the summoned one follows the Path of the Sword, otherwise the Path of the Song.
 
 | Higher Level | Effect |
 | --- | --- |
-| 5th | Summon a 4th-level Faun Harrier, or a 5th-level Faun Keeper (13 Age Bestiary 2 p. 59, 60 hp). |
-| 7th | Summon a 6th-level Faun Enchanter, a 7th-level Faun Ranger (13 Age Bestiary 2 p. 60, 85 hp), or a 6th-level Pixie Knight (13th Age Bestiary 2 p. 67, 60 hp). |
+| 5th | Summon a 4th-level Faun Harrier, or a 5th-level Faun Keeper (60 hp). |
+| 7th | Summon a 6th-level Faun Enchanter, a 7th-level Faun Ranger (85 hp), or a 6th-level Pixie Knight (60 hp). |
 
 #### 5th Level Fey Spells
 
@@ -1337,7 +1357,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a 5th-level Great Hound (13th Age Bestiary 2 p. 67) with 120 hp. This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
+**Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
 
 ###### Adventurer Feat
 
@@ -1412,7 +1432,7 @@ In addition, some spells are in the Any Terrain category and can be cast anywher
 
 You don’t prepare spells after a full heal-up as a land druid. Instead, you can use your spell slots to cast any daily spell of the terrain you are currently in. The number of spell slots is determined by the unified spell progression table at the start of this chapter. You always cast terrain spells at the highest level you have access to.
 
-This circle also gives access to at-will and once-per battle spells. You can take the feats in 13 True Ways to gain access to them, or you can choose the Land Attunement or Sacred Grove talents to get those feats.
+This circle also gives access to at-will and once-per battle spells.
 
 ### Circle of the Land Talents
 
@@ -1624,7 +1644,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a swarm of bats with 20 hp (Bestiary p. 13), according to the summoning rules on page XX. The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
+**Effect:** You summon a swarm of bats with 20 hp, according to the summoning rules on page XX. The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2856,14 +2876,14 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a rat swarm (Bestiary 2 p. 55), according to the summoning rules on page XX. The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a rat swarm, according to the summoning rules on page XX. The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
-| 3rd | Summon a rust monster (Bestiary p. 184). |
+| 3rd | Summon a rust monster. |
 | 5th | Summon a rust monster obliterator (B184). |
 | 7th | Summon a hellstone gargoyle (B2 139). |
-| 9th | Summon a gelatinous cube (Core Book p. 241). |
+| 9th | Summon a gelatinous cube. |
 
 ##### Structural Collapse (3rd Level)
 
@@ -3249,7 +3269,7 @@ The first recovery you grant to an ally at zero hit points or below in a battle 
 
 ##### Epic Feat
 
-You gain the Cleric’s Resurrection spell (Core Book p. 100) as a bonus spell. You are subject to the same restrictions as a cleric.
+You gain the Cleric’s Resurrection spell as a bonus spell. You are subject to the same restrictions as a cleric.
 
 #### Revitalize
 
@@ -3567,7 +3587,7 @@ You can now trigger flexible attacks with the second attack roll.
 
 ### Beast Aspects
 
-You gain a number of beast aspects that you can activate while in Beast Form. The number of aspects you gain depends on your level, and whether you are an initiate, adept or master, as per the unified level progression table at the start of the druid chapter.
+You gain a number of beast aspects that you can activate while in Beast Form. The number of aspects you gain depends on your level, and whether you are an initiate, adept or master, as per the unified level progression .
 
 You can only have one beast aspect active at a time. Activating a beast aspect ends any other beast aspect you have active.
 
@@ -4213,7 +4233,7 @@ As a warrior druid, you gain flexible attacks that you can trigger when making a
 
 However, unlike the fighter, you can use your flexible attacks only once per battle.
 
-You must choose which flexible attacks you know. The number of flexible attacks you gain is determined by your class level and whether you are an initiate, adept or master. See the unified progression table at the start of the druid chapter for details. You can change the flexible attacks you know when you gain a level.
+You must choose which flexible attacks you know. The number of flexible attacks you gain is determined by your class level and whether you are an initiate, adept or master. You can change the flexible attacks you know when you gain a level.
 
 #### 1st Level Maneuvers
 

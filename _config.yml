@@ -8,7 +8,7 @@ plugins:
 show_downloads: true
 navigation:
   h_min: 2
-  h_max: 5
+  h_max: 6
   name_over_title: true
 github:
   sheet_url: https://drive.google.com/uc?export=download&id=11x6r-RT5omvPfgIoEdTv8Dezi_-9_qV2
