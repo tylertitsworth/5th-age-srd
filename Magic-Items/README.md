@@ -43,7 +43,7 @@ If you are carrying and wielding a number of items that is greater than your cur
 
 You can only have one of each type of magic item (or one pair, for boots and gloves). Rings are one for each hand. You can have as many wondrous items as your overall capacity for magic items allows.
 
-| **Type of Magic Item, aka Chakra** | **Default Bonus** **(often +1 adventurer, +2 champion, +3 epic)** |
+| **Type of Magic Item, aka Chakra** | **Default Bonus** **(often +1 adv, +2 champ, +3 epic)** |
 | --- | --- |
 | Armor, robe, shirt, tunic | Armor Class |
 | Arrow, crossbow bolt, slingstone | No default bonus. The most common type of magic ammunition expands crit range by 1 |

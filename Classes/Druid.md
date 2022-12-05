@@ -48,19 +48,19 @@ Druids start with 25gp.
 
 ## Level Progression
 
-| **Druid Level** | **Total Hit Points** | **Total Feats** | **Circle Progression** | **Spell Level** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 Initiate; 2 Adept; 3 Master | 1st | Not affected | ability modifier |
-| **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 1 Initiate; 2 Adept; 3 Master | 1st | | ability modifier |
-| **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 1 Initiate; 3 Adept; 4 Master | 1st | | ability modifier |
-| **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 1 Initiate; 3 Adept; 4 Master | 3rd | | ability modifier |
-| **Level 4** | (6 + CON mod) x 6 | 4 adventurer | 2 Initiate; 4 Adept; 5 Master | 3rd | +1 to 3 abilities | ability modifier |
-| **Level 5** | (6 + CON mod) x 8 | 4 adventurer; 1 champion | 2 Initiate; 4 Adept; 6 Master | 5th | | 2 x ability modifier |
-| **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion | 2 Initiate; 5 Adept; 7 Master | 5th | | 2 x ability modifier |
-| **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | 3 Initiate; 5 Adept; 7 Master | 7th |+1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | 3 Initiate; 6 Adept; 8 Master | 7th | | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | 3 Initiate; 6 Adept; 9 Master | 9th | | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | 4 Initiate; 7 Adept; 10 Master | 9th | +1 to 3 abilities | 3 x ability modifier |
+| **Druid Level** | **Total Hit Points** | **Total Feats** | **Initiate Circle Progression** | **Adept Circle Progression** | **Master Circle Progression** | **Spell Level** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 | 2 | 3 | 1st | Not affected | ability modifier |
+| **Level 1** | (6 + CON mod) x 3 | 1 adv | 1 | 2 | 3 | 1st | | ability modifier |
+| **Level 2** | (6 + CON mod) x 4 | 2 adv | 1 | 3 | 4 | 1st | | ability modifier |
+| **Level 3** | (6 + CON mod) x 5 | 3 adv | 1 | 3 | 4 | 3rd | | ability modifier |
+| **Level 4** | (6 + CON mod) x 6 | 4 adv | 2 | 4 | 5 | 3rd | +1 to 3 abilities | ability modifier |
+| **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 2 | 4 | 6 | 5th | | 2 x ability modifier |
+| **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 2 | 5 | 7 | 5th | | 2 x ability modifier |
+| **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 3 | 5 | 7 | 7th |+1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 | 6 | 8 | 7th | | 3 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 3 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 3 x ability modifier |
 
 ## Stats
 

@@ -49,16 +49,16 @@ Psions start with 25gp.
 | **Psion Level** | **Total Hit Points** | **Total Feats** | **Daily Affinities (H)** | **Once-per-Battle Affinities (H)** | **Affinity Level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 | 1 | 1st level | _Not affected_ | ability modifier |
-| **Level 1** | (6 + CON mod) x 3 | 1 adventurer | 2 | 1 | 1st level | — | ability modifier |
-| **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 3 | 1 | 1st level | — | ability modifier |
-| **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 1 | 3rd level | — | ability modifier |
-| **Level 4** | (6 + CON mod) x 6 | 4 adventurer | 4 | 1 | 3rd level | +1 to 3 abilities | ability modifier |
-| **Level 5** | (6 + CON mod) x 8 | 4 adventurer; 1 champion | 4 | 1 | 5th level | — | 2 x ability modifier |
-| **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion | 4 | 2 | 5th level | — | 2 x ability modifier |
-| **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | 4 | 2 | 7th level | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | 5 | 2 | 7th level | — | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | 5 | 2 | 9th level | — | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | 6 | 2 | 9th level | +1 to 3 abilities | 3 x ability modifier |
+| **Level 1** | (6 + CON mod) x 3 | 1 adv | 2 | 1 | 1st level | — | ability modifier |
+| **Level 2** | (6 + CON mod) x 4 | 2 adv | 3 | 1 | 1st level | — | ability modifier |
+| **Level 3** | (6 + CON mod) x 5 | 3 adv | 3 | 1 | 3rd level | — | ability modifier |
+| **Level 4** | (6 + CON mod) x 6 | 4 adv | 4 | 1 | 3rd level | +1 to 3 abilities | ability modifier |
+| **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 4 | 1 | 5th level | — | 2 x ability modifier |
+| **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 4 | 2 | 5th level | — | 2 x ability modifier |
+| **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 4 | 2 | 7th level | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5 | 2 | 7th level | — | 3 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5 | 2 | 9th level | — | 3 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6 | 2 | 9th level | +1 to 3 abilities | 3 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 

@@ -44,17 +44,17 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 | **Monk** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Forms (H)** | **Ki (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 adventurer (3 total) | 2 adventurer | 0 + Wis mod | Not affected | ability modifier |
-| **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 3 adventurer | 2 adventurer | 1 + Wis mod |  | ability modifier |
-| **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 3 adventurer | 2 adventurer | 2 + Wis mod |  | ability modifier |
-| **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3 adventurer | 3 adventurer | 2 + Wis mod |  | ability modifier |
-| **Level 4** | (7 + CON mod) x 6 | 4 adventurer | 3 adventurer | 3 adventurer | 2 + Wis mod | +1 to 3 abilities | ability modifier |
-| **Level 5** | (7 + CON mod) x 8 | 4 adventurer; 1 champion | 3 adventurer | 3 adventurer,1 champion | 3 + Wis mod |  | 2 x ability modifier |
-| **Level 6** | (7 + CON mod) x 10 | 4 adventurer; 2 champion | 3 adventurer; 1 champion | 3 adventurer; 1 champion | 3 + Wis mod |  | 2 x ability modifier |
-| **Level 7** | (7 + CON mod) x 12 | 4 adventurer; 3 champion | 3 adventurer; 1 champion | 2 adventurer; 2 champion | 3 + Wis mod | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | 3 adventurer; 1 champion | 2 adventurer; 2 champion; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | 3 adventurer; 1 champion; 1 epic | 2 adventurer; 2 champion; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | 3 adventurer; 1 championepic | 2 adventurer; 2 champion; 2 epic | 3 + Wis mod | +1 to 3 abilities | 3 x ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 1 or 2 adv (3 total) | 2 adv | 0 + Wis mod | Not affected | ability modifier |
+| **Level 1** | (7 + CON mod) x 3 | 1 adv | 3 adv | 2 adv | 1 + Wis mod |  | ability modifier |
+| **Level 2** | (7 + CON mod) x 4 | 2 adv | 3 adv | 2 adv | 2 + Wis mod |  | ability modifier |
+| **Level 3** | (7 + CON mod) x 5 | 3 adv | 3 adv | 3 adv | 2 + Wis mod |  | ability modifier |
+| **Level 4** | (7 + CON mod) x 6 | 4 adv | 3 adv | 3 adv | 2 + Wis mod | +1 to 3 abilities | ability modifier |
+| **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | 3 adv | 3 adv,1 champ | 3 + Wis mod |  | 2 x ability modifier |
+| **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | 3 adv; 1 champ | 3 adv; 1 champ | 3 + Wis mod |  | 2 x ability modifier |
+| **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | 3 adv; 1 champ | 2 adv; 2 champ | 3 + Wis mod | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 adv; 1 champ | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 adv; 1 champ; 1 epic | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 3 adv; 1 championepic | 2 adv; 2 champ; 2 epic | 3 + Wis mod | +1 to 3 abilities | 3 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 

@@ -48,17 +48,17 @@ Bards start with 25gp.
 
 | **Bard Level** | **Total Hit Points** | **Total Feats** | **Battle Cries (H)** | **Spells & Songs, 1st level (H)** | **Spells & Songs, 3rd level (H)** | **Spells & Songs, 5th level (H)** | **Spells & Songs, 7th level (H)** | **Spells & Songs, 9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Hybrid** | (Avg. of both classes) x **3** | 1 adventurer | 2 | 2 | — | — | — | — | _Not affected_ | ability modifier |
-| **Level 1** | (7 + CON mod) x 3 | 1 adventurer | 2 | 2 | — | — | — | — |  | ability modifier |
-| **Level 2** | (7 + CON mod) x 4 | 2 adventurer | 2, up to 1st level | 3 | — | — | — | — |  | ability modifier |
-| **Level 3** | (7 + CON mod) x 5 | 3 adventurer | 3, up to 3rd level | 1 | 2 | — | — | — |  | ability modifier |
-| **Level 4** | (7 + CON mod) x 6 | 4 adventurer | 3, up to 3rd level | — | 4 | — | — | — | +1 to 3 abilities | ability modifier |
-| **Level 5** | (7 + CON mod) x 8 | 4 adventurer; 1 champion | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
-| **Level 6** | (7 + CON mod) x 10 | 4 adventurer; 2 champion | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
-| **Level 7** | (7 + CON mod) x 12 | 4 adventurer; 3 champion | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x **3** | 1 adv | 2 | 2 | — | — | — | — | _Not affected_ | ability modifier |
+| **Level 1** | (7 + CON mod) x 3 | 1 adv | 2 | 2 | — | — | — | — |  | ability modifier |
+| **Level 2** | (7 + CON mod) x 4 | 2 adv | 2, up to 1st level | 3 | — | — | — | — |  | ability modifier |
+| **Level 3** | (7 + CON mod) x 5 | 3 adv | 3, up to 3rd level | 1 | 2 | — | — | — |  | ability modifier |
+| **Level 4** | (7 + CON mod) x 6 | 4 adv | 3, up to 3rd level | — | 4 | — | — | — | +1 to 3 abilities | ability modifier |
+| **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
+| **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
+| **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels
 

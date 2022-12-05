@@ -49,16 +49,16 @@ Necromancers start with 25gp.
 | **Necromancer** | **Total Hit Points** | **Total Feats** | **1st level (H)** | **3rd level (H)** | **5th level (H)** | **7th level (H)** | **9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Hybrid** | (Avg. of both classes) x 3 | As 1st level PC | 3 | — | — | — | — | Not affected | ability modifier |
-| **Level 1** | (6 + CON mod\*) x 3 | 1 adventurer | 4 | — | — | — | — |  | ability modifier |
-| **Level 2** | (6 + CON mod) x 4 | 2 adventurer | 5 | — | — | — | — |  | ability modifier |
-| **Level 3** | (6 + CON mod) x 5 | 3 adventurer | 3 | 3 | — | — | — |  | ability modifier |
-| **Level 4** | (6 + CON mod) x 6 | 4 adventurer | — | 6 | — | — | — | +1 to 3 abilities | ability modifier |
-| **Level 5** | (6 + CON mod) x 8 | 4 adventurer; 1 champion | — | 3 | 4 | — | — |  | 2 x ability modifier |
-| **Level 6** | (6 + CON mod) x 10 | 4 adventurer; 2 champion | — | — | 7 | — | — |  | 2 x ability modifier |
-| **Level 7** | (6 + CON mod) x 12 | 4 adventurer; 3 champion | — | — | 3 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adventurer; 3 champion; 1 epic | — | — | — | 8 | — |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adventurer; 3 champion; 2 epic | — | — | — | 3 | 6 |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adventurer; 3 champion; 3 epic | — | — | — | — | 9 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 1** | (6 + CON mod\*) x 3 | 1 adv | 4 | — | — | — | — |  | ability modifier |
+| **Level 2** | (6 + CON mod) x 4 | 2 adv | 5 | — | — | — | — |  | ability modifier |
+| **Level 3** | (6 + CON mod) x 5 | 3 adv | 3 | 3 | — | — | — |  | ability modifier |
+| **Level 4** | (6 + CON mod) x 6 | 4 adv | — | 6 | — | — | — | +1 to 3 abilities | ability modifier |
+| **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | — | 3 | 4 | — | — |  | 2 x ability modifier |
+| **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | — | — | 7 | — | — |  | 2 x ability modifier |
+| **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | — | — | 3 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | — | — | — | 8 | — |  | 3 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | — | — | — | 3 | 6 |  | 3 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | — | — | — | — | 9 | +1 to 3 abilities | 3 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 

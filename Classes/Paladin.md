@@ -48,17 +48,17 @@ Paladins start with 25gp.
 
 | **Paladin** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- |
-| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 3 | _Not affected_ | ability modifier |
-| **Level 1** | (8 + CON mod) x **3** | 1 adventurer | 3 |  | ability modifier |
-| **Level 2** | (8 + CON mod) x **4** | 2 adventurer | 3 |  | ability modifier |
-| **Level 3** | (8 + CON mod) x **5** | 3 adventurer | 3 |  | ability modifier |
-| **Level 4** | (8 + CON mod) x **6** | 4 adventurer | 3 | +1 to 3 abilities | ability modifier |
-| **Level 5** | (8 + CON mod) x **8** | 4 adventurer; 1 champion | 4 |  | 2 x ability modifier |
-| **Level 6** | (8 + CON mod) x **10** | 4 adventurer; 2 champion | 4 |  | 2 x ability modifier |
-| **Level 7** | (8 + CON mod) x **12** | 4 adventurer; 3 champion | 4 | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (8 + CON mod) x **16** | 4 adventurer; 3 champion; 1 epic | 5 |  | 3 x ability modifier |
-| **Level 9** | (8 + CON mod) x **20** | 4 adventurer; 3 champion; 2 epic | 5 |  | 3 x ability modifier |
-| **Level 10** | (8 + CON mod) x **24** | 4 adventurer; 3 champion; 3 epic | 5 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adv | 3 | _Not affected_ | ability modifier |
+| **Level 1** | (8 + CON mod) x **3** | 1 adv | 3 |  | ability modifier |
+| **Level 2** | (8 + CON mod) x **4** | 2 adv | 3 |  | ability modifier |
+| **Level 3** | (8 + CON mod) x **5** | 3 adv | 3 |  | ability modifier |
+| **Level 4** | (8 + CON mod) x **6** | 4 adv | 3 | +1 to 3 abilities | ability modifier |
+| **Level 5** | (8 + CON mod) x **8** | 4 adv; 1 champ | 4 |  | 2 x ability modifier |
+| **Level 6** | (8 + CON mod) x **10** | 4 adv; 2 champ | 4 |  | 2 x ability modifier |
+| **Level 7** | (8 + CON mod) x **12** | 4 adv; 3 champ | 4 | +1 to 3 abilities | 2 x ability modifier |
+| **Level 8** | (8 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 5 |  | 3 x ability modifier |
+| **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 3 x ability modifier |
+| **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 3 x ability modifier |
 
 ## Stats
 

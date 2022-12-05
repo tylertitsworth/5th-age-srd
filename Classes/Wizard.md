@@ -50,17 +50,17 @@ Wizards start with 25gp.
 
 | **Wizard Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adventurer | 5 | — | — | — | — | _Not affected_ |
-| **Level 1** | (6 + CON mod) x **3** | 1 adventurer | 5 | — | — | — | — |  |
-| **Level 2** | (6 + CON mod) x **4** | 2 adventurer | 6 | — | — | — | — |  |
-| **Level 3** | (6 + CON mod) x **5** | 3 adventurer | 3 | 4 | — | — | — |  |
-| **Level 4** | (6 + CON mod) x **6** | 4 adventurer | 2 | 6 | — | — | — | +1 to 3 abilities |
-| **Level 5** | (6 + CON mod) x **8** | 4 adventurer; 1 champion | 1 | 4 | 4 | — | — |  |
-| **Level 6** | (6 + CON mod) x **10** | 4 adventurer; 2 champion | — | 2 | 8 | — | — |  |
-| **Level 7** | (6 + CON mod) x **12** | 4 adventurer; 3 champion | — | 1 | 4 | 5 | — | +1 to 3 abilities |
-| **Level 8** | (6 + CON mod) x **16** | 4 adventurer; 3 champion; 1 epic | — | — | 3 | 8 | — |  |
-| **Level 9** | (6 + CON mod) x **20** | 4 adventurer; 3 champion; 2 epic | — | — | 1 | 5 | 6 |  |
-| **Level 10** | (6 + CON mod) x **24** | 4 adventurer; 3 champion; 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities |
+| **Level 1 Hybrid** | (Avg. of both classes) x 3 | 1 adv | 5 | — | — | — | — | _Not affected_ |
+| **Level 1** | (6 + CON mod) x **3** | 1 adv | 5 | — | — | — | — |  |
+| **Level 2** | (6 + CON mod) x **4** | 2 adv | 6 | — | — | — | — |  |
+| **Level 3** | (6 + CON mod) x **5** | 3 adv | 3 | 4 | — | — | — |  |
+| **Level 4** | (6 + CON mod) x **6** | 4 adv | 2 | 6 | — | — | — | +1 to 3 abilities |
+| **Level 5** | (6 + CON mod) x **8** | 4 adv; 1 champ | 1 | 4 | 4 | — | — |  |
+| **Level 6** | (6 + CON mod) x **10** | 4 adv; 2 champ | — | 2 | 8 | — | — |  |
+| **Level 7** | (6 + CON mod) x **12** | 4 adv; 3 champ | — | 1 | 4 | 5 | — | +1 to 3 abilities |
+| **Level 8** | (6 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | — | — | 3 | 8 | — |  |
+| **Level 9** | (6 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | — | — | 1 | 5 | 6 |  |
+| **Level 10** | (6 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | — | — | — | 3 | 9 | +1 to 3 abilities |
 
 >Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
