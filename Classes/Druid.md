@@ -323,7 +323,7 @@ At-will
 
 Hasten the process of decay by drawing life from that which still lives.
 
-Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier (x2 at 5th level; x3 at 8th) negative energy damage to a nearby enemy.
+Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, negative energy damage to a nearby enemy.
 
 You also gain the Leeching Fingers at-will spell as a bonus spell.
 
@@ -1250,7 +1250,7 @@ Quick action
 
 | Higher Level | Effect |
 | --- | --- |
-| 3rd | At the start of your turn, deal cold damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) to all enemies engaged with you. |
+| 3rd | At the start of your turn, deal cold damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to all enemies engaged with you. |
 | 5th | resist cold 15+. |
 | 9th | resist cold 18+. |
 
@@ -2675,7 +2675,7 @@ Once per battle
 
 **Miss:** Damage equal to your level
 
-**Always:** Until the end of your next turn, deal thunder damage equal to your Strength + Dexterity modifier (x2 at 5th level; x3 at 8th) to all enemies who engage you.
+**Always:** Until the end of your next turn, deal thunder damage equal to your Strength + Dexterity modifier, twice at 5th level and thrice at 8th, to all enemies who engage you.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3204,7 +3204,7 @@ Druids of this circle are known as life druids or simply healers.
 
 #### Font of Life
 
-Whenever you grant yourself or an ally the use of a recovery to heal, add your Wisdom modifier to the amount healed (x2 at 5th level; x3 at 5th). In case of Regeneration, add the bonus before halving the amount.
+Whenever you grant yourself or an ally the use of a recovery to heal, add your Wisdom modifier to the amount healed, twice at 5th level and thrice at 8th level. In case of Regeneration, add the bonus before halving the amount.
 
 ##### Adventurer Feat
 
@@ -3232,7 +3232,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom holy damage. A nearby conscious ally heals hit points equal to your Wisdom modifier (x2 at 5th level, x3 at 8th).
+**Hit:** 1d6 + Wisdom holy damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
 
 **Miss:** Damage equal to your level
 
@@ -3660,7 +3660,7 @@ When you activate a beast aspect, you can grant the benefit to a nearby ally ins
 
 ##### Adventurer Feat
 
-Allies you target with an aspect also gain temporary hit points equal to your Wisdom modifier (x2 at 5th level; x3 at 8th).
+Allies you target with an aspect also gain temporary hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th.
 
 ##### Champion Feat
 
@@ -3962,7 +3962,7 @@ Daily, or recharge 16+ for adepts
 
 Quick action
 
-_Initiate Effect:_ Until the end of the battle, deal poison damage equal to your Strength or Dexterity modifier (2x at 5th level; 3x at 8th) against targets that make a melee attack against you. If you are grabbed or swallowed by the attack, deal double damage.
+_Initiate Effect:_ Until the end of the battle, deal poison damage equal to your Strength or Dexterity modifier, twice at 5th level and thrice at 8th level, against targets that make a melee attack against you. If you are grabbed or swallowed by the attack, deal double damage.
 
 _Adept Effect:_ As the initiate effect, and once per round as a quick action, you can make a Dexterity + Level close-quarters attack against a nearby enemy that deals 1d6 per level poison damage.
 
@@ -4040,7 +4040,7 @@ Quick action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
-**Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
+**Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th, to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
 
 ##### Adventurer Feat
 
@@ -4201,7 +4201,7 @@ Your AC in light armor is 12 instead of 10 like most other druids, and you donâ€
 
 ##### Adventurer Feat
 
-When you use a recovery to heal, add your Wisdom modifier (x2 at 5th level; x3 at 8th) to the amount of hp healed.
+When you use a recovery to heal, add your Wisdom modifier, twice at 5th level and thrice at 8th, to the amount of hp healed.
 
 ##### Champion Feat
 
@@ -4266,7 +4266,7 @@ Flexible once-per-battle melee attack
 
 ###### Adventurer Feat
 
-Add your Constitution modifier to the extra damage (x2 at 5th level; x3 at 8th).
+Add your Constitution modifier to the extra damage, twice at 5th level and thrice at 8th.
 
 #### 3rd Level Maneuvers
 
@@ -4276,7 +4276,7 @@ Flexible once-per-battle melee attack
 
 **Triggering Roll:** Any natural odd roll
 
-**Effect:** Until the end of your next turn, enemies that engage you or disengage from you take lightning damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) plus level. If you have a Circle of the Elements talent, the effect lasts until the end of the battle.
+**Effect:** Until the end of your next turn, enemies that engage you or disengage from you take lightning damage equal to your Wisdom modifier, twice at 5th level and thrice at 8th, plus level. If you have a Circle of the Elements talent, the effect lasts until the end of the battle.
 
 ###### Adventurer Feat
 
