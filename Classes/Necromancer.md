@@ -164,13 +164,47 @@ One battle per day, you can choose to succeed with death saves on an 11+ instead
 
 ## Class Talents
 
+### Black Cabalist
+
+You have advantage (roll twice and take the better result) on skill checks regarding occult lore, death, and necromancy. This includes skill checks you make to cast necromantic rituals.
+
+#### Adventurer Feat
+
+Once per day, when you cast a necromancer spell, narrate how you studied the spell in a flashback. You have advantage on the first attack roll with the spell.
+
+#### Champion Feat
+
+If you invest a feat into a necromancer spell, you also gain the benefits of any other feat of that spell, up to your current tier.
+
+#### Epic Feat
+
+Once per day, you can cast a necromantic ritual by sacrificing a living creature instead of expending a spell.
+
+### Bloodseeker
+
+You have advantage on skill checks to sense the heartbeat of nearby living creatures.
+
+Once per battle, you can drink a cup of blood as a standard action to fuel your magic, similar to a sorcerer gathering power. Heal hit points equal to your Charisma modifier, twice at 5th level and thrice at 8th, + level. The next spell you cast this battle deals double damage. If that spell is a summoning spell, the creature you summon has advantage on its first attack, and that attack deals double damage.
+
+#### Adventurer Feat
+
+When you cast an empowered necromancer spell, the target is vulnerable to it (+2 to your critical threat range).
+
+#### Champion Feat
+
+When you gather power, you can also save against a “save ends” effect.
+
+#### Epic Feat
+
+You now heal your Charisma modifier x3 + twice your level.
+
 ### Cackling Soliloquist
 
 If you spend your move action, your quick action, _and_ your standard action casting a daily spell that ordinarily only requires a standard action—while screaming grandiloquently, cackling maniacally, or megalomaniacally describing the grandeur of your plans and the futility of your enemies' resistance—the daily spell is recharge 18+ after battle instead of daily, and you can invent a slight improvement to the spell, especially if it's partly story-oriented, that provides an extra benefit determined by the GM or by you (with GM approval).
 
 #### Adventurer Feat
 
-You gain temporary hit points equal to 1d6 + your level + Charisma modifier when you use Cackling Soliloquist (double your Charisma modifier at 5th level; triple it at 8th level).
+You gain temporary hit points equal to 1d6 + your level + Charisma modifier when you use Cackling Soliloquist, double your Charisma modifier at 5th level, and triple it at 8th level.
 
 #### Champion Feat
 
@@ -246,6 +280,42 @@ Double the healing gained from Deathknell when you drop an enemy.
 #### Epic Feat
 
 You can increase the escalation die by 1 instead of healing when you kill a non-mook enemy with Deathknell.
+
+### Eternal Tormentor
+
+_Special:_ You cannot choose both this talent and the Redeemer talent.
+
+Undead you summon deal extra damage equal to your level on a hit.
+
+However, if an undead you summoned rolls a natural 1 on an attack, your control slips and it is free to act as it pleases (under GM control). Brainless undead like skeletons and zombies just shuffle off or attack the nearest living creature until destroyed, whereas intelligent undead like wraiths will try to get back at their tormentor. You cannot dismiss undead who have slipped from your control. As a standard action, you can attempt to regain control of your summoned undead with an Intelligence + Level vs. MD attack.
+
+#### Adventurer Feat
+
+On a critical hit, your summoned undead deal 1d6 extra damage (2d6 at 5th level; 3d6 at 8th).
+
+#### Champion Feat
+
+When you spend a quick action to allow a summoned undead to benefit from the escalation die (as per the summoning rules on page XX), it gains a +2 bonus to its critical threat range that round.
+
+#### Epic Feat
+
+Your non-mook summoned undead deal 3d6 extra damage on normal hits too.
+
+### Grave Bond
+
+Whenever you spend a recovery to heal, one nearby undead you summoned, or your skeletal minion, heals half of the amount.
+
+#### Adventurer Feat
+
+You can choose to grant the full amount to the undead and heal half the amount yourself.
+
+#### Champion Feat
+
+When you heal your summoned undead with this talent, the target also gains a +2 bonus to attacks and defenses until the end of your next turn.
+
+#### Epic Feat
+
+All other undead under your control, except the primary target, heal a quarter of the amount.
 
 ### It's Complicated
 
@@ -367,6 +437,22 @@ Like animal companion feats, skeletal minion feats don't build on each other. Yo
 
 - Your skeletal minion gains a +2 bonus to all defenses.
 
+### Solemn Beauty
+
+The first time an enemy rolls a save against an effect from your necromancer spells, increase the save DC by your Charisma modifier. This includes saves against ongoing damage. Note that a natural roll of 18+ always saves.
+
+#### Adventurer Feat
+
+When an enemy fails a save against one of your spells, heal hit points equal to the spell level.
+
+#### Champion Feat
+
+Once per scene, you gain advantage on a Charisma-based skill check, as you enthrall the target with your otherworldly presence.
+
+#### Epic Feat
+
+Against mooks and normal-strength enemies, you always increase the save DC, not just the first.
+
 ### Sorta Dead
 
 In some ways, you're dead already. You don't need to eat or sleep or breathe. You can't drown in normal water/liquid, though magical gas will still affect you.
@@ -387,7 +473,57 @@ The spells _zombie form_, _ghoul form_, _ghost form_, and _vampiric form_ all fu
 
 No undead creature that is not under the direct command of a necromantic relationship can attack you unless you attack it or cast a spell against it first.
 
+### Tomb Knight
+
+You can wield one-handed martial melee weapons and wear shields and heavy armor without an attack penalty. Increase your base AC in heavy armor to 13.
+
+You gain a 3-point skill put toward knightly virtues, such as heraldry, falconry, jousting, or courtly love.
+
+_Special:_ If you are a hybrid necromancer, you now count as a “skillful warrior” and no longer reduce your WEAPON die from the necromancer side. However, you lose one necromancer spell slot of the highest level you can cast.
+
+#### Adventurer Feat
+
+When wielding a shield, you can cast ranged necromancer spells without provoking opportunity attacks.
+
+#### Champion Feat
+
+If you hit with your next melee attack after you cast a necromancer spell, you deal additional negative energy damage equal to the spell level. Only count the highest level spell, multiple spells do not stack.
+
+#### Epic Feat
+
+You gain a +1 bonus to hit with necromancer spells against enemies you are engaged with.
+
+### Vigor Mortis
+
+Increase your base PD to 11 and your base hit points to 7 + Con.
+
+Once per day per Dexterity modifier (minimum 1), you can perform a bizarre freak show stunt with your body. Bend it in unnatural ways, pierce it, cough up bugs, maybe even detach and reattach a limb. If you stare into the disgusted faces of your fellow players, you are doing it right. This does not require a skill check, unless the GM decides to require one, such as for a particularly artistic execution.
+
+#### Adventurer Feat
+
+While staggered, increase your recovery dice to d8s.
+
+#### Champion Feat
+
+You can expend one use of your stunt as an interrupt action to reduce the damage you take from a physical attack to half.
+
+#### Epic Feat
+
+Gain three extra daily uses of your stunt.
+
 ## 1st Level Spells
+
+### Bat Form
+
+Close-quarters spell
+
+Daily
+
+**Effect:** You transform into a small, winged, bat-like creature with glowing red eyes. In bat form, you can fly, locate objects via echolocation, hunt insects, and sleep upside down, but you can’t really fight. Your small size and erratic movement makes you harder to hit (+2 AC), but if you take any damage, you revert back to your normal form. Otherwise, you can stay in bat form for up to a full day, or change back as a standard action any time. You cannot cast spells in bat form.
+
+#### Champion Feat
+
+You can transform one ally per spell level into a bat.
 
 ### Channel Life
 
@@ -457,6 +593,35 @@ Misses now deal damage equal to your level.
 
 While the escalation die is 4+,you can now target two nearby enemies with the fewest hit points with this spell.
 
+### Chill Touch
+
+Close-quarters spell
+
+At-will
+
+**Target:** One enemy you are engaged with
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 1d8 + Intelligence cold damage, and the target takes a -2 penalty to attack rolls until the end of your next turn.
+
+**Miss:** Damage equal to your level
+
+|Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d8 damage |
+| 5th | 5d8 damage |
+| 7th | 7d8 damage |
+| 9th | 10d8 damage |
+
+#### Champion Feat
+
+On a natural even hit, the target is dazed instead (-4 to attack) taking a -2 penalty.
+
+#### Epic Feat
+
+Deal 15 damage to all other enemies you are engaged with.
+
 ### Command Undead
 
 Ranged spell
@@ -523,22 +688,101 @@ When you roll a natural even hit against a target with this spell, the ongoing n
 
 The spell can also target MD instead of PD.
 
+### Death's Memory
+
+Close-quarters spell
+
+Recharge 17+
+
+**Effect:** Touch a corpse of a creature to receive a vision of how it died. You can use this spell on other objects, too, to receive a vision of its connection to death, if any, for example a murder weapon.
+
+#### Adventurer Feat
+
+The spell is now Recharge 13+.
+
+### Minor Drain
+
+Ranged spell
+
+Anti-Cyclic (cast once per battle OR at-will when the escalation die is odd)
+
+**Target:** One nearby creature
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 1d4 + Intelligence negative energy damage, and you heal hit points equal to half the damage dealt.
+
+**Miss:** Deal damage and heal hit points equal to your level.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3d4 damage |
+| 5th | 5d4 damage |
+| 7th | 7d4 damage |
+| 9th | 9d4 damage |
+
+#### Adventurer Feat
+
+You can grant any healing that would go above your maximum hit points to a nearby ally instead.
+
+#### Champion Feat
+
+Increase the damage dice to d6s.
+
+#### Epic Feat
+
+Increase the damage dice to d8s.
+
+### Sense Death
+
+Close-quarters spell
+
+Daily
+
+**Effect:** For the next 1d6 hours, you have a heightened awareness of the presence of death around you. You have advantage on skill checks to sense the presence of undead creatures and lingering spirits of the deceased. You also sense nearby dangers that have killed someone in the past, such as the deadly traps that protect an ancient tomb.
+
+#### Adventurer Feat
+
+You can cast the spell on a nearby ally.
+
+### Spectral Hand
+
+Close-quarters spell
+
+Recharge 11+
+
+Quick action
+
+**Effect:** Create a floating hand of spectral matter that lasts until the end of the battle. The hand can engage a nearby enemy when you create it, and you can move it to a different enemy as a quick action. Through the hand, you can target this enemy with any of your spells, regardless of the spell’s normal range. The spell does not provoke opportunity attacks. The hand has your defenses, and hit points equal to twice the spell level. It ignores any damage except force and holy damage.
+
+#### Adventurer Feat
+
+The hand can now engage far away enemies.
+
+#### Champion Feat
+
+Spells cast through the hand deal extra damage equal to the Spectral Hand’s spell level.
+
+#### Epic Feat
+
+You can move the hand as a free action on your turn.
+
 ### Summon Undead (1st level+)
 
 Ranged spell
 
 Daily
 
-**Effect:** You summon a mob of 1d3 + 1 crumbling skeleton mooks, as per the summoning rules. These skeletons fight for you until the end of the battle or until they drop to 0 hp, whichever comes first.
+**Effect:** You summon a mob of 1d3 + 1 crumbling skeleton mooks or 1d3 + 1 bone archers, as per the summoning rules. These skeletons fight for you until the end of the battle or until they drop to 0 hp, whichever comes first.
 
 As you cast the spell at higher levels, the mooks you summon vary, as shown below. The stats for each mob of mooks you can summon are also shown below.
 
 | Higher Level | Effect |
 | --- | --- |
-| 3rd | 1d3 + 1 putrid zombie mooks. |
-| 5th | 1d3 + 1 starving ghoul mooks. |
-| 7th | 1d3 + 1 masterless vampire spawn mooks. |
-| 9th | 1d3 + 1 Blackamber skeletal warrior mooks. |
+| 3rd | 1d3 + 1 putrid zombie mooks or 1d3 + 1 zombombies |
+| 5th | 1d3 + 1 starving ghoul mooks or 1d3 + 1 skeletal mages |
+| 7th | 1d3 + 1 masterless vampire spawn mooks or 1d3 + 1 giant skeletons |
+| 9th | 1d3 + 1 Blackamber skeletal warrior mooks or 1d3 + 1 minor liches |
 
 #### Champion Feat
 
@@ -554,12 +798,46 @@ If one or more mooks summoned by the spell survive the battle, you can keep one 
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **10** **6** |
 
+#### Bone Archer
+
+| **Normal** **1st level** | Initiative: +6; Vulnerability: holy; (Ranged) **Skeletal Bow +6 vs. AC** **—** 3 damage | **AC** **PD** | **13** **14** |
+| --- | --- | --- | --- |
+| **Mook** **Undead** | _Resist weapons 15+:_ When a weapon attack targets this creature, the attacker must roll a natural 15+ on the attack roll or it only deals half damage. | **MD** **HP** | **10** **5** |
+
+##### Higher Level Advancement
+
+For each additional level tier, add this bonus to the stats found in the table below.
+
+| Level | Attack | Damage | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3rd | +2 | +3 | +2 | +2 | +2 | +3 |
+| 5th | +3 | +3 | +3 | +3 | +3 | +4 |
+| 7th | +2 | +7 | +2 | +2 | +2 | +6 |
+| 9th | +3 | +8 | +3 | +3 | +3 | +9 |
+
 #### Putrid Zombie
 
 | **Normal** **3rd level** | Initiative: +2; Vulnerability: holy; **Rotting fist +7 vs. AC—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural 16+:_ Both the zombie and its target take 1d6 damage! | **MD** **HP** | **12** **16** |
 | | _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | | |
+
+##### Zombombie
+
+| **Normal** **3rd level** | Initiative: +2; Vulnerability: holy; **Putrid Claw +7 vs. PD—** (When the zombombie is killed, against all enemies engaged with it) 2d10 poison damage | **AC** **PD** | **13** **14** |
+| --- | --- | --- | --- |
+| **Mook** **Undead** | _Miss:_ Half damage; _Always:_ 1d10 poison damage to each ally engaged with at least one target | **MD** **HP** | **10** **12** |
+| | _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | | |
+
+##### Higher Level Advancement
+
+For each additional level tier, add this bonus to the stats found in the table below. For Explosion damage, replace with the values given.
+
+| Level | Attack | Damage | Explosion Damage | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5th | +3 | +3 | 3d10/2d6 | +3 | +3 | +3 | +4 |
+| 7th | +2 | +6 | 4d10/2d10 | +2 | +2 | +2 | +6 |
+| 9th | +3 | +7 | 6d10/3d10 | +3 | +3 | +3 | +8 |
 
 #### Starving Ghoul
 
@@ -568,12 +846,48 @@ If one or more mooks summoned by the spell survive the battle, you can keep one 
 | **Mook** **Undead** | _Natural 16+_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **14** **18** |
 | | _Pound of flesh:_ The starving ghoul's _ripping claws_ attack deals +5 damage against vulnerable targets. | | |
 
+#### Skeletal Mage
+
+When you summon a skeletal mage, roll on the table below:
+
+| d4 | Element |
+| --- | --- |
+| 1 | Fire |
+| 2 | Cold |
+| 3 | Lightning |
+| 4 | Poison |
+
+| **Normal** **5th level** | Initiative: +9; Vulnerability: holy; (Ranged) **Bone Magic +9 vs. PD** **—** 10 (random element) damage, +3 for each other nearby skeletal mage | **AC** **PD** | **17** **15** |
+| --- | --- | --- | --- |
+| **Mook** **Undead** | _Resist (random element) 13+:_ When a (random element) attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage. | **MD** **HP** | **19** **20** |
+
+#### Higher Level Advancement
+
+For each additional level tier, add this bonus to the stats found in the table below.
+
+| Level | Attack | Damage | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7th | +2 | +5 and +2/mage | +2 | +2 | +2 | +12 |
+| 9th | +3 | +7 and +3/mage | +3 | +3 | +3 | +18 |
+
 #### Masterless Vampire Spawn
 
 | **Normal** **7th level** | Initiative: +11; Vulnerability: holy; **Claw +11 vs. AC—** 14 damage | **AC** **PD** | **22** **19** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural even hit:_ The vampire spawn can make a _fangs_ attack against the target as a free action. | **MD** **HP** | **17** **24** |
 | | _[Special trigger]_ **Fangs +15 vs. AC—** 7 damage, and a humanoid target is weakened (–4 attack and defenses) until the end of the masterless vampire spawn's next turn | | |
+
+#### Giant Skeleton
+
+| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Giant Femur Club +9 vs. AC—** 25 damage | **AC** **PD** | **21** **20** |
+| --- | --- | --- | --- |
+| **Mook** **Undead** | _Resist 15+:_ When a weapon attack targets this creature, the attacker must roll a natural 15+ on the attack roll or it only deals half damage. | **MD** **HP** | **16** **33** |
+
+##### Higher Level Advancement
+
+| Level | Attack | Damage | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9th | +3 | +15 | +2 | +2 | +2 | +22 |
 
 #### Blackamber Skeletal Warrior
 
@@ -583,6 +897,12 @@ If one or more mooks summoned by the spell survive the battle, you can keep one 
 | | _Natural even miss:_ 10 damage. **R: Javelin** **+13 vs. AC** **—** 24 damage | | |
 | | _Press advantage:_ The warrior deals +1d10 damage with its attacks against enemies that have a lower initiative than it. | | |
 | | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | | |
+
+#### Minor Lich
+
+| **Normal** **9th level** | Initiative: +15; Vulnerability: holy; (Ranged) **finger of Death +15 vs. PD** **—**30 negative energy damage. If the target has 30 or less hit points after the hit, it dies. | **AC** **PD** | **22** **17** |
+| --- | --- | --- | --- |
+| **Mook** **Undead** | _Resist negative energy 15+:_ When a negative energy attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **21** **30** |
 
 ### Terror
 
@@ -616,6 +936,56 @@ Increase the hit point threshold of targets by 50 hp.
 #### Epic Feat
 
 The target also takes the miss damage each time it fails a save against the effect.
+
+### Thirsting Blades
+
+Close-quarters spell
+
+At-will
+
+**Target:** Two nearby melee weapons
+
+**Effect:** The next time the wielder of the weapon hits with an attack, they can choose to pay 2 hit points. If they do, the attack deals 2d6 extra damage.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 3 hit points; 2d10 extra damage |
+| 5th | 5 hit points; 3d10 extra damage |
+| 7th | 8 hit points; 4d12 extra damage |
+| 9th | 13 hit points; 1d8 x 10 extra damage |
+
+#### Adventurer Feat
+
+The wielder of the weapon can choose to pay the hit points before making the attack. If they do, they gain a +1 bonus to the attack.
+
+### Toxic Steel
+
+Melee attack
+
+At-will
+
+**Attack:** Intelligence + Level vs. AC
+
+**Hit:** WEAPON + Strength + Intelligence poison damage
+
+_Natural 17+:_ 3 ongoing poison damage
+
+**Miss:** Your level in damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 5 ongoing poison damage |
+| 5th | 10 ongoing poison damage |
+| 7th | 15 ongoing poison damage |
+| 9th | 25 ongoing poison damage |
+
+#### Adventurer Feat
+
+Deal extra damage equal to your Intelligence modifier on a miss.
+
+#### Champion Feat
+
+Deal ongoing damage on a natural 15+.
 
 ### Unholy Blast
 
@@ -673,6 +1043,399 @@ Daily
 
 ## 3rd Level Spells
 
+### Blade of Suffering
+
+Melee attack
+
+At-will
+
+**Attack:** Intelligence + Level vs. AC
+
+**Hit:** WEAPON + Intelligence negative energy damage. Until the start of your next turn, the target takes 1d8 extra damage from your allies’ attacks.
+
+**Miss:** Your level in damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 2d8 extra damage |
+| 7th | 3d8 extra damage |
+| 9th | 4d8 extra damage |
+
+#### Adventurer Feat
+
+Increase the extra damage to d10s.
+
+### Blood Donation
+
+Close-quarters spell
+
+Once per battle
+
+Quick action
+
+**Effect:** One nearby willing ally can spend a recovery and make a recovery roll, except you gain the healing. If no nearby ally is willing, deal 1 point of damage to all nearby creatures and you heal hit points equal to your level.
+
+### Bone Armor
+
+Close-quarters spell
+
+Daily
+
+**Effect:** Until the end of the battle, you gain a +1 bonus to AC. Once per round, when you reduce a non-mook enemy below zero hit points, or the last of a group of mooks, increase the armor bonus by +1. The maximum bonus from this spell is +4.
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | The maximum bonus is now +5. |
+
+#### Adventurer Feat
+
+You can increase the armor bonus when an ally reduces a non-mook enemy below zero hit points, but still only once per round.
+
+#### Champion Feat
+
+Also gain the bonus to PD.
+
+### Bone Spear
+
+Close-quarters spell
+
+Once per battle
+
+Chain spell
+
+**Target:** One nearby creature
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 3d8 + Intelligence negative energy damage
+
+**Miss:** Negative energy damage equal to your level
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d8 damage |
+| 7th | 7d8 damage |
+| 9th | 10d8 damage |
+
+_Chain spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
+
+#### Adventurer Feat
+
+If you are engaged with the first target of the spell, gain a +2 bonus to the attack roll against it.
+
+#### Champion Feat
+
+Deal 1d8 extra damage on the first attack (8th level: 2d8).
+
+### Brittle Bones
+
+Ranged spell
+
+Daily
+
+Quick action
+
+**Target:** One nearby enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** Melee attacks against the target deal 1d12 extra damage, and the target cannot resist damage from melee attacks (hard save 16+ ends).
+
+**Miss:** The next melee attack against the target before the end of your next turn deals 1d12 extra damage.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 2d12 extra damage |
+| 7th | 3d12 extra damage |
+| 9th | 4d12 extra damage |
+
+#### Adventurer Feat
+
+The spell is now Recharge 17+ after battle.
+
+### Circle of Death
+
+Ranged spell
+
+Daily
+
+**Special:** You can't cast this spell unless the escalation die is 3+.
+
+**Target:** Each nearby creature (allies and enemies)
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit vs. an enemy:** 5d12 + Intelligence negative energy damage.
+
+**Hit vs.** **an ally:** 1d6 negative energy damage.
+
+**Miss vs. an enemy:** Half damage.
+
+**Miss vs.** **an ally:** You take half the damage the ally would have taken on a hit.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 8d12 damage to an enemy, 2d6 damage to an ally. |
+| 7th | 2d8 x 10 damage to an enemy, 3d8 damage to an ally. |
+| 9th | 4d6 x 10 damage to an enemy, 3d10 damage to an ally. |
+
+### Deathrattle
+
+Close-quarters spell
+
+Once per battle
+
+Interrupt action
+
+**Trigger:** You are reduced below zero hit points by an attack.
+
+**Target:** Your attacker
+
+**Attack:** Intelligence + Level vs. MD
+
+**Hit:** Psychic damage equal to the damage of the attack that brought you below zero hit points, or 5 times the spell level (whichever is higher).
+
+_Natural even hit:_ The target is dazed until the end of your next turn.
+
+_Natural odd hit:_ Deal half damage to 1d3 nearby enemies.
+
+**Miss:** Half damage
+
+#### Champion Feat
+
+On an even hit, the target is weakened instead. On an odd hit, target 1d4 nearby enemies.
+
+### Ghoul Form
+
+Ranged spell
+
+Daily
+
+**Target:** You or one willing nearby ally
+
+**Effect:** Until the end of the battle, the target gains a +4 melee attack bonus. In addition, enemies engaged with the target are vulnerable to its melee attacks.
+
+The target also only gains half the normal amount from healing effects, no matter the source.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | The target now also gains a +4 bonus to initiative, Dexterity checks, and disengage checks. |
+| 7th | Enemies engaged with the target are now vulnerable to all attacks. |
+| 9th | The target also gains an advantage from a necromantic relationship. |
+
+### Ghoul Touch
+
+Close-quarters spell
+
+Once per battle
+
+**Target:** One enemy you are engaged with
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 3d12 + Intelligence negative energy damage.
+
+_Natural 19+:_ The target is stunned until the end of its next turn.
+
+**Miss:** Half damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d12 damage, stun on natural 17+ |
+| 7th | 7d12 damage, stun on natural 15+ |
+| 9th | 10d12 damage, stun on natural 13+ |
+
+#### Champion Feat
+
+After the stun ends, the target is hampered until the end of its next turn.
+
+### Negative Energy Shield
+
+Close-quarters spell
+
+Daily
+
+**Target:** You
+
+**Effect:** Until the end of the battle, when an enemy engaged with you attacks you with a natural odd attack roll, it takes 6d6 + Intelligence negative energy damage.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 6d10 damage. |
+| 7th | 10d10 damage. |
+| 9th | 2d8 x 10 damage. |
+
+### Orb of Unlife
+
+Ranged spell
+
+At-will
+
+**Target:** One nearby enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 3d8 + Intelligence negative energy damage. If one nearby ally is willing to sacrifice 1d8 hit points, deal extra damage equal to that amount.
+
+**Miss:** Damage equal to your level
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 5d8 damage; sacrifice 2d8 |
+| 7th | 7d8 damage; sacrifice 3d8 |
+| 9th | 10d8 damage; sacrifice 4d8 |
+
+#### Adventurer Feat
+
+Deal extra damage equal to twice the amount of sacrificed hit points.
+
+### Ray of Enfeeblement
+
+Ranged spell
+
+Daily
+
+**Target:** One nearby enemy with 96 hp or fewer
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 4d12 + Intelligence negative energy damage, and the target is weakened (save ends)
+
+**Miss:** Half damage.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | 7d12 damage. |
+| 7th | 2d6 x 10 damage. |
+| 9th | 2d10 x 10 damage. |
+
+#### Adventurer Feat
+
+The spell can now target an enemy with any number of hit points while the escalation die is 3+.
+
+#### Champion Feat
+
+The save against weakened is now a hard save (16+).
+
+#### Epic Feat
+
+On a miss, the target is also dazed (save ends).
+
+### Shared Pain
+
+Ranged attack
+
+Once per battle
+
+**Target:** One nearby enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** Starting with you, you and each nearby ally can choose to pay any number of hit points into the spell. For every 5 hit points paid in total, deal 1d20 damage to the enemy target, up to a maximum of 4d20.
+
+**Miss:** As a hit, but deal 1d8 damage for each hit point paid (up to 4d8).
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | Up to 6d20 / 6d8 damage |
+| 7th | Up to 9d20 / 9d8 damage |
+| 9th | Up to 15d20 / 15d8 damage |
+
+#### Champion Feat
+
+You can cast this spell as an interrupt when an enemy is making an attack against you. It resolves before the attack.
+
+### Speak with Dead
+
+Ranged spell
+
+Variable
+
+_Special:_ You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
+
+**Target:** One corpse you are touching that has been dead less than a day.
+>Note that creatures that were undead for a longer period before they were killed are not legal targets.
+
+**Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died. The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
+
+>_Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now cast this spell 1d4 times per day, targeting corpses or even just heads that have been dead up to a week. |
+| 7th | Questions can now be phrased to receive three-word answers, targeting corpses/heads that have been dead up to a month. |
+| 9th | Questions can now be phrased to receive one to two sentence answers, targeting corpses/heads or skeletal remains of almost any age. |
+
+### Summon Flesh Golem
+
+Ranged spell
+
+Daily
+
+**Effect:** You summon one flesh golem, as per the [summoning rules](../Character-Rules/Summoning.md). The golem fights for you until the end of the battle, or until it drops to 0 hp, whichever comes first. As you cast the spell at higher levels, you can summon higher level versions.
+
+#### Flesh Golem
+
+| **Normal** **3rd level** | Initiative +0; Vulnerability: holy; **Meaty Hook +9 vs. AC** **—** 10 damage. If the golem is staggered, it heals 1d10 hp. | **AC** **PD** | **18** **18** |
+| --- | --- | --- | --- |
+| **Troop** **Undead** | _Energy magnet:_ When a ranged or close-quarter attack that causes cold, fire, force, lightning, or negative energy damage targets you or a nearby ally, the flesh golem has a 50% chance of becoming the main target instead. | **MD** **HP** | **14** **28** |
+
+##### Adventurer Feat
+
+Whenever the golem redirects an energy attack to itself, it deals half of the redirected attack’s damage to all enemies it is engaged with.
+
+##### Higher Level Advancement
+
+For each additional level tier, add this bonus to the stats found in the table below.
+
+| Level | Attack | Damage | Healing | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5th | +3 | +5 | +1d10 | +3 | +3 | +3 | +16 |
+| 7th | +2 | +10 | +1d10 | +3 | +3 | +2 | +28 |
+| 9th | +3 | +20 | +1d10 | +2 | +2 | +3 | +36 |
+
+### Summon Horror (3rd level+)
+
+Ranged spell
+
+Daily
+
+**Effect:** You summon a ghoul, as per the summoning rules. The summoned ghoul fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
+
+As you cast the spell at higher levels, the creature you summon varies, as shown below. The stats for each creature are shown below.
+
+| Higher Level | Effect |
+| --- | --- |
+| 5th | You can now summon a wight. |
+| 7th | You can now summon a barrow wight. |
+| 9th | You can now summon a greater wight. |
+
+#### Summoned Ghoul
+
+| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Claws and bite +8 vs. AC** **—** 8 damage | **AC** **PD** | **18** **16** |
+| --- | --- | --- | --- |
+| **Spoiler** **Undead** | _Natural even hit:_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **12** **20** |
+| | _Pound of flesh:_ The ghoul's _claws and bite_ attack deals +4 damage against vulnerable targets. | | |
+| | _Infected bite:_ Any creature that is slain by a ghoul and not consumed will rise as a ghoul the next night. | | |
+
+#### Summoned Wight
+
+| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Sword +10 vs. AC—** 14 damage | **AC** **PD** | **22** **18** |
+| --- | --- | --- | --- |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing negative energy damage. | **MD** **HP** | **14** **32** |
+
+#### Summoned Barrow Wight
+
+| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Sword +12 vs. AC—** 21 damage | **AC** **PD** | **24** **20** |
+| --- | --- | --- | --- |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing negative energy damage. | **MD** **HP** | **16** **52** |
+
+#### Summoned Greater Wight
+
+| **Normal** **9th level** | Initiative: +12; Vulnerability: holy; **Attack +14 vs AC—** 40 damage | **AC** **PD** | **26** **22** |
+| --- | --- | --- | --- |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing negative energy damage. | **MD** **HP** | **18** **90** |
+
 ### The Bones Beneath
 
 Ranged spell
@@ -723,160 +1486,15 @@ This isn't a summoning spell, so the mooks created by this spell don't count as 
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **18** **44** |
 
-### Circle of Death
-
-Ranged spell
-
-Daily
-
-**Special:** You can't cast this spell unless the escalation die is 3+.
-
-**Target:** Each nearby creature (allies and enemies)
-
-**Attack:** Intelligence + Level vs. PD
-
-**Hit vs. an enemy:** 5d12 + Intelligence negative energy damage.
-
-**Hit vs.** **an ally:** 1d6 negative energy damage.
-
-**Miss vs. an enemy:** Half damage.
-
-**Miss vs.** **an ally:** You take half the damage the ally would have taken on a hit.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | 8d12 damage to an enemy, 2d6 damage to an ally. |
-| 7th | 2d8 x 10 damage to an enemy, 3d8 damage to an ally. |
-| 9th | 4d6 x 10 damage to an enemy, 3d10 damage to an ally. |
-
-### Ghoul Form
-
-Ranged spell
-
-Daily
-
-**Target:** You or one willing nearby ally
-
-**Effect:** Until the end of the battle, the target gains a +4 melee attack bonus. In addition, enemies engaged with the target are vulnerable to its melee attacks.
-
-The target also only gains half the normal amount from healing effects, no matter the source.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | The target now also gains a +4 bonus to initiative, Dexterity checks, and disengage checks. |
-| 7th | Enemies engaged with the target are now vulnerable to all attacks. |
-| 9th | The target also gains an advantage from a necromantic relationship. |
-
-### Negative Energy Shield
+### Visions of Grief
 
 Close-quarters spell
 
-Daily
+Recharge 13+ after the scene
 
-**Target:** You
+**Target:** A nearby person
 
-**Effect:** Until the end of the battle, when an enemy engaged with you attacks you with a natural odd attack roll, it takes 6d6 + Intelligence negative energy damage.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | 6d10 damage. |
-| 7th | 10d10 damage. |
-| 9th | 2d8 x 10 damage. |
-
-### Ray of Enfeeblement
-
-Ranged spell
-
-Daily
-
-**Target:** One nearby enemy with 96 hp or fewer
-
-**Attack:** Intelligence + Level vs. PD
-
-**Hit:** 4d12 + Intelligence negative energy damage, and the target is weakened (save ends)
-
-**Miss:** Half damage.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | 7d12 damage. |
-| 7th | 2d6 x 10 damage. |
-| 9th | 2d10 x 10 damage. |
-
-#### Adventurer Feat
-
-The spell can now target an enemy with any number of hit points while the escalation die is 3+.
-
-#### Champion Feat
-
-The save against weakened is now a hard save (16+).
-
-#### Epic Feat
-
-On a miss, the target is also dazed (save ends).
-
-### Speak with Dead
-
-Ranged spell
-
-Variable
-
-_Special:_ You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
-
-**Target:** One corpse you are touching that has been dead less than a day.
->Note that creatures that were undead for a longer period before they were killed are not legal targets.
-
-**Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died. The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
-
->_Note:_ Just as with the _séance_ ability of the Death Priest talent, there's always a 10% chance that the spirit summoned is going to lie to you for reasons best known to it and to the GM. The GM rolls a d20 secretly before the corpse provides any answers; a 3+ means the spirit will speak truly, but a 1 or a 2 means it will lie while appearing to be aiming for the truth.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | You can now cast this spell 1d4 times per day, targeting corpses or even just heads that have been dead up to a week. |
-| 7th | Questions can now be phrased to receive three-word answers, targeting corpses/heads that have been dead up to a month. |
-| 9th | Questions can now be phrased to receive one to two sentence answers, targeting corpses/heads or skeletal remains of almost any age. |
-
-### Summon Horror (3rd level+)
-
-Ranged spell
-
-Daily
-
-**Effect:** You summon a ghoul, as per the summoning rules. The summoned ghoul fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
-
-As you cast the spell at higher levels, the creature you summon varies, as shown below. The stats for each creature are shown below.
-
-| Higher Level | Effect |
-| --- | --- |
-| 5th | You can now summon a wight. |
-| 7th | You can now summon a barrow wight. |
-| 9th | You can now summon a greater wight. |
-
-#### Summoned Ghoul
-
-| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Claws and bite +8 vs. AC** **—** 8 damage | **AC** **PD** | **18** **16** |
-| --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit:_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **12** **20** |
-| | _Pound of flesh:_ The ghoul's _claws and bite_ attack deals +4 damage against vulnerable targets. | | |
-| | _Infected bite:_ Any creature that is slain by a ghoul and not consumed will rise as a ghoul the next night. | | |
-
-#### Summoned Wight
-
-| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Sword +10 vs. AC—** 14 damage | **AC** **PD** | **22** **18** |
-| --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing negative energy damage. | **MD** **HP** | **14** **32** |
-
-#### Summoned Barrow Wight
-
-| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Sword +12 vs. AC—** 21 damage | **AC** **PD** | **24** **20** |
-| --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing negative energy damage. | **MD** **HP** | **16** **52** |
-
-#### Summoned Greater Wight
-
-| **Normal** **9th level** | Initiative: +12; Vulnerability: holy; **Attack +14 vs AC—** 40 damage | **AC** **PD** | **26** **22** |
-| --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing negative energy damage. | **MD** **HP** | **18** **90** |
+**Effect:** You receive a short vision of the strongest feelings that the target has towards a deceased person. The emotions can range the whole gamut from regret, to anger, to longing and love.
 
 ### Wave of Decay
 
@@ -905,6 +1523,103 @@ The spell no longer ends when you drop to 0 hit points or below; instead it ends
 The spell no longer ends when you use it to drop an enemy to 0 hit points; it now ends when it drops a second enemy to 0 hit points.
 
 ## 5th Level Spells
+
+### Aura of Forbiddance
+
+Close-quarters spell
+
+Recharge 17+ after battle
+
+Quick action
+
+**Effect:** Until the end of your next turn, enemies must succeed at a hard save (16+) to engage or attack you. If they fail, they take psychic damage equal to your Charisma modifier, twice at 5th level, and thrice at 8th, they are struck by fear (-4 to attack, can’t use the escalation die) and can’t engage you until the end of your next turn. Enemies who successfully saved against the effect are immune to the spell until the end of the battle.
+
+After the end of your next turn, the spell effect continues, but the save is now a normal save (11+). The following turn, it is an easy save (6+), after which the spell ends.
+
+#### Champion Feat
+
+The spell is now Recharge 13+.
+
+#### Epic Feat
+
+You can cast this spell as a free action when you roll initiative.
+
+### Bone Wall
+
+Close-quarters spell
+
+Daily
+
+**Effect:** You create a barrier of piled-up bones across the battlefield that lasts until the end of the battle. The barrier is tall enough to reach a 10-foot-high ceiling and block a 20-foot-wide corridor. It takes a move action and a normal difficulty skill check to climb to the top of the barrier. It is possible to shoot through the barrier with disadvantage on the attack roll.
+
+Enemies can deal 10 times the spell level in damage to the barrier to create a hole that is big enough for a normal-sized creature to squeeze through.
+
+#### Champion Feat
+
+You can use your own spells through the barrier without disadvantage.
+
+### Corpse Explosion
+
+Close-quarters spell
+
+Daily; Interrupt action
+
+**Trigger:** A nearby non-mook creature, or the last of a group of mooks, dies
+
+**Target:** The 1d3 enemies closest to the killed creature. You can cast this spell recklessly to target 1d6 enemies instead.
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 3d6 fire damage, multiplied by the level of the killed creature
+
+**Miss:** Half damage
+
+_Reckless miss:_ Your allies engaged with the missed target take 1d6 fire damage per level of the killed creature.
+
+#### Champion Feat
+
+When casting this spell recklessly, target a number of creatures equal to the d6 roll or the escalation die, whichever is higher.
+
+### Dark Conduit
+
+Close-quarters spell
+
+Daily
+
+Quick action
+
+**Target:** A nearby ally
+
+**Effect:** Until the end of the battle, the target deals 2d6 extra negative energy damage on a hit with a melee attack. Both you and the target heal hit points equal to half the extra damage.
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 2d10 extra damage |
+| 9th | 4d8 extra damage |
+
+#### Champion Feat
+
+The spell is now Recharge 17+ after battle.
+
+### Death Mark
+
+Melee attack
+
+Once per battle
+
+**Attack:** Intelligence + Level vs. AC
+
+**Hit:** WEAPON + Strength + Intelligence negative energy damage. Your attack rolls against the target have advantage (save ends).
+
+**Miss:** Your level in damage
+
+#### Champion Feat
+
+On a miss, the spell is not expended.
+
+#### Epic Feat
+
+The target is also vulnerable to your attacks (save ends both).
 
 ### Death's Call
 
@@ -948,6 +1663,22 @@ Daily
 | 7th | 50 ongoing damage on a hit, with fail increments/miss damage of 25. |
 | 9th | 80 ongoing damage on a hit, with fail increments/miss damage of 40. |
 
+### Spirit Shield
+
+Close-quarters spell
+
+Daily
+
+Quick action
+
+**Target:** You or a nearby ally
+
+**Effect:** The target spends a recovery and gains temporary hit points equal to the recovery roll. Until the end of the battle, whenever the target is hit by an attack, protective spirits deal negative energy damage equal to the spell level to the attacker.
+
+#### Champion Feat
+
+The target makes a save (11+). On a success, the recovery is free.
+
 ### Summon Wraith (5th level+)
 
 Ranged spell
@@ -987,6 +1718,28 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 | | _Flight_: The wraith hovers and zooms about. | | |
 | | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
+### Vampiric Touch
+
+Close-quarters spell
+
+Daily
+
+**Target:** One enemy you are engaged with
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** Heal using a free recovery, and deal damage to the target equal to the hit points healed.
+
+**Miss:** Necrotic damage and healing equal to your level
+
+#### Champion Feat
+
+Gain a +2 bonus to the attack roll if the target is staggered.
+
+#### Epic Feat
+
+Increase your recovery dice to d12s for this spell.
+
 ### You Know What to Do
 
 Ranged spell
@@ -1016,6 +1769,68 @@ Increase the hit point threshold of targets by 40 hp.
 
 ## 7th Level Spells
 
+### Blood Command
+
+Close-quarters spell
+
+Once per battle
+
+**Target:** One nearby enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** 6d6 + Intelligence negative energy damage, and you heal hit points equal to half the amount of damage dealt. If the target has 100 hp or less after taking damage, you control the target on its next turn. If you give the target a suicidal command, it can immediately save against the effect.
+
+**Miss:** Necrotic damage equal to your level
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 10d8; 150 hp or less |
+
+#### Champion Feat
+
+Gain a +2 bonus to the attack roll if the target is staggered.
+
+#### Epic Feat
+
+Increase your recovery dice to d12s for this spell.
+
+### Blood Tithe
+
+Ranged spell
+
+Daily
+
+**Target:** One enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** Whenever the target takes ongoing damage from any source, you heal hit points equal to the ongoing damage dealt (save ends).
+
+**Miss:** You regain the spell at the end of the battle.
+
+#### Champion Feat
+
+At the end of its turn, the target has to decide whether it wants to save against ongoing damage effects or this spell. It can’t do both.
+
+### Bone Prison
+
+Ranged spell
+
+Daily
+
+**Target:** One nearby enemy
+
+**Attack:** Intelligence + Level vs. PD
+
+**Hit:** The target is caught in a bone prison. It cannot engage enemies outside of the prison, but ranged and close-quarters attacks are still possible. The prison is destroyed if 20 times the spell’s level in damage is dealt to it.
+
+**Miss:** You create the prison but fail to catch the enemy with it.
+
+#### Champion Feat
+
+You can target 1d3 enemies in a group with this spell, but that also targets all creatures engaged to them, and the targets can’t be large or bigger.
+
 ### Cone of Corruption
 
 Ranged spell
@@ -1035,6 +1850,26 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 2d8 x 10 damage. |
+
+### Desperate Vengeance
+
+Close-quarters spell
+
+Daily
+
+_Special:_ When you cast this spell, add one failed death save to the number you failed this battle. For each ally willing to do the same, increase the number of targets by one.
+
+**Target:** One nearby or far away enemy
+
+**Attack:** Intelligence + Level vs. PD. For each ally who is currently unconscious and gave up a death save, you gain advantage on one attack roll.
+
+**Hit:** Negative energy damage equal to half the target’s total hit points (up to 444 damage).
+
+**Miss:** Negative energy damage equal to a quarter of the target’s total hit points (up to 222 damage).
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | Up to 666 / 333 damage. |
 
 ### Feigned Defeat
 
@@ -1074,7 +1909,146 @@ You can now target a nearby willing ally with the spell instead of yourself.
 
 You can now target up to two nearby willing allies (including you).
 
+### Hails from the Grave
+
+Close-quarters spell
+
+Daily
+
+**Target:** 1d3 nearby enemies in a group
+
+**Attack:** Intelligence + Level vs. MD
+
+**Hit:** 8d8 + Intelligence psychic damage. If the target has 200 hp or less after taking damage, it is also confused (save ends).
+
+**Miss:** Half damage, and no confusion
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 8d12 damage; confused up to 400 hp |
+
+#### Champion Feat
+
+Deal 3d8 psychic damage to 1d3 other nearby enemies.
+
+### One Foot in the Grave
+
+Ranged spell
+
+Daily
+
+**Effect:** You, any undead you have summoned, and up to 4 nearby allies teleport to a crypt or graveyard that you have visited before. Any living creatures travelling with you must succeed at a save or lose a recovery (if they have any). You can teleport up to one mile per point of Intelligence modifier.
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You can teleport up to 100 miles per point of Intelligence modifier. |
+
+#### Epic Feat
+
+You can teleport twice as many creatures OR you can teleport living beings without causing them to lose a recovery.
+
+### Scythe of the Reaper
+
+Close-quarters spell
+
+Daily
+
+**Target:** A random nearby enemy
+
+**Attack:** Intelligence + Level vs. PD. Gain advantage on the attack roll against staggered enemies.
+
+**Hit:** 2d8 x 10 negative energy damage
+
+**Miss:** Half damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | 3d8 x 10 damage |
+
+#### Champion Feat
+
+If the escalation die is 3+, you can cast this spell as a free action, even when it is not your turn.
+
+### Soulbound Return
+
+Ranged spell
+
+Daily
+
+**Target:** A dead ally
+
+**Effect:** You or a living, willing ally binds some of their own life force into the body of the deceased target to bring them back to life. This is a strenuous experience that puts a heavy toll on both the giver and the recipient. Both permanently lose a recovery, they roll one less die for recoveries.
+
+The resurrected target randomly chooses an ability score and reduces it by 2, and gains the necromancer [Sorta Dead](#sorta-dead) talent as a bonus talent. In their zombie-like state, they retain their own consciousness and free will, but their life is now forever linked to the giver. Whenever the giver takes damage and the resurrected ally is nearby, they can force their ally to take half of that damage.
+
+If the resurrected ally is killed again, they can only be brought back as a mindless zombie.
+
+### Summon Blood Golem
+
+Ranged spell
+
+Daily
+
+**Effect:** You summon one blood golem, as per the [summoning rules](../Character-Rules/Summoning.md). The golem fights for you until the end of the battle, or until it drops to 0 hp, whichever comes first. As you cast the spell at higher levels, you can summon higher level versions.
+
+#### Blood Golem
+
+| **Normal** **7th level** | Initiative: +0; Vulnerability: holy; **Scabbed Claws +14 vs. AC—** 6d6 damage. Your golem heals hit points equal to the sum of all damage dice that come up even, and you heal hit points equal to the sum of all damage dice that come up odd. | **AC** **PD** | **24** **24** |
+| --- | --- | --- | --- |
+| **Troop** **Undead** | _Blood-activated:_ When you summon a blood golem, spend a recovery without healing. | **MD** **HP** | **20** **70** |
+| | _Golem immunity:_ The golem can’t be dazed, weakened, confused, made vulnerable, or touched by ongoing damage. | | |
+
+##### Higher Level Advancement
+
+| Level | Attack | Damage | AC | PD | MD | HP |
+| --- | --- | --- | --- | --- | --- | --- |
+| 9th | +3 | +3d6 | +3 | +3 | +3 | +45 |
+
 ## 9th Level Spells
+
+### Angel of Death
+
+Close-quarters spell
+
+Daily
+
+Quick action
+
+**Effect:** You grow black raven wings that allow you to fly until the end of the battle. The first time you hit an enemy with an attack each turn, that enemy also takes 25 ongoing negative energy damage.
+
+#### Epic Feat
+
+If the enemy is staggered, deal 40 ongoing damage instead and the save is a hard save (16+).
+
+### Blood Vortex
+
+Ranged spell
+
+Daily
+
+_Special:_ If you have 50 hit points or less, you can cast Blood Vortex at-will.
+
+**Target:** One nearby enemy per point of Charisma modifier
+
+**Attack:** Intelligence + level vs. PD
+
+**Hit:** 2d8 x 10 + Intelligence negative energy damage
+
+**Miss:** Half damage
+
+### Creeping Madness
+
+Close-quarters spell
+
+Daily
+
+**Effect:** Until the end of the battle, poisonous fumes from the deepest recesses of the Underworld pour onto the battlefield. At the start of their turn, each enemy on the battlefield takes 30 poison damage (save for half). Allies must succeed at an easy save (6+) or take 10 poison damage.
+
+Any creature that is reduced to 0 hp or below by the poison remains conscious, but they are confused (attacking their own allies). If a confused creature takes damage, or if they are healed above zero hit points, the confusion effect ends. Confused creatures take no damage from the poison.
+
+#### Epic Feat
+
+Increase the damage against enemies who fail their save by 5 times the escalation die.
 
 ### Finger of Death
 
@@ -1091,6 +2065,47 @@ Daily
 **Miss:** You take 4d10 damage and regain _finger of death_ after the battle.
 
 _**Epic Feat:**_ You can now target an enemy with 320 hp or fewer.
+
+### Return Stronger Than Ever Before
+
+Close-quarters spell
+
+Recharge 17+
+
+No action
+
+**Trigger:** You succeed at a death save (you can cast this spell while unconscious)
+
+**Effect:** Immediately spend a recovery to heal. The first necromancer spell you cast after the start of your next turn deals double damage OR summons twice as many creatures.
+
+#### Epic Feat
+
+Heal twice the amount of hit points on a save.
+
+### Siphon Ultimate Power
+
+Ranged spell
+
+Daily
+
+**Effect:** Ask one nearby ally per point of escalation die if they are willing to support your casting of the spell. For each willing ally, you gain an extra standard action this turn, and you can use one of their spells or powers. If that power is not at-will, it is expended. You can replace any ability score in the power’s description with Intelligence. You only gain the spell or power itself, no other abilities or bonuses that are not part of the description, unless they are required for it to work.
+
+After casting this spell, you take a -1 penalty to all attacks and defenses for each extra action you took (save ends).
+
+### Summon Dracolich
+
+Ranged spell
+
+Daily
+
+**Effect:** You summon a dracolich, as per the [summoning rules](../Character-Rules/Summoning.md). The creature fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
+
+#### (Summoned) Dracolich
+
+| **Normal** **9th level** | Initiative: +14; Vulnerability: holy; Flight; **Bone Claws +14 vs. AC—, 2 attacks—** 20 damage damage. | **AC** **PD** | **25** **22** |
+| --- | --- | --- | --- |
+| **Caster** **Undead, Dragon** | _Natural 5 or less:_ The Dracolich can use its Blight Breath attack on its next turn.  | **MD** **HP** | **22** **130** |
+| | _Special:_ **Blight Breath +13 vs. PD (1d3 nearby enemies)—** 20 negative energy damage, and the target is blighted. Blighted enemies take half of the damage they deal with their next attack. | | |
 
 ### The Last of the Wine
 
