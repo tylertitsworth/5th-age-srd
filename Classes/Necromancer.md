@@ -351,7 +351,7 @@ You can memorize a single spell that summons undead twice.
 
 ### Skeletal Minion
 
-You have a skeleton minion the same level as you that acts as a servant, fights alongside you in battle, and is replaced by a new skeletal minion when it inevitably collapses or is destroyed. It is not a summoned create; summoning rules don't ap\ply.
+You have a skeleton minion the same level as you that acts as a servant, fights alongside you in battle, and is replaced by a new skeletal minion when it inevitably collapses or is destroyed. It is not a summoned create; summoning rules don't apply.
 
 Your minion acts on your initiative, taking a standard action, a move action, and (if applicable) a quick action. You decide whether it takes its turn before or after you.
 
