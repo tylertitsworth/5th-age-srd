@@ -494,7 +494,7 @@ Gain a flexible attack from the [warrior druid list](./Druid.md#flexible-attacks
 
 #### Adventurer Feat
 
-You gain 3 points towards a background in wilderness survival.
+You gain 3 skill points towards skills in wilderness survival.
 
 #### Champion Feat
 
@@ -523,10 +523,6 @@ Once per battle, when an enemy targets you with a spell, you can roll a save (11
 #### Champion Feat
 
 When you successfully counter a spell cast by a nearby enemy, you can pop free from all enemies and charge the caster (engage and make a basic melee attack) as a free action.
-
-#### Epic Feat
-
-If you have a positive icon relationship with the Archmage or a draconic icon, the save is an easy save (6+).
 
 ### One with the Blade (5th Level+)
 

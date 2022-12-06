@@ -262,7 +262,7 @@ Any time an element of the commander class refers to Charisma, you can replace  
 
 #### Adventurer Feat
 
-You gain 1 additional skill point in a background related to either intimidation or physical exercise. You can use this skill point to raise that background beyond the normal maximum of 5.
+You gain 1 additional skill point in a skill related to either intimidation or physical exercise. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
 #### Champion Feat
 
@@ -450,7 +450,7 @@ You can use this talent any time you use Weigh the Odds.
 
 ### Commanding Voice (5th level+)
 
-You gain a bonus command, and one point towards a skill in personal leadership and diplomacy. You can use this skill point to raise that background beyond the normal maximum of 5.
+You gain a bonus command, and one point towards a skill in personal leadership and diplomacy. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
 #### Champion Feat
 
@@ -474,7 +474,7 @@ You can use this talent twice per battle.
 
 ### Tactical Genuis (5th level+)
 
-You gain a bonus tactic, and one point towards a skill in military strategy and tactics. You can use this skill point to raise that background beyond the normal maximum of 5.
+You gain a bonus tactic, and one point towards a skill in military strategy and tactics. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
 #### Champion Feat
 

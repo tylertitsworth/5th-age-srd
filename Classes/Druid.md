@@ -869,10 +869,6 @@ You gain a bard spell or song of up to your level as a bonus spell. You also gai
 
 You can use enchanted instruments as implements. You gain Enchant Instrument as a bonus spell.
 
-##### Champion Feat
-
-The bards at the fey court exchange legends and stories about the icons, often about pranks and tricks the fey played on them. On a 4 on an icon relationship roll, you can use one of those legends to your advantage. Treat the 4 as a 5.
-
 ##### Epic Feat
 
 Gain a second bard spell or song, at a -2 penalty to the level.
@@ -2868,7 +2864,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You learn bits and pieces about the history of the place you are in, before it fell to ruins. Until your next full heal-up, you have a temporary 5-point lore background about the place.
+**Effect:** You learn bits and pieces about the history of the place you are in, before it fell to ruins. Until your next full heal-up, you have a temporary 5-point History skill check bonus about the place.
 
 ##### Summon Ruins Rascals (1st Level)
 
@@ -3531,11 +3527,11 @@ You learn how to shift your form in two ways: The scout form transforms you into
 
 You can shift into a small, stealthy animal that is useful for scouting the environment, but too weak for combat. You can shift back and forth between scout and humanoid form as a quick action, at-will, once per round. You also shift back if you take damage.
 
-While in scout form, you gain a temporary 1d4+1-point background related to your chosen animal form.
+While in scout form, you gain a temporary skill 1d4+1-points related to your chosen animal form.
 
 #### Adventurer Feat
 
-Your temporary animal background roll is a 1d6 instead of 1d4 + 1, and count a 1 rolled as a 2.
+Your temporary animal skill check roll is a 1d6 instead of 1d4 + 1, and count a 1 rolled as a 2.
 
 ### Beast Form
 
@@ -3606,8 +3602,6 @@ _Failure:_ Nothing came of your scouting.
 _Normal success:_ You gain a +4 bonus to initiative this battle.
 
 _Hard success:_ As a free action at some point during the battle, you can grant one of your allies a reroll on an attack roll or save. That ally must take the new result.
-
-_Ridiculously hard success:_ The GM chooses between giving you a reroll at some point during the battle, or giving you a floating story-guide icon relationship result of 6 with a random icon.
 
 ##### Adventurer Feat
 
