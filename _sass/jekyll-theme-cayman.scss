@@ -317,26 +317,36 @@ a {
   h1 {
     font-size: 2.5em;
     font-weight: bold;
+    margin-block-start: 0.17em;
+    margin-block-end: 0.17em;
     color: $section-headings-color;
   }
   h2 {
     font-size: 2em;
     font-weight: normal;
+    margin-block-start: 0.33em;
+    margin-block-end: 0.33em;
     color: $section-headings-color;
   }
   h3 {
     font-size: 1.67em;
     font-weight: normal;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
     color: $section-headings-color;
   }
   h4 {
     font-size: 1.5em;
     font-weight: normal;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
     color: $section-headings-color;
   }
   h5 {
     font-size: 1.33em;
     font-weight: normal;
+    margin-block-start: 1.17em;
+    margin-block-end: 1.17em;
     color: $section-headings-color;
   }
   h6 {
@@ -344,6 +354,8 @@ a {
     margin-bottom: 1rem;
     font-size: 1.17em;
     font-weight: normal;
+    margin-block-start: 1.83em;
+    margin-block-end: 1.83em;
     color: $section-headings-color;
   }
 
