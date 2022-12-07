@@ -596,7 +596,7 @@ Interrupt action
 
 **Target:** One nearby ally (on the ally's turn)
 
-**Special:** If you spend an additional command point on this command, you can target an unconscious ally with it.
+_Special:_ If you spend an additional command point on this command, you can target an unconscious ally with it.
 
 **Effect:** The target can rally as a free action this turn. (If it's their second or a subsequent rally, they still need to succeed on the save.)
 

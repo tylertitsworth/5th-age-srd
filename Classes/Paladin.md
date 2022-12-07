@@ -298,7 +298,7 @@ If the target of your smite power is already stuck or vulnerable to cold, it is 
 
 ### Divine Domain
 
-**Special:** You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
+_Special:_ You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
 
 Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per day.
 
@@ -555,7 +555,7 @@ The target also takes the Smite Evil bonus damage if it uses any method to no lo
 
 ### Path of Universal Righteous Endeavor
 
-**Special:** You can't take this talent if you take the Way of Evil Bastards talent.
+_Special:_ You can't take this talent if you take the Way of Evil Bastards talent.
 
 Your nearby allies gain a +1 bonus to all saves.
 
@@ -597,7 +597,7 @@ On an even miss, make a second attack against a different nearby enemy.
 
 ### Way of Evil Bastards
 
-**Special:** You can't take this talent if you take the Path of Universal Righteous Endeavor talent.
+_Special:_ You can't take this talent if you take the Path of Universal Righteous Endeavor talent.
 
 When one of your Smite Evil attacks drops a non-mook enemy to 0 hp, that use of Smite Evil is not expended.
 

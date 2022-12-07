@@ -526,13 +526,13 @@ Daily
 
 **Target:** One nearby creature with 40 hp or fewer
 
-**Special:** This spell cannot be cast during combat or on a target that has rolled initiative to fight.
+_Special:_ This spell cannot be cast during combat or on a target that has rolled initiative to fight.
 
 **Attack:** Intelligence + Level vs. MD
 
 **Hit:** The target believes you are their friend until you or your allies take hostile action against them. (Attacking their normal allies is okay.) If you or your allies attack the target or order the target to attack its normal allies, the target can roll a normal save to break the charm effect during its turn each round.
 
-**Special:** On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
+_Special:_ On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -740,7 +740,7 @@ At-Will
 
 **Target:** One or more enemies engaged with you (but see below)
 
-**Special:** You can choose more than one target for this spell, but you take a –2 penalty when attacking two targets, a –3 penalty for three targets, and so on.
+_Special:_ You can choose more than one target for this spell, but you take a –2 penalty when attacking two targets, a –3 penalty for three targets, and so on.
 
 **Attack:** Intelligence + Level vs. PD
 
@@ -762,7 +762,7 @@ Daily
 
 Targets: One or more nearby or far away enemies (see below)
 
-**Special:** The spell creates a number of force bolts equal to 1 + your Intelligence modifier. You must target a different creature with each bolt; any extras can't be used.
+_Special:_ The spell creates a number of force bolts equal to 1 + your Intelligence modifier. You must target a different creature with each bolt; any extras can't be used.
 
 **Attack:** Intelligence + Level vs. PD
 
@@ -974,7 +974,7 @@ Ranged spell
 
 Daily
 
-**Special:** When you cast this spell, you can choose to cast it recklessly.
+_Special:_ When you cast this spell, you can choose to cast it recklessly.
 
 **Target:** 1d3 nearby enemies in a group. If you cast recklessly, you can target 1d3 additional enemies, but then your allies engaged with the target may also take damage (see below).
 
@@ -1102,7 +1102,7 @@ Ranged spell
 
 Daily
 
-**Special:** You or an ally you are next to must be suffering from a condition caused by an enemy for you to cast this spell.
+_Special:_ You or an ally you are next to must be suffering from a condition caused by an enemy for you to cast this spell.
 
 **Target:** One nearby enemy
 
@@ -1144,7 +1144,7 @@ Ranged spell
 
 Daily
 
-**Special:** You summon a meteor swarm. If you're underground, you get the ur-dark stalactite equivalent! Nothing more happens this round, but roll 1d3 + 1 to determine how many meteors you have summoned.
+_Special:_ You summon a meteor swarm. If you're underground, you get the ur-dark stalactite equivalent! Nothing more happens this round, but roll 1d3 + 1 to determine how many meteors you have summoned.
 
 At the start of your next turn, even if you are unconscious or dead or have left the area, the meteors arrive one per turn at the start of each of your turns and slam into the combat area.
 

@@ -772,7 +772,7 @@ The _second shot_ attack penalty is –2 instead.
 
 Flexible melee attack
 
-**Special:** You must be using a shield.
+_Special:_ You must be using a shield.
 
 **Triggering Roll:** Any natural even roll
 
@@ -816,7 +816,7 @@ If the escalation die is 5+, the target is also dazed until the end of your next
 
 Flexible melee attack
 
-**Special:** You must be using a weapon in each hand.
+_Special:_ You must be using a weapon in each hand.
 
 **Triggering Roll:** Any miss
 
@@ -910,7 +910,7 @@ The affected ally may instead immediately move to any far away location but must
 
 Flexible melee attack
 
-**Special:** You can use this maneuver only once per round.
+_Special:_ You can use this maneuver only once per round.
 
 **Triggering Roll:** Any natural even roll, when the escalation die is 2+
 
@@ -944,7 +944,7 @@ Flexible ranged attack
 
 Flexible melee attack
 
-**Special:** You can use this maneuver only when you make an opportunity attack.
+_Special:_ You can use this maneuver only when you make an opportunity attack.
 
 **Triggering Roll:** Any hit with a natural 16+
 
@@ -978,7 +978,7 @@ The temporary hit points increase to double your Constitution modifier.
 
 Flexible melee attack
 
-**Special:** You must be using a shield.
+_Special:_ You must be using a shield.
 
 **Triggering Roll:** Any miss
 
@@ -1191,7 +1191,7 @@ Flexible melee attack
 
 Flexible melee attack
 
-**Special:** You must have the Skilled Intercept talent to use this maneuver.
+_Special:_ You must have the Skilled Intercept talent to use this maneuver.
 
 **Triggering Roll:** Any natural even roll
 
@@ -1267,7 +1267,7 @@ Also gain a +2 bonus to the attack roll with your next attack.
 
 Flexible melee attack
 
-**Special:** You must have moved before the attack.
+_Special:_ You must have moved before the attack.
 
 **Triggering Roll:** Any natural even hit
 
@@ -1329,7 +1329,7 @@ _Special:_ You must be wielding a two-handed weapon
 
 Flexible melee attack
 
-**Special:** You can use this maneuver only once per battle.
+_Special:_ You can use this maneuver only once per battle.
 
 **Triggering Roll:** Natural 16+
 

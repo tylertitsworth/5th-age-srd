@@ -811,7 +811,7 @@ _Predator's Return:_ You can spend 1 point of ki when your finishing attack miss
 
 Melee attack
 
-**Special:** When you start your turn unengaged, you can move before the attack as part of the standard action for this attack.
+_Special:_ When you start your turn unengaged, you can move before the attack as part of the standard action for this attack.
 
 **Target:** One enemy
 
@@ -1285,7 +1285,7 @@ _Natural Odd Miss:_ —
 
 Melee attack
 
-**Special:** When you use this attack, you can pop free from one enemy anytime during that turn as a free action.
+_Special:_ When you use this attack, you can pop free from one enemy anytime during that turn as a free action.
 
 **Target:** One enemy
 
@@ -1321,7 +1321,7 @@ Melee attack
 
 **Target:** One enemy
 
-**Special:** You must be engaged with two enemies to use this attack.
+_Special:_ You must be engaged with two enemies to use this attack.
 
 **Attack:** Dexterity + Level vs. AC
 
@@ -1507,7 +1507,7 @@ You now heal 5d10 hp each time you use a finishing attack while staggered.
 
 Melee attack
 
-**Special:** You can use this opening attack only if you or one of your allies has dropped to 0 hit points or below during this battle.
+_Special:_ You can use this opening attack only if you or one of your allies has dropped to 0 hit points or below during this battle.
 
 **Target:** One enemy
 
@@ -1675,7 +1675,7 @@ Melee attack
 
 **Always:** Move to engage the enemy. This movement cannot be intercepted.
 
-**Special:** If the target is under your Serpentine Gaze effect, you can spend a ki point to gain advantage on the attack roll.
+_Special:_ If the target is under your Serpentine Gaze effect, you can spend a ki point to gain advantage on the attack roll.
 
 **Attack:** Dexterity OR Strength + Level vs. AC
 
@@ -1687,7 +1687,7 @@ Melee attack
 
 Melee attack
 
-**Special:** If the target is grabbed by you, you can spend a ki point to gain advantage on the attack roll.
+_Special:_ If the target is grabbed by you, you can spend a ki point to gain advantage on the attack roll.
 
 **Attack:** Dexterity + Level vs. AC
 
@@ -2180,7 +2180,7 @@ The first time you use your breath weapon in a battle, it does not cost a ki poi
 
 Melee attack
 
-**Special:** If you fly to engage the enemy before making this attack, gain a +2 bonus to the attack roll.
+_Special:_ If you fly to engage the enemy before making this attack, gain a +2 bonus to the attack roll.
 
 **Attack:** Dexterity + Level vs. AC
 

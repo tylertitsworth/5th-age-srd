@@ -429,7 +429,7 @@ Ranged spell
 
 At-Will
 
-**Special:** The first time you use _chaos bolt_ each battle, determine a random energy type. The spell deals that type of damage each time you use it that battle.
+_Special:_ The first time you use _chaos bolt_ each battle, determine a random energy type. The spell deals that type of damage each time you use it that battle.
 
 **Target:** Either a single nearby enemy or a single far away enemy with a –2 attack penalty
 
@@ -666,7 +666,7 @@ Ranged spell
 
 Daily
 
-**Special:** Once you cast this spell in a battle, you can cast it at-will for the rest of that battle.
+_Special:_ Once you cast this spell in a battle, you can cast it at-will for the rest of that battle.
 
 **Target:** One nearby enemy
 
@@ -774,7 +774,7 @@ Daily
 
 Quick action to cast
 
-**Special:** If you are fighting one or more demons, roll an easy save (6+) at the start of each of your turns. Failure means that you are confused that turn.
+_Special:_ If you are fighting one or more demons, roll an easy save (6+) at the start of each of your turns. Failure means that you are confused that turn.
 
 **Target:** You
 

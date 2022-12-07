@@ -1004,7 +1004,7 @@ Ranged affinity
 
 At-Will
 
-**Special:** This affinity attack ignores all the target's resistances.
+_Special:_ This affinity attack ignores all the target's resistances.
 
 **Target:** One nearby enemy
 
@@ -1276,7 +1276,7 @@ At-Will
 
 **Target:** One nearby enemy
 
-**Special:** When you cast the affinity, you or a willing nearby ally of your choice loses 1d6 hit points.
+_Special:_ When you cast the affinity, you or a willing nearby ally of your choice loses 1d6 hit points.
 
 **Attack:** Charisma + Level vs. MD
 

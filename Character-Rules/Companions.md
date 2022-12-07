@@ -317,7 +317,7 @@ Quick action to cast
 
 Daily
 
-**Special:** You must spend a recovery to cast this spell.
+_Special:_ You must spend a recovery to cast this spell.
 
 **Target:** One nearby animal companion
 

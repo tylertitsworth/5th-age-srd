@@ -522,7 +522,7 @@ Ranged spell
 
 At-Will
 
-**Special:** When you use _battle chant_, you can choose any battle cry effect you know as if you were making a basic melee attack, with the _battle chant_ attack roll taking the place of the basic melee attack roll.
+_Special:_ When you use _battle chant_, you can choose any battle cry effect you know as if you were making a basic melee attack, with the _battle chant_ attack roll taking the place of the basic melee attack roll.
 
 **Target:** One nearby enemy
 
@@ -590,13 +590,13 @@ Daily
 
 **Target:** One nearby creature with 40 hp or fewer
 
-**Special:** This spell cannot be cast during combat or on a target that has rolled initiative to fight.
+_Special:_ This spell cannot be cast during combat or on a target that has rolled initiative to fight.
 
 **Attack:** Charisma + Level vs. MD
 
 **Hit:** The target believes you are their friend until you or your allies take hostile action against them. (Attacking their normal allies is okay.) If you or your allies attack the target or order the target to attack its normal allies, the target can roll a normal save to break the charm effect during its turn each round.
 
-**Special:** On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
+_Special:_ On a miss, the spell is not detectible by most others unless you miss by 4+ or roll a natural 1, in which case the target and its allies knows what you tried to do and will usually be angry about it.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -937,7 +937,7 @@ Daily
 
 **Miss:** --
 
-**Special:** When you target an ally with this spell, you don’t require an attack roll, and the target can choose to remain under the effect, without saving against it.
+_Special:_ When you target an ally with this spell, you don’t require an attack roll, and the target can choose to remain under the effect, without saving against it.
 
 #### Adventurer Feat
 
@@ -1342,7 +1342,7 @@ Flexible melee attack
 
 Flexible melee attack
 
-**Special:** You can use this battle cry only on your turn.
+_Special:_ You can use this battle cry only on your turn.
 
 **Triggering Roll:** Natural 20
 
@@ -1650,7 +1650,7 @@ On a natural even miss, your domination attempt remains undetected.
 
 Close-quarters spell
 
-**Special:** Escalation die must be 4+.
+_Special:_ Escalation die must be 4+.
 
 Daily
 

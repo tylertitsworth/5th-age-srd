@@ -1391,7 +1391,7 @@ Free action to cast
 
 **Trigger:** You drop to 0 hp or below or roll a death save.
 
-**Special:** You can cast this spell without having your focus. If the trigger is you dropping, you cast it before you drop. If the trigger is a death save, you cast it while unconscious.
+_Special:_ You can cast this spell without having your focus. If the trigger is you dropping, you cast it before you drop. If the trigger is a death save, you cast it while unconscious.
 
 **Target:** The closest random nearby enemy
 

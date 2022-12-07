@@ -121,7 +121,7 @@ There are certain abilities specific to the cleric that can affect their powers:
 
 Close-quarters spell
 
-**Special:** You can use this spell twice per battle.
+_Special:_ You can use this spell twice per battle.
 
 Quick action to cast (1/round)
 
@@ -693,7 +693,7 @@ The spell is now (recharge 16+) after battle instead of daily.
 
 Ranged spell
 
-**Special:** You can cast this spell only once per level, and a limited number of times in your life. You must have most of the corpse available to cast the spell. There's no time limit on resurrecting a dead PC, so long as you have the corpse.
+_Special:_ You can cast this spell only once per level, and a limited number of times in your life. You must have most of the corpse available to cast the spell. There's no time limit on resurrecting a dead PC, so long as you have the corpse.
 
 **Effect:** You can bring a creature back to life in more or less normal condition, with varying levels of recovery.
 
@@ -721,7 +721,7 @@ Close-quarters spell
 
 Daily
 
-**Special:** You must cast this spell outdoors. It enables you and a group of nearby allies to travel to most any location in the world that you can name.
+_Special:_ You must cast this spell outdoors. It enables you and a group of nearby allies to travel to most any location in the world that you can name.
 
 Travel takes between an hour and a day, depending on distance and the amount of effort the exerted.
 

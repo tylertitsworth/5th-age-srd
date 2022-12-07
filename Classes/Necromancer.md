@@ -1028,7 +1028,7 @@ Ranged spell
 
 Daily
 
-**Special:** You can only cast this spell outside of battle; it requires 2d4 rounds to cast.
+_Special:_ You can only cast this spell outside of battle; it requires 2d4 rounds to cast.
 
 **Target:** You or one willing nearby ally
 
@@ -1159,7 +1159,7 @@ Ranged spell
 
 Daily
 
-**Special:** You can't cast this spell unless the escalation die is 3+.
+_Special:_ You can't cast this spell unless the escalation die is 3+.
 
 **Target:** Each nearby creature (allies and enemies)
 
@@ -1456,7 +1456,7 @@ Daily
 | 7th | 2d6 x 10 damage. |
 | 9th | 2d10 x 10 damage. |
 
-**Special:** The stats for the mooks created by each level of _the bones beneath_ appear below. The level or physical nature of the mooks is irrelevant; the magic of the spell turns whatever creatures it's forced to work with into skeletal mook allies with the stats below.
+_Special:_ The stats for the mooks created by each level of _the bones beneath_ appear below. The level or physical nature of the mooks is irrelevant; the magic of the spell turns whatever creatures it's forced to work with into skeletal mook allies with the stats below.
 
 The new mooks take their turn immediately after your turn.
 
@@ -2115,7 +2115,7 @@ Daily
 
 **Target:** One or more nearby enemies, up to a maximum number of targets equal to the escalation die
 
-**Special:** After you cast this spell, you drop to 0 hit points and can't use the escalation die any longer this battle. Nothing can prevent this change in hit points.
+_Special:_ After you cast this spell, you drop to 0 hit points and can't use the escalation die any longer this battle. Nothing can prevent this change in hit points.
 
 **Attack:** Intelligence + Level vs. MD
 
