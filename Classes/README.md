@@ -56,5 +56,4 @@ If you've made changes to spells and powers, revise your feats appropriately. If
 | [**Wizard**](./Wizard.md#wizard) | 6 | 10 | 10 | 12 | d6/lvl |
 
 >\*The base AC numbers assume that the PC is in the armor that suits them best; see the class write-ups for details. PCs who know how to fight using a shield get +1 AC when they have a shield in one hand.
-
 >\*\*Various druid talents will change these stats.

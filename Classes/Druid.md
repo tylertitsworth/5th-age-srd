@@ -82,7 +82,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
-### Melee Attack:
+### Melee Attack
 
 At-Will
 
@@ -94,7 +94,7 @@ At-Will
 
 **Miss:** Damage equal to your level
 
-### Ranged Attack:
+### Ranged Attack
 
 At-Will
 

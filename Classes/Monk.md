@@ -2122,7 +2122,9 @@ _Natural even hit:_ If the target has 150 hp or fewer after the attack, it is st
 
 ### Quivering Palm
 
-#### Epic Feat You can target PD instead of AC with Quivering Palm attacks.
+#### Epic Feat
+
+You can target PD instead of AC with Quivering Palm attacks.
 
 #### Opening Attack (Interrupted Ki Flow)
 

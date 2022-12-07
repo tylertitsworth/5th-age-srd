@@ -224,7 +224,7 @@ You can choose a second necromancer spell, also at two levels lower than you cla
 
 For hybrid Paladin / Necromancers with this talent, there is also this special feat:
 
-#### Total Devotion (Adventurer Feat):
+#### Total Devotion (Adventurer Feat)
 
 Your Death Knight paladin talent is also considered a necromancer talent, which allows you to use its benefits with necromancer talents and spells.
 
