@@ -835,11 +835,11 @@ Summon a black screen in front of your eyes that blocks excessive sunlight.
 
 You throw your voice to appear to come from a different location. This is especially effective if the target can’t see you speak.
 
-#### Adventurer Feat
+### Adventurer Feat
 
 Double the number of cantrips you know.
 
-#### Champion Feat
+### Champion Feat
 
 Triple the number of cantrips your know.
 
