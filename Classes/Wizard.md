@@ -304,7 +304,7 @@ Double the duration of any spell that targets physical objects, including cantri
 
 Choose three of the following class talents.
 
-### Abjuration
+### Abjurer
 
 Whenever you cast a daily wizard spell, you gain a +4 AC bonus until the end of your next turn.
 
@@ -428,7 +428,7 @@ Before casting a spell of one specialist school, you can spend a quick action to
 
 Gain the adventurer tier feat of all spells from both of your specialist schools.
 
-### Evocation
+### Evoker
 
 Once per battle, when you cast a spell that targets Physical Defense, before rolling for the number of targets or making the spell's attack roll, you can expend your quick action to evoke the spell. Hit or miss, you'll max out the spell's damage dice (except on a natural one, which deals no damage to the target and likely damages the caster in some manner).
 
