@@ -182,6 +182,8 @@ This school covers mainly defense and protection spells.
 
 Once per day, when casting an Abjuration spell on yourself, also grant the benefit to a nearby ally.
 
+##### Spell List
+
 | **Level** | **Spells** |
 | --- | --- |
 | 1st | Mage Armor, Resist Magic, and Shield |
@@ -197,6 +199,8 @@ Spells of this school summon things, usually from other planes.
 ##### Adventurer Feat
 
 You gain a +1 bonus to attack rolls with your spells against enemies engaged with a creature you summoned.
+
+##### Spell List
 
 | **Level** | **Spells** |
 | --- | --- |
@@ -214,6 +218,8 @@ Spells of this school help you perceive things, both mundane and magical, and at
 
 When you perform an arcane ritual to gain information or predict the future, you have advantage on the ritual check.
 
+##### Spell List
+
 | **Level** | **Spells** |
 | --- | --- |
 | 1st | Hostile Probe, Painful Memory, Threat Assessment, and True Strike |
@@ -229,6 +235,8 @@ There are two types of Enchantment spells, those that mess with the mind and tho
 ##### Adventurer Feat
 
 Increase the difficulty of saves against spells of the Enchantment school by 1. (A natural 18+ on a save always succeeds.)
+
+##### Spell List
 
 | **Level** | **Spells** |
 | --- | --- |
@@ -246,6 +254,8 @@ Evocation spells summon raw magical force and the elements. Besides spells that 
 
 Once per battle, when casting an Evocation spell on more than one target, add an additional target.
 
+##### Spell List
+
 | **Level** | **Spells** |
 | --- | --- |
 | 1st | Chromatic Orb, Elemental Triad, Firebolt, Fog Cloud, Magic Missile, Ray of Frost, and Shocking Grasp |
@@ -262,6 +272,8 @@ Illusion spells create figments of imagination, either in the target’s mind or
 
 Double the duration of all illusion spells you cast that have a fixed duration.
 
+##### Spell List
+
 | **Level** | **Spells** |
 | --- | --- |
 | 1st | Blur, Color Spray, Mirror Image, Phantasmal Force, and Phantom Lance |
@@ -277,6 +289,8 @@ Transmutation manipulates the properties of a physical object, or changes it ent
 ##### Adventurer Feat
 
 Double the duration of any spell that targets physical objects, including cantrips.
+
+##### Spell List
 
 | **Level** | **Spells** |
 | --- | --- |
