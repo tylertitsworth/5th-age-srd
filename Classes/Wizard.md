@@ -919,13 +919,12 @@ If you cast the spell on a true magic item suit of armor, or equip it with magic
 
 While the armor provides strong protection, it has one weakness — when it takes damage, it needs a round to reassemble itself, and cannot attack that turn.
 
-#### Armor Golem
+#### Summoned Armor Golem
 
 | Normal 1st level | **Initiative +4; Pummel 6+ vs. AC--1d4 damage (or damage die or equipped weapon)** | **AC** **PD**| **17** **15** |
 | --- | --- | --- | --- |
 | **Troop** | _Magic item powers:_ as per equipped items | **MD** **HP** | **11** **22** |
 | | _Unstable Enchantment:_ When the armor golem takes damage, it cannot attack on your next turn. Instead, it uses its standard action to heal hit points equal to twice the spell level. | | |
-| |  | | |
 
 ##### Armor Golem Level Advancement
 
@@ -936,6 +935,7 @@ While the armor provides strong protection, it has one weakness — when it take
 | 5th | +8 | +11 | 5d4\* | 22 | 20 | 16 | 50 |
 | 7th | +10 | +14 | 7d4\* | 25 | 23 | 19 | 80 |
 | 9th | +12 | +17 | 9d4\* | 28 | 26 | 22 | 125 |
+
 >\* Increase damage die according to equipped item.
 
 #### Adventurer Feat
@@ -999,6 +999,7 @@ Evocation
 **Attack:** Intelligence + Level vs. PD
 
 **Hit:** 1d12 damage, plus damage type and effect depending on your choice for the color of the orb.
+
 | Color | Ability | Damage Type | Effect |
 | --- | --- | --- | --- |
 | Pearly | Light | Holy damage | The target is surrounded by bright light. It is also weakened (-4 to attacks and defenses; save ends). |
@@ -1793,7 +1794,7 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 
 Your clay golem regenerates a number of hit points equal to its level at the start of its turn.
 
-#### Clay Golem
+#### Summoned Clay Golem
 
 | Normal 3rd level | **Initiative +3; Clobbering Fist +6 vs. AC--7 damage** | **AC** **PD**| **14** **16** |
 | --- | --- | --- | --- |
@@ -2239,7 +2240,7 @@ Illusion
 
 **Effect:** You summon a mob of three phantom soldiers (below), as per the summoning rules. These soldiers fight for you until the end of the battle, or until they drop to 0 hp, whichever comes first.
 
-#### Phantom Soldier
+#### Summoned Phantom Soldier
 
 | Normal 3rd level | **Initiative +3; Ghostly Bohemian Ear Spoon +6 vs. AC--6 damage** | **AC** **PD**| **16** **12** |
 | --- | --- | --- | --- |
@@ -2639,7 +2640,7 @@ Conjuration
 
 Attacks by the hand deal +1d8 damage; +2d8 at 8th level.
 
-#### Bigby's Hand
+#### Summoned Bigby's Hand
 
 | Large 5th level | **Initiative +7; Clenched Fist +10 vs. PD--18 force damage** | **AC** **PD**| **21** **19** |
 | --- | --- | --- | --- |
@@ -2816,7 +2817,7 @@ Choose two abilities instead.
 
 Choose three abilities instead.
 
-#### Fantastic Beast
+#### Summoned Fantastic Beast
 
 | Normal 5th level | **Initiative +12; Phantom Claw +10 vs. AC--15 psychic damage** | **AC** **PD**| **19** **15** |
 | --- | --- | --- | --- |
@@ -3031,7 +3032,7 @@ Enemies engaged with the stone golem take a -2 penalty to any attack that does n
 
 The stone golem cannot be intercepted by creatures that aren’t large or bigger.
 
-#### Rock Golem
+#### Summoned Rock Golem
 
 | Normal 5th level | **Initiative +7; Phantom Claw +10 vs. AC--16 damage** | **AC** **PD**| **21** **21** |
 | --- | --- | --- | --- |
@@ -3344,14 +3345,14 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 | --- | --- |
 | 9th | You can now embed three gems worth at least 500 gp each to embed 5th level spells. |
 
-#### Gem Golem
+#### Summoned Gem Golem
 
 | Normal 7th level | **Initiative +11; Diamond Fist +13 vs. AC--25 damage; the golem has a +2 bonus to its critical threat range with the attack.** | **AC** **PD**| **23** **19** |
 | --- | --- | --- | --- |
 | **Caster Construct** | _Spellcasting:_ The golem can cast three spells that you embed when you create it. | **MD** **HP** | **21** **76** |
 | | _Golem immunity:_ Can’t be dazed, weakened, confused, made vulnerable, or touched by ongoing damage. | | |
 
-##### Rock Golem Level Advancement
+##### Gem Golem Level Advancement
 
 | Level | Initiative | Attack | Damage | AC | PD | MD | HP |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3776,7 +3777,7 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 
 When the magma golem engages an enemy, it deals 25 fire damage to them.
 
-#### Magma Golem
+#### Summoned Magma Golem
 
 | Normal 9th level | **Initiative +14; Diamond Fist +17 vs. AC--40 fire damage** | **AC** **PD**| **26** **24** |
 | --- | --- | --- | --- |
