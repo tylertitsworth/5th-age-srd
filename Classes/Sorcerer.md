@@ -302,7 +302,7 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 3 | Thunder |
 | 4 | Holy |
 
-#### Draconcic Bloodline
+#### Draconic Bloodline
 
 ##### Access to Wizardry
 
@@ -536,9 +536,7 @@ _Shrouding Spell (2 points):_ On a hit, give the target disadvantage on its next
 
 ## Class Talents
 
-### About Heritage Talents
-
-Sorcerers possess innate talent for magic that is impulsive and chaotic where wizardry is measured and studied. Most sorcerers have strong magical links to one of the sorcerous relationships.
+Sorcerers possess innate talent for magic that is impulsive and chaotic where wizardry is measured and studied. Most sorcerers have strong magical links to one of the sorcerous relationships by taking a Heritage talent.
 
 ### Animated Shadow
 
@@ -806,7 +804,7 @@ You can wield martial one-handed melee weapons without penalty, and you can choo
 - You can use a true magic item weapon as an implement for your sorcerer spells.
 - You can use Charisma for attack and damage with one-handed melee weapons.
 - You can wield two-handed martial melee weapons without penalty.
-- If you are multiclassed, the sorcerer side is considered a “skillful warrior” and does not reduce your weapon damage die. If you choose this benefit, you have one less sorcerer spell of the highest level you can cast.
+- If you are a hybrid, the sorcerer side is considered a “skillful warrior” and does not reduce your weapon damage die. If you choose this benefit, you have one less sorcerer spell of the highest level you can cast.
 - You can replace a sorcerer spell with a Swordmage spell two levels lower.
 - Increase your recovery dice to d8.
 - Gain the following metamagic ability: _Channel Spell (2 points):_ You deliver the spell through a melee attack. You must be engaged to all targets to do so. You don’t provoke opportunity attacks. The spell targets AC. On a hit, add your WEAPON damage dice to the damage.
