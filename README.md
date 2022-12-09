@@ -12,7 +12,7 @@ Install [Jekyll Dependencies](https://jekyllrb.com/docs/installation/).
 # Build the site and store in ./_site
 bundle install
 # Run the site locally, served at localhost:4000
-bundle exec jekyll serve
+bundle exec jekyll serve --force-polling
 ```
 
 {% endcomment %}
