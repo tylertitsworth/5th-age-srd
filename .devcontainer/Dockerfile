@@ -1,8 +1,3 @@
-#-------------------------------------------------------------------------------------------------------------
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
-#-------------------------------------------------------------------------------------------------------------
-
 FROM ruby:3.1
 
 # Avoid warnings by switching to noninteractive
@@ -17,3 +12,4 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 # Install pages requirements
 RUN gem install bundler
+RUN echo "bundle install && bundle exec jekyll serve" > ~/.bashrc
