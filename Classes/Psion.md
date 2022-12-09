@@ -13,7 +13,7 @@ Psions get 2 skill points in any Intelligence or Charisma skill like Arcana, His
 
 ## Gear
 
-At 1st level, psions start with adventuring clothes, a simple dagger (or a uniquely weird but similarly powerful weapon befitting to their background), and any other minor (and unusual) elements of gear their backgrounds suggest.
+At 1st level, psions start with adventuring clothes, a simple dagger (or a uniquely weird but similarly powerful weapon befitting to their background), and any other minor (and unusual) elements of gear their background suggests.
 
 ### Gold Pieces
 

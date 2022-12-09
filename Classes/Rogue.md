@@ -13,7 +13,7 @@ Rogues get 2 skill points in any Dexterity or Charisma skill like Acrobatics, St
 
 ## Gear
 
-At 1st level, rogues start with the clothes on their back and the dice in their pockets. They also start with various bladed weapons and some armor. Plus various oddments suggested by their backgrounds.
+At 1st level, rogues start with the clothes on their back and the dice in their pockets. They also start with various bladed weapons and some armor. Plus various oddments suggested by their background.
 
 ### Gold Pieces
 

@@ -13,7 +13,7 @@ Wizards get 2 skill points in any Intelligence or Wisdom skill like Arcana, Natu
 
 ## Gear
 
-At 1st level, a wizard usually has a dagger, a robe or two, a wand, ritual components in pouches, and other minor accouterments suggested by their backgrounds.
+At 1st level, a wizard usually has a dagger, a robe or two, a wand, ritual components in pouches, and other minor accouterments suggested by their background.
 
 ### Gold Pieces
 

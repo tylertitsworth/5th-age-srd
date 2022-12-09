@@ -13,7 +13,7 @@ Paladins get 2 skill points in any Strength or Charisma skill like Athletics, In
 
 ## Gear
 
-At 1st level, a paladin starts with a melee weapon or two, a ranged weapon if they want it, armor, a shield, and standard non-magical gear that is suggested by the character's backgrounds.
+At 1st level, a paladin starts with a melee weapon or two, a ranged weapon if they want it, armor, a shield, and standard non-magical gear that is suggested by the character's background.
 
 ### Gold Pieces
 

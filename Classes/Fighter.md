@@ -13,7 +13,7 @@ Fighters get 2 skill points in any Strength or Constitution skill like Athletics
 
 ## Gear
 
-At 1st level, a fighter starts with a melee weapon or two, a ranged weapon if they want it, armor, and standard non-magical gear that is suggested by the character's backgrounds.
+At 1st level, a fighter starts with a melee weapon or two, a ranged weapon if they want it, armor, and standard non-magical gear that is suggested by the character's background.
 
 ### Gold Pieces
 

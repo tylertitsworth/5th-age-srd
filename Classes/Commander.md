@@ -13,7 +13,7 @@ Commanders get 2 skill points in any Strength or Charisma skill like Endurance, 
 
 ## Gear
 
-At 1st level, commanders start with a melee weapon or two, a ranged weapon, a shield, light armor of some type (or heavy armor if they chose the Armor Skills talent), and other minor odds-and-ends suggested by their backgrounds.
+At 1st level, commanders start with a melee weapon or two, a ranged weapon, a shield, light armor of some type (or heavy armor if they chose the Armor Skills talent), and other minor odds-and-ends suggested by their background.
 
 ### Gold Pieces
 

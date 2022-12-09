@@ -13,7 +13,7 @@ Rangers get 2 skill points in any Dexterity or Strength skill like Acrobatics, A
 
 ## Gear
 
-At 1st level, a ranger starts with light armor, a melee weapon or two, a ranged weapon or two, and other mundane gear as suggested by their backgrounds.
+At 1st level, a ranger starts with light armor, a melee weapon or two, a ranged weapon or two, and other mundane gear as suggested by their background.
 
 ### Gold Pieces
 

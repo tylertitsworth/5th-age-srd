@@ -13,6 +13,8 @@ Barbarians get 2 skill points in any Strength or Constitution skill like Athleti
 
 ## Gear
 
+At 1st level, a barbarian starts with a melee weapon or two, light armor, and standard non-magical gear that is suggested by the character's background.
+
 ### Gold Pieces
 
 Barbarians start with 25gp.
@@ -380,7 +382,7 @@ You can now use Swap Quarry twice per battle.
 
 ### Tribal War Chief
 
-You gain three skill points in a skill that represents you past or your destiny as a tribal leader. In addtion, choose on eof the benefits below:
+You gain three skill points in a skill that represents you past or your destiny as a tribal leader. In addtion, choose on of the benefits below:
 
 - You inherited a treasured set of armor as a sign of your status. You take no penalty for wearing heavy armor.
 - Your voice rallies the troops. Choose a battle cry of your level or lower from the bard’s list.

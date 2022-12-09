@@ -13,7 +13,7 @@ Druids get 2 skill points in any Strength, Dexterity, or Wisdom skill like Athle
 
 ## Gear
 
-At 1st level, druids start with a melee weapon, light armor, possibly a staff, perhaps a bow or other ranged weapon, and other minor possessions suggested by their backgrounds.
+At 1st level, druids start with a melee weapon, light armor, possibly a staff, perhaps a bow or other ranged weapon, and other minor possessions suggested by their background.
 
 ### Gold Pieces
 

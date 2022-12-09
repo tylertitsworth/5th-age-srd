@@ -13,7 +13,7 @@ Clerics get 2 skill points in any Wisdom or Strength skill like Athletics, Craft
 
 ## Gear
 
-At 1st level, a cleric starts with a melee weapon, decent armor, a holy symbol, and other minor possessions suggested by their backgrounds. They might even have a crossbow.
+At 1st level, a cleric starts with a melee weapon, decent armor, a holy symbol, and other minor possessions suggested by their background. They might even have a crossbow.
 
 ### Gold Pieces
 

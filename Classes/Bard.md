@@ -13,7 +13,7 @@ Bards get 2 skill points in any Dexterity or Charisma skill like Acrobatics, Per
 
 ## Gear
 
-At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of gear their backgrounds suggest.
+At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of gear their background suggests.
 
 ### Gold Pieces
 

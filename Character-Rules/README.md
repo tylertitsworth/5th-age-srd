@@ -13,9 +13,11 @@ Each species provides a +2 bonus to one of your ability scores.
 
 ## Class
 
-Every character has a [class](../Classes). Pick one of these too.
+Every character has a [class](../Classes/README.md). Pick one of these too.
 
 Each class provides a +2 bonus to one of your ability scores.
+
+>_Note:_ You might want to define your [One Unique Thing](#one-unique-thing) and [Relationships](#relationships) first before determining your class talents.
 
 ## Abilities
 
@@ -91,7 +93,7 @@ Each class also has a different recovery die, usually a d6, d8, or d10, as speci
 
 ### Attacks and Powers
 
-You calculate attack and damage rolls based on the ability scores favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. See [Classes](../Classes) for more information.
+You calculate attack and damage rolls based on the ability scores favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. See [Classes](../Classes/README.md) for more information.
 
 ## One Unique Thing
 

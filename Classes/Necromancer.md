@@ -13,7 +13,7 @@ Necromancers get 2 skill points in any Intelligence or Charisma skill like Arcan
 
 ## Gear
 
-At 1st level, a necromancer starts with various dark robes or traveling clothes, a dagger, a staff, a few treasured bones or funerary urns, and other miscellaneous items suggested by their backgrounds.
+At 1st level, a necromancer starts with various dark robes or traveling clothes, a dagger, a staff, a few treasured bones or funerary urns, and other miscellaneous items suggested by their background.
 
 ### Gold Pieces
 

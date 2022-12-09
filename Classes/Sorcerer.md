@@ -13,7 +13,7 @@ Sorcerers get 2 skill points in any Charisma or Constitution skill like Intimida
 
 ## Gear
 
-At 1st level, a sorcerer usually has a simple melee weapon, a few changes of clothing, a wand or staff, and other paraphernalia suggested by their backgrounds.
+At 1st level, a sorcerer usually has a simple melee weapon, a few changes of clothing, a wand or staff, and other paraphernalia suggested by their background.
 
 ### Gold Pieces
 
