@@ -45,6 +45,10 @@ You get 16 points to buy your abilities using the chart below.
 | 9 | -1 |
 | 8 | -2 |
 
+### Stat Generator
+
+{% include point-buy.html %}
+
 ## Combat Stats
 
 For details on how combat works, see [Combat Rules](./Combat.md).
