@@ -1,6 +1,7 @@
 ---
 layout: doc
 ---
+
 # Character Rules
 
 These rules are for the character you create, your PC (playable character).
@@ -44,6 +45,10 @@ You get 16 points to buy your abilities using the chart below.
 | 10 | 0 |
 | 9 | -1 |
 | 8 | -2 |
+
+### Stat Generator
+
+{% include point-buy.html %}
 
 ## Combat Stats
 

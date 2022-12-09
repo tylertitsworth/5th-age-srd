@@ -1,0 +1,152 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./point-buy.js"></script>
+
+<table class="point-buy">
+    <tr class="theaders">
+        <th><b>Ability</b></th>
+        <th><b>Score</b></th>
+        <th></th>
+        <th><b>Bonus</b></th>
+        <th></th>
+        <th><b>Total Score</b></th>
+        <th><b>Modifier</b></th>
+        <th><b>Point Cost</b></th><script type="text/javascript" src="./point-buy.js"></script>
+    </tr>
+    <tr class="strength">
+        <th>Strength</th>
+        <th>
+            <input type="number" id="abilityStr" name="abilityStr" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusStr" name="bonusStr" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalStr">10</span>
+        </th>
+        <th>
+            <span id="modifierStr">0</span>
+        </th>
+        <th>
+            <span id="costStr">0</span>
+        </th>
+    </tr>
+    <tr class="dexterity">
+        <th>Dexterity</th>
+        <th>
+            <input type="number" id="abilityDex" name="abilityDex" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusDex" name="bonusDex" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalDex">10</span>
+        </th>
+        <th>
+            <span id="modifierDex">0</span>
+        </th>
+        <th>
+            <span id="costDex">0</span>
+        </th>
+    </tr>
+    <tr class="constitution">
+        <th>Constitution</th>
+        <th>
+            <input type="number" id="abilityCon" name="abilityCon" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusCon" name="bonusCon" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalCon">10</span>
+        </th>
+        <th>
+            <span id="modifierCon">0</span>
+        </th>
+        <th>
+            <span id="costCon">0</span>
+        </th>
+    </tr>
+    <tr class="intelligence">
+        <th>Intelligence</th>
+        <th>
+            <input type="number" id="abilityInt" name="abilityInt" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusInt" name="bonusInt" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalInt">10</span>
+        </th>
+        <th>
+            <span id="modifierInt">0</span>
+        </th>
+        <th>
+            <span id="costInt">0</span>
+        </th>
+    </tr>
+    <tr class="wisdom">
+        <th>Wisdom</th>
+        <th>
+            <input type="number" id="abilityWis" name="abilityWis" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusWis" name="bonusWis" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalWis">10</span>
+        </th>
+        <th>
+            <span id="modifierWis">0</span>
+        </th>
+        <th>
+            <span id="costWis">0</span>
+        </th>
+    </tr>
+    <tr class="charisma">
+        <th>Charisma</th>
+        <th>
+            <input type="number" id="abilityCha" name="abilityCha" value="10" min="8" max="18" onchange="getTotal()">
+        </th>
+        <th>+</th>
+        <th>
+            <input type="number" id="bonusCha" name="bonusCha" value="0" min="0" max="10" onchange="getTotal()">
+        </th>
+        <th>=</th>
+        <th>
+            <span id="totalCha">10</span>
+        </th>
+        <th>
+            <span id="modifierCha">0</span>
+        </th>
+        <th>
+            <span id="costCha">0</span>
+        </th>
+    </tr>
+    <tr class="total">
+        <th></th>
+        <th>
+            <input type="button" class="Reset" value="Reset" onclick="scoreReset()">
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th><b>Total Points</b></th>
+        <th>
+            <span class="totalCost" id="totalCost">0</span>
+            /
+            <span id="totalPoints">16</span>
+        </th>
+    </tr>
+</table>
