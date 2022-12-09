@@ -15,6 +15,9 @@ RUN apt-get update \
     && apt-get autoremove -y \
     && apt-get clean -y \
     && rm -rf /var/lib/apt/lists/*
+# Install pages requirements
 RUN gem install bundler
-RUN git clone https://github.com/tylertitsworth/5th-age-srd .
-RUN bundle install
+# Clone repository
+RUN git clone https://github.com/tylertitsworth/5th-age-srd
+# Install srd dependencies
+RUN bundle install --gemfile=./5th-age-srd/Gemfile
