@@ -6,14 +6,14 @@ An adaption of the [13th Age Archmage Engine](https://www.13thagesrd.com/) combi
 
 # Running Jekyll
 
-Install [Jekyl Dependencies](https://jekyllrb.com/docs/installation/).
+Install [Jekyll Dependencies](https://jekyllrb.com/docs/installation/).
 
 ```bash
+# Build the site and store in ./_site
 bundle install
+# Run the site locally, served at localhost:4000
 bundle exec jekyll serve
 ```
-
-Open to `localhost:4000` to view the site.
 
 {% endcomment %}
 
