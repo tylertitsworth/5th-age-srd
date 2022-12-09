@@ -1,7 +1,6 @@
 ---
 layout: doc
 ---
-
 # Character Rules
 
 These rules are for the character you create, your PC (playable character).
