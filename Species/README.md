@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Species
 
 The major species included in 5th Age include humans, dwarves, elves, gnomes, half-elves, half-orcs, and halflings. Your character need not be limited to these species, however. Minor species, including Dragonborn, Aasimar, Warforged, and Tiefling, are also referenced below.
