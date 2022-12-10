@@ -5,7 +5,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Configure apt and install packages
 RUN apt-get update \
-    && apt-get -y install --no-install-recommends git gcc \
+    && apt-get -y install --no-install-recommends git gcc vim \
     # Clean up
     && apt-get autoremove -y \
     && apt-get clean -y \
