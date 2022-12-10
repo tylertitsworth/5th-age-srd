@@ -1,6 +1,5 @@
-node_modules
-package.json
-package-lock.json
 .markdownlint.json
-
+.vscode
+Gemfile.lock
+_site
 # In Progress

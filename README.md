@@ -2,6 +2,21 @@
 
 An adaption of the [13th Age Archmage Engine](https://www.13thagesrd.com/) combined with more elements from Dungeons and Dragons 4th Edition and 5th Edition.
 
+{% comment %}
+
+# Running Jekyll
+
+Install [Jekyll Dependencies](https://jekyllrb.com/docs/installation/).
+
+```bash
+# Build the site and store in ./_site
+bundle install
+# Run the site locally, served at localhost:4000
+bundle exec jekyll serve --force-polling
+```
+
+{% endcomment %}
+
 # Table of Contents
 
 - [Character Rules](./Character-Rules/README.md)
