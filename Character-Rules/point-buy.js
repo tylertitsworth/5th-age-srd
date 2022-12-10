@@ -1,3 +1,19 @@
+function middleVal(a, b, c) {
+   // x is positive if a is greater than b.
+   // x is negative if b is greater than a.
+    x = a - b;
+    y = b - c;
+    z = a - c;
+   // Checking if b is middle (x and y both are positive)
+    if (x * y > 0) {
+        return b;
+    } else if (x * z > 0) {
+        return c;
+    } else {
+        return a;
+    }
+}
+
 function getTotal() {
     var abilityModifiers = [-5, -5, -4, -4, -3, -3, -2, -2, -1, -1, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9];
 
@@ -61,6 +77,15 @@ function getTotal() {
     $('span#modifierWis').html(modifierWis);
     $('span#modifierCha').html(modifierCha);
     $('span#totalCost').html(totalCost);
+
+    middleAC = middleVal(modifierCon, modifierDex, modifierWis);
+    middlePD = middleVal(modifierStr, modifierCon, modifierDex);
+    middleMD = middleVal(modifierInt, modifierWis, modifierCha);
+
+    $('span#init').html(modifierDex);
+    $('span#ac').html(middleAC);
+    $('span#pd').html(middlePD);
+    $('span#md').html(middleMD);
 }
 
 function scoreReset() {
@@ -99,4 +124,9 @@ function scoreReset() {
     $('span#modifierWis').html(0);
     $('span#modifierCha').html(0);
     $('span#totalCost').html(0);
+
+    $('span#init').html(0);
+    $('span#ac').html(0);
+    $('span#pd').html(0);
+    $('span#md').html(0);
 }

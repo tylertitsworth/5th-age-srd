@@ -3,16 +3,19 @@
 <script type="text/javascript" src="./point-buy.js"></script>
 
 <table class="point-buy">
-    <tr class="theaders">
-        <th><b>Ability</b></th>
-        <th><b>Score</b></th>
-        <th></th>
-        <th><b>Bonus</b></th>
-        <th></th>
-        <th><b>Total Score</b></th>
-        <th><b>Modifier</b></th>
-        <th><b>Point Cost</b></th><script type="text/javascript" src="./point-buy.js"></script>
-    </tr>
+    <thead>
+        <tr>
+            <th>Ability</th>
+            <th>Score</th>
+            <th></th>
+            <th>Bonus</th>
+            <th></th>
+            <th>Total Score</th>
+            <th>Modifier</th>
+            <th>Point Cost</th>
+            <th>Combat Bonuses</th>
+        </tr>
+    </thead>
     <tr class="strength">
         <th>Strength</th>
         <th>
@@ -31,6 +34,9 @@
         </th>
         <th>
             <span id="costStr">0</span>
+        </th>
+        <th>Init:
+            <span id="init">0</span>
         </th>
     </tr>
     <tr class="dexterity">
@@ -52,6 +58,9 @@
         <th>
             <span id="costDex">0</span>
         </th>
+        <th>AC: 
+            <span id="ac">0</span>
+        </th>
     </tr>
     <tr class="constitution">
         <th>Constitution</th>
@@ -72,6 +81,9 @@
         <th>
             <span id="costCon">0</span>
         </th>
+        <th>PD: 
+            <span id="pd">0</span>
+        </th>
     </tr>
     <tr class="intelligence">
         <th>Intelligence</th>
@@ -91,6 +103,9 @@
         </th>
         <th>
             <span id="costInt">0</span>
+        </th>
+        <th>MD: 
+            <span id="md">0</span>
         </th>
     </tr>
     <tr class="wisdom">
