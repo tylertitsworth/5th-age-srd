@@ -5,7 +5,7 @@ layout: doc
 
 ## Species Bonus
 
-+2 Dex or +2 Int
++2 Int or +2 Wis
 
 ### Small
 

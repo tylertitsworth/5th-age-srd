@@ -5,11 +5,11 @@ layout: doc
 
 ## Species Bonus
 
-+2 Con or +2 Dex
++2 Dex or +2 Cha
 
 ### Small
 
-Gnomes have a +2 AC bonus against opportunity attacks.
+Halflings have a +2 AC bonus against opportunity attacks.
 
 ## Species Power
 
