@@ -3,7 +3,7 @@ layout: doc
 ---
 # Species
 
-The major species included in 5th Age include humans, dwarves, elves, gnomes, half-elves, half-orcs, and halflings. Your character need not be limited to these species, however. Minor species, including Dragonborn, Aasimar, Warforged, and Tiefling, are also referenced below.
+The major species included in 5th Age include humans, dragonborn, dwarves, elves, half-elves, half-orcs, halflings, and tieflings. Your character need not be limited to these species, however. Minor species, including aasimar, gnomes, lizardfolk, tabaxi, and warforged, are also referenced below.
 
 Each species is associated with two ability scores, one of which can be chosen for your character's species bonus.
 
