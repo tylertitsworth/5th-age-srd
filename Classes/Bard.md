@@ -224,7 +224,7 @@ Once per battle, reroll an attack that was meant to trigger a battle cry but did
 
 ### Echo of the Tunnels
 
-The bards of the subterranean races, especially dwarves, have learned to use the echo of the caverns to strengthen their bardic magic.
+The bards of a subterranean species, especially dwarves, have learned to use the echo of the caverns to strengthen their bardic magic.
 
 When your music can echo off stone, such as in a castle or underground, you have advantage on sustain checks for your bardic songs.
 

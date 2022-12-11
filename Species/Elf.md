@@ -31,7 +31,7 @@ Once per day, you can instead use _cruel_ to deal 5 ongoing damage per level aga
 
 ### Species Bonus
 
-+2 Int or +2 Cha
++2 Dex or +2 Int
 
 ### Species Power
 

@@ -351,7 +351,7 @@ Once per battle, when the escalation die is 3+, make a melee attack as a quick a
 
 ### Eidolon of Anarchy
 
-As a rampant psionic vessel, your body isn’t stable. The color of your hair, eyes and even skin keeps shifting through all the colors of the rainbow, based on your mood, the weather, and the whims of psionics. On some days, you wake up as a different race or gender. All of this is wildly confusing to others, but you were born with it and know this is who you are. When you manifest a affinity, it’s less of a conscious act of casting than a failure to contain the psionics.
+As a rampant psionic vessel, your body isn’t stable. The color of your hair, eyes and even skin keeps shifting through all the colors of the rainbow, based on your mood, the weather, and the whims of psionics. On some days, you wake up as a different species or gender. All of this is wildly confusing to others, but you were born with it and know this is who you are. When you manifest a affinity, it’s less of a conscious act of casting than a failure to contain the psionics.
 
 Since psionics are a manifestation of your physical being, you use Constitution instead of Charisma for all Psion affinities.
 
