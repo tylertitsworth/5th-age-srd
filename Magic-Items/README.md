@@ -5,20 +5,6 @@ layout: doc
 
 There are two types of magic item. True magic items are permanent magic items used as loot during adventures and rewards for success. One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See Loot: Treasure Rewards for notes on the wealth successful characters earn each adventure.)
 
-## Table of Contents  <!-- omit in toc -->
-
-- [Magic Items](#magic-items)
-  - [One-Use Items](#one-use-items)
-  - [True Magic Items](#true-magic-items)
-    - [Magic Item Personalities \& Quirks](#magic-item-personalities--quirks)
-  - [Chakras](#chakras)
-    - [One Size Fits](#one-size-fits)
-  - [Magic Item Basics](#magic-item-basics)
-    - [Default Bonuses](#default-bonuses)
-    - [Magic Item Powers](#magic-item-powers)
-    - [Useful Magic Items by Class](#useful-magic-items-by-class)
-  - [Artifacts](#artifacts)
-
 ## One-Use Items
 
 The common types of one-use items include potions, oils, and runes.
