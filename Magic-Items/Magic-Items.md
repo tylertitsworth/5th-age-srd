@@ -1561,8 +1561,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 #### Dispelling Stone
 
-This smooth, rainbow-colored, egg-shaped stone can be thrown and explode with magical energy in a nearby area on impact, destroying the stone. Any active spell of 7th level or lower in the explosion 
-ends.
+This smooth, rainbow-colored, egg-shaped stone can be thrown and explode with magical energy in a nearby area on impact, destroying the stone. Any active spell of 7th level or lower in the explosion ends.
 
 #### Ghost Step Tattoo
 
