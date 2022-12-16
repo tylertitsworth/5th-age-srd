@@ -11,6 +11,8 @@ Every character has a [species](../Species/README.md). Pick one for your charact
 
 Each species provides a +2 bonus to one of your ability scores.
 
+>_Note:_ Your species ability score bonus cannot be the same as your class ability score bonus.
+
 ## Class
 
 Every character has a [class](../Classes/README.md). Pick one of these too.
