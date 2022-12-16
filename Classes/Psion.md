@@ -118,9 +118,9 @@ Psions are not allowed to cast rituals.
 
 Psionics has three main categories of affinities: attack, defense, and iconic.
 
-Since the category of affinities you'll cast is randomly chosen, you'll need to assign the sides of a d6 to each category. For example, you might assign 1 and 2 to attack, 3 and 4 to defense, and 5 and 6 to iconic. You roll a d6 to determine the category of affinities at the start of a battle when you roll intiative, at the end of your turn, or as required during your turn if you somehow get an extra standard action.
+You have a pool of 6 options, represented by a die. You can allocate Attack, Defense, and Iconic options equally between the numbers on a die. When you roll a number, you gain the associated affinity and you can't roll the number again until you have rolled all options numbers on the die. When you have exhausted every number, you reset.
 
-Subsequent rolls cannot be the same as the previous roll. If you roll the same number twice in a row, you must choose to reroll. You might want to re-assign the sides of the d6 to the categories as the game progresses. After you have exhausted all of the affinity options you start over with the original 6 options.
+If you would gain another affinity, you add that to your pool of options and increase the size of the die you would roll.
 
 If you roll…
 
@@ -305,7 +305,7 @@ When you roll a natural 20 with an attack, the critical hit range of your attack
 
 ### Blip of Bard
 
-You gain a random affinity or song from the bard class. Whenever you take a full heal-up, randomly choose a bard affinity of up to the highest level you can cast. For the rest of the day, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your chaos mage affinitycasting sequence.
+You gain 1 affinity of Bard. Whenever you take a full heal-up, randomly choose a bard spell or song up to the highest level you can cast. For the rest of the day, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your psion affinity casting sequence.
 
 #### Adventurer Feat
 
@@ -438,7 +438,7 @@ When you teleport, you can heal using a recovery.
 
 ### Stench of Necromancy
 
-You gain a random affinity from the necromancer class. Whenever you take a full heal-up, randomly choose a necromancer affinity of the highest level you can cast. For the rest of the day, you know this necromancer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain 1 affinity of Necromancer. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your turn.
 
 If the necromancer affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
@@ -456,7 +456,7 @@ If you don't like the first random necromancer affinity you select for the day, 
 
 ### Touch of Wizardry
 
-You gain a random affinity from the wizard class. Whenever you take a full heal-up, randomly choose a wizard affinity of the highest level you can cast. For the rest of the day, you know this wizard affinity and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain 1 affinity of Wizard. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard affinity and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or daily—when that option is rolled during your turn.
 
 If the wizard affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
@@ -474,7 +474,7 @@ If you don't like the first random wizard affinity you select for the day, you c
 
 ### Trace of the Divine
 
-You gain a random affinity from the cleric class. Whenever you take a full heal-up, randomly choose a cleric affinity of the highest level you can cast. For the rest of the day, you know this cleric affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain 1 affinity of Cleric. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your turn.
 
 If the cleric affinity refers to Wisdom, you can replace that ability score with references to Charisma.
 
@@ -508,7 +508,7 @@ While you are staggered, all damage dice of your affinities are exploding dice (
 
 ### Whiff of Sorcery
 
-You gain a random affinity from the sorcerer class. Whenever you take a full heal-up, randomly choose a sorcerer affinity of the highest level you can cast. For the rest of the day, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option comes up during your turn.
+You gain 1 affinity of Sorcery. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your turn.
 
 #### Adventurer Feat
 
