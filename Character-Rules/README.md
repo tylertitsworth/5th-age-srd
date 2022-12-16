@@ -7,7 +7,7 @@ These rules are for the character you create, your PC (playable character).
 
 ## Species
 
-Every character has a [species](../Species). Pick one for your character. If you want to make a non-standard species for your character, the rules won't hinder you. The system is designed to be flexible enough to allow for improvisation.
+Every character has a [species](../Species/README.md). Pick one for your character. If you want to make a non-standard species for your character, the rules won't hinder you. The system is designed to be flexible enough to allow for improvisation.
 
 Each species provides a +2 bonus to one of your ability scores.
 
