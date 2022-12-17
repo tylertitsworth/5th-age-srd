@@ -36,6 +36,11 @@ body {
   background-color: $body-bg-color;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+}
+
 #skip-to-content {
   height: 1px;
   width: 1px;
