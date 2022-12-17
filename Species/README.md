@@ -32,3 +32,7 @@ Each species is associated with two ability scores, one of which can be chosen f
 The character also receives a separate class bonus. These two bonuses must apply to different ability scores.
 
 Each species also provides the character a special power that can be used once per battle. (It is regained after a quick rest.) This is called the _species power_.
+
+## Species Finder
+
+{% include find-species.html %}
