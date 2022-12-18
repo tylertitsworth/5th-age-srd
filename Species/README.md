@@ -36,3 +36,5 @@ Each species also provides the character a special power that can be used once p
 ## Species Finder
 
 {% include find-species.html %}
+
+>_Note:_ Hover over the options if it is not clear what they are.
