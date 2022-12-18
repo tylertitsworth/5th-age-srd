@@ -48,6 +48,8 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | **Light or Simple** | 1d6 javelin | 1d6 (-3 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (-4 atk) heavy crossbow | 1d8 (-3 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Monk** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Forms (H)** | **Ki (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -111,6 +113,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -2335,6 +2339,8 @@ Close-quarters power
 **Miss:** Half damage
 
 **Always:** Until the end of the battle, when your monk attack is a natural 1-5, you can spend 2 ki points to use Avalanche Breath as a quick action once on the same turn.
+
+---
 
 ## Epic Tier Forms
 

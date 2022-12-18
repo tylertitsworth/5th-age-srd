@@ -57,6 +57,8 @@ The environment the PCs are in determines the DC of skill checks and other chall
 | Hard task | DC 30 |
 | Ridiculously hard task | DC 35 |
 
+---
+
 ## Impromptu Damage
 
 When you need to determine how much damage some effect deals, use the chart below, basing the damage on two things: the environment, and whether the damage affects one character or many.

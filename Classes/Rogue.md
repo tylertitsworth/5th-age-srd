@@ -52,6 +52,8 @@ Rogues start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–1 atk) heavy crossbow | 1d8 (-2 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Rogue Level** | **Total Hit Points** | **Total Feats** | **Powers Known (H)** | **Power Pool Available (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -117,6 +119,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** Damage equal to your level
+
+---
 
 ## Class Features
 
@@ -1855,6 +1859,8 @@ At-Will
 
 **Miss:** —
 
+---
+
 ## 5th Level Powers
 
 ### Blade Salvo
@@ -2267,6 +2273,8 @@ Shadow
 **Miss:** —
 
 _Natural odd miss:_ The target notices your intrusion into their mind.
+
+---
 
 ## 7th Level Powers
 

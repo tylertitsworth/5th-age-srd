@@ -52,6 +52,8 @@ Bards start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–1 atk) heavy crossbow | 1d8 (–2 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Bard Level** | **Total Hit Points** | **Total Feats** | **Battle Cries (H)** | **Spells & Songs, 1st level (H)** | **Spells & Songs, 3rd level (H)** | **Spells & Songs, 5th level (H)** | **Spells & Songs, 7th level (H)** | **Spells & Songs, 9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -118,6 +120,8 @@ At-Will
 
 **Miss:** —
 
+---
+
 ## Class Features
 
 As a bard advances in level, they have three different types of powers to choose in combat: bardic songs, battle cries, and spells.
@@ -167,6 +171,8 @@ You can generate the effect of any 1st or 3rd level battle cry you know as a sta
 Bards use arcane spells that function like those of other spell-casting classes. Some spells are daily, some recharge, and others are at-will.
 
 Unlike most character classes, bards use two different ability scores for their attacks. Their melee and ranged weapon attacks use Strength or Dexterity, while their spells use Charisma.
+
+---
 
 ## Class Talents
 
@@ -656,6 +662,8 @@ Quick action each turn; 6+ to sustain
 | 7th | Add +10 hp to the recovery. |
 | 9th | Add +15 hp to the recovery. |
 
+---
+
 ## 1st Level Spells
 
 ### Battle Chant
@@ -988,6 +996,8 @@ Flexible melee attack
 **Triggering Roll:** Any hit
 
 **Effect:** Choose a nearby ally. That ally can either roll a save against a save ends effect or roll a normal save against a condition that has a duration that lasts until the end or beginning of a turn.
+
+---
 
 ## 3rd Level Songs
 
@@ -1704,6 +1714,8 @@ Flexible melee attack
 | --- | --- |
 | 9th | 2d20 psychic damage. |
 
+---
+
 ## 7th Level Songs
 
 ### Dancing Blade
@@ -1803,6 +1815,8 @@ Quick action each turn; 16+ to sustain
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 7d6 damage. |
+
+---
 
 ## 7th Level Spells
 

@@ -841,6 +841,8 @@ A sorcerer’s army is usually light and highly mobile. Unlike other classes the
 | 76–80 | Dragonborn Ambassador |
 | 81–100 | Roll on the Special Allies table |
 
+---
+
 ## Other Followers
 
 ### Special Allies

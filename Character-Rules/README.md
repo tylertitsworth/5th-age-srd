@@ -153,6 +153,8 @@ At 5th level, or any time thereafter, you can switch an existing relationship po
 
 When you reach epic level (8th), you gain another relationship point, which you can use to increase an existing relationship by one, including up to 1 point over maximum. As at 5th level, if switching a relationship point from one to another makes sense for your 8th level character, go for it.
 
+---
+
 ## Skill Checks
 
 Skills represent pieces of your character's history that contributes to your character's history as well as their ability to succeed with non-combat skills.

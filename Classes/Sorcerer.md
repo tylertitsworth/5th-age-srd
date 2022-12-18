@@ -54,6 +54,8 @@ Sorcerers start with 25gp.
 
 >\*A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
+---
+
 ## Level Progression
 
 | **Sorcerer Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -119,6 +121,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -659,6 +663,8 @@ _Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit point
 _Shadow Spell (1 point):_ Change the spell’s damage to psychic damage. The spell cannot be countered by abilities such as the blue dragon’s counter-spell.
 
 _Shrouding Spell (2 points):_ On a hit, give the target disadvantage on its next attack roll against you.
+
+---
 
 ## Class Talents
 

@@ -52,6 +52,8 @@ Ranged weapons can be reloaded as part of the standard action in which they are 
 - Heavy/martial, crossbow: heavy crossbow
 - Heavy/martial, bow: longbow
 
+---
+
 ## Economy
 
 One platinum piece (pp) equals 10 gold pieces. One gold piece (gp) equals 10 silver pieces. One silver piece (sp) equals 10 copper pieces (cp).

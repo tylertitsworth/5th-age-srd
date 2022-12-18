@@ -52,6 +52,8 @@ Fighters start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
 
+---
+
 ## Level Progression
 
 | **Fighter Level** | **Total Hit Points** | **Total Feats** | **Maneuvers Known (H)** | **Maneuver Pool Available (H)** | **Class Talents** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -119,6 +121,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -1624,6 +1628,8 @@ _Special:_ You must have the Skilled Intercept talent to use this maneuver.
 **Triggering Roll:** Any natural even roll
 
 **Effect:** The next time you use Skilled Intercept this battle, your Skilled Intercept save automatically succeeds.
+
+---
 
 ## 7th Level Maneuvers
 

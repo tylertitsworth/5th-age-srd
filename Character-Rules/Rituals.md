@@ -17,6 +17,8 @@ Like a ritual book, a ritual scroll can be purchased for the given market price.
 
 Even though a ritual scroll lets you perform a ritual, you can neither master a ritual from a scroll nor copy a scroll into a ritual book. A scroll is a condensed version of a ritual, partially cast and primed so that it only takes up a single page.
 
+---
+
 ## Ritual Book
 
 You can buy ritual books or find them as treasure. You can also make a copy of an existing ritual book. When you explore a ruined library, delve into a lost temple, or do away with a villainous wizard, you might discover tomes on arcane philosophy that contain rituals. Such ritual books are part of the treasure you acquire while adventuring.
@@ -602,6 +604,8 @@ An affected creature suffers no ill effects from ambient temperatures between â€
 
 **Effect:** You or an ally can move on water as if it were solid ground. The target of this ritual can end its benefits as a free action. The target can immerse itself in water or swim underwater if desired without needing to end the ritual.
 
+---
+
 ## Level 2 Rituals
 
 ### Generic Rituals
@@ -1140,6 +1144,8 @@ Any food or water created but uneaten disappears at the end of the duration.
 | 20-29 | 8 hours |
 | 30 or higher | 24 hours |
 
+---
+
 ## Level 3 Rituals
 
 ### Arcane Rituals
@@ -1533,6 +1539,8 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 | 20-29 | 8 hours |
 | 30 or higher | 24 hours |
 
+---
+
 ## Level 4 Rituals
 
 ### Arcane Rituals
@@ -1898,6 +1906,8 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 | 15-24 | 6 hours |
 | 25 or higher | 12 hours |
 
+---
+
 ## Level 5 Rituals
 
 ### Arcane Rituals
@@ -2088,6 +2098,8 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 | 25-34 | Huge Area |
 | 35 or higher | Massive Area |
 
+---
+
 ## Level 6 Rituals
 
 ### Arcane Rituals
@@ -2225,6 +2237,8 @@ Ten minutes after you finish performing the ritual, the oracle leaves, even if y
 
 Greater heroes accrue greater fatigue and require more effort to recuperate. At 8th level, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
 
+---
+
 ## Level 7 Rituals
 
 ### Arcane Rituals
@@ -2343,6 +2357,8 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 
 **Effect:** You and all allies within 5 squares of you become weightless and gain the overland flight ability. You lose your quick, interrupt, and regular actions while flying, and can use your move action only to fly. If you take actions to do anything else, you crash. When using this ritual to fly for 10 hours, including rests, you can travel approximately 100 miles.
 
+---
+
 ## Level 8 Rituals
 
 ### Divine Rituals
@@ -2364,6 +2380,8 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 | 14 or lower | 3 hours |
 | 15-24 | 8 hours |
 | 25 or higher | 1 day |
+
+---
 
 ## Level 9 Rituals
 
@@ -2453,6 +2471,8 @@ The guidance from the entity of fate is accurate, but great heroes are capable o
 You can also elect to change the mote's altitude up to 1 mile over the course of the duration.
 
 Those who know this ritual keep it carefully guarded, for the ritual has devastating potential.
+
+---
 
 ## Level 10 Rituals
 

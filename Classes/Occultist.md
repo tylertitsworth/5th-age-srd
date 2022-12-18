@@ -54,6 +54,8 @@ The occultist start with 25gp.
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Occultist** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
@@ -117,6 +119,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 

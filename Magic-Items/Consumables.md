@@ -42,6 +42,8 @@ When you drink one of these potions, you gain resistance to a single specified e
 | Champion | Resist 16+ | 200 gp |
 | Epic | Resist 16+ | 400 gp |
 
+---
+
 ## Oils
 
 While potions affect creatures, magic oils affect items. Oils provide temporary magical enhancement to weapons, armor, and spellcasters' implements.
@@ -61,6 +63,8 @@ Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher
 | Adventurer | +1 Oil | 100 gp |
 | Champion | +2 Oil | 200 gp |
 | Epic | +3 Oil | 400 gp |
+
+---
 
 ## Runes
 

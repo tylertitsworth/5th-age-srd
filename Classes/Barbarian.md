@@ -52,6 +52,8 @@ Barbarians start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe, spear | 1d6 (–5 atk) light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 longbow |
 
+---
+
 ## Level Progression
 
 | **Barbarian Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Furies** | **Level-up Ability Bonuses** | **Damage Bonus from Ability Score** |
@@ -116,6 +118,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Feature
 

@@ -52,6 +52,8 @@ Rangers start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
 
+---
+
 ## Level Progression
 
 | **Ranger Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -115,6 +117,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** Damage equal to your level
+
+---
 
 ## Class Talents
 

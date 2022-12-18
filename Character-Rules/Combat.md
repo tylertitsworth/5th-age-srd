@@ -102,6 +102,8 @@ Bonuses and effects to a single stat stack with each other, with these exception
 - Many condition penalties don't stack. Only the worst one counts.
 - Powers, spells, and abilities don't stack with themselves or with other game elements with the same name. This works for both PCs and monsters.
 
+---
+
 ## Combat Sequence
 
 At the start of combat, each player rolls initiative for his or her character and the GM rolls for their opponents, with higher-rolling characters or enemies acting earlier each round.
@@ -167,6 +169,8 @@ At the start of the second round, the GM sets the escalation die at 1. Each PC g
 Monsters and NPCs do not add the escalation die bonus to their attacks
 
 If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
+
+---
 
 ## Combat Actions
 
@@ -362,6 +366,8 @@ Once a battle, every PC can use a standard action to rally, spending one of thei
 
 If you want to rally again later in the same battle, make a normal save (11+). If you succeed, you can rally again that battle. If you fail the save, you can take your turn normally, but you can't rally that round.
 
+---
+
 ## Attacks
 
 Most attacks follow the general attack rules, except as indicated below.
@@ -452,6 +458,8 @@ You do not get an extra attack for fighting with two weapons.
 
 Some classes (and class talents) provide other advantages when fighting with two weapons. Those classes still get to use this basic two-weapon advantage.
 
+---
+
 ## Damage and Healing
 
 Damage and healing affect hit points. Healing also involves _recoveries_.
@@ -489,6 +497,8 @@ In general, monsters become staggered when they take damage equal to half their 
 When you drop to 0 hp or below, you fall unconscious. You can't take any actions until you're conscious again, though you do make a death save at the start of each of your turns. (See Death and Dying.)
 
 When monsters drop to 0 hp, it means they've been slain, unless the characters' intent is to keep the monster alive and the attack seems like a potentially humane blow that could knock the monster unconscious instead.
+
+---
 
 ## Death and Dying
 
@@ -544,6 +554,8 @@ After a full heal-up, your hit points reset to full. You regain any recoveries y
 
 If the party is short of a heal-up but is too beat up to press on, they can retreat and take a full heal-up, which entails a campaign loss. (See Flee.)
 
+---
+
 ## Combat Modifiers
 
 The universal combat modifier is +2 when you have advantageous circumstances. Similarly, –2 is the right penalty for adverse situations.
@@ -561,6 +573,8 @@ When using a ranged attack to target an enemy that is engaged with one or more o
 Invisibility grants a big modifier to any stealth skill checks—at least +5 unless you're dealing with creatures who can detect you without sight.
 
 Once engaged in battle, attacks against invisible enemies have a 50% chance to miss completely, before the attack roll. Attacks that miss in this fashion don't deal any damage or have effects on the invisible creature, though other effects on a miss might occur.
+
+---
 
 ## Special Attacks and Effects
 

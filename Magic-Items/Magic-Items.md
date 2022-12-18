@@ -193,6 +193,8 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 **Quirk:** Stretches and meditates whenever inactive.
 
+---
+
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
 ### Default Bonus
@@ -327,6 +329,8 @@ Whenever you take ongoing damage, roll an immediate save to end the effect witho
 
 **Quirk:** Fascinated by patterns.
 
+---
+
 ## Book, Scroll, Tome, Grimoire
 
 Mastering a book requires a course of study and practice, usually accomplished over a day or more. Sometimes a book will reject a reader, leaving them either confounded or disturbed.
@@ -438,6 +442,8 @@ When you make an attack roll with an arcane spell, after finding out whether the
 
 **Quirk:** Doodles insane geometrical designs.
 
+---
+
 ## Boots, Shoes, Sandals, Slippers
 
 ### Default Bonus
@@ -520,6 +526,8 @@ Until the end of your next turn, you can move normally along a wall or vertical 
 
 **Quirk:** Has compulsion to snatch small insects out of the air and pop them into mouth when they think no one is watching.
 
+---
+
 ## Bracers
 
 Bracers occupy the same chakra as magic melee weapons.
@@ -549,6 +557,8 @@ Bracers have the same types of powers as other melee weapons. Use the melee weap
 - Insists on always moving silently, breezing in and out of situations that in social terms require small noises and acknowledgements.
 - Can't abide "fancy" food without heartburn (or at least complaints of heartburn).
 - Insists on being the first to go into a room.
+
+---
 
 ## Cloak, Mantle, Cape
 
@@ -638,6 +648,8 @@ When an attack against your Physical Defense hits, change that hit into a miss i
 
 **Quirk:** Attempts stunts of toughness and daring that a person less convinced of their invulnerability might be wise enough to avoid.
 
+---
+
 ## Gloves, Gauntlets
 
 ### Default Bonus
@@ -720,6 +732,8 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 **Quirk:** Holds a pinky finger up when holding a cup.
 
+---
+
 ## Helmet, Crown, Diadem, Circlet
 
 ### Default Bonus
@@ -794,6 +808,8 @@ This slim but elegant crown wants to share your glory and thus needs you to be g
 
 **Quirk:** Likely to make bold statements or undertake bold actions, especially by reflex.
 
+---
+
 ## Necklace, Pendant
 
 ### Default Bonus
@@ -863,6 +879,8 @@ This necklace changes shape and jewels depending on the species of the wearer. W
 This band of aquamarine and pearls enables you to breathe water for a short time, usually about five minutes. The effect wears off slowly, so you'll have warning to get to the surface.
 
 **Quirk:** Hiccups in stressful situations.
+
+---
 
 ## Rings
 
@@ -972,6 +990,8 @@ Animals accept you and may even show you affection. The animals, however, still 
 
 **Quirk:** Seems out of place in civilization.
 
+---
+
 ## Shield
 
 ### Default Bonus
@@ -1051,6 +1071,8 @@ When you roll a natural 2 with a melee attack while using the shield, you can ma
 When you make a basic melee attack, roll a save against one ongoing damage effect.
 
 **Quirk:** Continually fails to finish sentences, stopping in mid-thoug….
+
+---
 
 ## Staff
 
@@ -1140,6 +1162,8 @@ The power of this golden staff can only be invoked by a spellcaster who has a po
 
 **Quirk:** Becomes certain that they are destined to rule.
 
+---
+
 ## Symbol, Holy Symbol, Relic, Sacred Branch
 
 Sometimes a symbolic magic item is a gem or rune that can be attached to any of various holy symbols. Typically a divine spellcaster pries the gem or other adornment off a foreign holy symbol and affixes it to their own mundane holy symbol. Symbols are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
@@ -1228,6 +1252,8 @@ When you cast a quick action divine spell that targets allies, the spell affects
 
 **Quirk:** Keeps the relic meticulously clean, rests it on velvet, etc.
 
+---
+
 ## Wand
 
 Wands are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
@@ -1303,6 +1329,8 @@ When you use this wand, a creature who is at least somewhat subservient to you g
 (See below – recharge 16+): When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
 
 **Quirk:** Stares intently, often at nothing.
+
+---
 
 ## Weapons
 
@@ -1585,6 +1613,8 @@ When you hit with this weapon, you spirit away that enemy and yourself to an emp
 Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The GM determines just how broadly the term "dragon" applies.
 
 **Quirk:** Speaks in Draconic, first just curses, but then more and more elements of speech.
+
+---
 
 ## Wondrous Items
 
@@ -2089,6 +2119,8 @@ If the sphere comes into contact with a planar portal the GM rolls a d100 on the
 | 51-85 | The sphere moves through the portal or into the extradimensional space. |
 | 86-100 | A spatial rift sends each creature within a 1 mile area into a random plane of existance. |
 
+---
+
 ## Chuul Symbiote Magic Items
 
 _**Quirks:**_ Chuul-derived items are symbiotic, weaving their flesh with the flesh of their wielder. Instead of affecting the personality of the wielder, their quirk is that they warp the wielder's body in minor yet often disturbing ways. Over-attuning causes obviously monstrous mutations that are hard to hide.
@@ -2208,6 +2240,8 @@ This living "backpack" clings to you with tentacles and inserts mouthparts into 
 (cloak/mantle)
 
 Insectile wings hide in slits under the always itching skin of your back. _Always:_ +1 PD (adventurer); +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ As a standard action, you can fly clumsily for one round (champion: 1d3 + 1 rounds; epic: 2d4 rounds). _Quirk:_ Insectile mouthparts grow at the back of the throat and squiggle out when wearer talks excitedly.
+
+---
 
 ## Cursed Magic Items
 

@@ -52,6 +52,8 @@ Necromancers start with 25gp.
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Necromancer** | **Total Hit Points** | **Total Feats** | **1st level (H)** | **3rd level (H)** | **5th level (H)** | **7th level (H)** | **9th level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -119,6 +121,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -1339,6 +1343,8 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 round
 | 7th | 130 temporary hit points. |
 | 9th | 210 temporary hit points. |
 
+---
+
 ## 3rd Level Spells
 
 ### Blade of Suffering
@@ -2491,6 +2497,8 @@ Daily
 | Level | Attack | Damage | AC | PD | MD | HP |
 | --- | --- | --- | --- | --- | --- | --- |
 | 9th | +3 | +3d6 | +3 | +3 | +3 | +45 |
+
+---
 
 ## 9th Level Spells
 

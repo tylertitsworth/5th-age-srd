@@ -52,6 +52,8 @@ Clerics start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (–1 atk) heavy crossbow | 1d8 (–5 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Cleric Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -115,6 +117,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -404,6 +408,8 @@ The bonus now applies against all enemies you attack; you no longer have to sing
 Allies now also get a damage bonus against such enemies equal to double your Charisma modifier.
 
 **Invocation of War/Leadership:** Increase the escalation die by 1.
+
+---
 
 ## 1st Level Spells
 
@@ -758,6 +764,8 @@ Quick action to cast
 | 7th | Power +4d10, Broad +2d10. |
 | 9th | Power +6d10, Broad +3d10. |
 
+---
+
 ## 5th Level Spells
 
 ### Crisis of Faith
@@ -813,6 +821,8 @@ Daily
 | 7th | 8d12 damage. |
 | 9th | 2d8 x 10 damage. |
 
+---
+
 ## 7th Level Spells
 
 ### Circle of Protection
@@ -860,6 +870,8 @@ The fifth time you resurrect someone, that's the end of your story and you die. 
 | Higher Level | Effect |
 | --- | --- |
 | 9th | You no longer need to have most of the corpse to perform this spell. |
+
+---
 
 ## 9th Level Spells
 

@@ -54,6 +54,8 @@ Druids start with 25gp.
 | **Light or Simple** | 1d6 javelin, axe | 1d6 (-2 atk) light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 (–2 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Druid Level** | **Total Hit Points** | **Total Feats** | **Initiate Circle Progression** | **Adept Circle Progression** | **Master Circle Progression** | **Spell Level** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -116,6 +118,8 @@ At-Will
 
 **Miss:** —
 
+---
+
 ## Class Features
 
 Druids use divine implements, such as symbols and staffs, to improve their spellcasting. They can choose up to three talents to have many useful aptitudes, or they can specialize by putting two points into one talent (and the other into another talent). A druid who chooses three separate talents is an _initiate_ in each one. Investing two points into a single talent allows the druid to become _adept_ in that talent, thereby gaining more power at the expense of options, and an _initiate_ in another talent.
@@ -157,6 +161,8 @@ Within each circle, there are three levels of mastery: initiate, adept and maste
 **Master:** All of your three talents are from that circle. Your abilities are similar to the adept level in most cases, but you benefit from having more spells in your chosen circle.
 
 Each circle also grants a number of spells, powers or flexible attacks. The amount you get depends on your level and whether you are an initiate, adept or master
+
+---
 
 ## Circle of Decay
 
@@ -730,6 +736,8 @@ Daily
 
 **Miss:** Half damage
 
+---
+
 ## Circle of the Fang
 
 This circle is shared with the ranger class. Rangers can take up to three of the talents listed under this circle, and gain the same abilities and benefits as a druid with these talents.
@@ -1028,6 +1036,8 @@ The Circle of the Fang initiate gains animal companion spells at a different rat
 | 8th | 4 |
 | 9th | 4 |
 | 10th | 4 |
+
+---
 
 ## Circle of Feysong
 
@@ -1710,6 +1720,8 @@ Quick action
 | 1-2 | Quick Action |
 | 3-4 | Move Action |
 | 5-6 | Standard Action |
+
+---
 
 ## Circle of the Land
 
@@ -3765,6 +3777,8 @@ The boulder can be destroyed by dealing 200 cold damage to it. Attacks always hi
 | High Level | Effect |
 | --- | --- |
 | 9th | The boulder deals 1d20 x 10 damage. It can take 300 cold damage. |
+
+---
 
 ## Circle of Life
 

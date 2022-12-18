@@ -52,6 +52,8 @@ Commanders start with 25gp.
 | **Light or Simple** | 1d6 javelin | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–2 atk) heavy crossbow | 1d8 (–2 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Commander Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Commands & Tactics (m)** | **Pool available (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
@@ -113,6 +115,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -1299,6 +1303,8 @@ Interrupt action
 
 **Effect:** Roll a d20. On a 11+, the target doesn't expend the use of its species power and can use it again later this battle.
 
+---
+
 ## 3rd Level Tactics
 
 ### Choke Point
@@ -1858,6 +1864,8 @@ Recharge 16+ after battle
 **Target:** You and all nearby allies
 
 **Effect:** The group flees from the battle. The group does not suffer a campaign loss, but the cowardice causes some factions to lose faith in them. The GM chooses one relationship advantage of each PC that they cannot use until they gain a level.
+
+---
 
 ## 9th Level Commands
 

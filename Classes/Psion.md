@@ -52,6 +52,8 @@ Psions start with 25gp.
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (–4 atk) heavy crossbow | 1d8 (–5 atk) longbow |
 
+---
+
 ## Level Progression
 
 | **Psion Level** | **Total Hit Points** | **Total Feats** | **Daily Affinities (H)** | **Once-per-Battle Affinities (H)** | **Affinity Level (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -115,6 +117,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -239,6 +243,8 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **98** | If you and your allies flee RIGHT NOW, you don't take a campaign loss for your discretion. This may take some explaining. It's all about the psionics. |
 | **99** | Roll twice more on this table. If you wish you can ignore one of the rolled results but must stick with the other. If you roll the same result twice, you get that weirdness just once. |
 | **100** | You gain an extra standard action during the next turn after this weirdness goes into effect. |
+
+---
 
 ## Class Talents
 

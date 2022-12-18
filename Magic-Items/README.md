@@ -27,6 +27,8 @@ If you are carrying and wielding a number of items that is equal to or lower tha
 
 If you are carrying and wielding a number of items that is greater than your current level, the magic item personality quirks are going to have more power over you. You're no longer running the show; instead, the magic items are, to some extent, running you. Herein lies a roleplaying challenge for the player and the GM.
 
+---
+
 ## Chakras
 
 You can only have one of each type of magic item (or one pair, for boots and gloves). Rings are one for each hand. You can have as many wondrous items as your overall capacity for magic items allows.
@@ -100,6 +102,8 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 | Rogue | light weapon, light armor |
 | Sorcerer | wand/staff, shirt (armor) |
 | Wizard | wand/staff, shirt (armor) |
+
+---
 
 ## Artifacts
 

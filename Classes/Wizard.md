@@ -54,6 +54,8 @@ Wizards start with 25gp.
 
 >\*A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
+---
+
 ## Level Progression
 
 | **Wizard Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** |
@@ -119,6 +121,8 @@ At-Will
 **Hit:** WEAPON + Dexterity damage
 
 **Miss:** —
+
+---
 
 ## Class Features
 
@@ -371,6 +375,8 @@ Double the duration of any spell that targets physical objects, including cantri
 | 5th | Baleful Polymorph and Tenser's Transformation |
 | 7th | Blink, Flesh to Stone, Flight, Haste, Overcome Resistance, and Transfer Enchantment |
 | 9th | Disintegrate and Time Stop |
+
+---
 
 ## Class Talents
 
@@ -2209,6 +2215,8 @@ Divination
 **Target:** You or a nearby ally
 
 **Effect:** The target has advantage on their next weapon attack roll, and a bonus to their critical threat range equal to the escalation die.
+
+---
 
 ## 3rd Level Spells
 
@@ -4486,6 +4494,8 @@ When damage is dealt directly to the wall, divide the damage of that attack by 1
 | Higher Level | Effect |
 | --- | --- |
 | 9th | The wall now only dissipates on the third failed roll. |
+
+---
 
 ## 9th Level Spells
 
