@@ -56,15 +56,21 @@ You can spend more money to build a larger stronghold from the start, but there 
 
 ### Camp
 
+---
+
 #### Demesne Effects
 
 - Ale within the barbarian’s demesne is particularly refreshing, bringing good cheer with no hangovers the next day no matter how much is consumed.
 - Wildlife within the barbarian’s demesne grows especially large and fierce, migrating as the camp moves.
 - Poisons brought into the barbarian’s demesne neutralize within the hour. No such cowardly “civilized” forms of death are permitted.
 
+---
+
 #### Chieftain's Rage
 
 Whenever the Barbarian reduces an enemy to 0 hit points, they can make an additional attack or move up to their speed. You can do this a number of times equal to your camp level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -90,6 +96,8 @@ Barbarians prefer followers who are independent and don’t require a lot of ove
 | 76–80 | Gnoll Ambassador |
 | 81–100 | Roll on the Special Allies table |
 
+---
+
 ### Chapel
 
 #### Demesne Effects
@@ -98,9 +106,13 @@ Barbarians prefer followers who are independent and don’t require a lot of ove
 - Evil creatures in daylight have disadvantage on attack rolls, saving throws, and ability checks.
 - The paladin is instantly aware of the presence and location in his demesne of any chaotic or evil creature with more than 7 Hit Dice. The range of this awareness is a number of hexes equal to the level of the paladin’s stronghold.
 
+---
+
 #### Righteous Smite
 
 The Paladin's Smite Evil burns through enemy resistance. Enemies automatically fail resust checks to holy damage. Enemies immune to holy are now only resistant to it, and make a resist 11+ check. You can do this a number of times equal to your chapel level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -143,6 +155,8 @@ The Paladin's Smite Evil burns through enemy resistance. Enemies automatically f
 | 91–93 | Roll on the Special Paladin Mount chart |
 | 94–100 | Roll on the Special Allies table |
 
+---
+
 ##### Special Paladin Mounts
 
 | d12 | Mount |
@@ -153,6 +167,8 @@ The Paladin's Smite Evil burns through enemy resistance. Enemies automatically f
 | 10–11 | Unicorn |
 | 12 | Alicorn |
 
+---
+
 ### Establishment
 
 #### Demesne Effects
@@ -161,9 +177,13 @@ The Paladin's Smite Evil burns through enemy resistance. Enemies automatically f
 - Creatures trespassing in the rogue’s demesne have the overwhelming sensation they are being spied upon.
 - When a creature hostile to the rogue and aware of their existence finishes a long rest within the rogue’s demesne, roll a d20. On a roll of 10 or less, the creature triggers a hidden trap, taking 3d8 piercing damage.
 
+---
+
 #### Vengeful Momentum
 
 When the Rogue is hit with an attack and would lose momentum, they can choose not to lose momentum as a result of that attack. You can do this a number of times equal to your establishment level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -198,6 +218,8 @@ When the Rogue is hit with an attack and would lose momentum, they can choose no
 | 88-90 | Orc Ambassador |
 | 91–100 | Roll on the Special Allies table |
 
+---
+
 ### Fane
 
 #### Demesne Effects
@@ -207,9 +229,13 @@ When the Rogue is hit with an attack and would lose momentum, they can choose no
 - The occultist is immediately aware of enemies in their demesne.
 - Once per month, the occultist can summon an earthquake targeting any enemies in their demesne.
 
+---
+
 #### Master Invoker
 
 The Occultist can gain focus with a quick action rather than a standard action. This ability can be used a number of times equal to the Fane's level.
+
+---
 
 #### Followers
 
@@ -241,6 +267,8 @@ The Occultist can gain focus with a quick action rather than a standard action. 
 | 79–80 | Gnoll Ambassador |
 | 81–100 | Roll on the Special Allies table |
 
+---
+
 ### Fortress
 
 #### Demesne Effects
@@ -250,9 +278,13 @@ The Occultist can gain focus with a quick action rather than a standard action. 
 - Archers who train in the commander’s demesne find their arrows go farther and strike more accurately.
 - Edged weapons in the commander’s demesne are keener and do not dull.
 
+---
+
 #### Fight from the Back
 
 A Commander can use a quick action to gain 1d3 command points instead of making an attack. You can do this a number of times equal to your fortress level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -295,6 +327,8 @@ A Commander can use a quick action to gain 1d3 command points instead of making 
 | 90 | Hobgoblin Ambassador |
 | 91–100 | Roll on the Special Allies table |
 
+---
+
 ### Graveyard
 
 #### Demesne Effects
@@ -303,9 +337,13 @@ A Commander can use a quick action to gain 1d3 command points instead of making 
 - In the necromancer’s demesne, undead roam the land and while travelers attempt to travel through the area, they are often attacked by the undead.
 - The necromancer is immediately aware of enemies in their demesne.
 
+---
+
 #### Veil of Bones
 
 When the Necromancer summons an undead creature, they gain 1d8 hit points. This ability can be used a number of times equal to the Graveyard's level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -346,6 +384,8 @@ Fighting alongside undead imposes a -1 penalty on all Morale checks per graveyar
 | 87–90 | Were Ambassador |
 | 91–100 | Roll on the Special Allies table |
 
+---
+
 ### Grove
 
 #### Demesne Effects
@@ -354,9 +394,13 @@ Fighting alongside undead imposes a -1 penalty on all Morale checks per graveyar
 - Nuts, fruits, and vegetables grown naturally (i.e., not farmed or cultivated) in the druid’s demesne grant those who eat them the effect of goodberry. If taken outside the demesne, they lose this effect.
 - No roads or trails in the druid’s demesne last more than a day. However, allies and the units of allies can pass through the demesne as though there were roads.
 
+---
+
 #### Goodberry
 
 While resting the Druid and their allies can each eat a Goodberry, they gain 1 recovery and the benefits of a days sustenance. You can do this a number of times equal to your grove level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -390,6 +434,8 @@ Ambassadors who wish to join a druid’s retinue are usually fey, or aligned wit
 | 81–85 | Roll on the Fey Allies chart |
 | 86–100 | Roll on the Special Allies table |
 
+---
+
 ### Keep
 
 #### Demesne Effects
@@ -399,9 +445,13 @@ Ambassadors who wish to join a druid’s retinue are usually fey, or aligned wit
 - Archers who train in the fighter’s demesne find their arrows go farther and strike more accurately.
 - Edged weapons in the fighter’s demesne are keener and do not dull.
 
+---
+
 #### Sentinel
 
 If an enemy attempts to disengage from the Fighter, the Fighter can knock them prone as an interrupt action. You can do this a number of times equal to your keep level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -421,6 +471,8 @@ If an enemy attempts to disengage from the Fighter, the Fighter can knock them p
 | 87–95 | Regular Medium Cavalry |
 | 96–100 | Seasoned Light Cavalry |
 
+---
+
 ### Library
 
 #### Demesne Effects
@@ -429,9 +481,13 @@ If an enemy attempts to disengage from the Fighter, the Fighter can knock them p
 - By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the scrying spell. The wizard can do this while anywhere, including another plane.
 - Once per day, the wizard can control the weather in their demesne. The wizard doesn’t have to be in their demesne to do this. The effect is otherwise the same as the control weather ritual.
 
+---
+
 #### Ritual Mastery
 
 Party Ritual Casters can master a ritual in half the normal time. Party members can do this a number of times equal to your library level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -470,6 +526,8 @@ Party Ritual Casters can master a ritual in half the normal time. Party members 
 | 83–85 | Gnoll Ambassador |
 | 86–100 | Roll on the Special Allies table |
 
+---
+
 ### Lodge
 
 #### Demesne Effects
@@ -478,9 +536,13 @@ Party Ritual Casters can master a ritual in half the normal time. Party members 
 - Enemies of the ranger and the locals must make DC 15 Wisdom (Survival) skill checks to navigate the ranger’s demesne. On a failure, they are attacked by 2d6 winter wolves.
 - Allies treat the ranger’s demesne as favored terrain when moving their units. Enemy units treat it as difficult terrain.
 
+---
+
 #### Friend of Wilds
 
 When the Ranger attempts to track a creature, they can call upon the wilds to track for them. The Ranger automatically succeeds on the skill check required to track the creature and receives help from local wildlife. You can do this a number of times equal to your lodge level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -512,6 +574,8 @@ When the Ranger attempts to track a creature, they can call upon the wilds to tr
 | 77–80 | Gnome Ambassador |
 | 81–100 | Roll on the Special Allies table |
 
+---
+
 ### Monastery
 
 #### Demesne Effects
@@ -520,9 +584,13 @@ When the Ranger attempts to track a creature, they can call upon the wilds to tr
 - The temperature in the monk’s demesne is always temperate, all year round, all day long.
 - Violence of any kind in the demesne has a 15% chance of summoning a Source of Earth, who immediately uses Back to Earth to end the violence. The monk can reverse these effects.
 
+---
+
 #### Focused Ki
 
 Whenever you are attacked while you have unspent ki, you can ignore all of the attack’s effects except its damage. You can do this a number of times equal to your monastery level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -563,6 +631,8 @@ Whenever you are attacked while you have unspent ki, you can ignore all of the a
 | 84–85 | Lizardfolk Ambassador |
 | 86–100 | Roll on the Special Allies table |
 
+---
+
 ### Sanctum
 
 #### Demesne Effects
@@ -571,23 +641,33 @@ Whenever you are attacked while you have unspent ki, you can ignore all of the a
 - Folks who live in the psion’s demesne for a season begin to exhibit a random psionic affinity. They lose the affinity if they ever leave.
 - The material properties of objects in the psion's demense will randomly lose fundamental properties. For example, gravitation loss, fusing, state change, or density change.
 
+---
+
 #### Weird Control
 
 When the Psion would roll of the High Weirdness table, they can instead choose which High Weirdness effect to apply. You can do this a number of times equal to your sanctum level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
 A Psion attracts no followers, they are alone in their quest to master the mind. While a sanctum is present in a larger castle all follower rolls have a -10 per sanctum level, and if a follower roll result is below 1 they do not receive any followers.
 
+---
+
 ### Tavern
 
 When any party member is rolling for advantages in the tavern related to an increase in a positive relationship, roll twice and take the higher result.
+
+---
 
 #### Revenue
 
 Each season (or every three months, depending on the calendar of your campaign world), your establishment generates 1,000 gp per establishment level.
 
 If your establishment is part of a larger castle, you can use this money to upgrade your castle, no problem.
+
+---
 
 #### Rumors
 
@@ -604,6 +684,8 @@ In addition, the GM can choose to reveal any of the following:
 - A description of one riddle or puzzle
 - The location and description of one powerful magic item It may seem like this is taking the fun out of the adventure, but for the player with the establishment it will seem like the opposite. It will make them feel awesome, and at the end of the day, you can always add more traps and secret doors!
 
+---
+
 ### Temple
 
 #### Demesne Effects
@@ -612,11 +694,15 @@ In addition, the GM can choose to reveal any of the following:
 - The cleric can hear the prayers of those living in their demesne who are in concordance with the cleric’s deity.
 - While the cleric is hale, the weather in their demesne is fair. If the cleric is wounded or suffering, the weather turns foul. For this effect to happen, the cleric merely has to be on the same plane as their demesne.
 
+---
+
 #### Manifest Divinity
 
 When the Cleric casts Heal, they can choose all allies next to\* them rather than just one. You can do this a number of times equal to your temple level. You regain all expended uses after a long rest.
 
 >\* If they take the adventurer feat, they can choose all allies nearby to them.
+
+---
 
 #### Followers
 
@@ -655,6 +741,8 @@ When the Cleric casts Heal, they can choose all allies next to\* them rather tha
 | 81–85 | Gnome Ambassador |
 | 86–100 | Roll on the Special Allies table |
 
+---
+
 ### Theater
 
 #### Demesne Effects
@@ -663,9 +751,13 @@ When the Cleric casts Heal, they can choose all allies next to\* them rather tha
 - Folks who live for a week in the bard’s demesne find themselves ending conversations with rhyming couplets.
 - Thunder can be counted on to roll whenever someone in the bard’s demesne says something dramatic. Ravens obediently alight on nearby branches when it is dramatically expected of them.
 
+---
+
 #### Enduring Inspiration
 
 While the Bard is channelling a Bardic Song, they can choose to continue the song and automatically succeed on the sustain check. You can do this a number of times equal to your theater level. You regain all expended uses after a full recovery.
+
+---
 
 #### Followers
 
@@ -704,6 +796,8 @@ While the Bard is channelling a Bardic Song, they can choose to continue the son
 | 85 | Orc Ambassador |
 | 86–100 | Roll on the Special Allies table |
 
+---
+
 ### Tower
 
 #### Demesne Effects
@@ -712,9 +806,13 @@ While the Bard is channelling a Bardic Song, they can choose to continue the son
 - Folks who live in the sorcerer’s demesne for a season learn one random sorcerer cantrip. They lose the ability to cast it if they ever leave.
 - Raindrops in the sorcerer’s demesne cast dazzling prismatic reflections during the day.
 
+---
+
 #### Source Chain
 
 The Sorcerer can start a chain even if the roll is odd. You can do this a number of times equal to your tower level. You regain all expended uses after a long rest.
+
+---
 
 #### Followers
 
@@ -743,6 +841,8 @@ A sorcerer’s army is usually light and highly mobile. Unlike other classes the
 | 76–80 | Dragonborn Ambassador |
 | 81–100 | Roll on the Special Allies table |
 
+---
+
 ## Other Followers
 
 ### Special Allies
@@ -761,6 +861,8 @@ Using the alignment and the result of a 1d12 roll determine which cool beastie s
 | Lawful Evil | Oni | Young Green Dragon | Fire Titan | Illrigger | Roll on the Devil Allies chart |
 | Chaotic Evil | Antipaladin | Lamia | Young White Dragon | Demonologist | Roll on the Demon Allies chart |
 
+---
+
 #### Demon Allies
 
 | d12 | Ally |
@@ -772,6 +874,8 @@ Using the alignment and the result of a 1d12 roll determine which cool beastie s
 | 11 | Hezrou |
 | 12 | Lesser Balor |
 
+---
+
 #### Devil Allies
 
 | d12 | Ally |
@@ -782,6 +886,8 @@ Using the alignment and the result of a 1d12 roll determine which cool beastie s
 | 9–10 | Lesser Erinyes |
 | 11 | Chain Devil |
 | 12 | Bone Devil |
+
+---
 
 #### Fey Allies
 
