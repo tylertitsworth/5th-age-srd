@@ -88,8 +88,6 @@ Commanders start with 25gp.
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -177,6 +175,8 @@ Once per battle while the escalation die is 3+, you can gain 1d4 command points 
 #### Epic Feat
 
 You now gain 1d6 command points instead of 1d4 when you use this action.
+
+---
 
 ## Class Talents
 
@@ -700,9 +700,9 @@ Once per round, you can use a command with a cost of one command point for zero 
 
 You can now use one that costs two for zero.
 
-## 1st Level Commands
-
 ---
+
+## 1st Level Commands
 
 ### Clear Your Mind!
 
@@ -956,9 +956,9 @@ The ally can ignore any effect that would prevent them from using the escalation
 
 The ally is immune to any fear aura until the end of the battle.
 
-## 1st Level Tactics
-
 ---
+
+## 1st Level Tactics
 
 ### Chess Master
 
@@ -1165,9 +1165,9 @@ When you attack with this tactic and roll a natural even hit, you gain 2 command
 
 Once per battle as a free action when you hit with this tactic, the target also takes 1d10 psychic damage for each point on the escalation die.
 
-## 3rd Level Commands
-
 ---
+
+## 3rd Level Commands
 
 ### Charge
 
@@ -1300,8 +1300,6 @@ Interrupt action
 **Effect:** Roll a d20. On a 11+, the target doesn't expend the use of its species power and can use it again later this battle.
 
 ## 3rd Level Tactics
-
----
 
 ### Choke Point
 
@@ -1463,9 +1461,9 @@ Recharge 16+ after battle
 
 The enemy also takes extra damage from your allies' attacks equal to your level.
 
-## 5th Level Commands
-
 ---
+
+## 5th Level Commands
 
 ### Block It Out!
 
@@ -1591,9 +1589,9 @@ After the first time in a round you use this command as an interrupt action, you
 
 Add hampered and stunned to the list of conditions the effect includes.
 
-## 5th Level Tactics
-
 ---
+
+## 5th Level Tactics
 
 ### Advanced Tactical Strike
 
@@ -1689,9 +1687,9 @@ Once per battle
 
 On a natural 18+, regain three times the amount you wagered.
 
-## 7th Level Commands
-
 ---
+
+## 7th Level Commands
 
 ### Chain of Commands
 
@@ -1745,9 +1743,9 @@ This command costs 3 command points instead of 4.
 
 The target also gains temporary hit points equal to 3d10 + triple your Charisma modifier.
 
-## 7th Level Tactics
-
 ---
+
+## 7th Level Tactics
 
 ### Climactic Battle
 
@@ -1863,8 +1861,6 @@ Recharge 16+ after battle
 
 ## 9th Level Commands
 
----
-
 ### Natural Command
 
 Interrupt action
@@ -1899,9 +1895,9 @@ Interrupt action
 
 If the target succeeds on its death save, it can take its turn normally as if it rolled a natural 20.
 
-## 9th Level Tactics
-
 ---
+
+## 9th Level Tactics
 
 ### Focus Fire
 

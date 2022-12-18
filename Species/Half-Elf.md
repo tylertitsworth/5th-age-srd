@@ -9,8 +9,6 @@ layout: doc
 
 ## Species Power
 
----
-
 ### Surprising
 
 Once per battle, subtract one from the natural result of one of your own d20 rolls.

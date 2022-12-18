@@ -90,8 +90,6 @@ Psions start with 25gp.
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -662,9 +660,9 @@ While you have an _air_ or _fire_ warp effect active, add fire damage equal to y
 
 If you don't like the first random sorcerer affinity you select for the day, you can determine another random sorcerer affinity. You're stuck with the second one.
 
-## Attack Affinities (1st Level+)
-
 ---
+
+## Attack Affinities (1st Level+)
 
 ### Telekinesis
 
@@ -898,9 +896,9 @@ Daily
 
 Devolve at 150 hp or fewer.
 
-## Defense Affinities (1st Level+)
-
 ---
+
+## Defense Affinities (1st Level+)
 
 ### Eidolic Boon
 
@@ -1111,6 +1109,8 @@ _Natural 18+:_ The target destroys the affinity zone and you must roll for a Hig
 
 On a natural 1 on the save, the target is stunned until the end of their next turn.
 
+---
+
 ## Iconic Affinities & Feats
 
 In setting up your game universe, you should have a set of relationships. Distribute them more or less evenly into the affinity groups below according to the theme that matches best (Blood, Light, Twisted). When the psion rolls a particular relationship, they can choose any affinity associated with that relationship's group of affinities.
@@ -1120,8 +1120,6 @@ Multiple relationships should belong to each group. Each group should have at-wi
 ---
 
 ### Blood
-
----
 
 #### Castigation (1st level+)
 
@@ -1380,8 +1378,6 @@ When you drop one or more non-mook creatures to 0 hp with this affinity, you can
 
 ### Light
 
----
-
 #### Silver Arrows (1st level+)
 
 Ranged affinity
@@ -1563,8 +1559,6 @@ Daily
 ---
 
 ### Twisted
-
----
 
 #### Tortured Scream (1st level+)
 

@@ -8,8 +8,6 @@
 
 ### Species Bonus
 
----
-
 #### Gore
 
 Once per day you can add 1d6 damage per level to a successful melee attack.

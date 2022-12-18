@@ -92,8 +92,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee attack
 
 At-Will
@@ -196,6 +194,8 @@ You gain a +3 bonus to skill check rerolls you make against traps.
 #### Epic Feat
 
 You only take half damage from trap attacks.
+
+---
 
 ## Class Talents
 
@@ -870,9 +870,9 @@ When you score a critical hit against a living target with a Sneak Attack, that 
 
 The target is now weakened instead.
 
-## 1st Level Powers
-
 ---
+
+## 1st Level Powers
 
 ### Clothesline
 
@@ -1445,9 +1445,9 @@ You may now use vicious strike when you are not staggered, but doing so doubles 
 
 Double the escalation die value to all damage dealt to enemies by vicious strike (including miss damage). When you hit with a vicious strike, enemies nearby your target must make a normal save (11+) or suffer from fear until the end of your next turn.
 
-## 3rd Level Powers
-
 ---
+
+## 3rd Level Powers
 
 ### Assassin's Shot
 
@@ -1856,8 +1856,6 @@ At-Will
 **Miss:** —
 
 ## 5th Level Powers
-
----
 
 ### Blade Salvo
 
@@ -2272,8 +2270,6 @@ _Natural odd miss:_ The target notices your intrusion into their mind.
 
 ## 7th Level Powers
 
----
-
 ### Assassin's Gambit
 
 Melee attack
@@ -2600,9 +2596,9 @@ Once per battle
 
 Deal triple damage on a critical hit.
 
-## 9th Level Powers
-
 ---
+
+## 9th Level Powers
 
 ### Death's Twin
 

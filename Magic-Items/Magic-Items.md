@@ -19,8 +19,6 @@ Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point e
 
 ### Adventurer
 
----
-
 #### Energy
 
 This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, holy, lightning, thunder. An attack using this ammunition deals that type of damage.
@@ -83,8 +81,6 @@ When you hit with an attack using this ammunition, if the target is from the sam
 
 ### Champion
 
----
-
 #### Flaming
 
 Bursts into fire as it flies. You deal 8 extra ongoing fire damage on a hit (epic: 20 ongoing fire).
@@ -92,8 +88,6 @@ Bursts into fire as it flies. You deal 8 extra ongoing fire damage on a hit (epi
 ---
 
 ### Epic
-
----
 
 #### Death
 
@@ -104,6 +98,8 @@ When you hit with this ammunition and deal damage, if the target has 40 hp or fe
 #### Uncanny
 
 It warps the forces of necessity and miracle as it flies. When you attack with this ammunition, use the target's lowest defense instead of the defense your attack would normally target.
+
+---
 
 ## Armor, Robe, Shirt, Tunic
 
@@ -118,8 +114,6 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 ---
 
 ### Adventurer
-
----
 
 #### Clever Step
 
@@ -201,8 +195,6 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
----
-
 ### Default Bonus
 
 Increase your maximum recoveries: by 1 (adventurer); by 2 (champion); by 3 (epic).
@@ -216,8 +208,6 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 ---
 
 ### Adventurer
-
----
 
 #### Blademaster's Belt
 
@@ -291,8 +281,6 @@ You must carry a single magic melee weapon that you keep attached to this item f
 
 ### Champion
 
----
-
 #### Resurgence
 
 (Recharge 16+)
@@ -314,8 +302,6 @@ A silky sash worn as a belt. When an attack hits your AC and deals 16 damage or 
 ---
 
 ### Epic
-
----
 
 #### Kilt of the Mad Archmage
 
@@ -354,8 +340,6 @@ None.
 ---
 
 ### Adventurer
-
----
 
 #### Codex of Foreshadowed Victory
 
@@ -434,8 +418,6 @@ When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike 
 
 ### Champion
 
----
-
 #### Manual of Puissant Skill at Arms
 
 (Recharge 11+)
@@ -448,8 +430,6 @@ When you miss with a melee attack, reroll the attack using +15 as your attack bo
 
 ### Epic
 
----
-
 #### Tome of Arcane Mysteries
 
 (Recharge 11+)
@@ -460,8 +440,6 @@ When you make an attack roll with an arcane spell, after finding out whether the
 
 ## Boots, Shoes, Sandals, Slippers
 
----
-
 ### Default Bonus
 
 Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer); +2 bonus (champion); +3 bonus (epic).
@@ -469,8 +447,6 @@ Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer
 ---
 
 ### Adventurer
-
----
 
 #### Boots of Elvenkind
 
@@ -536,8 +512,6 @@ If you were the last creature to take its turn this round, you pop free from all
 
 ### Champion
 
----
-
 #### Sandals of Wall Striding
 
 (Recharge 6+)
@@ -578,8 +552,6 @@ Bracers have the same types of powers as other melee weapons. Use the melee weap
 
 ## Cloak, Mantle, Cape
 
----
-
 ### Default Bonus
 
 Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
@@ -587,8 +559,6 @@ Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
 ---
 
 ### Adventurer
-
----
 
 #### Adroit Avoidance
 
@@ -648,8 +618,6 @@ When an attack against your Physical Defense hits, make the attacker reroll the 
 
 ### Champion
 
----
-
 #### Guardian
 
 (Recharge 11+)
@@ -662,8 +630,6 @@ When a foe you're engaged with targets your ally with an attack that doesn't inc
 
 ### Epic
 
----
-
 #### Inviolability
 
 (Recharge 16+)
@@ -674,8 +640,6 @@ When an attack against your Physical Defense hits, change that hit into a miss i
 
 ## Gloves, Gauntlets
 
----
-
 ### Default Bonus
 
 None.
@@ -683,8 +647,6 @@ None.
 ---
 
 ### Adventurer
-
----
 
 #### Ambidexterity
 
@@ -760,8 +722,6 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 ## Helmet, Crown, Diadem, Circlet
 
----
-
 ### Default Bonus
 
 Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
@@ -769,8 +729,6 @@ Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 ---
 
 ### Adventurer
-
----
 
 #### Circlet of Approachability
 
@@ -828,8 +786,6 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 
 ### Epic
 
----
-
 #### Crown of the Mighty Strike
 
 (Recharge 16+)
@@ -840,8 +796,6 @@ This slim but elegant crown wants to share your glory and thus needs you to be g
 
 ## Necklace, Pendant
 
----
-
 ### Default Bonus
 
 +1 to saves when you have 10 hp or fewer (adventurer); 25 hp or fewer (champion); 50 hp or fewer (epic).
@@ -849,8 +803,6 @@ This slim but elegant crown wants to share your glory and thus needs you to be g
 ---
 
 ### Adventurer
-
----
 
 #### Bearclaw
 
@@ -914,8 +866,6 @@ This band of aquamarine and pearls enables you to breathe water for a short time
 
 ## Rings
 
----
-
 ### Default Bonus
 
 None.
@@ -923,8 +873,6 @@ None.
 ---
 
 ### Adventurer
-
----
 
 #### Cheap Shot
 
@@ -1026,8 +974,6 @@ Animals accept you and may even show you affection. The animals, however, still 
 
 ## Shield
 
----
-
 ### Default Bonus
 
 Increase your maximum hit points: by +4 (adventurer); by +10 (champion); by +25 (epic).
@@ -1035,8 +981,6 @@ Increase your maximum hit points: by +4 (adventurer); by +10 (champion); by +25 
 ---
 
 ### Adventurer
-
----
 
 #### Adaptation
 
@@ -1122,8 +1066,6 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 ### Champion
 
----
-
 #### Diabolical Staff
 
 (Recharge: 16+, but see below)
@@ -1190,8 +1132,6 @@ When you use this power, you automatically succeed on a save against an effect c
 
 ### Epic
 
----
-
 #### Staff of the Imperium
 
 (Standard action – recharge 16+)
@@ -1213,8 +1153,6 @@ Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
 ---
 
 ### Adventurer
-
----
 
 #### Chosen One, Sign of the
 
@@ -1304,8 +1242,6 @@ Attack and damage with arcane spells or attacks: +1 (adventurer); +2 (champion).
 
 ### Adventurer
 
----
-
 #### Body Breaking, Dagger of
 
 This rune-covered bronze dagger also works as a wand. When you cast an arcane attack spell using this dagger/wand, you gain a +1 bonus to attack and damage with that spell if it targets PD.
@@ -1362,8 +1298,6 @@ When you use this wand, a creature who is at least somewhat subservient to you g
 
 ### Champion
 
----
-
 #### Wand of Unerring Pain
 
 (See below – recharge 16+): When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
@@ -1372,8 +1306,6 @@ When you use this wand, a creature who is at least somewhat subservient to you g
 
 ## Weapons
 
----
-
 ### Default Bonus
 
 Attacks and damage when using the weapon: +1 (adventurer); +2 (champion); +3 (epic).
@@ -1381,8 +1313,6 @@ Attacks and damage when using the weapon: +1 (adventurer); +2 (champion); +3 (ep
 ---
 
 ### Adventurer
-
----
 
 #### Abandon
 
@@ -1606,8 +1536,6 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 
 ### Champion
 
----
-
 #### Longbow of Fallen Grace
 
 (+3 longbow – recharge 16+)
@@ -1639,8 +1567,6 @@ Reroll one of your attack rolls with a +4 bonus. In addition, until the end of t
 ---
 
 ### Epic
-
----
 
 #### Greatsword of Utter Night
 
@@ -1674,15 +1600,11 @@ None.
 
 ### Adventurer
 
----
-
 #### [Alchemy jug](http://dnd5e.wikidot.com/wondrous-items:alchemy-jug)
 
 ---
 
 #### [All-Purpose Tool](http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
-
----
 
 #### [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding)
 
@@ -1734,8 +1656,6 @@ Your unarmed attacks are considered magical and you gain a +1 to attack and dama
 
 #### [Elemental Gem](http://dnd5e.wikidot.com/wondrous-items:elemental-gem)
 
----
-
 #### Eversmoking Bottle
 
 moke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use a standard action to remove the stopper a cloud of thick smoke pours out into the nearby area. The cloud's area is heavily obscured. The cloud persists and after 3 rounds expands to far away so long as it remains open. After closing the bottle is disperses after 10 minutes, but moderate and strong winds can disperse it quicker.
@@ -1750,15 +1670,11 @@ These crystal lenses fit over the eyes. Once per full recovery you can use a sta
 
 #### [Eyes of Minute Seeing](http://dnd5e.wikidot.com/wondrous-items:eyes-of-minute-seeing)
 
----
-
 #### [Eyes of the Eagle](http://dnd5e.wikidot.com/wondrous-items:eyes-of-the-eagle)
 
 ---
 
 #### [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
-
----
 
 #### [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box)
 
@@ -1780,8 +1696,6 @@ A bottle of translucent glass, sealed with lead, with a ghastly face that peers 
 
 #### [Luckstone](http://dnd5e.wikidot.com/wondrous-items:luckstone)
 
----
-
 #### Pearl of Power
 
 While this pearl is on your person, you can use an action to speak its command word and regain one expended power. Once you have used the pearl, it can't be used until you complete a full recovery.
@@ -1789,8 +1703,6 @@ While this pearl is on your person, you can use an action to speak its command w
 ---
 
 #### [Rope of Climbing](http://dnd5e.wikidot.com/wondrous-items:rope-of-climbing)
-
----
 
 #### Sending Stones
 
@@ -1800,8 +1712,6 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 
 #### [Soul Coin](http://dnd5e.wikidot.com/wondrous-items:soul-coin)
 
----
-
 #### Lesser Spellwrought Tattoo
 
 This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-list) of 3rd level or lower. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
@@ -1809,8 +1719,6 @@ This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-li
 ---
 
 ### Champion
-
----
 
 #### Badge of the Watchers
 
@@ -1830,8 +1738,6 @@ The chime can be used ten times. After the tenth time, it cracks and becomes use
 
 #### [Cube of Force](http://dnd5e.wikidot.com/wondrous-items:cube-of-force)
 
----
-
 #### [Dimensional Shackles](http://dnd5e.wikidot.com/wondrous-items:dimensional-shackles)
 
 ---
@@ -1843,8 +1749,6 @@ Once per full recovery, as a standard action, you can speak the gem's command wo
 ---
 
 #### [Heward's Handy Haversack](http://dnd5e.wikidot.com/wondrous-items:hewards-handy-haversack)
-
----
 
 #### Horn of Blasting
 
@@ -1944,15 +1848,11 @@ Once the bands are used, they can't be used again until you gain a full recovery
 
 #### [Knave's Eye Patch](http://dnd5e.wikidot.com/wondrous-items:knaves-eye-patch)
 
----
-
 #### [Mirror of the Past](http://dnd5e.wikidot.com/wondrous-items:mirror-of-the-past)
 
 ---
 
 #### [Portable Hole](http://dnd5e.wikidot.com/wondrous-items:portable-hole)
-
----
 
 #### Rope of Entangling
 
@@ -1963,8 +1863,6 @@ Fifty feet of fine, spidersilk rope, woven so closely that it seems like a solid
 ---
 
 ### Epic
-
----
 
 #### Absorbing Tattoo
 
@@ -2171,8 +2069,6 @@ Your Strength score increases by 2 while this pale blue rhomboid orbits your hea
 
 #### [Nightfall Pearl](http://dnd5e.wikidot.com/wondrous-items:nightfall-pearl)
 
----
-
 #### [Platinum Scarf](http://dnd5e.wikidot.com/wondrous-items:platinum-scarf)
 
 ---
@@ -2335,8 +2231,6 @@ Players will often find cursed items such as these when approaching a Shadow Dra
 
 ### General
 
----
-
 #### Dancing Shoes
 
 (boots)
@@ -2378,8 +2272,6 @@ It follows you on little feet, obeys you, and is much larger on the inside (able
 ---
 
 ### Adventurer
-
----
 
 #### Acrobat's Stick
 

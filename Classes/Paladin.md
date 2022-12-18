@@ -89,8 +89,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -157,6 +155,8 @@ Gain an addtiional use of Smite Evil per day.
 ##### Adventurer Feat
 
 Gain a +4 bonus to the attack roll with True Smite.
+
+---
 
 ## Class Talents
 

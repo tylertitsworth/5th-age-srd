@@ -94,8 +94,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -157,6 +155,8 @@ Whenever an enemy fails to disengage from you, you also deal damage to that enem
 #### Champion Feat
 
 Whenever a non-mook enemy fails to disengage from you, it's vulnerable to your attacks for the rest of the battle.
+
+---
 
 ## Class Talents
 
@@ -762,9 +762,9 @@ Gain the bonus with a second weapon type.
 
 Increase your WEAPON damage dice by one step with your chosen weapons.
 
-## 1st Level Maneuvers
-
 ---
+
+## 1st Level Maneuvers
 
 ### Bottoms Up
 
@@ -1134,9 +1134,9 @@ _Special:_ You must be using a weapon in each hand.
 
 The bonus increases to +4.
 
-## 3rd Level Maneuvers
-
 ---
+
+## 3rd Level Maneuvers
 
 ### Calm the Mind
 
@@ -1422,9 +1422,9 @@ Flexible ranged attack
 
 You can now trigger wounding shot with a natural even hit, and ending the ongoing damage requires a hard save (16+).
 
-## 5th Level Maneuvers
-
 ---
+
+## 5th Level Maneuvers
 
 ### A Dozen Cuts
 
@@ -1627,8 +1627,6 @@ _Special:_ You must have the Skilled Intercept talent to use this maneuver.
 
 ## 7th Level Maneuvers
 
----
-
 ### Heroic Sacrifice
 
 Flexible melee attack
@@ -1765,9 +1763,9 @@ Flexible melee attack
 
 If the escalation die is 3+, you can now trigger _sword of destiny_ with a natural 18+.
 
-## 9th Level Maneuvers
-
 ---
+
+## 9th Level Maneuvers
 
 ### Back From the Brink
 

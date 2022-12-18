@@ -90,8 +90,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -207,8 +205,6 @@ Choose one sphere. You can combine all three shots of that sphere in one attack 
 
 #### Death Sphere
 
----
-
 ##### Deathknell Shot (1st Level)
 
 **Cost:** 1 charge
@@ -255,8 +251,6 @@ _Special:_ Requires Deathknell Shot and Ghost Shot
 ---
 
 #### Flaming Sphere
-
----
 
 ##### Burning Shot (1st Level)
 
@@ -309,8 +303,6 @@ _Special:_ Requires Burning Shot and Immolating Shot
 
 #### Force Sphere
 
----
-
 ##### Arrow Fist (1st Level)
 
 **Cost:** 1 charge
@@ -352,8 +344,6 @@ _Special:_ Requires Arrow Fist and Homing Missile
 ---
 
 #### Frost Sphere
-
----
 
 ##### Ice Arrow (1st Level)
 
@@ -400,8 +390,6 @@ _Special:_ Requires Ice Arrow and Freezing Arrow
 
 #### Radiant Sphere
 
----
-
 ##### Blinding Flare (1st Level)
 
 **Cost:** 1 charge
@@ -443,8 +431,6 @@ Champion Feat Increase your WEAPON damage dice to d12s with this shot and make a
 ---
 
 #### Sky Sphere
-
----
 
 ##### Thunderbolt (1st Level)
 
@@ -493,8 +479,6 @@ _Special:_ Requires Thunderbolt and Lightning Bolt
 ---
 
 #### Thorns Sphere
-
----
 
 ##### Rooting Shot (1st Level)
 
@@ -903,8 +887,6 @@ Your first miss doesn’t break the chain of attacks.
 ---
 
 #### Epic Feat
-
----
 
 ### Path of the Spear
 

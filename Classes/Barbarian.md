@@ -91,8 +91,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee attack
 
 At-Will
@@ -216,6 +214,8 @@ Make a basic melee attack, but target the enemy’s PD, not AC. For the rest of 
 #### Surprise Savagery
 
 Resolve the attack normally. Your target’s MD is reduced by half your level for the rest of the battle.
+
+---
 
 ## Adventurer Talents
 
@@ -598,6 +598,8 @@ The penalty to your AC and PD is reduced to –2. In addition, disengage checks 
 
 You can use Whirlwind anytime during your turn, not just as the first action.
 
+---
+
 ## Champion Talents
 
 At 5th level, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
@@ -787,6 +789,8 @@ If the attack still misses, deal half damage.
 #### Epic Feat
 
 The bonus increases to +1d6.
+
+---
 
 ## Epic Talents
 

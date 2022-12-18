@@ -8,8 +8,6 @@
 
 ### Species Power
 
----
-
 #### Slip Away
 
 Once per battle when making a disengage check you ignore the penalty for each foe engaged with you beyond the first.

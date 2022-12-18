@@ -54,8 +54,6 @@ You can spend more money to build a larger stronghold from the start, but there 
 
 ## Stronghold Benefits
 
----
-
 ### Camp
 
 ---
@@ -101,8 +99,6 @@ Barbarians prefer followers who are independent and don’t require a lot of ove
 ---
 
 ### Chapel
-
----
 
 #### Demesne Effects
 
@@ -175,8 +171,6 @@ The Paladin's Smite Evil burns through enemy resistance. Enemies automatically f
 
 ### Establishment
 
----
-
 #### Demesne Effects
 
 - One ally per level of the rogue’s stronghold can hide in the rogue’s demesne, and no mundane or magical means will reveal their location. This ability does not work on the owner of the stronghold.
@@ -228,8 +222,6 @@ When the Rogue is hit with an attack and would lose momentum, they can choose no
 
 ### Fane
 
----
-
 #### Demesne Effects
 
 - The sun appears as a baleful orb in the sky over the occultist’s demesne.
@@ -278,8 +270,6 @@ The Occultist can gain focus with a quick action rather than a standard action. 
 ---
 
 ### Fortress
-
----
 
 #### Demesne Effects
 
@@ -341,8 +331,6 @@ A Commander can use a quick action to gain 1d3 command points instead of making 
 
 ### Graveyard
 
----
-
 #### Demesne Effects
 
 - Color drains from the surrounding area, and the sky is always overcast.
@@ -400,8 +388,6 @@ Fighting alongside undead imposes a -1 penalty on all Morale checks per graveyar
 
 ### Grove
 
----
-
 #### Demesne Effects
 
 - Local birds and mammals in the druid’s demesne can speak Common and Elven. They enjoy talking to new people but will try to find and warn the druid if suspicious strangers enter the demesne.
@@ -452,8 +438,6 @@ Ambassadors who wish to join a druid’s retinue are usually fey, or aligned wit
 
 ### Keep
 
----
-
 #### Demesne Effects
 
 - Fortifications in the fighter's demesne grant units defending them an extra +2 Morale bonus.
@@ -490,8 +474,6 @@ If an enemy attempts to disengage from the Fighter, the Fighter can knock them p
 ---
 
 ### Library
-
----
 
 #### Demesne Effects
 
@@ -548,8 +530,6 @@ Party Ritual Casters can master a ritual in half the normal time. Party members 
 
 ### Lodge
 
----
-
 #### Demesne Effects
 
 - Stags, harts, and other game are always plentiful in the ranger’s demesne, but they are larger and fiercer than normal.
@@ -597,8 +577,6 @@ When the Ranger attempts to track a creature, they can call upon the wilds to tr
 ---
 
 ### Monastery
-
----
 
 #### Demesne Effects
 
@@ -657,8 +635,6 @@ Whenever you are attacked while you have unspent ki, you can ignore all of the a
 
 ### Sanctum
 
----
-
 #### Demesne Effects
 
 - Spells cast in the psion's demense have a 15% chance to result in a high weirdness effect.
@@ -711,8 +687,6 @@ In addition, the GM can choose to reveal any of the following:
 ---
 
 ### Temple
-
----
 
 #### Demesne Effects
 
@@ -771,8 +745,6 @@ When the Cleric casts Heal, they can choose all allies next to\* them rather tha
 
 ### Theater
 
----
-
 #### Demesne Effects
 
 - Whenever the wind blows through the trees in the bard’s demesne, music plays. Hooves on roads beat out a complex rhythm.
@@ -828,8 +800,6 @@ While the Bard is channelling a Bardic Song, they can choose to continue the son
 
 ### Tower
 
----
-
 #### Demesne Effects
 
 - Curses, blessings, and oaths pronounced within the sorcerer’s demesne have a 15% chance to be cast at a higher level.
@@ -872,8 +842,6 @@ A sorcerer’s army is usually light and highly mobile. Unlike other classes the
 | 81–100 | Roll on the Special Allies table |
 
 ## Other Followers
-
----
 
 ### Special Allies
 

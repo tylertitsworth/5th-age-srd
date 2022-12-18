@@ -90,8 +90,6 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -166,6 +164,8 @@ When you cast _heal_ on an ally you are next to, that ally adds +30 hp to the re
 ### Ritual Magic
 
 Clerics can cast divine [rituals](../General-Rules/Rituals.md).
+
+---
 
 ## Class Talents
 
@@ -407,8 +407,6 @@ Allies now also get a damage bonus against such enemies equal to double your Cha
 
 ## 1st Level Spells
 
----
-
 ### Bless
 
 Ranged spell
@@ -604,9 +602,9 @@ You can choose to target either demons or undead with the spell (but not both wi
 
 Increase the targeting limit by 100 hp.
 
-## 3rd Level Spells
-
 ---
+
+## 3rd Level Spells
 
 ### Cause Fear
 
@@ -762,8 +760,6 @@ Quick action to cast
 
 ## 5th Level Spells
 
----
-
 ### Crisis of Faith
 
 Close-quarters spell
@@ -819,8 +815,6 @@ Daily
 
 ## 7th Level Spells
 
----
-
 ### Circle of Protection
 
 Close-quarters spell
@@ -869,8 +863,6 @@ The fifth time you resurrect someone, that's the end of your story and you die. 
 
 ## 9th Level Spells
 
----
-
 ### Overworld Travel
 
 Close-quarters spell
@@ -902,6 +894,8 @@ Daily
 #### Epic Feat
 
 This spell is now a quick action to cast.
+
+---
 
 ## Additional Domains
 

@@ -5,8 +5,6 @@ layout: doc
 
 ## Higher Tiefling
 
----
-
 ### Species Bonus
 
 +2 Int or +2 Cha
@@ -14,8 +12,6 @@ layout: doc
 ---
 
 ### Species Power
-
----
 
 #### Curse of Chaos
 
@@ -29,9 +25,9 @@ A curse should have about the same impact as a typical once-per-battle ability. 
 
 Whenever a nearby enemy rolls a natural 1 on an attack against you, you can use _curse of chaos_ against them without expending it.
 
-## Lower Tiefling
-
 ---
+
+## Lower Tiefling
 
 ### Species Bonus
 
@@ -40,8 +36,6 @@ Whenever a nearby enemy rolls a natural 1 on an attack against you, you can use 
 ---
 
 ### Species Power
-
----
 
 #### Dangerous
 

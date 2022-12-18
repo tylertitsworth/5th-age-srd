@@ -92,8 +92,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -121,8 +119,6 @@ At-Will
 **Miss:** —
 
 ## Class Features
-
----
 
 ### Arcane Implements
 
@@ -243,6 +239,8 @@ Once per day when you recharge a spell (usually during a quick rest), you can ma
 #### Epic Feat
 
 Once per day, you can automatically succeed on a recharge roll.
+
+---
 
 ## Class Talents
 
@@ -854,9 +852,9 @@ You also gain a bonus occultist spell.
 
 Increase the transcendence skill to 7.
 
-## 1st Level Spells
-
 ---
+
+## 1st Level Spells
 
 ### Auramancy
 
@@ -1342,9 +1340,9 @@ This spell's damage dice increase by one size (for example, d6s become d8s).
 
 When you miss with this spell but retain your focus with the roll, the target takes double the miss damage, unless you rolled a 1.
 
-## 3rd Level Spells
-
 ---
+
+## 3rd Level Spells
 
 ### Blood for Blood
 
@@ -1646,9 +1644,9 @@ _Special:_ You can cast this spell out of combat. In that case, it doesn’t req
 
 If the reroll is an odd miss, add an unexpected beneficial effect. Maybe the trap is now jammed and unable to trigger, or the enemy falls out of the tree they were hiding in.
 
-## 5th Level Spells
-
 ---
+
+## 5th Level Spells
 
 ### Astral Projection
 
@@ -1940,9 +1938,9 @@ Quick action
 
 Also target a second nearby ally, for half the amount of temporary hit points.
 
-## 7th Level Spells
-
 ---
+
+## 7th Level Spells
 
 ### Arcane Cataclysm
 
@@ -2076,9 +2074,9 @@ _Natural even miss:_ Teleport the engaged ally to a nearby location.
 
 Attack the lower defense of PD or MD with this spell.
 
-## 9th Level Spells
-
 ---
+
+## 9th Level Spells
 
 ### Butterfly Effect
 

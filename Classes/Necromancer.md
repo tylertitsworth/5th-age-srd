@@ -94,8 +94,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -198,9 +196,9 @@ You don't die from damage until your negative hit points equal your maximum hit 
 
 One battle per day, you can choose to succeed with death saves on an 11+ instead of a 16+.
 
-## Class Talents
-
 ---
+
+## Class Talents
 
 ### Black Cabalist
 
@@ -685,9 +683,9 @@ You can expend one use of your stunt as an interrupt action to reduce the damage
 
 Gain three extra daily uses of your stunt.
 
-## 1st Level Spells
-
 ---
+
+## 1st Level Spells
 
 ### Bat Form
 
@@ -1343,8 +1341,6 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 round
 
 ## 3rd Level Spells
 
----
-
 ### Blade of Suffering
 
 Melee attack
@@ -1912,9 +1908,9 @@ The spell no longer ends when you drop to 0 hit points or below; instead it ends
 
 The spell no longer ends when you use it to drop an enemy to 0 hit points; it now ends when it drops a second enemy to 0 hit points.
 
-## 5th Level Spells
-
 ---
+
+## 5th Level Spells
 
 ### Aura of Forbiddance
 
@@ -2213,9 +2209,9 @@ The crit range for attacks a confused target makes against itself expands by 4.
 
 Increase the hit point threshold of targets by 40 hp.
 
-## 7th Level Spells
-
 ---
+
+## 7th Level Spells
 
 ### Blood Command
 
@@ -2497,8 +2493,6 @@ Daily
 | 9th | +3 | +3d6 | +3 | +3 | +3 | +45 |
 
 ## 9th Level Spells
-
----
 
 ### Angel of Death
 

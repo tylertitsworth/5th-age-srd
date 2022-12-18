@@ -86,8 +86,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -189,6 +187,8 @@ Monks get magic-weapon style powers from magical bracers. In practice, a monk fi
 ### Cycle Bonus
 
 This is a monk-specific keyword. You gain a cycle bonus for the duration of your current attack progression, that is, for your opening, flow and finishing attack, until the start of your next turn after using a finishing attack. It also ends if anything breaks the current attack progression, such as the end of the battle, when you don’t attack for a round, or when you start a new progression by using an opening attack.
+
+---
 
 ## Adventure Tier Talents
 
@@ -744,6 +744,8 @@ _Supreme Warrior Discipline:_ When you use your Temple Weapon Master power, you 
 
 The AC bonus from the _Supreme Warrior Discipline_ ki power also applies to your PD. An attack against your PD that misses also ends the bonus.
 
+---
+
 ## Champion Tier Talents
 
 At 6th level, you gain an additional monk class talent. You can choose to take another adventurer-tier talent, or select from the talents that follow.
@@ -919,6 +921,8 @@ Once per battle, you can make an opening attack as a ranged attack with a small 
 
 _Back of the Hand:_ You can spend a ki point to use this talent an additional time per battle.
 
+---
+
 ## Epic Tier Talents
 
 At 9th level, you gain an additional monk class talent. As usual, you can choose a talent from a lower tier, or an epic tier. Epic-tier talents have feats but no associated ki powers.
@@ -1031,9 +1035,9 @@ If you fail the save, you take only half damage.
 
 _Another Petal Falls:_ You can spend a ki point to use this power a second time in a battle.
 
-## Adventure Tier Forms
-
 ---
+
+## Adventure Tier Forms
 
 ### Claws of the Panther
 
@@ -1095,8 +1099,6 @@ _Predator's Return:_ You can spend 1 point of ki when your finishing attack miss
 
 ### Dance of the Mantis
 
----
-
 #### Opening Attack (Springing Mantis Strike)
 
 Melee attack
@@ -1150,8 +1152,6 @@ _The Dance Continues:_ You can spend 1 point of ki during your turn to roll a di
 ---
 
 ### Crazed Monkey
-
----
 
 #### Opening Attack (Monkey Screech)
 
@@ -1216,8 +1216,6 @@ You can spend a ki point on this attack to target one additional enemy.
 
 ### Drunken Fist
 
----
-
 #### Opening Attack (Wine-Addled Step)
 
 Melee attack
@@ -1274,8 +1272,6 @@ _Natural even hit:_ The target has disadvantage on its attack rolls (save ends).
 
 ### Dutiful Guardian
 
----
-
 #### Opening Attack (One Must Be Free)
 
 Melee attack
@@ -1329,8 +1325,6 @@ When you intercept an enemy that is moving to attack one of your allies, you gai
 ---
 
 ### Firewalker
-
----
 
 #### Ki Power
 
@@ -1387,8 +1381,6 @@ Melee attack
 ---
 
 ### Original Venom
-
----
 
 #### Opening Attack (First Deadly Venom)
 
@@ -1453,8 +1445,6 @@ You gain _resist poison 14+._
 
 ### Rabid Badger
 
----
-
 #### Adventurer Feat
 
 Reduce the attack penalty of all attacks in this form to -2.
@@ -1509,8 +1499,6 @@ Melee attack
 
 ### Red Cliff
 
----
-
 #### Opening Attack (Raise the Wall)
 
 Melee attack
@@ -1558,8 +1546,6 @@ Melee attack
 ---
 
 ### Sacred Fist
-
----
 
 #### Opening Attack (Sacred Willow Sutra)
 
@@ -1613,8 +1599,6 @@ Melee attack
 
 ### Shadow Fist
 
----
-
 #### Opening Attack (Embrace the Shadow)
 
 Melee attack
@@ -1660,8 +1644,6 @@ On a hit, you can teleport the target instead.
 ---
 
 ### Three Cunning Tricksters
-
----
 
 #### Opening Attack (Fox Senses Weakness)
 
@@ -1719,8 +1701,6 @@ _The Gift Returns:_ When you roll a natural 18+ on a save, you can spend 1 point
 
 ### Way of the Metallic Dragon
 
----
-
 #### Opening Attack (Bronze Thwarts an Army)
 
 Melee attack
@@ -1777,9 +1757,9 @@ Melee attack
 
 _Become the Dragon:_ When you drop a non-mook enemy to 0 hp with a finishing attack, you can spend 1 point of ki to gain a second standard action during your _next_ turn. You're gathering power, preparing to unleash havoc, or doing something similar. If for some reason you decide not to take the extra standard action during your next turn, you get the point of ki back, but can't spend any more ki this battle.
 
-## Champion Tier Forms
-
 ---
+
+## Champion Tier Forms
 
 ### Calm of the Lotus Pond
 
@@ -1833,8 +1813,6 @@ If the escalation die is 4+, you can target two enemies you are engaged with.
 
 ### Great Wave of Crashing Waters
 
----
-
 #### Opening Attack (Storm Gathering at Sea)
 
 Melee attack
@@ -1886,8 +1864,6 @@ Before making the attack, you can engage a nearby enemy as a free action.
 ---
 
 ### Heaven's Thunder
-
----
 
 #### Opening Attack (Moon in Storming Sky)
 
@@ -1948,8 +1924,6 @@ You now heal 5d10 hp each time you use a finishing attack while staggered.
 ---
 
 ### Iron Crusader Form
-
----
 
 #### Opening Attack (No Retreat)
 
@@ -2015,8 +1989,6 @@ One battle per day, your crit range expands by 2 (cumulative) each time you drop
 
 ### Polished Jade
 
----
-
 #### Opening Attack (Jade Jewel)
 
 Melee attack
@@ -2066,8 +2038,6 @@ Deal half damage on a miss.
 ---
 
 ### Rising Phoenix
-
----
 
 #### Opening Attack (Rising Phoenix Fist)
 
@@ -2133,8 +2103,6 @@ One battle per day as a free action, choose yourself or a nearby ally. That crea
 
 ### Scales of the Serpent
 
----
-
 #### Opening Attack (Serpentine Gaze)
 
 Close-quarters attack
@@ -2196,8 +2164,6 @@ Each time the target fails a save against the ongoing damage, increase that dama
 
 ### Three Evil Dragons
 
----
-
 #### Opening Attack (The Burning Shadow)
 
 Melee attack
@@ -2255,8 +2221,6 @@ Once per day when you miss all targets with a finishing attack, you can make ano
 ---
 
 ### Tiger in Storm
-
----
 
 #### Opening Attack (Stalking Tiger)
 
@@ -2320,8 +2284,6 @@ You gain _resist energy damage 16+_ to cold, thunder, and lightning.
 
 ### White Dragon Mountain
 
----
-
 #### Opening Attack (Glacial Touch)
 
 Melee attack
@@ -2376,8 +2338,6 @@ Close-quarters power
 
 ## Epic Tier Forms
 
----
-
 ### Cloud of the Morning Mist
 
 ---
@@ -2431,8 +2391,6 @@ Melee attack
 ---
 
 ### Death's Quivering Shadow
-
----
 
 #### Opening Attack (Invoke the Name)
 
@@ -2490,8 +2448,6 @@ _Quivering Palm:_ Once per day when you hit a target with a finishing attack, yo
 
 ### Feathered Serpent
 
----
-
 #### Opening Attack (Coils Dispense Blessings)
 
 Melee attack
@@ -2546,8 +2502,6 @@ Once per battle as a quick action, you can roll a difficult save (16+) against a
 
 ### Flagrant Blossoms
 
----
-
 #### Opening Attack (The Petals Open)
 
 Melee attack
@@ -2599,8 +2553,6 @@ Once per day when you use the _lotus dreams the world_ finishing attack, a nearb
 ---
 
 ### Ghost Fist
-
----
 
 #### Opening Attack (Ghosts Awaken)
 
@@ -2654,8 +2606,6 @@ Melee attack
 
 ### Heavenly Kick
 
----
-
 #### Opening Attack (Foot Parts the Clouds)
 
 Melee attack
@@ -2704,8 +2654,6 @@ _Natural even hit:_ If the target has 150 hp or fewer after the attack, it is st
 
 ### Quivering Palm
 
----
-
 #### Epic Feat
 
 You can target PD instead of AC with Quivering Palm attacks.
@@ -2751,8 +2699,6 @@ Melee attack
 ---
 
 ### Rise of the Red Dragon
-
----
 
 #### Opening Attack (The Dragon Awakens)
 
@@ -2807,8 +2753,6 @@ Melee attack
 ---
 
 ### Spiral Path
-
----
 
 #### Opening Attack (The Cycle Opens)
 

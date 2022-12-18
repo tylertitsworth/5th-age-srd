@@ -57,6 +57,8 @@ You get 16 points to buy your abilities using the chart below.
 
 {% include point-buy.html %}
 
+---
+
 ## Combat Stats
 
 For details on how combat works, see [Combat Rules](./Combat.md).
@@ -120,6 +122,8 @@ Each class also has a different recovery die, usually a d6, d8, or d10, as speci
 ### Attacks and Powers
 
 You calculate attack and damage rolls based on the ability scores favored by your class or by the specific powers you choose within your class. Most classes use one specific ability score for most of their attacks. See [Classes](../Classes/README.md) for more information.
+
+---
 
 ## One Unique Thing
 

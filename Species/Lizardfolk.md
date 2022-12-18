@@ -20,8 +20,6 @@ As a standard action, you may move across any relatively flat surface (a calm la
 
 ### Species Power
 
----
-
 #### Frenzy
 
 Once per battle, you may declare you are entering a frenzy. Make the following attack:

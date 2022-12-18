@@ -90,8 +90,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -140,6 +138,8 @@ You can talk with plants and animals pretty much as often you like, and you gain
 
 Druids can cast primal [rituals](../General-Rules/Rituals.md).
 
+---
+
 ## Druid Talents
 
 Each of your talents unlocks pools of spells and powers that are not available to characters who lack the talent. Druids who choose to more talents in a circle become adepts and masters and gain additional benefits and powers in that circle.
@@ -169,8 +169,6 @@ In the same way that the Lich King represents halting the cycle and clinging to 
 ---
 
 ### Circle of Decay Talents
-
----
 
 #### Blighted Stench
 
@@ -768,8 +766,6 @@ _Master:_ As adept, but your companion is now the same level as your class level
 
 ### Circle of Fang Talents
 
----
-
 #### Animal Friends
 
 If you are a ranger, you gain the Druid’s Nature Talking class feature. If you are a druid, reduce the difficulty of skill checks to talk to animals from hard to normal (DC 15 at adventurer tier).
@@ -1044,8 +1040,6 @@ Druids of this circle are known as fey druids. If they are fey children switched
 ---
 
 ### Circle of Feysong Talents
-
----
 
 #### Court of Song
 
@@ -1353,8 +1347,6 @@ Quick action
 
 #### 1st Level Fey Spells
 
----
-
 ##### Beauty of the Sidhe
 
 Close-quarters spell
@@ -1479,8 +1471,6 @@ Daily
 
 #### 3rd Level Fey Spells
 
----
-
 ##### Fool’s Gold
 
 Close-quarter spell
@@ -1559,8 +1549,6 @@ For a faun, if your PD is higher than your MD, the summoned one follows the Path
 
 #### 5th Level Fey Spells
 
----
-
 ##### Aura of Nobility
 
 Close-quarters spell
@@ -1614,8 +1602,6 @@ Quick action
 ---
 
 #### 7th Level Fey Spells
-
----
 
 ##### Dark Whispers
 
@@ -1697,8 +1683,6 @@ Instead of rolling the d6, you can now choose the effect that didn’t activate 
 
 #### 9th Level Fey Spells
 
----
-
 ##### Cruel Mistress
 
 Close-quarters spell
@@ -1757,8 +1741,6 @@ This circle also gives access to at-will and once-per battle spells.
 ---
 
 ### Circle of the Land Talents
-
----
 
 #### Contemplation
 
@@ -1861,8 +1843,6 @@ Allies you travel with gain a +1 bonus to skill checks dealing with the natural 
 ---
 
 ### Circle of the Lands Spells
-
----
 
 #### Any Terrain
 
@@ -1974,8 +1954,6 @@ Daily
 ---
 
 #### Cave, Dungeon, Underworld
-
----
 
 ##### Adventurer Feat
 
@@ -2322,8 +2300,6 @@ Daily
 
 #### Forest, Woods
 
----
-
 ##### Adventurer Feat
 
 You gain the Soothing Forest spell below.
@@ -2459,8 +2435,6 @@ Daily
 ---
 
 #### Hells, Abyss
-
----
 
 ##### Adventurer Feat
 
@@ -2635,8 +2609,6 @@ Daily
 
 #### Ice, Tundra, Deep Snow
 
----
-
 ##### Adventurer Feat
 
 You gain the Ice Shards spell below.
@@ -2758,8 +2730,6 @@ _Natural even miss:_ You regain the spell slot at the end of the battle.
 
 #### Koru Behemoth
 
----
-
 ##### Adventurer Feat
 
 You gain the Swatch of Destruction spell below.
@@ -2800,8 +2770,6 @@ Daily
 ---
 
 #### Mountains
-
----
 
 ##### Adventurer Feat
 
@@ -2979,8 +2947,6 @@ The wall isn't permanent: walls of stone generally disappear at sunrise or sunse
 ---
 
 #### Ocean, Island
-
----
 
 ##### Adventurer Feat
 
@@ -3193,8 +3159,6 @@ The wave deals 6d12 damage to enemies and 2d12 damage to allies. Creatures must 
 
 #### Plains, Overworld
 
----
-
 ##### Adventurer Feat
 
 You gain the Flash of Lightning spell below.
@@ -3395,8 +3359,6 @@ _Natural even miss:_ The target pops free from all enemies.
 
 #### Ruins
 
----
-
 ##### Adventurer Feat
 
 You gain the Demoralizing Dread spell below.
@@ -3502,8 +3464,6 @@ Daily
 ---
 
 #### Swamp, Lake, River
-
----
 
 ##### Adventurer Feat
 
@@ -3639,8 +3599,6 @@ Quick action
 ---
 
 #### Volcano
-
----
 
 ##### Adventurer Feat
 
@@ -3817,8 +3775,6 @@ Druids of this circle are known as life druids or simply healers.
 ---
 
 ### Circle of Life Talents
-
----
 
 #### Font of Life
 
@@ -4217,6 +4173,8 @@ Quick action
 
 The target heals double hit points from the recovery.
 
+---
+
 ## Circle of the Moon
 
 Moon druids learn how to change shape into different forms of animals. They are also known as Circle of the Moons.
@@ -4312,8 +4270,6 @@ _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activati
 ---
 
 ### Circle of the Moon Talents
-
----
 
 #### Combat reconnaissance
 
@@ -5019,6 +4975,8 @@ Targets struck by the fear effect also have disadvantage on checks to disengage 
 
 You have advantage on the follow-up attack against mooks and staggered enemies.
 
+---
+
 ## Circle of War
 
 This circle makes you a stronger combatant with melee or ranged weapons, and it provides flexible attacks that are fueled by the power of the wilds. It replaces the Warrior Druid talent.
@@ -5032,8 +4990,6 @@ If you multiclass, the druid side is considered a “skillful warrior” and doe
 ---
 
 ### Circle of War Talents
-
----
 
 #### Ancestral Soldier
 
@@ -5167,8 +5123,6 @@ You must choose which flexible attacks you know. The number of flexible attacks 
 
 #### 1st Level Maneuvers
 
----
-
 ##### Evasive Instinct
 
 Flexible once-per-battle melee attack
@@ -5209,8 +5163,6 @@ Add your Constitution modifier to the extra damage, twice at 5th level and thric
 ---
 
 #### 3rd Level Maneuvers
-
----
 
 ##### Flying Sparks
 
@@ -5257,8 +5209,6 @@ _Champion:_ Your animal companion takes no attack penalty.
 ---
 
 #### 5th Level Maneuvers
-
----
 
 ##### Nature’s Vigor
 
@@ -5310,8 +5260,6 @@ You can trigger this attack on a natural 16+.
 
 #### 7th Level Maneuvers
 
----
-
 ##### Icy Grasp
 
 Flexible once-per-battle melee attack
@@ -5361,8 +5309,6 @@ Heal 5 extra hit points per point of escalation die.
 ---
 
 #### 9th Level Maneuvers
-
----
 
 ##### Faerie Timeslip
 

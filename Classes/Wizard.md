@@ -94,8 +94,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee attack
 
 At-Will
@@ -123,8 +121,6 @@ At-Will
 **Miss:** —
 
 ## Class Features
-
----
 
 ### Barred School
 
@@ -977,9 +973,9 @@ Once per level, if your familiar is close to you, it can cast one of your spells
 
 Your familiar gains another ability.
 
-## Cantrips
-
 ---
+
+## Cantrips
 
 ### Alarm (standard duration)
 
@@ -1147,9 +1143,9 @@ Double the number of cantrips you know.
 
 Triple the number of cantrips your know.
 
-## 1st Level Spells
-
 ---
+
+## 1st Level Spells
 
 ### Acid Arrow
 
@@ -2216,8 +2212,6 @@ Divination
 
 ## 3rd Level Spells
 
----
-
 ### Break Enchantment
 
 Ranged spell
@@ -3173,9 +3167,9 @@ Target 1d4 enemies.
 
 The web is now populated by spiders that deal 10 poison damage to any enemy caught in the web at the start of your turn.
 
-## 5th Level Spells
-
 ---
+
+## 5th Level Spells
 
 ### Acid Rain
 
@@ -3893,9 +3887,9 @@ Affected targets must make a hard save (16+) to end the stuck condition.
 
 Choose one target you hit with this spell. The titan’s fist flings them to a far-away location of your choice in the immediate encounter area.
 
-## 7th Level Spells
-
 ---
+
+## 7th Level Spells
 
 ### Anti-Magic Shell
 
@@ -4494,8 +4488,6 @@ When damage is dealt directly to the wall, divide the damage of that attack by 1
 | 9th | The wall now only dissipates on the third failed roll. |
 
 ## 9th Level Spells
-
----
 
 ### Disintegrate
 

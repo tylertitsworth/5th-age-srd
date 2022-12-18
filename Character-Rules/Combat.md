@@ -7,8 +7,6 @@ Combat is played with various sided dice. You make attack rolls against defense 
 
 ## Combat Stats
 
----
-
 ### Initiative Bonus
 
 Your initiative bonus is your Dexterity modifier + your level.
@@ -112,8 +110,6 @@ At the start of combat, each player rolls initiative for his or her character an
 
 ### Cyclic Initiative
 
----
-
 #### Roll Once
 
 Each creature rolls to determine its initiative at the start of its first turn in battle (d20 + initiative bonus). Use those results to determine who goes first each round.
@@ -144,8 +140,6 @@ Your initiative result becomes the count on which you took the readied action. I
 
 ### Actions on Your Turn
 
----
-
 #### Standard, Move, and Quick Actions
 
 Each turn you can take one of each action, in any order. See Combat Actions.
@@ -175,8 +169,6 @@ Monsters and NPCs do not add the escalation die bonus to their attacks
 If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
 
 ## Combat Actions
-
----
 
 ### Actions
 
@@ -331,6 +323,8 @@ Then roll initiative for the side that got ambushed and play normal combat round
 ##### Dicey Moves
 
 If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check against the ability score that the action is going to use. Specify whether a background will help. The DC depends on the current environment and the dice tell the tale.
+
+---
 
 ## Special Actions
 
@@ -524,6 +518,8 @@ If you're dropped to 0 hp or below one or more times during a fight, you take a 
 
 PCs can only be fully slain by named villains. PCs who fail four death checks fall into a coma and can only be brought back to consciousness once they're fully out of danger.
 
+---
+
 ## Rest and Recharge
 
 After each battle, you can use a quick rest to get ready for the next battle. After four battles, you'll usually earn a full heal-up.
@@ -567,8 +563,6 @@ Invisibility grants a big modifier to any stealth skill checks—at least +5 unl
 Once engaged in battle, attacks against invisible enemies have a 50% chance to miss completely, before the attack roll. Attacks that miss in this fashion don't deal any damage or have effects on the invisible creature, though other effects on a miss might occur.
 
 ## Special Attacks and Effects
-
----
 
 ### Conditions
 

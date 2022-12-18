@@ -57,6 +57,8 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 
 Magic items shape themselves to suit the person who has given them their chakra.
 
+---
+
 ## Magic Item Basics
 
 Some magic items are available at any level, with greater bonuses or other effects for champion- and epic-tier versions. Others can be found only at champion or epic levels.

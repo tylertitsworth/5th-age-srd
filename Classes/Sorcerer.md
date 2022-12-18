@@ -94,8 +94,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee attack
 
 At-Will
@@ -188,8 +186,6 @@ _Umbral Bloodline:_ Engulfed by the shadows of the Underworld
 
 #### Arcane Bloodline
 
----
-
 ##### Access to Wizardry
 
 Starting at 3rd level, you can take a wizard spell in place of a sorcerer spell. The wizard spell must be two levels lower than the sorcerer spell.
@@ -266,8 +262,6 @@ Sorcerers with the arcane bloodline cast dancing lights.
 ---
 
 #### Celestial Bloodline
-
----
 
 ##### Access to Divine Magic
 
@@ -376,8 +370,6 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 
 #### Draconic Bloodline
 
----
-
 ##### Access to Wizardry
 
 Starting at 3rd level, you can take a wizard spell in place of a sorcerer spell. The wizard spell must be two levels lower than the sorcerer spell.
@@ -475,8 +467,6 @@ Sorcerers with the Draconic bloodline can create small elemental effects with th
 
 #### Fey Bloodline
 
----
-
 ##### Access to Fey Magic
 
 Starting at 3rd level, you can take a bard spell OR a druid spell of the Circle of Feysong in place of a sorcerer spell. The bard / druid spell must be two levels lower than the sorcerer spell.
@@ -568,8 +558,6 @@ If the target spell is a sorcerer spell with the fey keyword, or a bard spell, r
 ---
 
 #### Umbral Bloodline
-
----
 
 ##### Access to Shadow
 
@@ -1087,9 +1075,9 @@ Your resist negative energy power improves to 16+, and the attack bonus against 
 
 If you put out one of your eyes and cut off one of your hands, you gain a +1 bonus to all attacks.
 
-## 1st Level Spells
-
 ---
+
+## 1st Level Spells
 
 ### Alter Self
 
@@ -2019,9 +2007,9 @@ _Natural even hit:_ The target has disadvantage on its next attack roll.
 
 If the escalation die is 4+, target two random nearby creatures with this spell.
 
-## 3rd Level Spells
-
 ---
+
+## 3rd Level Spells
 
 ### Beast Form
 
@@ -2561,9 +2549,9 @@ Any bloodline
 
 You can target a far away enemy at a -2 penalty to the attack roll.
 
-## 5th Level Spells
-
 ---
+
+## 5th Level Spells
 
 ### Breath of the Black
 
@@ -3056,9 +3044,9 @@ _Chain Spell:_ Each time your natural attack roll is even, you can attack a diff
 
 You can cast this spell without provoking opportunity attacks.
 
-## 7th Level Spells
-
 ---
+
+## 7th Level Spells
 
 ### All-Consuming Inferno
 
@@ -3530,9 +3518,9 @@ _Chain Spell:_ Each time your natural attack roll is even, you can attack a diff
 
 Double the hit point range you can affect as “save ends.“
 
-## 9th Level Spells
-
 ---
+
+## 9th Level Spells
 
 ### Black Blade of Disaster
 

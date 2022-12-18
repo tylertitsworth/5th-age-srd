@@ -13,9 +13,9 @@ layout: doc
 
 Gnomes have a +2 AC bonus against opportunity attacks.
 
-## Species Power
-
 ---
+
+## Species Power
 
 ### Confounding (Species Power)
 

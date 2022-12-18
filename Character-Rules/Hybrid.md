@@ -143,6 +143,8 @@ You can choose feats from either of your classes. You gain one feat per level li
 
 As a 1st level character, you've got all the gear you need from both your classes, as well as the normal starting gold pieces: 25 gp or 10 x d6 gp.
 
+---
+
 ## Key Ability Modifier
 
 The important things to remember in keeping track of the key ability for a hybrid character are a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents, and b) the talents are class elements that are affected by the key ability modifiers.
@@ -177,8 +179,6 @@ While raging, you cannot use attacks, powers, or spells from another class unles
 
 ### Controlled Rage
 
----
-
 #### Adventurer Tier
 
 You can use powers and attacks from your other class while raging. You can't use the extra d20 that Barbarian Rage gives you while making an attack from the other class, but at least you can slip out of your rage long enough to use a power or attack from your other class.
@@ -188,6 +188,8 @@ You can use powers and attacks from your other class while raging. You can't use
 #### Champion Tier
 
 Once per battle while raging, you can use a melee attack from your other class as if it was a barbarian attack, rolling 2d20 for the attack. (Examples of possible uses include a bard's flexible attack battle cries, a commander attack using the Lead from the Front talent that will garner command points, a fighter's flexible attacks, a ranger's double melee attack, and so on.)
+
+---
 
 ## Bard Hybrid
 
@@ -205,8 +207,6 @@ If you hybrid with another class that has flexible attacks, such as the fighter 
 
 ### True Flexibility
 
----
-
 #### Adventurer Tier
 
 Once per battle, as long as both classes use flexible attacks for the type of attack you are making, you can choose to roll a flexible attack without deciding which of your two classes it is linked to. Choose from _all_ your flexible attacks after you see the result of the roll.
@@ -216,6 +216,8 @@ Once per battle, as long as both classes use flexible attacks for the type of at
 #### Champion Tier
 
 You can now use the adventurer-tier feat twice per battle.
+
+---
 
 ## Cleric Hybrid
 
@@ -231,8 +233,6 @@ You lag one level behind in the class-specific elements of the Commander Level P
 
 ### Many Fronts
 
----
-
 #### Adventurer Tier
 
 Once per battle, use a melee attack from your non-commander class in place of a commander attack when you use your Front Line Fighting feature.
@@ -242,6 +242,8 @@ Once per battle, use a melee attack from your non-commander class in place of a 
 #### Champion Tier
 
 You can now use the adventurer-tier feat twice per battle.
+
+---
 
 ## Druid Hybrid
 
@@ -257,8 +259,6 @@ As a 1st level hybrid fighter, you start knowing two maneuvers from the 1st leve
 
 ### Armored Warfare
 
----
-
 #### Adventurer Tier
 
 Once per battle while wearing heavy armor, use an attack from a class that normally takes an attack penalty while wearing heavy armor without taking that penalty.
@@ -268,6 +268,8 @@ Once per battle while wearing heavy armor, use an attack from a class that norma
 #### Champion Tier
 
 You can now ignore heavy armor attack penalties while the escalation die is 3+.
+
+---
 
 ## Monk Hybrid
 
@@ -291,11 +293,11 @@ You lag one level behind in the spells known columns of the Occultist Level Prog
 
 ### Wider Focus
 
----
-
 #### Adventurer Tier
 
 Once per battle, you can use a power, spell, or other effect from a different class while maintaining your occultist focus.
+
+---
 
 ## Paladin Hybrid
 
@@ -304,8 +306,6 @@ You don't get the paladin's normal bonus talents at 5th and 8th level, instead r
 ---
 
 ### Armored in Life
-
----
 
 #### Adventurer Tier
 
@@ -316,6 +316,8 @@ Once per battle while wearing heavy armor, use an attack from a class that norma
 #### Champion Tier
 
 Two battles per day, avoid all attack penalties for wearing heavy armor from a class that normally has such an attack penalty. During any other battles that day, you can still only use the once-per battle power from the adventurer-tier feat.
+
+---
 
 ## Psion Hybrid
 
@@ -329,8 +331,6 @@ If your psionc talents allow you to draft random spells from other classes (Sten
 
 ### Continual Warp
 
----
-
 #### Adventurer Tier
 
 If you have a warp effect already going, drawing the stone from your other class doesn't cancel the warp effect. The warp effect continues until it's replaced by another warp effect or the end of the battle, as usual.
@@ -340,6 +340,8 @@ If you have a warp effect already going, drawing the stone from your other class
 #### Champion Tier
 
 If you invested in high weirdness, your high weirdness effects don't stop when you draw a hybrid stone.
+
+---
 
 ## Ranger Hybrid
 
@@ -351,8 +353,6 @@ Unless you've hybrided with one of the other skilled weapon-using classes, your 
 
 ### Two-weapon Hybrid
 
----
-
 #### Adventurer Tier
 
 While you are fighting with two melee weapons, you now gain the benefit of your Two-Weapon Mastery talent and any feats you've taken for it even when using attacks from your non-ranger class.
@@ -362,6 +362,8 @@ While you are fighting with two melee weapons, you now gain the benefit of your 
 #### Adventurer Tier
 
 You can use your Archery ranger talent and any feats you've taken for it even when using ranged attacks from your non-ranger class.
+
+---
 
 ## Rogue Hybrid
 
@@ -373,8 +375,6 @@ Combining your Sneak Attack damage with attacks from other classes remains off-l
 
 ### Seize the Momentum
 
----
-
 #### Adventurer Tier
 
 Once per day when you hit with an attack from your non-rogue class, you can gain _momentum_ as if you had used a rogue attack.
@@ -385,6 +385,8 @@ Once per day when you hit with an attack from your non-rogue class, you can gain
 
 In addition to using the adventurer-tier feat once per day, you can also use it once per battle (so in a four-battle day, you could use it five times).
 
+---
+
 ## Sorcerer Hybrid
 
 You lag one level behind in the spells known columns of the Sorcerer Level Progression table. At 1st level, you know three 1st level spells.
@@ -392,8 +394,6 @@ You lag one level behind in the spells known columns of the Sorcerer Level Progr
 ---
 
 ### Diverse Gathering
-
----
 
 #### Adventurer Tier
 
@@ -404,6 +404,8 @@ Once per day, you can cast a non-sorcerer spell after you have gathered power. Y
 #### Champion Tier
 
 You can now also gather power for a non-sorcerer spell as per the adventurer-tier feat once per battle while the escalation die is 4+ (so in a four battle day, you could use it up to five times assuming the escalation die allows it).
+
+---
 
 ## Wizard Hybrid
 

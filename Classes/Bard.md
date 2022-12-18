@@ -92,8 +92,6 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 
 ## Basic Attacks
 
----
-
 ### Melee Attack
 
 At-Will
@@ -404,9 +402,9 @@ You can intervene and reroll the failed skill check of an ally instead, replacin
 
 You can use Silver Tongue twice per session.
 
-## 1st Level Battle Cries
-
 ---
+
+## 1st Level Battle Cries
 
 ### Can't Touch This!
 
@@ -577,9 +575,9 @@ The bonus increases to +2.
 
 If the escalation die is 3+, two nearby conscious allies (instead of one) can each roll a save (with bonuses).
 
-## 1st Level Songs
-
 ---
+
+## 1st Level Songs
 
 ### Don't Call It a Comeback
 
@@ -659,8 +657,6 @@ Quick action each turn; 6+ to sustain
 | 9th | Add +15 hp to the recovery. |
 
 ## 1st Level Spells
-
----
 
 ### Battle Chant
 
@@ -925,9 +921,9 @@ The spell is now recharge 16+ after battle instead of daily.
 
 You can now target 1d4 + 1 enemies in a group with the spell.
 
-## 3rd Level Battle Cries
-
 ---
+
+## 3rd Level Battle Cries
 
 ### Hang Tough
 
@@ -994,8 +990,6 @@ Flexible melee attack
 **Effect:** Choose a nearby ally. That ally can either roll a save against a save ends effect or roll a normal save against a condition that has a duration that lasts until the end or beginning of a turn.
 
 ## 3rd Level Songs
-
----
 
 ### Ode to Heroism
 
@@ -1119,9 +1113,9 @@ The number of targets increases to 2d4.
 
 Two of the targets can now be far away instead of nearby.
 
-## 3rd Level Spells
-
 ---
+
+## 3rd Level Spells
 
 ### Dazed and Confused
 
@@ -1263,9 +1257,9 @@ Add a third random target.
 
 The recoveries the targets use are now free.
 
-## 5th Level Battle Cries
-
 ---
+
+## 5th Level Battle Cries
 
 ### Fear the Dark!
 
@@ -1405,9 +1399,9 @@ The battle cry can now trigger when the escalation die is 3+ instead of 5+.
 
 The damage bonus is now +3d12.
 
-## 5th Level Songs
-
 ---
+
+## 5th Level Songs
 
 ### Song of Careless Refrain
 
@@ -1471,9 +1465,9 @@ Enemies who fail a save are also dazed (-4 to attacks) until the end of their ne
 
 Increase the save penalty to -4.
 
-## 5th Level Spells
-
 ---
+
+## 5th Level Spells
 
 ### Arrow of Verse
 
@@ -1630,9 +1624,9 @@ _Reckless miss:_ 10 damage to all allies engaged with the target
 
 The spell is now recharge 16+.
 
-## 7th Level Battle Cries
-
 ---
+
+## 7th Level Battle Cries
 
 ### Cover Me!
 
@@ -1711,8 +1705,6 @@ Flexible melee attack
 | 9th | 2d20 psychic damage. |
 
 ## 7th Level Songs
-
----
 
 ### Dancing Blade
 
@@ -1814,8 +1806,6 @@ Quick action each turn; 16+ to sustain
 
 ## 7th Level Spells
 
----
-
 ### Dissonant Scream
 
 Ranged spell
@@ -1878,9 +1868,9 @@ Recharge check is now 11+.
 
 You can now also swap the positions of far-away allies you can see, up to a maximum of 9 creatures.
 
-## 9th Level Battle Cries
-
 ---
+
+## 9th Level Battle Cries
 
 ### Fight the Good Fight!
 
@@ -1976,9 +1966,9 @@ Flexible melee attack
 
 The battle cry can now trigger on natural 18+.
 
-## 9th Level Songs
-
 ---
+
+## 9th Level Songs
 
 ### Song of Destinies
 
@@ -2028,9 +2018,9 @@ Standard action each turn; 16+ to sustain
 
 When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target. If you have a positive icon relationship with the Lich King, you gain this feat for free.
 
-## 9th Level Spells
-
 ---
+
+## 9th Level Spells
 
 ### Dance to My Tune
 

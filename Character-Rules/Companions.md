@@ -57,6 +57,8 @@ Advantage: With a successful easy difficulty skill check (using your ability sco
 
 On a natural even hit with a melee attack, your companion gives enemies disadvantage on checks to disengage from it until the end of your next turn.
 
+---
+
 ## Bear (also Giant Badger, Wolverine)
 
 **Acts:** After druid / ranger
@@ -127,6 +129,8 @@ Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to
 
 Increase the resistance to 16+.
 
+---
+
 ## Small Rock Elemental
 
 **Acts:** After druid / ranger
@@ -138,6 +142,8 @@ Advantage: Reduce all damage your animal companion takes by half your level (rou
 ### Adventurer Feat
 
 Increase the damage reduction to equal to your level.
+
+---
 
 ## Snake (also Giant Spider, Poison Toad)
 
@@ -226,8 +232,6 @@ Animal Companion spells are not available to Animal Companion initiates.
 
 ## 1st Level Spells
 
----
-
 ### Borrow Senses
 
 Close-quarters spell
@@ -284,8 +288,6 @@ Daily
 
 ## 3rd Level Spells
 
----
-
 ### Magic Fang
 
 Ranged spell
@@ -325,8 +327,6 @@ Quick action
 
 ## 5th Level Spells
 
----
-
 ### Armor of Shell & Spirits
 
 Ranged spell
@@ -364,8 +364,6 @@ Interrupt action
 
 ## 7th Level Spells
 
----
-
 ### Blood is Strong
 
 Ranged spell
@@ -397,8 +395,6 @@ Quick action
 **Effect:** Your companion appears at your side.
 
 ## 9th Level Spells
-
----
 
 ### Blink
 

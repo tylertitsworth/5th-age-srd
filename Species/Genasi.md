@@ -9,8 +9,6 @@ layout: doc
 
 ## Earthsoul
 
----
-
 ### Adventurer Feat
 
 When an enemy attack would force you to pop free or move, you can immediately roll a normal save (11+) to avoid the effect.
@@ -18,8 +16,6 @@ When an enemy attack would force you to pop free or move, you can immediately ro
 ---
 
 ### Species Power
-
----
 
 #### Stone Heart
 
@@ -31,9 +27,9 @@ Once per battle, when you take damage, reduce the damage by three times your lev
 
 The next time you take damage after using the power, reduce it by twice your level, and the next time after that by your level.
 
-## Firesoul
-
 ---
+
+## Firesoul
 
 ### Adventurer Feat
 
@@ -49,8 +45,6 @@ When you make an attack that deals fire damage, reroll all 1s on the damage dice
 
 ### Species Power
 
----
-
 #### Burning Vengeance
 
 Once per battle, when you take damage from an attack by a nearby enemy, deal 1d6 per level fire damage to your attacker as an interrupt action.
@@ -61,9 +55,9 @@ Once per battle, when you take damage from an attack by a nearby enemy, deal 1d6
 
 Once per day, deal the Burning Vengeance damage to 1d3 additional nearby enemies.
 
-## Stormsoul
-
 ---
+
+## Stormsoul
 
 ### Adventurer Feat
 
@@ -79,8 +73,6 @@ When you succeed on a save to disengage, deal thunder damage to all enemies you 
 
 ### Species Power
 
----
-
 #### Zephyr Step
 
 Once per battle, when you are attacked by a nearby enemy, roll a d20 as a free action. If the roll is equal to the natural attack roll or higher, replace the natural attack roll with your roll and change the target to a nearby enemy of your choice.
@@ -91,9 +83,9 @@ Once per battle, when you are attacked by a nearby enemy, roll a d20 as a free a
 
 If the escalation die is 2+, gain advantage on your d20 roll for Zephyr Step.
 
-## Watersoul
-
 ---
+
+## Watersoul
 
 ### Adventurer Feat
 
@@ -108,8 +100,6 @@ You have advantage on skill checks to escape grabs or handcuffs, squeeze through
 ---
 
 ### Species Power
-
----
 
 #### Rippling Waves
 

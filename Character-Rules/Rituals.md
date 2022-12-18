@@ -60,9 +60,9 @@ Unless a ritual specifies otherwise, up to four of your allies can help you perf
 
 At any time before a ritual is completed, you can stop it and suffer no ill effect. You don't expend any components or pay any costs until a ritual is completed. You can't resume a ritual that was interrupted, however, so you do lose the time you spent on an interrupted ritual.
 
-## Level 1 Rituals
-
 ---
+
+## Level 1 Rituals
 
 ### Generic Rituals
 
@@ -98,8 +98,6 @@ At any time before a ritual is completed, you can stop it and suffer no ill effe
 ---
 
 ### Arcane Rituals
-
----
 
 #### Alarm
 
@@ -407,8 +405,6 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 ### Divine Rituals
 
----
-
 #### Calm Emotions
 
 **Casting Time/Duration:** 1 minute**/**10 minutes or until discharged
@@ -480,8 +476,6 @@ _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp)
 ---
 
 ### Primal Rituals
-
----
 
 #### Animal Messenger
 
@@ -610,8 +604,6 @@ An affected creature suffers no ill effects from ambient temperatures between â€
 
 ## Level 2 Rituals
 
----
-
 ### Generic Rituals
 
 ---
@@ -627,8 +619,6 @@ An affected creature suffers no ill effects from ambient temperatures between â€
 ---
 
 ### Arcane Rituals
-
----
 
 #### Arcane Lock
 
@@ -882,8 +872,6 @@ You cannot have more than one undead servitor at a time from different performan
 
 ### Divine Rituals
 
----
-
 #### Cure Disease
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -1004,8 +992,6 @@ There are two drawbacks to using the ritual to aid your decisions.
 ---
 
 ### Primal Rituals
-
----
 
 #### Animal Friendship
 
@@ -1155,8 +1141,6 @@ Any food or water created but uneaten disappears at the end of the duration.
 | 30 or higher | 24 hours |
 
 ## Level 3 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -1438,8 +1422,6 @@ _Focus_: A mirror or a crystal ball worth at least 200 gp. The focus conveys wha
 
 ### Divine Rituals
 
----
-
 #### Ghost Walk
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -1522,8 +1504,6 @@ You can use this ritual on an unwilling subject (usually, a former ally who is u
 
 ### Primal Rituals
 
----
-
 #### Stone Shape
 
 **Casting Time/Duration:** 1 minute**/**Instantaneous
@@ -1554,8 +1534,6 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 | 30 or higher | 24 hours |
 
 ## Level 4 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -1832,8 +1810,6 @@ Before the ritual expires, it can be renewed by any creature able to perform rit
 
 ### Divine Rituals
 
----
-
 #### Consult the Sages
 
 **Casting Time/Duration:** 30 minutes**/**10 minutes
@@ -1882,8 +1858,6 @@ In addition, once the ritual is complete, the reordained character becomes vague
 
 ### Primal Rituals
 
----
-
 #### Land Ward
 
 **Casting Time/Duration:** 1 hour**/**24 hours
@@ -1925,8 +1899,6 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 | 25 or higher | 12 hours |
 
 ## Level 5 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -2020,8 +1992,6 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 
 ### Divine Rituals
 
----
-
 #### Astral Sojourn
 
 **Casting Time/Duration:** 1 hour**/**Special
@@ -2048,8 +2018,6 @@ The ritual caster can choose to end the ritual at any time. This requires 10 min
 ---
 
 ### Primal Rituals
-
----
 
 #### Control Weather
 
@@ -2121,8 +2089,6 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 | 35 or higher | Massive Area |
 
 ## Level 6 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -2203,8 +2169,6 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by lea
 
 ### Divine Rituals
 
----
-
 #### Adjure
 
 **Casting Time/Duration:** 1 hour**/**8 hours or until discharged
@@ -2262,8 +2226,6 @@ Ten minutes after you finish performing the ritual, the oracle leaves, even if y
 Greater heroes accrue greater fatigue and require more effort to recuperate. At 8th level, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
 
 ## Level 7 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -2357,8 +2319,6 @@ _Focus_: A tuning fork made of a specific metal and tuned to the frequency of th
 
 ### Divine Rituals
 
----
-
 #### Succor
 
 **Casting Time/Duration:** 8 hours**/**Permanent until discharged
@@ -2375,8 +2335,6 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 
 ### Primal Rituals
 
----
-
 #### Wind Walk
 
 **Casting Time/Duration:** 30 minutes**/**10 hours
@@ -2386,8 +2344,6 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 **Effect:** You and all allies within 5 squares of you become weightless and gain the overland flight ability. You lose your quick, interrupt, and regular actions while flying, and can use your move action only to fly. If you take actions to do anything else, you crash. When using this ritual to fly for 10 hours, including rests, you can travel approximately 100 miles.
 
 ## Level 8 Rituals
-
----
 
 ### Divine Rituals
 
@@ -2410,8 +2366,6 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 | 25 or higher | 1 day |
 
 ## Level 9 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -2462,8 +2416,6 @@ The effect of this ritual ends when you have been alerted to a divination or scr
 
 ### Divine Rituals
 
----
-
 #### Voice of Fate
 
 **Casting Time/Duration:** 1 hour**/**Instantaneous
@@ -2490,8 +2442,6 @@ The guidance from the entity of fate is accurate, but great heroes are capable o
 
 ### Primal Rituals
 
----
-
 #### Shift Mote
 
 **Casting Time/Duration:** 1 hour**/**1 day
@@ -2505,8 +2455,6 @@ You can also elect to change the mote's altitude up to 1 mile over the course of
 Those who know this ritual keep it carefully guarded, for the ritual has devastating potential.
 
 ## Level 10 Rituals
-
----
 
 ### Arcane Rituals
 
@@ -2546,8 +2494,6 @@ You can use a teleportation circle as the origin point of this ritual, making mi
 
 ### Divine Ritual
 
----
-
 #### Imprisonment
 
 **Casting Time/Duration:** 1 hour**/**Permanent
@@ -2561,8 +2507,6 @@ You must set one or more possible conditions that release the creature, should t
 ---
 
 ### Primal Ritual
-
----
 
 #### Raise Land
 

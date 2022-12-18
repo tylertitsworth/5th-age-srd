@@ -13,9 +13,9 @@ layout: doc
 
 At 1st level, human PCs start with two feats instead of one.
 
-## Species Power
-
 ---
+
+## Species Power
 
 ### Quick to Fight
 
