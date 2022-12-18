@@ -26,124 +26,124 @@ function result() {
         if ($('input#option1').attr('result2') == 'selected') {
             $('input#option1').val('Human');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Dwarf');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('Halfling');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option2').attr('result2') == 'selected') {
             $('input#option1').val('Dragonborn');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Wood Elf');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('Lower Tiefling');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option3').attr('result2') == 'selected') {
             $('input#option1').val('Genasi');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Minotaur');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         }
     } else if ($('input#option2').attr('result1') == 'selected') {
         if ($('input#option1').attr('result2') == 'selected') {
             $('input#option1').val('Half-Elf');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Half-Orc');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option2').attr('result2') == 'selected') {
             $('input#option1').val('High Elf');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Higher Tiefling');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('Lizardfolk');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option3').attr('result2') == 'selected') {
             $('input#option1').val('Tabaxi');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Warforged');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         }
     } else if ($('input#option3').attr('result1') == 'selected') {
         if ($('input#option1').attr('result2') == 'selected') {
             $('input#option1').val('Goblin');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option2').attr('result2') == 'selected') {
             $('input#option1').val('Aasimar');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('Dark Elf');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('Gnome');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         } else if ($('input#option3').attr('result2') == 'selected') {
             $('input#option1').val('Any (but from another plane)');
             $('input#option1').get(0).type = 'text';
-            $('input#option1').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option1').attr('readonly', true);
+            $('input#option1').removeAttr('onclick');
             $('input#option2').val('');
             $('input#option2').get(0).type = 'text';
-            $('input#option2').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option2').attr('readonly', true);
+            $('input#option2').removeAttr('onclick');
             $('input#option3').val('');
             $('input#option3').get(0).type = 'text';
-            $('input#option3').attr('readonly', 'readonly');
-            $('input#option1').attr('onclick', '');
+            $('input#option3').attr('readonly', true);
+            $('input#option3').removeAttr('onclick');
         }
     }
     $('span#question').html('Recommended Options:')
