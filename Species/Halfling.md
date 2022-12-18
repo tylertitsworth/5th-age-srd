@@ -7,15 +7,21 @@ layout: doc
 
 +2 Dex or +2 Cha
 
+---
+
 ### Small
 
 Halflings have a +2 AC bonus against opportunity attacks.
+
+---
 
 ## Species Power
 
 ### Evasive
 
 Once per battle, force an enemy that hits you with an attack to reroll the attack with a –2 penalty.
+
+---
 
 #### Champion Feat
 

@@ -7,9 +7,13 @@ layout: doc
 
 +2 Int or +2 Wis
 
+---
+
 ### Small
 
 Gnomes have a +2 AC bonus against opportunity attacks.
+
+---
 
 ## Species Power
 
@@ -17,9 +21,13 @@ Gnomes have a +2 AC bonus against opportunity attacks.
 
 Once per battle, when you roll a natural 16+ with an attack, you can also daze the target until the end of your next turn.
 
+---
+
 #### Champion Feat
 
 Instead of being dazed, the target of your _confounding_ ability is weakened until the end of your next turn.
+
+---
 
 ### Minor Illusions
 
