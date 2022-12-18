@@ -9,6 +9,8 @@ Rituals are complex ceremonies that create magic effects. You don't memorize or 
 
 A ritual scroll contains a single ritual, and you can perform the ritual from that scroll only once. After that, the magic contained in the scroll is expended, and the scroll turns to dust. Anyone can use a ritual scroll to perform the ritual it contains, as long as the appropriate components are expended.
 
+---
+
 ### Acquiring Ritual Scrolls
 
 Like a ritual book, a ritual scroll can be purchased for the given market price. Ritual scrolls can also be found as treasure. You can create a ritual scroll by transcribing a ritual you have mastered. Creating a ritual scroll takes twice the amount of time as creating a ritual book but costs the same price.
@@ -33,11 +35,15 @@ To cast a ritual that you have mastered, you spend a certain amount of time (spe
 
 A ritual requires certain esoteric components, which you purchase before you perform the ritual and which are expended when the ritual is complete. Each ritual specifies the cost of the components you need. If a ritual requires a skill check, the check usually determines the ritual's effectiveness. Even if the check result is low, a ritual usually succeeds, but if the result is high, you can usually achieve better effects.
 
+---
+
 ### Ritual Scroll
 
 Using a Ritual Scroll: A ritual scroll holds one use of a particular ritual. You can perform a scroll's ritual even if you don't have the Ritual Caster feat, regardless of the level of the ritual. You still have to expend the components and supply any focus required by the ritual, and you can enlist your allies' assistance. Once you have finished performing the ritual on a scroll, the scroll turns to dust. If the ritual is interrupted, the scroll remains intact.
 
 Casting a ritual from a scroll takes half the time indicated in a ritual's description, since the creation of the scroll has primed the magic.
+
+---
 
 ### Assissting a Ritual
 
@@ -48,13 +54,19 @@ Unless a ritual specifies otherwise, up to four of your allies can help you perf
 
 >_Note_: Certain rituals might allow unwilling participants to pay those costs as well, but such rituals involve sacrifices to malevolent gods or demon lords and are not found in the ritual books of most player characters.
 
+---
+
 ### Interrupting a Ritual
 
 At any time before a ritual is completed, you can stop it and suffer no ill effect. You don't expend any components or pay any costs until a ritual is completed. You can't resume a ritual that was interrupted, however, so you do lose the time you spent on an interrupted ritual.
 
 ## Level 1 Rituals
 
+---
+
 ### Generic Rituals
+
+---
 
 #### Brew Potion
 
@@ -63,6 +75,8 @@ At any time before a ritual is completed, you can stop it and suffer no ill effe
 **Market/Component Cost:** 25 gp**/**Special
 
 **Effect:** You create a common potion or elixir of your level or lower. The ritual's component cost is equal to the price of the potion or elixir you create.
+
+---
 
 #### Purify Water
 
@@ -81,7 +95,11 @@ At any time before a ritual is completed, you can stop it and suffer no ill effe
 | 20-29 | 1,000 Liters | 5x5x5 ft. Cube |
 | 30 or higher | 1,000,000 Liters | Olympic Swimming Pool |
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Alarm
 
@@ -97,6 +115,8 @@ The result of triggering the alarm depends on the type of alarm. When an audible
 
 _Focus_: While holding a tiny bell (5 gp), you use a fine silver wire (5 gp) to scribe runes on the warded area's perimeter.
 
+---
+
 #### Amanuensis
 
 **Casting Time/Duration:** 10 minutes**/**Permanent
@@ -107,6 +127,8 @@ _Focus_: While holding a tiny bell (5 gp), you use a fine silver wire (5 gp) to 
 
 This ritual can be used to copy a ritual scroll, even if you have not mastered the ritual on the original scroll. Creating a ritual scroll in this manner takes twice as long as creating a ritual book but has the same cost (in addition to the component cost of this ritual).
 
+---
+
 #### Arcane Mark
 
 **Casting Time/Duration:** 5 minutes**/**Permanent
@@ -115,6 +137,8 @@ This ritual can be used to copy a ritual scroll, even if you have not mastered t
 
 **Effect:** You set your personal arcane mark on an object. It manifests as a unique sigil of your devising. After the first moment, it is invisible and can be seen only by a creature using Arcana to detect magic. Ritual casters use arcane marks to identify their property and sometimes to designate places of great import.
 
+---
+
 #### Calm Emotions
 
 **Casting Time/Duration:** 1 minute**/**10 minutes or until discharged
@@ -122,6 +146,8 @@ This ritual can be used to copy a ritual scroll, even if you have not mastered t
 **Market/Component Cost:** 150 gp**/**2 recoveries
 
 **Effect:** You perform this ritual while speaking. When you complete the ritual, nonhostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
+
+---
 
 #### Comprehend Language
 
@@ -139,6 +165,8 @@ Using this ritual on a language you have both heard and seen as a piece of writi
 
 **Skill Check:** Your Arcana skill check determines how well you understand the language or writing.
 
+---
+
 #### Dancing Lights
 
 **Casting Time/Duration:** 1 minute**/**1 minute
@@ -148,6 +176,8 @@ Using this ritual on a language you have both heard and seen as a piece of writi
 **Effect:** You create up to four floating orbs of light, or one light of vaguely humanoid shape. These lights can be of any color. Each orb sheds bright light nearby.
 
 Each light can fly. Whenever you use a move action to move, you can move all the lights as part of that action. You can also use a quick action to move all your lights. You must have line of effect to a light to move it. Any light goes out if it becomes far away from you at the end of your turn.
+
+---
 
 #### Eye of Alarm
 
@@ -175,6 +205,8 @@ The ritual's effects last for 24 hours or until you move far away from all the e
 
 _Optional Focus_: You can extend the duration of this ritual indefinitely by using a focus of a small, jeweled eye made of silver and ruby, worth 100 gp. The ritual's effects last as long as the focus remains nearby of any of the eyes. You can hide or protect the ritual's focus in any way you like, as long as it remains nearby of the eyes.
 
+---
+
 #### Endure Elements
 
 **Casting Time/Duration:** 10 minutes**/**24 hours
@@ -184,6 +216,8 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by usi
 **Effect:** Designate up to five ritual participants, including yourself, who ignore penalties associated with extremes of nonmagical weather.
 
 An affected creature suffers no ill effects from ambient temperatures between –50 and 140 degrees Fahrenheit, and the creature's equipment is likewise protected from the ravages of these temperatures and of precipitation.
+
+---
 
 #### Glib Limerick
 
@@ -195,6 +229,8 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
+---
+
 #### Hold Portal
 
 **Casting Time/Duration:** 1 action**/**10 minutes or until discharged
@@ -204,6 +240,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect:** You magically hold shut one nonmagical door, gate, window, shutter, or similar device.
 
 **Skill Check:** Your Arcana skill check sets the DC for the Athletics check or Thievery check needed to force the held portal open, which discharges the ritual. A creature using Arcana can instead make an Arcana skill check against the same DC to discharge the ritual.
+
+---
 
 #### Last Sight Vision
 
@@ -221,6 +259,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 | 10-19 | 4 rounds |
 | 20-29 | 6 rounds |
 | 30 or higher | 10 rounds |
+
+---
 
 #### Lullaby
 
@@ -241,6 +281,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 | 20-29 | –6 |
 | 30 or higher | –10 |
 
+---
+
 #### Magic Mouth
 
 **Casting Time/Duration:** 10 minutes**/**Until discharged
@@ -248,6 +290,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You bind a message into a surface you touch. When conditions you set are met, the surface manifests a mouth and conveys your message, discharging the ritual. The mouth appears to be made out of the same material as the surface, but you otherwise decide the mouth's appearance.
+
+---
 
 #### Make Whole
 
@@ -257,6 +301,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** A single object that can fit in a 10-foot cube is completely repaired. The component cost is 20 percent of the item's cost. In cases where you attempt to repair an item not on any price list, the GM determines the cost.
 
+---
+
 #### Fireworks
 
 **Casting Time/Duration:** 1 minute**/**10 minutes
@@ -264,6 +310,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You send a barrage of small, colorful explosions into the sky. The explosions blossom into whatever color or shape you choose for 1 minute. At the end of each minute of the ritual's duration, you can choose a new color and shape. At night, the lights are visible within a 10-mile radius. During the day, the lights are visible within a 1-mile radius.
+
+---
 
 #### Secret Page
 
@@ -275,6 +323,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Skill Check:** Your Arcana skill check is the DC + 5 for a Perception skill check to notice the concealed writing.
 
+---
+
 #### Seek Rumor
 
 **Casting Time/Duration:** 30 minutes**/**Instantaneous
@@ -283,6 +333,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** You sit in meditation and let rumor drift into your mind, blown in on the wind of the community consciousness. Your Arcana skill check for this ritual counts as a Streetwise check for gathering information. Treat the Streetwise DC as 5 higher. You learn only information you could pick up by a normal use of the Streetwise skill.
 
+---
+
 #### Silence
 
 **Casting Time/Duration:** 10 minutes**/**24 hours or until discharged
@@ -290,6 +342,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You ward a single room, against eavesdropping. Creatures attempting to listen to something in the warded area from outside the area take a –10 penalty to their Perception checks.
+
+---
 
 #### Silent Image
 
@@ -301,6 +355,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 _Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the DC of the Arcana or Perception skill check to discern the illusion is 5 + your Arcana skill check modifier.
 
+---
+
 #### Summon Winds
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -308,6 +364,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You conjure a stiff breeze and direct it. You can increase a sailing vessel's speed by 2 miles per hour while you keep the winds in the vessel's sails. You can dismiss the winds as a free action.
+
+---
 
 #### Tenser's Floating Disk
 
@@ -318,6 +376,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Effect:** You create a slightly concave, circular plane of force that floats a foot off the ground and can carry what you lay upon it. The disk is 3 feet in diameter and 1 inch deep at its center. It remains stationary unless you move far away from it, in which case it moves with your base speed once per round until it is nearby you. You can command the disk to move up to your speed as a move action. If you are far away from the disk for 2 consecutive rounds, the disk disappears, dropping whatever it was carrying.
 
 **Skill Check:** Your Arcana skill check result determines the maximum load the disk can carry.
+
+---
 
 #### Unseen Servant
 
@@ -331,6 +391,8 @@ An unseen servant never tires. It cannot move far away from you. It does not occ
 
 _Focus_: A ceramic hand. The person who holds this focus is empowered to command any unseen servants summoned with it. If the focus is broken or not in anyone's possession for a minute or longer, all unseen servants bound to it disappear.
 
+---
+
 #### Traveler's Chant
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -341,7 +403,11 @@ _Focus_: A ceramic hand. The person who holds this focus is empowered to command
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Calm Emotions
 
@@ -351,6 +417,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** You perform this ritual while speaking. When you complete the ritual, nonhostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
 
+---
+
 #### Create Holy Water
 
 **Casting Time/Duration:** 1 hour**/**24 hours
@@ -359,6 +427,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** This ritual infuses astral radiance into a small quantity of ordinary water. The cost to do so depends on the level of the holy water you choose to create. You cannot create holy water of a level higher than your own. Aside from its effect on undead and demons, holy water acts as normal pure water in all ways. It can be distinguished from normal water with examination and a successful DC 15 Arcana skill check.
 
+---
+
 #### Gentle Repose
 
 **Casting Time/Duration:** 1 hour**/**Special
@@ -366,6 +436,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** This ritual is performed on a corpse. It quintuples the time the corpse can lie dead and still be affected by Raise Dead or a similar ritual. Gentle Repose also protects the corpse from being raised as an undead creature for 150 days.
+
+---
 
 #### Last Sight Vision
 
@@ -383,6 +455,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 | 10-19 | 4 rounds |
 | 20-29 | 6 rounds |
 | 30 or higher | 10 rounds |
+
+---
 
 #### Read Omens
 
@@ -403,7 +477,11 @@ Once you ask the question, the GM secretly rolls an Arcana skill check for you a
 
 _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp) to read the answer to your query in their arrangement.
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Animal Messenger
 
@@ -422,6 +500,8 @@ _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp)
 | 20-29 | 18 hours |
 | 30 or higher | 24 hours |
 
+---
+
 #### Bloom
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -431,6 +511,8 @@ _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp)
 **Effect:** Upon completion of the ritual, you cause all outdoor terrain nearby you to bloom with new growth and foliage.
 
 Alternatively, the ritual causes crops and fruit-bearing plants nearby you to yield food. The plants produce enough food to feed five people for a week.
+
+---
 
 #### Create Campsite
 
@@ -446,6 +528,8 @@ At the end of the ritual's duration, the spirits break down the campsite, pack u
 
 **Skill Check:** Your Nature skill check result serves as the DC for Perception checks to notice the hidden camp.
 
+---
+
 #### Dowsing Rod
 
 **Casting Time/Duration:** 1 minute**/**12 hours or until discharged
@@ -453,6 +537,8 @@ At the end of the ritual's duration, the spirits break down the campsite, pack u
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You transform a stick or other natural object into a dowsing rod. When you do so, name a natural feature of the environment, such as mountains, rivers, forests, or caves. The dowsing rod points the way to the nearest place that fits the description. You can't name a specific place, such as Mount Baneflame, and the rod can't find magically concealed locations. When you reach the destination, the ritual is discharged.
+
+---
 
 #### Endure Elements
 
@@ -464,6 +550,8 @@ At the end of the ritual's duration, the spirits break down the campsite, pack u
 
 An affected creature suffers no ill effects from ambient temperatures between –50 and 140 degrees Fahrenheit, and the creature's equipment is likewise protected from the ravages of these temperatures and of precipitation.
 
+---
+
 #### Pass Without Trace
 
 **Casting Time/Duration:** 1 minute**/**8 hours
@@ -471,6 +559,8 @@ An affected creature suffers no ill effects from ambient temperatures between �
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You and up to five allies present while you perform this ritual leave fewer tracks. The DC to track those the ritual affects increases by 5, as if you had obscured their tracks.
+
+---
 
 #### Portend Weather
 
@@ -480,6 +570,8 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 **Effect:** You determine what the weather will be like for the next 24 hours within a 50-mile radius of you. You and any allies present for the ritual gain a +5 bonus to Endurance checks to endure extreme weather you have foreseen.
 
+---
+
 #### Summon Winds
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -487,6 +579,8 @@ An affected creature suffers no ill effects from ambient temperatures between �
 **Market/Component Cost:** 150 gp**/**30 gp
 
 **Effect:** You conjure a stiff breeze and direct it. You can increase a sailing vessel's speed by 2 miles per hour while you keep the winds in the vessel's sails. You can dismiss the winds as a free action.
+
+---
 
 #### Traveler's Camouflage
 
@@ -504,6 +598,8 @@ An affected creature suffers no ill effects from ambient temperatures between �
 | 20-29 | +5 | –5 |
 | 30 or higher | +10 | –10 |
 
+---
+
 #### Water Walk
 
 **Casting Time/Duration:** 10 minutes**/**1 hour
@@ -514,7 +610,11 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 ## Level 2 Rituals
 
+---
+
 ### Generic Rituals
+
+---
 
 #### Find Traps
 
@@ -524,7 +624,11 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 **Effect:** You gain an intuitive sense for traps in your surroundings, allowing you to make an Insight check to detect each trap nearby you. The DC for the check is the lowest detect DC the trap has.
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Arcane Lock
 
@@ -546,6 +650,8 @@ The Arcane Lock remains until you dismiss it, the door is destroyed, or until th
 
 **Skill Check:** Your Arcana skill check, with a +5 bonus, sets the DC for Sleight of Hand checks or Strength checks made to open the door.
 
+---
+
 #### Change Self
 
 **Casting Time/Duration:** 1 minute**/**1 hour
@@ -555,6 +661,8 @@ The Arcane Lock remains until you dismiss it, the door is destroyed, or until th
 **Effect:** You take on the appearance of a humanoid of your size. You can also alter the appearance of your clothing, armor, and equipment, all of which must remain present and maintain the same general shape. You retain your statistics in your new form. Creatures viewing or interacting with you can make an Insight check (DC 10 + your Arcana skill check modifier) to detect the deception.
 
 _Ritual Scroll_: You can perform this ritual as a standard action if you do so from a scroll. If you do so, the ritual costs you 1 additional recovery, and the DC to see through the deception is 5 + your Arcana skill check modifier.
+
+---
 
 #### Deathly Shroud
 
@@ -572,6 +680,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action if you do so f
 | 20-29 | 8 hours |
 | 30 or higher | 24 hours |
 
+---
+
 #### Disenchant Magic Item
 
 **Casting Time/Duration:** 1 hour**/**Instantaneous
@@ -579,6 +689,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action if you do so f
 **Market/Component Cost:** 250 gp**/**50 gp
 
 **Effect:** The ritual destroys a magic item of your tier or lower, and the item can be common, uncommon, or rare. The ritual returns an amount of residuum based on the item's rarity: 20 percent of a common item's gold piece value, 50 percent of an uncommon item's gold piece value, and 100 percent of a rare item's gold piece value.
+
+---
 
 #### Enchant Magic Item
 
@@ -590,6 +702,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action if you do so f
 
 You can also use this ritual to resize magic armor (for example, shrink a fire giant's magic armor to fit a halfling). There is no component cost for this use.
 
+---
+
 #### Excavation
 
 **Casting Time/Duration:** 10 minutes**/**1 minute
@@ -599,6 +713,8 @@ You can also use this ritual to resize magic armor (for example, shrink a fire g
 **Effect:** You clear medium volume of earth and loose stone nearby you, leaving the start of a trench or a tunnel.
 
 **Skill Check:** Your Arcana skill check result divided by 10 (rounded down) determines the number of volumes you clear. The material disappears over the course of the ritual's duration and is scattered across the world.
+
+---
 
 #### Knock
 
@@ -614,6 +730,8 @@ Your Arcana skill check has a +5 bonus in place of a Sleight of Hand check to op
 
 If you use this ritual successfully against a portal protected by Arcane Lock, you destroy the Arcane Lock and its effects end.
 
+---
+
 #### Lesser Telepathy
 
 **Casting Time/Duration:** 5 minutes**/**1 hour
@@ -621,6 +739,8 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 **Market/Component Cost:** 250 gp**/**50 gp and 1 recovery
 
 **Effect:** You grant yourself telepathy. This telepathy can be used only to communicate to nearby allies.
+
+---
 
 #### Magic Circle
 
@@ -631,6 +751,8 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 **Effect:** You inscribe a circle on the ground, a circle emblazoned with arcane symbols of protection. If drawn correctly, these symbols make it difficult for creatures of a particular origin to enter or pass. When performing the ritual, you choose aberrant, elemental, fey, immortal, natural, shadow, or all. The last option applies a –5 penalty to your check. The circle requires 1 minute to inscribe per square inside the circle (and it must be a circle).
 
 **Skill Check:** An affected creature whose level is lower than your Arcana skill check result minus 10 cannot pass through the circle, affect creatures through the circle's boundary, or affect the boundary in any way. Other creatures of an affected origin take force damage equal to your Arcana skill check result when passing through the boundary, but doing so breaks the circle. Unaffected creatures can take a standard action to obscure the inscription and break the circle.
+
+---
 
 #### Object Reading
 
@@ -648,6 +770,8 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 | 10-19 | 2 |
 | 20-29 | 3 |
 | 30 or higher | 5 |
+
+---
 
 #### Phantom Steeds
 
@@ -670,6 +794,8 @@ The steeds cannot attack or affect other creatures in any way other than to serv
 
 A steed created by this ritual lasts for 12 hours or until it takes any damage. When the ritual ends, or when a steed is destroyed, the steed fades into nothingness and its rider lands on his or her feet in the steed's space. If a steed is flying when it disappears, the rider descends safely to the ground, landing at the start of his or her next turn.
 
+---
+
 #### Sending
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -687,6 +813,8 @@ A steed created by this ritual lasts for 12 hours or until it takes any damage. 
 | 20-29 | 500 miles |
 | 30 or higher | anywhere on the same plane |
 
+---
+
 #### Shatter
 
 **Casting Time/Duration:** 1 minute**/**Instantaneous
@@ -698,6 +826,8 @@ A steed created by this ritual lasts for 12 hours or until it takes any damage. 
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
 _Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
+
+---
 
 #### Shrink
 
@@ -714,6 +844,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 | 20-29 | 25% of true size | 12 hours |
 | 30 or higher | 10% of true size | 24 hours |
 
+---
+
 #### Tongues
 
 **Casting Time/Duration:** 1 minute**/**10 minutes
@@ -721,6 +853,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Market/Component Cost:** 250 gp**/**50 gp and a recovery
 
 **Effect:** You or one ally present during the ritual's performance gains the ability to speak and understand all languages. Creatures that can hear the target understand what he or she says as if he or she were speaking their native language. If the target can hear another creature that is speaking a language, he or she understands what that creature says as if it were speaking the target's native language.
+
+---
 
 #### Undead Servitor
 
@@ -734,6 +868,8 @@ The undead servitor is a noncombatant. When forced onto an active battlefield, t
 
 You cannot have more than one undead servitor at a time from different performances of this ritual. If you attempt to create a second servitor, that ritual fails without component expenditure.
 
+---
+
 #### Wizard's Escape
 
 **Casting Time/Duration:** 10 minutes**/**10 minutes
@@ -742,7 +878,11 @@ You cannot have more than one undead servitor at a time from different performan
 
 **Effect:** For the ritual's duration, you and up to eight allies can squeeze into and through spaces that a Tiny creature can squeeze through, allowing them to fit into crevices, under some doors, and through most barred gates or walls. An affected creature must still squeeze to fit into a space it could not normally enter. How this ritual manifests varies from caster to caster: It can allow creatures to squeeze their body as though boneless, to step through half-dimensions, ripple into and out of smaller shapes, or anything else.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Cure Disease
 
@@ -772,6 +912,8 @@ This ritual is physically taxing to the recipient; if used on an injured charact
 
 If you know that your subject is suffering from multiple diseases, you must choose which one this ritual will cure. Otherwise, the ritual affects whichever single disease you knew about. You learn the disease tier when you begin the ritual, and at that point you can choose not to continue, without expending any components.
 
+---
+
 #### Delay Afflication
 
 **Casting Time/Duration:** 30 minutes**/**Special
@@ -787,6 +929,8 @@ If you know that your subject is suffering from multiple diseases, you must choo
 | 15-19 | 1 week |
 | 20 or higher | 2 weeks |
 
+---
+
 #### Discern Lies
 
 **Casting Time/Duration:** 250 gp**/**50 gp
@@ -796,6 +940,8 @@ If you know that your subject is suffering from multiple diseases, you must choo
 **Effect:** You discern any untruths spoken in your presence during the duration. If anyone aided you while performing this ritual, they can't help you make the resulting Insight checks.
 
 **Skill Check:** Make an Arcana skill check. Use the result as a bonus to your Insight checks to discern any lies or false truths.
+
+---
 
 #### Hand of Fate
 
@@ -816,6 +962,8 @@ There are two drawbacks to using the ritual to aid your decisions.
 - Fate values rewards over risk, and this ritual provides guidance accordingly. It points you toward a high risk, high reward option before pointing you toward a low risk, low reward alternative. For example, if one tunnel leads to a dragon and great wealth and the other tunnel leads back to town, then the hand points toward the dragon. However, a high risk, low reward alternative is considered less rewarding than a low risk, low reward option.
 - The hand can choose only the most rewarding course of action relative to the alternatives provided. That doesn't mean that the indicated choice is necessarily a good idea, only that it's a better idea than the other options you've indicated. In the example above, if all three levers activate traps, then the hand points toward the lever that triggers a trap less lethal than the others.
 
+---
+
 #### Iron Vigil
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -823,6 +971,8 @@ There are two drawbacks to using the ritual to aid your decisions.
 **Market/Component Cost:** 250 gp**/**50 gp
 
 **Effect:** You invoke your dedication to your god and let it wash your fatigue and needs from you. Iron Vigil fulfills your body's need for food and water when you perform it and allows you to remain aware and alert while taking an extended rest anytime during the ritual's duration.
+
+---
 
 #### Speak with Dead
 
@@ -841,6 +991,8 @@ There are two drawbacks to using the ritual to aid your decisions.
 | 20-29 | 2 |
 | 30 or higher | 3 |
 
+---
+
 #### Tongues
 
 **Casting Time/Duration:** 1 minute**/**10 minutes
@@ -849,7 +1001,11 @@ There are two drawbacks to using the ritual to aid your decisions.
 
 **Effect:** You or one ally present during the ritual's performance gains the ability to speak and understand all languages. Creatures that can hear the target understand what he or she says as if he or she were speaking their native language. If the target can hear another creature that is speaking a language, he or she understands what that creature says as if it were speaking the target's native language.
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Animal Friendship
 
@@ -878,6 +1034,8 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 | 20 or 29 | 1 day |
 | 30 or higher | 1 week |
 
+---
+
 #### Commune With Nature
 
 **Casting Time/Duration:** 30 minutes**/**10 minutes
@@ -894,6 +1052,8 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 | 10-19 | 2 |
 | 20 or 29 | 3 |
 | 30 or higher | 5 |
+
+---
 
 #### Feat of Strength
 
@@ -912,6 +1072,8 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 | 20-29 | +5 |
 | 30 or higher | +10 |
 
+---
+
 #### Shatter
 
 **Casting Time/Duration:** 1 minute**/**Instantaneous
@@ -923,6 +1085,8 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
 _Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
+
+---
 
 #### Speak with Nature
 
@@ -941,6 +1105,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 | 20-29 | 2 |
 | 30 or higher | 3 |
 
+---
+
 #### Starshine
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -958,6 +1124,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 | 20-29 | 6 |
 | 30 or higher | 9 |
 
+---
+
 #### Traveler's Feast
 
 **Casting Time/Duration:** 1 hour**/**24 hours
@@ -967,6 +1135,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 **Effect:** You create food and water, enough to feed five Medium or Small creatures or two Large creatures for 24 hours. You designate the type of eaters when performing the ritual, and the ritual creates appropriate food (trail rations for people, grain for horses, and so on).
 
 Any food or water created but uneaten disappears at the end of the duration.
+
+---
 
 #### Tree Stride
 
@@ -986,7 +1156,11 @@ Any food or water created but uneaten disappears at the end of the duration.
 
 ## Level 3 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Analyze Portal
 
@@ -1006,6 +1180,8 @@ Analyze Portal can also reveal the identity of the creature that created the por
 | 20 or higher | The origin and type of the creature to use it last |
 | 20 + the creator's level | Identity of the creature that created it, if any |
 
+---
+
 #### Aura Mask
 
 **Casting Time/Duration:** 10 minutes**/**24 hours (special)
@@ -1017,6 +1193,8 @@ Analyze Portal can also reveal the identity of the creature that created the por
 _Optional Focus_: You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the Aura Mask remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five Aura Masks or False Auras on five separate items, as long as they are all close enough to the focus.
 
 **Skill Check:** Your Arcana skill check result determines the DC for the Arcana skill check to see through your deception. The Arcana skill check DC to determine that an item is magical is the higher of the item's normal DC or the result of your Arcana skill check made as part of this ritual.
+
+---
 
 #### Detect Treasure
 
@@ -1030,6 +1208,8 @@ When you finish performing the ritual, you can command the rod to detect only va
 
 _Focus_: A gold rod you use in the performance of the ritual.
 
+---
+
 #### Glyph of Warding
 
 **Casting Time/Duration:** 10 minutes**/**Until discharged
@@ -1037,6 +1217,8 @@ _Focus_: A gold rod you use in the performance of the ritual.
 **Market/Component Cost:** 400 gp**/**80 gp and 2 recoveries
 
 **Effect:** You inscribe a glyph that works as a dangerous trap on a flat surface such as a wall, chest lid, table, or door. As you create the trap, you set the glyph's damage type, trigger, password and**/**or exceptions. The trigger you set must require the trap's target to enter the glyph's square, pass within range of the glyph's attack, or open or handle a warded object without speaking the password or meeting an exception. Acceptable exceptions include creature origin, creature type, physical characteristics, and named individuals. The glyph becomes nearly invisible once it is completed. If the trap is triggered or disabled, the ritual is discharged.
+
+---
 
 #### Gravesight
 
@@ -1057,6 +1239,8 @@ For the ritual's duration, you can spend an action to use the affected creature'
 | 20-29 | 6 miles |
 | 30 or higher | 10 miles |
 
+---
+
 #### Hallucinatory Terrain
 
 **Casting Time/Duration:** 10 minutes**/**24 hours
@@ -1066,6 +1250,8 @@ For the ritual's duration, you can spend an action to use the affected creature'
 **Effect:** You lay an illusion over a nearby area of natural terrain to make it look, sound, and smell as if it were a different type of natural terrain. Artificial structures, equipment, and creatures cannot be changed. A meadow might look like a hill, a pond could look like a meadow, and so on; but a road or a tower in the area remains the same.
 
 A creature can discern the illusion if it succeeds on an Arcana skill check or a Perception skill check (DC 10 + your Arcana skill check modifier). This check is a quick action if the creature has not interacted with the illusion, but can be made as a free action the first time the creature interacts with the illusion. If you conceal an area of hindering terrain, a creature is still entitled to a saving throw if forced into that terrain.
+
+---
 
 #### Inquisitive Eyes
 
@@ -1077,6 +1263,8 @@ A creature can discern the illusion if it succeeds on an Arcana skill check or a
 
 **Skill Check:** You can observe a point in time ago no greater than a number of hours equal to your Arcana skill check result.
 
+---
+
 #### Leomund's Tiny Hut
 
 **Casting Time/Duration:** 5 minutes**/**8 hours or until discharged
@@ -1086,6 +1274,8 @@ A creature can discern the illusion if it succeeds on an Arcana skill check or a
 **Effect:** You create an opaque, unmoving sphere of magical force in the area nearby. Half the sphere is aboveground, while the other half is belowground. Creatures other than yourself can enter and exit the hut freely. If you exit the hut, the ritual is discharged.
 
 The sphere's interior is 70 degrees Fahrenheit, and the exterior keeps out normal weather such as wind, rain, and dust. You can adjust the sphere's interior luminance from no light to dim light. The sphere is transparent from within but opaque (blocks line of sight) from the outside. Creatures inside the sphere have total concealment from creatures outside it.
+
+---
 
 #### Linked Portal
 
@@ -1113,6 +1303,8 @@ Most major temples, important wizards' guilds, and large cities have permanent t
 
 This ritual can take you anywhere in the world, but it can't take you to other planes. Sufficiently powerful warding magic, such as the Forbiddance ritual, can block a teleportation ritual. If the location is warded in such a manner, you learn that as soon as you begin the ritual, so you can interrupt the ritual and not expend any components.
 
+---
+
 #### Protection From Energy
 
 **Casting Time/Duration:** 1 minute**/**1 hour or until discharged
@@ -1124,6 +1316,8 @@ This ritual can take you anywhere in the world, but it can't take you to other p
 If the target is already under this ritual's effect when the ritual is used upon the target again, the newer effect cancels the older one.
 
 _Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
+
+---
 
 #### Magic Map
 
@@ -1144,6 +1338,8 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 
 _Focus_: A crystal plumb bob worth at least 100 gp, and a body part or personal object of the creature.
 
+---
+
 #### Seal Portal
 
 **Casting Time/Duration:** 10 minutes**/**Permanent
@@ -1156,6 +1352,8 @@ _Focus_: A crystal plumb bob worth at least 100 gp, and a body part or personal 
 
 The magic of a sealed portal can be detected with the Arcana skill. The level of the magical phenomenon (the seal, not the portal itself) is equal to your level at the time you performed this ritual.
 
+---
+
 #### Shatter Bonds
 
 **Casting Time/Duration:** 1 minute**/**Instantaneous
@@ -1165,6 +1363,8 @@ The magic of a sealed portal can be detected with the Arcana skill. The level of
 **Effect:** If your skill check succeeds against the DC to break, open, or escape the lock or restraint, that lock or restraint is opened. If you exceed the DC by 5 or more, you can choose to break the target instead of just opening it.
 
 **Skill Check:** Make an Arcana skill check against each lock and restraint nearby.
+
+---
 
 #### Song of Sustenance
 
@@ -1176,6 +1376,8 @@ The magic of a sealed portal can be detected with the Arcana skill. The level of
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
+---
+
 #### Tune of Merriment
 
 **Casting Time/Duration:** 10 minutes**/**10 minutes
@@ -1185,6 +1387,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect:** For the ritual's duration, you and any ally who heard the whole performance of the ritual can roll twice and use either result when making Persuasion checks to influence anyone else who heard all of it.
 
 _Focus_: A musical instrument you play as part of performing the ritual.
+
+---
 
 #### Water Breathing
 
@@ -1204,6 +1408,8 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 | 10-19 | 4 hours |
 | 20-29 | 8 hours |
 | 30 or higher | 24 hours |
+
+---
 
 #### Wizard's Sight
 
@@ -1228,7 +1434,11 @@ Sufficiently powerful warding magic, such as the Forbiddance ritual, can block W
 
 _Focus_: A mirror or a crystal ball worth at least 200 gp. The focus conveys what you see and hear.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Ghost Walk
 
@@ -1240,6 +1450,8 @@ _Focus_: A mirror or a crystal ball worth at least 200 gp. The focus conveys wha
 
 _Focus_: The graven heel bone of a deceased humanoid, set with jet and platinum.
 
+---
+
 #### Glyph of Warding
 
 **Casting Time/Duration:** 10 minutes**/**Until discharged
@@ -1247,6 +1459,8 @@ _Focus_: The graven heel bone of a deceased humanoid, set with jet and platinum.
 **Market/Component Cost:** 400 gp**/**80 gp and 2 recoveries
 
 **Effect:** You inscribe a glyph that works as a dangerous trap on a flat surface such as a wall, chest lid, table, or door. As you create the trap, you set the glyph's damage type, trigger, password and**/**or exceptions. The trigger you set must require the trap's target to enter the glyph's square, pass within range of the glyph's attack, or open or handle a warded object without speaking the password or meeting an exception. Acceptable exceptions include creature origin, creature type, physical characteristics, and named individuals. The glyph becomes nearly invisible once it is completed. If the trap is triggered or disabled, the ritual is discharged.
+
+---
 
 #### Protection From Energy
 
@@ -1259,6 +1473,8 @@ _Focus_: The graven heel bone of a deceased humanoid, set with jet and platinum.
 If the target is already under this ritual's effect when the ritual is used upon the target again, the newer effect cancels the older one.
 
 _Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
+
+---
 
 #### Raise Dead
 
@@ -1273,6 +1489,8 @@ The subject returns with a death penalty: –1 to all attack rolls, skill checks
 You can't restore life to a creature that has been petrified or to a creature that died of old age.
 
 The subject's soul must be free and willing to return to life. Some magical effects trap the soul and thus prevent Raise Dead from working, and the gods can intervene to prevent a soul from journeying back to the realm of the living. In all cases, death is less inclined to return paragon and epic heroes; the component cost is 1,000 gp for champion tier characters and 10,000 gp for epic tier characters.
+
+---
 
 #### Remove Affliction
 
@@ -1300,7 +1518,11 @@ The subject's soul must be free and willing to return to life. Some magical effe
 
 You can use this ritual on an unwilling subject (usually, a former ally who is under some enemy's influence), but you will have to restrain someone unwilling to undergo the ritual. If you know that your subject is suffering from multiple enduring effects, you must choose which one this ritual will remove. Otherwise, it affects whichever one affliction you knew about. You learn the affliction level when you begin the ritual, and you can choose not to continue, without expending any components (for example, if you determine the affliction is too powerful for you to remove).
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Stone Shape
 
@@ -1309,6 +1531,8 @@ You can use this ritual on an unwilling subject (usually, a former ally who is u
 **Market/Component Cost:** 400 gp**/**80 gp and 1 recovery
 
 **Effect:** You form a large volume of stone, into whatever shape you wish. You could sculpt a statue, reshape a stone door, open a hole in a wall, and so on. You can manage only crude details, so you cannot create objects that have moving parts.
+
+---
 
 #### Water Breathing
 
@@ -1331,7 +1555,11 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 
 ## Level 4 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Arcane Barrier
 
@@ -1345,6 +1573,8 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 
 If you spend 4 hours and four times the component costs to perform this ritual, the duration increases to permanent. A ritual caster who uses Knock or a similar ritual to open a permanent Arcane Barrier can choose to bring it down temporarily, in which case it seals again after 5 minutes, or to destroy the barrier.
 
+---
+
 #### Aria of Revelation
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -1355,6 +1585,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 
 **Skill Check:** Your allies gain a bonus to the skill checks based on your Arcana skill check result.
 
+---
+
 #### Banish Illusions
 
 **Casting Time/Duration:** 1 hours**/**24 hours
@@ -1362,6 +1594,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Market/Component Cost:** 600 gp**/**120 gp
 
 **Effect:** You weave a ward against illusions nearby. Any invisible creature within the area or that enters the area becomes visible. In addition, illusion powers take a -2 penalty to attack rolls, and creatures in the warded area gain a +5 bonus to Insight skill checks against illusions.
+
+---
 
 #### Chameleon's Cloak
 
@@ -1372,6 +1606,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect:** You conceal yourself and up to 8 allies within 5 squares of you, using a combination of camouflage and distraction to ensure that no one notices any of you. A concealed creature that leaves the square it occupies at the completion of the ritual or that attacks a creature loses all benefit from the ritual.
 
 **Skill Check:** The Perception DC to notice a creature concealed by this ritual is equal to the Arcana or Nature skill check result with a +5 bonus.
+
+---
 
 #### Chorus of Truth
 
@@ -1390,6 +1626,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 | 20-29 | –6 |
 | 30 or higher | –10 |
 
+---
+
 #### Conceal Object
 
 **Casting Time/Duration:** 10 minutes**/**Permanent
@@ -1399,6 +1637,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Effect:** One object within 5 squares of you becomes difficult to notice, no matter how obvious it is.
 
 **Skill Check:** Any creature with line of sight to the object is entitled to a Perception skill check at a DC equal to your Arcana skill check result with a +5 bonus. A creature that touches the object gains a +5 bonus to the check, and a creature that is rudely forced to notice the object (such as by walking into a wall it was unable to notice) automatically sees the concealed object. Moving the concealed object ends the effect.
+
+---
 
 #### Detect Object
 
@@ -1423,6 +1663,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 | 20-29 | 1 mile |
 | 30 or higher | This plane |
 
+---
+
 #### Demicache
 
 **Casting Time/Duration:** 10 minutes**/**Special
@@ -1440,6 +1682,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 | 20-29 | 1 month |
 | 30 or higher | 1 year |
 
+---
+
 #### Drawmij's Instant Summons
 
 **Casting Time/Duration:** 1 hour**/**Until discharged
@@ -1448,6 +1692,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 
 **Effect:** Use this ritual to attune one weapon, implement, or shield to yourself. At any time in the future, you can summon that object to your hands as a quick action, at which time the ritual is discharged. Through this ritual, you can have only one weapon, implement, or shield attuned to you at a time.
 
+---
+
 #### Elemental Transference
 
 **Casting Time/Duration:** 1 hour**/**Special
@@ -1455,6 +1701,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Market/Component Cost:** 600 gp**/**120 gp
 
 **Effect:** Use this ritual in the world. When you perform this ritual, you transport yourself and up to eight allies to a random spot in the Elemental Chaos. You have no control over where you appear, but your immediate environs aren't hazardous. Once in the Elemental Chaos, you can travel as normal within the plane. You remain in the Elemental Chaos until you leave by another means.
+
+---
 
 #### Hallucinatory Creature
 
@@ -1473,6 +1721,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 | 20-29 | 1 standard; 2 quick; 2 move |
 | 30 or higher | 2 standard; 2 quick; 2 move |
 
+---
+
 #### Passwall
 
 **Casting Time/Duration:** 10 minutes**/**1 minute
@@ -1480,6 +1730,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 **Market/Component Cost:** 600 gp**/**120 gp
 
 **Effect:** You create a passage through any solid material. You choose the orientation of the passage relative to the surface you touch. The passage is medium in size. The passage can be as deep as you want. This ritual does not conceal the passage from anyone or bar anyone from entering. A creature inside the passage when it closes takes 5d10 damage and is ejected to the nearest end of the passage. This ritual does not affect the structural integrity of a cavern or a wall; the passage is a twist in space, not an actual shifting of material.
+
+---
 
 #### Reverse Portal
 
@@ -1500,6 +1752,8 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 
 The portal displays views of the other location in the same way as that created by the Linked Portal ritual, but creatures cannot enter the origin point and appear at the other location. Instead, creatures can only step into the distant end of the portal to appear at the origin point with you.
 
+---
+
 #### Rope Trick
 
 **Casting Time/Duration:** 10 minutes**/**7 hours
@@ -1514,6 +1768,8 @@ Once the ritual ends, the demiplane disappears, and any creatures or objects in 
 
 _Focus_: A silver rope worth at least 2,000 gp.
 
+---
+
 #### Seeming
 
 **Casting Time/Duration:** 10 minutes**/**4 hours (special)
@@ -1523,6 +1779,8 @@ _Focus_: A silver rope worth at least 2,000 gp.
 **Effect:** Upon completing the ritual, you and up to eight allies assume the appearance of any Medium humanoid creatures. The ritual allows you to assume the general appearance of a particular species, but not of a unique creature. The ritual's effect is centered on you; if any ally moves far away from you, the ritual's effect ends for that ally.
 
 **Skill Check:** Creatures viewing or interacting with you or your allies can make an Insight skill check to detect the deception. The check's DC equals your Arcana skill check result. A creature is allowed a check the first time it sees you and each time it interacts with you or one of your allies. If the creature touches you or an ally, it automatically realizes the deception.
+
+---
 
 #### Song of Restfulness
 
@@ -1534,6 +1792,8 @@ _Focus_: A silver rope worth at least 2,000 gp.
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
+---
+
 #### Shadow Walk
 
 **Casting Time/Duration:** 1 hour**/**8 hours
@@ -1541,6 +1801,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Market/Component Cost:** 600 gp**/**120 gp
 
 **Effect:** You and your allies walk through shadows stretching out of the Shadowfell, taking advantage of the strange disparities between distance in your realm and that one to travel quickly. Multiply your overland travel speed by 5 for the duration. This ritual functions only in the Prime Material plane.
+
+---
 
 #### Solace Bole
 
@@ -1551,6 +1813,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect:** You and up to five other creatures you designate nearby you are transported to a sealed hollow the size of a comfortable room within a magical tree in the Feywild. The hollow has a glowing light you can control and is filled with sweet air. You can remain within the bole for up to 12 hours. Thereafter, or when you will it to be so, you and all the creatures the ritual took to the hollow return to the exact place they left. Only 1 hour of time has passed in the world. If you took an extended rest within the bole, you must wait 12 hours after your return to the world to take another one.
 
 If you have assistance when performing this ritual, divide the casting time by the number of participants. The assistants all chant in a fey harmony while you perform the ritual. Anyone you want to assist you in this way can learn the proper harmony during an extended rest.
+
+---
 
 #### Tenser's Binding
 
@@ -1564,7 +1828,11 @@ If you have assistance when performing this ritual, divide the casting time by t
 
 Before the ritual expires, it can be renewed by any creature able to perform rituals, not just the original ritual caster. As long as the ritual is not allowed to end, it retains the strength imparted by the original caster.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Consult the Sages
 
@@ -1577,6 +1845,8 @@ Before the ritual expires, it can be renewed by any creature able to perform rit
 The ritual grants you a single piece of information. That information can take the form of a word, a name, a phrase, or even a brief story, depending on what exactly you're looking for. You can learn the name of the usurper who ended the Katerran Dynasty a thousand years ago, the burial rites of the Crimson Wolf clan, or the weaknesses of the shadow assassins who have been dogging your steps.
 
 The ritual can't uncover information beyond the ken of the most learned sages. It's of no use if you're trying to find the magic word that unlocks the vampire's crypt, because only the vampire knows the word. Nor can the ritual tell you definitively where great stores of treasure are, but the sages could tell you where a specific empress kept her treasury in ancient times or whether the treasure was looted when her empire fell.
+
+---
 
 #### Dream Concordance
 
@@ -1592,6 +1862,8 @@ Living creatures at 0 hit points or fewer when the ritual is performed manifest 
 
 When the ritual ends, all subjects awaken, but they do not gain the benefits of a rest for the purposes of a full recovery.
 
+---
+
 #### Reordination
 
 **Casting Time/Duration:** 4 hours**/**Instantaneous
@@ -1606,7 +1878,11 @@ If the ritual's subject is converting to a new deity, a feat or talent associate
 
 In addition, once the ritual is complete, the reordained character becomes vaguely aware of the existence and number of any agents (for example, angels or clerics) who have been charged with destroying him or her for crimes of heresy or apostasy. This awareness sharpens when such beings come within 1 mile of the character, but it does not identify or locate them. The awareness lasts for 7 days.
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Land Ward
 
@@ -1620,6 +1896,8 @@ In addition, once the ritual is complete, the reordained character becomes vague
 
 At the end of the ward's duration, you can spend a recovery to extend the ward for an additional 24 hours, even if you are not near the ward's area. If the ritual's effect is sustained in this way without interruption for a year and a day, the effect becomes permanent.
 
+---
+
 #### Trailblaze
 
 **Casting Time/Duration:** 10 minutes**/**8 hours
@@ -1627,6 +1905,8 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 **Market/Component Cost:** 600 gp**/**120 gp
 
 **Effect:** Natural wilderness moves aside so that you can pass, creating a clear path ahead and behind you. As you travel, you ignore natural obstacles that would slow your overland speed. The natural terrain returns to normal once you pass, and the Perception skill check DC to track your party increases by 5 as though you had obscured your tracks.
+
+---
 
 #### Water's Gift
 
@@ -1646,7 +1926,11 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 
 ## Level 5 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Eye of Warning
 
@@ -1660,6 +1944,8 @@ In addition, an eye of warning automatically detects any scrying sensor that app
 
 _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration of this ritual indefinitely by keeping a focus in the vicinity. This ritual focus is a small, jeweled eye made of gold and ruby, worth 1,600 gp.
 
+---
+
 #### Planar Sending
 
 **Casting Time/Duration:** 20 minutes**/**Instantaneous
@@ -1667,6 +1953,8 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 **Market/Component Cost:** 1,000 gp**/**200 gp
 
 **Effect:** You convey a mental message of up to 25 words to a person you know on another plane. You must choose a plane when you complete the ritual. If the target is not on that plane, they do not receive the message.
+
+---
 
 #### Ravage Time
 
@@ -1690,6 +1978,8 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 - Metals: This category includes iron doors and bars, weapons, metal jewelry, cutlery, and metallic finished items. Such objects rust or corrode, becoming brittle or turning to dust.
 - Minerals: Minerals include gemstones such as rubies, diamonds, and similar precious stones, as well as all metal ore. Ravage time reduces these items to dust.
 
+---
+
 #### Ritual of Retrieval
 
 **Casting Time/Duration:** 10 minutes**/**Special
@@ -1706,6 +1996,8 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 | 15-24 | 1 month |
 | 25-34 | 1 year |
 | 35 or higher | Permanent |
+
+---
 
 #### Telepathic Bond
 
@@ -1724,7 +2016,11 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 | 20-29 | 3 hour |
 | 30-39 | 8 hours |
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Astral Sojourn
 
@@ -1749,7 +2045,11 @@ The ritual caster can choose to end the ritual at any time. This requires 10 min
 | 25-34 | 3 weeks |
 | 35 or higher | 1 year |
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Control Weather
 
@@ -1777,6 +2077,8 @@ You control the weather's general tendencies, such as the direction and intensit
 | 20-29 | 16 hours |
 | 30 or higher | 24 hours |
 
+---
+
 #### Primal Prison
 
 **Casting Time/Duration:** 1 hour**/**Permanent (special)
@@ -1799,6 +2101,8 @@ You choose whether the subject ages while imprisoned, and the subject is unaware
 
 The imprisoning object you takes on a faint resemblance to the subject. Knots in the shape of the subject's face might form on a tree, or a stone might take on coloration faintly depicting the subject's silhouette.
 
+---
+
 #### Revitalize
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -1818,7 +2122,11 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 
 ## Level 6 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Anthem of Unity
 
@@ -1843,6 +2151,8 @@ The number of individuals affected extends to anyone who witnesses the entire pe
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
+---
+
 #### Create Teleportation Circle
 
 **Casting Time/Duration:** 4 hours**/**24 hours (special)
@@ -1852,6 +2162,8 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 **Effect:** You create a teleportation circle with a unique sequence of magic sigils, which you and other ritual casters can useas a location marker for rituals such as [Linked Portal](#linked-portal) and [Planar Portal](#planar-portal). The teleportation circle does not transport creatures anywhere on its own—it merely enables other travel rituals.
 
 The teleportation circle lasts for 24 hours, but the ritual caster can extend the duration by spending a recovery every 24 hours to sustain it. The caster does not need to see or even be on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a day, the teleportation circle becomes permanent.
+
+---
 
 #### False Aura
 
@@ -1867,6 +2179,8 @@ The ritual's effects last for 24 hours.
 
 _Optional Focus_: You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the False Aura remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five [Aura Masks](#aura-mask) or False Auras on five separate items, as long as they are all close enough to the focus.
 
+---
+
 #### Far Sending
 
 **Casting Time/Duration:** 10 minutes**/**Instantaneous
@@ -1874,6 +2188,8 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by lea
 **Market/Component Cost:** 1,500 gp**/**300 gp
 
 **Effect:** Far Sending functions like [Sending](#sending), except you do not make an Arcana skill check to determine its range. Far Sending can deliver messages anywhere, regardless of distance or location.
+
+---
 
 #### Stasis Shell
 
@@ -1883,7 +2199,11 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by lea
 
 **Effect:** You perform this ritual on an object in your possession, encasing it in a thin layer of crystal. Until a creature moves the object more than 5 squares in a single round, that layer of unbreakable crystal protects the affected object from all damage and from all effects of age. It is as if time has stopped for the object.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Adjure
 
@@ -1906,6 +2226,8 @@ To determine the extent of your authority over the subject, you engage in a spec
 
 When the specified task is completed, the ritual is discharged, and the creature (or you) is released from service. You can request any kind of service that does not compel the subject to obey multiple commands, force the subject to engage in combat, or ensure the subject's death. (The subject can engage in combat to achieve a task if it wishes, but combat cannot be required.) If the task is impossible, such as commanding a creature that cannot fly to soar into the sky, the creature can ignore the command.
 
+---
+
 #### Consult Oracle
 
 **Casting Time/Duration:** 1 hour**/**10 minutes
@@ -1927,6 +2249,8 @@ Each question is answered immediately, so you know the answer to one question be
 
 Ten minutes after you finish performing the ritual, the oracle leaves, even if you have unasked questions remaining.
 
+---
+
 #### Fantastic Recuperation
 
 **Casting Time/Duration:** 1 hour**/**Instantaneous
@@ -1939,7 +2263,11 @@ Greater heroes accrue greater fatigue and require more effort to recuperate. At 
 
 ## Level 7 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Forbiddance
 
@@ -1959,6 +2287,8 @@ Greater heroes accrue greater fatigue and require more effort to recuperate. At 
 | 30 or higher | Anywhere on this plane |
 
 The warding effect lasts for 24 hours, but the ritual caster (not any assistants) can extend this duration by expending a recovery every 24 hours to sustain it. The caster does not need to be in the same area or even on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a day, the effect becomes permanent.
+
+---
 
 #### Memory Seal
 
@@ -1980,6 +2310,8 @@ A target of this ritual must be either willing or helpless for the duration of t
 | 30-34 | Damage equal to one-quarter the target's maximum hit points |
 | 35 or higher | No damage |
 
+---
+
 #### Planar Portal
 
 **Casting Time/Duration:** 10 minutes**/**Special
@@ -1997,6 +2329,8 @@ A target of this ritual must be either willing or helpless for the duration of t
 | 25 or higher | 5 rounds |
 
 When you first learn this ritual, you learn the sigil sequences of two common planar locations, as determined by the GM.
+
+---
 
 #### Plane Shift
 
@@ -2019,7 +2353,11 @@ At the ritual's conclusion, you name a location you have previously visited. The
 
 _Focus_: A tuning fork made of a specific metal and tuned to the frequency of the object plane.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Succor
 
@@ -2033,7 +2371,11 @@ Any effect or condition that prevents teleportation also prevents this ritual fr
 
 _Focus_: Prayer beads, a holy book, or some other item of religious significance.
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Wind Walk
 
@@ -2045,7 +2387,11 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 
 ## Level 8 Rituals
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Divine Sight
 
@@ -2065,7 +2411,11 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 
 ## Level 9 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Scrying
 
@@ -2096,6 +2446,8 @@ Sufficiently powerful warding magic, such as the [Forbiddance](#forbiddance) rit
 
 _Focus_: A mirror or a crystal ball worth at least 10,000 gp. The focus conveys what you see and hear.
 
+---
+
 #### Ward the True Name
 
 **Casting Time/Duration:** 8 hours**/**Permanent until discharged
@@ -2106,7 +2458,11 @@ _Focus_: A mirror or a crystal ball worth at least 10,000 gp. The focus conveys 
 
 The effect of this ritual ends when you have been alerted to a divination or scrying attempt.
 
+---
+
 ### Divine Rituals
+
+---
 
 #### Voice of Fate
 
@@ -2130,7 +2486,11 @@ Your questions must relate to a specific goal, event, or activity that has yet t
 
 The guidance from the entity of fate is accurate, but great heroes are capable of thwarting fate, at least for a time. If the ritual reveals that a course of action is “certain doom,” you should realize that nothing is truly certain until it happens. In addition, the entity of fate assumes that you will act on its guidance completely and immediately. If you don't act on the information, or if you change the conditions in existence when you performed the ritual, then the guidance might no longer be useful.
 
+---
+
 ### Primal Rituals
+
+---
 
 #### Shift Mote
 
@@ -2146,7 +2506,11 @@ Those who know this ritual keep it carefully guarded, for the ritual has devasta
 
 ## Level 10 Rituals
 
+---
+
 ### Arcane Rituals
+
+---
 
 #### Lich Transformation
 
@@ -2162,6 +2526,8 @@ _Focus_: You must construct your phylactery before the ritual can be performed. 
 
 If your phylactery is destroyed, you can build a new one; the process takes 10 days and costs 5,000 gp.
 
+---
+
 #### True Portal
 
 **Casting Time/Duration:** 10 minutes**/**Special
@@ -2176,7 +2542,11 @@ If the destination is blocked by a warding ritual, such as Forbiddance, the ritu
 
 You can use a teleportation circle as the origin point of this ritual, making minor temporary modifications as part of the ritual. Using a teleportation circle reduces the ritual's component cost to 1,000 gp and grants a +5 bonus to your Arcana skill check.
 
+---
+
 ### Divine Ritual
+
+---
 
 #### Imprisonment
 
@@ -2188,7 +2558,11 @@ You can use a teleportation circle as the origin point of this ritual, making mi
 
 You must set one or more possible conditions that release the creature, should they come to pass. You can set an imprisoned creature free by performing a ritual of release that has no component cost and takes 1 hour. A freed creature has no memory of the events that occurred during its imprisonment, and it appears in the world on the ground closest to where it was imprisoned.
 
+---
+
 ### Primal Ritual
+
+---
 
 #### Raise Land
 

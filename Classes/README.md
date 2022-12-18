@@ -5,9 +5,13 @@ layout: doc
 
 ## Class Basics
 
+---
+
 ### Weapon Damage Progression
 
 The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level). See Weapons for more on weapon damage rules.
+
+---
 
 ### Spell Progression
 
@@ -15,25 +19,37 @@ Most of the spells used by characters have higher-level versions. Those versions
 
 Higher-level spells have higher damage amounts than their lower-level counterparts, but these amounts and effects are not cumulative. Amounts from the highest level spell you have are used. New effects from higher level spells are added to the spell's original effects.
 
+---
+
 ### Shifting Choices during an Adventure
 
 These are guidelines for allowing PCs to change their chosen spells, powers, talents, and feats during gameplay, subject to how forgiving you and your fellow players are.
+
+---
 
 #### Talents
 
 Talents are a core element of your character. If you're going to rearrange your talents, something extremely significant needs to have happened in your character's story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in relationships.
 
+---
+
 #### Spells
 
 You can change the spells you can cast after each full heal-up.
+
+---
 
 #### Powers
 
 You can reselect your power choices when you gain a level.
 
+---
+
 #### Feats
 
 If you've made changes to spells and powers, revise your feats appropriately. If the changes make sense for the character's story and the GM agrees, play them.
+
+---
 
 ### Starting Stats for 1st Level Characters
 

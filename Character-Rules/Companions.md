@@ -51,6 +51,8 @@ Each type of animal companion is a little different.
 
 Advantage: With a successful easy difficulty skill check (using your ability scores and backgrounds), your companion can disguise itself as a mundane plant. It is also vulnerable to fire.
 
+---
+
 ### Adventurer Feat
 
 On a natural even hit with a melee attack, your companion gives enemies disadvantage on checks to disengage from it until the end of your next turn.
@@ -119,6 +121,8 @@ Advantage: The first time your companion hits an enemy in a battle, it deals 1d1
 
 Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to holy damage.
 
+---
+
 ### Champion Feat
 
 Increase the resistance to 16+.
@@ -128,6 +132,8 @@ Increase the resistance to 16+.
 **Acts:** After druid / ranger
 
 Advantage: Reduce all damage your animal companion takes by half your level (round up).
+
+---
 
 ### Adventurer Feat
 
@@ -220,6 +226,8 @@ Animal Companion spells are not available to Animal Companion initiates.
 
 ## 1st Level Spells
 
+---
+
 ### Borrow Senses
 
 Close-quarters spell
@@ -233,6 +241,8 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 7th | You perceive the presence of the supernatural, such as lingering magic, invisible creatures or gateways to other planes. |
+
+---
 
 ### Pack Link
 
@@ -250,6 +260,8 @@ Daily
 | --- | --- |
 | 5th | The target's basic melee attacks now deal half damage on a natural even miss. |
 | 7th | The target's basic melee attacks now deal half damage on any miss. |
+
+---
 
 ### Vitality
 
@@ -272,6 +284,8 @@ Daily
 
 ## 3rd Level Spells
 
+---
+
 ### Magic Fang
 
 Ranged spell
@@ -289,6 +303,8 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 9th | The target's crit range expands by a total of 4. |
+
+---
 
 ### Thicker Leather
 
@@ -309,6 +325,8 @@ Quick action
 
 ## 5th Level Spells
 
+---
+
 ### Armor of Shell & Spirits
 
 Ranged spell
@@ -328,6 +346,8 @@ _Special:_ You must spend a recovery to cast this spell.
 | 7th | Resistance now includes attacks that target PD. |
 | 9th | Resistance increases to _resist damage 14+._ |
 
+---
+
 ### Protective Pounce
 
 Ranged spell
@@ -343,6 +363,8 @@ Interrupt action
 **Effect:** Your companion pops free, engages the attacker and makes a melee attack against them. If the companion’s attack hits, your attacker has disadvantage on their attack roll.
 
 ## 7th Level Spells
+
+---
 
 ### Blood is Strong
 
@@ -360,6 +382,8 @@ Daily
 | --- | --- |
 | 9th | You now heal hit points equal to 2d10 + double your Wisdom modifier. |
 
+---
+
 ### Call Companion
 
 Close-quarters spell
@@ -374,6 +398,8 @@ Quick action
 
 ## 9th Level Spells
 
+---
+
 ### Blink
 
 Ranged spell
@@ -385,6 +411,8 @@ Quick action
 **Target:** A nearby animal companion
 
 **Effect:** Until the end of the battle, your animal companion can teleport to a nearby location once per round as a free action. If it teleports when it is attacked, it rolls a save. On a success, the attack has no effect.
+
+---
 
 ### Spirit Guardian
 

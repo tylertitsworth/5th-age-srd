@@ -13,6 +13,8 @@ The common types of one-use items include potions, oils, and runes.
 
 Magic items are permanently enchanted objects. You can find them during an adventure or receive them as gifts and rewards from NPCs, but you'll seldom find anyone willing to sell one.
 
+---
+
 ### Magic Item Personalities & Quirks
 
 Every magic item in is alive, in a sense, and possesses a personality you have to interact with when you start using the item, establishing and maintaining a rapport with it. What that rapport means varies from item to item and is usually controlled by the GM. Some items talk with their user. Others communicate in bursts of emotion or slight motion.
@@ -49,6 +51,8 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 | Weapon, ranged | Attack and damage (using the weapon) |
 | Wondrous item | No default. Anything goes |
 
+---
+
 ### One Size Fits
 
 Magic items shape themselves to suit the person who has given them their chakra.
@@ -57,9 +61,13 @@ Magic items shape themselves to suit the person who has given them their chakra.
 
 Some magic items are available at any level, with greater bonuses or other effects for champion- and epic-tier versions. Others can be found only at champion or epic levels.
 
+---
+
 ### Default Bonuses
 
 Default Bonuses are on unless they specify otherwise. Magic necklaces have the only default bonus that is defined as provisional, a save bonus that kicks in when your hit points are low.
+
+---
 
 ### Magic Item Powers
 
@@ -68,6 +76,8 @@ Unless otherwise specified, magic item powers with a recharge chance have to be 
 Magic item powers that do not specify a recharge chance or a specific usage pattern have powers that are always available.
 
 The majority of magic item powers list a recharge number (6+, 11+, or 16+). You can count on using a recharge power once a day, but subsequent uses depend on successful recharge rolls. After the battle in which you've used an item's power, roll a d20. If your roll equals or exceeds the recharge number for that item, you can use that item power again that day. If the roll fails, the item power is expended until you take a full heal-up.
+
+---
 
 ### Useful Magic Items by Class
 

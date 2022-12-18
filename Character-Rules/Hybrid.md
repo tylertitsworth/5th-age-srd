@@ -21,11 +21,15 @@ This is the guide to creating a hybrid character. If there's an element of chara
 
 For character class specifics, see below. Note that many hybrides offer bonus feats that help make up for some disadvantages when hybriding.
 
+---
+
 ### Terminology
 
 Your hybrid is a combination of your two classes separated by a slash. There's no significance to the order. A fighter/wizard is the same as a wizard/fighter.
 
 Technically, the rules presented here are for _dual-classing_, i.e. combining only two classes.
+
+---
 
 ### Level progression
 
@@ -35,25 +39,37 @@ On the other hand, leveling up is not _exactly_ like a single-class character. H
 
 For example, as a 3rd level fighter/wizard, you'll use the fighter and wizard level progression tables for 2nd level. In this example, as a fighter, you'll know 4 maneuvers and they'll all still have to be from the 1st level pool. As a wizard, you'll know six 1st level spells. At 4th level, you then gain the maneuvers of a single-class 3rd level fighter and the spells of a single-class 3rd level wizard.
 
+---
+
 ### What you get as a 1st level hybrid character
 
 Each hybrid option in the class-by-class list's level progression sections tells you what you get as a 1st level character when your class abilities are a level lower.
+
+---
 
 ### Talents as a 1st level character
 
 Choose one talent from each of your two class choices. Then choose your third talent from either of those classes.
 
+---
+
 ### Bonus talents as part of class progression
 
 If your class gets bonus talents (barbarian, commander, fighter, monk, occultist, paladin, ranger), you still get them, but at one level later than a single-class character does.
+
+---
 
 ### Class features
 
 Many classes contribute all of their class features to a hybrid. Others only allow some class features, or limit you from taking some talents or feats. The details are in the class-by-class hybrid list.
 
+---
+
 ### Ability score bonuses at character creation
 
 You can select your ability score class bonus from the options available to either of your classes. For example, if you are a fighter/wizard, you can gain a single +2 class bonus to Strength, Constitution, Intelligence, or Wisdom.
+
+---
 
 ### Key ability scores & key modifiers
 
@@ -69,29 +85,43 @@ The Key Modifier table lists the modifier relevant to each hybrid combination. F
 
 Core character stats like AC, PD, MD, and Initiative are not considered elements of your class, so they use the normal ability modifiers rather than the key modifiers.
 
+---
+
 ### Basic attacks
 
 You have the basic attacks from both your classes. If your ability scores suggest that one of your basic attacks is better than the other, each time you make a basic attack you'll have to specify which class you are using.
+
+---
 
 ### Hit Points
 
 Your hit points are the average of the base HP of your two classes, + CON modifier, multiplied by 3, then rounded down.
 
+---
+
 ### Recovery dice
 
 Average the dice from both classes, then round _up_ to the next higher die size (d6, d8, d10, or d12). For example: d6 + d8 = d8; d6 + d10 = d8; d6 + d12 = d10; d8 + d10 = d10; d8 + d12 = d10; d10 + d12 = d12.
+
+---
 
 ### Armor and AC
 
 Use the highest base AC provided by either of your classes for whichever type of armor you are wearing. However, you also retain the penalties for wearing shields or heavy armor while using attacks and spells from classes that have those penalties. For example, a 1st level wizard/fighter has a base AC of 16 in heavy armor from the fighter class. But while the character's fighter attacks would be fine, any of the character's wizard attacks (including spells) would take a –2 penalty.
 
+---
+
 ### PD & MD
 
 Use the best PD and MD from either of your classes.
 
+---
+
 ### Weapon attacks
 
 Use the better weapon attack abilities among your two classes.
+
+---
 
 ### Weapon damage penalty
 
@@ -101,9 +131,13 @@ If you're one of the many hybrid characters affected by the weapon damage penalt
 
 The reduction also applies when you've found a way to gain a larger weapon damage die temporarily. For instance, a cleric casting the _hammer of faith_ spell would get to use d12 damage dice for the rest of the battle, but a fighter/cleric (or any other cleric hybrid) would have to use d10 damage dice with the spell.
 
+---
+
 ### Feats
 
 You can choose feats from either of your classes. You gain one feat per level like everyone else.
+
+---
 
 ### Gear
 
@@ -139,11 +173,17 @@ You get to start with three talents, but you don't get bonus talents until 6th l
 
 While raging, you cannot use attacks, powers, or spells from another class unless you take Controlled Rage.
 
+---
+
 ### Controlled Rage
+
+---
 
 #### Adventurer Tier
 
 You can use powers and attacks from your other class while raging. You can't use the extra d20 that Barbarian Rage gives you while making an attack from the other class, but at least you can slip out of your rage long enough to use a power or attack from your other class.
+
+---
 
 #### Champion Tier
 
@@ -161,11 +201,17 @@ Note that the Jack of Spells advantages would only apply to spells jacked by the
 
 If you hybrid with another class that has flexible attacks, such as the fighter or a druid that takes that talent, consider the two feats that follow. Without the feats, you must always declare whether you are using a bard flexible attack or a flexible attack from your other class.
 
+---
+
 ### True Flexibility
+
+---
 
 #### Adventurer Tier
 
 Once per battle, as long as both classes use flexible attacks for the type of attack you are making, you can choose to roll a flexible attack without deciding which of your two classes it is linked to. Choose from _all_ your flexible attacks after you see the result of the roll.
+
+---
 
 #### Champion Tier
 
@@ -181,11 +227,17 @@ As a 1st level hybrid cleric, you start with three 1st level spells.
 
 You lag one level behind in the class-specific elements of the Commander Level Progression table—so it only affects the number of commands and tactics you have and the pool you can draw them from.
 
+---
+
 ### Many Fronts
+
+---
 
 #### Adventurer Tier
 
 Once per battle, use a melee attack from your non-commander class in place of a commander attack when you use your Front Line Fighting feature.
+
+---
 
 #### Champion Tier
 
@@ -201,11 +253,17 @@ You lag one level behind two columns of the Fighter Level Progression Table: Man
 
 As a 1st level hybrid fighter, you start knowing two maneuvers from the 1st level pool.
 
+---
+
 ### Armored Warfare
+
+---
 
 #### Adventurer Tier
 
 Once per battle while wearing heavy armor, use an attack from a class that normally takes an attack penalty while wearing heavy armor without taking that penalty.
+
+---
 
 #### Champion Tier
 
@@ -229,7 +287,11 @@ You gain the focus required to use a serious occultist spell by using your stand
 
 You lag one level behind in the spells known columns of the Occultist Level Progression table. You also won't get the occultist's normal bonus talents at 5th level and 8th level, instead receiving them at 6th level and 9th level.
 
+---
+
 ### Wider Focus
+
+---
 
 #### Adventurer Tier
 
@@ -239,11 +301,17 @@ Once per battle, you can use a power, spell, or other effect from a different cl
 
 You don't get the paladin's normal bonus talents at 5th and 8th level, instead receiving them at 6th level and 9th level.
 
+---
+
 ### Armored in Life
+
+---
 
 #### Adventurer Tier
 
 Once per battle while wearing heavy armor, use an attack from a class that normally takes an attack penalty while wearing heavy armor without taking that penalty.
+
+---
 
 #### Champion Tier
 
@@ -257,11 +325,17 @@ Three of the six possible random options from your affinity list now correspond 
 
 If your psionc talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
+---
+
 ### Continual Warp
+
+---
 
 #### Adventurer Tier
 
 If you have a warp effect already going, drawing the stone from your other class doesn't cancel the warp effect. The warp effect continues until it's replaced by another warp effect or the end of the battle, as usual.
+
+---
 
 #### Champion Tier
 
@@ -273,11 +347,17 @@ Like the paladin, your Level Progression table doesn't have many class-specific 
 
 Unless you've hybrided with one of the other skilled weapon-using classes, your damage dice for the Double Melee Attack and Double Ranged Attack talents drop down another size (usually from d6s to d4s) as a hybrid ranger.
 
+---
+
 ### Two-weapon Hybrid
+
+---
 
 #### Adventurer Tier
 
 While you are fighting with two melee weapons, you now gain the benefit of your Two-Weapon Mastery talent and any feats you've taken for it even when using attacks from your non-ranger class.
+
+---
 
 #### Adventurer Tier
 
@@ -289,11 +369,17 @@ You lag one level behind in the Powers Known and Pool Available columns of the R
 
 Combining your Sneak Attack damage with attacks from other classes remains off-limits.
 
+---
+
 ### Seize the Momentum
+
+---
 
 #### Adventurer Tier
 
 Once per day when you hit with an attack from your non-rogue class, you can gain _momentum_ as if you had used a rogue attack.
+
+---
 
 #### Champion Tier
 
@@ -303,11 +389,17 @@ In addition to using the adventurer-tier feat once per day, you can also use it 
 
 You lag one level behind in the spells known columns of the Sorcerer Level Progression table. At 1st level, you know three 1st level spells.
 
+---
+
 ### Diverse Gathering
+
+---
 
 #### Adventurer Tier
 
 Once per day, you can cast a non-sorcerer spell after you have gathered power. You double the damage of the spell as if it were a sorcerer spell.
+
+---
 
 #### Champion Tier
 

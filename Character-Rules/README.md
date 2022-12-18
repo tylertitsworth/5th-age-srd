@@ -25,9 +25,13 @@ Each class provides a +2 bonus to one of your ability scores.
 
 Your character can be assigned ability scores in various ways. Here are two ways.
 
+---
+
 ### Standard Array
 
 You can allocate the score values 15, 14, 13, 12, 11, and 10.
+
+---
 
 ### Point Buy
 
@@ -47,6 +51,8 @@ You get 16 points to buy your abilities using the chart below.
 | 9 | -1 |
 | 8 | -2 |
 
+---
+
 ### Stat Generator
 
 {% include point-buy.html %}
@@ -57,11 +63,15 @@ For details on how combat works, see [Combat Rules](./Combat.md).
 
 Although Armor Class, Physical Defense, and Mental Defense are based on a single ability score, the score each defense uses depends on the character. In each case, you look at three ability modifiers and use the middle value (not the highest or the lowest). If two or more modifiers are tied, you use one of those tied scores as the middle score.
 
+---
+
 ### 1st level Hit Points
 
 1. Find the base value for your class (6, 7, or 8) in the Starting Stats for 1st Level Characters chart.
 2. Add your Con modifier to get your "hit point value."
 3. Multiply your hit point value by 3 to get your total hit points at 1st level.
+
+---
 
 ### Armor Class
 
@@ -70,12 +80,16 @@ Although Armor Class, Physical Defense, and Mental Defense are based on a single
 3. Add the AC modifier to your base AC value.
 4. Add +1 at 1st level (and increase by +1 at each additional class level).
 
+---
+
 ### Physical Defense
 
 1. Find the base PD for your class (10 to 12) in the Starting Stats for 1st Level Characters chart.
 2. Find the middle value among your Str modifier, Con modifier, and Dex modifier. That value is your PD modifier.
 3. Add the PD modifier to your base PD.
 4. Add +1 at 1st level (and increase by +1 at each additional class level).
+
+---
 
 ### Mental Defense
 
@@ -84,6 +98,8 @@ Although Armor Class, Physical Defense, and Mental Defense are based on a single
 3. Add the MD modifier to your base MD.
 4. Add +1 at 1st level (and increase by +1 for each class level).
 
+---
+
 ### Initiative
 
 Your Initiative bonus is a d20 check, not a static value.
@@ -91,11 +107,15 @@ Your Initiative bonus is a d20 check, not a static value.
 1. Start with your Dexterity modifier.
 2. Add +1 at 1st level (and increase by +1 at each additional class level).
 
+---
+
 ### Recoveries & Recovery Dice
 
 Most characters start the game with 8 [recoveries](./Combat.md#recoveries). Some classes and talent choices may give you more recoveries.
 
 Each class also has a different recovery die, usually a d6, d8, or d10, as specified in the class write-up. When you roll a recovery, you'll roll a number of recovery dice equal to your level and add your Constitution modifier.
+
+---
 
 ### Attacks and Powers
 
@@ -111,11 +131,15 @@ Your character's _unique_ should not provide general practical value in combat. 
 
 Your character's relationship with people, organizations, and entities gives you benefits.
 
+---
+
 ### Relationship Points
 
 At 1st level, each character gets 3 relationship points.
 
 The number of points you invest in a relationship doesn't necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It's not necessarily about how well the they know you or how strong they feel about you. Instead, the points reflect the amount of sacrifices they will make to accomidate, sponsor, and/or worship you.
+
+---
 
 ### Changing Relationships
 
@@ -152,6 +176,8 @@ Each character has a number of points to allocate to a set of skills. These are 
 | Streetwise | Charisma |
 | Survival | Wisdom |
 
+---
+
 ### Assigning Skill Points
 
 Each character gets skill points at certain levels, plus any extra that your class awards. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
@@ -164,6 +190,8 @@ Each character gets skill points at certain levels, plus any extra that your cla
 | 6th | 2 |
 | 8th | 2 |
 
+---
+
 ### Making Skill Checks
 
 When you roll a skill check to find out if you succeed at a task or trick, the GM tells you which ability score is being tested. Then you choose the skill you think is relevant to gain the points you have in that background as a bonus to the skill check.
@@ -172,9 +200,13 @@ Most skill checks require you to equal or beat a Difficulty Class (DC), set by t
 
 To make a skill check, use this formula:
 
+---
+
 #### _D20 + relevant ability modifier + level + relevant skill points_ _Vs._ _DC set by the environment_
 
 You can't apply multiple skills to the same check; the skill with the highest (or tied for highest) bonus applies.
+
+---
 
 ### Natural 20s and Fumbles with Skill Checks
 
@@ -182,9 +214,13 @@ When a PC rolls a natural 20 with a skill check, the GM should feel free to give
 
 When a PC rolls a 1 with a skill check, the skill check fumbles and fails, perhaps in a particularly bad way. But a failure isn't always entirely terrible….
 
+---
+
 #### Fail Forward
 
 Outside of battle, when failure would tend to slow action down rather than move the action along, instead interpret it as a near-success or event that happens to carry unwanted consequences or side effects. The character probably still fails to achieve the desired goal, but that's because something happens on the way to the goal rather than because nothing happens. In any case, the story and action still keep moving.
+
+---
 
 ### Skill Advancement
 

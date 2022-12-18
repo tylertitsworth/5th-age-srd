@@ -27,6 +27,8 @@ The GM determines the environs where the adventure takes place.
 
 The environment the PCs are in determines the DC of skill checks and other challenges they may face.
 
+---
+
 ### Adventurer-tier Skill Check DCs
 
 | **Task** | **DC** |
@@ -35,6 +37,8 @@ The environment the PCs are in determines the DC of skill checks and other chall
 | Hard task | DC 20 |
 | Ridiculously hard task | DC 25 |
 
+---
+
 ### Champion-tier Skill Check DCs
 
 | **Task** | **DC** |
@@ -42,6 +46,8 @@ The environment the PCs are in determines the DC of skill checks and other chall
 | Normal task | DC 20 |
 | Hard task | DC 25 |
 | Ridiculously hard task | DC 30 |
+
+---
 
 ### Epic-tier Skill Check DCs
 

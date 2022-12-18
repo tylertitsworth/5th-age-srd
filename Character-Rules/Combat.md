@@ -7,6 +7,8 @@ Combat is played with various sided dice. You make attack rolls against defense 
 
 ## Combat Stats
 
+---
+
 ### Initiative Bonus
 
 Your initiative bonus is your Dexterity modifier + your level.
@@ -14,6 +16,8 @@ Your initiative bonus is your Dexterity modifier + your level.
 ### Attack Bonuses
 
 For each attack, roll a d20 + an ability bonus + your level (+ magic item attack bonus, if any). Depending on the attack, you might also get other bonuses. Compare your total to the target's defense, usually Armor Class but sometimes Physical Defense or Mental Defense. If the total is equal to or higher than the defense, you hit. If you attack multiple targets, make multiple attack rolls. Your class defines which ability bonus you use on attack rolls, and the attack defines the effects of a hit or a miss.
+
+---
 
 ### Damage
 
@@ -29,11 +33,15 @@ At 8th level, triple the ability score modifier.
 
 Spells indicate a specific number of dice to roll for damage. Weapon attacks work differently.
 
+---
+
 ### Weapons
 
 Weapons are rated by how much damage they deal. In the hands of player characters, each weapon attack deals 1 die of damage per character level + ability modifier, notated as WEAPON + [Ability].
 
 Each class has its own version of the weapon chart, showing how well members of the class use weapons of a given damage category.
+
+---
 
 ### Other Damage Types
 
@@ -50,29 +58,43 @@ Different monsters and characters may be resistant or vulnerable to various type
 - Psychic
 - Thunder (sonic energy)
 
+---
+
 ### Defenses
 
 There are three different defenses: Armor Class, Physical Defense, and Mental Defense. Each uses three ability scores as part of its calculation. PCs also add their class level to their defenses.
+
+---
 
 #### Armor Class (AC)
 
 AC protects you from weapon attacks. It is equal to the middle value among Con, Dex, and Wis. Disregard the higher and the lower values.
 
+---
+
 #### Physical Defense (PD)
 
 PD protects you from other physical attacks. It is equal to the middle value among Str, Con, and Dex. Disregard the higher and the lower values.
+
+---
 
 #### Mental Defense (MD)
 
 MD protect you against mental attacks. It is equal to the middle value among Int, Wis, and Cha. Disregard the higher and the lower values.
 
+---
+
 ### Hit Points
 
 Hit points are based on class, Con modifier, and level. See the level progression chart for each class.
 
+---
+
 ### Speed
 
 If it's important to know who covers ground faster, the GM determines how to make the "speed check" by using either common sense or stats and skills.
+
+---
 
 ### Stacking Rules
 
@@ -86,13 +108,19 @@ Bonuses and effects to a single stat stack with each other, with these exception
 
 At the start of combat, each player rolls initiative for his or her character and the GM rolls for their opponents, with higher-rolling characters or enemies acting earlier each round.
 
+---
+
 ### Cyclic Initiative
+
+---
 
 #### Roll Once
 
 Each creature rolls to determine its initiative at the start of its first turn in battle (d20 + initiative bonus). Use those results to determine who goes first each round.
 
 All monsters of the same exact type share the same initiative roll.
+
+---
 
 #### Delay
 
@@ -102,6 +130,8 @@ If you come to your next action and have not yet performed an action, you don't 
 
 If you take a delayed action in the next round, before your regular turn comes up, your initiative count rises to that new point in the order of battle, and you do not get your regular action that round.
 
+---
+
 #### Readying an Action
 
 The ready action lets you prepare to take an action later, after your turn is over but before your next one has begun. Readying is a standard action.
@@ -110,19 +140,29 @@ You can ready a standard action, a move action, or a free action. To do so, spec
 
 Your initiative result becomes the count on which you took the readied action. If you come to your next action and have not yet performed your readied action, you don't get to take the readied action (though you can ready the same action again). If you take your readied action in the next round, before your regular turn comes up, your initiative count rises to that new point in the order of battle, and you do not get your regular action that round.
 
+---
+
 ### Actions on Your Turn
+
+---
 
 #### Standard, Move, and Quick Actions
 
 Each turn you can take one of each action, in any order. See Combat Actions.
 
+---
+
 ##### Free Actions
 
 You can take any number of free actions on your turn, as allowed by the GM. Creatures can also take free actions when it's not their turn as part of a triggering condition. Talking is a free action.
 
+---
+
 ##### Make Saves Last
 
 If you are subjected to an ongoing effect that requires a save, roll that save at the end of your turn, after the ongoing effect.
+
+---
 
 ### Escalation Die
 
@@ -136,7 +176,11 @@ If the GM judges that the characters are avoiding conflict rather than bringing 
 
 ## Combat Actions
 
+---
+
 ### Actions
+
+---
 
 #### Regular Actions
 
@@ -144,49 +188,73 @@ On your turn, you can take one standard action, move action, and quick action, a
 
 You can use a standard action to take a move action, and you can use a standard or move action to take a quick action.
 
+---
+
 #### Interrupt Actions
 
 You can use one interrupt action when it's not your turn. You can't use another one until the end of your next turn. These types of actions are limited to certain classes and class powers.
+
+---
 
 #### Other Actions when it's Not Your Turn
 
 In certain circumstances, characters can intercept foes moving past them, make opportunity attacks, or otherwise act out of turn. These actions are usually free actions.
 
+---
+
 ### Position
 
 A creature's position amounts to two things: the creature's whereabouts, and who it's contending with in melee.
+
+---
 
 #### Whereabouts
 
 Each creature has a general, relative position on the battlefield. Combat is dynamic and fluid, so miniatures can't really represent where a character "really is."
 
+---
+
 #### Nearby
 
 Generally, all the heroes and their enemies in a battle are nearby. That means they can reach each other with a single move action.
+
+---
 
 #### Behind
 
 If you're behind an unengaged ally, and an enemy moves past that ally to get to you, your ally has the option to move and intercept.
 
+---
+
 #### Intercepting
 
 You intercept a creature when you move to stop an enemy attempting to rush past you to attack someone else. You must be near the enemy and the person that enemy is trying to reach.
+
+---
 
 #### Far Away
 
 Generally, the heroes and their enemies are nearby each other and you can use a single move action to reach any of them (provided no enemy intercepts you). If you want to be far away, two moves away from the enemies, make that clear to the GM and make sure there's room for that maneuver. Wizards and other casters sometimes like to be far away.
 
+---
+
 #### Engaged/Next to
 
 In a battle, each combatant is either engaged (locked in combat with one or more enemies) or unengaged (free). When two allies are engaged with the same enemy, they are considered next to each other.
+
+---
 
 ### Movement and Melee
 
 The combat system cares about movement and position, but only in simple/approximate terms. It emphasizes where people are and who's fighting whom.
 
+---
+
 #### Free
 
 By default, characters in a battle are free. They can move freely, use ranged attacks, engage in battle, etc. If they try to move past a free enemy, however, that foe usually has the option to intercept them.
+
+---
 
 #### Engaged
 
@@ -204,6 +272,8 @@ Unengaged creatures have no particular limits on how they move. They can't use m
 | You can't intercept enemies | You can engage an enemy moving past you |
 | You're considered nearby other combatants by default | You're considered nearby other combatants by default, but you can usually move far away if you want |
 
+---
+
 #### Disengaging
 
 You can move away from the foes that engage you, but you draw an opportunity attack from each of those enemies when you do.
@@ -218,9 +288,13 @@ Disengaging uses a move action. If you succeed, it's like getting popped free at
 
 When a creature gets to make an opportunity attack, it can make a basic melee attack against that foe as a free action during the turn of the creature that is provoking the opportunity attack. You can only use a basic melee attack.
 
+---
+
 #### Intercepting
 
 If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are. The GM rules on what counts as moving "past" a defending character or enemy.
+
+---
 
 #### Targeting
 
@@ -230,13 +304,19 @@ A spell or area-style effect that targets multiple nearby enemies in a group can
 
 When a spell or power targets a nearby enemy, ally, or creature, you can't target yourself unless it is explicitly stated that you can also be a target.
 
+---
+
 #### Special Cases
 
 Here are rules for special situations involving movement and melee.
 
+---
+
 ##### Allies
 
 Powers and spells in various classes are written with the understanding that a character's allies are the other PCs in the party with a possible addition for an animal companion. NPCs don't count as allies for abilities that are counting the number of allies that meet certain conditions.
+
+---
 
 ##### Ambushes and Surprise
 
@@ -246,6 +326,8 @@ Only two creatures get to act in the ambush round: the nominated ambusher and th
 
 Then roll initiative for the side that got ambushed and play normal combat rounds.
 
+---
+
 ##### Dicey Moves
 
 If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check against the ability score that the action is going to use. Specify whether a background will help. The DC depends on the current environment and the dice tell the tale.
@@ -254,11 +336,15 @@ If it's questionable whether a character could execute a particularly interestin
 
 Here are a few things you can do that are more involved than just moving or attacking.
 
+---
+
 ### Flying
 
 Some classes have spells or talents that enable _flight_. The movement rules for _flight_ are the same as for other movement, except that, as long as there is space available, you can fly over enemies you're not engaged with without allowing them to take opportunity attacks against you. You can be intercepted only by other flyers that are already airborne.
 
 The engagement and disengagement rules are also the same when flyers make melee attacks against enemies on the ground. The player may choose to swoop past another flyer, as part of another attack, instead of engaging it directly, at a -2 attack penalty.
+
+---
 
 ### Fight in Spirit
 
@@ -268,9 +354,13 @@ The bonus lasts one to two rounds. If the fight is still on and you have somethi
 
 If you're still (even partly) in the fight, then you can't fight in spirit.
 
+---
+
 ### Flee
 
 Fleeing is a party action. On any PC's turn, any player can propose that all the characters flee the fight. If all players agree, they successfully retreat, carrying any fallen heroes away with them. The party suffers a campaign loss. The point of this rule is to encourage daring attacks and to make retreating interesting on the level of story rather than tactics.
+
+---
 
 ### Rally
 
@@ -282,13 +372,19 @@ If you want to rally again later in the same battle, make a normal save (11+). I
 
 Most attacks follow the general attack rules, except as indicated below.
 
+---
+
 ### General Attack Rules
 
 When you use an attack, you declare which attack you are using and pick its target or targets, then roll the d20 for each one to find out if you hit. The attack will indicate what happens to a target that you hit (and sometimes one that you miss).
 
+---
+
 #### Ranged Attacks
 
 Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you that you don't target with the attack.
+
+---
 
 #### Spell Attacks
 
@@ -296,13 +392,19 @@ Most spells draw opportunity attacks from enemies engaged with you, even the ene
 
 Like weapon attacks, you add your level to the attack roll for spell attacks, plus any magical implement or other bonuses you might have.
 
+---
+
 #### Target Hit Points
 
 Some spells and effects target creatures with a certain number of hit points or less. The hit point value you use is based on current hit points, not starting hit points.
 
+---
+
 ### Crits
 
 Every attack roll that is natural 20 is a crit ("critical hit") for double damage.
+
+---
 
 #### Crit Effects
 
@@ -310,17 +412,25 @@ Standard crits deal double damage and, at the GM's discretion, might entail some
 
 If you manage to double your crit damage (through the effect of a talent, power, spell or other source), triple it instead. If you manage to double your triple damage, bump it up to quadruple, and so on.
 
+---
+
 #### Crit Range
 
 Crit range is what you must roll to score a crit. The standard crit range is a natural 20. Some powers and spells expand your crit range. Each point of improvement drops the number needed to score a critical hit by 1.
+
+---
 
 ### Fumbles
 
 Rolling a natural 1 has no effect on the target, not even miss damage. At the GM's discretion, rolling a 1 while in a precarious position might entail a bad result for the attacker. You might also hit an ally if you're shooting into melee.
 
+---
+
 ### Damage on Miss
 
 By default, a miss deals no damage, though some attacks are an exception. These attacks specify what happens on a miss.
+
+---
 
 ### Flexible Attacks
 
@@ -332,9 +442,13 @@ You can't use a flexible attack when you make an opportunity attack.
 
 If you have some attacks that are flexible and some that are not, declare whether you are making a flexible attack or a specific non-flexible attack before you roll.
 
+---
+
 ### Unarmed Attacks
 
 To punch or kick, make a Strength attack with a –2 penalty (regardless of your class) against AC. If you hit, you deal 1d6 damage for every two levels you have, plus your Strength modifier. At odd levels, including 1st level, use a d3. If you miss, no damage.
+
+---
 
 ### Two-Weapon Fighting
 
@@ -348,9 +462,13 @@ Some classes (and class talents) provide other advantages when fighting with two
 
 Damage and healing affect hit points. Healing also involves _recoveries_.
 
+---
+
 ### Damage
 
 Every creature has hit points. You slay enemies (or occasionally knock them out) at 0 hp. PCs at 0 hp begin using the Death and Dying rules.
+
+---
 
 ### Recoveries
 
@@ -362,11 +480,15 @@ At 5th level, double the bonus you get from your Con modifier. At 8th level, tri
 
 If you perform an action that requires a recovery but have none left, you get half the healing you would otherwise get and take a –1 penalty to all defenses and attack rolls until your next full heal-up. This penalty stacks for each recovery used that you don't possess.
 
+---
+
 ### Staggered
 
 When you are reduced to half your hit points or fewer, you're _staggered_. Some powers, spells, and monster interactions work differently when you are staggered.
 
 In general, monsters become staggered when they take damage equal to half their hit points or more, but it's up to the GM.
+
+---
 
 ### Unconscious
 
@@ -390,9 +512,13 @@ A stabilized character is still unconscious, rolling death saves on their turn, 
 
 Feeding a dying character a healing potion gets them conscious and back on their feet, but always takes a standard action.
 
+---
+
 ### Lasting-Wound
 
 If you're dropped to 0 hp or below one or more times during a fight, you take a lasting-wound. Each lasting-wound reduces your maximum hp by an amount equal to 2 + your level. Lasting-wounds are cumulative. _Staggered_ is still half or less of your maximum hit points. A full heal-up removes all lasting-wounds.
+
+---
 
 ### Meaningful Death
 
@@ -402,6 +528,8 @@ PCs can only be fully slain by named villains. PCs who fail four death checks fa
 
 After each battle, you can use a quick rest to get ready for the next battle. After four battles, you'll usually earn a full heal-up.
 
+---
+
 ### Quick Rests
 
 When you take a quick rest, you can choose to heal yourself by using as many recoveries as you have available.
@@ -409,6 +537,8 @@ When you take a quick rest, you can choose to heal yourself by using as many rec
 If you are staggered when you take a quick rest, you must try to heal yourself, either with a recovery or from a spell that provides some true healing.
 
 For each recharge power that you used in the last battle, roll a d20 to see if you keep the power for your next battle or lose it until after your next battle. You have to roll the power's recharge value or higher to use it again.
+
+---
 
 ### Full Heal-ups
 
@@ -422,9 +552,13 @@ If the party is short of a heal-up but is too beat up to press on, they can retr
 
 The universal combat modifier is +2 when you have advantageous circumstances. Similarly, –2 is the right penalty for adverse situations.
 
+---
+
 ### Shooting into Melee
 
 When using a ranged attack to target an enemy that is engaged with one or more of your allies and you fumble (roll a 1), reroll that attack considering the engaged ally as the target. If there are multiple allies, the GM rules which ally is the target.
+
+---
 
 ### Invisibility
 
@@ -434,45 +568,67 @@ Once engaged in battle, attacks against invisible enemies have a 50% chance to m
 
 ## Special Attacks and Effects
 
+---
+
 ### Conditions
 
 You can only be affected by the same condition once at a time. The worst one affects you and the lesser effects are ignored. Similarly, penalties from these conditions don't stack.
+
+---
 
 #### Confused
 
 You can't make opportunity attacks or use your limited powers. Your next attack action will be a basic or at-will attack against any nearby ally, determined randomly.
 
+---
+
 #### Dazed
 
 You take a –4 penalty to attacks.
+
+---
 
 #### Fear
 
 Fear dazes you and prevents you from using the escalation die.
 
+---
+
 #### Hampered
 
 You can only make basic attacks. You can still move normally.
+
+---
 
 #### Helpless
 
 If you're unconscious or asleep, you're helpless. While helpless, you take a –4 penalty to all defenses and you can be the target of a coup de grace.
 
+---
+
 #### Stuck
 
 You can't move, disengage, pop free, change your position, or let anyone else move you without teleporting.
+
+---
 
 #### Stunned
 
 You suffer a –4 penalty to defenses and can't take any actions.
 
+---
+
 #### Vulnerable
 
 Attacks against you have their crit range expanded by 2 (normally 18+).
 
+---
+
 #### Weakened
 
 You take a –4 penalty to attacks and to defenses.
+
+---
 
 ### Coup de Grace
 
@@ -481,6 +637,8 @@ When you attack a helpless enemy you're engaged with, you score an automatic cri
 - Skip your move action and your quick action that turn.
 - Make a standard action attack on your turn against the helpless enemy you are engaged with.
 - Your attack only targets the helpless enemy, even if the attack would normally target multiple creatures.
+
+---
 
 ### Grabbed
 
@@ -496,11 +654,15 @@ Grabbed creatures can't use ranged attacks, although melee and close attacks are
 
 The creature grabbing you gets a +4 attack bonus against you.
 
+---
+
 ### Ongoing Damage
 
 A creature (including PCs) taking ongoing damage takes that damage at the end of its turn immediately before it rolls its save (11+ unless otherwise specified) against that ongoing damage. Success with the save means the creature won't take the damage again; failure means the effect will be repeated at the end of the creature's next turn.
 
 Once a battle is over, the PCs automatically make their next saves.
+
+---
 
 ### Saves
 
@@ -511,6 +673,8 @@ The save mechanic, a d20 roll with no standard modifiers, handles everything fro
 - **Hard:** Roll 16+ on a d20
 
 There are no standard bonuses to saves, but there are occasional talents, feats, and magic items that provide small bonuses to saves.
+
+---
 
 ### Resistance
 
@@ -524,13 +688,19 @@ Any creature with resistance to an energy type is immune to normal energy of tha
 
 If there's an automatic damage effect that feels like it should have a chance of being reduced by resistance, fake an attack roll to see if the effect penetrates resistance for full damage or only deals half.
 
+---
+
 ### Situational Weapon Use
 
 When the action in the story backs it up, at the GM's discretion, a weapon's normal dice can be swapped for bigger or smaller dice, letting the character roll the same damage dice of a larger or smaller weapon. This is an optional rule in for memorable situations.
 
+---
+
 ### Teleportation
 
 Teleportation is an effect by which a creature moves instantaneously from one location to another. Teleporting doesn't draw opportunity attacks, but casting the spell may; spellcasting rules don't change because you are casting a teleport spell.
+
+---
 
 ### Temporary Hit Points
 

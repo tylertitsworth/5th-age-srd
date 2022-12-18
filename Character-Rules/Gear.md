@@ -30,14 +30,20 @@ These are the categories of melee weapons:
 
 Ranged weapons can be reloaded as part of the standard action in which they are used in an attack. Hand and light crossbows require a quick action to reload. Heavy crossbows require a move action to reload.
 
+---
+
 ### Nearby Targets Only
 
 - Small, thrown: club, dagger, knife
 - Small, crossbow: hand crossbow
 
+---
+
 ### Nearby Targets Okay; Far Away Targets –2 Atk
 
 - Light/simple, thrown: axe, javelin, spear
+
+---
 
 ### Nearby and Far Away Targets Okay
 
@@ -54,6 +60,8 @@ One platinum piece (pp) equals 10 gold pieces. One gold piece (gp) equals 10 sil
 
 Characters start with armor, weapons, and standard traveling gear; prices are included for reference.
 
+---
+
 ### Standard Traveling Gear
 
 | **Item** | **Price** |
@@ -65,6 +73,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Road rations (5 days) | 25 sp |
 | Sleeping roll | 1 sp |
 | Water/wine skin or flask | 7 sp |
+
+---
 
 ### General Goods
 
@@ -115,6 +125,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Torch (1 hr.) | 1 gp |
 | Torch (6 min) | 1 sp |
 
+---
+
 ### Food/Lodging
 
 | **Item** | **Price** |
@@ -137,6 +149,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Excellent, private room | 2–5 gp |
 | Suite (sleeps 4 to 8) | 5–20 gp |
 
+---
+
 ### Mounts (including gear)
 
 | **Item** | **Price** |
@@ -147,6 +161,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Horse, riding | 20 gp |
 | Horse, battle trained | 80 gp |
 | Feed for mount (per day) | 2–4 cp |
+
+---
 
 ### Weapons, Melee (average quality)
 
@@ -177,6 +193,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Two-bladed sword | 15 gp |
 | Warhammer | 7 gp |
 
+---
+
 ### Weapons, Ranged (average quality)
 
 | **Item** | **Price** |
@@ -193,6 +211,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Throwing axe | 3 gp |
 | Throwing hammer | 3 gp |
 
+---
+
 ### Armor (average quality)
 
 | **Item** | **Price** |
@@ -207,6 +227,8 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Half-plate | 45 gp |
 | Plate | 50 gp |
 | Shield | 5 gp |
+
+---
 
 ### Services
 
