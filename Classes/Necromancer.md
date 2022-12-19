@@ -736,7 +736,7 @@ Once per battle
 
 #### Adventurer Feat
 
-You can now cast this spelltwice per battle.
+You can now cast this spell twice per battle.
 
 ---
 
@@ -2417,7 +2417,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You, any undead you have summoned, and up to 4 nearby allies teleport to a crypt or graveyard that you have visited before. Any living creatures travelling with you must succeed at a save or lose a recovery (if they have any). You can teleport up to one mile per point of Intelligence modifier.
+**Effect:** You, any undead you have summoned, and up to 4 nearby allies teleport to a crypt or graveyard that you have visited before. Any living creatures traveling with you must succeed at a save or lose a recovery (if they have any). You can teleport up to one mile per point of Intelligence modifier.
 
 | Higher Level | Effect |
 | --- | --- |

@@ -477,7 +477,7 @@ If an enemy attempts to disengage from the Fighter, the Fighter can knock them p
 
 #### Demesne Effects
 
-- The library of the wizard’s stronghold has a copy of every nonmagical book anyone brings into the wizard’s demesne.
+- The library of the wizard’s stronghold has a copy of every non-magical book anyone brings into the wizard’s demesne.
 - By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the scrying spell. The wizard can do this while anywhere, including another plane.
 - Once per day, the wizard can control the weather in their demesne. The wizard doesn’t have to be in their demesne to do this. The effect is otherwise the same as the control weather ritual.
 

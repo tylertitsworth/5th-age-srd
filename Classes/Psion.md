@@ -233,7 +233,7 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 | **51–55** | You gain an additional quick action during each of your turns while this weirdness is in effect. |
 | **56–60** | When one of your allies casts an psionic affinity this battle, the affinity gains a small bonus effect chosen by the GM (something that suits the affinity and the story). |
 | **61–65** | You and your allies gain small halos, or celestial light pours in, or a subtle glow illuminates each countenance. When one of your allies casts a divine affinity this battle, it gains a small bonus effect chosen by the GM, something that suits the affinity and the story. |
-| **66–70** | Your features shift and settle into a temporary new pattern. You gain a random species ability until the end of your next turn. Ignore results that duplicate a species ability you already have. Roll a d8. 1: dwarf's that's your best shot; 2: dark elf's cruel; 3: high elf's highblood teleport; 4: gnome's confounding; 5: half–elf's surprising; 6: halfling's evasive; 7: holy one's halo; 8: tieflings's curse of chaos. |
+| **66–70** | Your features shift and settle into a temporary new pattern. You gain a random species ability until the end of your next turn. Ignore results that duplicate a species ability you already have. Roll a d8. 1: dwarf's that's your best shot; 2: dark elf's cruel; 3: high elf's highblood teleport; 4: gnome's confounding; 5: half–elf's surprising; 6: halfling's evasive; 7: holy one's halo; 8: Tieflings's curse of chaos. |
 | **71–75** | If one of your allies is at 0 hit points or below, that ally can roll a free death save that won't count against their missed death save total. |
 | **76–80** | Choose one creature (including you) that has already rallied this battle. It can rally again this battle (using the same action it normally would) as if it hadn't already rallied (no roll if the first use). |
 | **81–85** | Your presence blurs through space, spirit, and time, and you can fight in spirit on your turn (see [Combat Rules, Special Action](../General-Rules/Combat.md#special-actions)) in addition to taking your normal turn. |
@@ -461,7 +461,7 @@ You have befriended a small creature, like a cat or a fox, which hangs around yo
 
 Once per day, your pet can cancel an ongoing magical or supernatural effect. That effect can be a condition on a creature, an item effect, something in the environment, or your own High Weirdness. If the effect is permanent, such as an item enchantment, roll a save each turn to see when the effect is reactivated.
 
-Your pet won’t join you in a fight, and it can’t be targeted by affinitys or attacks.
+Your pet won’t join you in a fight, and it can’t be targeted by affinities or attacks.
 
 Also choose one ability for your pet from the list below:
 
@@ -1342,7 +1342,7 @@ When you cast this affinity,each nearby enemy that's staggered also takes 2d6 th
 
 ##### Epic Feat
 
-Whenthis affinity's effect deals the extradamage, you can roll a hard save (16+). If you succeed, the _war drums_ keep beating and the effect extends to the next natural odd hit this battle! (And so on if you keep succeeding.)
+When this affinity's effect deals the extra damage, you can roll a hard save (16+). If you succeed, the _war drums_ keep beating and the effect extends to the next natural odd hit this battle! (And so on if you keep succeeding.)
 
 ---
 

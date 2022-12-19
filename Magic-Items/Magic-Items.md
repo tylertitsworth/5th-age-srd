@@ -1648,7 +1648,7 @@ While you aren't wearing armor, your base AC is 12.
 
 #### Broom of Flying
 
-This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has flight. It can carry up to 400 pounds, but moves slowely when carrying over 200 pounds and grants a -2 to AC. The broom stops hovering when you land.
+This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has flight. It can carry up to 400 pounds, but moves slowly when carrying over 200 pounds and grants a -2 to AC. The broom stops hovering when you land.
 
 **Quirk:** Petulant, Snarky, and most certainly does not like heavy loads. Will happily drop it's user from the sky when it's bristles get burned.
 
@@ -1656,7 +1656,7 @@ This wooden broom, which weighs 3 pounds, functions like a mundane broom until y
 
 #### Decanter of Endless Water
 
-This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use a standard action to call forth anything from stream of fresh water or salt water to a feyser of gushing water that knocks an enemy prone if they don't succeed on an 11+ skill check.
+This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use a standard action to call forth anything from stream of fresh water or salt water to a geyser of gushing water that knocks an enemy prone if they don't succeed on an 11+ skill check.
 
 **Quirk:** Runs out of water after producing about 30 gallons. Cannot produce a geyser if recently emptied.
 

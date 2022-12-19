@@ -19,7 +19,7 @@ Rage, on the other hand, is a special case, preventing actions from other classe
 
 This is the guide to creating a hybrid character. If there's an element of character class configuration not mentioned, assume that it works the same for hybrid characters as it does for single-class characters.
 
-For character class specifics, see below. Note that many hybrides offer bonus feats that help make up for some disadvantages when hybriding.
+For character class specifics, see below. Note that many hybrids offer bonus feats that help make up for some disadvantages when hybriding.
 
 ---
 
@@ -325,7 +325,7 @@ You lag one level behind in the three central columns of the Psion Level Progres
 
 Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. One your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
 
-If your psionc talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
+If your psionic talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
 ---
 
@@ -347,7 +347,7 @@ If you invested in high weirdness, your high weirdness effects don't stop when y
 
 Like the paladin, your Level Progression table doesn't have many class-specific elements. You won't get the ranger's normal bonus talents at 5th and 8th level, instead receiving them at 6th level and 9th level.
 
-Unless you've hybrided with one of the other skilled weapon-using classes, your damage dice for the Double Melee Attack and Double Ranged Attack talents drop down another size (usually from d6s to d4s) as a hybrid ranger.
+Unless you've hybrid'ed with one of the other skilled weapon-using classes, your damage dice for the Double Melee Attack and Double Ranged Attack talents drop down another size (usually from d6s to d4s) as a hybrid ranger.
 
 ---
 
