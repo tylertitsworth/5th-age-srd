@@ -894,6 +894,8 @@ Your first miss doesn’t break the chain of attacks.
 
 The first enemy you attack can be far away.
 
+---
+
 ### Path of the Spear
 
 The first enemy you attack can be far away.
