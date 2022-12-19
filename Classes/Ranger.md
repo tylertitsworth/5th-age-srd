@@ -234,7 +234,7 @@ Double the hit point range at which you can drop an enemy to zero hit points.
 
 **Cost:** 1 charge
 
-**Effect:** Taret the enemy's PD instead of AC.
+**Effect:** Target the enemy's PD instead of AC.
 
 ---
 
@@ -891,6 +891,10 @@ Your first miss doesn’t break the chain of attacks.
 ---
 
 #### Epic Feat
+
+The first enemy you attack can be far away.
+
+---
 
 ### Path of the Spear
 

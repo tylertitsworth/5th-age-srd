@@ -1854,7 +1854,7 @@ Daily
 
 **Target:** You
 
-**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Elf Queen or a smile to the face of an Archdemon.
+**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Elf Queen or a smile to the face of an Archdevil.
 
 This spell allows you to achieve a feat with your voice that would normally require a ridiculously hard skill check at epic tier (DC 35).
 

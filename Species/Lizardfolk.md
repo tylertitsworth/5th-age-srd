@@ -30,7 +30,7 @@ Once per battle, you may declare you are entering a frenzy. Make the following a
 
 Quick Action
 
-_Special:_ You can make a number of attacks equal to the escalation die, but may only targeta  single creature with half othe potential attacks (rounded up).
+_Special:_ You can make a number of attacks equal to the escalation die, but may only target a single creature with half other potential attacks (rounded up).
 
 **Target:** One creature engaged with you.
 

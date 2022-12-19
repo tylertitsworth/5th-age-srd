@@ -926,7 +926,7 @@ Additional domains can be added to this document upon request. See the Domain ta
 | Evil / Egoism | Festering Evil, Blasphemy, Slay Living |
 | Farming / Harvest | Cut the Weeds, Protect the Harvest, Reap What You Sow |
 | Fire | Burning Brand, Penance by Fire, Flame Strike |
-| Freedom / Travel | Freedom Bells, Blessed Journey, Freedom of Movement, Traveller’s Footsteps |
+| Freedom / Travel | Freedom Bells, Blessed Journey, Freedom of Movement, Traveler's Footsteps |
 | Good / Selflessness | Aiding Strike, Martyr’s Shield, Righteous Resolve, Carry On, My Friend |
 | Healing | Healing Strike, Restoration, Flash Heal |
 | Justice / Vengeance | Hammer of Retribution, Eyes of the Judge, Compel Duel, Banishment |

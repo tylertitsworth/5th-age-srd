@@ -85,12 +85,12 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Arrows/bolts/sling bullet | 1 sp/each |
 | Blanket (wool) | 5 sp |
 | Candle | 1 cp |
-| Chain, dwarven forged (10 ft) | 10 gp |
+| Chain, Dwarven forged (10 ft) | 10 gp |
 | Chain, iron (10 ft) | 5 gp |
 | Clothing, simple | 2 sp |
 | Clothing, good | 1 gp |
 | Clothing, expensive | 10–100gp |
-| Clothing, rain cloak (elven) | 5 gp |
+| Clothing, rain cloak (Elven) | 5 gp |
 | Crowbar (iron) | 3 gp |
 | Flask (crystal) | 5 gp |
 | Flask (glass) | 5 sp |
@@ -112,7 +112,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Pipeweed (1 use) | 2 cp |
 | Prayer book | 2 gp |
 | Ritual Book | 10 gp |
-| Rope, 50 ft elven | 3 gp |
+| Rope, 50 ft Elven | 3 gp |
 | Rope, 50 ft good | 6 sp |
 | Rope, 50 ft poor | 2 sp |
 | Spellbook (adventurer) | 10 gp |
@@ -120,7 +120,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Spellbook (epic) | 1,000 gp |
 | Tent, large | 5 gp |
 | Tent, small | 2 gp |
-| Tent, wood elven | 10 gp |
+| Tent, wood Elven | 10 gp |
 | Thieves' tools (adventurer) | 2 gp |
 | Thieves' tools (champion) | 20 gp |
 | Thieves' tools (epic) | 200 gp |
@@ -140,10 +140,10 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Meal, feast (for 5) | 8 gp |
 | Ale/beer, poor (pitcher) | 2 cp |
 | Ale/beer, good (pitcher) | 6 cp |
-| Ale/beer, dwarven (pitcher) | 1–3 gp |
+| Ale/beer, Dwarven (pitcher) | 1–3 gp |
 | Wine, poor (bottle) | 4 cp |
 | Wine, good (bottle) | 1 sp |
-| Wine, elven (bottle) | 1–5 gp |
+| Wine, Elven (bottle) | 1–5 gp |
 | Inn (per person per day) |
  |
 | Poor, common room | 1–3 sp |
