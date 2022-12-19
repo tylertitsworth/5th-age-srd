@@ -1694,7 +1694,7 @@ Expend focus
 
 **Trigger:** A nearby ally misses with an attack roll.
 
-**Always:** The ally rerolls the attack, then makesmake the attack below. If the ally’s reroll was a miss, you have advantage on your attack roll.
+**Always:** The ally rerolls the attack, then makes the attack below. If the ally’s reroll was a miss, you have advantage on your attack roll.
 
 **Target:** The enemy targeted by your ally
 

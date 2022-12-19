@@ -47,7 +47,7 @@ Casting a ritual from a scroll takes half the time indicated in a ritual's descr
 
 ---
 
-### Assissting a Ritual
+### Assisting a Ritual
 
 Unless a ritual specifies otherwise, up to four of your allies can help you perform a ritual. Everyone assisting you must be nearby, and each assistant must actively participate in the ritual for the entire time required to complete it. Your assistants need neither the Ritual Caster feat nor knowledge of the specific ritual. Your allies can assist you in two ways.
 
@@ -145,7 +145,7 @@ This ritual can be used to copy a ritual scroll, even if you have not mastered t
 
 **Market/Component Cost:** 150 gp**/**2 recoveries
 
-**Effect:** You perform this ritual while speaking. When you complete the ritual, nonhostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
+**Effect:** You perform this ritual while speaking. When you complete the ritual, non-hostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
 
 ---
 
@@ -199,7 +199,7 @@ The eyes do not hear, but they see well. Each uses your Perception modifier, wit
 
 If an eye sees an intruder, it emits a loud warning sound defined by you during the ritual. This sound could be anything from a stentorian “Enemies approach!” to an owl's screech to a fanfare of trumpets. The Perception DC to hear the eye's sound is 0 (modified by distance as normal).
 
-The eyes never consider you an intruder. In addition, you can designate any number of other ritual participants as nonintruders. When you perform the ritual, you can also designate one or more categories of creatures that the eyes will ignore. You can define these categories by obvious physical characteristics (such as height, weight, or body shape), creature type (such as humanoid), creature species (such as hill giant), or obvious equipment (such as a creature carrying a shield with a flame emblazoned upon it).
+The eyes never consider you an intruder. In addition, you can designate any number of other ritual participants as non-intruders. When you perform the ritual, you can also designate one or more categories of creatures that the eyes will ignore. You can define these categories by obvious physical characteristics (such as height, weight, or body shape), creature type (such as humanoid), creature species (such as hill giant), or obvious equipment (such as a creature carrying a shield with a flame emblazoned upon it).
 
 The ritual's effects last for 24 hours or until you move far away from all the eyes.
 
@@ -213,7 +213,7 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by usi
 
 **Market/Component Cost:** 150 gp**/**30 gp
 
-**Effect:** Designate up to five ritual participants, including yourself, who ignore penalties associated with extremes of nonmagical weather.
+**Effect:** Designate up to five ritual participants, including yourself, who ignore penalties associated with extremes of non-magical weather.
 
 An affected creature suffers no ill effects from ambient temperatures between –50 and 140 degrees Fahrenheit, and the creature's equipment is likewise protected from the ravages of these temperatures and of precipitation.
 
@@ -237,7 +237,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Market/Component Cost:** 150 gp**/**1 recovery
 
-**Effect:** You magically hold shut one nonmagical door, gate, window, shutter, or similar device.
+**Effect:** You magically hold shut one non-magical door, gate, window, shutter, or similar device.
 
 **Skill Check:** Your Arcana skill check sets the DC for the Athletics check or Thievery check needed to force the held portal open, which discharges the ritual. A creature using Arcana can instead make an Arcana skill check against the same DC to discharge the ritual.
 
@@ -381,7 +381,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 
 #### Unseen Servant
 
-**Casting Time/Duration:** 10 miuntes**/**24 hours or until you dismiss the servant
+**Casting Time/Duration:** 10 minutes**/**24 hours or until you dismiss the servant
 
 **Market/Component Cost:** 150 gp**/**30 gp; plus a focus worth at least 100 gp
 
@@ -413,7 +413,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Market/Component Cost:** 150 gp**/**2 recoveries
 
-**Effect:** You perform this ritual while speaking. When you complete the ritual, nonhostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
+**Effect:** You perform this ritual while speaking. When you complete the ritual, non-hostile humanoid creatures nearby you, other than those you exclude from the ritual's effect, become calm and reasonable. The ritual grants a +2 bonus to Persuasion checks and Nature checks made against the affected creatures. If you roll initiative, the ritual's effect ends.
 
 ---
 
@@ -485,7 +485,7 @@ _Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp)
 
 **Market/Component Cost:** 150 gp**/**30 gp
 
-**Effect:** You target a nonhostile Tiny animal, such as a sparrow, a raven, a fox, or a carp. The animal must remain within 5 squares of you for the time necessary to perform the ritual. Once the ritual is complete, you whisper a message of up to 25 words to the animal and name a recipient and a location. The animal bounds off toward the location, in search of the recipient. The animal avoids danger along its path. Upon finding the recipient, the animal approaches until it is adjacent to the recipient, and then your whisper issues from the animal's mouth, conveying the message. When the animal delivers its message or the ritual's duration ends, your influence ends and the animal reverts to its natural behavior.
+**Effect:** You target a non-hostile Tiny animal, such as a sparrow, a raven, a fox, or a carp. The animal must remain within 5 squares of you for the time necessary to perform the ritual. Once the ritual is complete, you whisper a message of up to 25 words to the animal and name a recipient and a location. The animal bounds off toward the location, in search of the recipient. The animal avoids danger along its path. Upon finding the recipient, the animal approaches until it is adjacent to the recipient, and then your whisper issues from the animal's mouth, conveying the message. When the animal delivers its message or the ritual's duration ends, your influence ends and the animal reverts to its natural behavior.
 
 **Skill Check:** Your Nature skill check determines how long the animal is affected by the ritual.
 
@@ -542,7 +542,7 @@ At the end of the ritual's duration, the spirits break down the campsite, pack u
 
 **Market/Component Cost:** 150 gp**/**30 gp
 
-**Effect:** Designate up to five ritual participants, including yourself, who ignore penalties associated with extremes of nonmagical weather.
+**Effect:** Designate up to five ritual participants, including yourself, who ignore penalties associated with extremes of non-magical weather.
 
 An affected creature suffers no ill effects from ambient temperatures between –50 and 140 degrees Fahrenheit, and the creature's equipment is likewise protected from the ravages of these temperatures and of precipitation.
 
@@ -632,7 +632,7 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 **Effect:** You lock a door, a window, a gate, a portcullis, or some other means of ingress. You can open the door normally, but those who don't have your permission to use it find it locked.
 
-When you perform the ritual, you can allow for certain other creatures or types of creatures to pass through the door normally, ignoring the ward's effect. You can choose any or all (or none) of the following options:
+When you perform the ritual, you can allow for certain other creatures or types of creatures to pass through the door normally, ignoring the ward's effect. You can choose any or all (or non-e) of the following options:
 
 _Password_: You can set a verbal password. If uttered within 5 squares of the portal, the speaker can ignore the ward for the next minute.
 
@@ -694,7 +694,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action if you do so f
 
 **Effect:** You touch a normal item and turn it into a magic item of your tier or lower. The ritual's component cost is equal to the price of the magic item you create. Alternatively, you can use the ritual to upgrade a common, uncommon, or rare item to a more powerful version of the item that is one tier higher. The new version must be your tier or lower, and the component cost equals the difference in gold piece value between the old version and the new.
 
-You can also use this ritual to resize magic armor (for example, shrink a fire giant's magic armor to fit a halfling). There is no component cost for this use.
+You can also use this ritual to resize magic armor (for example, shrink a fire giant's magic armor to fit a Halfling). There is no component cost for this use.
 
 ---
 
@@ -773,13 +773,13 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 
 **Market/Component Cost:** 250 gp**/**50 gp
 
-**Effect:** This ritual conjures forth up to eight horselike creatures. Each one is Large and can be ridden by you or any other character you designate during the ritual.
+**Effect:** This ritual conjures forth up to eight horse-like creatures. Each one is Large and can be ridden by you or any other character you designate during the ritual.
 
 **SKill Check:** Your Arcana skill check determines whether your steed has any special movement capabilities. The steeds have the special movement capabilities associated with your check result and all lower results.
 
 | Arcana Skill Check Result | Special Movement |
 | ------------------- | ---------------- |
-| 9 or lower | None |
+| 9 or lower | non-e |
 | 10-19 | Ignore uneven terrain |
 | 20-29 | Water Walk |
 | 30 or higher | Fly low to the ground |
@@ -815,7 +815,7 @@ A steed created by this ritual lasts for 12 hours or until it takes any damage. 
 
 **Market/Component Cost:** 250 gp**/**50 gp
 
-**Effect:** You can shatter all nonmagical objects composed of crystal, glass, ceramic, porcelain and similar fragile materials in a 2-square radius centered on you. An object heavier than 5 pounds, larger than Tiny, or more valuable than 25 gp is immune to this area effect.
+**Effect:** You can shatter all non-magical objects composed of crystal, glass, ceramic, porcelain and similar fragile materials in a 2-square radius centered on you. An object heavier than 5 pounds, larger than Tiny, or more valuable than 25 gp is immune to this area effect.
 
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
@@ -858,7 +858,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 
 **Effect:** You imbue a humanoid corpse of natural origin and Medium or smaller size with the ability to move under its own power and an understanding of one language of your choice. It never tires, and obeys you at all times.
 
-The undead servitor is a noncombatant. When forced onto an active battlefield, treat the servitor as an allied mook (1 hit point, never damaged on a missed attack) with all defenses of 11. It acts just after you do and never makes attacks.
+The undead servitor is a non-combatant. When forced onto an active battlefield, treat the servitor as an allied mook (1 hit point, never damaged on a missed attack) with all defenses of 11. It acts just after you do and never makes attacks.
 
 You cannot have more than one undead servitor at a time from different performances of this ritual. If you attempt to create a second servitor, that ritual fails without component expenditure.
 
@@ -906,7 +906,7 @@ If you know that your subject is suffering from multiple diseases, you must choo
 
 ---
 
-#### Delay Afflication
+#### Delay Affliction
 
 **Casting Time/Duration:** 30 minutes**/**Special
 
@@ -1003,7 +1003,7 @@ There are two drawbacks to using the ritual to aid your decisions.
 
 **Market/Component Cost:** 250 gp**/**50 gp
 
-**Effect:** When you perform this ritual, choose a nonhostile Tiny natural beast, such as a cat, a fox, a fish, a mouse, or a sparrow. This animal must remain nearby you for the time necessary to perform the ritual. Once the ritual is complete, the animal regards you as a friend and performs simple tasks on your behalf. The tasks are limited to the options below, and assigning a task requires a standard action.
+**Effect:** When you perform this ritual, choose a non-hostile Tiny natural beast, such as a cat, a fox, a fish, a mouse, or a sparrow. This animal must remain nearby you for the time necessary to perform the ritual. Once the ritual is complete, the animal regards you as a friend and performs simple tasks on your behalf. The tasks are limited to the options below, and assigning a task requires a standard action.
 
 _Fetch_: The animal retrieves a Tiny object of 10 pounds or less that you and it can see. If the animal is unable to carry the object due to the item's size or weight, the animal enlists the aid of other creatures of its kind to fulfill the task.
 
@@ -1070,7 +1070,7 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 
 **Market/Component Cost:** 250 gp**/**50 gp
 
-**Effect:** You can shatter all nonmagical objects composed of crystal, glass, ceramic, porcelain and similar fragile materials in a 2-square radius centered on you. An object heavier than 5 pounds, larger than Tiny, or more valuable than 25 gp is immune to this area effect.
+**Effect:** You can shatter all non-magical objects composed of crystal, glass, ceramic, porcelain and similar fragile materials in a 2-square radius centered on you. An object heavier than 5 pounds, larger than Tiny, or more valuable than 25 gp is immune to this area effect.
 
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
@@ -1178,7 +1178,7 @@ Analyze Portal can also reveal the identity of the creature that created the por
 
 **Market/Component Cost:** 400 gp**/**80 gp
 
-**Effect:** When performed upon a magic item, Aura Mask makes it appear nonmagical when someone tries to use an Arcana skill check to detect magic. The ritual's effects last for 24 hours.
+**Effect:** When performed upon a magic item, Aura Mask makes it appear non-magical when someone tries to use an Arcana skill check to detect magic. The ritual's effects last for 24 hours.
 
 _Optional Focus_: You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the Aura Mask remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five Aura Masks or False Auras on five separate items, as long as they are all close enough to the focus.
 
@@ -1657,7 +1657,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 
 **Market/Component Cost:** 600 gp**/**120 gp
 
-**Effect:** You create a small, personal demiplane that can store nonliving items of up to 250 pounds. The demiplane has a portal that is 6 inches in diameter and is always open. The portal floats near you or can be affixed to your clothing (like a pocket), and you can retrieve items from the portal as a minor action. The portal is visible to others, and it moves with you at your speed.
+**Effect:** You create a small, personal demiplane that can store non-living items of up to 250 pounds. The demiplane has a portal that is 6 inches in diameter and is always open. The portal floats near you or can be affixed to your clothing (like a pocket), and you can retrieve items from the portal as a minor action. The portal is visible to others, and it moves with you at your speed.
 
 **Skill Check:** At the completion of the ritual, make an Arcana skill check. The result determines how long the portal stays open. If the portal closes before you retrieve the stowed objects, they appear at your feet.
 
@@ -1944,7 +1944,7 @@ _Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration o
 
 **Market/Component Cost:** 1,000 gp**/**200 gp
 
-**Effect:** Ravage time magically accelerates the effects of time on an object, causing it to weaken, decay, and crumble into dust. This ritual affects only nonmagical inanimate objects such as gear, armor, weapons, food, and corpses.
+**Effect:** Ravage time magically accelerates the effects of time on an object, causing it to weaken, decay, and crumble into dust. This ritual affects only non-magical inanimate objects such as gear, armor, weapons, food, and corpses.
 
 **Skill Check:** A single performance destroys a 5-foot cube of materials of a type based on the Arcana skill check result.
 
@@ -2137,7 +2137,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Market/Component Cost:** 3,000 gp**/**600 gp plus 5 recoveries
 
-**Effect:** You create a teleportation circle with a unique sequence of magic sigils, which you and other ritual casters can useas a location marker for rituals such as [Linked Portal](#linked-portal) and [Planar Portal](#planar-portal). The teleportation circle does not transport creatures anywhere on its own—it merely enables other travel rituals.
+**Effect:** You create a teleportation circle with a unique sequence of magic sigils, which you and other ritual casters can uses a location marker for rituals such as [Linked Portal](#linked-portal) and [Planar Portal](#planar-portal). The teleportation circle does not transport creatures anywhere on its own—it merely enables other travel rituals.
 
 The teleportation circle lasts for 24 hours, but the ritual caster can extend the duration by spending a recovery every 24 hours to sustain it. The caster does not need to see or even be on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a day, the teleportation circle becomes permanent.
 
@@ -2149,7 +2149,7 @@ The teleportation circle lasts for 24 hours, but the ritual caster can extend th
 
 **Market/Component Cost:** 1,500 gp**/**300 gp
 
-**Effect:** False Aura makes a nonmagical item seem to be a magic item, making it appear magical to an Arcana skill check to detect magic.
+**Effect:** False Aura makes a non-magical item seem to be a magic item, making it appear magical to an Arcana skill check to detect magic.
 
 **Skill Check:** Your Arcana skill check result determines the DC for someone else's Arcana skill check to detect magic to see through your deception. If the detect magic check fails, the inspecting character believes the item to be magical. You choose the fake power source of the item when performing the ritual. However, anyone attempting to use the item immediately recognizes its magic as fake.
 

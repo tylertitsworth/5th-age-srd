@@ -96,7 +96,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Strength + Levelvs. AC
+**Attack:** Strength + Level vs. AC
 
 **Hit:** WEAPON + Strength damage
 
@@ -110,7 +110,7 @@ At-Will
 
 **Target:** One enemy
 
-**Attack:** Dexterity + Levelvs. AC
+**Attack:** Dexterity + Level vs. AC
 
 **Hit:** WEAPON + Dexterity damage
 
@@ -658,7 +658,7 @@ You can use this talent twice per battle.
 
 ---
 
-### Tactical Genuis (5th level+)
+### Tactical Genius (5th level+)
 
 You gain a bonus tactic, and one point towards a skill in military strategy and tactics. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
@@ -944,7 +944,7 @@ Interrupt action
 
 **Cost:** 1 command point
 
-**Target:** One nearby ally who has just started thier turn
+**Target:** One nearby ally who has just started their turn
 
 **Effect:** The ally gains 3 times their level in temporary hit points. They also ignore any penalties to attack this turn, such as from the dazed or fear conditions.
 

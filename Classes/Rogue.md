@@ -510,7 +510,7 @@ You also gain 3 skill points towards a skill in knife-throwing and knife-jugglin
 
 #### Adventurer Feat
 
-You can use any melee attack rogue power as a thrown weapon ranged attack, as long as it could logically work. For example, you could use Thief‘s Strike with a thrown dagger, but you wouldn‘t be able to grab an item with it, when not engaged, only let if fall on the floor.
+You can use any melee attack rogue power as a thrown weapon ranged attack, as long as it could logically work. For example, you could use Thief‘s Strike with a thrown dagger, but you wouldn't be able to grab an item with it, when not engaged, only let if fall on the floor.
 
 ---
 
@@ -2051,7 +2051,7 @@ At-will
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** WEAPON + Dexterity damage, aand your enemy is stuck until the start of your next turn.
+**Hit:** WEAPON + Dexterity damage, and your enemy is stuck until the start of your next turn.
 
 **Miss:** Damage equal to your level.
 
