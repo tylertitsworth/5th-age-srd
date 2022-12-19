@@ -25,11 +25,12 @@
   box-sizing: border-box;
   scrollbar-color: $scrollbar-fg-color $scrollbar-bg-color;
 }
+
 @media print {
+  .main-wrapper { background-color: white; }
   .page-header { display: none; }
   .site-footer { display: none; }
   #sidebar { display: none; }
-  .main-wrapper { background-color: white; }
   #content-wrapper {
     color: black;
     h1 { color: black; }
@@ -39,16 +40,27 @@
     h5 { color: black; }
     h6 { color: black; }
     div {
+      font-size: 0pt;
+      height: 0;
+      hr { display: none; }
+      line-height: 0;
+      margin: 0;
+      padding: 0;
+      table { display: none; }
       visibility: hidden;
       &.selected {
-        visibility: visible;
-        position: absolute;
-        top: 0px;
+        border: dashed;
+        font-size: 16px;
+        height: auto;
+        justify-content: center;
+        line-height: 1.5;
+        margin: 20px;
         overflow: hidden;
         padding: 20px;
-        border: dashed;
-        margin: 50px;
         page-break-inside: avoid;
+        position: absolute;
+        top: 0px;
+        visibility: visible;
       }
     }
   }
