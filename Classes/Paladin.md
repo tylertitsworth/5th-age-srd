@@ -146,7 +146,7 @@ Free Action
 
 #### Adventurer Feat
 
-Gain an addtiional use of Smite Evil per day.
+Gain an additional use of Smite Evil per day.
 
 ---
 
@@ -340,7 +340,7 @@ Deal the damage to ALL other nearby enemies.
 
 | Higher Level | Effect |
 | --- | --- |
-| 3rd | You can create a [Skeletal Minio](./Necromancer.md#skeletal-minion) of your level or lower instead. |
+| 3rd | You can create a [Skeletal Minion](./Necromancer.md#skeletal-minion) of your level or lower instead. |
 
 ---
 

@@ -583,7 +583,7 @@ You can replace Intelligence with Charisma for your chosen necromancer spells.
 
 ##### Crypt Candles
 
-All Umbral sorcerers can cast the _crypt candles_ spell as a standard action. The spell produces a circle of black and red candles that provide an eerie illumination within thirty feet of youfeet you. They create enough light to move around, but it’s easy to miss details in the dim, flickering lights. If you move, the zone moves with you.
+All Umbral sorcerers can cast the _crypt candles_ spell as a standard action. The spell produces a circle of black and red candles that provide an eerie illumination within thirty feet of you. They create enough light to move around, but it’s easy to miss details in the dim, flickering lights. If you move, the zone moves with you.
 
 The candles and their illumination can only be seen by you, your allies and any creatures with a connection to the Shadow Prince or the Lich King. They make invisible creatures visible.
 
@@ -843,19 +843,19 @@ This increased specialization comes at a cost, however, by limiting your overall
 
 #### Adventurer Feat
 
-You can When casting a rituals based on a spells of your bloodline, withyou have advantage on the skill check.
+You can When casting a rituals based on a spells of your bloodline, with you have advantage on the skill check.
 
 ---
 
 #### Champion Feat
 
-You can cast all spells offrom your bloodline as if you had their adventurer feat.
+You can cast all spells from your bloodline as if you had their adventurer feat.
 
 ---
 
 #### Epic Feat
 
-You can cast all spells offrom your bloodline as if you had their champion feat.
+You can cast all spells from your bloodline as if you had their champion feat.
 
 ---
 
@@ -1035,7 +1035,6 @@ You can wield martial one-handed melee weapons without penalty, and you can choo
 - You can use Charisma for attack and damage with one-handed melee weapons.
 - You can wield two-handed martial melee weapons without penalty.
 - If you are a hybrid, the sorcerer side is considered a “skillful warrior” and does not reduce your weapon damage die. If you choose this benefit, you have one less sorcerer spell of the highest level you can cast.
-- You can replace a sorcerer spell with a Swordmage spell two levels lower.
 - Increase your recovery dice to d8.
 - Gain the following metamagic ability: _Channel Spell (2 points):_ You deliver the spell through a melee attack. You must be engaged to all targets to do so. You don’t provoke opportunity attacks. The spell targets AC. On a hit, add your WEAPON damage dice to the damage.
 
@@ -3325,7 +3324,7 @@ Arcane
 
 **Target:** You
 
-**Effect:** Until the end of the battle, each ranged and close-quarters attack against you that is a natural odd miss is reflected against the attacker. The attacker rerolls the attack, using it againstusing against their own defense.
+**Effect:** Until the end of the battle, each ranged and close-quarters attack against you that is a natural odd miss is reflected against the attacker. The attacker rerolls the attack, using it against using against their own defense.
 
 ---
 
@@ -3628,7 +3627,7 @@ Close-quarters spell
 
 Daily
 
-**Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relatioship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
+**Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relationship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
 
 ---
 

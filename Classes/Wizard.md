@@ -260,7 +260,7 @@ You gain a +1 bonus to attack rolls with your spells against enemies engaged wit
 
 #### Divination
 
-Spells of this school help you perceive things, both mundane and magical, and at higher levels also throughthough time and space.
+Spells of this school help you perceive things, both mundane and magical, and at higher levels also through time and space.
 
 ---
 
@@ -301,7 +301,7 @@ Increase the difficulty of saves against spells of the Enchantment school by 1. 
 | 1st | Animated Armor, Charm Person, Eldritch Incantation, Magic Weapon, and Tasha's Hideous Laughter |
 | 3rd | Confusion, Enchanted Conduit, Flame Arrow, Hold Monster, Luck, Rebuke, Sleep, and Suggestion |
 | 5th | Crushing Despair, Denial, and Heroism |
-| 7th | Otto's Irresistible Dance and Power Word Stune |
+| 7th | Otto's Irresistible Dance and Power Word Stun |
 | 9th | Dominate Monster, Feeblemind, and Power Word Kill |
 
 ---
@@ -572,7 +572,7 @@ Whenever you evoke a spell, you can reroll one of the attack rolls if that natur
 
 ### Hedge Wizard
 
-After each full heal-up, roll on the tabel below.
+After each full heal-up, roll on the table below.
 
 | **d8** | **Effect** |
 | --- | --- |
@@ -2069,7 +2069,7 @@ When the escalation die is even, the Mana Spirit can attack two nearby enemies w
 
 #### Epic Feat
 
-The mana spirit can use Magic Missile as an interrupt action after it isits attacked.
+The mana spirit can use Magic Missile as an interrupt action after it is attacked.
 
 ---
 
@@ -3446,7 +3446,7 @@ Daily
 
 ### Enlarge/Shrink Creature
 
-Close-quaters spell
+Close-quarters spell
 
 Daily
 
@@ -3814,7 +3814,7 @@ Daily
 
 Abjuration
 
-**Effect:** You ward the nearby area against magical intrusion. The area cannot be scried on with divination spells, and it’s not possible to teleport into it.
+**Effect:** You ward the nearby area against magical intrusion. The area cannot be scryed on with divination spells, and it’s not possible to teleport into it.
 
 Wizards often use a ritual of this spell to protect their studies and towers against other wizards.
 

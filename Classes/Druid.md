@@ -1022,7 +1022,7 @@ _Special:_ The escalation die must be 2+ to cast this spell.
 
 ### Animal Companion Spells
 
-The Circle of the Fang initiate gains animal companion spells at a different rate than other circles, as per the table below. Adepts use the initate column in the level progression table, and masters use the adept column.
+The Circle of the Fang initiate gains animal companion spells at a different rate than other circles, as per the table below. Adepts use the initiate column in the level progression table, and masters use the adept column.
 
 | **Level** | **Animal Companion Spells** |
 | --- | --- |
@@ -1897,7 +1897,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You create a small, secure place where you and a small group of travellers can find shelter and rest. The nature of the shelter depends on the terrain you are in, and can be anything from a small hut of living bushes and trees to an igloo. While the shelter blends in with the surroundings, you need a skill check to disguise it well enough to throw off any pursuers who are actively looking for you.
+**Effect:** You create a small, secure place where you and a small group of travelers can find shelter and rest. The nature of the shelter depends on the terrain you are in, and can be anything from a small hut of living bushes and trees to an igloo. While the shelter blends in with the surroundings, you need a skill check to disguise it well enough to throw off any pursuers who are actively looking for you.
 
 ---
 
@@ -2880,7 +2880,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon an archer stirge (B 197, 15 hp) or cobbler stirge (20 hp), according to the summoning rules on page XX. The stirge remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon an archer stirge (B 197, 15 hp) or cobbler stirge (20 hp). The stirge remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3449,7 +3449,7 @@ Daily
 
 **Attack:**: Wisdom + Level vs. MD
 
-**Hit:** The target takes the escalation die as a penalty to attack rolls instead of a bonus, even if it doesn‘t normally use the escalation die (save ends).
+**Hit:** The target takes the escalation die as a penalty to attack rolls instead of a bonus, even if it doesn't normally use the escalation die (save ends).
 
 **Miss:** Psychic damage equal to the escalation die
 
@@ -4722,7 +4722,7 @@ Until the first time it recharges each day, _mantis aspect_ is recharge 11+ inst
 
 ---
 
-##### Owlboar Aspect
+##### Owlbear Aspect
 
 Beast aspect
 
@@ -4999,7 +4999,7 @@ This circle makes you a stronger combatant with melee or ranged weapons, and it 
 
 ### Adventurer Feat
 
-If you multiclass, the druid side is considered a “skillful warrior” and does not decrease your WEAPON damage dice.
+If you hybrid, the druid side is considered a “skillful warrior” and does not decrease your WEAPON damage dice.
 
 ---
 
