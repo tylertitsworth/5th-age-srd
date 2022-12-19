@@ -19,7 +19,7 @@ If the heroes find destroyed or abandoned stronghold, they can repair it for hal
 | Chapel | Paladin | 6000 | 180 |
 | Establishment | Rogue | 3000 | 90 |
 | Fane | Occultist | 4000 | 120 |
-| Fortress | Commander | 7500 | 225 |
+| Fortress | Warlord | 7500 | 225 |
 | Graveyard | Necromancer | 3000 | 90 |
 | Grove | Druid | 2000 | 60 |
 | Keep | Fighter | 5000 | 150 |
@@ -273,16 +273,16 @@ The Occultist can gain focus with a quick action rather than a standard action. 
 
 #### Demesne Effects
 
-- Fortifications in the commander's demesne grant units defending them an extra +2 Morale bonus.
-- Menhirs appear in the commander’s demesne, following anyone hostile to those who call this province home, imposing themselves between intruders and the locals.
-- Archers who train in the commander’s demesne find their arrows go farther and strike more accurately.
-- Edged weapons in the commander’s demesne are keener and do not dull.
+- Fortifications in the warlord's demesne grant units defending them an extra +2 Morale bonus.
+- Menhirs appear in the warlord’s demesne, following anyone hostile to those who call this province home, imposing themselves between intruders and the locals.
+- Archers who train in the warlord’s demesne find their arrows go farther and strike more accurately.
+- Edged weapons in the warlord’s demesne are keener and do not dull.
 
 ---
 
 #### Fight from the Back
 
-A Commander can use a quick action to gain 1d3 command points instead of making an attack. You can do this a number of times equal to your fortress level. You regain all expended uses after a full recovery.
+A Warlord can use a quick action to gain 1d3 command points instead of making an attack. You can do this a number of times equal to your fortress level. You regain all expended uses after a full recovery.
 
 ---
 
@@ -818,7 +818,7 @@ The Sorcerer can start a chain even if the roll is odd. You can do this a number
 
 Average folks find wizards weird enough, gabbling in strange languages and living up to their eyeballs in books and owl poop. But they, at least, have rules. A sorcerer, on the other hand, gains their power through an innate connection with the forces of magic. No training required. This is even less well understood by normal people. A sorcerer’s followers therefore tend to be folks who enjoy being close to raw power and do not fear what they do not understand.
 
-A sorcerer’s army is usually light and highly mobile. Unlike other classes they eschew large, slow, heavily armed and armored soldiers and they can attract flying units. Their retainers are almost all spellcasters. Their artisans are folks who enjoy making things and probably hope that being in the court of a sorcerer will grant them the opportunity to create magic items. Their ambassadors come from cultures that do not fear sorcery and whose soldiers would have no problem serving under a commander who can conjure fire through sheer will.
+A sorcerer’s army is usually light and highly mobile. Unlike other classes they eschew large, slow, heavily armed and armored soldiers and they can attract flying units. Their retainers are almost all spellcasters. Their artisans are folks who enjoy making things and probably hope that being in the court of a sorcerer will grant them the opportunity to create magic items. Their ambassadors come from cultures that do not fear sorcery and whose soldiers would have no problem serving under a warlord who can conjure fire through sheer will.
 
 | d100 | Follower |
 | ---- | -------- |

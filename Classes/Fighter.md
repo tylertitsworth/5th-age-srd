@@ -606,19 +606,19 @@ Enemies can't make opportunity attacks against you during your Skilled Intercept
 
 ### Tactical Talent
 
-You gain a commander tactic as a bonus power.
+You gain a warlord tactic as a bonus power.
 
 ---
 
 #### Adventurer Feat
 
-You can substitute Intelligence for Dexterity or Constitution with your fighter maneuvers and Threatening class feature. You can substitute Intelligence for Charisma with the commander tactics gained through this talent.
+You can substitute Intelligence for Dexterity or Constitution with your fighter maneuvers and Threatening class feature. You can substitute Intelligence for Charisma with the warlord tactics gained through this talent.
 
 ---
 
 #### Champion Feat
 
-You can switch a fighter maneuver for a commander tactic two levels lower.
+You can switch a fighter maneuver for a warlord tactic two levels lower.
 
 ---
 
