@@ -15,9 +15,13 @@ Druids get 2 skill points in any Strength, Dexterity, or Wisdom skill like Athle
 
 At 1st level, druids start with a melee weapon, light armor, possibly a staff, perhaps a bow or other ranged weapon, and other minor possessions suggested by their background.
 
+---
+
 ### Gold Pieces
 
 Druids start with 25gp.
+
+---
 
 ### Armor
 
@@ -27,6 +31,8 @@ Druids start with 25gp.
 | _**Light**_ | _10\*_ | — |
 | **Heavy** | 14 | -2 |
 | **Shield** | +1 | -2\* |
+
+---
 
 ### Melee Weapons
 
@@ -38,6 +44,8 @@ Druids start with 25gp.
 
 >\*Circle of War talent choices can change shield and one-handed weapon stats.
 
+---
+
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -45,6 +53,8 @@ Druids start with 25gp.
 | **Small** | 1d4 dagger | 1d4 (-2 atk)hand crossbow | — |
 | **Light or Simple** | 1d6 javelin, axe | 1d6 (-2 atk) light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 (–2 atk) longbow |
+
+---
 
 ## Level Progression
 
@@ -94,6 +104,8 @@ At-Will
 
 **Miss:** Damage equal to your level
 
+---
+
 ### Ranged Attack
 
 At-Will
@@ -106,6 +118,8 @@ At-Will
 
 **Miss:** —
 
+---
+
 ## Class Features
 
 Druids use divine implements, such as symbols and staffs, to improve their spellcasting. They can choose up to three talents to have many useful aptitudes, or they can specialize by putting two points into one talent (and the other into another talent). A druid who chooses three separate talents is an _initiate_ in each one. Investing two points into a single talent allows the druid to become _adept_ in that talent, thereby gaining more power at the expense of options, and an _initiate_ in another talent.
@@ -116,17 +130,25 @@ You never suffer from natural weather-related cold, heat, or exposure. You can g
 
 You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Circle of the Moon or Circle of the Fang talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Terrain Caster talent.
 
+---
+
 ### Adventurer Feat
 
 You can talk with plants and animals pretty much as often you like, and you gain a +5 bonus to any skill checks involved.
+
+---
 
 ### Ritual Magic
 
 Druids can cast primal [rituals](../General-Rules/Rituals.md).
 
+---
+
 ## Druid Talents
 
 Each of your talents unlocks pools of spells and powers that are not available to characters who lack the talent. Druids who choose to more talents in a circle become adepts and masters and gain additional benefits and powers in that circle.
+
+---
 
 ### Druid Circles
 
@@ -140,6 +162,8 @@ Within each circle, there are three levels of mastery: initiate, adept and maste
 
 Each circle also grants a number of spells, powers or flexible attacks. The amount you get depends on your level and whether you are an initiate, adept or master
 
+---
+
 ## Circle of Decay
 
 This circle harnesses the destructive phase of the cycle of life. Droughts, plagues and rot are indispensable elements of life, as they cull the weak and the old and make way for the new. Its druids are also known as blighters or defilers. Many see themselves as closing the gap between death and new life.
@@ -147,6 +171,8 @@ This circle harnesses the destructive phase of the cycle of life. Droughts, plag
 However, there is a darker element to it, a destructive force that is outside of nature, a breaking of the cycle. It is a powerful, tempting magic, and blighters are always at risk of drawing more power from their surroundings than intended, leaving wounds that may never heal.
 
 In the same way that the Lich King represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
+
+---
 
 ### Circle of Decay Talents
 
@@ -158,17 +184,25 @@ You gain the Blighted Stench at-will spell as a bonus spell.
 
 Starting from 3rd level, you can take a necromancer spell instead of a blighter druid spell, at a -2 penalty to the spell level. You can switch Intelligence for Wisdom with your necromancer spells.
 
+---
+
 ##### Adventurer Feat
 
 You can switch one blighter druid spell for a necromancer spell without the level penalty.
+
+---
 
 ##### Champion Feat
 
 You lose the druid’s Nature Talking class feature. Instead, you gain [Speak with Dead](./Necromancer.md#speak-with-dead) as a bonus spell.
 
+---
+
 ##### Epic Feat
 
 You have a permanent fear aura that affects beast and plant creatures. If any such creature is engaged with you, and has 100 hit points or less, it is dazed and can’t use the escalation die.
+
+---
 
 ##### Blighted Stench (1st Level)
 
@@ -193,13 +227,19 @@ _Natural 18+:_ The target is dazed until the end of your next turn.
 | 7th | 3d6 damage |
 | 9th | 5d6 damage |
 
+---
+
 ###### Adventurer Feat
 
 You gain a +1 bonus to attack against enemies you are engaged with.
 
+---
+
 ###### Champion Feat
 
 The daze effect now triggers on natural 16+.
+
+---
 
 #### Bug Infestation
 
@@ -207,17 +247,25 @@ You gain Bug Bites as a bonus spell.
 
 In addition, when you cast a blighter druid summoning spell, roll a d6. When the result is equal to the escalation die or lower, you summon two creatures instead of one.
 
+---
+
 ##### Adventurer Feat
 
 You and your summoned creatures gain a +1 bonus to attack against enemies who are taking ongoing damage.
+
+---
 
 ##### Champion Feat
 
 When you use a quick action to control a creature you summoned, you also grant it 1d6 extra damage (8th level: 2d6) if it hits with an attack during this turn.
 
+---
+
 ##### Epic Feat
 
 Increase the bonus from the adventurer-tier feat to +2.
+
+---
 
 ##### Bug Bites (1st Level)
 
@@ -240,13 +288,19 @@ At-will
 | 7th | 4d8 damage |
 | 9th | 6d8 damage |
 
+---
+
 ###### Adventurer Feat
 
 On a natural even hit, the target also has disadvantage on its next attack roll.
 
+---
+
 ###### Champion Feat
 
 Against staggered enemies, increase the damage dice to d10s.
+
+---
 
 #### Creepy Transformation
 
@@ -256,9 +310,13 @@ You can use the scout form of the Circle of the Moon to turn into a swarm of bug
 
 You also gain the Festering Maggots aspect as a bonus aspect, which you can use like other aspects from the Circle of the Moon.
 
+---
+
 ##### Adventurer Feat
 
 You gain resist poison 16+.
+
+---
 
 ##### Festering Maggots Aspect
 
@@ -272,13 +330,19 @@ _Initiate Effect:_ When you are hit by an attack, you can transform the part of 
 
 _Adept Effect:_ As initiate, and if you use the interrupt action, you also deal twice your level in poison damage to the attacker.
 
+---
+
 ###### Adventurer Feat
 
 This aspect also grants advantage on disengage checks.
 
+---
+
 ###### Epic Feat
 
 As an initiate, gain the adept effect. As an adept, increase the poison damage to three times your level.
+
+---
 
 #### Defiling
 
@@ -286,17 +350,25 @@ When you cast a blighter daily spell, that spell becomes recharge 18+ after batt
 
 You also gain the Defiling Touch at-will spell as a bonus spell.
 
+---
+
 ##### Adventurer Feat
 
 Beast and plant type creatures are vulnerable to your blighter spells.
+
+---
 
 ##### Champion Feat
 
 The recharge roll is now 16+.
 
+---
+
 ##### Epic Feat
 
 All creatures except undead and constructs are vulnerable to your blighter spells.
+
+---
 
 ##### Defiling Touch (1st Level)
 
@@ -319,6 +391,8 @@ At-will
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
+---
+
 #### Life Leech
 
 Hasten the process of decay by drawing life from that which still lives.
@@ -327,13 +401,19 @@ Whenever you cast a spell that grants you or an ally the use of a recovery to he
 
 You also gain the Leeching Fingers at-will spell as a bonus spell.
 
+---
+
 ##### Adventurer Feat
 
 Add your level to the damage inflicted by this talent.
 
+---
+
 ##### Champion Feat
 
 When you hit a target with a blighter spell that is not an at-will spell, the target cannot regain hit points or gain temporary hit points until the end of your next turn.
+
+---
 
 ##### Leeching Fingers (1st Level)
 
@@ -356,13 +436,19 @@ At-will
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
+---
+
 ###### Epic Feat
 
 On a natural 18+, you can heal using a recovery.
 
+---
+
 ### Circle of Decay Spells
 
 You choose the spells you can cast at full heal-up. The number of spells you gain is determined by your class level and whether you are an initiate, adept or master.
+
+---
 
 #### Shrivel (1st Level)
 
@@ -383,6 +469,8 @@ Daily
 | 7th | 40 ongoing damage |
 | 9th | 60 ongoing damage |
 
+---
+
 #### Summon Atrocity (1st Level)
 
 Ranged spell
@@ -398,6 +486,8 @@ Daily
 | 7th | Summon a 4th-level basilisk with 80 hp. |
 | 9th | Summon a 1d3+1 9th-level wraith bats (Bestiary p. 15) with 30 hp. |
 
+---
+
 #### Summon Giant Bug (1st Level)
 
 Ranged spell
@@ -406,9 +496,13 @@ Daily
 
 **Effect:** You summon a giant bug from the Hell Mother summoning list (13th Age Glorantha p. 158). You can choose any of the giant bugs of your level or lower. You summon these bugs as a superior creature according to the Summoning rules on page XX. The bug remains until the end of the battle, or until it is reduced to zero hit points.
 
+---
+
 ##### Adventurer Feat
 
 Once per level, you can summon a giant spider from the Hell Mother list instead.
+
+---
 
 #### Thorned Whip (1st Level)
 
@@ -424,6 +518,8 @@ Quick action
 | --- | --- |
 | 5th | The whip acts as a champion-level item (+2). |
 | 9th | Epic level item (+3) |
+
+---
 
 #### Creeping Thorn Ivy (3rd Level)
 
@@ -447,6 +543,8 @@ Daily
 | 7th | 25 ongoing damage |
 | 9th | 40 ongoing damage |
 
+---
+
 #### Decrepit Mind (3rd Level)
 
 Close-quarters spell
@@ -466,6 +564,8 @@ Once per battle
 | 5th | 7d8 damage |
 | 7th | 10d8 damage |
 | 9th | 1d12 x 10 damage |
+
+---
 
 #### Wave of Despair (3rd Level)
 
@@ -491,6 +591,8 @@ _Despair:_ When an enemy rolls a natural 1-3 on their save against this spell, t
 | 7th | 7d10 damage; no actions on 1-7 on the save |
 | 9th | 10d10 damage; no actions on 1-9 on the save |
 
+---
+
 #### Contagion (5th Level)
 
 Close-quarters spell
@@ -510,6 +612,8 @@ Daily
 | 7th | 20 ongoing damage, last gasp saves below 100 hp |
 | 9th | 30 ongoing damage, last gasp saves below 150 hp |
 
+---
+
 #### Locust Swarm (5th Level)
 
 Ranged spell
@@ -519,6 +623,8 @@ Daily
 Quick action
 
 **Effect:** Insects swarm across the nearby area. Outside of combat, they ravage the surrounding nature and destroy crops. When cast in battle, at the start of each of your turns, nearby enemies must succeed at a save or take twice your level in poison damage and take a -2 penalty to attacks and defenses until the start of their next turn. The effect lasts until the end of the battle, or until you are knocked unconscious.
+
+---
 
 #### Summon Ooze (5th Level)
 
@@ -532,6 +638,8 @@ Daily
 | --- | --- |
 | 7th | Summon a huge 5th-level gelatinous cube with 120 hp. |
 | 9th | Summon a huge 7th-level gelatinous dodecahedron with 200 hp. |
+
+---
 
 #### Thorn Cage (5th Level)
 
@@ -554,6 +662,8 @@ _Thorn cage:_ When the target makes an attack, it takes 20 poison damage.
 | 7th | 30 damage |
 | 9th | 50 damage |
 
+---
+
 #### Aura of Decay (7th Level)
 
 Ranged spell
@@ -561,6 +671,8 @@ Ranged spell
 Daily
 
 **Effect:** You create a zone of decay in the nearby area, where enemies take a penalty to saving throws equal to the escalation die. Enemies can avoid the penalty by moving out of the zone. The zone persists until the end of the battle, or until you are knocked unconscious.
+
+---
 
 #### Horrid Wilting (7th Level)
 
@@ -582,6 +694,8 @@ _Special:_ Against plant type creatures and water elementals, gain a +2 bonus to
 | --- | --- |
 | 9th | 2d8 x 10 damage |
 
+---
+
 #### Wall of Thorns (7th Level)
 
 Ranged spell
@@ -594,6 +708,8 @@ Daily
 | --- | --- |
 | 9th | 150 damage to hack through the wall; 25 poison damage from the wall |
 
+---
+
 #### Anti-Life Shell (9th Level)
 
 Close-quarters spell
@@ -603,6 +719,8 @@ Daily
 **Effect:** Pop free from all enemies. Until the end of the battle, you create a perimeter around yourself that repels ordinary living creatures. Nearby enemies can try to engage you as a move action, but they must succeed at a normal save to push through the barrier. On a success, they engage you, but take 50 negative energy damage. On a failure, they take no damage, but the engage fails.
 
 _Special:_ Non-living creatures, such as constructs and undead, ignore the effect of this spell.
+
+---
 
 #### Creeping Doom (9th Level)
 
@@ -618,21 +736,31 @@ Daily
 
 **Miss:** Half damage
 
+---
+
 ## Circle of the Fang
 
 This circle is shared with the ranger class. Rangers can take up to three of the talents listed under this circle, and gain the same abilities and benefits as a druid with these talents.
+
+---
 
 ### Animal Companion
 
 All Circle of the Fang initiates, adepts and masters gain this ability. See the [Animal Companion Rules](../Character-Rules/Companions.md).
 
+---
+
 #### Adventurer Feat
 
 If you have any of the Ranger talents in the following list, you share their benefits with your animal companion: Favored Enemy, First Strike, Lethal Hunter, Camouflage, and Survivor.
 
+---
+
 #### Champion Feat
 
 Your daily animal companion spells are Recharge 18+ after battle.
+
+---
 
 #### Stats & Levels
 
@@ -642,6 +770,8 @@ _Adept:_ Your animal companion is one level below your class level, and it is pr
 
 _Master:_ As adept, but your companion is now the same level as your class level.
 
+---
+
 ### Circle of Fang Talents
 
 #### Animal Friends
@@ -650,9 +780,13 @@ If you are a ranger, you gain the Druid’s Nature Talking class feature. If you
 
 You gain 3 skill points towards a skill that represents small creatures coming to your aid. They can help you find food, lead the way to a location they know, warn you of impending danger, or even perform small tricks. They can even distract your enemies with the Tiny Claws power below.
 
+---
+
 ##### Adventurer Feat
 
 You can reroll a natural even failure on a skill check related to animals once. This includes Mounted Combat skill checks.
+
+---
 
 ##### Tiny Claws
 
@@ -672,25 +806,37 @@ _Natural odd hit:_ The target is dazed until the end of your next turn.
 
 **Miss:** —
 
+---
+
 ###### Adventurer Feat
 
 Deal 1d4 times your level damage on a hit.
+
+---
 
 #### Awakened Companion
 
 Your companion can speak, and it has the mind of a humanoid child. This makes your companion much smarter at mundane tasks and combat tactics. It also gains a +2 bonus to MD.
 
+---
+
 ##### Adventurer Feat
 
 Your companion gains a fighter maneuver of its level (minimum 1).
+
+---
 
 ##### Champion Feat
 
 Whenever you are the target of a spell or effect, and your companion is nearby, you can choose to extend the effect to your companion for free. (Note that companions already have the ability to heal for free when you use a recovery while they are adjacent. You can use either that ability or this feat, but not both for the same healing spell.)
 
+---
+
 ##### Epic Feat
 
 Both you and your companion have a +1 bonus to saves, including death saves, while the other is nearby.
+
+---
 
 #### Defensive Instinct
 
@@ -698,17 +844,25 @@ The sharpened senses of your companion let it dodge out of harm’s way.
 
 Your companion gains a +1 bonus to AC and PD.
 
+---
+
 ##### Adventurer Feat
 
 Once per battle, when your companion takes damage, it can halve that damage as a free action.
+
+---
 
 ##### Champion Feat
 
 When you are next to your companion, you gain a +1 bonus to AC and PD.
 
+---
+
 ##### Epic Feat
 
 Once per battle, your companion can make a melee attack as an interrupt action against an enemy it is engaged with that makes an attack against you or an ally.
+
+---
 
 #### Dire Animal Companion
 
@@ -725,13 +879,19 @@ Whenever you call a new companion, roll 1d6 on the dire animal table Your compan
 
 Your companion’s size increases to large, and you can ride it.
 
+---
+
 ##### Adventurer Feat
 
 Your companions hit points increase as if it was one level higher. (For each increase beyond level 10, add 50 hp.)
 
+---
+
 ##### Champion Feat
 
 After rolling the random feature, gain a second one of your choice.
+
+---
 
 #### Draconic Companion
 
@@ -754,29 +914,43 @@ Your companion is a small dragon, or a beast with draconic blood. It is smarter 
 | 7 | Now I’m mad! | The first time the dragon is staggered each battle, it uses its breath weapon attack as a free action that does not count against the normal uses of its breath. |
 | 8 | Serious threat | Disengage checks against the dragon take a –5 penalty. When a creature fails to disengage from the dragon, it takes damage equal to double the dragon’s level. |
 
+---
+
 ##### Adventurer Feat
 
 Gain an additional ability.
 
+---
+
 ##### Champion Feat
 
 Gain an additional ability.
+
+---
 
 ##### Epic Feat
 
 Gain an additional ability.
 
+---
+
 #### Ferocity
 
 Increase your animal companion‘s damage die by one size (d6s to d8s, d8s to d10s).
+
+---
 
 ##### Adventurer Feat
 
 If both you and the companion are engaged with an enemy, it is vulnerable to your companion’s attacks.
 
+---
+
 ##### Champion Feat
 
 Your companion has a +1 bonus to attack against staggered enemies.
+
+---
 
 #### Spirit Companion
 
@@ -792,17 +966,25 @@ As an adept or master, you also have access to the following options:
 - It gains Spirit Ward as a bonus spell.
 - It gains Creepy Howl as a bonus spell.
 
+---
+
 ##### Adventurer Feat
 
 Gain an additional ability.
+
+---
 
 ##### Champion Feat
 
 Gain an additional ability.
 
+---
+
 ##### Epic Feat
 
 Gain an additional ability.
+
+---
 
 ##### Spirit Ward
 
@@ -815,6 +997,8 @@ Quick action
 _Special:_ The escalation die must be 2+ to cast this spell.
 
 **Effect:** Until the end of the battle, you have resist physical damage 12+, like your companion.
+
+---
 
 ##### Creepy Howl
 
@@ -834,6 +1018,8 @@ _Special:_ The escalation die must be 2+ to cast this spell.
 
 **Miss:** —
 
+---
+
 ### Animal Companion Spells
 
 The Circle of the Fang initiate gains animal companion spells at a different rate than other circles, as per the table below. Adepts use the initate column in the level progression table, and masters use the adept column.
@@ -851,6 +1037,8 @@ The Circle of the Fang initiate gains animal companion spells at a different rat
 | 9th | 4 |
 | 10th | 4 |
 
+---
+
 ## Circle of Feysong
 
 Druids of the circle of feysong are either fey themselves, or humanoids who lived among the fey and learned their magic. Sometimes, faerie are reborn into mortal humanoid bodies, and sometimes fey abduct humanoid children to be raised among them.
@@ -859,35 +1047,51 @@ Fey druids with true fey blood have physical features that show the heritage, su
 
 Druids of this circle are known as fey druids. If they are fey children switched out for mortal babies, they are also known as changelings.
 
+---
+
 ### Circle of Feysong Talents
 
 #### Court of Song
 
 You gain a bard spell or song of up to your level as a bonus spell. You also gain 3 skill points towards musical performer skills.
 
+---
+
 ##### Adventurer Feat
 
 You can use enchanted instruments as implements. You gain Enchant Instrument as a bonus spell.
+
+---
 
 ##### Epic Feat
 
 Gain a second bard spell or song, at a -2 penalty to the level.
 
+---
+
 #### Court of Stars
 
 You have access to sorcerer spells from the fey bloodline and wizard spells from the Enchantment and Illusion schools. At first level, you gain one such spell as a bonus spell. Starting from 3rd level, you can swap a Feysong druid spell for such a spell at a -2 level penalty. If you choose any wizard spell, you can use Charisma instead of Intelligence with it.
+
+---
 
 ##### Adventurer Feat
 
 For every talent you have from the circle of feysong, you can swap in one sorcerer / wizard spell without the level penalty.
 
+---
+
 ##### Champion Feat
 
 Once per battle, as a quick action, you can get the sorcerer Fey bloodline’s Fey Benefit (without gathering power).
 
+---
+
 ##### Epic Feat
 
 While in the fey realms, your druid daily spells, including swapped in spells, are recharge 18+ after battle.
+
+---
 
 #### Court of Swords
 
@@ -895,17 +1099,25 @@ You can use Charisma instead of Dexterity or Strength for attack and damage when
 
 You also gain a bard battle cry of up to your level as a bonus power, which you can trigger with druid basic attacks.
 
+---
+
 ##### Adventurer Feat
 
 Once per battle, add your Charisma modifier to a save to disengage.
+
+---
 
 ##### Champion Feat
 
 When the escalation die is even, you can spend a quick action to trick a nearby opponent. Your next melee attack against that opponent this turn targets their MD instead of AC.
 
+---
+
 ##### Epic Feat
 
 Gain a second battle cry from the bard list, at two levels below your level.
+
+---
 
 #### Feydark Ancestry
 
@@ -913,13 +1125,19 @@ You gain the Glimpse from the Dark at-will spell.
 
 You can see perfectly in the dark. When you make a skill check to hide or sneak, the difficulty is reduced by one step (-5).
 
+---
+
 ##### Adventurer Feat
 
 When you engage an enemy in low light or dark conditions, deal psychic damage equal to your level to the target.
 
+---
+
 ##### Epic Feat
 
 You can expend a recovery to flee from a combat alone, without suffering a campaign loss.
+
+---
 
 ##### Glimpse from the Dark (1st Level)
 
@@ -946,9 +1164,13 @@ _Natural Odd Miss:_ If you are engaged with the target, you can make a disengage
 | 7th | (even hit) 7d10 damage |
 | 9th | (even hit) 10d10 damage |
 
+---
+
 ###### Adventurer Feat
 
 You gain a +1 bonus to attack with this spell in dim light and darkness.
+
+---
 
 #### Pooka Ancestry
 
@@ -956,9 +1178,13 @@ _Special:_ This talent requires at least one talent from the Circle of the Moon.
 
 You gain the Pooka aspect as a bonus aspect, which you can use like other aspects from the Circle of the Moon.
 
+---
+
 ##### Adventurer Feat
 
 You can cast fey druid spells while in scout and beast form.
+
+---
 
 ##### Pooka Aspect
 
@@ -974,9 +1200,13 @@ If an enemy misses you with a 1-3 on the natural attack roll, you can turn invis
 
 _Adept Effect:_ When you turn invisible, you can create an illusory double of yourself in a nearby location. The double is destroyed when it is attacked.
 
+---
+
 ###### Adventurer Feat
 
 You can turn invisible on a natural 1-5.
+
+---
 
 #### Redcap Ancestry
 
@@ -984,17 +1214,25 @@ Skill checks to scare or intimidate are one step easier for you (-5 to difficult
 
 You gain Bloodsoaked Violence as a bonus druid flexible attack.
 
+---
+
 ##### Adventurer Feat
 
 When you score a critical hit with an attack or spell, the target also takes 5 ongoing damage (5th level: 10 ongoing; 8th level: 20 ongoing).
+
+---
 
 ##### Champion Feat
 
 When you kill a target, nearby enemies with fewer hit points than 20 times your level must immediately succeed at a save or be affected by fear (-4 to attacks and can’t benefit from the escalation die).
 
+---
+
 ##### Epic Feat
 
 Enemies under the fear effect are also vulnerable to your attacks.
+
+---
 
 ##### Bloodsoaked Violence
 
@@ -1011,21 +1249,31 @@ Flexible once-per-battle melee attack
 | 7th | 1d8 per kill |
 | 9th | 1d12 per kill |
 
+---
+
 #### Troll Ancestry
 
 You have advantage on skill checks that depend on pure muscle strength. When you make a Strength-based melee attack, reroll any natural 1s with the damage roll. If you are wielding a two-handed weapon, also reroll 2s.
+
+---
 
 ##### Adventurer Feat
 
 Also reroll 1s on recovery rolls.
 
+---
+
 ##### Champion Feat
 
 Once per battle, double the hit points you regain from a recovery you spend.
 
+---
+
 ##### Epic Feat
 
 Add four times your Strength to melee attack damage (instead of three times).
+
+---
 
 ### Circle of the Feysong Spells
 
@@ -1033,13 +1281,19 @@ The spells you cast as a fey druid are an expression of your faerie nature, and 
 
 Unlike other druids, fey druids use Charisma instead of Wisdom as the main stat for their magic.
 
+---
+
 #### Adventurer Feat
 
 If you have any druid spells from other circles, you can replace Wisdom with Charisma when casting them.
 
+---
+
 #### Cantrips
 
 For each talent that you spend on the Circle of Feysong, you learn one cantrip from below as a bonus spell. As a Master of Feysong, you have access to all of them.
+
+---
 
 ##### Faerie Lights
 
@@ -1051,6 +1305,8 @@ Quick action
 
 **Effect:** Until the end of the battle or scene, you fill the surrounding area with colorful lights that provide illumination, and prevent creatures from hiding or walking in shadows.
 
+---
+
 ##### Feycraft
 
 Ranged spell
@@ -1060,6 +1316,8 @@ At-will
 Quick action
 
 **Effect:** You create a small conjuration or transmutation effect. Grow flowers in your hair, summon a swarm of butterflies, polish a coin to make it shiny, etc. The effect ends at the end of the scene.
+
+---
 
 ##### Feysight
 
@@ -1071,6 +1329,8 @@ Quick action
 
 **Effect:** You see the world through the eyes of the fey. This allows you to see through fey illusions, including invisibility, find portals into the fey realms, and identify the shifting patterns that allow navigation in the feywilds.
 
+---
+
 ##### Little Helpers
 
 Ranged spell
@@ -1081,6 +1341,8 @@ Quick action
 
 **Effect:** You call on small animals and house spirits to complete a small menial task such as cleaning a room, washing dishes or sewing a dress. The helpers will work tirelessly for 1d6 x 10 minutes.
 
+---
+
 ##### Prank
 
 Ranged spell
@@ -1090,6 +1352,8 @@ At-will
 Quick action
 
 **Effect:** You create a small magical illusion or movement effect. With illusions, you can add music to your singing, make a fly buzz through the room, leave some smelly animal droppings or throw your voice through the room. With movement, you can tap someone on the shoulder, bind their shoelaces, or pick something from their pockets. The effect lasts as long as you concentrate on it.
+
+---
 
 #### 1st Level Fey Spells
 
@@ -1110,17 +1374,25 @@ Quick action
 | 5th | You can cast the spell on two targets. |
 | 9th | The spell is now Recharge 16+. |
 
+---
+
 ###### Adventurer Feat
 
 The target also has advantage on saves against the dazed and weakened conditions.
+
+---
 
 ###### Champion Feat
 
 The target also gains a +1 bonus to MD.
 
+---
+
 ###### Epic Feat
 
 The target also gains a +1 bonus to Charisma-based attack rolls.
+
+---
 
 ##### Faerie Fire (Feysong version)
 
@@ -1143,6 +1415,8 @@ Daily
 | 7th | 10d10 damage |
 | 9th | 2d8 x 10 damage |
 
+---
+
 ##### Nose of the Leprechaun
 
 Close-quarters spell
@@ -1157,6 +1431,8 @@ Quick action
 | --- | --- |
 | 3rd | The spell is now Recharge 16+. |
 | 5th | You can now sense treasure in far away areas too, up to a few hundred feet. |
+
+---
 
 ##### Satyr’s Pipes
 
@@ -1173,6 +1449,8 @@ Quick action
 | 3rd | You also have advantage on checks to sustain bard songs. |
 | 7th | When the escalation die is even, you have advantage on the attack roll with bard spells. |
 
+---
+
 ###### Seeming
 
 Close-quarters spells
@@ -1183,9 +1461,13 @@ Quick action
 
 **Effect:** You create an illusion of a certain role, such as a servant, an old woman, or a prince. When you create the disguise, you must succeed at a Charisma-based skill check to convince onlookers that you belong where you currently are, as a maid, servant, butler or similar. The check is usually normal difficulty (DC 15 at adventurer tier), but if the role fits the surroundings, the GM can reduce the difficulty to easy. If the disguise is different from your normal body shape and size, increase the difficulty to hard.
 
+---
+
 ###### Adventurer Feat
 
 You can disguise a number of creatures equal to your Charisma modifier.
+
+---
 
 ##### Unicorn Mount
 
@@ -1194,6 +1476,8 @@ Ranged spell
 Daily
 
 **Effect:** You summon a unicorn mount (see 13th Age Monthly, Mounted Combat, page 10) for one hour per spell level, which you can ride into battle according to the mounted combat rules. The unicorn can take two mounted combat actions per battle, which require a quick action but no mounted combat check.
+
+---
 
 #### 3rd Level Fey Spells
 
@@ -1219,6 +1503,8 @@ The GM should adjust the target‘s MD and the save difficulty according to how 
 | --- | --- |
 | 5th | The spell ends after 1d6 hours. |
 
+---
+
 ##### Master of the Hunt
 
 Ranged spell
@@ -1233,6 +1519,8 @@ Quick action
 | --- | --- |
 | 5th | +2 bonus to skill checks |
 | 9th | +3 bonus to skill checks |
+
+---
 
 ##### Scion of Winter
 
@@ -1250,6 +1538,8 @@ Quick action
 | 5th | resist cold 15+. |
 | 9th | resist cold 18+. |
 
+---
+
 ##### Summon Fauns and Pixies
 
 Ranged spell
@@ -1264,6 +1554,8 @@ For a faun, if your PD is higher than your MD, the summoned one follows the Path
 | --- | --- |
 | 5th | Summon a 4th-level Faun Harrier, or a 5th-level Faun Keeper (60 hp). |
 | 7th | Summon a 6th-level Faun Enchanter, a 7th-level Faun Ranger (85 hp), or a 6th-level Pixie Knight (60 hp). |
+
+---
 
 #### 5th Level Fey Spells
 
@@ -1281,6 +1573,8 @@ Quick action
 | --- | --- |
 | 7th | You also gain a +2 bonus to MD. |
 
+---
+
 ##### Dreamspeaker
 
 Ranged spell
@@ -1290,6 +1584,8 @@ Daily
 **Target:** A person you know, regardless of their location
 
 **Effect:** You appear in the target‘s dream the next time they sleep. You can deliver a message of a few minutes’ length.
+
+---
 
 ##### Mocking Invisibility
 
@@ -1301,6 +1597,8 @@ Daily
 
 The effect ends when you take a flashy action, such as making an attack or casting a big spell.
 
+---
+
 ##### Sidhe Knight Protector
 
 Close-quarters spell
@@ -1310,6 +1608,8 @@ Daily
 Quick action
 
 **Effect:** Until the end of the battle, at the end of your turn, choose an ally adjacent to you. Until the end of your next turn, you and the chosen ally take half damage from physical attacks when the enemy’s attack roll is a natural odd roll.
+
+---
 
 #### 7th Level Fey Spells
 
@@ -1333,6 +1633,8 @@ Daily
 | --- | --- |
 | 9th | 500 hp or fewer |
 
+---
+
 ##### Pixie Wings
 
 Close-quarters spell
@@ -1343,9 +1645,13 @@ Quick action
 
 **Effect:** Until the end of the battle, you can fly. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. If an attack against you is a natural 1, the attacker is dazed by the colors of your wings until the end of its next turn.
 
+---
+
 ###### Epic Feat
 
 You no longer suffer an attack penalty, although you are still vulnerable.
+
+---
 
 ##### Summon Great Hound
 
@@ -1355,9 +1661,13 @@ Daily
 
 **Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
 
+---
+
 ###### Adventurer Feat
 
 The Great Hound can stay with you until your next full heal-up (or guard over your sleep if you summon it before your rest). It will still vanish if its hit points are brought below zero.
+
+---
 
 ##### Unseelie Nightmare
 
@@ -1373,9 +1683,13 @@ Quick action
 | --- | --- |
 | 9th | Increase the fear threshold to 100 hp. |
 
+---
+
 ###### Epic Feat
 
 Instead of rolling the d6, you can now choose the effect that didn’t activate last turn (either disappearing or fear).
+
+---
 
 #### 9th Level Fey Spells
 
@@ -1388,6 +1702,8 @@ Daily
 Quick action
 
 **Effect:** Until the end of the battle, your spell and weapon attacks have a +4 bonus to their critical hit range. When you score a critical hit against a staggered target, it is frozen (-4 to defenses and can’t take actions) until the end of your next turn. If it is not staggered, it is dazed until the end of your next turn.
+
+---
 
 ##### The Queen’s Graces
 
@@ -1404,6 +1720,8 @@ Quick action
 | 1-2 | Quick Action |
 | 3-4 | Move Action |
 | 5-6 | Standard Action |
+
+---
 
 ## Circle of the Land
 
@@ -1424,11 +1742,15 @@ This circle creates a spiritual connection to the surrounding lands, that allows
 
 In addition, some spells are in the Any Terrain category and can be cast anywhere, regardless of the surrounding terrain.
 
+---
+
 ### Circle of the Land Spellcasting
 
 You don’t prepare spells after a full heal-up as a land druid. Instead, you can use your spell slots to cast any daily spell of the terrain you are currently in. The number of spell slots is determined by the unified spell progression table at the start of this chapter. You always cast terrain spells at the highest level you have access to.
 
 This circle also gives access to at-will and once-per battle spells.
+
+---
 
 ### Circle of the Land Talents
 
@@ -1460,29 +1782,43 @@ _Swamp, lake, river:_ Flow. Gain a +3 bonus to disengage checks.
 
 _Volcano:_ When an enemy engages you, deal fire damage equal to your level to them.
 
+---
+
 ##### Adventurer Feat
 
 While you have the boon of a terrain type active, you can keep using its spells even after leaving that terrain. This lasts until you switch out the boon, or until the next full heal-up.
+
+---
 
 ##### Champion Feat
 
 Once per battle or scene, you can use your bond with the land’s spirits as a quick action to perform a stunt without making a skill check. For example, river spirits could carry you to walk on water. This ends the boon effect.
 
+---
+
 ##### Epic Feat
 
 For one battle per day, you can grant the boon to all nearby allies until the end of the battle as a quick action.
+
+---
 
 #### Land Attunement
 
 You gain two bonus spell slots to cast one at-will spell and one per-battle spell of any terrain type that you are currently located in, even if you don’t have the corresponding terrain feat.
 
+---
+
 ##### Adventurer Feat
 
 Once per battle, reroll an attack with a Circle of the Land at-will spell.
 
+---
+
 ##### Epic Feat
 
 You gain a +1 bonus to hit with Circle of the Land at-will spells.
+
+---
 
 #### Sacred Grove
 
@@ -1490,13 +1826,19 @@ _Special:_ You can take this talent multiple times, applying to a different terr
 
 Choose one of the 12 terrains. You gain one terrain feat each for one at-will and one once-per battle terrain spell of that land type.
 
+---
+
 ##### Adventurer Feat
 
 While in the terrain you attuned to with this talent, you have advantage on skill checks that relate to it, for example to identify plants.
 
+---
+
 ##### Champion Feat
 
 When you take a full heal-up in the terrain you attuned to with this talent, you can cast one daily spell of that terrain for free before your next full heal-up.
+
+---
 
 #### Sage of the Land
 
@@ -1504,15 +1846,21 @@ You gain 3 skill points towards a skill that represents your deep understanding 
 
 You also gain a bonus spell slot, which you can use to cast any spell of the Any Terrain category, of up to your level.
 
+---
+
 ##### Adventurer Feat
 
 Allies you travel with gain a +1 bonus to skill checks dealing with the natural environment.
+
+---
 
 ### Circle of the Lands Spells
 
 #### Any Terrain
 
 You can cast the spells below regardless of the terrain you are in.
+
+---
 
 ##### Pass Without a Trace (1st Level)
 
@@ -1523,6 +1871,8 @@ Daily
 **Target:** You and one ally per spell level
 
 **Effect:** Until the next short rest, all targets gain a +5 bonus to skill checks to navigate the surrounding terrain while leaving no tracks behind.
+
+---
 
 ##### Terrain Augury (1st Level)
 
@@ -1539,6 +1889,8 @@ After casting the spell, reduce the difficulty of skill checks to navigate the a
 | 3rd | Cover an area a few miles across. |
 | 5th | Cover an area a hundred miles across. |
 
+---
+
 ##### Create Shelter (3rd Level)
 
 Ranged spell
@@ -1546,6 +1898,8 @@ Ranged spell
 Daily
 
 **Effect:** You create a small, secure place where you and a small group of travellers can find shelter and rest. The nature of the shelter depends on the terrain you are in, and can be anything from a small hut of living bushes and trees to an igloo. While the shelter blends in with the surroundings, you need a skill check to disguise it well enough to throw off any pursuers who are actively looking for you.
+
+---
 
 ##### Dangers and Perils (3rd Level)
 
@@ -1561,6 +1915,8 @@ Daily
 | 7th | You also gain the Trap Sense champion feat. |
 | 9th | You also gain the Trap Sense epic feat. |
 
+---
+
 ##### Shape the Path (5th Level)
 
 Close-quarters spell
@@ -1573,6 +1929,8 @@ Daily
 | --- | --- |
 | 7th | You can shape the terrain fast enough to do it from the back of a mount. |
 
+---
+
 ##### Control Weather (7th Level)
 
 Ranged spell
@@ -1582,6 +1940,8 @@ Daily
 **Target:** The nearby area in up to a mile radius
 
 **Effect:** You gradually change the surrounding weather. With a few minutes of concentration, you can create weather that is normal for the season and the area, such as a fresh breeze in spring or snow in winter. The longer you are able to concentrate on the spell, the more extreme, unusual and destructive the weather phenomenon can be, including thunderstorms, blizzards and tornadoes.
+
+---
 
 ##### Terraform (9th Level)
 
@@ -1593,6 +1953,8 @@ Daily
 
 **Effect:** You gradually change the surrounding terrain into a different type, for up to a day. With a few minutes of concentration, you can create an island in the ocean, grow a forest underneath the earth, or turn fertile land into desert. The longer you are able to concentrate on the spell, the larger the area, and the more extreme, unusual and destructive the change can be.
 
+---
+
 ##### Terrain Teleport (9th Level)
 
 Ranged spell
@@ -1601,11 +1963,15 @@ Daily
 
 **Effect:** You and up to 4 allies next to you can teleport to any location in the world that is a similar terrain as the one you are currently in, or attuned to. You can only teleport into natural terrain, not into towns or buildings.
 
+---
+
 #### Cave, Dungeon, Underworld
 
 ##### Adventurer Feat
 
 You gain the Ancient Trap spell below.
+
+---
 
 ##### Ancient Trap (Terrain Feat Spell)
 
@@ -1634,6 +2000,8 @@ Any natural odd roll: You can use this attack again after your next turn.
 | 7th | 8d10 damage |
 | 9th | 2d6 x 10 damage |
 
+---
+
 ##### Summon Cave Creatures (1st Level)
 
 Ranged spell
@@ -1648,6 +2016,8 @@ Daily
 | 5th | Summon a thunder bat with 45 hp (B 13). |
 | 7th | Summon a spider mount with 80 hp (B 60). |
 | 9th | Summon a phase spider with 100 hp (CB 244). |
+
+---
 
 ##### Suffocate (5th Level)
 
@@ -1670,6 +2040,8 @@ _Natural 16+:_ The save is a hard save (16+)
 | 7th | 35 ongoing damage; 15 miss damage |
 | 9th | 50 ongoing damage; 25 miss damage |
 
+---
+
 ##### Create Cavern (7th Level)
 
 Ranged spell
@@ -1677,6 +2049,8 @@ Ranged spell
 Daily
 
 **Effect:** You create a near-natural cavern in the underground or a cliff side. You can create an entrance that you and your allies can open and close with a touch. The cavern disappears after 24 hours, pushing out any items or creatures that are currently in it.
+
+---
 
 ##### False Corridor (9th Level)
 
@@ -1692,21 +2066,31 @@ Daily
 
 **Miss:** Damage equal to your level
 
+---
+
 #### Desert, Wasteland
 
 The largest wastelands on the map are Moonwreck and the Red Wastes. However, smaller magical disasters have left areas devoid of life all over the Empire.
+
+---
 
 ##### Adventurer Feat
 
 You gain the Dessicate spell below.
 
+---
+
 ##### Champion Feat
 
 You gain the Dehydration spell below.
 
+---
+
 ##### Adventurer Feat
 
 You can survive without food and water for days on end.
+
+---
 
 ##### Desiccate (Terrain Feat Spell)
 
@@ -1729,6 +2113,8 @@ At-will
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
+---
+
 ##### Dehydration (Terrain Feat Spell)
 
 Ranged spell
@@ -1750,9 +2136,13 @@ Once per battle
 | 7th | 25 ongoing damage |
 | 9th | 40 ongoing damage |
 
+---
+
 ###### Adventurer Feat
 
 The save against the ongoing damage is a hard save (16+).
+
+---
 
 ##### Fata Morgana (1st Level)
 
@@ -1763,6 +2153,8 @@ Daily
 **Effect:** You create the phantasmal image of an object in the distance, which lasts for about 5 minutes per spell level. Onlookers must succeed at a saving throw to discern that the image isn’t real. For creatures with a higher MD than PD, the save is easy (6+). If it’s the same, the save is normal (11+), and if PD is higher, the save is hard (16+).
 
 Choose whether you want the object to be desirable or scary. If the image is desirable, those who can’t discern the image as a fake will move towards it. If it’s scary, they will move away from it.
+
+---
 
 ##### Summon Desert Dwellers (1st Level)
 
@@ -1779,6 +2171,8 @@ Daily
 | 7th | Summon a mantikumhar with 60 hp (B 139). |
 | 9th | Summon a coursing manticore with 100 hp (B 140). |
 
+---
+
 ###### Fireblast Scorpion
 
 3rd level wrecker Beast
@@ -1790,6 +2184,8 @@ Pincer and Stinger +8 vs. AC — 8 fire damage
 _Natural even hit:_ 5 ongoing fire damage
 
 AC 18, PD 17, MD 12, HP 30
+
+---
 
 ##### Heatstroke (3rd Level)
 
@@ -1811,6 +2207,8 @@ Once per battle
 | 7th | 10d6 damage |
 | 9th | 15d6 damage |
 
+---
+
 ##### Sandstorm (3rd Level)
 
 Ranged spell
@@ -1829,6 +2227,8 @@ The storm remains until the end of the battle, until you are knocked unconscious
 | 7th | cover a small town; 5d6 damage |
 | 9th | cover an entire valley; 7d6 damage |
 
+---
+
 ##### Flickering Air (5th Level)
 
 Ranged spell
@@ -1836,6 +2236,8 @@ Ranged spell
 Daily
 
 **Effect:** Enemies take a penalty to attacks against you and all nearby allies equal to the escalation die. The effect ends when the escalation die is 5 or higher.
+
+---
 
 ##### Sand Dervish (5th Level)
 
@@ -1858,6 +2260,8 @@ Daily
 | 7th | 2d6 x 10 damage |
 | 9th | 2d10 x 10 damage |
 
+---
+
 ##### Quicksand (7th Level)
 
 Ranged spell
@@ -1876,6 +2280,8 @@ Daily
 | --- | --- |
 | 9th | 150 hp or fewer |
 
+---
+
 ##### Sand Dune (7th Level)
 
 Ranged spell
@@ -1883,6 +2289,8 @@ Ranged spell
 Daily
 
 **Effect:** Sand starts slowly building up around a target area that you can see, and grows into a massive sand dune over the next hour. The dune is high enough to bury a barn or a two-storey building. The sand dissipates with the wind over the next day. While the sand is too slow to bury those quick enough to run away from it, it can seal tunnel passages or slow pursuers, especially on horseback.
+
+---
 
 ##### Desert Wind (9th Level)
 
@@ -1900,15 +2308,21 @@ Daily
 
 **Miss:** —
 
+---
+
 #### Forest, Woods
 
 ##### Adventurer Feat
 
 You gain the Soothing Forest spell below.
 
+---
+
 ##### Champion Feat
 
 When you use a recovery to heal, you also gain a +1 bonus to AC until the end of your next turn.
+
+---
 
 ##### Soothing Forest (Terrain Feat Spell)
 
@@ -1928,6 +2342,8 @@ Quick action
 | 5th | 15 hp + 2x Wisdom modifier |
 | 7th | 25 hp + 2x Wisdom modifier |
 | 9th | 35 hp + 3x Wisdom modifier |
+
+---
 
 ##### Ripping Vines (1st Level)
 
@@ -1952,6 +2368,8 @@ At-Will
 | 7th | 5d8 damage. |
 | 9th | 7d10 damage, ongoing damage equal to triple your Strength or Dexterity modifier on a natural odd hit. |
 
+---
+
 ##### Ironwood Enchantment (1st Level)
 
 Ranged spell
@@ -1973,6 +2391,8 @@ _Arrows:_ Root growth. On a natural even hit, the target is stuck until the end 
 | 5th | Champion tier enchantment |
 | 9th | Epic tier enchantment |
 
+---
+
 ##### Summon Forest Friends (1st Level)
 
 Ranged spell
@@ -1988,6 +2408,8 @@ Daily
 | 7th | Summon a green bulette with 80 hp (B 27). |
 | 9th | Summon a dire tiger with 100 hp (13TW 160). |
 
+---
+
 ##### Tree Shape (3rd Level)
 
 Ranged spell
@@ -1999,6 +2421,8 @@ Daily
 **Effect:** You transform the ally into a tree. The target can still perceive its surroundings, but it can’t take actions. As a tree, the target is immune to damage, except for fire, lightning, and axes, which do half damage. At the end of each of its turns, the target can take a free recovery to heal. The target can end the spell as a quick action.
 
 If you use the tree shape as a disguise, make a skill check. Creatures with MD equal to the skill check or lower will think the tree is natural.
+
+---
 
 ##### Lashing Roots (7th Level)
 
@@ -2020,19 +2444,27 @@ Daily
 | --- | --- |
 | 9th | 6d12 damage; 40 damage at the start of turn |
 
+---
+
 #### Hells, Abyss
 
 ##### Adventurer Feat
 
 You gain the Fiendish Retribution spell below.
 
+---
+
 ##### Champion Feat
 
 You gain the Wrath of the Abyss spell below.
 
+---
+
 ##### Adventurer Feat
 
 Gain resist demon attacks 12+. Increase to 14+ when attuned to a hell hole.
+
+---
 
 ##### Fiendish Retribution (Terrain Feat Spell)
 
@@ -2054,6 +2486,8 @@ At-will
 | 5th | 5d10 damage |
 | 7th | 7d10 damage |
 | 9th | 10d10 damage |
+
+---
 
 ##### Wrath of the Abyss (Terrain Feat Spell)
 
@@ -2080,6 +2514,8 @@ _Natural even miss:_ Half damage
 | 7th | 7d10 damage |
 | 9th | 10d10 damage |
 
+---
+
 ##### Summon Hellhole Horrors (1st Level)
 
 Ranged spell
@@ -2095,6 +2531,8 @@ Daily
 | 7th | Summon 1d4 bat demon mooks (13TW 164, 20 hp). |
 | 9th | Summon a hezrou (CB 212, 100 hp). |
 
+---
+
 ##### Consume (3rd Level)
 
 Ranged spell
@@ -2108,6 +2546,8 @@ Daily
 **Hit:** Ongoing fire damage equal to 10 times the spell level. If the target saves against the effect, or if it dies, the spell doesn’t end. Instead, determine a new target randomly among all nearby or far away creatures. If the target is an enemy, that enemy now takes the ongoing damage of this spell. If it’s an ally, that ally takes half the damage, once, and the spell ends.
 
 **Miss:** You can cast this spell again this battle, at the start of your turn after your next turn.
+
+---
 
 ##### Desperate Frenzy (3rd Level)
 
@@ -2128,6 +2568,8 @@ Quick action
 | 7th | 2d12 extra damage |
 | 9th | 3d12 extra damage |
 
+---
+
 ##### Fiend Skin (5th Level)
 
 Close-quarters spell
@@ -2144,6 +2586,8 @@ Quick action
 | --- | --- |
 | 7th | You can now cast the spell on two targets. |
 
+---
+
 ##### Goat-Foot Step (5th Level)
 
 Close-quarters spell
@@ -2156,6 +2600,8 @@ Daily
 | --- | --- |
 | 7th | 6d8 damage |
 | 9th | 6d12 damage |
+
+---
 
 ##### Infernal Gift (7th Level)
 
@@ -2171,11 +2617,15 @@ Daily
 | --- | --- |
 | 9th | Roll 1d8. |
 
+---
+
 #### Ice, Tundra, Deep Snow
 
 ##### Adventurer Feat
 
 You gain the Ice Shards spell below.
+
+---
 
 ###### Ice Shards (Terrain Feat Spell)
 
@@ -2200,6 +2650,8 @@ _Natural odd miss:_ You take your level in cold damage.
 | 7th | 4d10 damage |
 | 9th | 6d10 damage |
 
+---
+
 ##### Hail Hail
 
 Ranged spell
@@ -2223,6 +2675,8 @@ At-Will
 | 7th | 5d8 damage, 2d8 mook damage on odd hit. |
 | 9th | 7d10 damage, 4d6 mook damage on odd hit. |
 
+---
+
 ##### Summon Icy Ally (1st Level)
 
 Ranged spell
@@ -2237,6 +2691,8 @@ Daily
 | 5th | Summon a snowy owlbear (B2 212, 40 hp). |
 | 7th | Summon a winter beast (B 79, 70 hp). |
 | 9th | Summon a remorhaz (frostwurm) (B 180, 100 hp). |
+
+---
 
 ##### Winter Fur (3rd Level)
 
@@ -2254,6 +2710,8 @@ Daily
 | 7th | resist cold 18+ |
 | 9th | four nearby allies |
 
+---
+
 ##### Winter Solstice (7th Level)
 
 Close-quarters spell
@@ -2261,6 +2719,8 @@ Close-quarters spell
 Daily
 
 **Effect:** Decrease the escalation die by 1. You and all nearby allies can spend a recovery and gain five extra hit points per point of your Wisdom modifier. If you have the Wild Healer talent, the recoveries are free.
+
+---
 
 ##### Icy Tomb (9th Level)
 
@@ -2278,11 +2738,15 @@ Daily
 
 _Natural even miss:_ You regain the spell slot at the end of the battle.
 
+---
+
 #### Koru Behemoth
 
 ##### Adventurer Feat
 
 You gain the Swatch of Destruction spell below.
+
+---
 
 ##### Swath of Destruction (Terrain Feat Spell)
 
@@ -2305,6 +2769,8 @@ Once per battle
 | 7th | 10d6 damage |
 | 9th | 15d6 damage |
 
+---
+
 ##### Memory of the Koru (5th Level)
 
 Close-quarters spell
@@ -2313,15 +2779,21 @@ Daily
 
 **Effect:** You dig into the memory of the Koru to receive visions of places along its path. Note that a Koru will only pass any place once per year, so the image you receive will always be the same season. It will not show specific events, unless they happened right before the Koru’s eyes and were impressive enough to be noticed by a walking landmass. The longer you concentrate on this spell, the further back in history you can go. In an hour, you can span a century, and in a full day of concentration, you will be able to cover an entire age. If you are planning to scry into past ages, make sure you give yourself enough time for uninterrupted meditation. You can take breaks to eat or sleep, but strenuous activity like combat will throw your mind off and you need to start again.
 
+---
+
 #### Mountains
 
 ##### Adventurer Feat
 
 You gain the Earthen Grasp spell below.
 
+---
+
 ##### Champion Feat
 
 You gain the Rockslide spell below.
+
+---
 
 ##### Earthen Grasp (Terrain Feat Spell)
 
@@ -2344,9 +2816,13 @@ Once per battle
 | 7th | 10d8 damage |
 | 9th | 15d8 damage |
 
+---
+
 ##### Adventurer Feat
 
 When you hit a group of mooks with this spell, treat them as one target for the stuck effect.
+
+---
 
 ##### Rockslide (Terrain Feat Spell)
 
@@ -2371,6 +2847,8 @@ _Reckless miss:_ Your allies engaged with the target take damage equal to twice 
 | 7th | 12d4 damage |
 | 9th | 2d4 x 10 damage |
 
+---
+
 ##### Earth Strength
 
 Ranged spell
@@ -2394,6 +2872,8 @@ _Staggered target:_ The target can heal using a recovery.
 | 7th | A staggered target can heal using a free recovery instead. |
 | 9th | The spell targets two random nearby allies instead of one. |
 
+---
+
 ##### Summon Mountain Monster (1st Level)
 
 Ranged spell
@@ -2409,6 +2889,8 @@ Daily
 | 7th | Summon a mantikumhar (B 139, 70 hp). |
 | 9th | Summon 1d4+1 parasitic lightning beetle mooks (B 164, 35 hp). |
 
+---
+
 ##### Summon Earth Elemental (3rd Level)
 
 Ranged spell
@@ -2422,6 +2904,8 @@ Daily
 | 5th | You now summon a 5th level earth elemental (26 hp). |
 | 7th | You now summon a 7th level big earth elemental (44 hp). |
 | 9th | You now summon a 9th level epic earth elemental (70 hp). |
+
+---
 
 ##### Thin Air (5th Level)
 
@@ -2444,6 +2928,8 @@ _Thin air:_ The target takes damage equal to its level whenever it takes an acti
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
+---
+
 ##### Immovable Mountain (9th Level)
 
 Close-quarters spell
@@ -2455,6 +2941,8 @@ Quick action
 **Target:** You or a willing nearby ally
 
 **Effect:** Until the start of your next turn, the target can’t take actions, it is immune to all damage except psychic damage, and it can‘t be moved from its position.
+
+---
 
 ##### Wall of Stone (9th Level)
 
@@ -2468,15 +2956,21 @@ You, the spellcasting druid, can move through the wall at will, but you can't en
 
 The wall isn't permanent: walls of stone generally disappear at sunrise or sunset.
 
+---
+
 #### Ocean, Island
 
 ##### Adventurer Feat
 
 You gain the Tidal Wave spell below.
 
+---
+
 ##### Champion Feat
 
 You can breathe under water for one hour per point of Constitution modifier (minimum 1).
+
+---
 
 ##### Tidal Wave (Terrain Feat Spell)
 
@@ -2499,6 +2993,8 @@ Once per battle
 | 7th | 7d12 damage |
 | 9th | 10d12 damage |
 
+---
+
 ##### Deeper Waters (1st Level)
 
 Ranged spell
@@ -2520,6 +3016,8 @@ At-Will
 | 7th | 6d10 damage. |
 | 9th | 8d10 damage. |
 
+---
+
 ##### Sea Legs (1st Level)
 
 Ranged spell
@@ -2532,6 +3030,8 @@ Quick action
 
 **Effect:** Until the end of the battle, the target gains secure footing on any surface, no matter how wildly it is shaking. It also gains advantage on disengage checks.
 
+---
+
 ##### Slippery Surface (1st Level)
 
 Ranged spell
@@ -2543,6 +3043,8 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 5th | Enemies who try to engage you must succeed at a disengage check to do so. On a failure, the enemy does not engage you, and the move action is lost. |
+
+---
 
 ##### Summon Sea Scallywags (1st Level)
 
@@ -2558,6 +3060,8 @@ Daily
 | 5th | Summon a 1d3 iron sea sharks (B 188, 25 hp). |
 | 7th | Summon a kelpling (B2 199, 75 hp). |
 | 9th | Summon a nix (B2 200, 100 hp). |
+
+---
 
 ##### Water Breathing (1st Level)
 
@@ -2576,6 +3080,8 @@ Quick action to cast
 | 7th | The effect lasts for about ten hours. |
 | 9th | The effect lasts until your next full heal-up. |
 
+---
+
 ##### Smooth Sailing (3rd Level)
 
 Ranged spell
@@ -2583,6 +3089,8 @@ Ranged spell
 Daily
 
 **Effect:** You calm the seas around the ship you are on. Until the end of the scene, the sea is calm and a strong but steady wind pushes the ship in the direction you are planning to sail.
+
+---
 
 ##### Summon Water Elemental (3rd Level)
 
@@ -2597,6 +3105,8 @@ Daily
 | 5th | You summon a 5th level water elemental (30 hp). |
 | 7th | You summon a 7th level big water elemental (45 hp). |
 | 9th | You summon a 9th level epic water elemental (80 hp). |
+
+---
 
 ##### Visions of Drowning (5th Level)
 
@@ -2619,6 +3129,8 @@ _Natural 18+:_ The target takes double ongoing damage and starts making last gas
 | 7th | 7d10 damage and 30 ongoing |
 | 9th | 10d10 damage and 50 ongoing |
 
+---
+
 ##### Endless Swarm of Fish (7th Level)
 
 Ranged spell
@@ -2628,6 +3140,8 @@ Daily
 _Special:_ You must be under water to cast this spell.
 
 **Effect:** You call a giant fish swarm to surround you and copy your movements. Until the end of the battle, you have advantage on disengage checks, while enemies have disadvantage to attack you or to disengage from you.
+
+---
 
 ##### Maelstrom (9th Level)
 
@@ -2641,6 +3155,8 @@ _Special:_ You must be at sea to cast this spell.
 
 The ship you are on is immune to the effect. PCs steering other ships can make a hard skill check to escape.
 
+---
+
 ##### Tsunami (9th Level)
 
 Ranged spell
@@ -2651,11 +3167,15 @@ Daily
 
 The wave deals 6d12 damage to enemies and 2d12 damage to allies. Creatures must succeed at a save or be washed away to a far away location. The save difficulty is easy (6+) for all allies and huge enemy creatures, hard (16+) for mooks and small creatures and normal (11+) for everyone else.
 
+---
+
 #### Plains, Overworld
 
 ##### Adventurer Feat
 
 You gain the Flash of Lightning spell below.
+
+---
 
 ##### Flash of Lightning (Terrain Feat Spell)
 
@@ -2680,9 +3200,13 @@ Once per battle
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
+---
+
 ##### Adventurer Feat
 
 You can cast this spell as an interrupt action. If you do, only target one nearby enemy.
+
+---
 
 ##### Gust (1st Level)
 
@@ -2707,6 +3231,8 @@ Daily
 | 7th | 10d10 damage and 10 ongoing cold damage, and you gain _flight_ until the end of the battle. |
 | 9th | 2d8 x 10 damage, and 15 ongoing cold damage. |
 
+---
+
 ##### Sleet Storm (1st Level)
 
 Ranged spell
@@ -2730,6 +3256,8 @@ _Second Miss:_ —
 | 7th | 11d8 damage |
 | 9th | 16d8 damage |
 
+---
+
 ##### Summon Plains Peon (1st Level)
 
 Ranged spell
@@ -2745,6 +3273,8 @@ Daily
 | 7th | Summon a bulette (CB 208, 70 hp). |
 | 9th | Summon a wyvern (CB 250, 100 hp). |
 
+---
+
 ##### Plain Sight (3rd Level)
 
 Ranged spell
@@ -2752,6 +3282,8 @@ Ranged spell
 Daily
 
 **Effect:** Remove all effects that hinder vision from the battlefield, such as fog or invisibility. Until the end of the battle, you and all nearby allies can target far away enemies with ranged attacks that target nearby enemies.
+
+---
 
 ##### Summon Air Elemental (3rd level)
 
@@ -2766,6 +3298,8 @@ Daily
 | 5th | You now summon a 5th level air elemental (33 hp). |
 | 7th | You now summon a 7th level big air elemental (47 hp). |
 | 9th | You now summon a 9th level epic air elemental (85 hp). |
+
+---
 
 ##### Whirlwind (3rd Level)
 
@@ -2789,6 +3323,8 @@ Daily
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
+---
+
 ##### Lightning Strikes (7th Level)
 
 Ranged spell
@@ -2808,6 +3344,8 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 10d12 damage; 25 miss damage. |
+
+---
 
 ##### Tornado (7th Level)
 
@@ -2829,11 +3367,15 @@ _Natural even miss:_ The target pops free from all enemies.
 | --- | --- |
 | 9th | 2d6 x 10 damage; 1d4 x 10 on a miss |
 
+---
+
 #### Ruins
 
 ##### Adventurer Feat
 
 You gain the Demoralizing Dread spell below.
+
+---
 
 ###### Demoralizing Dread (Terrain Feat Spell)
 
@@ -2858,6 +3400,8 @@ _Natural even hit:_ The target is dazed until the end of your next turn. If it m
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
+---
+
 ##### Stones Tell Stories (1st Level)
 
 Ranged spell
@@ -2865,6 +3409,8 @@ Ranged spell
 Daily
 
 **Effect:** You learn bits and pieces about the history of the place you are in, before it fell to ruins. Until your next full heal-up, you have a temporary 5-point History skill check bonus about the place.
+
+---
 
 ##### Summon Ruins Rascals (1st Level)
 
@@ -2881,6 +3427,8 @@ Daily
 | 7th | Summon a hellstone gargoyle (B2 139). |
 | 9th | Summon a gelatinous cube. |
 
+---
+
 ##### Structural Collapse (3rd Level)
 
 Ranged spell
@@ -2888,6 +3436,8 @@ Ranged spell
 Daily
 
 **Effect:** You cause a nearby structure to fall apart. Its main use is to change the terrain in some favorable way, such as to create a breach in a wall to squeeze through, to destroy a bridge or collapse a tunnel to hinder pursuers etc. While this can harm creatures caught in the effect, the spell is usually too slow for combat use and allows targets to dodge it easily. (GMs can use 1d8 per level as a rough damage guidance if necessary.)
+
+---
 
 ##### Downfall (5th Level)
 
@@ -2902,6 +3452,8 @@ Daily
 **Hit:** The target takes the escalation die as a penalty to attack rolls instead of a bonus, even if it doesn‘t normally use the escalation die (save ends).
 
 **Miss:** Psychic damage equal to the escalation die
+
+---
 
 ##### Lifeless Decay (7th Level)
 
@@ -2921,11 +3473,15 @@ Daily
 | --- | --- |
 | 9th | 15d6 damage and 50 ongoing damage |
 
+---
+
 #### Swamp, Lake, River
 
 ##### Adventurer Feat
 
 You gain the Foul Evaporation spell below.
+
+---
 
 ##### Foul Evaporation (Terrain Feat Spell)
 
@@ -2949,6 +3505,8 @@ _Natural even hit:_ 5 ongoing poison damage
 | 5th | 5d10 damage; 15 ongoing |
 | 7th | 7d10 damage; 25 ongoing |
 | 9th | 10d10 damage; 40 ongoing |
+
+---
 
 ##### Sinkhole Trap (1st Level)
 
@@ -2977,6 +3535,8 @@ Trigger: A nearby enemy hits you with an attack (but not a critical hit).
 | 7th | 7d12 damage |
 | 9th | 10d12 damage |
 
+---
+
 ##### Summon Swamp Creature (1st Level)
 
 Ranged spell
@@ -2992,6 +3552,8 @@ Daily
 | 7th | Summon a stalker (B2 272, 70 hp). |
 | 9th | Summon a tyrant lizard (B2 272, 100 hp). |
 
+---
+
 ##### Refreshing Waters (3rd Level)
 
 Ranged spell
@@ -3004,6 +3566,8 @@ Quick action
 
 **Effect:** Remove “save ends” effect from the target and grant 5 temporary hit points per spell level.
 
+---
+
 ##### Will O‘Wisps (3rd Level)
 
 Ranged spell
@@ -3011,6 +3575,8 @@ Ranged spell
 Daily
 
 **Effect:** You create a group of floating lights that hypnotize creatures and cause them to follow. This can lure them into traps, ambushes, or natural hazards. Creatures who see the wisps must succeed at a save to avoid the effect. The save is normal difficulty (11+) if a creature’s MD is higher than their PD, otherwise it is hard (16+). In battle, saves are made at the end of a creature’s turn as usual. Out of battle, a creature can make a save every minute or so. Once a creature saves, the spell no longer affects it. The wisps stay for about ten minutes per spell level.
+
+---
 
 ##### Fog Bank (5th Level)
 
@@ -3026,6 +3592,8 @@ Daily
 | --- | --- |
 | 9th | You can now choose which creatures in the battle the spell targets. |
 
+---
+
 ##### Swallow (9th Level)
 
 Ranged spell
@@ -3040,15 +3608,21 @@ Quick action
 
 **Hit:** The target is swallowed by the ground and removed from the battlefield. At the end of every turn, the target can make a hard save (16+) if it’s normal sized, normal save (11+) if it’s large, or easy save (6+) if it’s huge. On a success, the target is spit out with half the hit points it had before. If the target fails its fourth save, it is permanently swallowed by the swamp.
 
+---
+
 #### Volcano
 
 ##### Adventurer Feat
 
 You gain the Avenging Flame spell below.
 
+---
+
 ##### Champion Feat
 
 Gain resist fire 16+.
+
+---
 
 ##### Avenging Flame (Terrain Feat Spell)
 
@@ -3075,9 +3649,13 @@ Interrupt action
 | 7th | 8d10 damage |
 | 9th | 10d12 damage |
 
+---
+
 ##### Adventurer Feat
 
 You can use this spell against far away enemies.
+
+---
 
 ##### Flame Spear (1st Level)
 
@@ -3100,6 +3678,8 @@ At-Will
 | 7th | 7d10 damage, 3d10 damage on odd hit. |
 | 9th | 10d10 damage, 4d6 damage on odd hit. |
 
+---
+
 ##### Flame Blade (3rd Level)
 
 Close-quarters spell
@@ -3115,6 +3695,8 @@ Quick action
 | 5th | The blade deals an extra WEAPON damage die on a miss. |
 | 7th | The blade deals two extra WEAPON damage dice on a miss. |
 
+---
+
 ##### Summon Fire Elemental (3rd Level)
 
 Ranged spell
@@ -3128,6 +3710,8 @@ Daily
 | 5th | You can now summon a 5th level fire elemental (33 hp). |
 | 7th | You can now summon a 7th level big fire elemental (48 hp). |
 | 9th | You can now summon a 9th level epic fire elemental (83 hp). |
+
+---
 
 ##### Flame Seeds (5th Level)
 
@@ -3148,6 +3732,8 @@ Daily
 | 7th | 5d12 damage. |
 | 9th | 8d12 damage. |
 
+---
+
 ##### Lava Flow (7th Level)
 
 Ranged spell
@@ -3167,6 +3753,8 @@ Daily
 | High Level | Effect |
 | --- | --- |
 | 9th | 30 damage for stepping into the lava and 40 damage with the attack. |
+
+---
 
 ##### Magma Boulder (7th Level)
 
@@ -3190,11 +3778,15 @@ The boulder can be destroyed by dealing 200 cold damage to it. Attacks always hi
 | --- | --- |
 | 9th | The boulder deals 1d20 x 10 damage. It can take 300 cold damage. |
 
+---
+
 ## Circle of Life
 
 This circle provides powerful healing and support spells to aid your allies. It replaces the Wild Healer talent.
 
 Druids of this circle are known as life druids or simply healers.
+
+---
 
 ### Circle of Life Talents
 
@@ -3202,21 +3794,31 @@ Druids of this circle are known as life druids or simply healers.
 
 Whenever you grant yourself or an ally the use of a recovery to heal, add your Wisdom modifier to the amount healed, twice at 5th level and thrice at 8th level. In case of Regeneration, add the bonus before halving the amount.
 
+---
+
 ##### Adventurer Feat
 
 You gain an extra daily use of the Regeneration spell for each Circle of Life talent you have. This use does not expend a spell slot.
+
+---
 
 ##### Champion Feat
 
 The extra spells granted by the adventurer feat are now Greater Regeneration spells instead.
 
+---
+
 ##### Epic Feat
 
 Increase the healing bonus to 5x your Wisdom modifier.
 
+---
+
 #### Gaia’s Light
 
 You gain the Gaia’s Light at-will spell as a bonus spell. It does not use one of your spell slots.
+
+---
 
 ##### Gaia’s Light
 
@@ -3239,55 +3841,81 @@ At-will
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
+---
+
 ##### Adventurer Feat
 
 Increase the damage dice to d8.
+
+---
 
 ##### Champion Feat
 
 You can target far away enemies.
 
+---
+
 ##### Epic Feat
 
 You can cast this as a close-quarters spell.
+
+---
 
 #### Preserver
 
 While you are nearby and conscious, your allies can add your Wisdom modifier to death saves.
 
+---
+
 ##### Adventurer Feat
 
 When you grant a recovery to a target at zero hit points or below, it heals the maximum amount from the recovery (still halved in case of a Regeneration spell).
+
+---
 
 ##### Champion Feat
 
 The first recovery you grant to an ally at zero hit points or below in a battle is free.
 
+---
+
 ##### Epic Feat
 
 You gain the Cleric’s Resurrection spell as a bonus spell. You are subject to the same restrictions as a cleric.
+
+---
 
 #### Revitalize
 
 When you target an ally with a daily druid spell from any circle, they gain a +2 bonus to their next attack roll. If the spell targets more than one ally, choose one of the targets.
 
+---
+
 ##### Adventurer Feat
 
 You grant the benefit with any druid spell, except at-will spells.
+
+---
 
 ##### Champion Feat
 
 The target also gains a +2 bonus to AC against the next attack that targets that defense.
 
+---
+
 ##### Epic Feat
 
 You grant the benefit to all allies targeted by the spell, instead of just one.
+
+---
 
 ### Circle of Life Spells
 
 As a healer druid, you don’t need to prepare spells. You have a number of spell slots, and you cast your spells from these slots.
 
 If the spell you cast is a daily spell, the spell is expended. If you cast a once-per-battle spell, you regain the spell slot after the battle, and you can cast either the same spell again in that slot, or any other spell, including a daily spell.
+
+---
 
 #### Cycle of Life and Death (1st Level)
 
@@ -3303,9 +3931,13 @@ Once per battle
 
 **Miss:** Poison damage equal to your level
 
+---
+
 ##### Adventurer Feat
 
 On a miss, the healing target can choose to spend a recovery to heal half the amount, and deal half damage.
+
+---
 
 #### Embrace of the Earth Mother (1st Level)
 
@@ -3327,9 +3959,13 @@ _An unconscious ally:_ Gain a +5 bonus to their next death save.
 
 _An enemy:_ Holy damage equal to twice the level of the enemy.
 
+---
+
 ##### Adventurer Feat
 
 A staggered ally heals the full amount of the recovery. Deal three times their level damage to enemies.
+
+---
 
 #### Goodberries (1st Level)
 
@@ -3348,9 +3984,13 @@ _Special:_ You can cast this spell multiple times per day, if you have the spell
 | 5th | 2d8 extra hit points |
 | 9th | 3d8 extra hit points |
 
+---
+
 ##### Adventurer Feat
 
 The berries also end ongoing poison damage.
+
+---
 
 #### Life Balance (1st Level)
 
@@ -3373,9 +4013,13 @@ Daily
 | 7th | 8d8 damage |
 | 9th | 1d4+1 enemies, 10d8 damage |
 
+---
+
 ##### Adventurer Feat
 
 On a natural even hit, the ally heals the full amount.
+
+---
 
 #### Life Shroud (1st Level)
 
@@ -3396,9 +4040,13 @@ Quick action
 | 7th | 20 temporary hit points |
 | 9th | Increase the bonus to +2 even when staggered; 30 temporary hit points |
 
+---
+
 ##### Adventurer Feat
 
 Target 1d4+1 nearby allies.
+
+---
 
 #### Life Prevails (3rd Level)
 
@@ -3418,6 +4066,8 @@ Once-per-battle
 | 7th | 7d10 ongoing damage |
 | 9th | 10d10 ongoing damage |
 
+---
+
 #### Raise Spirits (3rd Level)
 
 Ranged spell
@@ -3430,9 +4080,13 @@ Quick action
 
 **Effect:** Until the end of their next turn, the target has advantage on attack rolls.
 
+---
+
 ##### Adventurer Feat
 
 The target also has advantage on saves.
+
+---
 
 #### Gaia’s Embrace (5th Level)
 
@@ -3446,9 +4100,13 @@ Quick action
 
 **Effect:** Increase the target’s recovery dice to d12s until the end of the battle.
 
+---
+
 ##### Adventurer Feat
 
 The target can reroll natural 1s and 2s on its recovery rolls.
+
+---
 
 #### Life Shell (5th Level)
 
@@ -3467,9 +4125,13 @@ Quick action
 | 7th | +15 temporary hit points; 15 holy damage |
 | 9th | +25 temporary hit points; 25 holy damage |
 
+---
+
 ##### Adventurer Feat
 
 If the escalation die is 2+, you can target an additional target with this spell.
+
+---
 
 #### Healing Circle (7th Level)
 
@@ -3481,6 +4143,8 @@ Daily
 
 **Effect:** Each target can heal using a recovery. If a target is staggered even after using the recovery, it heals back to one point above its staggered value.
 
+---
+
 #### Revitalized Spirits (7th Level)
 
 Ranged spell
@@ -3488,6 +4152,8 @@ Ranged spell
 Daily
 
 **Effect:** Increase the escalation die by 1. Each nearby ally rolls a d6. If the result is lower than the escalation die, the ally can immediately make a basic melee or ranged attack as a free action.
+
+---
 
 #### Life Geas (9th Level)
 
@@ -3501,6 +4167,8 @@ Daily
 
 This spell has to be cast as a ritual (even if you don’t have Ritual Casting). A well-prepared ritual, cast with the right components and at the right time, can allow for a longer duration than a year.
 
+---
+
 #### Waters of Life (9th Level)
 
 Ranged spell
@@ -3513,9 +4181,13 @@ Quick action
 
 **Effect:** Reset the target’s number of failed death saves to zero. They can spend a recovery to heal. Until the end of the battle, the target has resist poison and negative energy 12+. If you are a life adept, increase the resistances to 14+. As a master, increase to 16+.
 
+---
+
 ##### Epic Feat
 
 The target heals double hit points from the recovery.
+
+---
 
 ## Circle of the Moon
 
@@ -3523,19 +4195,27 @@ Moon druids learn how to change shape into different forms of animals. They are 
 
 You learn how to shift your form in two ways: The scout form transforms you into a small, inconspicuous animal for quick reconnaissance of the surrounding area, while the beast form is a fierce, combat-ready form of a big predatory animal.
 
+---
+
 ### Scout Form
 
 You can shift into a small, stealthy animal that is useful for scouting the environment, but too weak for combat. You can shift back and forth between scout and humanoid form as a quick action, at-will, once per round. You also shift back if you take damage.
 
 While in scout form, you gain a temporary skill 1d4+1-points related to your chosen animal form.
 
+---
+
 #### Adventurer Feat
 
 Your temporary animal skill check roll is a 1d6 instead of 1d4 + 1, and count a 1 rolled as a 2.
 
+---
+
 ### Beast Form
 
 In battle, you can use the Beast Form Shift power to assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or giant praying mantis. You also gain the Beast Claws once-per-battle power.
+
+---
 
 #### Beast Form Shift
 
@@ -3553,9 +4233,13 @@ _Spells:_ You cannot speak or cast spells while in beast form (but see the adven
 
 _Shifting back:_ You can return to humanoid form as a quick action.
 
+---
+
 ##### Adventurer Feat
 
 You can speak in a growling voice and cast spells while in beast form.
+
+---
 
 #### Beast Claws
 
@@ -3573,13 +4257,19 @@ _Natural Odd Hit:_ 1d6 damage per level + Strength or Dexterity damage
 
 _Special:_ You must be in beast form to use this power. If you have flexible attacks from the Circle of War, you can trigger them with the first attack roll, but not the second.
 
+---
+
 ##### Adventurer Feat
 
 Your second beast form attack (the one you roll when the first attack misses) now deals miss damage equal to your level.
 
+---
+
 ##### Champion Feat
 
 You can now trigger flexible attacks with the second attack roll.
+
+---
 
 ### Beast Aspects
 
@@ -3590,6 +4280,8 @@ You can only have one beast aspect active at a time. Activating a beast aspect e
 _Initiate:_ Beast aspects are daily powers for you. When activating an aspect, you gain the initiate effect.
 
 _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activating an aspect, you gain the adept effect.
+
+---
 
 ### Circle of the Moon Talents
 
@@ -3603,25 +4295,37 @@ _Normal success:_ You gain a +4 bonus to initiative this battle.
 
 _Hard success:_ As a free action at some point during the battle, you can grant one of your allies a reroll on an attack roll or save. That ally must take the new result.
 
+---
+
 ##### Adventurer Feat
 
 A normal success with your combat recon skill check also grants your allies a +2 bonus to initiative this battle.
+
+---
 
 ##### Champion Feat
 
 Rerolls from your combat recon exploits gain a +2 bonus.
 
+---
+
 ##### Epic Feat
 
 You now get two benefits instead of one when you succeed at a ridiculously hard skill check with your scout form.
+
+---
 
 #### Relentless Fury
 
 While in beast form, you can use the Beast Claws attack power of this circle at-will instead of once per battle.
 
+---
+
 #### Shake It Off
 
 You gain the Shake it Off power below.
+
+---
 
 ##### Shake it Off
 
@@ -3636,57 +4340,85 @@ Trigger: You take damage.
 
 **Effect:** You end an active beast aspect power and then take only 1d6 damage (5th level: 3d6; 8th level: 6d6) from the triggering attack. You still suffer any other effects of the attack (including ongoing damage).
 
+---
+
 ##### Adventurer Feat
 
 You also ignore any effects from the attack.
+
+---
 
 ##### Champion Feat
 
 If you shake off the damage of a melee attack, you can make a melee attack against your attacker as an interrupt action.
 
+---
+
 ##### Epic Feat
 
 You can use Shake it Off once per battle.
+
+---
 
 #### Spiritual Blessing
 
 When you activate a beast aspect, you can grant the benefit to a nearby ally instead of yourself. You don’t need to be in beast form to do so. Allies can only be subject to one aspect at a time.
 
+---
+
 ##### Adventurer Feat
 
 Allies you target with an aspect also gain temporary hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th.
+
+---
 
 ##### Champion Feat
 
 Once per day, when activating a beast aspect, you can grant the benefit to both yourself and one ally.
 
+---
+
 ##### Epic Feat
 
 When you grant a beast aspect to an ally, that aspect is Recharge 16+ after battle for initiates and 11+ for adepts and masters.
+
+---
 
 #### Thicker Fur
 
 While in Beast Form, your base AC in light or no armor is 12.
 
+---
+
 ##### Adventurer Feat
 
 The first time you enter beast form in a battle, make a free recovery roll, and gain temporary hit points equal to the amount.
+
+---
 
 ##### Champion Feat
 
 Gain a +1 bonus to PD while in Beast Form.
 
+---
+
 ##### Epic Feat
 
 When you rally while in beast form, heal hit points equal to twice your recovery roll.
+
+---
 
 #### Twin Aspects
 
 You can have two adventurer tier beast aspects active on yourself at the same time. If you start using an additional aspect, one previous aspect of your choice ends.
 
+---
+
 ##### Adventurer Feat
 
 You can have three adventurer tier beast aspects active at the same time.
+
+---
 
 #### Beast Aspects
 
@@ -3702,6 +4434,8 @@ Shifting out of beast form to humanoid form prevents a beast aspect from having 
 
 _**Appearances:**_ The names of the aspects are a guide to what you might look like when channeling that beast, but it's also possible to decide that your usual beast form is, for example, wolf-like, and that using bear aspect or behemoth aspect merely adds bear-like or behemoth-like qualities to your standard wolf-shape.
 
+---
+
 ##### Air Elemental Aspect
 
 Beast aspect
@@ -3714,17 +4448,25 @@ _Initiate effect:_ Until the end of the battle, you gain resist non-spell damage
 
 _Adept effect:_ As the initiate effect, and while you are not staggered, you gain the ability to fly. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. If you are staggered, you must have solid ground under your feet at the end of your turn or start falling.
 
+---
+
 ##### Adventurer Feat
 
 Until the end of the battle, on a natural odd hit with a melee attack, the target pops free from you.
+
+---
 
 ##### Champion Feat
 
 Until the end of the battle, if your first natural roll for a melee attack is an even hit, you can repeat the attack against a different target.
 
+---
+
 ##### Epic Feat
 
 Your melee attacks attack the lower of AC and PD.
+
+---
 
 ##### Bear Aspect
 
@@ -3738,17 +4480,25 @@ Quick action
 
 **Adept Effect:** As the initiate effect, and when you first shift into this aspect, roll your recovery dice as if you were healing, but you instead gain that many temporary hit points. You don't spend a recovery.
 
+---
+
 ###### Adventurer Feat
 
 The initiate effect's attack bonus is now +4 instead of +2.
+
+---
 
 ###### Champion Feat
 
 Adepts also gain a +2 AC bonus while using this aspect.
 
+---
+
 ###### Epic Feat
 
 Until the first time it recharges each day, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+
+---
 
 ##### Behemoth Aspect
 
@@ -3766,17 +4516,25 @@ _Endurance:_ You can heal using a recovery.
 
 _Wrath:_ Begin rolling 2d20 for each of your melee attacks and choose the result you prefer until the end of the battle or until you make both rolls for a melee attack and each roll is a natural 10 or less.
 
+---
+
 ###### Adventurer Feat
 
 The recovery from the adept's _endurance_ effect is now free.
+
+---
 
 ###### Champion Feat
 
 For adepts, the bonus to AC and PD is now +3 instead of +2.
 
+---
+
 ###### Epic Feat
 
 The save that determines the adept's benefit(s) is now a normal save.
+
+---
 
 ##### Blight Horror Aspect
 
@@ -3794,6 +4552,8 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Hit:** Psychic damage equal to your level, and the target is struck with fear (-4 to attacks and can’t use the escalation die, save ends). Enemies with a fear aura are immune to this.
 
+---
+
 ##### Earth Elemental Aspect
 
 Beast aspect
@@ -3806,17 +4566,25 @@ _Initiate effect:_ Until the end of the battle, you gain AC +1 and PD +1. Enemie
 
 _Adept effect:_ As the initiate effect, but AC +2 and PD +2. Staggered enemies also take a -5 penalty to disengage from you.
 
+---
+
 ##### Adventurer Feat
 
 If you spend a recovery to heal while in this aspect, gain a bonus recovery die (two at 5th level, three at 8th).
+
+---
 
 ##### Champion Feat
 
 When you are targeted by an attack with a natural roll of 10 or less, you can spend a recovery to heal before taking damage from the attack.
 
+---
+
 ##### Epic Feat
 
 Increase the AC and PD bonus to +3.
+
+---
 
 ##### Fire Elemental Aspect
 
@@ -3830,17 +4598,25 @@ _Initiate effect:_ Until the end of the battle, you gain resist fire 12+ and you
 
 _Adept effect:_ As the initiate effect, but resist fire 16+ and three times your level ongoing damage.
 
+---
+
 ##### Adventurer Feat
 
 Increase the fire resistance by 2.
+
+---
 
 ##### Champion Feat
 
 When an enemy makes a natural odd melee attack roll against you, that attacker takes two times your level in fire damage.
 
+---
+
 ##### Epic Feat
 
 Until the end of the battle, enemies that taking ongoing fire damage are vulnerable to your attacks.
+
+---
 
 ##### Firefox Aspect
 
@@ -3854,13 +4630,19 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, roll 1d6 at the start of your turn. If the result is equal to the escalation die or lower, you can make a melee basic attack as a quick action once this turn. This attack deals fire damage.
 
+---
+
 ##### Adventurer Feat
 
 If the d6 roll is higher than the escalation die, deal twice your level in fire damage to all enemies you are engaged with, and you have a +2 bonus to disengage checks this turn.
 
+---
+
 ##### Epic Feat
 
 If your quick action attack hits, you gain a +2 bonus to attack rolls against the target this turn.
+
+---
 
 ##### Giant Spider Aspect
 
@@ -3880,13 +4662,19 @@ _Natural Even **Hit:_** The target is hampered until the end of your next turn.
 
 _Natural Odd **Hit:_** The target is stuck until the end of your next turn.
 
+---
+
 ##### Adventurer Feat
 
 If you hit a hampered or stuck target with a melee attack, deal 10 (8th level: 20) ongoing poison damage to them.
 
+---
+
 ##### Epic Feat
 
 If the target has 150 hp (10th level: 250 hp) or less after taking damage, the hampered / stuck effect is “save ends”.
+
+---
 
 ##### Leopard Aspect
 
@@ -3900,6 +4688,8 @@ Quick action
 
 **Adept Effect:** As the initiate effect, and you gain a +2 bonus to AC. You also gain a +5 bonus to disengage checks and to saves against being stuck, dazed, or stunned.
 
+---
+
 ##### Mantis Aspect
 
 Beast aspect
@@ -3912,17 +4702,25 @@ Quick action
 
 **Adept Effect:** As the initiate effect, and you gain a +1d3 bonus to AC and a +1d3 bonus to PD (two separate rolls). Insects are unpredictable.
 
+---
+
 ###### Adventurer Feat
 
 When an enemy attempts to disengage from you while you are using this aspect, it takes a penalty to the check equal to your Strength or Dexterity modifier.
+
+---
 
 ###### Champion Feat
 
 Adept effect bonuses are now d4s instead of d3s.
 
+---
+
 ###### Epic Feat
 
 Until the first time it recharges each day, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+
+---
 
 ##### Owlboar Aspect
 
@@ -3936,17 +4734,25 @@ _Initiate Effect:_ Until the end of the battle, your crit range with melee attac
 
 _Adept Effect:_ As the initiate effect, and you gain a +1 bonus to melee attacks and a +2 bonus to AC and PD.
 
+---
+
 ##### Adventurer Feat
 
 When you score a critical hit, you heal hit points equal to your level + your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).
+
+---
 
 ##### Champion Feat
 
 While you are in this aspect, your critical hits with melee attacks deal triple damage instead of double damage.
 
+---
+
 ##### Epic Feat
 
 Until the first time it recharges each day, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+
+---
 
 ##### Porcupine Aspect
 
@@ -3960,9 +4766,13 @@ _Initiate Effect:_ Until the end of the battle, deal poison damage equal to your
 
 _Adept Effect:_ As the initiate effect, and once per round as a quick action, you can make a Dexterity + Level close-quarters attack against a nearby enemy that deals 1d6 per level poison damage.
 
+---
+
 ##### Adventurer Feat
 
 Add your level to the poison damage.
+
+---
 
 ##### Rock Behemoth Aspect
 
@@ -3976,13 +4786,19 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you have resist physical damage 18+. Ignore any effects from enemy attacks that would cause you to pop free.
 
+---
+
 ##### Adventurer Feat
 
 If the natural attack roll against you is lower than 10, you ignore the attack entirely, including miss damage and non-damage effects.
 
+---
+
 ##### Epic Feat
 
 Enemies cannot force you to pop free from them.
+
+---
 
 ##### Tiger Aspect
 
@@ -3996,17 +4812,25 @@ Quick action
 
 **Adept Effect:** As the initiate effect, and increase the size of your beast form melee attack damage dice by one size (for example, d6s become d8s, and d10s become 12s).
 
+---
+
 ###### Adventurer Feat
 
 You also gain a +2 attack bonus with any attack you reroll while using this aspect.
+
+---
 
 ###### Champion Feat
 
 When you move and then attack an enemy you were not engaged with at the start of your turn, you can reroll your first natural odd attack roll each turn, but must use the reroll. (The initiate effect bonuses don't apply to this reroll.)
 
+---
+
 ###### Epic Feat
 
 Until the first time it recharges each day, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+
+---
 
 ##### Tigershark Aspect
 
@@ -4020,9 +4844,13 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you have advantage on melee attack rolls against staggered enemies.
 
+---
+
 ##### Adventurer Feat
 
 You also have advantage against enemies taking ongoing damage.
+
+---
 
 ##### Unicorn Aspect
 
@@ -4036,13 +4864,19 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th, to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
 
+---
+
 ##### Adventurer Feat
 
 Until the end of the battle, you and all nearby allies gain a +1 bonus to saving throws.
 
+---
+
 ##### Epic Feat
 
 If you score a critical hit with a beast form attack, a nearby ally can heal using a free recovery.
+
+---
 
 ##### Vulture Aspect
 
@@ -4056,13 +4890,19 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you can fly and hover. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. You don’t suffer the attack penalty against staggered enemies. When you reduce an enemy below zero hit points, you can use a recovery to heal.
 
+---
+
 ##### Adventurer Feat
 
 If you fly to engage a normal-sized or smaller target before making an attack, and you hit, you can grab them and carry them into the air.
 
+---
+
 ##### Epic Feat
 
 Gain three bonus recovery dice when you reduce an enemy below 0 hp and use a recovery.
+
+---
 
 ##### Water Elemental Aspect
 
@@ -4076,13 +4916,19 @@ _Initiate Effect:_ You can swim with the agility of a native water creature, and
 
 _Adept Effect:_ As the initiate effect, and you gain a +1 bonus to all attacks and defenses. If you are in contact with a large body of water, at least a pond or a small river, the bonus increases to +2.
 
+---
+
 ##### Adventurer Feat
 
 Double the healing effect.
 
+---
+
 ##### Champion Feat
 
 Until the end of the battle, you gain resist weapon damage 16+.
+
+---
 
 ##### Epic Feat
 
@@ -4090,6 +4936,8 @@ Increase the adept effect bonus to +3 if you are in contact with a large body of
 
 Champion Tier Aspects (New)
 These aspects can only be taken at 5th level or higher, and only if you are an adept or master. They require two aspect slots.
+
+---
 
 ###### Wolverine Aspect
 
@@ -4103,6 +4951,8 @@ Quick action
 
 **Adept Effect:** As the initiate effect, and you gain a +2 bonus to all defenses. You can also rally once this battle as a quick action instead of a standard action.
 
+---
+
 ###### Adventurer Feat
 
 Your extra melee damage while using this aspect increases according to your level:
@@ -4115,29 +4965,43 @@ Your extra melee damage while using this aspect increases according to your leve
 | 8th | +3d6 damage. |
 | 10th | +3d12 damage. |
 
+---
+
 ###### Champion Feat
 
 You can use the damage bonus against an enemy that started the battle with more hit points than you, but no longer does.
+
+---
 
 ###### Epic Feat
 
 Until the first time it recharges each day, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
+---
+
 ##### Adventurer Feat
 
 Targets struck by the fear effect also have disadvantage on checks to disengage from you.
+
+---
 
 ##### Epic Feat
 
 You have advantage on the follow-up attack against mooks and staggered enemies.
 
+---
+
 ## Circle of War
 
 This circle makes you a stronger combatant with melee or ranged weapons, and it provides flexible attacks that are fueled by the power of the wilds. It replaces the Warrior Druid talent.
 
+---
+
 ### Adventurer Feat
 
 If you multiclass, the druid side is considered a “skillful warrior” and does not decrease your WEAPON damage dice.
+
+---
 
 ### Circle of War Talents
 
@@ -4145,81 +5009,121 @@ If you multiclass, the druid side is considered a “skillful warrior” and doe
 
 You gain a fighter maneuver of up to your level -2 (minimum 1) as a bonus maneuver. Like a druid flexible attack, you can use it once per battle and regain it with Ancestral Guidance.
 
+---
+
 ##### Adventurer Feat
 
 The first flexible attack you use each battle is not expended.
+
+---
 
 ##### Champion Feat
 
 Gain a second fighter maneuver of up to your level -4.
 
+---
+
 ##### Epic Feat
 
 Once per battle, after making an attack roll, and you don’t like your maneuver choice for the natural roll, roll a second d20 and choose a maneuver based on that roll instead. Note that this only changes whether the attack was a hit or miss for the purpose of triggering a maneuver, nothing else.
+
+---
 
 #### Archer Druid
 
 You can use warrior circle flexible attacks as flexible ranged attacks instead of melee attacks. In addition, you can use longbows without taking the –2 attack penalty that other druids suffer.
 
+---
+
 ##### Adventurer Feat
 
 When you miss with a ranged weapon attack, deal damage equal to twice your level.
+
+---
 
 ##### Champion Feat
 
 You can cast druid at-will spells that normally only target nearby enemies on far away targets with a -2 penalty to the attack roll.
 
+---
+
 ##### Epic Feat
 
 Once per battle, you can reroll a missed attack with a ranged weapon.
+
+---
 
 #### Clad in Steel
 
 You don’t suffer a -2 penalty to attack rolls for wearing heavy armor, like other druids.
 
+---
+
 ##### Adventurer Feat
 
 Your base hit points are 7 + CON mod instead of 6 + CON mod.
 
+---
+
 ##### Champion Feat
 
 Once per battle, you can rally as a quick action after you hit with a druid melee attack.
+
+---
 
 ##### Epic Feat
 
 Once per battle, when you are hit by an enemy attack against AC, you can halve the damage as a free action.
 
+---
+
 #### Hides and Leathers
 
 Your AC in light armor is 12 instead of 10 like most other druids, and you don’t take opportunity attacks from enemies engaged with you when you cast ranged druid spells.
+
+---
 
 ##### Adventurer Feat
 
 When you use a recovery to heal, add your Wisdom modifier, twice at 5th level and thrice at 8th, to the amount of hp healed.
 
+---
+
 ##### Champion Feat
 
 You gain a bonus to disengage checks equal to the escalation die.
+
+---
 
 ##### Epic Feat
 
 Once per battle, you can rally as a quick action after you hit with a druid melee attack.
 
+---
+
 #### Martial Druid
 
 You can use one-handed 1d8 martial weapons as well as shields without taking the attack penalty that other druids suffer.
+
+---
 
 ##### Adventurer Feat
 
 You can use two-handed d10 martial weapons without attack penalty.
 
+---
+
 ##### Champion Feat
 
 When wielding a two-handed melee weapon, you can reroll natural 1s on the damage die. When wielding a shield, you gain a +1 bonus to PD.
 
+---
+
 ##### Epic Feat
 
 Once per battle, you can reroll a missed attack with a melee weapon.
+
+---
 
 ### Flexible Attacks
 
@@ -4228,6 +5132,8 @@ As a warrior druid, you gain flexible attacks that you can trigger when making a
 However, unlike the fighter, you can use your flexible attacks only once per battle.
 
 You must choose which flexible attacks you know. The number of flexible attacks you gain is determined by your class level and whether you are an initiate, adept or master. You can change the flexible attacks you know when you gain a level.
+
+---
 
 #### 1st Level Maneuvers
 
@@ -4239,9 +5145,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** Until the start of your next turn, you gain a +2 bonus to PD and you take no damage from missed attacks.
 
+---
+
 ###### Adventurer Feat
 
 If you trigger this maneuver when the escalation die is even, it’s not expended.
+
+---
 
 ##### Feral Bite
 
@@ -4258,9 +5168,13 @@ Flexible once-per-battle melee attack
 | 7th | 4d6 damage |
 | 9th | 5d6 damage |
 
+---
+
 ###### Adventurer Feat
 
 Add your Constitution modifier to the extra damage, twice at 5th level and thrice at 8th.
+
+---
 
 #### 3rd Level Maneuvers
 
@@ -4272,9 +5186,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** Until the end of your next turn, enemies that engage you or disengage from you take lightning damage equal to your Wisdom modifier, twice at 5th level and thrice at 8th, plus level. If you have a Circle of the Elements talent, the effect lasts until the end of the battle.
 
+---
+
 ###### Adventurer Feat
 
 Enemies also take the damage if they pop free or teleport away.
+
+---
 
 ##### Nauseating Touch
 
@@ -4284,9 +5202,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** The target takes a -4 penalty to defense against the next attack vs. PD or MD that targets it.
 
+---
+
 ###### Adventurer Feat
 
 You can use this flexible attack at-will.
+
+---
 
 ##### Pack Strike
 
@@ -4298,6 +5220,8 @@ Flexible once-per-battle melee attack
 
 _Champion:_ Your animal companion takes no attack penalty.
 
+---
+
 #### 5th Level Maneuvers
 
 ##### Nature’s Vigor
@@ -4308,9 +5232,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** You can heal using a recovery. Add twice your Wisdom modifier (x3 at 8th level) to the amount healed.
 
+---
+
 ###### Adventurer Feat
 
 A nearby ally heals half the amount. If you are a Circle of Life druid, all nearby allies heal half the amount.
+
+---
 
 ##### Pixie Dance
 
@@ -4320,9 +5248,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** You and a nearby ally switch the enemies you are engaged with. If you are a Feysong druid, also deal extra psychic damage equal to your level.
 
+---
+
 ###### Adventurer Feat
 
 Also gain a +2 bonus to AC and PD until the end of your next turn.
+
+---
 
 ##### Wilting Steel
 
@@ -4332,9 +5264,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** The target is weakened until the end of its next turn. If you have a talent from the Circle of Decay, the effect is “save ends”.
 
+---
+
 ###### Adventurer Feat
 
 You can trigger this attack on a natural 16+.
+
+---
 
 #### 7th Level Maneuvers
 
@@ -4346,9 +5282,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** Deal 1d6 extra cold damage per tier, and if the target has fewer current hit points than your maximum, it is frozen (can’t take actions) until the end of your next turn.
 
+---
+
 ###### Epic Feat
 
 If you trigger this maneuver on a natural 20, the freezing effect is “save ends”.
+
+---
 
 ##### Pixie Punch
 
@@ -4358,9 +5298,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** Until the end of your next turn, the enemy loses any ability that makes it harder to hit, such as invisibility.
 
+---
+
 ###### Adventurer Feat
 
 If you are a Feysong druid, it is also unable to trigger any ability that triggers on even rolls.
+
+---
 
 ##### Striding Strike
 
@@ -4370,9 +5314,13 @@ Flexible once-per-battle melee attack
 
 **Effect:** Teleport to a nearby location after making the attack. If you have the terrain caster talent, you can heal using a recovery.
 
+---
+
 ###### Epic Feat
 
 Heal 5 extra hit points per point of escalation die.
+
+---
 
 #### 9th Level Maneuvers
 
@@ -4384,6 +5332,8 @@ Flexible once-per-battle melee attack
 
 **Effect:** You throw the target into a time loop, from where it is unable to interfere in the battle. Remove it from the battlefield (hard save 16+ ends).
 
+---
+
 ##### Pounce
 
 Flexible once-per-battle melee attack
@@ -4391,6 +5341,8 @@ Flexible once-per-battle melee attack
 **Triggering Roll:** Natural even hit
 
 **Effect:** Make a second melee attack against the same enemy as a free action, with a -4 penalty to the attack. If you have an active beast aspect, you take no attack penalty. The second attack cannot trigger flexible attacks.
+
+---
 
 ###### Epic Feat
 

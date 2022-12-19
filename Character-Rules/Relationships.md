@@ -17,6 +17,8 @@ Advantages are the benefits your character receives in a positive relationship. 
 
 Players work with their GM to determine how advantages scale with more positive relationship points. Relationship points are gained through roleplay and story, as well as advancing to champion and epic tier.
 
+---
+
 ### Advantage Examples
 
 | Benefit | 1 PTS | 2 PTS | 3 PTS | 4 PTS | 5 PTS | Example |

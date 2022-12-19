@@ -5,20 +5,6 @@ layout: doc
 
 There are two types of magic item. True magic items are permanent magic items used as loot during adventures and rewards for success. One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See Loot: Treasure Rewards for notes on the wealth successful characters earn each adventure.)
 
-## Table of Contents  <!-- omit in toc -->
-
-- [Magic Items](#magic-items)
-  - [One-Use Items](#one-use-items)
-  - [True Magic Items](#true-magic-items)
-    - [Magic Item Personalities \& Quirks](#magic-item-personalities--quirks)
-  - [Chakras](#chakras)
-    - [One Size Fits](#one-size-fits)
-  - [Magic Item Basics](#magic-item-basics)
-    - [Default Bonuses](#default-bonuses)
-    - [Magic Item Powers](#magic-item-powers)
-    - [Useful Magic Items by Class](#useful-magic-items-by-class)
-  - [Artifacts](#artifacts)
-
 ## One-Use Items
 
 The common types of one-use items include potions, oils, and runes.
@@ -26,6 +12,8 @@ The common types of one-use items include potions, oils, and runes.
 ## True Magic Items
 
 Magic items are permanently enchanted objects. You can find them during an adventure or receive them as gifts and rewards from NPCs, but you'll seldom find anyone willing to sell one.
+
+---
 
 ### Magic Item Personalities & Quirks
 
@@ -38,6 +26,8 @@ As an adventuring hero, you can handle a number of true magic items equal to you
 If you are carrying and wielding a number of items that is equal to or lower than your current level, the magic item personality quirks will tug at you, giving you sudden urges and desires that will feel natural to give in to. But you'll be in charge.
 
 If you are carrying and wielding a number of items that is greater than your current level, the magic item personality quirks are going to have more power over you. You're no longer running the show; instead, the magic items are, to some extent, running you. Herein lies a roleplaying challenge for the player and the GM.
+
+---
 
 ## Chakras
 
@@ -63,17 +53,25 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 | Weapon, ranged | Attack and damage (using the weapon) |
 | Wondrous item | No default. Anything goes |
 
+---
+
 ### One Size Fits
 
 Magic items shape themselves to suit the person who has given them their chakra.
+
+---
 
 ## Magic Item Basics
 
 Some magic items are available at any level, with greater bonuses or other effects for champion- and epic-tier versions. Others can be found only at champion or epic levels.
 
+---
+
 ### Default Bonuses
 
 Default Bonuses are on unless they specify otherwise. Magic necklaces have the only default bonus that is defined as provisional, a save bonus that kicks in when your hit points are low.
+
+---
 
 ### Magic Item Powers
 
@@ -82,6 +80,8 @@ Unless otherwise specified, magic item powers with a recharge chance have to be 
 Magic item powers that do not specify a recharge chance or a specific usage pattern have powers that are always available.
 
 The majority of magic item powers list a recharge number (6+, 11+, or 16+). You can count on using a recharge power once a day, but subsequent uses depend on successful recharge rolls. After the battle in which you've used an item's power, roll a d20. If your roll equals or exceeds the recharge number for that item, you can use that item power again that day. If the roll fails, the item power is expended until you take a full heal-up.
+
+---
 
 ### Useful Magic Items by Class
 
@@ -102,6 +102,8 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 | Rogue | light weapon, light armor |
 | Sorcerer | wand/staff, shirt (armor) |
 | Wizard | wand/staff, shirt (armor) |
+
+---
 
 ## Artifacts
 

@@ -8,6 +8,8 @@ The majority of treasure reaches the PCs one of two ways (a) as loot from climac
 
 The table below lists the highest amount of gold pieces you should consider awarding to each character in the course of an adventuring day. Rewarding less gold is fine.
 
+---
+
 ### GP per Full Heal-Up
 
 | **PC Level** | **GP per Character** |
@@ -23,9 +25,13 @@ The table below lists the highest amount of gold pieces you should consider awar
 | 9 | 3000 |
 | 10 | 5000 |
 
+---
+
 ### No Math System
 
 Each player rolls a d20 and checks the table below. Results are not cumulative; what you roll is what you get.
+
+---
 
 #### Loot per Heal-Up
 
@@ -36,6 +42,8 @@ Each player rolls a d20 and checks the table below. Results are not cumulative; 
 | 5–10 | One healing potion from PC's tier. |
 | 11–15 | Two potions/oils/runes of PC's choice from PC's tier. |
 | 16–20 | Three potions/oils/runes of PC's choice from PC's tier. |
+
+---
 
 ### Selling Magic Items
 
