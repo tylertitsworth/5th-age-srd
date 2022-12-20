@@ -46,8 +46,6 @@ Sorcerers start with 25gp.
 
 >\*A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
----
-
 ## Level Progression
 
 | **Sorcerer Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** | **Damage Bonus From Ability Score** |
@@ -629,8 +627,6 @@ Your shadow can fetch items and help with chores, similar to a Mage Hand cantrip
 Once per day, as a quick action, you can separate your shadow and have it aid you until the end of the battle as an independent combatant.
 
 Your shadow has the stats, attacks and defenses as below. It acts on your initiative after you, taking a standard action, a move action, and (if applicable) a quick action. It can’t heal. When it drops to 0 hp, it’s destroyed until the next full heal-up. The shadow counts as your ally. Summoning rules don’t apply to it. It benefits from the default bonus of your items for attacks and defenses. It benefits from the escalation die.
-
----
 
 #### Animated Shadow
 
