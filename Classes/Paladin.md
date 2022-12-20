@@ -140,7 +140,7 @@ Gain an additional use of Smite Evil per day.
 
 Deal half of both melee attack and smite extra damage on a miss.
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 Gain a +4 bonus to the attack roll with True Smite.
 
@@ -276,11 +276,11 @@ On a critical hit with a melee attack, you can heal using a recovery.
 
 On a hit, heal hit points equal to the smite extra damage.
 
-####### Champion Feat
+##### Champion Feat
 
 On a hit, end any ongoing damage you are currently taking.
 
-###### Epic Feat
+##### Epic Feat
 
 Also deal the smite extra damage and heal hit points equal to that amount on a miss.
 
@@ -302,11 +302,11 @@ If you drop a non-minion enemy to zero hp with the attack, you create a Crumblin
 | --- | --- |
 | 3rd | You can create a [Skeletal Minion](./Necromancer.md#skeletal-minion) of your level or lower instead. |
 
-###### Adventurer Feat
+##### Adventurer Feat
 
 If you hit with the smite, you can use the necromancer‘s Deathknell talent on the target as a free action, even if you don‘t have that talent.
 
-###### Champion Feat
+##### Champion Feat
 
 If you kill a large or huge creature, the skeleton mook you create has twice the hit points and deals double damage.
 
@@ -324,11 +324,11 @@ On a critical hit with a melee attack, deal 1d6 extra cold damage per level.
 
 On a hit, the target is stuck (save ends).
 
-####### Champion Feat
+##### Champion Feat
 
 The target is also vulnerable to cold (save ends both).
 
-###### Epic Feat
+##### Epic Feat
 
 If the target of your smite power is already stuck or vulnerable to cold, it is frozen (can’t take actions) until the end of your next turn.
 
