@@ -116,8 +116,6 @@ Choose three of the following class talents, or put two talents into Animal Comp
 
 You get an additional ranger class talent at 5th level, and again at 8th level.
 
----
-
 ### Animal Companion
 
 _Special:_ Unlike most class talents, this talent can take up to two ranger class talent slots. Spending one talent makes you an Animal Companion initiate. Spending two makes you an Animal Companion adept.
