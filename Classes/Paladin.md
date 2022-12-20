@@ -136,9 +136,11 @@ Gain an additional use of Smite Evil per day.
 
 #### Champion Feat
 
-**True Smite (Smite Power):** Deal half of both melee attack and smite extra damage on a miss.
+#### True Smite
 
-##### Adventurer Feat
+Deal half of both melee attack and smite extra damage on a miss.
+
+###### Adventurer Feat
 
 Gain a +4 bonus to the attack roll with True Smite.
 
@@ -170,9 +172,11 @@ Once per day, you can use Bastion twice in the same battle.
 
 When you use Bastion now, your ally takes no damage. You still lose hit points equal to half the damage.
 
-**Bastion Smite (Smite Power):** On a hit, gain temporary hit points equal to the smite’s bonus damage roll.
+#### Bastion Smite
 
-#### Adventurer Feat
+On a hit, gain temporary hit points equal to the smite’s bonus damage roll.
+
+##### Adventurer Feat
 
 Gain twice your level in temporary hit points on a miss.
 
@@ -194,9 +198,11 @@ You can now cast the cleric class feature _heal_ spell twice per day.
 
 Choose two cleric spells instead of one.
 
-**Blessed Smite (Smite Power):** On a hit, choose a nearby ally. That ally gains a bonus to their next attack roll equal to your Wisdom or Charisma modifier (whichever is higher).
+#### Blessed Smite
 
-#### Adventurer Feat
+On a hit, choose a nearby ally. That ally gains a bonus to their next attack roll equal to your Wisdom or Charisma modifier (whichever is higher).
+
+##### Adventurer Feat
 
 Gain a bonus equal to your Wisdom or Charisma modifier to the Smite attack roll.
 
@@ -216,7 +222,9 @@ While in a battle that is aligned with your moral convictions, add the convictio
 
 Your conviction die becomes a d8.
 
-**Smite of Conviction (Smite Power):** If you have entered the battle based on your convictions, add your conviction die to the attack roll. In addition, the first time you miss with Smite of Conviction this battle, the smite is not expended.
+#### Smite of Conviction
+
+If you have entered the battle based on your convictions, add your conviction die to the attack roll. In addition, the first time you miss with Smite of Conviction this battle, the smite is not expended.
 
 ---
 
@@ -236,9 +244,7 @@ You gain a necromancer spell as a bonus power, at two levels below your class le
 
 You can choose a second necromancer spell, also at two levels lower than you class level.
 
-For hybrid Paladin / Necromancers with this talent, there is also this special feat:
-
----
+**For hybrid Paladin / Necromancers with this talent, there is also this special feat:**
 
 #### Total Devotion (Adventurer Feat)
 
@@ -266,9 +272,11 @@ Quick action
 
 On a critical hit with a melee attack, you can heal using a recovery.
 
-**Blood Smite (Smite Power):** On a hit, heal hit points equal to the smite extra damage.
+#### Blood Smite
 
-###### Champion Feat
+On a hit, heal hit points equal to the smite extra damage.
+
+####### Champion Feat
 
 On a hit, end any ongoing damage you are currently taking.
 
@@ -286,7 +294,9 @@ Also deal the smite extra damage and heal hit points equal to that amount on a m
 
 Deal the damage to ALL other nearby enemies.
 
-**Raise Minion (Smite Power):** If you drop a non-minion enemy to zero hp with the attack, you create a Crumbling Skeleton mook at the start of your next turn. The mook fights for you according to the summoning rules (p. XX) until the end of the battle, or until it is destroyed.
+#### Raise Minion
+
+If you drop a non-minion enemy to zero hp with the attack, you create a Crumbling Skeleton mook at the start of your next turn. The mook fights for you according to the summoning rules (p. XX) until the end of the battle, or until it is destroyed.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -310,9 +320,11 @@ If you kill a large or huge creature, the skeleton mook you create has twice the
 
 On a critical hit with a melee attack, deal 1d6 extra cold damage per level.
 
-**Frost Smite (Smite Power):** On a hit, the target is stuck (save ends).
+#### Frost Smite
 
-###### Champion Feat
+On a hit, the target is stuck (save ends).
+
+####### Champion Feat
 
 The target is also vulnerable to cold (save ends both).
 
@@ -330,9 +342,11 @@ Choose one of the domains listed in the cleric's class talent list. You gain all
 
 If the domain you choose is designed to help cleric spells and attacks, reinterpret the talent to help your paladin powers. You can use the domain's feats if you wish; reinterpret them similarly if necessary.
 
-**Divine Smite (Smite Power):** Hit or miss, you can use the at-will attack spell associated with your domain as a quick action this turn. If it is a ranged spell, you don’t provoke opportunity attacks with it. This replaces the smite extra damage.
+#### Divine Smite
 
-#### Adventurer Feat
+Hit or miss, you can use the at-will attack spell associated with your domain as a quick action this turn. If it is a ranged spell, you don’t provoke opportunity attacks with it. This replaces the smite extra damage.
+
+##### Adventurer Feat
 
 If you have used the invocation of your domain this battle, gain a +1 bonus to both the smite and the spell attack.
 
@@ -352,9 +366,11 @@ Gain a +1 bonus to attacks against devils and demons.
 
 Gain a +1 bonus to all defenses against devils and demons.
 
-**Smite of Interdiction (Smite Power):** On a hit, the target takes ongoing holy damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
+#### Smite of Interdiction
 
-#### Champion Feat
+On a hit, the target takes ongoing holy damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
+
+##### Champion Feat
 
 When you hit a staggered devil or demon with a natural 16+ on the attack roll, you banish the creature back to the Abyss.
 
@@ -378,9 +394,11 @@ You gain a +1 bonus to all saves except death saves.
 
 Your nearby allies gain a +1 bonus to death saves.
 
-**Courageous Smite (Smite Power):** If you hit an enemy who has a fear aura or a fear-based attack, the target can‘t use that ability (save ends).
+#### Courageous Smite
 
-#### Adventurer Feat
+If you hit an enemy who has a fear aura or a fear-based attack, the target can‘t use that ability (save ends).
+
+##### Adventurer Feat
 
 Deal extra damage equal to the enemy's level
 
@@ -403,9 +421,11 @@ For one battle per day, gain the Crusader’s Boon at the start of your first tu
 
 When you gain the Crusader’s Boon, you can spend a recovery to heal.
 
-**Crusader’s Fist (Smite Power):** If the target has fewer hit points that your maximum after you hit, it is cowering in fear (-4 to attacks and can’t use the escalation die) until the end of your next turn.
+#### Crusader’s Fist
 
-#### Adventurer Feat
+If the target has fewer hit points that your maximum after you hit, it is cowering in fear (-4 to attacks and can’t use the escalation die) until the end of your next turn.
+
+##### Adventurer Feat
 
 Against demons, the fear effect is (save ends).
 
@@ -427,7 +447,9 @@ Choose a second tactic, up to two levels below your class level.
 
 Gain all feats of your two current tactics.
 
-**Glorious Smite (Smite Power):** If you hit, the target has disadvantage on their next attack roll if that attack does not target you.
+#### Glorious Smite
+
+If you hit, the target has disadvantage on their next attack roll if that attack does not target you.
 
 ---
 
@@ -447,7 +469,9 @@ You can cast the Wild Heal spell from the Wild Healer talent twice per day.
 
 Choose either a second flexible attack, a second daily spell from the same terrain, OR a third daily use of Wild Heal.
 
-**Nature’s Smite (Smite Power):** You can trigger your Warrior Druid flexible attack with this smite. If the target is a creature that’s not native to the current terrain, you have advantage on the attack roll, and you can trigger your Warrior Druid flexible maneuver based on either d20 roll.
+#### Nature’s Smite
+
+You can trigger your Warrior Druid flexible attack with this smite. If the target is a creature that’s not native to the current terrain, you have advantage on the attack roll, and you can trigger your Warrior Druid flexible maneuver based on either d20 roll.
 
 ---
 
@@ -469,7 +493,9 @@ Once per day, you can concentrate on a known, named artifact to gain insight int
 
 Increase the damage reduction to your level + 5.
 
-**Hammering Smite (Smite Power):** Reroll all natural 1s and 2s on the damage dice with your Smite Evil. This applies to all damage dice, not just the extra damage.
+#### Hammering Smite
+
+Reroll all natural 1s and 2s on the damage dice with your Smite Evil. This applies to all damage dice, not just the extra damage.
 
 ---
 
@@ -489,9 +515,11 @@ Once during your turn as a free action, you can choose to lose hit points equal 
 
 You gain a +1 bonus to Physical Defense and Mental Defense.
 
-**Conduit Smite (Smite Power):** Choose an effect that you have successfully saved against at the start of your turn (if any). On a hit, impose that effect on the target.
+#### Conduit Smite
 
-#### Adventurer Feat
+Choose an effect that you have successfully saved against at the start of your turn (if any). On a hit, impose that effect on the target.
+
+##### Adventurer Feat
 
 Also gain the effect on a natural even miss.
 
@@ -509,9 +537,11 @@ You gain the Counter-magic ability of the [Wizard’s High Arcana talent](./Wiza
 
 You can now cast Counter-magic twice per battle.
 
-**Inquisitor’s Smite (Smite Power):** On a hit, the target is hampered until the end of your next turn. The target can choose to take damage equal to 10 times your level to shake off the effect.
+#### Inquisitor’s Smite
 
-#### Adventurer Feat
+On a hit, the target is hampered until the end of your next turn. The target can choose to take damage equal to 10 times your level to shake off the effect.
+
+##### Adventurer Feat
 
 On a natural 16+ with Smite Evil, the hampered effect is now “save ends.”
 
@@ -533,9 +563,11 @@ Lay on Hands healing uses a free recovery instead of one of your own.
 
 You can now use Lay on Hands four times per day instead of two.
 
-**Healing Smite (Smite Power):** Spend a recovery to heal, but grant the healing to a nearby ally.
+#### Healing Smite
 
-#### Adventurer Feat
+Spend a recovery to heal, but grant the healing to a nearby ally.
+
+##### Adventurer Feat
 
 If the ally is staggered, they heal additional hit points equal to the smite’s extra damage.
 
@@ -557,9 +589,11 @@ You gain a 5-point skill to represent your excellent academic training. In addit
 
 You gain a +1 bonus to all defenses when defending scholars, tomes of knowledge, or places of learning.
 
-**Smite the Ignorant (Smite Power):** Target the enemy’s MD with your Smite Evil attack roll.
+#### Smite the Ignorant
 
-#### Champion Feat
+Target the enemy’s MD with your Smite Evil attack roll.
+
+##### Champion Feat
 
 If you hit a target with a lower MD than your own, you also daze it (-4 to attacks) until the end of your next turn.
 
@@ -595,9 +629,11 @@ You can have two challenges active at the same time against different enemies.
 
 Enemies you challenge are vulnerable to your attacks.
 
-**Exalted Challenge (Smite Power):** If you use the talent to challenge the target with your Smite Evil attack, the target takes holy damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
+#### Exalted Challenge
 
-#### Adventurer Feat
+If you use the talent to challenge the target with your Smite Evil attack, the target takes holy damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
+
+##### Adventurer Feat
 
 The target also takes the Smite Evil bonus damage if it uses any method to no longer be engaged with you, such as disengage, pop free, or teleporting.
 
@@ -621,9 +657,11 @@ All of your melee and ranged attacks deal holy damage.
 
 You gain an additional relationship point with a heroic or ambiguous relationship.
 
-**Absolving Smite (Smite Power):** On a hit, a nearby ally can save against a “save ends” effect.
+#### Absolving Smite
 
-#### Adventurer Feat
+On a hit, a nearby ally can save against a “save ends” effect.
+
+##### Adventurer Feat
 
 The save has a bonus to the roll equal to your Charisma modifier.
 
@@ -637,9 +675,11 @@ When you hit with a melee attack, add lightning damage equal to your Constitutio
 
 You gain resist lightning and thunder 16+.
 
-**Stormhammer (Smite power):** You can throw your melee weapon to make your Smite Evil attack as a ranged attack against a nearby or far away enemy, using Strength and your melee WEAPON dice. The weapon returns to your hand.
+#### Stormhammer
 
-#### Champion Feat
+You can throw your melee weapon to make your Smite Evil attack as a ranged attack against a nearby or far away enemy, using Strength and your melee WEAPON dice. The weapon returns to your hand.
+
+##### Champion Feat
 
 On a natural even hit, you can teleport to engage the target as a free action.
 
@@ -667,9 +707,11 @@ When one of your Smite Evil attacks drops three or more mooks, it is not expende
 
 You gain an additional relationship point with a villainous or ambiguous relationship.
 
-**Sickening Smite (Smite Power):** On a hit, the target has disadvantage on their next attack roll against you.
+#### Sickening Smite
 
-#### Adventurer Feat
+On a hit, the target has disadvantage on their next attack roll against you.
+
+##### Adventurer Feat
 
 If the target misses with its next attack, it takes ongoing negative energy damage equal to three times your level.
 
@@ -683,7 +725,9 @@ Once per battle, when an enemy you are engaged with makes an attack against one 
 
 You can use this talent at-will (but you are still limited to one interrupt action between your turns).
 
-**Avenging Smite (Smite Power):** If a nearby ally is dying, you have advantage on the attack roll. If both attack rolls hit, the target is stunned until the end of its next turn.
+#### Avenging Smite
+
+If a nearby ally is dying, you have advantage on the attack roll. If both attack rolls hit, the target is stunned until the end of its next turn.
 
 ---
 
@@ -693,9 +737,11 @@ While you are staggered, increase your WEAPON and smite damage dice, as well as 
 
 The first time you are staggered in a battle, you gain advantage on your next melee attack.
 
-**Smite of Suffering (Smite Power):** If you hit, you lose hit points equal to the smite extra damage, and deal ongoing damage to the target equal to the smite extra damage.
+#### Smite of Suffering
 
-#### Champion Feat
+If you hit, you lose hit points equal to the smite extra damage, and deal ongoing damage to the target equal to the smite extra damage.
+
+##### Champion Feat
 
 Also gain the ongoing damage and hit point loss on a miss.
 
@@ -717,7 +763,9 @@ You can use this ability on nearby allies (they no longer have to be next to you
 
 You can expend multiple uses of this talent with the same quick action, and target a number of allies (including yourself) equal to the number of uses spent.
 
-**Cleansing Smite (Smite Power):** On a hit, you cleanse the target. Cleansed targets cannot put effects on enemies or allies (save ends). This also ends any effects that are currently active. The target can still deal damage normally, and they can still use powers that affect themselves, just not other creatures.
+#### Cleansing Smite
+
+On a hit, you cleanse the target. Cleansed targets cannot put effects on enemies or allies (save ends). This also ends any effects that are currently active. The target can still deal damage normally, and they can still use powers that affect themselves, just not other creatures.
 
 ---
 
@@ -729,7 +777,9 @@ Once per battle, when a nearby ally is hit by an attack, you can grant the ally 
 
 If you are engaged with the attacker, the save is an easy save (6+).
 
-**Devoted Smite (Smite Power):** On a hit, gain a free use of Shield of Devotion this battle against the target’s attack against one of your allies.
+#### Devoted Smite
+
+On a hit, gain a free use of Shield of Devotion this battle against the target’s attack against one of your allies.
 
 ---
 
@@ -741,7 +791,9 @@ You gain a +1 bonus to melee attack rolls.
 
 For one battle per day, grant all nearby allies a +1 bonus to melee attack rolls.
 
-**Guiding Smite (Smite Power):** On a hit, the target is vulnerable to your allies’ attacks until the start of your next turn.
+#### Guiding Smite
+
+On a hit, the target is vulnerable to your allies’ attacks until the start of your next turn.
 
 ---
 
@@ -749,9 +801,11 @@ For one battle per day, grant all nearby allies a +1 bonus to melee attack rolls
 
 Once per day, you can summon glowing wings of celestial origin on your back, to allow you to fly until the end of the battle or scene.
 
-**Winged Smite (Smite Power):** When you take the free action to activate Smite Evil, you can fly across the battlefield on ethereal wings to engage a nearby enemy. If you make the attack in mid-air, the wings let you land safely.
+#### Winged Smite
 
-#### Epic Feat
+When you take the free action to activate Smite Evil, you can fly across the battlefield on ethereal wings to engage a nearby enemy. If you make the attack in mid-air, the wings let you land safely.
+
+##### Epic Feat
 
 The wings granted by your smite power last until the end of your next turn.
 
@@ -761,7 +815,9 @@ The wings granted by your smite power last until the end of your next turn.
 
 If an enemy targets you with an attack, that enemy takes negative energy damage equal to 10 + your Charisma modifier. The enemy with the most hit points on the battlefield is immune to the effect.
 
-**Cleaving Smite (Smite Power):** Hit or miss, deal the Smite extra damage to a number of additional nearby enemies equal to your Charisma modifier. Choose targets by their hit point total, starting with the lowest.
+#### Cleaving Smite
+
+Hit or miss, deal the Smite extra damage to a number of additional nearby enemies equal to your Charisma modifier. Choose targets by their hit point total, starting with the lowest.
 
 ---
 
@@ -769,9 +825,11 @@ If an enemy targets you with an attack, that enemy takes negative energy damage 
 
 Enemies engaged with you have automatic disadvantage on all saves, including disengage checks. If they fail a save, they take radiant damage equal to your level.
 
-**Radiant Smite (Smite Power):** On a hit, the target is weakened (-4 to attacks and defenses) until the end of your next turn.
+#### Radiant Smite
 
-#### Epic Feat
+On a hit, the target is weakened (-4 to attacks and defenses) until the end of your next turn.
+
+##### Epic Feat
 
 The weaken effect is “save ends.”
 
@@ -785,4 +843,6 @@ Once per round, when the escalation die is even, you can make a melee basic atta
 
 Once per day, move yourself to the start of the initiative order at the start of a round, after the escalation die is increased.
 
-**Zealous Smite (Smite Power):** Make two Smite Evil attacks against two different enemies you are engaged with.
+#### Zealous Smite
+
+Make two Smite Evil attacks against two different enemies you are engaged with.
