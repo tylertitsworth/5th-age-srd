@@ -141,61 +141,41 @@ You can now start raging freely when the escalation die is 2+.
 
 While you are raging, you can voluntarily end your rage early to use a fury. Make a melee attack and add the fury's effect to the attack. You gain 1 fury every 2 levels rounded down. You can swap a fury for another when you complete a full recovery.
 
----
-
 #### Contagious Rage
 
 Make a melee attack and resolve it normally, then increase the escalation die by +1.
-
----
 
 #### Critical Devastation
 
 If it hits, your melee attack is a critical hit.
 
----
-
 #### Cunning Counter
 
 Resolve the attack normally. The next time this battle you’re hit by someone you’re engaged with, you can immediately interrupt it by making a basic melee attack. If you hit, the enemy’s attack automatically misses.
-
----
 
 #### Cyclone of Blood
 
 Resolve the attack normally. The target pops free from you after the attack and is hampered until the start of your next turn.
 
----
-
 #### Elusive Prey
 
 Resolve the attack normally. For the rest of the battle, missed attacks do no damage to you.
-
----
 
 #### Kill, Crush, Destroy
 
 Resolve the attack normally. For this attack and the rest of the battle, you crit on a 16+ until you’ve delivered three critical hits, at which point your crit range returns to whatever it was before you used this Fury.
 
----
-
 #### Pack Mentality
 
 Resolve the attack normally. For the rest of the battle, you can make a bonus basic melee attack once per round when an ally hits an enemy you’re engaged with. This basic melee attack deals no damage on a miss.
-
----
 
 #### Release the Beast
 
 Resolve the attack normally. Once you’ve done so, break free of any movement-inhibiting spells, effects, or conditions.
 
----
-
 #### Tooth and Nail
 
 Make a basic melee attack, but target the enemy’s PD, not AC. For the rest of the battle, you can target your foes’ PD with your basic melee attacks.
-
----
 
 #### Surprise Savagery
 
