@@ -1,23 +1,23 @@
 ---
 layout: doc
 ---
-# Commander
+# Warlord
 
 ## Ability Scores
 
-Commanders gain a +2 class bonus to Strength or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
+Warlords gain a +2 class bonus to Strength or Charisma, as long as it isn't the same ability you increase with your +2 species bonus.
 
 ## Skills
 
-Commanders get 2 skill points in any Strength or Charisma skill like Endurance, Intimidate, and Streetwise.
+Warlords get 2 skill points in any Strength or Charisma skill like Endurance, Intimidate, and Streetwise.
 
 ## Gear
 
-At 1st level, commanders start with a melee weapon or two, a ranged weapon, a shield, light armor of some type (or heavy armor if they chose the Armor Skills talent), and other minor odds-and-ends suggested by their background.
+At 1st level, warlords start with a melee weapon or two, a ranged weapon, a shield, light armor of some type (or heavy armor if they chose the Armor Skills talent), and other minor odds-and-ends suggested by their background.
 
 ### Gold Pieces
 
-Commanders start with 25gp.
+Warlords start with 25gp.
 
 ### Armor
 
@@ -46,7 +46,7 @@ Commanders start with 25gp.
 
 ## Level Progression
 
-| **Commander Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Commands & Tactics (m)** | **Pool available (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
+| **Warlord Level** | **Total Hit Points** | **Total Feats** | **Class Talents (H)** | **Commands & Tactics (m)** | **Pool available (H)** | **Level-up Ability** | **Damage Bonus From Ability Score** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Level 1 Hybrid** | (Avg. of both classes) x **3** | As 1st level PC | 1 or 2 (3 total) | 3 | 1st level | _Not affected_ | ability modifier |
 | **Level 1** | (7 + CON mod) x **3** | 1 adv | 3 | 4 | 1st level |  | ability modifier |
@@ -110,21 +110,21 @@ At-Will
 
 ## Class Features
 
-All commanders have class features associated with _commands_ and _tactics_.
+All warlords have class features associated with _commands_ and _tactics_.
 
 Commands allow you to help your allies fight better. You issue them as interrupt actions during their turn. To issue a command, the ally must be conscious, but line of sight isn't required.
 
-All commands are at-will powers, though they do cost command points, and are usually limited to once per round (as an interrupt). You start each battle with 1 command point and generally gain more via the two standard commander features: _Fight from the Front_ and _Weigh the Odds_. Excess command points go away at the end of the battle.
+All commands are at-will powers, though they do cost command points, and are usually limited to once per round (as an interrupt). You start each battle with 1 command point and generally gain more via the two standard warlord features: _Fight from the Front_ and _Weigh the Odds_. Excess command points go away at the end of the battle.
 
 Your powers also include tactics that have immediate effect during your turn. Tactics, as opposed to commands, don't use command points. You also don't have to wait around for an ally's turn to use them. However, tactics don't always recharge after a battle.
 
-You can choose the commands and tactics you want to use. A 1st-level commander starts with a total of 4 commands and tactics. An effective commander should choose a good balance of commands and tactics.
+You can choose the commands and tactics you want to use. A 1st-level warlord starts with a total of 4 commands and tactics. An effective warlord should choose a good balance of commands and tactics.
 
 ---
 
 ### Fight from the Front
 
-When you hit with a commander melee attack during your turn, gain 1d3 command points.
+When you hit with a warlord melee attack during your turn, gain 1d3 command points.
 
 #### Adventurer Feat
 
@@ -162,7 +162,7 @@ You now gain 1d6 command points instead of 1d4 when you use this action.
 
 ## Class Talents
 
-Choose three of the following class talents. You get an additional commander talent at 5th level.
+Choose three of the following class talents. You get an additional warlord talent at 5th level.
 
 ### Ambassador
 
@@ -186,7 +186,7 @@ You can use your leverage die as a bonus to a recharge roll for a tactic.
 
 ### Armor Skills
 
-Unlike other commanders, you take no attack penalties for fighting in heavy armor. (As indicated on your class chart, your base AC in heavy armor is 14.)
+Unlike other warlords, you take no attack penalties for fighting in heavy armor. (As indicated on your class chart, your base AC in heavy armor is 14.)
 
 #### Adventurer Feat
 
@@ -260,7 +260,7 @@ You gain the adventurer and champion tier feats, if any, for both your fighter m
 
 When you gain inspiration, you gain 2 bonus command points that last until the end of the current game session.
 
-When you use one or more of these bonus command points, tell a story about how something related to the inspiring moment comes into play to make you a better/luckier/destined commander.
+When you use one or more of these bonus command points, tell a story about how something related to the inspiring moment comes into play to make you a better/luckier/destined warlord.
 
 #### Adventurer Feat
 
@@ -280,7 +280,7 @@ When you gain inspiration, you and each nearby ally gain a +1 bonus to death sav
 
 _Special:_ You cannot take this talent in combination with the Strategist or Tactician talents.
 
-Any time an element of the commander class refers to Charisma, you can replace  it with Constitution. In addition, your base PD is increased to 12, but your base MD is reduced to 10.
+Any time an element of the warlord class refers to Charisma, you can replace  it with Constitution. In addition, your base PD is increased to 12, but your base MD is reduced to 10.
 
 #### Adventurer Feat
 
@@ -334,7 +334,7 @@ The chosen allies now gain both bonuses (+2 to all defenses for the first round 
 
 ### Martial Training
 
-Unlike other commanders, you don't take a –2 attack penalty when fighting with heavy or martial weapons.
+Unlike other warlords, you don't take a –2 attack penalty when fighting with heavy or martial weapons.
 
 #### Adventurer Feat
 
@@ -388,9 +388,9 @@ When you use this talent, you and each of your nearby allies gains a +2 bonus to
 
 ### Roguish Bent
 
-You can use Dexterity instead of Strength for commander attacks with one-handed melee weapons.
+You can use Dexterity instead of Strength for warlord attacks with one-handed melee weapons.
 
-In addition, choose a rogue power of your level or lower as a bonus power. If it’s a momentum power, track momentum like a rogue. Starting from 3rd level, you can switch out a commander power for a rogue power two levels lower.
+In addition, choose a rogue power of your level or lower as a bonus power. If it’s a momentum power, track momentum like a rogue. Starting from 3rd level, you can switch out a warlord power for a rogue power two levels lower.
 
 If the rogue power is a standard action melee attack you use on your turn, you gain command points as if using your Fight from the Front class feature.
 
@@ -428,7 +428,7 @@ You gain a +1 bonus to Fight from the Front ranged attacks against targets that 
 
 ### Strategist
 
-You rely on planning, teamwork, and calm execution of orders as a commander instead of charismatic presence. Any time an element of the commander class refers to Charisma, you can replace that element with a reference to Intelligence.
+You rely on planning, teamwork, and calm execution of orders as a warlord instead of charismatic presence. Any time an element of the warlord class refers to Charisma, you can replace that element with a reference to Intelligence.
 
 In addition, you start every battle with 1 additional command point.
 
@@ -466,7 +466,7 @@ Once per day as a quick action, you can gain command points equal to the number 
 
 ### Tactician
 
-You rely on perception, intuition, and common sense as a commander instead of charismatic presence. Any time an element of the commander class refers to Charisma, you can replace that element with a reference to Wisdom.
+You rely on perception, intuition, and common sense as a warlord instead of charismatic presence. Any time an element of the warlord class refers to Charisma, you can replace that element with a reference to Wisdom.
 
 In addition, one battle per day, you can reroll your initiative if you don't like the first result. You must take the re-rolled result.
 

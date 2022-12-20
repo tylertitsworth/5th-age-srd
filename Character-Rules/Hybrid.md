@@ -55,7 +55,7 @@ Choose one talent from each of your two class choices. Then choose your third ta
 
 ### Bonus talents as part of class progression
 
-If your class gets bonus talents (barbarian, commander, fighter, monk, occultist, paladin, ranger), you still get them, but at one level later than a single-class character does.
+If your class gets bonus talents (barbarian, warlord, fighter, monk, occultist, paladin, ranger), you still get them, but at one level later than a single-class character does.
 
 ---
 
@@ -125,7 +125,7 @@ Use the better weapon attack abilities among your two classes.
 
 ### Weapon damage penalty
 
-Most hybrid characters must drop all of their weapon damage dice down one step. That means d12s become d10s; d10s become d8s; d8s become d6s; d6s become d4s; and d4s stay as d4s. This reduction does **NOT** apply if your hybrid contains _only_ classes from the following list of skillful warriors: barbarian, bard, commander, fighter, paladin, ranger, or rogue.
+Most hybrid characters must drop all of their weapon damage dice down one step. That means d12s become d10s; d10s become d8s; d8s become d6s; d6s become d4s; and d4s stay as d4s. This reduction does **NOT** apply if your hybrid contains _only_ classes from the following list of skillful warriors: barbarian, bard, warlord, fighter, paladin, ranger, or rogue.
 
 If you're one of the many hybrid characters affected by the weapon damage penalty, it applies only to your own attacks, not to the attacks of animal companions, summoned creatures, and the like.
 
@@ -149,33 +149,31 @@ As a 1st level character, you've got all the gear you need from both your classe
 
 The important things to remember in keeping track of the key ability for a hybrid character are a) the key modifier table itself is not affected by any ability score swaps pulled off within class talents, and b) the talents are class elements that are affected by the key ability modifiers.
 
-| | **Barbarian** | **Bard** | **Cleric** | **Commander** | **Druid** | **Fighter** | **Monk** | **Necromancer** | **Occultist** | **Paladin** | **Psion** | **Ranger** | **Rogue** | **Sorcerer** | **Wizard** |
+| | **Barbarian** | **Bard** | **Cleric** | **Druid** | **Fighter** | **Monk** | **Necromancer** | **Occultist** | **Paladin** | **Psion** | **Ranger** | **Rogue** | **Sorcerer** | **Warlord** | **Wizard** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Barbarian** | X | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Con | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Bard** | Str/Cha | X | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Str OR Dex/Cha | Str OR Dex/Cha | Dex/Cha | Str OR Dex | Int/Cha |
-| **Cleric** | Str/Wis | Wis/Cha | X | Wis/Cha |Str/Wis | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str/Wis | Dex/Wis | Wis/Cha | Int/Wis |
-| **Commander** | Str/Cha | Str/Cha | Wis/Cha | X |Wis/Cha | Str/Cha | Str/Dex | Int/Cha | Int/Cha | Str/Cha | Str/Cha | Str/Cha | Dex/Cha | Str/Cha | Int/Cha |
-| **Druid** | Str/Wis | Wis/Cha | Str/Wis | Wis/Cha |X | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str OR Dex/Wis | Dex/Wis | Wis/Cha | Int/Wis |
-| **Fighter** | Str/Con | Str/Cha | Str/Wis | Str/Cha |Str/Wis | X | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Monk** | Str/Dex | Dex/Cha | Dex/Wis | Str/Dex |Dex/Wis | Str/Dex | X | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | Str/Dex | Dex/Cha | Dex/Int |
-| **Necromancer** | Str/Int | Int/Cha | Int/Cha | Int/Cha |Int/Wis | Str/Int | Dex/Int | X | Int/Cha | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Cha |
-| **Occultist** | Str/Int | Int/Cha | Int/Wis | Int/Cha |Int/Wis | Str/Int | Dex/Int | Int/Cha | X | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Wis |
-| **Paladin** | Str/Cha | Str/Cha | Str/Wis | Str/Cha |Str/Wis | Str/Cha | Str/Dex | Str/Int | Str/Int | X | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Int |
-| **Psion** | Str/Cha | Str OR Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | X | Str OR Dex/Cha | Dex/Cha | Con/Cha | Int/Cha |
-| **Ranger** | Str/Dex | Str OR Dex/Cha | Str/Wis | Str/Cha | Str OR Dex/Wis | Str/Dex | Str/Dex | Str OR Dex/Int | Str OR Dex/Int | Str/Dex | Str OR Dex/Cha | X | Str/Dex | Dex/Cha | Dex/Int |
-| **Rogue** | Str/Dex | Dex/Cha | Dex/Wis | Dex/Cha |Dex/Wis | Str/Dex | Str/Dex | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | X | Dex/Cha | Dex/Int |
-| **Sorcerer** | Str/Cha | Dex/Cha | Wis/Cha | Str/Cha |Wis/Cha | Dex/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Con/Cha | Dex/Cha | Dex/Cha | X | Int/Cha |
-| **Wizard** | Str/Int | Int/Cha | Int//Wis | Int/Cha |Int/Wis | Dex/Int | Dex/Int | Int/Cha | Int/Wis | Str/Int | Int/Cha | Dex/Int | Dex/Int | Int/Cha | X |
+| **Barbarian** | X | Str/Cha | Str/Wis | Str/Wis | Str/Con | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Cha | Str/Int |
+| **Bard** | Str/Cha | X | Wis/Cha | Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Str OR Dex/Cha | Str OR Dex/Cha | Dex/Cha | Str OR Dex | Str/Cha | Int/Cha |
+| **Cleric** | Str/Wis | Wis/Cha | X | Str/Wis | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str/Wis | Dex/Wis | Wis/Cha | Wis/Cha | Int/Wis |
+| **Druid** | Str/Wis | Wis/Cha | Str/Wis | X | Str/Wis | Dex/Wis | Int/Wis | Int/Wis | Str/Wis | Wis/Cha | Str OR Dex/Wis | Dex/Wis | Wis/Cha | Wis/Cha | Int/Wis |
+| **Fighter** | Str/Con | Str/Cha | Str/Wis | Str/Wis | X | Str/Dex | Str/Int | Str/Int | Str/Cha | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Cha | Str/Int |
+| **Monk** | Str/Dex | Dex/Cha | Dex/Wis | Dex/Wis | Str/Dex | X | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | Str/Dex | Dex/Cha | Str/Dex | Dex/Int |
+| **Necromancer** | Str/Int | Int/Cha | Int/Cha | Int/Wis | Str/Int | Dex/Int | X | Int/Cha | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Cha | Int/Cha |
+| **Occultist** | Str/Int | Int/Cha | Int/Wis | Int/Wis | Str/Int | Dex/Int | Int/Cha | X | Str/Int | Int/Cha | Str OR Dex/Int | Dex/Int | Int/Cha | Int/Cha | Int/Wis |
+| **Paladin** | Str/Cha | Str/Cha | Str/Wis | Str/Wis | Str/Cha | Str/Dex | Str/Int | Str/Int | X | Str/Cha | Str/Dex | Str/Dex | Str/Cha | Str/Cha | Str/Int |
+| **Psion** | Str/Cha | Str OR Dex/Cha | Wis/Cha | Wis/Cha | Str/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | X | Str OR Dex/Cha | Dex/Cha | Con/Cha | Str/Cha | Int/Cha |
+| **Ranger** | Str/Dex | Str OR Dex/Cha | Str/Wis | Str OR Dex/Wis | Str/Dex | Str/Dex | Str OR Dex/Int | Str OR Dex/Int | Str/Dex | Str OR Dex/Cha | X | Str/Dex | Dex/Cha | Str/Cha | Dex/Int |
+| **Rogue** | Str/Dex | Dex/Cha | Dex/Wis | Dex/Wis | Str/Dex | Str/Dex | Dex/Int | Dex/Int | Str/Dex | Dex/Cha | Str/Dex | X | Dex/Cha | Dex/Cha | Dex/Int |
+| **Sorcerer** | Str/Cha | Dex/Cha | Wis/Cha | Wis/Cha | Dex/Cha | Dex/Cha | Int/Cha | Int/Cha | Str/Cha | Con/Cha | Dex/Cha | Dex/Cha | X | Str/Cha | Int/Cha |
+| **Warlord** | Str/Cha | Str/Cha | Wis/Cha | Wis/Cha | Str/Cha | Str/Dex | Int/Cha | Int/Cha | Str/Cha | Str/Cha | Str/Cha | Dex/Cha | Str/Cha | X | Int/Cha |
+| **Wizard** | Str/Int | Int/Cha | Int//Wis | Int/Wis | Dex/Int | Dex/Int | Int/Cha | Int/Wis | Str/Int | Int/Cha | Dex/Int | Dex/Int | Int/Cha | Int/Cha | X |
 
->_Note:_ Hybrids that include only the barbarian, bard, commander, fighter, paladin, ranger, and rogue classes don't take the weapon damage die penalty suffered by other hybrid characters. The hybrid ability scores of these combinations appear in italics above.
+>_Note:_ Hybrids that include only the barbarian, bard, warlord, fighter, paladin, ranger, and rogue classes don't take the weapon damage die penalty suffered by other hybrid characters. The hybrid ability scores of these combinations appear in italics above.
 
 ## Barbarian Hybrid
 
 You get to start with three talents, but you don't get bonus talents until 6th level and 9th level.
 
 While raging, you cannot use attacks, powers, or spells from another class unless you take Controlled Rage.
-
----
 
 ### Controlled Rage
 
@@ -187,7 +185,7 @@ You can use powers and attacks from your other class while raging. You can't use
 
 #### Champion Tier
 
-Once per battle while raging, you can use a melee attack from your other class as if it was a barbarian attack, rolling 2d20 for the attack. (Examples of possible uses include a bard's flexible attack battle cries, a commander attack using the Lead from the Front talent that will garner command points, a fighter's flexible attacks, a ranger's double melee attack, and so on.)
+Once per battle while raging, you can use a melee attack from your other class as if it was a barbarian attack, rolling 2d20 for the attack. (Examples of possible uses include a bard's flexible attack battle cries, a warlord attack using the Lead from the Front talent that will garner command points, a fighter's flexible attacks, a ranger's double melee attack, and so on.)
 
 ---
 
@@ -202,8 +200,6 @@ As usual, the Battle Skald or Spellsinger talents could still add a battle cry o
 Note that the Jack of Spells advantages would only apply to spells jacked by the talent, not to spells known through the hybrid.
 
 If you hybrid with another class that has flexible attacks, such as the fighter or a druid that takes that talent, consider the two feats that follow. Without the feats, you must always declare whether you are using a bard flexible attack or a flexible attack from your other class.
-
----
 
 ### True Flexibility
 
@@ -225,24 +221,6 @@ You lag one level behind in the spells known columns of the Cleric Level Progres
 
 As a 1st level hybrid cleric, you start with three 1st level spells.
 
-## Commander Hybrid
-
-You lag one level behind in the class-specific elements of the Commander Level Progression table—so it only affects the number of commands and tactics you have and the pool you can draw them from.
-
-### Many Fronts
-
-#### Adventurer Tier
-
-Once per battle, use a melee attack from your non-commander class in place of a commander attack when you use your Front Line Fighting feature.
-
----
-
-#### Champion Tier
-
-You can now use the adventurer-tier feat twice per battle.
-
----
-
 ## Druid Hybrid
 
 You lag one level behind in the powers and spells known columns of the Druid Level Progression tables.
@@ -252,8 +230,6 @@ You lag one level behind in the powers and spells known columns of the Druid Lev
 You lag one level behind two columns of the Fighter Level Progression Table: Maneuvers Known and Maneuver Pool Available. You also won't get the fighter's normal bonus talent at 6th level, instead receiving it at 7th level.
 
 As a 1st level hybrid fighter, you start knowing two maneuvers from the 1st level pool.
-
----
 
 ### Armored Warfare
 
@@ -286,8 +262,6 @@ You lag one level behind in the spells known columns of the Necromancer Level Pr
 You gain the focus required to use a serious occultist spell by using your standard action during your turn to set that up. But when you have your occultist focus, you don't get to use actions and powers and spells from other classes.
 
 You lag one level behind in the spells known columns of the Occultist Level Progression table. You also won't get the occultist's normal bonus talents at 5th level and 8th level, instead receiving them at 6th level and 9th level.
-
----
 
 ### Wider Focus
 
@@ -323,8 +297,6 @@ Three of the six possible random options from your affinity list now correspond 
 
 If your psionic talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
----
-
 ### Continual Warp
 
 #### Adventurer Tier
@@ -345,8 +317,6 @@ Like the paladin, your Level Progression table doesn't have many class-specific 
 
 Unless you've hybrid'ed with one of the other skilled weapon-using classes, your damage dice for the Double Melee Attack and Double Ranged Attack talents drop down another size (usually from d6s to d4s) as a hybrid ranger.
 
----
-
 ### Two-weapon Hybrid
 
 #### Adventurer Tier
@@ -366,8 +336,6 @@ You can use your Archery ranger talent and any feats you've taken for it even wh
 You lag one level behind in the Powers Known and Pool Available columns of the Rogue Level Progression table. At 1st level, you know 3 powers, all of them from the 1st level pool.
 
 Combining your Sneak Attack damage with attacks from other classes remains off-limits.
-
----
 
 ### Seize the Momentum
 
@@ -398,6 +366,24 @@ Once per day, you can cast a non-sorcerer spell after you have gathered power. Y
 #### Champion Tier
 
 You can now also gather power for a non-sorcerer spell as per the adventurer-tier feat once per battle while the escalation die is 4+ (so in a four battle day, you could use it up to five times assuming the escalation die allows it).
+
+---
+
+## Warlord Hybrid
+
+You lag one level behind in the class-specific elements of the Warlord Level Progression table—so it only affects the number of commands and tactics you have and the pool you can draw them from.
+
+### Many Fronts
+
+#### Adventurer Tier
+
+Once per battle, use a melee attack from your non-warlord class in place of a warlord attack when you use your Front Line Fighting feature.
+
+---
+
+#### Champion Tier
+
+You can now use the adventurer-tier feat twice per battle.
 
 ---
 

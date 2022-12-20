@@ -433,7 +433,7 @@ Against demons, the fear effect is (save ends).
 
 ### Glory of the Empire
 
-Choose one tactic from the Commander list up to your level and add it to your powers. You can change this tactic during a full heal-up.
+Choose one tactic from the Warlord list up to your level and add it to your powers. You can change this tactic during a full heal-up.
 
 #### Adventurer Feat
 

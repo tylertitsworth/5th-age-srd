@@ -418,7 +418,7 @@ You gain three skill points in a skill that represents you past or your destiny 
 
 - You inherited a treasured set of armor as a sign of your status. You take no penalty for wearing heavy armor.
 - Your voice rallies the troops. Choose a battle cry of your level or lower from the bard’s list.
-- You inherited the gift of leadership from your ancestors. Choose a tactic of your level or lower from the commander list.
+- You inherited the gift of leadership from your ancestors. Choose a tactic of your level or lower from the warlord list.
 - A new relationship is interested in the destiny of your clan. You gain a new positive relationship point.
 - With you in the lead, others expect victory. Once per day, when you score a critical hit, increase the escalation die by 1.
 
