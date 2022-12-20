@@ -15,8 +15,6 @@ You can only be under the effect of a single potion at a time. If you're using a
 
 A healing potion lets the creature drinking it heal using one of their recoveries. Potions provide bonus healing on top of what you'd generally get with a recovery, but there's a hit point cap for the maximum healing you can get from a potion, no matter how well you roll your recovery.
 
----
-
 ### Healing Potion Costs
 
 | **Tier** | **Cost** | **Effect** | **HP Cap** |
@@ -31,8 +29,6 @@ A healing potion lets the creature drinking it heal using one of their recoverie
 ### Potion of [Energy] Resistance
 
 When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See Resistance. For the types of resistance available, see [Other Damage Types](../General-Rules/Combat.md#other-damage-types).
-
----
 
 ### Resistance Potion Costs
 
@@ -53,8 +49,6 @@ It's a quick action to pour magic oil on your weapon, implement, or armor. The e
 Each oil confers a bonus of +1 (adventurer), +2 (champion), or +3 (epic). Used on a weapon or a spellcasting implement, the bonus applies to attack and damage rolls. Used on armor, the bonus applies to AC.
 
 Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher bonus.
-
----
 
 ### Oil Costs
 
@@ -78,8 +72,6 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | Champion | +2 Rune | 300 gp |
 | Epic | +3 Rune | 600 gp |
 
----
-
 ### ­Random Rune Effect on Armor
 
 | **Roll** | **Effect** |
@@ -90,8 +82,6 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | 61–80 | As 41–60, and you can reroll one failed save while the rune is active |
 | 81–100 | You can take your first rally this battle with a quick action (if you can already rally with a quick action, the action is free) |
 
----
-
 ### Random Rune Effect on Weapon
 
 | **Roll** | **Effect** |
@@ -101,8 +91,6 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | 41–60 | +4 attack bonus on first round of combat |
 | 61–80 | Weapon deals +1d10 damage while escalation die is 3+ (champion: +4d6; epic: +3d20) |
 | 81–100 | Reroll one missed attack roll with weapon |
-
----
 
 ### Random Rune Effect on Spellcasting Implement
 
