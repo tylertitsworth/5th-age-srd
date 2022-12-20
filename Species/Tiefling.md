@@ -19,8 +19,6 @@ Once per battle as a free action when a nearby enemy rolls a natural 1–5 on an
 
 A curse should have about the same impact as a typical once-per-battle ability. For example, a typical curse might lead to the cursed attacker dealing half damage to themself with their fumbled attack and being dazed until the end of their next turn. The GM may reward storytelling flair and/or limit the suggested effects of the curse.
 
----
-
 ##### Champion Feat
 
 Whenever a nearby enemy rolls a natural 1 on an attack against you, you can use _curse of chaos_ against them without expending it.

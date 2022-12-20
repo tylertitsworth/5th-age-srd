@@ -15,13 +15,9 @@ Sorcerers get 2 skill points in any Charisma or Constitution skill like Intimida
 
 At 1st level, a sorcerer usually has a simple melee weapon, a few changes of clothing, a wand or staff, and other paraphernalia suggested by their background.
 
----
-
 ### Gold Pieces
 
 Sorcerers start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Sorcerers start with 25gp.
 | **Heavy** | 11 | –2 |
 | **Shield** | +1 | -2 |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -41,8 +35,6 @@ Sorcerers start with 25gp.
 | **Small** | 1d4 dagger | 1d6 staff |
 | **Light or Simple** | 1d6 shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 (-2 atk) longsword | 1d10 (-2 atk) greatsword\* |
-
----
 
 ### Ranged Weapons
 
@@ -53,8 +45,6 @@ Sorcerers start with 25gp.
 | **Heavy or Martial** | — | 1d8 (–3 atk) heavy crossbow\* | 1d8 (-4 atk) longbow\* |
 
 >\*A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
-
----
 
 ## Level Progression
 
@@ -128,8 +118,6 @@ At-Will
 
 All sorcerers share three general class features: Access to Wizardry, Dancing Lights, and Gather Power. _Breath weapon_, _chain_, and _random energy_ are keywords used in sorcerer spells
 
----
-
 ### Breath Weapon
 
 Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
@@ -139,8 +127,6 @@ The _breath weapon_ power lasts for a single battle only.
 You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the Chromatic Destroyer Heritage talent for the path to multiple _breath weapon_ spells.)
 
 Failing a death save cancels any _breath weapon_ spells you have active.
-
----
 
 #### Adventurer Feat
 
@@ -163,8 +149,6 @@ To fuel these tricks, you have a pool of sorcery points equal to your Charisma m
 To use a metamagic ability, you must declare that you spend sorcery points on a spell or roll before rolling the dice, unless the description says otherwise. The benefit only applies to this casting of the spell. You can only augment a spell with one metamagic ability at a time.
 
 If you have gained a spell through your _Access to …_ class feature, you can apply metamagic to them in the same way you augment your sorcerer spells.
-
----
 
 #### Adventurer Feat
 
@@ -195,8 +179,6 @@ _Umbral Bloodline:_ Engulfed by the shadows of the Underworld
 Starting at 3rd level, you can take a wizard spell in place of a sorcerer spell. The wizard spell must be two levels lower than the sorcerer spell.
 
 _Special:_ If you have the Arcane Heritage talent, you can choose one of your wizard spells without the -2 level penalty.
-
----
 
 ###### Adventurer Feat
 
@@ -238,8 +220,6 @@ _Mana Reserve (2 points):_ Gain a +2 bonus to a spell recharge roll you make aft
 
 _Arcane Preservation (2 points):_ If all attack rolls with the spell are a natural 1–5, you don’t expend the spell.
 
----
-
 ###### Adventurer Feat
 
 If the target spell is a sorcerer spell with the arcane keyword, the metamagic abilities above cost 1 point less.
@@ -273,19 +253,13 @@ Starting at 3rd level, you can take a cleric spell in place of a sorcerer spell.
 
 _Special:_ You can take one divine domain from the cleric list as a sorcerer talent. Interpret any reference to cleric spells as applying to both sorcerer and cleric spells. If you take the domain, you also gain access to its domain spells, and you can choose one of your cleric spells without the -2 level penalty.
 
----
-
 ###### Adventurer Feat
 
 When you empower a spell that grants healing, double the amount of hit points granted by it. When you empower a spell that grants a bonus to attacks, defenses or saves, double the bonus.
 
----
-
 ###### Champion Feat
 
 You can cast the cleric’s Heal spell once per battle.
-
----
 
 ###### Epic Feat
 
@@ -303,13 +277,9 @@ When you Gather Power, you gain the divine benefit below. Unlike other bloodline
 | Odd | Deal holy damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) + Level to one nearby enemy. |
 | Even | Heal hit points equal to Wisdom modifier, twice at 5th level, and thrice at 8th to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
 
----
-
 ###### Adventurer Feat
 
 When you empower a sorcerer spell with the Celestial keyword, gain the celestial benefit again, using the escalation die of the current turn.
-
----
 
 ###### Champion Feat
 
@@ -380,8 +350,6 @@ Starting at 3rd level, you can take a wizard spell in place of a sorcerer spell.
 
 _Special:_ If you have the Chromatic Destroyer Heritage or Metallic Protector Heritage talents, you can choose one of your wizard spells without the -2 level penalty. You can only gain this benefit once.
 
----
-
 #### Adventurer Feat
 
 Use Charisma instead of Intelligence with your chosen wizard spells.
@@ -398,13 +366,9 @@ When you Gather Power, gain a draconic benefit as per the table below.
 |3–4 | Deal damage equal to your level to all nearby staggered enemies. | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
 | 5–6 | Deal damage equal to your level to one nearby enemy. | Deal damage equal to your level + Charisma modifier to one nearby enemy. | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy. |
 
----
-
 ###### Adventurer Feat
 
 When you empower a sorcerer spell with the Draconic keyword, or a wizard spell, gain the draconic benefit again.
-
----
 
 ###### Champion Feat
 
@@ -429,8 +393,6 @@ When you gather power, you also gain the ability to fly to a nearby location as 
 If you have the Sorcerer’s Familiar talent, you can choose a pocket dragon or a pseudodragon as familiar. Both start with two abilities. One is Flight, the other is Breathe Fire for the pocket dragon and Prestidigitation for the pseudodragon.
 
 _Breathe Fire:_ Once per battle, your familiar can make a Charisma + Level attack against a nearby opponent’s PD (using your Charisma modifier and level). On a hit, it deals 1d6 per level fire damage against the target, and half damage on a miss. You can change the damage type to match the dragon’s color.
-
----
 
 ###### Adventurer Feat
 
@@ -498,13 +460,9 @@ When you Gather Power, roll 1d12 on the table below to determine your fey benefi
 | 9-10 | The nearby enemy with the lowest PD takes a -4 penalty to MD until the end of your next turn. | | One enemy of your choice takes a -4 penalty to MD until the end of your next turn. |
 | 11-12 | The nearby enemy with the lowest MD is dazed until the end of your next turn. | | One enemy of your choice is dazed until the end of your next turn. |
 
----
-
 ###### Adventurer Feat
 
 When you empower a sorcerer spell with the Fey keyword, you gain a +1 bonus to the attack roll.
-
----
 
 ###### Champion Feat
 
@@ -542,8 +500,6 @@ _Glamorous Distraction (2 points):_ Change a daze until the end of your next tur
 
 _Fey Trickery (2 points):_ Treat a natural odd spell attack roll as even, or even as odd, after making the roll.
 
----
-
 ###### Adventurer Feat
 
 If the target spell is a sorcerer spell with the fey keyword, or a bard spell, reduce the cost of the above metamagic abilities by 1.
@@ -572,8 +528,6 @@ _Necromancer:_ Starting from 3rd level, you can switch a sorcerer spell for a ne
 _Rogue:_ Starting from 3rd level, you can switch a sorcerer spell for a rogue power with the Shadow keyword 2 levels lower. If you choose a momentum power, track momentum like a rogue.
 
 _Special:_ If you have the Animate Shadow or Undead Remnant Heritage talent, you can switch in one power / spell without the -2 level penalty. You can only get this benefit once.
-
----
 
 ###### Adventurer Feat
 
@@ -612,13 +566,9 @@ When you Gather Power, roll 1d6 on the table below.
 | 3-4 | Deal twice your level in damage to the nearby enemy with the lowest hp total. If that kills the target, you regain hit points equal to the damage dealt. | As adventurer tier, but three times your level in damage. | As adventurer tier, but five times your level in damage. |
 | 5-6 | Become insubstantial until the start of your next turn. You gain resist physical damage 12+ and add your Charisma modifier to disengage checks. | Become insubstantial until the start of your next turn. Gain resist physical damage 15+ and add your Charisma modifier to disengage checks. You can fly and hover. | Become insubstantial until the start of your next turn. Gain resist physical damage 18+ and add your Charisma modifier to disengage checks. You can fly, hover, and pass through solid objects until the start of your next turn. |
 
----
-
 ###### Adventurer Feat
 
 If you empower a sorcerer spell with the Umbral keyword, gain the Umbral benefit again after casting the spell.
-
----
 
 ###### Champion Feat
 
@@ -670,8 +620,6 @@ _Shrouding Spell (2 points):_ On a hit, give the target disadvantage on its next
 
 Sorcerers possess innate talent for magic that is impulsive and chaotic where wizardry is measured and studied. Most sorcerers have strong magical links to one of the sorcerous relationships by taking a Heritage talent.
 
----
-
 ### Animated Shadow
 
 Your shadow can fetch items and help with chores, similar to a Mage Hand cantrip.
@@ -680,8 +628,6 @@ Once per day, as a quick action, you can separate your shadow and have it aid yo
 
 Your shadow has the stats, attacks and defenses as below. It acts on your initiative after you, taking a standard action, a move action, and (if applicable) a quick action. It can’t heal. When it drops to 0 hp, it’s destroyed until the next full heal-up. The shadow counts as your ally. Summoning rules don’t apply to it. It benefits from the default bonus of your items for attacks and defenses. It benefits from the escalation die.
 
----
-
 #### Animated Shadow
 
 | Normal 1st level | **Attack +4 vs. AC--1d10 cold damage** | **AC** **PD**| **15** **14** |
@@ -689,8 +635,6 @@ Your shadow has the stats, attacks and defenses as below. It acts on your initia
 | **Troop Undead** | _Natural Even Hit:_ The target has disadvantage on disengage saves until the end of your next turn. | **MD** **HP** | **12** **30** |
 | | _Resist Physical Damage 16+_ | | |
 | | **Shadow Blur (Standard Action):** The shadow wraps itself around you. Until the start of your next turn, all attacks against you with a natural odd attack roll target the shadow instead. | | |
-
----
 
 ##### Animated Shadow Level Advancement
 
@@ -707,19 +651,13 @@ Your shadow has the stats, attacks and defenses as below. It acts on your initia
 | 9th | +15 | 9d10 | 25 | 24 | 22 | 198 |
 | 10th | +16 | 10d10 | 26 | 25 | 23 | 236 |
 
----
-
 ###### Adventurer Feat
 
 You can choose to deal negative energy instead of cold damage with your shadow. If you do, change the effect on a natural even hit to “The target’s next attack deals half damage.”
 
----
-
 ###### Champion Feat
 
 Shadow Blur is a quick action.
-
----
 
 ###### Epic Feat
 
@@ -735,19 +673,13 @@ Like a wizard, you can choose to give up one spell slot to memorize a utility sp
 
 You also gain a +2 bonus to a skill that involves or suggests magical knowledge or talent, up to your normal maximum skill point limit.
 
----
-
 #### Adventurer Feat
 
 Gain three wizard cantrips as at-will bonus spells.
 
----
-
 #### Champion Feat
 
 Gain a bonus sorcery point.
-
----
 
 #### Epic Feat
 
@@ -765,13 +697,9 @@ _Minor Chain Spell (2 points):_ When your first attack roll with the spell is a 
 
 _Overwhelming Spell (4 points):_ You have advantage on the first attack roll with the spell.
 
----
-
 #### Adventurer Feat
 
 You can now overload spells for 3 points, and increase the damage dice by 2 steps.
-
----
 
 #### Champion Feat
 
@@ -783,8 +711,6 @@ When using Overwhelming Spell on a spell with multiple attack rolls, you can spe
 
 Choose one of your sorcerous heritage talents. You gain 1 relationship point with the relationship associated with that heritage; you choose whether the point is positive or negative. This point can add to your normal relationship points but you can't exceed the normal relationship maximums with it.
 
----
-
 #### Champion Feat
 
 Gain another relationship point with a relationship associated with one of your heritage talents. As above, you must follow the relationship maximums.
@@ -795,13 +721,9 @@ Gain another relationship point with a relationship associated with one of your 
 
 When you cast a sorcerer daily spell on yourself, the spell becomes recharge 16+ after battle. When you cast a spell with a recharge roll on yourself, reduce the target number for the roll by 4.
 
----
-
 #### Adventurer Feat
 
 When you target yourself with a spell, gain a temporary 5-point skill that represents a skill at using your changed form.
-
----
 
 #### Champion Feat
 
@@ -813,19 +735,13 @@ Gain a bonus spell at 4 levels below your class level. You can choose the spell 
 
 You can have multiple _breath weapon_ spells active at the same time. You don't gain extra actions, so if you succeed with multiple _breath weapon_ spells, you'll generally have to choose which one to use.
 
----
-
 #### Adventurer Feat
 
 You gain a +2 attack bonus with empowered _breath weapon_ spells.
 
----
-
 #### Champion Feat
 
 Once per day, turn a failed _breath weapon_ re-use roll into a success.
-
----
 
 #### Epic Feat
 
@@ -839,19 +755,13 @@ You gain a bonus bloodline spell slot, which you can use to spontaneously cast s
 
 This increased specialization comes at a cost, however, by limiting your overall spell choice. Choose two bloodlines in addition to your own bloodline. You can only cast sorcerer spells of these three bloodlines, as well as any spells gained through your Spell Access class feature. If a spell belongs to multiple bloodlines, you can cast it if you have access to one of them.
 
----
-
 #### Adventurer Feat
 
 You can When casting a rituals based on a spells of your bloodline, with you have advantage on the skill check.
 
----
-
 #### Champion Feat
 
 You can cast all spells from your bloodline as if you had their adventurer feat.
-
----
 
 #### Epic Feat
 
@@ -869,19 +779,13 @@ One battle per day, when you roll initiative, you can choose to invoke your Fey 
 | **3-4** | Highblood teleport (high elf) |
 | **5-6** | Elven grace (wood elf) |
 
----
-
 #### Adventurer Feat
 
 You can now invoke your Fey Heritage talent in two battles each day.
 
----
-
 #### Champion Feat
 
 You gain a +2 attack bonus against elves and monsters in the elven sphere of influence (including the Drider, Storm Giant, and Medusa).
-
----
 
 #### Epic Feat
 
@@ -893,19 +797,13 @@ Once per battle when the escalation die reaches 6+, as a free action, you can ga
 
 Your rolls to re-use breath weapon spells during a fight gain a +2 bonus.
 
----
-
 #### Adventurer Feat
 
 As a quick action at the start of each battle, you can gain resist energy 12+ to one of the following types of energy of your choice: acid, cold, fire, lightning, or poison.
 
----
-
 #### Champion Feat
 
 When you gather power and your sorcerer benefit increases your defenses, you can choose one nearby ally to gain the same defense bonus.
-
----
 
 #### Epic Feat
 
@@ -931,13 +829,9 @@ _Piercing Spell (1 point):_ If the spell is limited by the hit points of the cre
 
 _Widen Spell (2 points):_ Increase the spell’s number of targets by 1. This can only be used with spells that target more than one creature. [champion: 3 points; Use with spells that target only one creature]
 
----
-
 #### Adventurer Feat
 
 You can augment a spell with two different metamagic abilities.
-
----
 
 #### Champion Feat
 
@@ -949,19 +843,13 @@ You can use the champion versions in square brackets above.
 
 You have a familiar much like a wizard's familiar, but more changeable. Unlike the wizard, you don't choose two abilities for your familiar. Instead you choose one permanent ability that suits your familiar's nature; the only limitation is that you can't choose _tough_ as the permanent ability. Each time you get a full heal-up, randomly determine two _other_ abilities your familiar will possess until your next full heal-up.
 
----
-
 #### Adventurer Feat
 
 Your familiar gains another randomly changing ability.
 
----
-
 #### Champion Feat
 
 Once per level, if your familiar is close to you, it can cast one of your spells as a free action on your initiative count, even if you have already expended the spell. The spell functions as if you had cast it.
-
----
 
 #### Epic Feat
 
@@ -979,19 +867,13 @@ You can use ranged spells while engaged with enemies without taking opportunity 
 
 You use your Constitution modifier instead of your Charisma modifier to determine the damage you add to all your sorcerer spells.
 
----
-
 #### Adventurer Feat
 
 When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At 5th level, add double your Charisma modifier; at 8th level, triple it.
 
----
-
 #### Champion Feat
 
 Once per battle, you can include one enemy engaged with you as an additional target of any attack spell you cast that targets other enemies.
-
----
 
 #### Epic Feat
 
@@ -1013,13 +895,9 @@ _Feint Spell (3 points):_ Change the defense you attack to MD.
 
 _Silent Spell (1 point):_ You cast the spell stealthily, so your spellcasting is not noticed by others. Of course, flashy effects like Lightning Fork are widely visible, but you can conceal that the magic originated from you.
 
----
-
 #### Adventurer Feat
 
 You can spend two points on backstabbing spell for a +4 bonus to the critical threat range, and you can daze multiple enemies with disorienting spell, at a cost of 1 point per enemy.
-
----
 
 #### Champion Feat
 
@@ -1038,19 +916,13 @@ You can wield martial one-handed melee weapons without penalty, and you can choo
 - Increase your recovery dice to d8.
 - Gain the following metamagic ability: _Channel Spell (2 points):_ You deliver the spell through a melee attack. You must be engaged to all targets to do so. You don’t provoke opportunity attacks. The spell targets AC. On a hit, add your WEAPON damage dice to the damage.
 
----
-
 #### Adventurer Feat
 
 Gain a third benefit from the list.
 
----
-
 #### Champion Feat
 
 Gain a fourth benefit.
-
----
 
 #### Epic Feat
 
@@ -1062,19 +934,13 @@ Gain a fifth benefit.
 
 You have resist negative energy 12+ and gain a +1 attack bonus against undead. You can also include negative energy damage on your personal random energy damage type table, swapping out an energy type you don't want to access randomly.
 
----
-
 #### Adventurer Feat
 
 Decrease your total recoveries by 1; you gain a +2 bonus to death saves.
 
----
-
 #### Champion Feat
 
 Your resist negative energy power improves to 16+, and the attack bonus against undead increases to +2.
-
----
 
 #### Epic Feat
 
@@ -1101,13 +967,9 @@ Fey
 | 3rd | for 1d6 hours. |
 | 5th | until the next full heal-up. |
 
----
-
 #### Adventurer Feat
 
 The spell also changes the tone of your voice.
-
----
 
 #### Champion Feat
 
@@ -1137,8 +999,6 @@ Celestial
 | 5th | 7d8 damage; 15 + 2x Wisdom mod |
 | 7th | 10d8 damage; 20 + 2x Wisdom mod |
 | 9th | 15d8 damage; 30 + 3x Wisdom mod |
-
----
 
 #### Adventurer Feat
 
@@ -1170,8 +1030,6 @@ _Natural even hit:_ Grant a bonus equal to your Wisdom modifier to the next atta
 | 5th | 5d8 damage |
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
-
----
 
 #### Adventurer Feat
 
@@ -1210,8 +1068,6 @@ _Umbral:_ Your first hit with the weapon in a battle deals an additional 1d4 poi
 | 5th | Enchant the weapon as a champion-tier item (+2) |
 | 7th | Enchant the weapon as an epic-tier item (+3) |
 
----
-
 #### Adventurer Feat
 
 If the attuned weapon is already a true magic item of the highest tier you can enchant, increase the bonus by +1.
@@ -1246,8 +1102,6 @@ _Natural even hit:_ You can pop free from the target.
 | 9th | 2d6 x 10 / 2d10 x 10 damage |
 
 _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use Breath of the Brass this turn if you wish.
-
----
 
 #### Adventurer Feat
 
@@ -1313,19 +1167,13 @@ At-Will
 | 7th | 3d8 damage. |
 | 9th | 5d8 damage. |
 
----
-
 #### Adventurer Feat
 
 When you miss with _burning hands_, you deal fire damage to the target equal to each damage die that rolled its maximum possible result.
 
----
-
 #### Champion Feat
 
 When you roll a natural 18+ with a _burning hands_ attack roll, you can choose another nearby target for the spell. The new target doesn't have to be part of the original group.
-
----
 
 #### Epic Feat
 
@@ -1365,8 +1213,6 @@ Fey / Umbral
 
 **Effect:** Until the end of the scene, your outer appearance blends into your surroundings. It‘s not full invisibility, as your physical presence is still there, but if you hold still, you adapt to the colors and patterns of everything around you. You gain a +5 bonus to any skill check to avoid being noticed. If you hold completely still, the bonus increases to +10.
 
----
-
 #### Adventurer Feat
 
 The effect lasts until you cast another spell on yourself, or until your next full heal-up.
@@ -1396,13 +1242,9 @@ _Special:_ The first time you use _chaos bolt_ each battle, determine a random e
 | 7th | 7d8 damage. |
 | 9th | 9d8 damage. |
 
----
-
 #### Adventurer Feat
 
 You don't take the –2 penalty for attacking a far away enemy with the spell.
-
----
 
 #### Champion Feat
 
@@ -1442,8 +1284,6 @@ Umbral
 
 **Miss:** —
 
----
-
 #### Adventurer Feat
 
 Hit or miss, deal negative energy damage equal to your level.
@@ -1472,8 +1312,6 @@ Draconic
 | 5th | 5d8 damage |
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
-
----
 
 #### Adventurer Feat
 
@@ -1546,8 +1384,6 @@ _Natural Odd Miss:_ A random nearby ally gains a +1 bonus to their next attack r
 | 7th | (even hit) 7d10 damage |
 | 9th | (even hit) 10d10 damage |
 
----
-
 #### Adventurer Feat
 
 If the target is already dazed, treat an odd hit as an even hit instead.
@@ -1598,8 +1434,6 @@ _Special:_ When you empower this spell, it doesn’t do double damage as usual. 
 | 7th | 8d12 damage |
 | 9th | 2d6 x 10 damage |
 
----
-
 #### Champion Feat
 
 Roll twice on the empower effects table and gain both.
@@ -1635,8 +1469,6 @@ _Odd miss on first attack:_ Half damage, and you don’t expend the spell.
 
 _Chain Spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
 
----
-
 #### Adventurer Feat
 
 (Arcane) Increase the damage dice to d10.
@@ -1658,8 +1490,6 @@ _Draconic:_ Increase the bonus to +5 against dragons.
 _Fey:_ Increase the bonus to +5 against fey.
 
 _Umbral:_ Increase the bonus to +5 against undead.
-
----
 
 #### Adventurer Feat
 
@@ -1688,19 +1518,13 @@ Recharge 16+ after battle
 | 7th | 10d10 damage. |
 | 9th | 2d8 x 10 damage. |
 
----
-
 #### Adventurer Feat
 
 Once per battle, you can reroll one of your _lightning fork_ attacks rolls.
 
----
-
 #### Champion Feat
 
 If you miss all targets with _lightning fork_, you don't expend it.
-
----
 
 #### Epic Feat
 
@@ -1735,13 +1559,9 @@ Any bloodline
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
----
-
 #### Adventurer Feat
 
 When you empower this spell, gain advantage on the attack roll and write both dice down for the retribution effect.
-
----
 
 #### Champion Feat
 
@@ -1765,8 +1585,6 @@ Recharge 16+ after battle
 | 5th | Resistance is now 16+. |
 | 7th | The spell now affects two targets. |
 | 9th | Recharge roll is now 11+. |
-
----
 
 #### Adventurer Feat
 
@@ -1795,19 +1613,13 @@ At-Will
 | 7th | 6d6 damage; 3d6 ongoing. |
 | 9th | 10d6 damage; 5d6 ongoing. |
 
----
-
 #### Adventurer Feat
 
 You can now use the spell against a far away target, but with a –2 attack penalty.
 
----
-
 #### Champion Feat
 
 Each time you cast the spell, you can have the attack deal random energy damage instead of fire damage. Replace the fire entry on the random energy table with your choice of negative energy or acid.
-
----
 
 #### Epic Feat
 
@@ -1840,13 +1652,9 @@ _Special:_ When casting the spell, choose whether you want to cast it against PD
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
----
-
 #### Adventurer Feat
 
 (PD) Increase the damage dice to d8s OR (MD) deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) on a miss.
-
----
 
 #### Champion Feat
 
@@ -1877,13 +1685,9 @@ Umbral
 | 7th | 10d6 damage; 70 hp or less. |
 | 9th | 13d6 damage; 90 hp or less. |
 
----
-
 #### Adventurer Feat
 
 When you empower this spell, double the hit point threshold for the attack bonus.
-
----
 
 #### Champion Feat
 
@@ -1917,13 +1721,9 @@ _Fey:_ Enemies who miss you with a natural 1 hit one of their own nearby allies 
 
 _Umbral:_ Nearby enemies who attack you with a natural odd miss must immediately make a save or be struck by fear (-4 to attacks and can’t use the escalation die) until the end of their next turn.
 
----
-
 #### Champion Feat
 
 Choose a second bloodline when you take the feat and gain its bonus effect.
-
----
 
 #### Epic Feat
 
@@ -1954,13 +1754,9 @@ Arcane / Draconic
 | 7th | 2d12 damage |
 | 9th | 2d20 damage |
 
----
-
 #### Adventurer Feat
 
 When you empower this spell, increase the number of targets to 1d4.
-
----
 
 #### Champion Feat
 
@@ -2005,8 +1801,6 @@ _Natural even hit:_ The target has disadvantage on its next attack roll.
 | 5th | 5d6 damage |
 | 7th | 7d6 damage |
 | 9th | 9d6 damage |
-
----
 
 #### Adventurer Feat
 
@@ -2058,13 +1852,9 @@ _Wings:_ You can fly.
 | 7th | Gain three abilities from the list above |
 | 9th | Gain four abilities from the list above |
 
----
-
 #### Adventurer Feat
 
 You can now remain in beast form for 1d6 hours.
-
----
 
 #### Champion Feat
 
@@ -2097,8 +1887,6 @@ Draconic
 | 9th | 10d10 damage |
 
 _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use Breath of the Bronze this turn if you wish.
-
----
 
 #### Adventurer Feat
 
@@ -2204,8 +1992,6 @@ _Special:_ When casting the spell, choose whether you want to attack the target�
 | 7th | 8d10 / 12d10 damage |
 | 9th | 12d10 / 2d8 x 10 damage |
 
----
-
 #### Adventurer Feat
 
 On a hit, you can pull the target to engage you.
@@ -2241,8 +2027,6 @@ Celestial
 **Trigger:** You roll a d20 and you are unhappy with the roll
 
 **Effect:** Reroll the d20 and take that result. If the reroll is a natural 5 or lower, you don’t expend this spell (but you can’t use it again on the same roll).
-
----
 
 #### Adventurer Feat
 
@@ -2292,8 +2076,6 @@ At-Will
 | 7th | 7d6 damage; 3d6 aftershock damage. |
 | 9th | 9d6 damage; 4d6 aftershock damage. |
 
----
-
 #### Champion Feat
 
 The spell's aftershock damage is now also doubled when echoing thunder is empowered.
@@ -2324,13 +2106,9 @@ Arcane
 | 7th | 7d4 damage |
 | 9th | 1d4 x 10 damage |
 
----
-
 #### Adventurer Feat
 
 When you empower this spell, you also get a +2 bonus to attack with your next spell, if it qualifies.
-
----
 
 #### Champion Feat
 
@@ -2357,8 +2135,6 @@ Celestial / Umbral
 | 5th | 15 temporary hit points. |
 | 7th | 25 temporary hit points. |
 | 9th | 40 temporary hit points. |
-
----
 
 #### Adventurer Feat
 
@@ -2394,8 +2170,6 @@ _Natural even hit:_ The target is dazed (-4 to attacks) until the end of your ne
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
----
-
 #### Adventurer Feat
 
 On a natural even hit, the target is weakened (-4 to attacks and defenses) until the end of your next turn.
@@ -2428,8 +2202,6 @@ _Natural Odd Miss:_ Any ally engaged with the target is dazed until the end of y
 | 7th | 8d10 / 4d10 damage |
 | 9th | 10d12 / 5d12 damage |
 
----
-
 #### Adventurer Feat
 
 You gain a +2 bonus to attack against enemies you are engaged with.
@@ -2452,13 +2224,9 @@ Arcane
 
 **Miss:** The target takes a -2 penalty to a random defense until the end of its next turn.
 
----
-
 #### Champion Feat
 
 On a hit, the target also takes a -2 penalty to PD and MD (save ends all).
-
----
 
 #### Epic Feat
 
@@ -2490,8 +2258,6 @@ The spell ignores any creature that was already within the perimeter at the time
 | --- | --- |
 | 5th | You can target the alarm more precisely, such as “only undead creatures”. |
 
----
-
 #### Adventurer Feat
 
 The save against the stuck effect is now a hard save (16+).
@@ -2517,8 +2283,6 @@ Until the end of your next turn, enemies who attack the target while engaged wit
 | 5th | 5d8 damage |
 | 7th | 7d8 damage |
 | 9th | 9d8 damage |
-
----
 
 #### Adventurer Feat
 
@@ -2548,8 +2312,6 @@ Any bloodline
 | 7th | 8d4 damage |
 | 9th | 10d4 damage |
 
----
-
 #### Adventurer Feat
 
 You can target a far away enemy at a -2 penalty to the attack roll.
@@ -2576,8 +2338,6 @@ Daily
 | --- | --- |
 | 7th | 10d10 damage, and 40 ongoing damage; 20 ongoing on a miss. |
 | 9th | 2d6 x 10 damage, and 60 ongoing damage; 30 ongoing on a miss. |
-
----
 
 #### Epic Feat
 
@@ -2614,8 +2374,6 @@ _Natural 18+:_ The target is hampered until the end of your next turn.
 
 _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use Breath of the Copper this turn if you wish.
 
----
-
 #### Champion Feat
 
 The first time you fail to recharge Breath of the Copper at the start of your turn, gain one use of the Out-think ability.
@@ -2649,8 +2407,6 @@ Draconic
 
 _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use Breath of the Purple that turn if you wish.
 
----
-
 #### Champion Feat
 
 When you succeed on a roll to recharge this spell during a battle, distracting illusions give enemies a -2 penalty to attack you until the end of your next turn.
@@ -2682,13 +2438,9 @@ Any bloodline
 
 _Chain Spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
 
----
-
 #### Champion Feat
 
 Casting this spell does not trigger opportunity attacks.
-
----
 
 #### Epic Feat
 
@@ -2705,8 +2457,6 @@ Daily
 Fey
 
 **Effect:** You create a window or a door on a wall you touch, which lasts until the end of the scene. The door is visible to anyone, but only you and any target designated by you can see or step through.
-
----
 
 #### Champion Feat
 
@@ -2792,8 +2542,6 @@ _Umbral:_ Deal ongoing negative energy damage equal to twice the spell level (sa
 
 **Miss:** —
 
----
-
 #### Champion Feat
 
 If the target is a spellcaster, or a creature with magic abilities, you gain a +2 bonus to the attack roll.
@@ -2843,13 +2591,9 @@ Celestial
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
----
-
 #### Champion Feat
 
 The target has a penalty to their saving throw equal to your Wisdom modifier (but a natural 18+ always saves, regardless of the penalty).
-
----
 
 #### Epic Feat
 
@@ -2875,8 +2619,6 @@ As an ooze, you have the following abilities:
 - You gain resist weapons 16+.
 - Your unarmed attack is replaced with a Charisma + level vs. PD attack that deals 1d10 per level + Charisma acid damage.
 - When you hit a target with an unarmed attack, you engulf them. Engulfed targets take half damage again at the start of your next turn.
-
----
 
 #### Champion Feat
 
@@ -2909,8 +2651,6 @@ Any bloodline
 
 _Chain Spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
 
----
-
 #### Champion Feat
 
 You have a +1 bonus to attack against far away enemies.
@@ -2942,8 +2682,6 @@ _Special:_ You can cast this spell any time during battle, even during an enemy�
 | 7th | 30 ongoing |
 | 9th | 50 ongoing |
 
----
-
 #### Champion Feat
 
 This spell is now Recharge 16+ after battle.
@@ -2970,8 +2708,6 @@ _Special:_ Once you cast this spell in a battle, you can cast it at-will for the
 | --- | --- |
 | 7th | 9d10 damage. |
 | 9th | 10d12 damage. |
-
----
 
 #### Epic Feat
 
@@ -3043,8 +2779,6 @@ Umbral
 
 _Chain Spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
 
----
-
 #### Epic Feat
 
 You can cast this spell without provoking opportunity attacks.
@@ -3077,8 +2811,6 @@ _Special chain spell:_ When you reduce a non-mook enemy, or the last mook in a g
 | --- | --- |
 | 9th | 3d6 x 10 damage; heal 15 hp. |
 
----
-
 #### Champion Feat
 
 When you empower this spell, gain advantage on the first attack roll.
@@ -3102,8 +2834,6 @@ Daily
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 2d10 x 10 damage; 25 lightning damage to nearby allies. |
-
----
 
 #### Epic Feat
 
@@ -3138,8 +2868,6 @@ _Natural 18+:_ The target is stunned (-4 to defenses and can’t take actions) u
 | 9th | 10d12 damage and stun on natural 16+. |
 
 _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use Breath of the Silver that turn if you wish.
-
----
 
 #### Champion Feat
 
@@ -3200,8 +2928,6 @@ _Special:_ If you are fighting one or more dragons, roll an easy save (6+) at th
 | _Damage aura:_ When an enemy starts its turn engaged with you, it takes damage equal to twice your level. Choose the damage type from any of your breath weapon spells. |
 | _More breath:_ Until the end of the battle, you have advantage on d20 rolls to regain your breath weapon spells. |
 
----
-
 #### Epic Feat
 
 Gain the ability for both d10 rolls.
@@ -3231,8 +2957,6 @@ _Water:_ You gain resist weapon damage 16+. You deal 5 extra damage with all spe
 | Higher Level | Effect |
 | --- | --- |
 | 9th | Deal 10 extra damage with all spells that deal damage of the corresponding element. Increase all resistance to 18+. |
-
----
 
 #### Epic Feat
 
@@ -3270,13 +2994,9 @@ Umbral
 
 **Hit:** You steal the escalation die and increase it by one. You are the only combatant on the battlefield that can use it until the end of the battle. This negates enemy abilities to use or steal the escalation die. Whenever you are hit by an attack, you must succeed at a normal save (11+) to keep the die, otherwise the spell ends.
 
----
-
 #### Champion Feat
 
 While you have the escalation die, you gain 5 times the escalation die in temporary hit points at the end of your turn (8th level: 10x).
-
----
 
 #### Epic Feat
 
@@ -3326,8 +3046,6 @@ Arcane
 
 **Effect:** Until the end of the battle, each ranged and close-quarters attack against you that is a natural odd miss is reflected against the attacker. The attacker rerolls the attack, using it against using against their own defense.
 
----
-
 #### Epic Feat
 
 Also reflect the first attack with a natural even roll that falls within the range.
@@ -3349,8 +3067,6 @@ Umbral
 | Higher Level | Effect |
 | --- | --- |
 | 9th | Increase the resistance to 16+. |
-
----
 
 #### Epic Feat
 
@@ -3419,8 +3135,6 @@ Any bloodline
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 3d6 x 10 damage, and you raise the creature with 150 hp. |
-
----
 
 #### Champion Feat
 
@@ -3517,8 +3231,6 @@ Any bloodline
 
 _Chain Spell:_ Each time your natural attack roll is even, you can attack a different target with the spell.
 
----
-
 #### Champion Feat
 
 Double the hit point range you can affect as “save ends.“
@@ -3536,8 +3248,6 @@ Daily
 Umbral
 
 **Effect:** You create a melee weapon that you can wield without attack penalty. Use your Charisma for the attack roll. Your melee attacks with the blade target PD. It deals exactly 100 negative energy damage on a hit, ignoring any damage bonuses or resistances. If your attack roll is a natural 20, the target starts making last gasp saves (16+) and is disintegrated on the fourth failed save.
-
----
 
 #### Epic Feat
 
@@ -3566,8 +3276,6 @@ _Natural 20:_ The target is stunned (-4 to defenses and can’t take actions) un
 **Miss:** Half damage
 
 _Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use Breath of the Golden that turn if you wish.
-
----
 
 #### Champion Feat
 
@@ -3629,8 +3337,6 @@ Daily
 
 **Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relationship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
 
----
-
 #### Epic Feat
 
 Randomly choose twice, then choose the single result you prefer.
@@ -3652,8 +3358,6 @@ _Special:_ You must have the celestial bloodline to cast this spell.
 **Target:** You
 
 **Effect:** Until the end of the battle or for the next five minutes, you can fly. You roll saves at the start of your turn instead of at the end, and you have advantage on them. You are immune to fear. When you cast a daily sorcerer spell, you or a nearby ally can heal using a recovery.
-
----
 
 #### Epic Feat
 
@@ -3681,8 +3385,6 @@ Your claws, bite and tail count as natural weapons with a d10 damage die with th
 
 Increase the damage dice of all breath weapon spells you cast while in dragon form by one step.
 
----
-
 #### Epic Feat
 
 When you cast a breath weapon spell, you also gain 10 temporary hit points.
@@ -3702,8 +3404,6 @@ Any bloodline
 _Special:_ This spell requires the infernal bloodline.
 
 **Effect:** Until the end of the battle, you can fly. You project a fear aura that affects nearby mooks (-4 to attacks and they can’t use the escalation die). When you cast a daily sorcerer spell, enemies have disadvantage on any saves against it. When you successfully save against an effect imposed on you by an enemy, deal 20 fire damage to that enemy.
-
----
 
 #### Epic Feat
 
@@ -3769,8 +3469,6 @@ Arcane
 
 **Effect:** Until the end of the battle, you can cast a sorcerer at-will spell as a quick action once per turn.
 
----
-
 #### Epic Feat
 
 If the escalation die is 6+, you can cast three sorcerer at-will spells as a single standard action and end this spell.
@@ -3795,8 +3493,6 @@ _Fey:_ The Fey Realms
 
 _Umbral:_ The Underworld
 
----
-
 #### Epic Feat
 
 You can take one ally per Charisma modifier with you.
@@ -3820,8 +3516,6 @@ Umbral
 _Natural 18+:_ The target is sucked into a pocket dimension. It is removed from the battlefield and takes 50 ongoing negative energy damage (save ends both; on a successful save the target reappears at a random nearby location).
 
 **Miss:** Half damage
-
----
 
 #### Epic Feat
 

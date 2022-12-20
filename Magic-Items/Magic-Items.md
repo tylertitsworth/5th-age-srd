@@ -9,8 +9,6 @@ Each name/characteristic includes its action type, usage, description, power, an
 
 In general, ammunition is one-use, hit or miss. It also doesn't take up a chakra, and, like other one-use items, ammunition doesn't confer quirks on its user.
 
----
-
 ### Default Bonus
 
 Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point expansion rather than 1 point per tier). Ammunition takes the bonus of the weapon that shoots it, just like mundane ammunition does.
@@ -104,8 +102,6 @@ It warps the forces of necessity and miracle as it flies. When you attack with t
 ## Armor, Robe, Shirt, Tunic
 
 Most magic armor powers can apply to heavy armor, light armor, or even no armor (robes or other clothing).
-
----
 
 ### Default Bonus
 
@@ -334,8 +330,6 @@ Whenever you take ongoing damage, roll an immediate save to end the effect witho
 ## Book, Scroll, Tome, Grimoire
 
 Mastering a book requires a course of study and practice, usually accomplished over a day or more. Sometimes a book will reject a reader, leaving them either confounded or disturbed.
-
----
 
 ### Default Bonus
 
@@ -1078,8 +1072,6 @@ When you make a basic melee attack, roll a save against one ongoing damage effec
 
 A staff counts as both a wand (arcane spells) and a symbol (divine spells). Staffs are champion or epic items only. Epic staffs don't like to be around lesser staffs, and do not abide wands.
 
----
-
 ### Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (epic).
@@ -1168,8 +1160,6 @@ The power of this golden staff can only be invoked by a spellcaster who has a po
 
 Sometimes a symbolic magic item is a gem or rune that can be attached to any of various holy symbols. Typically a divine spellcaster pries the gem or other adornment off a foreign holy symbol and affixes it to their own mundane holy symbol. Symbols are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
 
----
-
 ### Default Bonus
 
 Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
@@ -1257,8 +1247,6 @@ When you cast a quick action divine spell that targets allies, the spell affects
 ## Wand
 
 Wands are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
-
----
 
 ### Default Bonus
 
@@ -1619,8 +1607,6 @@ Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The
 ## Wondrous Items
 
 You can attune multiple wondrous items. They don't fill up a chakra.
-
----
 
 ### Default Bonus
 
@@ -2246,8 +2232,6 @@ Insectile wings hide in slits under the always itching skin of your back. _Alway
 ## Cursed Magic Items
 
 Cursed items can be useful, though all of them have significant drawbacks.
-
----
 
 ### _Shadow Dragons_
 

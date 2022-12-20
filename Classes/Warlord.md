@@ -15,13 +15,9 @@ Warlords get 2 skill points in any Strength or Charisma skill like Endurance, In
 
 At 1st level, warlords start with a melee weapon or two, a ranged weapon, a shield, light armor of some type (or heavy armor if they chose the Armor Skills talent), and other minor odds-and-ends suggested by their background.
 
----
-
 ### Gold Pieces
 
 Warlords start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Warlords start with 25gp.
 | **Heavy** | 14 | -2 |
 | **Shield** | +1 | — |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -42,8 +36,6 @@ Warlords start with 25gp.
 | **Light or Simple** | 1d6 mace, shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 (-2 atk) longsword, warhammer | 1d10 (–2 atk) greatsword |
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -51,8 +43,6 @@ Warlords start with 25gp.
 | **Small** | 1d4 dagger, star | 1d4 hand crossbow | — |
 | **Light or Simple** | 1d6 javelin | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–2 atk) heavy crossbow | 1d8 (–2 atk) longbow |
-
----
 
 ## Level Progression
 
@@ -136,19 +126,13 @@ You can choose the commands and tactics you want to use. A 1st-level warlord sta
 
 When you hit with a warlord melee attack during your turn, gain 1d3 command points.
 
----
-
 #### Adventurer Feat
 
 You now gain 1d4 command points when you hit with a melee attack during your turn instead of 1d3.
 
----
-
 #### Champion Feat
 
 When you make a melee attack during your turn and miss with a natural even roll, gain 1 command point.
-
----
 
 #### Epic Feat
 
@@ -162,19 +146,13 @@ Standard action
 
 **Effect:** Gain 1d4 command points.
 
----
-
 #### Adventurer Feat
 
 Once per day, add your Charisma modifier to the number of command points you gain when you use this action.
 
----
-
 #### Champion Feat
 
 Once per battle while the escalation die is 3+, you can gain 1d4 command points as a quick action.
-
----
 
 #### Epic Feat
 
@@ -186,27 +164,19 @@ You now gain 1d6 command points instead of 1d4 when you use this action.
 
 Choose three of the following class talents. You get an additional warlord talent at 5th level.
 
----
-
 ### Ambassador
 
 Whenever you or an ally gains a positive relationship point you gain insight into their goals and motives in the form of a leverage die.
 
 Once before your next full recovery, you can add this die to any relationship advantages skill check you make. You use it on your own check or aid a nearby ally.
 
----
-
 #### Adventurer Feat
 
 You gain 1 additional skill point in a skill related to court intrigue, etiquette and politics. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 You can now use the leverage die to gain a 1d6 bonus command points with your Weight the Odds class feature instead.
-
----
 
 #### Epic Feat
 
@@ -218,19 +188,13 @@ You can use your leverage die as a bonus to a recharge roll for a tactic.
 
 Unlike other warlords, you take no attack penalties for fighting in heavy armor. (As indicated on your class chart, your base AC in heavy armor is 14.)
 
----
-
 #### Adventurer Feat
 
 When an enemy misses you with a melee attack and rolls a natural 1 or 2, you gain 1 command point.
 
----
-
 #### Champion Feat
 
 Once per day as a free action when you are hit by an attack that targets AC, you can take half damage from that attack instead.
-
----
 
 #### Epic Feat
 
@@ -242,19 +206,13 @@ Once per day as a free action, you can gain a bonus to AC equal to the _current_
 
 Once per battle when you have 2 or more command points left after giving a command, you can use another interrupt action on a different ally's turn before the start of your next turn.
 
----
-
 #### Adventurer Feat
 
 You now only need to have 1 or more command points left instead of 2.
 
----
-
 #### Champion Feat
 
 You can use this talent twice per battle.
-
----
 
 #### Epic Feat
 
@@ -266,19 +224,13 @@ You gain an additional command point at the start of each round while the escala
 
 Your Fight from the Front melee attacks gain a +1 bonus to their critical threat range. If you score a critical hit with it, you gain the maximum possible on your command points roll.
 
----
-
 #### Adventurer Feat
 
 During the first round of battle, you can act immediately after the initiative of any ally you choose, instead of your own initiative.
 
----
-
 #### Champion Feat
 
 During the first round of combat, gain a 1d4 bonus to the attack roll with your Fight from the Front melee attack.
-
----
 
 #### Epic Feat
 
@@ -290,19 +242,13 @@ Increase the critical threat range bonus to +2.
 
 Choose a fighter maneuver of your level or lower. You can use it like a fighter. You can also switch it for a different maneuver each time you level up.
 
----
-
 #### Adventurer Feat
 
 You gain the adventurer feat for the maneuver you chose, if any.
 
----
-
 #### Champion Feat
 
 Choose a second fighter maneuver of your level or lower to use.
-
----
 
 #### Epic Feat
 
@@ -316,19 +262,13 @@ When you gain inspiration, you gain 2 bonus command points that last until the e
 
 When you use one or more of these bonus command points, tell a story about how something related to the inspiring moment comes into play to make you a better/luckier/destined warlord.
 
----
-
 #### Adventurer Feat
 
 You now gain the 3 bonus command points when you gain inspiration.
 
----
-
 #### Champion Feat
 
 Once per session when you roll a critical hit on an attack roll you gain inspiration.
-
----
 
 #### Epic Feat
 
@@ -342,19 +282,13 @@ _Special:_ You cannot take this talent in combination with the Strategist or Tac
 
 Any time an element of the warlord class refers to Charisma, you can replace  it with Constitution. In addition, your base PD is increased to 12, but your base MD is reduced to 10.
 
----
-
 #### Adventurer Feat
 
 You gain 1 additional skill point in a skill related to either intimidation or physical exercise. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 When you use a command, you can spend an additional command point to give a nearby enemy a -2 penalty to their next attack roll.
-
----
 
 #### Epic Feat
 
@@ -366,19 +300,13 @@ When you give an ally a bonus to attack rolls with a command or tactic, increase
 
 When you give a command that lets an ally roll a d20 (an attack, a save, etc.), you can spend additional command points before the roll up to the escalation die value, or 1 point if the escalation die is still 0. That ally gains a +2 bonus to the roll for each point you spend this way.
 
----
-
 #### Adventurer Feat
 
 You begin each battle with 1 additional command point.
 
----
-
 #### Champion Feat
 
 Once per battle, you can use a command on a far away ally.
-
----
 
 #### Epic Feat
 
@@ -390,19 +318,13 @@ Once per day when you use this talent to grant an ally a bonus to a d20 roll, yo
 
 At the start of each battle before you and your allies roll initiative, roll a d4. A number of your allies equal to the roll gain the following benefit of your choice: a +4 bonus to initiative that battle; OR a +2 bonus to AC until the end of the first round.
 
----
-
 #### Adventurer Feat
 
 You also gain the chosen bonus.
 
----
-
 #### Champion Feat
 
 The +2 bonus to AC also applies to PD and MD.
-
----
 
 #### Epic Feat
 
@@ -414,19 +336,13 @@ The chosen allies now gain both bonuses (+2 to all defenses for the first round 
 
 Unlike other warlords, you don't take a –2 attack penalty when fighting with heavy or martial weapons.
 
----
-
 #### Adventurer Feat
 
 You gain 1 command point whenever you roll a natural 19 or 20 with a melee attack.
 
----
-
 #### Champion Feat
 
 Twice per day as a free action (once per turn), you can reroll one of your melee attack rolls.
-
----
 
 #### Epic Feat
 
@@ -438,19 +354,13 @@ Twice per day as free action (once per turn) when you hit with a melee attack, y
 
 When you roll initiative, also roll a d4 and record the result. As a free action, you can add the result to a single attack roll made by one of your nearby allies later this battle. (It's a free action, so you can add the result after seeing the roll.)
 
----
-
 #### Adventurer Feat
 
 You can also add the d4 result to a save or dicey-move roll made by an ally.
 
----
-
 #### Champion Feat
 
 Roll a d6 instead of a d4.
-
----
 
 #### Epic Feat
 
@@ -462,19 +372,13 @@ In addition to the d6 you roll with initiative, roll a d4. You can also use that
 
 Once per battle when an enemy scores a critical hit against you or a nearby ally, you can increase the escalation die by 1.
 
----
-
 #### Adventurer Feat
 
 Once per day, you can use this talent twice in the same battle.
 
----
-
 #### Champion Feat
 
 When you use this talent, the target of the critical hit can heal using a recovery.
-
----
 
 #### Epic Feat
 
@@ -490,19 +394,13 @@ In addition, choose a rogue power of your level or lower as a bonus power. If it
 
 If the rogue power is a standard action melee attack you use on your turn, you gain command points as if using your Fight from the Front class feature.
 
----
-
 #### Adventurer Feat
 
 When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an even hit, deal 1d6 extra damage, 2d6 at 5th level, and 3d6 at 8th level.
 
----
-
 #### Champion Feat
 
 When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an odd hit, gain a bonus command point.
-
----
 
 #### Epic Feat
 
@@ -514,19 +412,13 @@ Increase the extra damage from the adventurer feat to 3d10.
 
 You take no attack penalty with martial ranged weapons. You can use your Fight from the Front class feature with ranged weapon attacks.
 
----
-
 #### Adventurer Feat
 
 You gain a command point when an ally scores a critical hit with a ranged attack.
 
----
-
 #### Champion Feat
 
 Once per level, you can lead a party to retreat from battle without suffering a campaign loss.
-
----
 
 #### Epic Feat
 
@@ -540,19 +432,13 @@ You rely on planning, teamwork, and calm execution of orders as a warlord instea
 
 In addition, you start every battle with 1 additional command point.
 
----
-
 #### Adventurer Feat
 
 You gain 1 additional skill point related to military history, strategy, command, or warfare. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 When you roll a die to find out how many allies one of your commands or tactics targets, add +1 to the result.
-
----
 
 #### Epic Feat
 
@@ -564,19 +450,13 @@ Once per day as a free action, you can gain a number of command points equal to 
 
 When your melee attack drops a non-mook enemy to 0 hp, or drops three or more mooks, you gain 1 command point.
 
----
-
 #### Adventurer Feat
 
 You only have to drop 2 or more mooks instead of 3 to gain the command point.
 
----
-
 #### Champion Feat
 
 You gain 2 command points instead of 1 when you drop a non-mook enemy to 0 hp.
-
----
 
 #### Epic Feat
 
@@ -590,19 +470,13 @@ You rely on perception, intuition, and common sense as a warlord instead of char
 
 In addition, one battle per day, you can reroll your initiative if you don't like the first result. You must take the re-rolled result.
 
----
-
 #### Adventurer Feat
 
 You gain 1 additional skill point related to military history, strategy, command, or warfare. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 Once per day after a battle, you can gain a bonus to all recharge rolls you make for your expended tactics equal to your Wisdom modifier.
-
----
 
 #### Epic Feat
 
@@ -614,8 +488,6 @@ Once per day as a free action, you can choose a tactic you don't normally posses
 
 Once per battle, when you use your Weigh the Odds class feature, choose one of your Recharge after battle tactics and make a recharge roll for it.
 
----
-
 #### Champion Feat
 
 You can use this talent any time you use Weigh the Odds.
@@ -626,13 +498,9 @@ You can use this talent any time you use Weigh the Odds.
 
 You gain a bonus command, and one point towards a skill in personal leadership and diplomacy. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 Gain the adventurer feat of all commands you know.
-
----
 
 #### Epic Feat
 
@@ -644,13 +512,9 @@ Gain the champion feat of all commands you know.
 
 Once per battle, when you target a nearby ally with a command or tactic, give all enemies engaged to that ally disadvantage on their next attack roll.
 
----
-
 #### Champion Feat
 
 If the enemy fails their next attack roll, they take psychic damage equal to twice your level.
-
----
 
 #### Epic Feat
 
@@ -662,13 +526,9 @@ You can use this talent twice per battle.
 
 You gain a bonus tactic, and one point towards a skill in military strategy and tactics. You can use this skill point to raise that skill beyond the normal maximum of 5.
 
----
-
 #### Champion Feat
 
 Gain the adventurer feat of all tactics you know.
-
----
 
 #### Epic Feat
 
@@ -680,13 +540,9 @@ Gain the champion feat of all tactics you know.
 
 You gain a +1 bonus to hit with your Fight from the Front melee attacks.
 
----
-
 #### Champion Feat
 
 After you use your Fight from the Front class feature, you have a +2 bonus to AC until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -697,8 +553,6 @@ Gain the +2 bonus to all defenses.
 ### Well-Oiled Machine (5th level+)
 
 Once per round, you can use a command with a cost of one command point for zero instead. Pay any additional costs normally.
-
----
 
 #### Epic Feat
 
@@ -718,8 +572,6 @@ Interrupt action
 
 **Effect:** The attack must reroll the attack.
 
----
-
 #### Adventurer Feat
 
 Reduce the cost to 1 command point.
@@ -735,8 +587,6 @@ Interrupt action
 **Target:** One nearby ally who was hit by an attack against PD
 
 **Effect:** The attacker must reroll the attack.
-
----
 
 #### Adventurer Feat
 
@@ -754,19 +604,13 @@ Interrupt action
 
 **Effect:** The target can use a quick action this turn to pop free from one enemy.
 
----
-
 #### Adventurer Feat
 
 If you spend an additional command point, the target (or targets) can pop free from all enemies instead of only one enemy.
 
----
-
 #### Champion Feat
 
 If you spend an additional command point, you can now target one additional nearby ally with this command.
-
----
 
 #### Epic Feat
 
@@ -784,8 +628,6 @@ Interrupt action
 
 **Effect:** Until the end of the ally's next turn, enemies can only attack the ally if they successfully engage them.
 
----
-
 #### Adventurer Feat
 
 Decrease the cost to 1 command point.
@@ -802,13 +644,9 @@ Interrupt action
 
 **Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at 5th level and trice at 8th, to a different enemy they are also engaged with.
 
----
-
 #### Adventurer Feat
 
 If the triggering attack was a critical hit, double the damage from this command.
-
----
 
 #### Champion Feat
 
@@ -828,19 +666,13 @@ _Special:_ If you spend an additional command point on this command, you can tar
 
 **Effect:** The target can rally as a free action this turn. (If it's their second or a subsequent rally, they still need to succeed on the save.)
 
----
-
 #### Adventurer Feat
 
 The target also adds hit points equal to your Charisma modifier to the recovery. (Double your Charisma modifier at 5th level; triple it at 8th level.)
 
----
-
 #### Champion Feat
 
 When the target has to roll a save to rally, you can grant them a +2 bonus to the roll as a free action after seeing it for each additional command point you spend on the command.
-
----
 
 #### Epic Feat
 
@@ -858,19 +690,13 @@ Interrupt action
 
 **Effect:** The target can roll a save against a save ends effect.
 
----
-
 #### Adventurer Feat
 
 For each additional 2 command points you spend when you make the command (before the save roll), the target can roll another d20 for the save, choosing the best result.
 
----
-
 #### Champion Feat
 
 If the save fails, you gain 1 command point.
-
----
 
 #### Epic Feat
 
@@ -888,19 +714,13 @@ Interrupt action
 
 **Effect:** The target can reroll the attack but must use the new result.
 
----
-
 #### Adventurer Feat
 
 If the escalation die is 3+, the target gains a bonus to the reroll equal to your Charisma modifier.
 
----
-
 #### Champion Feat
 
 If the rerolled attack scores a critical hit, you gain 1 command point.
-
----
 
 #### Epic Feat
 
@@ -918,19 +738,13 @@ Interrupt action
 
 **Effect:** Add your Charisma modifier to the damage dealt by your ally (double your Charisma modifier at 5th level; triple it at 8th level). In addition, during your next turn, you gain a +2 attack bonus with melee attacks against the enemy that your ally hit.
 
----
-
 #### Adventurer Feat
 
 The target ally also gains the damage bonus with any other attacks it makes against the same enemy this turn.
 
----
-
 #### Champion Feat
 
 The command now costs 3 command points to use.
-
----
 
 #### Epic Feat
 
@@ -948,13 +762,9 @@ Interrupt action
 
 **Effect:** The ally gains 3 times their level in temporary hit points. They also ignore any penalties to attack this turn, such as from the dazed or fear conditions.
 
----
-
 #### Adventurer Feat
 
 The ally can ignore any effect that would prevent them from using the escalation die.
-
----
 
 #### Champion Feat
 
@@ -972,8 +782,6 @@ Once per battle
 
 **Effect:** A nearby ally can move as a free action.
 
----
-
 #### Adventurer Feat
 
 If the escalation die is 4+, you can grant the move to two nearby allies.
@@ -990,19 +798,13 @@ Quick action
 
 **Effect:** The target can make a basic attack as a free action.
 
----
-
 #### Adventurer Feat
 
 On a hit, the attack gains a damage bonus equal to your Charisma modifier.
 
----
-
 #### Champion Feat
 
 The target gains an attack bonus equal to your Charisma modifier with that attack.
-
----
 
 #### Epic Feat
 
@@ -1020,8 +822,6 @@ Once per battle
 
 **Effect:** The targets gain a +3 bonus to all defenses against enemies they are engaged with, until the end of your next turn.
 
----
-
 #### Adventurer Feat
 
 If a target is hit by an enemy they are engaged with, reduce the damage by your Charisma modifier, twice at 5th level and thrice at 8th level.
@@ -1038,19 +838,13 @@ Quick action
 
 **Effect:** One non-last gasp effect on the target ends (including effects that don't require a save).
 
----
-
 #### Adventurer Feat
 
 The recharge roll is now 11+_**.**_
 
----
-
 #### Champion Feat
 
 You can now target one additional nearby ally with this tactic.
-
----
 
 #### Epic Feat
 
@@ -1066,8 +860,6 @@ Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you hit with your Fight from the Front melee attack, a nearby ally gains temporary hit points equal to your Charisma modifier, twice at 5th level and thrice at 8th level.
 
----
-
 #### Adventurer Feat
 
 On a natural 16+ on the attack roll, grant the temporary hit points to a second ally.
@@ -1082,19 +874,13 @@ Quick action, when the escalation die is 2+
 
 **Effect:** Decrease the escalation die by 1. Then 1d3 of your nearby allies can heal using a recovery.
 
----
-
 #### Adventurer Feat
 
 The tactic now affects 1d3 + 1 nearby allies.
 
----
-
 #### Champion Feat
 
 You can include yourself as one of the targets.
-
----
 
 #### Epic Feat
 
@@ -1109,8 +895,6 @@ Quick action
 Once per battle
 
 **Effect:** Two nearby allies switch positions. This is not a teleport — the allies must be able to reach the other location by normal means. This also switches who the targets are engaged with. This movement does not provoke opportunity attacks, and it cannot be intercepted.
-
----
 
 #### Adventurer Feat
 
@@ -1127,8 +911,6 @@ Once per battle
 **Target:** Each nearby ally who is engaged with an enemy together with at least one other ally
 
 **Effect:** The targets gain a +3 bonus to attack rolls against enemies they are engaged with, until the end of your next turn.
-
----
 
 #### Adventurer Feat
 
@@ -1151,19 +933,13 @@ _Limited Use:_ You can only use this tactic when you have 0 command points.
 
 **Hit:** You gain 1 command point.
 
----
-
 #### Adventurer Feat
 
 When you are engaged with one or more enemies, you can target the enemy with the highest MD you are engaged with instead of the nearest enemy.
 
----
-
 #### Champion Feat
 
 When you attack with this tactic and roll a natural even hit, you gain 2 command points instead of 1.
-
----
 
 #### Epic Feat
 
@@ -1183,19 +959,13 @@ Interrupt action
 
 **Effect:** As a standard action this turn, the target can both move and make a basic attack.
 
----
-
 #### Adventurer Feat
 
 If you spend an additional command point, the target can use a melee attack instead of a basic attack.
 
----
-
 #### Champion Feat
 
 The target gains a bonus to the melee attack it makes from this command equal to your Charisma modifier.
-
----
 
 #### Epic Feat
 
@@ -1213,13 +983,9 @@ Interrupt action
 
 **Effect:** The target can choose to reroll any of the recovery dice. Keep the reroll.
 
----
-
 #### Adventurer Feat
 
 The target adds your Charisma modifier to the hit points healed, twice at 5th level and thrice at 8th level.
-
----
 
 #### Champion Feat
 
@@ -1237,19 +1003,13 @@ Interrupt action
 
 **Effect:** The target can reroll any of the damage dice. They must accept the rerolled result.
 
----
-
 #### Adventurer Feat
 
 The target gains a bonus to the damage roll equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
----
-
 #### Champion Feat
 
 You can spend an additional command point (1 max) to add another damage die of the same type to the damage roll when you reroll damage dice. (You only roll the extra damage die once.)
-
----
 
 #### Epic Feat
 
@@ -1267,8 +1027,6 @@ Interrupt action
 
 **Effect:** The allies gain a bonus to their defense equal to the number of nearby allies wielding a shield (maximum +4) until the end of your next turn.
 
----
-
 #### Adventurer Feat
 
 The bonus is a +2 per nearby ally wielding a shield.
@@ -1284,8 +1042,6 @@ Interrupt action
 **Target:** One nearby ally who hit with a melee attack
 
 **Effect:** The ally also deals 5, 10 at 5th level, and 20 at 8th level, ongoing damage.
-
----
 
 #### Adventurer Feat
 
@@ -1317,8 +1073,6 @@ Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, enemies have disadvantage on saves to disengage from the target ally.
 
----
-
 #### Adventurer Feat
 
 You can target up to three nearby allies (including yourself).
@@ -1334,8 +1088,6 @@ Recharge 16+ after battle
 **Target:** One nearby ally who is engaged with an enemy together with at least one other ally
 
 **Effect:** The ally can make a basic melee attack against an enemy they are engaged with as a free action, with advantage on the attack roll.
-
----
 
 #### Adventurer Feat
 
@@ -1353,19 +1105,13 @@ _Limited Use:_ You can only use this tactic when one enemy is left in the battle
 
 **Effect:** You can spend between 1 and 3 command points. The crit range of your allies' attacks against the remaining enemy expands by the number of command points you spent. This effect lasts until the end of the battle or until the _enemy_ scores two critical hits.
 
----
-
 #### Adventurer Feat
 
 You can now use this tactic when the escalation die is 3+.
 
----
-
 #### Champion Feat
 
 You can now use this tactic when one or two enemies are left in the battle.
-
----
 
 #### Epic Feat
 
@@ -1383,8 +1129,6 @@ _Special:_ You can only use this tactic if at least one ally is currently uncons
 
 **Effect:** Gain one command point for each ally that is currently unconscious or was killed in this battle.
 
----
-
 #### Adventurer Feat
 
 Gain two command points instead.
@@ -1401,19 +1145,13 @@ Quick action
 
 **Effect:** Each target can take a move action as a free action, starting with you and proceeding in the order of your choice.
 
----
-
 #### Adventurer Feat
 
 Disengage checks made using this free action gain a +5 bonus.
 
----
-
 #### Champion Feat
 
 The recharge roll is now 11+.
-
----
 
 #### Epic Feat
 
@@ -1431,19 +1169,13 @@ Free action, when the escalation die is 4+
 
 You can't gain command points from your Fight from the Front class feature using _swordwork_ attacks.
 
----
-
 #### Adventurer Feat
 
 You can now use this tactic when the escalation die is 3+.
 
----
-
 #### Champion Feat
 
 You can now gain command points from your Fight from the Front class feature using _swordwork_ attacks.
-
----
 
 #### Epic Feat
 
@@ -1460,8 +1192,6 @@ Recharge 16+ after battle
 **Target:** A nearby enemy
 
 **Effect:** Until the end of the battle, the enemy is vulnerable to your allies’ attacks.
-
----
 
 #### Adventurer Feat
 
@@ -1481,8 +1211,6 @@ Interrupt action
 
 **Effect:** The ally takes half damage.
 
----
-
 #### Champion Feat
 
 If the attack targeted multiple allies (including you), you can grant the effect to all of them by spending one command point per target.
@@ -1498,8 +1226,6 @@ Interrupt action
 **Target:** A nearby ally who reduced an opponent below zero hit points
 
 **Effect:** The ally can make a standard action attack against a different nearby enemy. They can move to engage the enemy first if required.
-
----
 
 #### Champion Feat
 
@@ -1517,13 +1243,9 @@ Interrupt action
 
 **Effect:** This turn, the target ally can target one far away enemy with a power, spell, or attack that normally only targets or affects nearby enemies.
 
----
-
 #### Champion Feat
 
 The target can now be a far away ally.
-
----
 
 #### Epic Feat
 
@@ -1541,8 +1263,6 @@ Interrupt action
 
 **Effect:** The ally can immediately save against the effect, even if the effect normally does not allow a save.
 
----
-
 #### Champion Feat
 
 The ally adds your Charisma modifier as a bonus to the save.
@@ -1559,13 +1279,9 @@ Interrupt action
 
 **Effect:** The target can take an extra standard action this turn.
 
----
-
 #### Champion Feat
 
 This command costs 3 command points instead of 4.
-
----
 
 #### Epic Feat
 
@@ -1583,13 +1299,9 @@ Interrupt action
 
 **Effect:** Roll a d20. On a 11+, the target ignores the effects of one of those conditions (confused, dazed, weakened) this turn. On a 16+, the condition ends instead.
 
----
-
 #### Champion Feat
 
 After the first time in a round you use this command as an interrupt action, you can use it as a free action until the start of your next turn if you have the command points for the cost. You can still only use the command once per ally's turn.
-
----
 
 #### Epic Feat
 
@@ -1609,13 +1321,9 @@ Quick action
 
 **Effect:** The target can make an at-will attack as a free action.
 
----
-
 #### Champion Feat
 
 The first time you use this tactic each battle, make a recharge roll for it at the start of your next turn, adding the escalation die to the roll. The recharge roll after the battle, if any, doesn't gain a bonus from the escalation die.
-
----
 
 #### Epic Feat
 
@@ -1633,13 +1341,9 @@ Quick action
 
 **Effect:** Each target gains temporary hit points equal to the average number of hit points it gains when it heals using a recovery.
 
----
-
 #### Champion Feat
 
 Add twice your Charisma modifier to the temporary hit points each target gains.
-
----
 
 #### Epic Feat
 
@@ -1655,8 +1359,6 @@ Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you miss with your Fight from the Front melee attack, deal half damage and gain a command point.
 
----
-
 #### Champion Feat
 
 On your first natural even miss with Fight from the Front this battle, reroll the attack.
@@ -1671,8 +1373,6 @@ Recharge 16+ after battle
 
 **Effect:** Gain advantage on the next Fight from the Front melee attack this turn. If both attack rolls hit, gain the maximum possible command points instead of rolling.
 
----
-
 #### Champion Feat
 
 On a miss, regain this tactic.
@@ -1686,8 +1386,6 @@ Quick action
 Once per battle
 
 **Effect:** Wager a number of command points up to your Charisma modifier, then make a Charisma + Level attack roll against the highest MD of all nearby enemies. On a hit, regain twice as many command points as you wagered. On a miss, those command points are lost.
-
----
 
 #### Champion Feat
 
@@ -1719,8 +1417,6 @@ Interrupt action
 
 **Effect:** The ally takes half damage.
 
----
-
 #### Champion Feat
 
 If the attack targeted two allies (including you), both allies take half damage.
@@ -1737,13 +1433,9 @@ Interrupt action
 
 **Effect:** The target can take an extra standard action this turn.
 
----
-
 #### Champion Feat
 
 This command costs 3 command points instead of 4.
-
----
 
 #### Epic Feat
 
@@ -1761,13 +1453,9 @@ Quick action
 
 **Effect:** Until the end of the battle, the escalation die becomes a d8 instead of a d6. Then roll a d20. If you roll 11+, increase the escalation die by 1.
 
----
-
 #### Champion Feat
 
 If the d20 roll is 16+, increase the escalation die by 2 instead of 1.
-
----
 
 #### Epic Feat
 
@@ -1783,8 +1471,6 @@ Recharge 16+ after battle
 
 **Effect:** Increase the escalation die by 1.
 
----
-
 #### Champion Feat
 
 Until the end of your next turn, enemies cannot use abilities that interact with the escalation die, such as adding it to attack rolls or stealing it.
@@ -1798,8 +1484,6 @@ Quick action
 Recharge 16+ after battle
 
 **Effect:** You and all nearby allies gain a +2 bonus to saving throws (including death saves) until the end of the battle, and two extra dice when using a recovery to heal.
-
----
 
 #### Champion Feat
 
@@ -1817,13 +1501,9 @@ Quick action
 
 **Effect:** The target can heal using two recoveries but is dazed until the end of its next turn.
 
----
-
 #### Champion Feat
 
 If the escalation die is 3+, there is no dazed effect.
-
----
 
 #### Epic Feat
 
@@ -1841,13 +1521,9 @@ Quick action
 
 **Effect:** The target gains a +5 bonus to all saves until the end of your next turn.
 
----
-
 #### Champion Feat
 
 This tactic can now be used as a free action.
-
----
 
 #### Epic Feat
 
@@ -1879,8 +1555,6 @@ Interrupt action
 
 **Effect:** Count a natural odd roll the target rolls as natural even, or count a natural even roll the target rolls as natural odd (without actually changing the numerical result).
 
----
-
 #### Epic Feat
 
 This command costs 1 command point instead of 2 while the escalation die is 3+.
@@ -1896,8 +1570,6 @@ Interrupt action
 **Target:** One nearby ally about to roll a death save (on the ally's turn)
 
 **Effect:** The target gains a +2 bonus to the death save for each command point spent on this command.
-
----
 
 #### Epic Feat
 
@@ -1917,8 +1589,6 @@ Recharge 16+ after battle
 
 **Effect:** Each target can make an at-will ranged attack as a free action against one enemy designated by you.
 
----
-
 #### Champion Feat
 
 The attacks deal extra damage equal to your Intelligence or Charisma modifier on a miss.
@@ -1933,8 +1603,6 @@ Free action
 
 **Effect:** If the escalation die is 2+, roll the escalation die and use the new result.
 
----
-
 #### Epic Feat
 
 You gain command points equal to the newly rolled escalation die value.
@@ -1948,8 +1616,6 @@ Quick action
 Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you use your Fight from the Front class feature, a nearby ally can make a save against a save-ends effect.
-
----
 
 #### Epic Feat
 
@@ -1967,8 +1633,6 @@ Free action
 
 **Effect:** The target can make a recharge roll for that power immediately after using the power. (If the recharge roll fails, the target can still make a recharge roll for it after the battle.)
 
----
-
 #### Epic Feat
 
 The target gains a bonus to the recharge roll equal to your Charisma modifier.
@@ -1985,8 +1649,6 @@ Quick action
 
 **Effect:** The target can make a standard action attack as a free action.
 
----
-
 #### Epic Feat
 
 If the attack hits, it's a critical hit.
@@ -2000,8 +1662,6 @@ Quick action
 Recharge 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you use your Fight from the Front or Weigh the Odds class feature, grant a nearby ally a bonus to their next attack roll equal to the number of command points you gained.
-
----
 
 #### Epic Feat
 

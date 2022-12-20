@@ -17,7 +17,7 @@ bundle exec jekyll serve --force-polling
 
 {% endcomment %}
 
-# Table of Contents
+## Table of Contents
 
 - [Character Rules](./Character-Rules/README.md)
   - [Combat](./Character-Rules/Combat.md)

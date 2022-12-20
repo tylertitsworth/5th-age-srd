@@ -51,8 +51,6 @@ Each type of animal companion is a little different.
 
 Advantage: With a successful easy difficulty skill check (using your ability scores and backgrounds), your companion can disguise itself as a mundane plant. It is also vulnerable to fire.
 
----
-
 ### Adventurer Feat
 
 On a natural even hit with a melee attack, your companion gives enemies disadvantage on checks to disengage from it until the end of your next turn.
@@ -123,8 +121,6 @@ Advantage: The first time your companion hits an enemy in a battle, it deals 1d1
 
 Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to holy damage.
 
----
-
 ### Champion Feat
 
 Increase the resistance to 16+.
@@ -136,8 +132,6 @@ Increase the resistance to 16+.
 **Acts:** After druid / ranger
 
 Advantage: Reduce all damage your animal companion takes by half your level (round up).
-
----
 
 ### Adventurer Feat
 
@@ -286,6 +280,8 @@ Daily
 | 7th | The healing the target gains at the start of its turn is now triple your Wisdom modifier. |
 | 9th | The first time this battle that the target drops to 0 hit points, you can roll a normal save. If you succeed, the target heals using one of your recoveries. |
 
+---
+
 ## 3rd Level Spells
 
 ### Magic Fang
@@ -324,6 +320,8 @@ Quick action
 | --- | --- |
 | 5th | It also gains the bonus to PD. |
 | 7th | Convert critical hits against the target into normal hits. |
+
+---
 
 ## 5th Level Spells
 
