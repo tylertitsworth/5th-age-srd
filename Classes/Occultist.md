@@ -168,8 +168,6 @@ With focus, you can pummel someone with their own negative karma. In addition to
 
 _Karmic rebuke_ requires a quick action instead of an interrupt action. It's designed so you can cast it during your turn when you've retained your focus, then use your standard action to get your focus back that same turn.
 
----
-
 #### Karmic Rebuke
 
 Close-quarters spell
