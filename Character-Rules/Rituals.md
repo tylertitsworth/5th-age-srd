@@ -9,8 +9,6 @@ Rituals are complex ceremonies that create magic effects. You don't memorize or 
 
 A ritual scroll contains a single ritual, and you can perform the ritual from that scroll only once. After that, the magic contained in the scroll is expended, and the scroll turns to dust. Anyone can use a ritual scroll to perform the ritual it contains, as long as the appropriate components are expended.
 
----
-
 ### Acquiring Ritual Scrolls
 
 Like a ritual book, a ritual scroll can be purchased for the given market price. Ritual scrolls can also be found as treasure. You can create a ritual scroll by transcribing a ritual you have mastered. Creating a ritual scroll takes twice the amount of time as creating a ritual book but costs the same price.
@@ -67,8 +65,6 @@ At any time before a ritual is completed, you can stop it and suffer no ill effe
 ## Level 1 Rituals
 
 ### Generic Rituals
-
----
 
 #### Brew Potion
 
@@ -610,8 +606,6 @@ An affected creature suffers no ill effects from ambient temperatures between â€
 
 ### Generic Rituals
 
----
-
 #### Find Traps
 
 **Casting Time/Duration:** 1 minute**/**Instantaneous
@@ -1150,8 +1144,6 @@ Any food or water created but uneaten disappears at the end of the duration.
 
 ### Arcane Rituals
 
----
-
 #### Analyze Portal
 
 **Casting Time/Duration:** 1 hour**/**Instantaneous
@@ -1545,8 +1537,6 @@ Water Breathing doesn't change your ability to breathe air. It doesn't confer a 
 
 ### Arcane Rituals
 
----
-
 #### Arcane Barrier
 
 **Casting Time/Duration:** 10 minutes**/**4 hours
@@ -1912,8 +1902,6 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 
 ### Arcane Rituals
 
----
-
 #### Eye of Warning
 
 **Casting Time/Duration:** 30 minutes**/**24 hours (special)
@@ -2104,8 +2092,6 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 
 ### Arcane Rituals
 
----
-
 #### Anthem of Unity
 
 **Casting Time/Duration:** 10 minutes**/**1 day
@@ -2243,8 +2229,6 @@ Greater heroes accrue greater fatigue and require more effort to recuperate. At 
 
 ### Arcane Rituals
 
----
-
 #### Forbiddance
 
 **Casting Time/Duration:** 30 minutes**/**24 hours (special)
@@ -2363,8 +2347,6 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 
 ### Divine Rituals
 
----
-
 #### Divine Sight
 
 **Casting Time/Duration:** 1 hour**/**Special
@@ -2386,8 +2368,6 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 ## Level 9 Rituals
 
 ### Arcane Rituals
-
----
 
 #### Scrying
 
@@ -2477,8 +2457,6 @@ Those who know this ritual keep it carefully guarded, for the ritual has devasta
 ## Level 10 Rituals
 
 ### Arcane Rituals
-
----
 
 #### Lich Transformation
 

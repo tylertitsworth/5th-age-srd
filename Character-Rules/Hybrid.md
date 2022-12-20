@@ -229,8 +229,6 @@ As a 1st level hybrid cleric, you start with three 1st level spells.
 
 You lag one level behind in the class-specific elements of the Commander Level Progression table—so it only affects the number of commands and tactics you have and the pool you can draw them from.
 
----
-
 ### Many Fronts
 
 #### Adventurer Tier
@@ -302,8 +300,6 @@ Once per battle, you can use a power, spell, or other effect from a different cl
 ## Paladin Hybrid
 
 You don't get the paladin's normal bonus talents at 5th and 8th level, instead receiving them at 6th level and 9th level.
-
----
 
 ### Armored in Life
 
@@ -390,8 +386,6 @@ In addition to using the adventurer-tier feat once per day, you can also use it 
 ## Sorcerer Hybrid
 
 You lag one level behind in the spells known columns of the Sorcerer Level Progression table. At 1st level, you know three 1st level spells.
-
----
 
 ### Diverse Gathering
 

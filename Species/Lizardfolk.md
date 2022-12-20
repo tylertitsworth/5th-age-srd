@@ -4,13 +4,9 @@
 
 +2 Con or +2 Dex
 
----
-
 ### Adventurer Feat
 
 Once per day when grabbed or stuck, you can spend a recovery (regaining no hp) and end that condition on yourself.
-
----
 
 ### Epic Feat
 
@@ -37,8 +33,6 @@ _Special:_ You can make a number of attacks equal to the escalation die, but may
 **Attack:** 6 + level vs. AC
 
 **Hit:** 1d8 x level damage.
-
----
 
 ##### Champion Feat
 

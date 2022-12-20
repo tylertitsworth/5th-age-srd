@@ -15,13 +15,9 @@ Barbarians get 2 skill points in any Strength or Constitution skill like Athleti
 
 At 1st level, a barbarian starts with a melee weapon or two, light armor, and standard non-magical gear that is suggested by the character's background.
 
----
-
 ### Gold Pieces
 
 Barbarians start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Barbarians start with 25gp.
 | **Heavy** | 13 | –2 |
 | **Shield** | +1 | — |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -42,8 +36,6 @@ Barbarians start with 25gp.
 | **Light or Simple** | 1d6 hand-axe, warclub | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, battleaxe | 1d10 greatsword, greataxe |
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -51,8 +43,6 @@ Barbarians start with 25gp.
 | **Small** | 1d4 dagger | 1d4 (–5 atk) hand crossbow | — |
 | **Light or Simple** | 1d6 javelin, axe, spear | 1d6 (–5 atk) light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 longbow |
-
----
 
 ## Level Progression
 
@@ -125,8 +115,6 @@ At-Will
 
 All barbarians have the Barbarian Rage class feature.
 
----
-
 ### Barbarian Rage
 
 Once per day, use a quick action to start raging. A rage lasts until the end of battle, or about 5 minutes.
@@ -135,19 +123,13 @@ While raging, you roll 2d20 to hit with your barbarian melee and thrown weapon a
 
 _Recharge 16+:_ After a battle in which you rage, roll a d20 and add your Constitution modifier. On a 16+, you can use Barbarian Rage again later in the day.
 
----
-
 #### Adventurer Feat
 
 Whenever the escalation die is 4+, as a quick action, you can start raging for free. (It doesn't count against your normal usage.) This rage lasts until the end of the battle, as normal.
 
----
-
 #### Champion Feat
 
 You can now start raging freely when the escalation die is 3+.
-
----
 
 #### Epic Feat
 
@@ -225,25 +207,17 @@ Resolve the attack normally. Your target’s MD is reduced by half your level fo
 
 Choose three of the following adventurer-tier class talents. You also get an additional barbarian class talent at 5th level and again at 8th level.
 
----
-
 ### Barbaric Cleave
 
 Once per battle, as a free action, you can make a standard melee attack after having dropped any enemy to 0 hp with a standard melee attack. Mooks do not count for this, unless the mook you dropped was the last of its mook mob.
-
----
 
 #### Adventurer Feat
 
 You gain a +2 attack bonus with Barbaric Cleave attacks. If the cleave attack hits, you can heal using a recovery.
 
----
-
 #### Champion Feat
 
 If there is no foe engaged with you to use your Barbaric Cleave attack against, as a free action you can move to a nearby foe before making the attack.
-
----
 
 #### Epic Feat
 
@@ -255,19 +229,13 @@ While raging, you can use Barbaric Cleave as many times as you like during a bat
 
 One battle per day, as a free action after you have missed an attack, gain +1d4 damage to each successful melee attack until the end of the battle. For each missed attack following this, add another +1d4 damage, up to a maximum of +4d4 damage.
 
----
-
 #### Adventurer Feat
 
 Bonus damage dice are now d6s.
 
----
-
 #### Champion Feat
 
 Bonus damage dice are now d10s.
-
----
 
 #### Epic Feat
 
@@ -279,19 +247,13 @@ You can use Building Frenzy twice a day.
 
 When you wield a shield, reduce the damage you take from enemy attacks by your level.
 
----
-
 #### Adventurer Feat
 
 When you intercept an enemy or an enemy intercepts you, make a basic melee attack against them as a free action.
 
----
-
 #### Champion Feat
 
 While wielding a shield, you gain a +1 bonus to PD.
-
----
 
 #### Epic Feat
 
@@ -303,19 +265,13 @@ Increase the damage reduction to twice your level.
 
 When you fight with two melee weapons and you score a critical hit, make a second melee attack against the target. You can use this talent once per round.
 
----
-
 #### Adventurer Feat
 
 You can pop free and engage a different target to make the second Deadly Twins attack. If you do so, you gain a +2 bonus to the attack roll.
 
----
-
 #### Champion Feat
 
 The first time you miss with a Deadly Twins attack in a battle, you can reroll the attack.
-
----
 
 #### Epic Feat
 
@@ -327,19 +283,13 @@ When you hit with a Deadly Twins attack, deal 25 ongoing damage to the target.
 
 Once per battle or scene, as a standard action, you can perform a stunt that uses your massive reserves of brute strength. Smash a hole in a wall, lift a giant monolith, or wrestle an iron golem. While this usually won’t require a skill check, the GM can still call for an attack roll if you try to wrestle down an unwilling target or bury them under something very heavy.
 
----
-
 #### Adventurer Feat
 
 You can wield heavy two-handed (d10) melee weapons in one hand, or wield an oversized heavy two-handed (d12) weapon with both hands.
 
----
-
 #### Champion Feat
 
 You have advantage on all Strength-based skill checks.
-
----
 
 #### Epic Feat
 
@@ -353,19 +303,13 @@ When you fight with one-handed melee weapons, you can use Dexterity instead of S
 
 While raging, you gain a +2 bonus to AC, PD and disengage checks.
 
----
-
 #### Adventurer Feat
 
 While raging, you take no damage from missed enemy attacks.
 
----
-
 #### Champion Feat
 
 When an enemy misses you with a melee attack while you rage, deal damage to them equal to twice your Dexterity modifier and thrice at 8th level.
-
----
 
 #### Epic Feat
 
@@ -377,19 +321,13 @@ Increase the bonuses to +3.
 
 If you are staggered at the start of your turn, you can start raging for free. (It doesn’t count against your normal usage.)
 
----
-
 #### Adventurer Feat
 
 While raging, you are immune to fear effects.
 
----
-
 #### Champion Feat
 
 While raging, you are immune to the dazed condition.
-
----
 
 #### Epic Feat
 
@@ -401,19 +339,13 @@ While raging, you are immune to the weakened condition.
 
 Once per battle as a basic melee attack, sweep your weapon out in front of you low to the ground. On a hit, an enemy you are engaged with becomes hampered for one turn. Deal no damage on a miss.
 
----
-
 #### Adventurer Feat
 
 On a hit, up to two other creatures you’re engaged with are hampered and suffer 2d6 damage.
 
----
-
 #### Champion Feat
 
 On a hit, up to two other creatures you’re engaged with are hampered and suffer 2d8 damage.
-
----
 
 #### Epic Feat
 
@@ -425,19 +357,13 @@ All creatures you’re engaged with are hampered for a turn, whether you hit wit
 
 During your turn, when you attack a staggered enemy you were not engaged with at the start of your turn, deal +1d6 damage per level to that creature if you hit.
 
----
-
 #### Adventurer Feat
 
 You gain a +2 bonus to Slayer attacks.
 
----
-
 #### Champion Feat
 
 Once per battle, when you miss with a Slayer attack, deal the additional +1d6-per-level damage to the target instead of normal miss damage.
-
----
 
 #### Epic Feat
 
@@ -456,19 +382,13 @@ You also gain the two special abilities below. Once per day, you can activate on
 - Infuse your body with the power of your spirit. Choose the beast aspect from the druid’s shifter talent that is closest to your spirit animal, and gain its initiate benefit until the end of the battle.
 - Spend a recovery without healing as a quick action to manifest your spirit. Until the end of the battle, your spirit companion joins the battle as your ally. Create an Animal Companion as per the ranger talent. As a spirit creature, your companion gains resist physical damage 16+.
 
----
-
 #### Adventurer Feat
 
 If you are raging while your spirit companion is manifested, it can make one attack with the benefit of raging that battle.
 
----
-
 #### Champion Feat
 
 You can use both the infuse and the manifest ability once per day each.
-
----
 
 #### Epic Feat
 
@@ -480,19 +400,13 @@ Once per battle, you or your manifested spirit companion can reroll a save with 
 
 Your recovery dice are d12s instead of d10s.
 
----
-
 #### Adventurer Feat
 
 Increase your total number of recoveries by 1.
 
----
-
 #### Champion Feat
 
 You gain +1 PD. When you heal using a recovery, you can roll a save against a save ends effect.
-
----
 
 #### Epic Feat
 
@@ -504,19 +418,13 @@ Increase your total number of recoveries by 1 (making a total of +2 from this ta
 
 Once per battle as a quick action, you can pop free from an enemy with whom you’re engaged and move to engage another nearby enemy.
 
----
-
 #### Adventurer Feat
 
 When you use Swap Quarry, the crit range of your next attack against the enemy you engage expands by the number of your allies who are also currently engaged with that enemy.
 
----
-
 #### Champion Feat
 
 When you use Swap Quarry, the enemy from which you pop free becomes vulnerable (crit range +2) to your allies’ attacks until the start of your next turn.
-
----
 
 #### Epic Feat
 
@@ -534,19 +442,13 @@ You gain three skill points in a skill that represents you past or your destiny 
 - A new relationship is interested in the destiny of your clan. You gain a new positive relationship point.
 - With you in the lead, others expect victory. Once per day, when you score a critical hit, increase the escalation die by 1.
 
----
-
 #### Adventurer Feat
 
 Choose a second benefit from the list.
 
----
-
 #### Champion Feat
 
 Choose a third benefit from the list.
-
----
 
 #### Epic Feat
 
@@ -558,19 +460,13 @@ Choose a fourth benefit from the list.
 
 Once per battle, declare you're using Unstoppable before making a barbarian melee attack. If your attack hits at least one target, you can heal using a recovery.
 
----
-
 #### Adventurer Feat
 
 The Unstoppable recovery is free.
 
----
-
 #### Champion Feat
 
 Add double your Constitution modifier to the healing the recovery provides.
-
----
 
 #### Epic Feat
 
@@ -584,19 +480,13 @@ You can make a Whirlwind attack as the first action of your turn when you are en
 
 You take a –4 penalty to your AC and PD until the start of your next turn. Then roll a separate melee attack against each enemy you are engaged with. You deal no miss damage with these attacks.
 
----
-
 #### Adventurer Feat
 
 You now deal normal miss damage with missed Whirlwind attacks.
 
----
-
 #### Champion Feat
 
 The penalty to your AC and PD is reduced to –2. In addition, disengage checks you make the same turn as using Whirlwind automatically succeed.
-
----
 
 #### Epic Feat
 
@@ -608,19 +498,13 @@ You can use Whirlwind anytime during your turn, not just as the first action.
 
 At 5th level, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
 
----
-
 ### Awaken the Fury
 
 Once per battle, when you enter Barbarian Rage, you can engage a nearby enemy and make a melee attack as a free action.
 
----
-
 #### Champion Feat
 
 Also gain 5 times the escalation die in temporary hit points, and 10 times at 8th level.
-
----
 
 #### Epic Feat
 
@@ -632,13 +516,9 @@ If you hit with the melee attack granted by this talent, deal 10 times the escal
 
 One battle per day, you can move to engage a far away enemy and make a melee attack against them. Enemies between you and your target may still attempt to intercept you, however.
 
----
-
 #### Champion Feat
 
 Add the escalation die to your AC and PD until the start of your next turn. This bonus takes effect after you declare you are using Bellowing Charge, immediately before you move.
-
----
 
 #### Epic Feat
 
@@ -650,13 +530,9 @@ You can now use Bellowing Charge once per battle. Enemies must succeed on a norm
 
 The first time you are reduced to zero hit points in a battle, you can immediately spend a recovery to heal. If you use this talent while raging, deal three times your level in psychic damage to each enemy you are engaged with.
 
----
-
 #### Champion Feat
 
 After using this talent, deal 1d12, 2d12 at 8th level, extra psychic damage when you hit with a melee attack, until the end of the battle.
-
----
 
 #### Epic Feat
 
@@ -668,19 +544,13 @@ Heal additional hit points equal to 20 x the escalation die with the recovery.
 
 One battle per day as a quick action, you gain a +2 bonus to your Mental Defense until the end of the battle.
 
----
-
 #### Adventurer Feat
 
 You can now use Natural Will in two battles per day.
 
----
-
 #### Champion Feat
 
 The bonus increases to +4 Mental Defense.
-
----
 
 #### Epic Feat
 
@@ -692,13 +562,9 @@ You can now use Natural Will as a free action when an enemy attacks you.
 
 When you hit with a melee attack deal 1d8 extra lightning damage, 1d12 at 7th level, and 1d20 at 9th level to the target.
 
----
-
 #### Champion Feat
 
 While raging, deal the extra damage to all nearby enemies.
-
----
 
 #### Epic Feat
 
@@ -710,13 +576,9 @@ You gain resist lightning and thunder 16+.
 
 When you score a critical hit, all nearby allies gain a +2 bonus to melee attack rolls and saves against effects until the end of your next turn.
 
----
-
 #### Champion Feat
 
 You grant the bonus to all saves, including saves to disengage and death saves.
-
----
 
 #### Epic Feat
 
@@ -728,13 +590,9 @@ You grant the bonus to all attack rolls, including ranged and spell attacks.
 
 One battle per day while you are raging, increase your AC by 1 every time you are damaged by an enemy’s attack. This AC bonus cannot exceed the escalation die (to a maximum of 6).
 
----
-
 #### Champion Feat
 
 You can now use Revel In Pain in two battles per day.
-
----
 
 #### Epic Feat
 
@@ -746,13 +604,9 @@ The maximum AC bonus from Revel In Pain is now your level.
 
 You gain a +1 bonus to all saves, including death saves. While raging, the bonus is equal to your Constitution modifier instead.
 
----
-
 #### Champion Feat
 
 When you start raging, you can make a save against all effects.
-
----
 
 #### Epic Feat
 
@@ -764,13 +618,9 @@ You take half damage from ongoing damage.
 
 Once per day as a quick action, you gain a +2 bonus to your Physical Defense until the end of the battle.
 
----
-
 #### Champion Feat
 
 The bonus now increases to +4 Physical Defense.
-
----
 
 #### Epic Feat
 
@@ -782,13 +632,9 @@ You can now use Thick Skin as a free action (rather than a quick action) when an
 
 Once per battle, add a +1d4 bonus to a barbarian melee attack roll after finding out whether you hit or missed.
 
----
-
 #### Champion Feat
 
 If the attack still misses, deal half damage.
-
----
 
 #### Epic Feat
 
@@ -800,15 +646,11 @@ The bonus increases to +1d6.
 
 At 8th level, you gain an additional barbarian class talent. Choose one of these epic-tier talents, or take another adventurer-tier or champion-tier talent instead.
 
----
-
 ### Ancestral Warband
 
 One battle per day as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can't be hurt or affected by the creatures of this world.
 
 At the end of each of your turns, if you are conscious, roll a d6. If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world. Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or magic items as you see fit. This attack doesn't take any of your actions.
-
----
 
 #### Epic Feat
 
@@ -820,8 +662,6 @@ Your Ancestral Warband spirits are always raging, even if you are not, and conti
 
 When you score a critical hit, you can heal using a free recovery.
 
----
-
 #### Epic Feat
 
 After you score a critical hit, the next time you are hit by an attack, you take half damage. Multiple half-damage effects don’t stack.
@@ -831,8 +671,6 @@ After you score a critical hit, the next time you are hit by an attack, you take
 ### Fearsome Demeanor
 
 One battle per day, all nearby normal monsters and mooks suffer a penalty to their attack rolls and MD equal to the escalation die. If a monster would normally receive a bonus to either of these stats from the escalation die, they lose that bonus instead of suffering the penalty.
-
----
 
 #### Epic Feat
 
@@ -846,8 +684,6 @@ In battle, you can call on the Fury of the North Wind as a standard action. Unti
 
 On your next turn, you can pop free from all enemies and make a giant leap, carried by the icy winds, to engage a nearby or far away enemy as a move action. Your next melee attack that turn deals double damage, and you always count as raging when making the attack.
 
----
-
 #### Epic Feat
 
 When you activate Fury of the North Wind, enemies engaged with you must succeed at a save or take 25 cold damage and be dazed until the end of your next turn.
@@ -860,8 +696,6 @@ _Special_: You can only choose this talent as a single-class barbarian.
 
 Increase your Strength and Constitution scores by 4.
 
----
-
 #### Epic Feat
 
 Increase your Dexterity, Intelligence, Wisdom and Charisma scores by 1.
@@ -872,8 +706,6 @@ Increase your Dexterity, Intelligence, Wisdom and Charisma scores by 1.
 
 Once per day, you can spend a recovery to turn a regular hit into a critical hit.
 
----
-
 #### Epic Feat
 
 You can use Survival Sacrifice once per battle.
@@ -883,8 +715,6 @@ You can use Survival Sacrifice once per battle.
 ### Relentless
 
 While raging, you have resist damage 12+ (when an attack targets you, the attacker must roll a natural 12 or higher on the attack roll or it only deals half damage).
-
----
 
 #### Epic Feat
 

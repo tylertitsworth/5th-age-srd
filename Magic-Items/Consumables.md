@@ -70,8 +70,6 @@ Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher
 
 Runes function exactly like magical oils, but in addition to the expected +1/+2/+3 bonus, each rune also provides an additional random enhancement to the item it is applied to. Roll for the effect when the rune is applied to the item. An item can only have one rune applied to it at a time.
 
----
-
 ### Rune Costs
 
 | **Tier** | **Bonus** | **Cost** |

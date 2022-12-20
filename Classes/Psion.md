@@ -15,13 +15,9 @@ Psions get 2 skill points in any Intelligence or Charisma skill like Arcana, His
 
 At 1st level, psions start with adventuring clothes, a simple dagger (or a uniquely weird but similarly powerful weapon befitting to their background), and any other minor (and unusual) elements of gear their background suggests.
 
----
-
 ### Gold Pieces
 
 Psions start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Psions start with 25gp.
 | **Heavy** | 11 | –2 |
 | **Shield** | +1 | –2 |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -42,8 +36,6 @@ Psions start with 25gp.
 | **Light or Simple** | 1d6 (-2 atk) mace, shortsword | 1d8 (-4 atk) spear |
 | **Heavy or Martial** | 1d8 (-5 atk) scimitar, warhammer | 1d10 (–6 atk) greatsword |
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -51,8 +43,6 @@ Psions start with 25gp.
 | **Small** | 1d4 dagger, star | 1d4 hand crossbow | — |
 | **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | 1d8 (–4 atk) heavy crossbow | 1d8 (–5 atk) longbow |
-
----
 
 ## Level Progression
 
@@ -146,19 +136,13 @@ If you roll…
 
 Whether you cast an at-will, per-battle, or daily affinity, you cast it at the affinity level shown on the affinity progression table.
 
----
-
 #### Adventurer Feat
 
 Once per day when you cast an iconic daily or once-per-battle affinity from an relationship you have at least a one-point with, roll a normal save. If you succeed, you don't expend that affinity, allowing you to cast it again, or another daily/once-per-battle affinity.
 
----
-
 #### Champion Feat
 
 Once per day when you draw an iconic affinity, before rolling, choose an relationship you have at least a one-point with. The affinity you cast next will be from that relationship.
-
----
 
 #### Epic Feat
 
@@ -174,21 +158,15 @@ When an enemy scores a critical hit against you, roll high weirdness and consult
 
 Unless otherwise specified, the high weirdness effects last until the end of the battle.
 
----
-
 #### Adventurer Feat
 
 If you have one or more Warp talents, whenever you make a d6 roll for one, also roll for a new high weirdness effect. The new effect replaces the weirdness effect currently active, if any.
 
 If you have no Warp talents, roll for a new high weirdness effect whenever you draw an iconic affinity.
 
----
-
 #### Champion Feat
 
 Once per battle when you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
-
----
 
 #### Epic Feat
 
@@ -250,8 +228,6 @@ One battle per day, each time you roll for a high weirdness effect, roll twice a
 
 Choose three of the following class talents.
 
----
-
 ### Warp Talents
 
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
@@ -275,19 +251,13 @@ When your random affinity choice indicates an attack affinity, roll a d6 to dete
 | **5** | _Metal_: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
 | **6** | _Void:_ During your next turn, you can use a move action to teleport to a nearby location you can see. |
 
----
-
 ##### Adventurer Feat
 
 When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level).
 
----
-
 ##### Champion Feat
 
 While you are flying due to any effect, you gain a bonus to disengage checks equal to your Dexterity modifier.
-
----
 
 ##### Epic Feat
 
@@ -310,19 +280,13 @@ When your random affinity choice indicates a defense affinity, roll a d6 to dete
 | **5** | _Metal_: Until the end of your next turn, you gain a +2 bonus to AC. |
 | **6** | _Void:_ Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack. |
 
----
-
 ##### Adventurer Feat
 
 When you heal using a recovery, add hit points equal to the escalation die to that healing.
 
----
-
 ##### Champion Feat
 
 While you are at maximum hit points, you gain a +1 bonus to all defenses.
-
----
 
 ##### Epic Feat
 
@@ -345,19 +309,13 @@ When your random affinity choice indicates an iconic affinity, roll a d6 to dete
 | **5** | _Metal_: Until the end of your next turn, critical hits scored against you only count as normal hits. |
 | **6** | _Void:_ When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
 
----
-
 ##### Adventurer Feat
 
 Once per battle when you roll for an iconic warp effect, roll the d6 twice and choose the result you want.
 
----
-
 ##### Champion Feat
 
 When you roll a natural 18–20 on a save, a nearby ally of your choice can roll a save against a save ends effect.
-
----
 
 ##### Epic Feat
 
@@ -369,19 +327,13 @@ When you roll a natural 20 with an attack, the critical hit range of your attack
 
 You gain 1 affinity of Bard. Whenever you take a full heal-up, randomly choose a bard spell or song up to the highest level you can cast. For the rest of the day, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your psion affinity casting sequence.
 
----
-
 #### Adventurer Feat
 
 After each full heal-up, choose an art form such as kazoo improvisation, ice carving or gnome pantomime. Roll a d6 and gain as many points in a related background. The inspiration lasts until the next full heal-up, at which point a new inspiration strikes.
 
----
-
 #### Champion Feat
 
 After each full heal-up, choose one random battle cry from the bard list. You can use this battle cry with your chaos mage melee attacks. Once per day, you can also trigger it with an at-will affinity attack roll.
-
----
 
 #### Epic Feat
 
@@ -407,19 +359,13 @@ If you have a warp talent, you still get the talent’s effect even if you drop 
 
 _Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion daily affinity.
 
----
-
 #### Adventurer Feat
 
 Your recoveries use exploding dice (add one more die for each that comes up as maximum).
 
----
-
 #### Champion Feat
 
 Your AC in light armor is increased to 11, and in heavy armor to 13.
-
----
 
 #### Epic Feat
 
@@ -435,19 +381,13 @@ Since psionics are a manifestation of your physical being, you use Constitution 
 
 As a side effect, your body and mind shake off attempts to reshape them more easily. You can roll saves at the start of your turn instead of at the end of your turn. A successful save against ongoing damage, for example, means that you will not take the ongoing damage that turn.
 
----
-
 #### Adventurer Feat
 
 Reroll natural 1s when spending a recovery to heal.
 
----
-
 #### Champion Feat
 
 Once per battle, when you are out of daily affinities, you can cast a daily affinity by expending a recovery without healing instead.
-
----
 
 #### Epic Feat
 
@@ -486,19 +426,13 @@ Also choose one ability for your pet from the list below:
 | 5 | Hungry |
 | 6 | Cuddly |
 
----
-
 #### Adventurer Feat
 
 Your pet has a second ability from the list.
 
----
-
 #### Champion Feat
 
 Your pet has a third ability.
-
----
 
 #### Epic Feat
 
@@ -510,13 +444,9 @@ Your pet has a fourth ability.
 
 You gain a bonus daily affinity, for a total of three at 1st level.
 
----
-
 #### Champion Feat
 
 Once per battle, roll twice for affinity. Keep one to determine your affinity and mark both as used.
-
----
 
 #### Epic Feat
 
@@ -528,13 +458,9 @@ When you have no psion daily affinities left, regain one when you take a quick r
 
 You are ever-so-slightly detached from normal physical reality. Play the story side of that as you like; the game mechanics side is that you can cast ranged affinities while engaged with enemies without taking opportunity attacks.
 
----
-
 #### Adventurer Feat
 
 While you have an _air_ or _void_ warp effect active, you take no damage from missed attacks.
-
----
 
 #### Champion Feat
 
@@ -548,19 +474,13 @@ You gain 1 affinity of Necromancer. Whenever you take a full heal-up, randomly c
 
 If the necromancer affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
----
-
 #### Adventurer Feat
 
 One battle per day, you can gain the Cackling Soliloquist talent from the necromancer class.
 
----
-
 #### Champion Feat
 
 While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
-
----
 
 #### Epic Feat
 
@@ -574,19 +494,13 @@ You gain 1 affinity of Wizard. Whenever you take a full heal-up, randomly choose
 
 If the wizard affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
----
-
 #### Adventurer Feat
 
 You gain a random wizard talent at the start of each day. Roll a d3. 1: Abjuration; 2: Evocation; 3: High Arcana (_counter magic_). Replace references to "wizard" in these talents with "psion" and Intelligence with Charisma.
 
----
-
 #### Champion Feat
 
 You gain a single daily use of the wizard's _utility affinity_, cast at your level or lower.
-
----
 
 #### Epic Feat
 
@@ -600,19 +514,13 @@ You gain 1 affinity of Cleric. Whenever you take a full heal-up, randomly choose
 
 If the cleric affinity refers to Wisdom, you can replace that ability score with references to Charisma.
 
----
-
 #### Adventurer Feat
 
 At the start of the day, choose a random cleric invocation, excepting those from the healing domain. You can use that invocation as if you were a cleric once this day as a quick action.
 
----
-
 #### Champion Feat
 
 While you have an _air_ or _water_ warp effect active, when you heal using a recovery or cast an affinity that lets an ally heal using a recovery, add an extra recovery die to the healing.
-
----
 
 #### Epic Feat
 
@@ -624,19 +532,13 @@ In addition to the random invocation you gain at the start of the day, you also 
 
 While you are staggered, increase the damage dice of your psion affinities by one step (d4 to d6 and so on).
 
----
-
 #### Adventurer Feat
 
 Once per battle, when rolling an affinity, you can swap the affinity for an iconic affinity that has already been used. You can only do this if you have a used iconic affinity.
 
----
-
 #### Champion Feat
 
 While you are staggered, your psion affinities gain a +2 bonus to their critical threat range.
-
----
 
 #### Epic Feat
 
@@ -648,19 +550,13 @@ While you are staggered, all damage dice of your affinities are exploding dice (
 
 You gain 1 affinity of Sorcery. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or daily—when that option is rolled during your turn.
 
----
-
 #### Adventurer Feat
 
 Twice per day, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer affinity or a psion affinity the next time you cast an affinity. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of affinity you will be casting, since you select an affinity type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic affinity coming.)
 
----
-
 #### Champion Feat
 
 While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage (double your Charisma modifier at 5th level; triple it at 8th level).
-
----
 
 #### Epic Feat
 
@@ -691,19 +587,13 @@ At-Will
 | 7th | 7d10 damage. |
 | 9th | 9d10 damage. |
 
----
-
 #### Adventurer Feat
 
 You can now also target far away enemies.
 
----
-
 #### Champion Feat
 
 This affinity's damage dice increase by one size to d12s.
-
----
 
 #### Epic Feat
 
@@ -779,8 +669,6 @@ Quick action
 
 **Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to a random nearby enemy.
 
----
-
 #### Adventurer Feat
 
 On a natural odd miss, deal the damage to two random nearby enemies.
@@ -802,8 +690,6 @@ _Special:_ You can expend a daily affinity instead to attack two enemies.
 **Hit:** The target makes an attack against a random nearby enemy, with the escalation die as a bonus. If it has more than one attack ability, the GM picks one randomly.
 
 **Miss:** The target has disadvantage on its next attack roll.
-
----
 
 #### Champion Feat
 
@@ -831,8 +717,6 @@ _Always:_ You can fly until the end of your next turn.
 | --- | --- |
 | 7th | 8d8 damage. |
 | 9th | 10d10 damage. |
-
----
 
 #### Champion Feat
 
@@ -864,8 +748,6 @@ _Natural Odd Hit:_ 10d12 + Charisma psychic damage. If the escalation die is odd
 | --- | --- |
 | 9th | 2d10 x 10 damage. |
 
----
-
 #### Champion Feat
 
 You can now attack far away enemies with this affinity.
@@ -895,8 +777,6 @@ Daily
 **Hit:** The target takes 50 ongoing negative energy damage as its body slowly devolves. The save against the ongoing damage is a hard save (16+). If a target has 100 hit points or fewer left when it fails a save, it becomes primordial ooze, leaving only a puddle of gooey mess.
 
 **Miss:** --
-
----
 
 #### Epic Feat
 
@@ -929,19 +809,13 @@ At-Will
 | 7th | _gift_ and _resilience_ now grant 35 temporary hit points; _aura_ damage is 6d8. |
 | 9th | _gift_ and _resilience_ now grant 60 temporary hit points; _aura_ damage is 10d8. |
 
----
-
 #### Adventurer Feat
 
 The _defense bonus_ effect now applies to all the target's defenses (and therefore ends as soon as the target is missed by an attack).
 
----
-
 #### Champion Feat
 
 A number of times per day equal to your highest non-Charisma modifier, you can roll twice when you cast _eidolic boon_ and gain both effects (reroll a duplicate result).
-
----
 
 #### Epic Feat
 
@@ -989,8 +863,6 @@ At-Will
 | 7th | 4d10 damage |
 | 9th | 6d12 damage |
 
----
-
 #### Adventurer Feat
 
 Until the start of your next turn, you can repeat the attack as a free action against each enemy who moves to engage you.
@@ -1016,13 +888,9 @@ Daily
 
 If you roll a protection you have already lost, you’ve lucked out this turn — you don’t lose another benefit.
 
----
-
 #### Adventurer Feat
 
 Increase the defense bonuses granted by this spell to +3.
-
----
 
 #### Champion Feat
 
@@ -1071,8 +939,6 @@ Daily
 | 19 | The next time Chaotic Blur fails to block an attack this battle, you still take only half damage. |
 | 20 | Increase the chance that Chaotic Blur triggers by 5% (so 21-25 are now also a miss, then 26-30 and so on), without additional effects on those numbers. |
 
----
-
 #### Adventurer Feat
 
 You can target a nearby ally with the spell instead.
@@ -1108,8 +974,6 @@ _Natural 18+:_ The target destroys the affinity zone and you must roll for a Hig
 | Higher Level | Effect |
 | --- | --- |
 | 9th | The save is now a normal save (11+) |
-
----
 
 #### Epic Feat
 
@@ -1150,19 +1014,13 @@ At-Will
 | 7th | 5d8 damage. |
 | 9th | 6d10 damage. |
 
----
-
 ##### Adventurer Feat
 
 When you hit a demon with this affinity, it's also hampered (save ends).
 
----
-
 ##### Champion Feat
 
 The damage dice for the affinity increase by one size (for example, d6s to d8s).
-
----
 
 ##### Epic Feat
 
@@ -1200,19 +1058,13 @@ _1–10:_ The target can heal using a recovery.
 
 _11–20:_ The target can make a basic attack as a free action.
 
----
-
 ##### Adventurer Feat
 
 When this affinity allows a target to attack, the attack deals half damage on a miss instead of normal miss damage.
 
----
-
 ##### Champion Feat
 
 The target can move as a free action before using a recovery or attacking.
-
----
 
 ##### Epic Feat
 
@@ -1256,19 +1108,13 @@ _Special:_ This affinity attack ignores all the target's resistances.
 
 9th level affinity 9d8 damage.
 
----
-
 ##### Adventurer Feat
 
 This affinity can now deal holy damage instead of fire damage.
 
----
-
 ##### Champion Feat
 
 The damage dice for this affinity increase from d8s to d10s.
-
----
 
 ##### Epic Feat
 
@@ -1297,13 +1143,9 @@ Daily
 | 7th | 9d10 damage. |
 | 9th | 2d6 x 10 damage. |
 
----
-
 ##### Champion Feat
 
 This affinity now deals half damage on a miss.
-
----
 
 ##### Epic Feat
 
@@ -1326,19 +1168,13 @@ At-Will
 | 7th | 53 extra damage. |
 | 9th | 83 extra damage. |
 
----
-
 ##### Adventurer Feat
 
 Add your Charisma modifier to the extra damage (double your Charisma modifier at 5th level; triple it at 8th level).
 
----
-
 ##### Champion Feat
 
 When you cast this affinity,each nearby enemy that's staggered also takes 2d6 thunder damage (4d6 thunder damage at 8th level).
-
----
 
 ##### Epic Feat
 
@@ -1362,19 +1198,13 @@ Daily
 | 7th | 7d10 damage. |
 | 9th | 10d10 damage. |
 
----
-
 ##### Adventurer Feat
 
 The affinity no longer targets your allies.
 
----
-
 ##### Champion Feat
 
 The affinity's damage dice increase by one size (for example, d10s to d12s).
-
----
 
 ##### Epic Feat
 
@@ -1401,19 +1231,13 @@ At-Will
 | 7th | 14 damage. |
 | 9th | 27 damage. |
 
----
-
 ##### Adventurer Feat
 
 This affinity now targets 1d4 nearby or far away enemies.
 
----
-
 ##### Champion Feat
 
 This affinity now targets 1d6 nearby or far away enemies.
-
----
 
 ##### Epic Feat
 
@@ -1463,19 +1287,13 @@ At-Will
 | 7th | Even hit: 5d8 damage; Odd hit: 28 ongoing damage. |
 | 9th | Even hit: 7d10 damage; Odd hit: 40 ongoing damage. |
 
----
-
 ##### Adventurer Feat
 
 A natural odd miss now deals damage equal to your level.
 
----
-
 ##### Champion Feat
 
 A natural odd miss now deals half the force damage an even hit would have dealt.
-
----
 
 ##### Epic Feat
 
@@ -1495,13 +1313,9 @@ Daily
 
 **Hit:** The target is confused until the end of its next turn.
 
----
-
 ##### Champion Feat
 
 Once per battle when a staggered enemy misses you with an attack while this affinity's effect is active, you can make the attack against that enemy.
-
----
 
 ##### Epic Feat
 
@@ -1528,19 +1342,13 @@ At-Will
 | 7th | 5d6 damage. |
 | 9th | 5d8 damage. |
 
----
-
 ##### Adventurer Feat
 
 This affinity now deals damage equal to your level on a miss.
 
----
-
 ##### Champion Feat
 
 The damage dice for this affinity increase by one size (for example, from 3d6 to 3d8).
-
----
 
 ##### Epic Feat
 
@@ -1589,19 +1397,13 @@ _Special:_ When you cast the affinity, you or a willing nearby ally of your choi
 | 7th | 10d10 damage, you or ally loses 6d6 hit points. |
 | 9th | 2d8 x 10 damage, you or ally loses 8d6 hit points. |
 
----
-
 ##### Adventurer Feat
 
 The affinity now deals half damage on a miss.
 
----
-
 ##### Champion Feat
 
 You or an ally now lose one less die of hit points (for example, 3d6 instead of 4d6).
-
----
 
 ##### Epic Feat
 
@@ -1644,19 +1446,13 @@ At-Will
 | 7th | 7d10 damage, 15 temporary hit points. |
 | 9th | 9d10 damage, 25 temporary hit points. |
 
----
-
 ##### Adventurer Feat
 
 This affinity now deals half damage on a miss.
 
----
-
 ##### Champion Feat
 
 When the target drops to 0 hp, instead of gaining temporary hit points, you can choose to deal that amount of negative energy damage to one nearby enemy as a free action.
-
----
 
 ##### Epic Feat
 
@@ -1684,13 +1480,9 @@ Replace the target with the GM's choice of an undamaged and hostile undead creat
 | --- | --- |
 | 9th | 8d10 + Charisma psychic damage on a miss. |
 
----
-
 ##### Champion Feat
 
 This affinity can now also target an entire mob of mooks. If the attack hits, replace them with a mob of undead mooks that is one level lower.
-
----
 
 ##### Epic Feat
 
@@ -1719,19 +1511,13 @@ At-Will
 | 7th | 7d8 damage, 10 temporary hit points. |
 | 9th | 9d8 damage, 15 temporary hit points. |
 
----
-
 ##### Adventurer Feat
 
 When you miss with the affinity, one of your nearby allies now gains the temporary hit points.
 
----
-
 ##### Champion Feat
 
 This affinity now deals half damage on a miss.
-
----
 
 ##### Epic Feat
 
@@ -1756,19 +1542,13 @@ Daily
 | 7th | Target with 60 hp or fewer. |
 | 9th | Target with 100 hp or fewer. |
 
----
-
 ##### Adventurer Feat
 
 One target that heals can also roll a save against a save ends effect.
 
----
-
 ##### Champion Feat
 
 The recovery is now free.
-
----
 
 ##### Epic Feat
 
@@ -1793,19 +1573,13 @@ At-Will
 | 7th | 3d12 damage. |
 | 9th | 4d12 damage. |
 
----
-
 ##### Adventurer Feat
 
 Once per day, one or more targets of the affinity can be far away.
 
----
-
 ##### Champion Feat
 
 The damage increases by one die (for example, 2d10 becomes 3d10).
-
----
 
 ##### Epic Feat
 
@@ -1825,13 +1599,9 @@ _1–4:_ You can heal using a recovery.
 
 _5+:_ You deal double damage to the first target you hit with a psion affinity this turn.
 
----
-
 ##### Champion Feat
 
 You can choose to add +1 to the d6 roll after seeing it.
-
----
 
 ##### Epic Feat
 
@@ -1862,19 +1632,13 @@ At-Will
 | 7th | 7d8 damage, 12 ongoing damage. |
 | 9th | 9d8 damage, 18 ongoing damage. |
 
----
-
 ##### Adventurer Feat
 
 This affinity can now target far away enemies.
 
----
-
 ##### Champion Feat
 
 A natural odd miss now deals half natural even hit damage.
-
----
 
 ##### Epic Feat
 

@@ -15,8 +15,6 @@ Once per battle as a free action after you have been hit by an enemy attack, you
 
 >Note that you can't use this ability if the attack drops you to 0 hp or below. You've got to be on your feet to sneer at their attack and recover.
 
----
-
 #### Champion Feat
 
 If the escalation die is 2+ when you use that's your best shot, the recovery is free.
