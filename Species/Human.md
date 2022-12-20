@@ -7,8 +7,6 @@ layout: doc
 
 +2 to any ability score.
 
----
-
 ### Bonus Feat
 
 At 1st level, human PCs start with two feats instead of one.
@@ -20,8 +18,6 @@ At 1st level, human PCs start with two feats instead of one.
 ### Quick to Fight
 
 At the start of each battle, roll initiative twice and choose the result you want.
-
----
 
 ### Champion Feat
 

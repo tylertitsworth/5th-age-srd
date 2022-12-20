@@ -30,8 +30,6 @@ These are the categories of melee weapons:
 
 Ranged weapons can be reloaded as part of the standard action in which they are used in an attack. Hand and light crossbows require a quick action to reload. Heavy crossbows require a move action to reload.
 
----
-
 ### Nearby Targets Only
 
 - Small, thrown: club, dagger, knife
@@ -61,8 +59,6 @@ One platinum piece (pp) equals 10 gold pieces. One gold piece (gp) equals 10 sil
 ## Equipment Price Guide
 
 Characters start with armor, weapons, and standard traveling gear; prices are included for reference.
-
----
 
 ### Standard Traveling Gear
 

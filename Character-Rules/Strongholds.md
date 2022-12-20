@@ -56,8 +56,6 @@ You can spend more money to build a larger stronghold from the start, but there 
 
 ### Camp
 
----
-
 #### Demesne Effects
 
 - Ale within the barbarian’s demesne is particularly refreshing, bringing good cheer with no hangovers the next day no matter how much is consumed.

@@ -25,13 +25,9 @@ Each class provides a +2 bonus to one of your ability scores.
 
 Your character can be assigned ability scores in various ways. Here are two ways.
 
----
-
 ### Standard Array
 
 You can allocate the score values 15, 14, 13, 12, 11, and 10.
-
----
 
 ### Point Buy
 
@@ -50,8 +46,6 @@ You get 16 points to buy your abilities using the chart below.
 | 10 | 0 |
 | 9 | -1 |
 | 8 | -2 |
-
----
 
 ### Stat Generator
 
@@ -135,8 +129,6 @@ Your character's _unique_ should not provide general practical value in combat. 
 
 Your character's relationship with people, organizations, and entities gives you benefits.
 
----
-
 ### Relationship Points
 
 At 1st level, each character gets 3 relationship points.
@@ -182,8 +174,6 @@ Each character has a number of points to allocate to a set of skills. These are 
 | Streetwise | Charisma |
 | Survival | Wisdom |
 
----
-
 ### Assigning Skill Points
 
 Each character gets skill points at certain levels, plus any extra that your class awards. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
@@ -195,8 +185,6 @@ Each character gets skill points at certain levels, plus any extra that your cla
 | 4th | 2 |
 | 6th | 2 |
 | 8th | 2 |
-
----
 
 ### Making Skill Checks
 

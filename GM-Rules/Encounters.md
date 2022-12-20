@@ -14,8 +14,7 @@ Lower-level monsters count as fractions of an adventurer-level monster, and high
 | 1 level higher | 2 levels higher | 3 levels higher | 1.5 | .3 | 3 | 4 |
 | 2 levels higher | 3 levels higher | 4 levels higher | 2 | .4 | 4 | 6 |
 | 3 levels higher | 4 levels higher | 5 levels higher | 3 | .6 | 6 | 8 |
-| 4 levels higher | 5 levels higher | 6 levels higher | 4 | .8 | 8 |
- |
+| 4 levels higher | 5 levels higher | 6 levels higher | 4 | .8 | 8 | |
 
 ## Mooks
 

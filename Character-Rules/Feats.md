@@ -30,8 +30,6 @@ Most of the feats in the game are attached to specific class talents, attacks, a
 
 These are general feats available to any character. A character can't take a specific feat more than once. A few general feats only have adventurer-tier versions; others also have champion- and epic-tier versions that can be added later in your career.
 
----
-
 ### Skilled
 
 #### Adventurer Tier

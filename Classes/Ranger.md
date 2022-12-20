@@ -15,13 +15,9 @@ Rangers get 2 skill points in any Dexterity or Strength skill like Acrobatics, A
 
 At 1st level, a ranger starts with light armor, a melee weapon or two, a ranged weapon or two, and other mundane gear as suggested by their background.
 
----
-
 ### Gold Pieces
 
 Rangers start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Rangers start with 25gp.
 | **Heavy** | 15 | -2 |
 | **Shield** | +1 | -2 |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -42,8 +36,6 @@ Rangers start with 25gp.
 | **Light or Simple** | 1d6 shortsword, hand axe | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, warhammer | 1d10 greatsword, greataxe |
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -51,8 +43,6 @@ Rangers start with 25gp.
 | **Small** | 1d4 dagger | 1d4 hand crossbow | — |
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
-
----
 
 ## Level Progression
 
@@ -126,8 +116,6 @@ Choose three of the following class talents, or put two talents into Animal Comp
 
 You get an additional ranger class talent at 5th level, and again at 8th level.
 
----
-
 ### Animal Companion
 
 _Special:_ Unlike most class talents, this talent can take up to two ranger class talent slots. Spending one talent makes you an Animal Companion initiate. Spending two makes you an Animal Companion adept.
@@ -169,37 +157,25 @@ You regain all expended charges during a full heal-up. When you take a quick res
 
 You can only apply one power to each ranged attack, unless you have one of the feats below that allow you to stack multiple powers of one sphere.
 
----
-
 #### Adventurer Feat
 
 You learn an additional shot. You can use Intelligence instead of Wisdom for your Arcane Archer abilities.
-
----
 
 #### Adventurer Feat
 
 Gain a bonus charge. You can use Charisma instead of Wisdom for your Arcane Archer abilities.
 
----
-
 #### Champion Feat
 
 Choose one sphere. Gain a +1 bonus to hit when using a shot from that sphere.
-
----
 
 #### Champion Feat
 
 Choose one sphere. You can combine any two shots of that sphere in one attack by paying the cost for each.
 
----
-
 #### Epic Feat
 
 Regain two charges on a quick rest as an initiate, or three as an adept.
-
----
 
 #### Epic Feat
 
@@ -222,8 +198,6 @@ Choose one sphere. You can combine all three shots of that sphere in one attack 
 | 7th | 20 hp or fewer |
 | 9th | 25 hp or fewer |
 
----
-
 ###### Adventurer Feat
 
 Double the hit point range at which you can drop an enemy to zero hit points.
@@ -235,8 +209,6 @@ Double the hit point range at which you can drop an enemy to zero hit points.
 **Cost:** 1 charge
 
 **Effect:** Target the enemy's PD instead of AC.
-
----
 
 ###### Adventurer Feat
 
@@ -262,8 +234,6 @@ _Special:_ Requires Deathknell Shot and Ghost Shot
 
 **Effect:** If you hit, deal 1d6 extra fire damage per level.
 
----
-
 ###### Adventurer Feat
 
 The extra fire damage dice are exploding dice (on a 6, roll another d6 and add it).
@@ -281,8 +251,6 @@ The extra fire damage dice are exploding dice (on a 6, roll another d6 and add i
 | 5th | 10 ongoing damage |
 | 7th | 15 ongoing damage |
 | 9th | 20 ongoing damage |
-
----
 
 ###### Adventurer Feat
 
@@ -313,8 +281,6 @@ _Special:_ Requires Burning Shot and Immolating Shot
 
 **Effect:** If you hit, the attack deals force damage and throws the target backwards. It pops free from anyone it is engaged with. If you push the target into a dangerous spot, such as over a ledge or into lava, it can make a save to avoid the effect.
 
----
-
 ###### Adventurer Feat
 
 The push effect is now strong enough to throw a target from a nearby to a far away location.
@@ -326,8 +292,6 @@ The push effect is now strong enough to throw a target from a nearby to a far aw
 **Cost:** 1 charge
 
 **Effect:** You have advantage on the attack roll.
-
----
 
 ###### Adventurer Feat
 
@@ -355,8 +319,6 @@ _Special:_ Requires Arrow Fist and Homing Missile
 
 **Effect:** On a hit, deal 1d4 per level extra cold damage to the target, and it has disadvantage on disengage checks until the end of your next turn.
 
----
-
 ###### Adventurer Feat
 
 Increase the extra damage to 1d6 per level.
@@ -368,8 +330,6 @@ Increase the extra damage to 1d6 per level.
 **Cost:** 1 charge
 
 **Effect:** On a hit, whenever the target takes an action before the end of your next turn, it takes cold damage equal to your level + Wisdom modifier (x2 at 5th level; x3 at 8th).
-
----
 
 ###### Adventurer Feat
 
@@ -400,8 +360,6 @@ _Special:_ Requires Ice Arrow and Freezing Arrow
 
 **Effect:** On a hit, the target has disadvantage on its next attack roll.
 
----
-
 ###### Adventurer Feat
 
 On a miss, you deal extra psychic damage equal to your level.
@@ -413,8 +371,6 @@ On a miss, you deal extra psychic damage equal to your level.
 **Cost:** 1 charge
 
 **Effect:** The attack targets the enemy’s MD instead of AC.
-
----
 
 ###### Adventurer Feat
 
@@ -442,8 +398,6 @@ Champion Feat Increase your WEAPON damage dice to d12s with this shot and make a
 
 **Effect:** On a hit, the target is dazed until the end of your next turn. On a miss, deal your level in thunder damage to any of your allies engaged with the target.
 
----
-
 ###### Adventurer Feat
 
 On a natural even hit, the target is weakened instead.
@@ -463,8 +417,6 @@ On a natural even hit, the target is weakened instead.
 **Hit:** 1d8 per level lightning damage
 
 **Miss:** —
-
----
 
 ###### Champion Feat
 
@@ -490,13 +442,9 @@ _Special:_ Requires Thunderbolt and Lightning Bolt
 
 **Effect:** On a hit, deal 1d4 per level extra damage. On a natural even hit, the target is stuck until the end of its next turn.
 
----
-
 ###### Adventurer Feat
 
 The target is now stuck on any hit.
-
----
 
 ###### Champion Feat
 
@@ -515,8 +463,6 @@ On a natural 16+, the stuck effect is “save ends.”
 | 5th | 25 damage to shake off |
 | 7th | 40 damage to shake off |
 | 9th | 60 damage to shake off |
-
----
 
 ###### Adventurer Feat
 
@@ -538,19 +484,13 @@ _Special:_ Requires Rooting Shot and Ivy Shot
 
 Once per battle, reroll one of your missed ranged attacks.
 
----
-
 #### Adventurer Feat
 
 Your Archery rerolls gain a +2 attack bonus and the attack's crit range expands by 1.
 
----
-
 #### Champion Feat
 
 Once per day, you can use Archery twice in the same battle.
-
----
 
 #### Epic Feat
 
@@ -562,19 +502,13 @@ Once per day, you can turn a normal hit with a ranger ranged attack into a criti
 
 When you are not engaged, you gain a +2 bonus to all defenses.
 
----
-
 #### Adventurer Feat
 
 Once per scene, you can choose to reroll a skill check to hide that is a natural even roll.
 
----
-
 #### Champion Feat
 
 Once per battle, while not engaged, you can force an enemy to reroll a natural odd attack roll against you.
-
----
 
 #### Epic Feat
 
@@ -590,19 +524,13 @@ Your weapon damage die drops one notch, usually from d8s to d6s. If your first a
 
 If you decide you don't want to try for a double melee attack while fighting with two one-handed weapons, declare it before rolling your attack; the single attack will deal the normal damage dice instead of using reduced damage dice.
 
----
-
 #### Adventurer Feat
 
 Your second attack gains a +2 attack bonus if it is against a different target.
 
----
-
 #### Champion Feat
 
 Once per battle, use Double Melee Attack after an odd attack roll.
-
----
 
 #### Epic Feat
 
@@ -618,19 +546,13 @@ Your weapon damage die drops one notch, usually from d8s to d6s. If your first a
 
 If you decide you don't want to try for a double ranged attack when firing your bow or other ranged weapon, declare it before rolling your attack; the single attack will deal the normal damage dice instead of using reduced damage dice.
 
----
-
 #### Adventurer Feat
 
 Your second attack gains a +2 attack bonus if it is against a different target.
 
----
-
 #### Champion Feat
 
 Once per battle, you can use Double Ranged Attack after an odd attack roll.
-
----
 
 #### Epic Feat
 
@@ -642,13 +564,9 @@ Each turn, you can pop free of one enemy before one attack roll that is part of 
 
 You are constantly moving in melee combat; your footwork a blur of misdirection. You automatically succeed at disengage checks except against enemies with a specific grab ability. Against enemies with grab, your disengage checks don’t suffer the usual -5 penalty.
 
----
-
 #### Adventurer Feat
 
 You can intercept enemies even while you’re engaged; doing so pops you free from whomever you were engaged with.
-
----
 
 #### Champion Feat
 
@@ -670,8 +588,6 @@ Your existing animal companion returns to the wilderness and is replaced—after
 
 **Advantage:** You can ride it, which probably makes you faster than you’d otherwise be. In the absence of complex mounted combat rules, simply rule that your animal companion always has the same ranges from enemies that you do (engaged, nearby, far away, and so on). In general, you and your companion will move during your turn, and when your turn is over, it’ll make a melee attack with its horns against anything you’re engaged with.
 
----
-
 ##### Adventurer Feat
 
 You gain the ability to charge forward. If you start your turn unengaged, you may engage any enemy you can move to and gain a +2 bonus on your attack roll. (We note that the 13th Age Roleplaying Game generally frowns on charge bonuses, but if there’s a worthy exception, it’s mounted combat.)
@@ -683,8 +599,6 @@ You gain the ability to charge forward. If you start your turn unengaged, you ma
 **Acts:** After ranger
 
 **Advantage:** When the dire wolf drops an enemy to 0 hp, it can howl as a free action. Nearby enemies suffer a penalty to attacks and defenses equal to half the escalation die (rounded up) until the end of the companion’s next turn.
-
----
 
 ##### Adventurer Feat
 
@@ -698,8 +612,6 @@ You can ride the dire wolf; see dire stag advantage above
 
 **Advantage:** Because it’s a vicious hybrid, the owlbear can make an extra attack during its turn when the escalation die is even.
 
----
-
 ##### Champion Feat
 
 When the owlbear hits an enemy, that enemy is hampered until the end of the owlbear’s next turn.
@@ -712,13 +624,9 @@ When the owlbear hits an enemy, that enemy is hampered until the end of the owlb
 
 **Advantage:** It flies, but unlike the eagle, you don’t drop its melee damage to compensate.
 
----
-
 ##### Champion Feat
 
 The pseudodragon has a stinging tail that it incorporates into its melee attack, so it gains ongoing poison damage equal to three times your level on a natural attack roll of 18+.
-
----
 
 ##### Epic Feat
 
@@ -732,19 +640,13 @@ Choose a specific monster type (e.g. aberration, beast, construct, demon, dragon
 
 >\*Choosing humanoid: Unlike other favored enemies, choosing humanoid as your favored enemy takes up two ranger class talent slots.
 
----
-
 #### Adventurer Feat
 
 You can change your favored enemy by meditating when you take a full heal-up.
 
----
-
 #### Champion Feat
 
 Your crit range for attacks against favored enemies expands by 1 (to +3).
-
----
 
 #### Epic Feat
 
@@ -756,19 +658,13 @@ Choose a second non-humanoid monster type as a favored enemy.
 
 Choose one daily or recharge spell of your level or lower from the sorcerer class. You can cast this spell as if you were a sorcerer (though you can't gather power).
 
----
-
 #### Adventurer Feat
 
 You can choose which ability score you want to use as the attack ability for sorcerer spells you can cast.
 
----
-
 #### Champion Feat
 
 You can now choose from sorcerer at-will spells.
-
----
 
 #### Epic Feat
 
@@ -780,19 +676,13 @@ You gain an additional sorcerer spell of your choice that is your level or lower
 
 The first time you attack an enemy during a battle, your crit range for that attack expands by 2 (usually to 18+). A mob of mooks counts as a single enemy.
 
----
-
 #### Adventurer Feat
 
 The crit range of your First Strike attacks expands by 1 (to +3).
 
----
-
 #### Champion Feat
 
 Once per day, deal triple damage with a First Strike crit instead of double damage.
-
----
 
 #### Epic Feat
 
@@ -804,19 +694,13 @@ Whenever you hit with a First Strike attack, you can reroll your damage once and
 
 Choose one spell of your level or lower from the necromancer class. You can cast this spell as if you were a necromancer, but you can replace any mention of Intelligence with Wisdom. You can change the spell after each full heal-up.
 
----
-
 #### Adventurer Feat
 
 When you are in the Underworld, environment-related skill checks such as tracking are one step easier (-5) for you.
 
----
-
 #### Champion Feat
 
 Once per battle, you can force an enemy to reroll an attack against you as a free action, as long as you are in a dark or shadowy area.
-
----
 
 #### Epic Feat
 
@@ -828,19 +712,13 @@ You gain an additional necromancer spell of your choice of up to your level -2.
 
 You gain a +1 bonus to attack when fighting with a two-handed melee weapon.
 
----
-
 #### Adventurer Feat
 
 When fighting with a two-handed weapon, reroll all natural 1s on the damage dice.
 
----
-
 #### Champion Feat
 
 Once per battle, when fighting with a two-handed weapon, reroll one of your missed attacks.
-
----
 
 #### Epic Feat
 
@@ -852,19 +730,13 @@ When you hit an enemy you weren’t engaged with at the start of your turn with 
 
 Once per battle as a free action, choose an enemy. The crit range of your attacks against that enemy expands by 2 for the rest of the battle. A mob of mooks counts as a single enemy.
 
----
-
 #### Adventurer Feat
 
 The crit range of your Lethal Hunter attacks expands by 1 (to +3).
 
----
-
 #### Champion Feat
 
 One battle per day, you can use Lethal Hunter against two different enemies.
-
----
 
 #### Epic Feat
 
@@ -876,19 +748,13 @@ Your Lethal Hunter crits deal triple damage instead of double damage while the e
 
 Once per day, you can use your innate maneuverability and momentum to great effect on the battlefield. Make a basic melee attack against a nearby; if you hit, you can automatically pop free from that target, move to engage another nearby enemy, and make a basic melee attack against the new target. Repeat the process of basic attack/pop free/move to new targets until you either miss with an attack or you have attacked all nearby enemies once.
 
----
-
 #### Adventurer Feat
 
 You are not subject to interception during your movement between targets.
 
----
-
 #### Champion Feat
 
 Your first miss doesn’t break the chain of attacks.
-
----
 
 #### Epic Feat
 
@@ -902,19 +768,13 @@ The first enemy you attack can be far away.
 
 When fighting with a spear (d8 two-handed melee attack) or a javelin (d6 thrown weapon), and your attack is a natural even hit, deal 1d6 extra damage per level.
 
----
-
 #### Adventurer Feat
 
 On a natural odd hit with a spear, you can pop free from your target.
 
----
-
 #### Champion Feat
 
 Once per battle, when you intercept an enemy, make a melee attack against them as an interrupt action.
-
----
 
 #### Epic Feat
 
@@ -926,19 +786,13 @@ Once per battle, gain advantage on an attack against an enemy that you engaged t
 
 Choose one daily or recharge spell of your level or lower from the cleric class. You can cast this spell as if you were a cleric. You can change your chosen spell each time you take a full heal-up.
 
----
-
 #### Adventurer Feat
 
 You can cast the cleric class feature _heal_ spell once per battle.
 
----
-
 #### Champion Feat
 
 You can now choose from cleric at-will spells.
-
----
 
 #### Epic Feat
 
@@ -954,19 +808,13 @@ You have a small animal or beast that accompanies you on your adventures. Use th
 2. Your pet is fully natural rather than partially magical.
 3. Your pet can end up with more abilities, if you choose.
 
----
-
 #### Adventurer Feat
 
 Your pet gains a third ability.
 
----
-
 #### Champion Feat
 
 Your pet gains a fourth ability.
-
----
 
 #### Epic Feat
 
@@ -978,13 +826,9 @@ Your pet gains a fifth ability.
 
 You’ve been trained in the art of close-quarters archery, relishing the opportunity to use your bow (or other ranged attack) when you can see the whites of their eyes. You can make attacks normally even when engaged, so you don’t draw opportunity attacks from enemies you’re engaged with.
 
----
-
 #### Adventurer Feat
 
 If you successfully disengage, you can get far away from the creature you disengage from with a single move (assuming the prevailing terrain allows it).
-
----
 
 #### Champion Feat
 
@@ -996,19 +840,13 @@ You can split up your move action: Run about half as far as you ordinarily would
 
 You gain the ability to understand and speak the language of birds, mammals, lizards, amphibians, and snakes. Your conversations are generally brief, because such creatures have limited intellects and even more limited attention spans, but they’re generally capable of answering questions about their immediate proximity and other creatures in the vicinity. Their memory extends back at least a few hours and as much as a few days.
 
----
-
 #### Adventurer Feat
 
 If the creature is amenable (or properly bribed with food or other comfort), it performs a simple task for you.
 
----
-
 #### Champion Feat
 
 Your abilities extend to insects, earthworms, spiders, and similar vermin.
-
----
 
 #### Epic Feat
 
@@ -1032,19 +870,13 @@ You can apply any of the animal companion feats in the ranger’s class descript
 
 Add your Wisdom modifier to saving throws and death saves.
 
----
-
 #### Adventurer Feat
 
 Increase your recovery dice to d10.
 
----
-
 #### Champion Feat
 
 You die after five failed death saves instead of four.
-
----
 
 #### Epic Feat
 
@@ -1062,19 +894,13 @@ In addition, you have the terrain stunt power.
 
 Terrain stunts are improvisational effects that play off your preternatural understanding of the wilderness and all the diverse forms of the natural world. Things like knocking a hornets nest no one had noticed onto your enemy's head, maneuvering a foe onto a soggy patch of ground that slows them down, shooting the cap off a mushroom spore in a dungeon that erupts on your enemies, getting your enemy's sword wedged into a stalactite, finding the tree branch that lets you vault up to attack the flying demon that thought it was out of axe range, and similar types of actions.
 
----
-
 #### Adventurer Feat
 
 Your grasp of the way the world is put together increases; you now can use terrain stunt in urban environments.
 
----
-
 #### Champion Feat
 
 You can track as well in urban areas as you do in the wilderness.
-
----
 
 #### Epic Feat
 
@@ -1086,19 +912,13 @@ You can track flying creatures and creatures that normally wouldn't be trackable
 
 Double the blades means double the opportunities for parries—and ripostes. Your second weapon is effectively as good as a shield, adding +1 to your AC against enemy melee attacks. You don’t suffer the attack penalty you normally would if you were carrying a shield, and you can still use the second weapon to attack according to the two-weapon fighting rules.
 
----
-
 #### Adventurer Feat
 
 If you fight with two one-handed melee weapons, you can make a desperate parry to convert an enemy’s melee critical hit into an ordinary hit once per battle.
 
----
-
 #### Champion Feat
 
 If you fight with two one-handed melee weapons, whenever an enemy makes a melee attack against you and rolls a natural 1, you can make an opportunity attack against that foe as a free action.
-
----
 
 #### Epic Feat
 
@@ -1114,19 +934,13 @@ You can freely make ranged attacks even if you’re engaged without suffering op
 
 When you take this talent, talk to your GM about which weapons are appropriate. The talent remains balanced even if you stretch credulity a little and allow short swords (1d6) to be used as ranged weapons or javelins (also 1d6) in melee.
 
----
-
 #### Adventurer Feat
 
 Your second attack gains a +2 attack bonus if it is against a different target.
 
----
-
 #### Champion Feat
 
 Once per battle, you can use Two-Weapon Hurler after an odd attack roll.
-
----
 
 #### Epic Feat
 
@@ -1138,19 +952,13 @@ Each turn, you can pop free of one enemy before one attack roll that is part of 
 
 You gain a +1 attack bonus when fighting with a one-handed melee weapon in each hand.
 
----
-
 #### Adventurer Feat
 
 When you fight with two one-handed melee weapons, increase the damage you deal with missed attacks by adding your level to it. Most of your basic melee attacks, therefore, will deal double your level as miss damage.
 
----
-
 #### Champion Feat
 
 If you fight with two one-handed melee weapons, whenever an enemy makes a melee attack against you and rolls a natural 1, you can make an opportunity attack against that foe as a free action.
-
----
 
 #### Epic Feat
 
@@ -1164,19 +972,13 @@ _Special:_ You must have the [Favored Enemy](#favored-enemy) talent before you c
 
 The dark fey have taught you well, instructing you on a straightforward but effective curse you can deliver with a successful attack. Once per day, if you hit a favored enemy with an attack, it suffers a penalty on subsequent attack rolls equal to the escalation die (11+ save ends).
 
----
-
 #### Adventurer Feat
 
 You can use the Unseelie Curse once per encounter.
 
----
-
 #### Champion Feat
 
 The Unseelie Curse is now a hard (16+) save.
-
----
 
 #### Epic Feat
 
@@ -1190,13 +992,9 @@ You gain a spell slot from the druid’s Circle of the Lands, you don’t need t
 
 In addition, once per day per point of Wisdom modifier, you can commune with the spirits of nature to gain advantage on a skill check related to the surrounding terrain. For example, beast spirits can help you track game, river spirits can point to a source of freshwater, and earth spirits can make climbing easier.
 
----
-
 #### Champion Feat
 
 When you take a quick rest in a natural environment, roll d12s for recovery dice.
-
----
 
 #### Epic Feat
 
@@ -1210,13 +1008,9 @@ Once per battle, you can perform a stunt as a move action to climb on a large or
 
 If you are still on the enemy on any further turns, roll a normal save (11+). On a success, you remain in position. On a natural even failure, you cling on but lose advantage. On a natural odd failure, you fall off.
 
----
-
 #### Champion Feat
 
 On a hit with a melee or ranged weapon attack against a large or huge enemy, deal 5 extra damage. Increase the bonus to 10 at 7th level, and 15 at 9th.
-
----
 
 #### Epic Feat
 
@@ -1238,13 +1032,9 @@ At the start of each battle, roll 2d4 to determine the effect of a special bless
 - Choose a sorcerer spell gained with Fey Queen’s Enchantments. Choose A) advantage on the first attack roll with it or B) a bonus use of it this battle.
 - If you hit an enemy with a natural even roll on a melee or ranged weapon attack, and their hit point total after taking damage is equal to your maximum or less, that target is confused until the end of your next turn. If they have more hit points, roll 1d4: On a 3 or 4, gain the confusion effect.
 
----
-
 #### Champion Feat
 
 When the escalation die is 5+, roll again for a second benefit (reroll if you get the same benefit twice).
-
----
 
 #### Epic Feat
 
@@ -1256,13 +1046,9 @@ Gain the second benefit when the escalation die is 3+.
 
 While you are not engaged, you can take a quick action to aim at a nearby enemy. If you attack this enemy with a ranged weapon attack this turn, target their PD instead of their AC.
 
----
-
 #### Champion Feat
 
 You can choose to target the enemy’s MD instead of PD.
-
----
 
 #### Epic Feat
 
@@ -1278,13 +1064,9 @@ Once per day, you can swear an Oath of Vengeance against an enemy as a quick act
 
 You also gain Inescapable Wrath and Relentless Pursuit as bonus powers.
 
----
-
 #### Champion Feat
 
 When an enemy drops you below zero hit points, you gain a free use of Oath of Vengeance against that enemy.
-
----
 
 #### Epic Feat
 
@@ -1330,13 +1112,9 @@ _Special:_ This talent requires [First Strike](#first-strike).
 
 When you make a First Strike attack, and you hit, deal 10 (7th level: 15; 9th level: 20) ongoing damage. If the attack is a critical hit, double the ongoing damage.
 
----
-
 #### Champion Feat
 
 On a miss with a First Strike attack, deal half damage.
-
----
 
 #### Epic Feat
 
@@ -1350,8 +1128,6 @@ _Special:_ This talent requires [Double Melee Attack](#double-melee-attack) or [
 
 Your double attacks no longer reduce the weapon size by one step.
 
----
-
 #### Champion Feat
 
 Your second attack with Double Melee Attack can be a ranged attack instead, and your second attack with Double Ranged Attack can be a melee attack instead. (You switch weapons as part of the second attack.)
@@ -1364,13 +1140,9 @@ _Special:_ This talent requires [Lethal Hunter](#lethal-hunter).
 
 You can declare your Lethal Hunter target outside of combat. This gives you advantage on skill checks to track the target down.
 
----
-
 #### Champion Feat
 
 When your Lethal Hunter target is staggered, you deal half damage on a miss.
-
----
 
 #### Epic Feat
 
@@ -1381,8 +1153,6 @@ You gain a +2 bonus to hit against your Lethal Hunter target.
 ### Bladestorm (8th Level+)
 
 When an enemy engages you, you can make a melee basic attack against that enemy as an interrupt action.
-
----
 
 #### Epic Feat
 
@@ -1396,8 +1166,6 @@ _Special:_ This talent requires [Double Ranged Attack](#double-ranged-attack).
 
 If the second attack from Double Ranged Attack is a natural even roll, you can make another ranged attack against another enemy within range that you have not attacked yet this turn. Keep attacking as long as your attack roll is even and there are viable targets.
 
----
-
 #### Epic Feat
 
 Once per day, when you make at least 3 ranged attacks in one turn, increase the escalation die by 1.
@@ -1407,8 +1175,6 @@ Once per day, when you make at least 3 ranged attacks in one turn, increase the 
 ### Pack Circles the Prey (8th Level+)
 
 When you score a critical hit with a melee attack, the target is vulnerable to all attacks until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -1436,8 +1202,6 @@ Interrupt action
 
 **Effect:** Take half damage from the attack and teleport to a nearby location.
 
----
-
 ##### Epic Feat
 
 You can use defensive jaunt twice per battle.
@@ -1449,8 +1213,6 @@ You can use defensive jaunt twice per battle.
 _Special:_ This talent requires [Double Melee Attack](#double-melee-attack).
 
 If your second attack from Double Melee Attack is a natural even roll, you can pop free from your current target and make a melee attack against a different nearby enemy that you have not attacked yet this turn. Keep making attacks as long as your attack roll is even and there are viable targets.
-
----
 
 #### Epic Feat
 

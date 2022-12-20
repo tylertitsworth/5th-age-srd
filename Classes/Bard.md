@@ -15,13 +15,9 @@ Bards get 2 skill points in any Dexterity or Charisma skill like Acrobatics, Per
 
 At 1st level, bards start with non-magical musical instruments, a melee and ranged weapon of their choice, some form of light armor, and any other minor elements of gear their background suggests.
 
----
-
 ### Gold Pieces
 
 Bards start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Bards start with 25gp.
 | **Heavy** | 13 | –2 |
 | **Shield** | +1 | –1 |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -42,8 +36,6 @@ Bards start with 25gp.
 | **Light or Simple** | 1d6 mace, shortsword | 1d8 spear |
 | **Heavy or Martial** | 1d8 longsword, scimitar | 1d10 (–2 atk) greatsword, dire flail |
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -51,8 +43,6 @@ Bards start with 25gp.
 | **Small** | 1d4 dagger | 1d4 hand crossbow | — |
 | **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
 | **Heavy or Martial** | — | 1d8 (–1 atk) heavy crossbow | 1d8 (–2 atk) longbow |
-
----
 
 ## Level Progression
 
@@ -126,8 +116,6 @@ At-Will
 
 As a bard advances in level, they have three different types of powers to choose in combat: bardic songs, battle cries, and spells.
 
----
-
 ### Bardic Songs
 
 Bardic songs last for one or more rounds and end with a final verse that carries a big payoff. Although magical, bardic songs don't count as spells; they don't force the bard to suffer opportunity attacks from engaged enemies, and they can't be canceled by effects that can cancel spells. In fact, bards can cast spells while in the middle of singing a bardic song.
@@ -144,8 +132,6 @@ You can only sing one bardic song at a time. If you are singing a song (or spend
 
 Bardic songs are loud, and cancel any of stealth effects you may have.
 
----
-
 #### Adventurer Feat
 
 Your bardic songs don't stop immediately when you are knocked unconscious, stunned, or silenced. Instead, they continue for one round, giving you the chance to sustain the song on your next turn.
@@ -157,8 +143,6 @@ Your bardic songs don't stop immediately when you are knocked unconscious, stunn
 Bards use battle cries to encourage, inspire, warn, and magically aid their allies. Battle cries are triggered by flexible melee attacks. The bard makes a melee attack and is able to use a battle cry that corresponds to the attack's natural result, sometimes whether or not the attack hits.
 
 Bonuses provided by battle cries can help a bard's allies but not the bard.
-
----
 
 #### Adventurer Feat
 
@@ -178,25 +162,17 @@ Unlike most character classes, bards use two different ability scores for their 
 
 Choose three of the following class talents.
 
----
-
 ### Acrobat
 
 You gain a +3 bonus to disengage checks, a +1 bonus to PD, and 3 skill points towards skills to show off your acrobatic skills.
-
----
 
 #### Adventurer Feat
 
 Increase your base AC to 13 in light or no armor.
 
----
-
 #### Champion Feat
 
 You no longer take damage from missed attacks.
-
----
 
 #### Epic Feat
 
@@ -224,19 +200,13 @@ You can use these points to increase your standing with a relationship the way y
 
 When your great ballad magically compliments a relationship, another relationship should take a hit. As you explain the story of your ballad to the GM, you should account for at least one relationship who is being mocked, vilified, or referred to in unflattering terms. You get an equal number of negative points for that relationship.
 
----
-
 #### Adventurer Feat
 
 The first time you use your ballad-created relationship, any 5s you roll become 6s. You also gain a +2 bonus to your Balladeer checks.
 
----
-
 #### Champion Feat
 
 You can sing two great songs a day. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the day.
-
----
 
 #### Epic Feat
 
@@ -256,19 +226,13 @@ You cannot take this talent if you have taken the _Spellsinger_ talent.
 
 Increase the number of battle cries you know by one. The bonus battle cry can be from your highest possible level.
 
----
-
 #### Adventurer Feat
 
 One battle per day, you can use your battle cries to help yourself.
 
----
-
 #### Champion Feat
 
 When you use a battle cry on yourself, it also helps an ally.
-
----
 
 #### Epic Feat
 
@@ -282,19 +246,13 @@ The bards of a subterranean species, especially dwarves, have learned to use the
 
 When your music can echo off stone, such as in a castle or underground, you have advantage on sustain checks for your bardic songs.
 
----
-
 #### Adventurer Feat
 
 While underground or within a stone building, you can sustain a bardic song for 1d4 rounds, even if you are knocked unconscious, stunned or silenced, or otherwise unable to use an action to do it.
 
----
-
 #### Champion Feat
 
 While underground or within a stone building, any daily bard song or spell becomes recharge 16+ for you.
-
----
 
 #### Epic Feat
 
@@ -310,19 +268,13 @@ You gain a positive relationship point with a deific fey. This represents your s
 
 Starting from 3rd level, choose either sorcerer spells with the Fey keyword, or druid spells from the Circle of the Feysong. You can switch out a bard spell for a spell of the chosen type at a -2 level penalty.
 
----
-
 #### Adventurer Feat
 
 You can switch out one bard spell without the level penalty. This allows you to switch out a spell before 3rd level.
 
----
-
 #### Champion Feat
 
 When you disengage from an enemy or teleport away from it, you deal psychic damage equal to twice your level to it.
-
----
 
 #### Epic Feat
 
@@ -336,8 +288,6 @@ Choose another spell-casting character class. You can choose one spell from the 
 
 This spell is a bonus spell, not included in your bard class count.
 
----
-
 #### Adventurer Feat
 
 You can use your Charisma as the ability score that provides spell's attack bonus and damage bonus (if any). Other ability score references remain unchanged.
@@ -346,13 +296,9 @@ If the spell is a wizard spell, you also gain three cantrips of your choice from
 
 If you choose a spell from the sorcerer class, you also gain the sorcerer's _dancing lights_ class feature.
 
----
-
 #### Champion Feat
 
 Choose a second spell-casting class. Choose another spell from that class as well.
-
----
 
 #### Epic Feat
 
@@ -390,19 +336,13 @@ Bards have a reputation as sweet talkers, but you take it to a whole new level. 
 
 You also gain 3 skill points towards the appropriate skills.
 
----
-
 #### Adventurer Feat
 
 Once per session, you can reroll a failed skill check in a social interaction.
 
----
-
 #### Champion Feat
 
 You can intervene and reroll the failed skill check of an ally instead, replacing your own skill check with his or hers.
-
----
 
 #### Epic Feat
 
@@ -420,19 +360,13 @@ Flexible melee attack
 
 **Effect:** You gain a +1 bonus to AC and PD until the end of your next turn.
 
----
-
 #### Adventurer Feat
 
 You also take no damage or effects from missed attacks until the end of your next turn.
 
----
-
 #### Champion Feat
 
 Increase the bonus to +2.
-
----
 
 #### Epic Feat
 
@@ -448,19 +382,13 @@ Flexible melee attack
 
 **Effect:** Give a nearby ally a damage bonus equal to your Charisma bonus (minimum +1) until the end of your next turn.
 
----
-
 #### Adventurer Feat
 
 Nearby allies can immediately make a save against save-ends effects that began with an attack that targeted their MD.
 
----
-
 #### Champion Feat
 
 All nearby allies gain the damage bonus.
-
----
 
 #### Epic Feat
 
@@ -479,19 +407,13 @@ Flexible melee attack
 - One of your unengaged allies can move as a free action
 - One of your engaged allies can make a disengage check as a free action.
 
----
-
 #### Adventurer Feat
 
 The disengage check gains a +2 bonus.
 
----
-
 #### Champion Feat
 
 The bonus increases to +5.
-
----
 
 #### Epic Feat
 
@@ -507,19 +429,13 @@ Flexible melee attack
 
 **Effect:** One nearby ally can heal using a recovery.
 
----
-
 #### Adventurer Feat
 
 The target adds +1d4 healing per point on the escalation die.
 
----
-
 #### Champion Feat
 
 The attack can now also trigger on any natural even roll; the extra healing is now +1d6 per point.
-
----
 
 #### Epic Feat
 
@@ -535,19 +451,13 @@ Flexible melee attack
 
 **Effect:** Give a nearby ally a +2 bonus to AC until the start of your next turn.
 
----
-
 #### Adventurer Feat
 
 Bonus also applies to PD.
 
----
-
 #### Champion Feat
 
 Bonus also applies to MD.
-
----
 
 #### Epic Feat
 
@@ -563,19 +473,13 @@ Flexible melee attack
 
 **Effect:** A nearby conscious ally can roll a save against a save ends effect.
 
----
-
 #### Adventurer Feat
 
 The save gains a +1 bonus.
 
----
-
 #### Champion Feat
 
 The bonus increases to +2.
-
----
 
 #### Epic Feat
 
@@ -602,19 +506,13 @@ Recharge 11+ after battle
 | 7th | The bonus increases to +4 |
 | 9th | The bonus increases to +5 |
 
----
-
 #### Adventurer Feat
 
 You can use this spell on yourself.
 
----
-
 #### Champion Feat
 
 The attack bonus also applies to the saving throw.
-
----
 
 #### Epic Feat
 
@@ -687,19 +585,13 @@ _Special:_ When you use _battle chant_, you can choose any battle cry effect you
 | 7th | 6d4 damage. |
 | 9th | 10d4 damage. |
 
----
-
 #### Adventurer Feat
 
 Your _battle chant_ damage dice are now d6s instead of d4s.
 
----
-
 #### Champion Feat
 
 Once per day, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
-
----
 
 #### Epic Feat
 
@@ -728,19 +620,13 @@ Recharge 11+ after battle
 | 7th | Target with 160 hp or fewer. |
 | 9th | Target with 266 hp or fewer. |
 
----
-
 #### Adventurer Feat
 
 Recharge check is now 6+.
 
----
-
 #### Champion Feat
 
 The target of the spell doesn't have to be nearby, just in line of sight.
-
----
 
 #### Epic Feat
 
@@ -804,8 +690,6 @@ Daily
 
 **Effect:** Until the end of the scene, you gain a 1d6 bonus to skill checks against NPCs who have shared a drink with you.
 
----
-
 #### Adventurer Feat
 
 Also grant the bonus to all nearby allies.
@@ -829,19 +713,13 @@ Quick action
 | 5th | Increase the bonuses to +2 |
 | 9th | Increase the bonuses to +3 |
 
----
-
 #### Adventurer Feat
 
 The spell becomes recharge 11+
 
----
-
 #### Champion Feat
 
 Enemies take a penalty to saves against your spells equal to the enchantment bonus.
-
----
 
 #### Epic Feat
 
@@ -870,19 +748,13 @@ Once per battle
 | 7th | 4d12 damage |
 | 9th | 6d12 damage |
 
----
-
 #### Adventurer Feat
 
 If you currently have a bard song active, gain a +1 bonus to the attack roll.
 
----
-
 #### Champion Feat
 
 On a natural even hit, grant advantage to a second nearby ally. The ally does not need to be engaged with the target.
-
----
 
 #### Epic Feat
 
@@ -911,19 +783,13 @@ Daily
 | 7th | 2d6 x 10 damage. |
 | 9th | 3d6 x 10 damage. |
 
----
-
 #### Adventurer Feat
 
 On a natural even hit, the dazed effect is now save ends.
 
----
-
 #### Champion Feat
 
 The spell is now recharge 16+ after battle instead of daily.
-
----
 
 #### Epic Feat
 
@@ -941,19 +807,13 @@ Flexible melee attack
 
 **Effect:** Give a nearby ally temporary hit points equal to your Charisma modifier.
 
----
-
 #### Adventurer Feat
 
 If the ally is staggered, double the temporary hit points.
 
----
-
 #### Champion Feat
 
 Add your level to the temporary hit points given (add before any doubling).
-
----
 
 #### Epic Feat
 
@@ -969,19 +829,13 @@ Flexible melee attack
 
 **Effect:** This battle, your next ally to attack the target you missed gains a +2 attack bonus with that attack.
 
----
-
 #### Adventurer Feat
 
 That ally's attack also deals +1d6 damage.
 
----
-
 #### Champion Feat
 
 The damage bonus increases to +3d6.
-
----
 
 #### Epic Feat
 
@@ -1013,13 +867,9 @@ Quick action each turn; 11+ to sustain
 
 **Final Verse:** You and all nearby allies can save against a save-ends effect imposed by the target.
 
----
-
 #### Adventurer Feat
 
 You can choose two enemies for the song’s effects.
-
----
 
 #### Champion Feat
 
@@ -1079,8 +929,6 @@ Quick action each turn; 16+ to sustain
 
 **Final Verse:** Nearby allies have advantage on their next melee attack roll.
 
----
-
 #### Champion Feat
 
 On the final verse, enemies are also vulnerable to your allies’ next melee attack.
@@ -1111,13 +959,9 @@ Standard action each turn; 11+ to sustain
 | 7th | 9d8 damage. |
 | 9th | 10d12 damage. |
 
----
-
 #### Champion Feat
 
 The number of targets increases to 2d4.
-
----
 
 #### Epic Feat
 
@@ -1139,19 +983,13 @@ Recharge 11+
 
 **Miss:** --
 
----
-
 #### Adventurer Feat
 
 You can target a far away enemy, but if you do, the saving throw is 6+.
 
----
-
 #### Champion Feat
 
 This spell doesn’t provoke opportunity attacks from the target.
-
----
 
 #### Epic Feat
 
@@ -1185,8 +1023,6 @@ Daily
 
 _Special:_ When you target an ally with this spell, you don’t require an attack roll, and the target can choose to remain under the effect, without saving against it.
 
----
-
 #### Adventurer Feat
 
 The target also takes a -2 penalty to melee attack rolls. If you target an ally, they gain a +2 bonus instead.
@@ -1213,19 +1049,13 @@ Recharge 11+ after battle
 | 7th | 10d8 damage. |
 | 9th | 2d8 x 10 damage. |
 
----
-
 #### Adventurer Feat
 
 On a hit, the effect that damages the target when it misses is now save ends.
 
----
-
 #### Champion Feat
 
 Recharge check is now 6+.
-
----
 
 #### Epic Feat
 
@@ -1249,19 +1079,13 @@ Daily
 | 7th | Add +15 hp to the recovery. |
 | 9th | Add +25 hp to the recovery. |
 
----
-
 #### Adventurer Feat
 
 The spell is now recharge 16+ after battle instead of daily.
 
----
-
 #### Champion Feat
 
 Add a third random target.
-
----
 
 #### Epic Feat
 
@@ -1279,8 +1103,6 @@ Flexible melee attack
 
 **Effect:** Mark the target. At the start of any turn this battle, if the target is hiding or has moved to a far away location, you can end the mark and make a melee attack against the target as a standard action as if you were engaged with it. The attack targets MD and deals psychic damage.
 
----
-
 #### Champion Feat
 
 The attack above is a free action.
@@ -1295,13 +1117,9 @@ Flexible melee attack
 
 **Effect:** Until the end of your next turn, your nearby allies can treat any attack roll as even for the purposes of triggers and flexible attacks.
 
----
-
 #### Champion Feat
 
 Your allies can add +1 to their attack roll if it was naturally odd to begin with.
-
----
 
 #### Epic Feat
 
@@ -1317,13 +1135,9 @@ Flexible melee attack
 
 **Effect:** Until the end of your next turn, your nearby allies automatically succeed on disengage checks and can intercept enemies even if they’re engaged (doing so pops them free).
 
----
-
 #### Champion Feat
 
 The stuck condition ends for nearby allies, and they pop free from any enemies who’ve grabbed them.
-
----
 
 #### Epic Feat
 
@@ -1338,8 +1152,6 @@ Flexible melee attack
 **Triggering Roll:** Natural even hit
 
 **Effect:** The next ally who misses an attack before the end of your next turn can reroll it once.
-
----
 
 #### Champion Feat
 
@@ -1365,8 +1177,6 @@ Flexible melee attack
 
 **Effect:** Make a sustain check for a bard song as a free action.
 
----
-
 #### Champion Feat
 
 Add your Charisma modifier to the roll.
@@ -1380,8 +1190,6 @@ Flexible melee attack
 **Triggering Roll:** Natural 5, 6, 7, 8
 
 **Effect:** You pop free from the target, and a nearby ally pops free from all enemies and engages the target.
-
----
 
 #### Champion Feat
 
@@ -1397,13 +1205,9 @@ Flexible melee attack
 
 **Effect:** A nearby ally can heal using a recovery, and three nearby allies gain a +3d6 damage bonus to their next damage roll this battle.
 
----
-
 #### Champion Feat
 
 The battle cry can now trigger when the escalation die is 3+ instead of 5+.
-
----
 
 #### Epic Feat
 
@@ -1463,13 +1267,9 @@ Quick action each turn; 6+ to sustain
 
 **Final Verse:** The effect ends immediately. Deal 1d6 psychic damage per level to a nearby enemy.
 
----
-
 #### Champion Feat
 
 Enemies who fail a save are also dazed (-4 to attacks) until the end of their next turn.
-
----
 
 #### Epic Feat
 
@@ -1498,13 +1298,9 @@ Recharge 16+ after battle
 | 7th | 10d10 damage. |
 | 9th | 2d10 x 10 damage. |
 
----
-
 #### Champion Feat
 
 Recharge check is now 11+.
-
----
 
 #### Epic Feat
 
@@ -1556,13 +1352,9 @@ _Natural Odd Hit:_ 5d6 + Charisma damage, and the target is dazed until the end 
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
----
-
 #### Champion Feat
 
 You can place the shield on a nearby ally instead.
-
----
 
 #### Epic Feat
 
@@ -1589,13 +1381,9 @@ Daily
 | 7th | 25 ongoing psychic damage. |
 | 9th | 40 ongoing psychic damage. |
 
----
-
 #### Champion Feat
 
 If the target is staggered, you gain a +2 bonus to the attack.
-
----
 
 #### Epic Feat
 
@@ -1628,8 +1416,6 @@ _Reckless miss:_ 10 damage to all allies engaged with the target
 | 7th | 2d4 x 10 damage; 15 damage on a reckless miss |
 | 9th | 2d8 x 10 damage; 20 damage on a reckless miss |
 
----
-
 #### Champion Feat
 
 The spell is now recharge 16+.
@@ -1648,8 +1434,6 @@ Once per battle
 
 **Effect:** A nearby ally can make a ranged basic attack against the target, and you pop free.
 
----
-
 #### Epic Feat
 
 The ally can use any standard action ranged attack.
@@ -1665,8 +1449,6 @@ Once per battle
 **Triggering Roll:** Natural even miss
 
 **Effect:** Reroll the attack with a +2 bonus.
-
----
 
 #### Epic Feat
 
@@ -1693,8 +1475,6 @@ _Special:_ You can use this battle cry only on your turn.
 **Triggering Roll:** Natural 20
 
 **Effect:** A nearby ally can make a basic attack as a free action.
-
----
 
 #### Epic Feat
 
@@ -1730,8 +1510,6 @@ Quick action; 6+ to sustain
 
 **Final Verse:** The weapon flies out to make another melee attack.
 
----
-
 #### Champion Feat
 
 With the final verse, If the natural roll of that attack was even, make another attack against a different nearby enemy. Keep attacking until you have run out of targets, or until an attack roll is odd.
@@ -1755,8 +1533,6 @@ Standard action each turn; 16+ to sustain
 **Miss:** If the target has 125 hit points or fewer, it is dazed until the end of your next turn. Otherwise, no effect.
 
 **Final Verse:** Make the attack against 2d4 nearby enemies, or attack one enemy with a +4 bonus and no hit point limit.
-
----
 
 #### Champion Feat
 
@@ -1838,8 +1614,6 @@ Daily
 | --- | --- |
 | 9th | 4d4 x 10 damage, and 30 ongoing damage; 30 ongoing damage on a miss |
 
----
-
 #### Epic Feat
 
 This spell becomes a close-quarters spell targeting all nearby creatures.
@@ -1870,13 +1644,9 @@ Recharge 16+ after battle
 
 **Effect:** You can swap your position and the positions of all your nearby allies, even if you can't see them when you cast the spell. Each position presently occupied by you or an ally must end up occupied after the swap, but otherwise you can swap freely.
 
----
-
 #### Champion Feat
 
 Recharge check is now 11+.
-
----
 
 #### Epic Feat
 
@@ -1895,8 +1665,6 @@ Daily
 **Triggering Roll:** Natural 16+
 
 **Effect:** Increase the escalation die by 1.
-
----
 
 #### Epic Feat
 
@@ -1926,8 +1694,6 @@ Once per battle
 
 **Effect:** Every ally that is currently at 10 hit points or less, including dying and stabilized allies, can spend a recovery to heal and heals the maximum amount.
 
----
-
 #### Epic Feat
 
 You can set the escalation die to 4 if you wish.
@@ -1941,8 +1707,6 @@ Flexible melee attack
 **Triggering Roll:** Any hit
 
 **Effect:** At the end of your turn, the battle effectively starts over, with the escalation die at 1 and every participant rerolling initiative. All participants regain per-battle spells and effects as if they’d never been expended.
-
----
 
 #### Epic Feat
 
@@ -1958,8 +1722,6 @@ Flexible melee attack
 
 **Effect:** A nearby ally loses one of the following conditions: confused, dazed, fear, hampered, stunned, vulnerable, and weakened.
 
----
-
 #### Epic Feat
 
 The battle cry can affect you instead of an ally if you wish.
@@ -1973,8 +1735,6 @@ Flexible melee attack
 **Triggering Roll:** Natural 19+
 
 **Effect:** Choose one nearby ally. That ally can expend a recovery to regain a daily power or spell.
-
----
 
 #### Epic Feat
 
@@ -2026,8 +1786,6 @@ Standard action each turn; 16+ to sustain
 
 **Final Verse:** Repeat the attack. On a hit, if the target currently has 300 hp or fewer, it starts making last gasp saves (16+). It dies after the fourth failed save.
 
----
-
 #### Epic Feat
 
 When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target. If you have a positive icon relationship with the Lich King, you gain this feat for free.
@@ -2049,8 +1807,6 @@ Daily
 **Hit:** You dominate the target (save ends). At the start of the target’s turn, you can command it to act as you like. If you give the target a command that it has a strong reason to resist, such as one that would harm itself or its friends, it can save against the effect immediately (in addition to the normal save at the end of its turn).
 
 **Miss:** The target notices your attempt to intrude into its mind.
-
----
 
 #### Epic Feat
 

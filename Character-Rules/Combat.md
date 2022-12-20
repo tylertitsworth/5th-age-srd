@@ -108,8 +108,6 @@ Bonuses and effects to a single stat stack with each other, with these exception
 
 At the start of combat, each player rolls initiative for his or her character and the GM rolls for their opponents, with higher-rolling characters or enemies acting earlier each round.
 
----
-
 ### Cyclic Initiative
 
 #### Roll Once
@@ -175,8 +173,6 @@ If the GM judges that the characters are avoiding conflict rather than bringing 
 ## Combat Actions
 
 ### Actions
-
----
 
 #### Regular Actions
 
@@ -268,8 +264,6 @@ Unengaged creatures have no particular limits on how they move. They can't use m
 | You can't intercept enemies | You can engage an enemy moving past you |
 | You're considered nearby other combatants by default | You're considered nearby other combatants by default, but you can usually move far away if you want |
 
----
-
 #### Disengaging
 
 You can move away from the foes that engage you, but you draw an opportunity attack from each of those enemies when you do.
@@ -334,8 +328,6 @@ If it's questionable whether a character could execute a particularly interestin
 
 Here are a few things you can do that are more involved than just moving or attacking.
 
----
-
 ### Flying
 
 Some classes have spells or talents that enable _flight_. The movement rules for _flight_ are the same as for other movement, except that, as long as there is space available, you can fly over enemies you're not engaged with without allowing them to take opportunity attacks against you. You can be intercepted only by other flyers that are already airborne.
@@ -371,8 +363,6 @@ If you want to rally again later in the same battle, make a normal save (11+). I
 ## Attacks
 
 Most attacks follow the general attack rules, except as indicated below.
-
----
 
 ### General Attack Rules
 
@@ -464,8 +454,6 @@ Some classes (and class talents) provide other advantages when fighting with two
 
 Damage and healing affect hit points. Healing also involves _recoveries_.
 
----
-
 ### Damage
 
 Every creature has hit points. You slay enemies (or occasionally knock them out) at 0 hp. PCs at 0 hp begin using the Death and Dying rules.
@@ -534,8 +522,6 @@ PCs can only be fully slain by named villains. PCs who fail four death checks fa
 
 After each battle, you can use a quick rest to get ready for the next battle. After four battles, you'll usually earn a full heal-up.
 
----
-
 ### Quick Rests
 
 When you take a quick rest, you can choose to heal yourself by using as many recoveries as you have available.
@@ -559,8 +545,6 @@ If the party is short of a heal-up but is too beat up to press on, they can retr
 ## Combat Modifiers
 
 The universal combat modifier is +2 when you have advantageous circumstances. Similarly, –2 is the right penalty for adverse situations.
-
----
 
 ### Shooting into Melee
 

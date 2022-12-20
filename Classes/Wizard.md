@@ -15,13 +15,9 @@ Wizards get 2 skill points in any Intelligence or Wisdom skill like Arcana, Natu
 
 At 1st level, a wizard usually has a dagger, a robe or two, a wand, ritual components in pouches, and other minor accouterments suggested by their background.
 
----
-
 ### Gold Pieces
 
 Wizards start with 25gp.
-
----
 
 ### Armor
 
@@ -32,8 +28,6 @@ Wizards start with 25gp.
 | **Heavy** | 11 | –2 |
 | **Shield** | +1 | -2 |
 
----
-
 ### Melee Weapons
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
@@ -41,8 +35,6 @@ Wizards start with 25gp.
 | **Small** | 1d4 dagger | 1d6 staff |
 | **Light or Simple** | 1d6 (-2 atk) shortsword | 1d8 (-2 atk) spear\* |
 | **Heavy or Martial** | 1d8 (-5 atk) longsword | 1d10 (-5 atk) greatsword\* |
-
----
 
 ### Ranged Weapons
 
@@ -53,8 +45,6 @@ Wizards start with 25gp.
 | **Heavy or Martial** | — | 1d8 (–4 atk) heavy crossbow\* | 1d8 (-5 atk) longbow\* |
 
 >\*A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
-
----
 
 ## Level Progression
 
@@ -168,8 +158,6 @@ Spells that have a cyclic usage can always be cast at least once per battle, and
 
 Wizards can cast arcane [rituals](../General-Rules/Rituals.md).
 
----
-
 #### Champion Feat
 
 You can master a ritual in half the required time.
@@ -180,13 +168,9 @@ You can master a ritual in half the required time.
 
 Daily spells of your chosen school become recharge 16+ after battle. They still count as daily spells for abilities that trigger off daily spells.
 
----
-
 #### Champion Feat
 
 Gain a +1 bonus to recharge rolls for spells of your school.
-
----
 
 #### Epic Feat
 
@@ -214,13 +198,9 @@ Necromancy is the forbidden 8th school, and is not featured, see [Necromancer](.
 
 This school covers mainly defense and protection spells.
 
----
-
 ##### Champion Feat
 
 Once per day, when casting an Abjuration spell on yourself, also grant the benefit to a nearby ally.
-
----
 
 ##### Spell List
 
@@ -238,13 +218,9 @@ Once per day, when casting an Abjuration spell on yourself, also grant the benef
 
 Spells of this school summon things, usually from other planes.
 
----
-
 ##### Adventurer Feat
 
 You gain a +1 bonus to attack rolls with your spells against enemies engaged with a creature you summoned.
-
----
 
 ##### Spell List
 
@@ -262,13 +238,9 @@ You gain a +1 bonus to attack rolls with your spells against enemies engaged wit
 
 Spells of this school help you perceive things, both mundane and magical, and at higher levels also through time and space.
 
----
-
 ##### Adventurer Feat
 
 When you perform an arcane ritual to gain information or predict the future, you have advantage on the ritual check.
-
----
 
 ##### Spell List
 
@@ -286,13 +258,9 @@ When you perform an arcane ritual to gain information or predict the future, you
 
 There are two types of Enchantment spells, those that mess with the mind and those that give objects magical properties.
 
----
-
 ##### Adventurer Feat
 
 Increase the difficulty of saves against spells of the Enchantment school by 1. (A natural 18+ on a save always succeeds.)
-
----
 
 ##### Spell List
 
@@ -310,13 +278,9 @@ Increase the difficulty of saves against spells of the Enchantment school by 1. 
 
 Evocation spells summon raw magical force and the elements. Besides spells that throw raw elements at your enemies, the school also offers spells that create walls and spheres.
 
----
-
 #### Champion Feat
 
 Once per battle, when casting an Evocation spell on more than one target, add an additional target.
-
----
 
 ##### Spell List
 
@@ -334,13 +298,9 @@ Once per battle, when casting an Evocation spell on more than one target, add an
 
 Illusion spells create figments of imagination, either in the target’s mind or for all to see.
 
----
-
 ##### Adventurer Feat
 
 Double the duration of all illusion spells you cast that have a fixed duration.
-
----
 
 ##### Spell List
 
@@ -358,13 +318,9 @@ Double the duration of all illusion spells you cast that have a fixed duration.
 
 Transmutation manipulates the properties of a physical object, or changes it entirely.
 
----
-
 ##### Adventurer Feat
 
 Double the duration of any spell that targets physical objects, including cantrips.
-
----
 
 ##### Spell List
 
@@ -382,25 +338,17 @@ Double the duration of any spell that targets physical objects, including cantri
 
 Choose three of the following class talents.
 
----
-
 ### Abjurer
 
 Whenever you cast a daily wizard spell, you gain a +4 AC bonus until the end of your next turn.
-
----
 
 #### Adventurer Feat
 
 The bonus also applies to your Physical Defense.
 
----
-
 #### Champion Feat
 
 You gain 2d12 temporary hit points each time you cast a daily spell.
-
----
 
 #### Epic Feat
 
@@ -414,19 +362,13 @@ You gain 5 points in skills that covers knowledge of ancient civilizations, loca
 
 Once per battle or scene, as a move action, you can pull off a stunt that you have learned when exploring dangerous ruins, things like climbing slippery surfaces, jumping narrow ledges, and avoiding massive rolling boulders. Describe how you are using a mixture of athletic training and arcane tricks to avoid the danger. Usually, you can pull off the stunt without any skill check, but the GM can require a roll for absolutely outlandish tricks.
 
----
-
 #### Adventurer Feat
 
 You gain the rogue’s Trap Sense class feature.
 
----
-
 #### Champion Feat
 
 Add your Intelligence modifier to magic item power recharge rolls for items you wield. This represents your familiarity with ancient artifacts.
-
----
 
 #### Epic Feat
 
@@ -442,19 +384,13 @@ When you cast a spell that targets MD, choose one of the following benefits:
 - Increase the difficulty for the target’s first save against the spell by your Charisma modifier. (A natural roll of 18+ always saves, however.)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if the spell has one target, and twice your level if it has multiple targets.
 
----
-
 #### Adventurer Feat
 
 You gain 3 points toward skills that represents performance skills or mental manipulation.
 
----
-
 #### Champion Feat
 
 Choose a class. You can switch out a wizard spell for a spell from the chosen class at a -2 level penalty, as long as that spell targets MD.
-
----
 
 #### Epic Feat
 
@@ -470,19 +406,13 @@ You are also trained in light armors, and increase your base AC with them to 12.
 
 However, the focus on martial training has reduced your time to study the arcane arts, and you have one fewer wizard spell slots of your highest level available.
 
----
-
 #### Adventurer Feat
 
 When you wield a one-handed blade weapon, your ranged spells do not provoke opportunity attacks.
 
----
-
 #### Champion Feat
 
 After casting an arcane spell, your next hit or miss with a melee weapon attack deals extra damage equal to the spell level. This bonus is not cumulative, only use the highest bonus.
-
----
 
 #### Epic Feat
 
@@ -500,8 +430,6 @@ To do something particularly cunning or surprising with one of your cantrips whe
 
 Additionally, you can expend a 3rd level spell slot or higher to choose one cantrip per spell slot you have given up and create a once-per-day related effect with it that is much greater, if you and your GM can agree on a cool effect that suits the cantrip.
 
----
-
 #### Adventurer Feat
 
 You can use cantrip-style versions of any wizard spell you have memorized. When you expend a spell, however, you can't make cantrip-style use of it any more. The key is that none of these uses should be combat relevant or deal damage.
@@ -516,19 +444,13 @@ _Special:_ You cannot take both this talent and Dual Specialization.
 
 When you prepare your specialist spell slot, you can use it to cast two spells instead of one.
 
----
-
 #### Adventurer Feat
 
 You have advantage on skill checks regarding spells of your specialist school.
 
----
-
 #### Champion Feat
 
 When you take a quick rest, and you don’t have any spells left except at-will spells, you can regain your specialist school bonus spell slot. Take a cumulative -1 penalty to PD and MD from exhaustion until your next full heal-up.
-
----
 
 #### Epic Feat
 
@@ -544,13 +466,9 @@ Choose two specialist schools instead of just one. You gain the specialist spell
 
 You must also choose two barred schools.
 
----
-
 #### Adventurer Feat
 
 Before casting a spell of one specialist school, you can spend a quick action to add a small effect from your other specialist school. For example, you could use illusion to make an evocation spell seem scarier and more dangerous, or add an abjuration effect to a summoned monster to shore up its defenses.
-
----
 
 #### Champion Feat
 
@@ -561,8 +479,6 @@ Gain the adventurer tier feat of all spells from both of your specialist schools
 ### Evoker
 
 Once per battle, when you cast a spell that targets Physical Defense, before rolling for the number of targets or making the spell's attack roll, you can expend your quick action to evoke the spell. Hit or miss, you'll max out the spell's damage dice (except on a natural one, which deals no damage to the target and likely damages the caster in some manner).
-
----
 
 #### Champion Feat
 
@@ -585,19 +501,13 @@ After each full heal-up, roll on the table below.
 | 7 | You reach into the past. Choose one spell that you had not expended before the heal-up and gain it as a bonus spell. If you have none, reroll. |
 | 8 | The stars are aligned for one spell of your choice. You can reroll one of your attack rolls with that spell before your next full heal-up. |
 
----
-
 #### Adventurer Feat
 
 When casting a ritual, you can expend a recovery without healing to gain advantage on the check. Describe how your ritual is physically exhausting, through dance, sweating, loss of blood, etc.
 
----
-
 #### Champion Feat
 
 Roll twice on the table and choose one of the results.
-
----
 
 #### Epic Feat
 
@@ -633,13 +543,9 @@ Free action to cast
 
 **Hit:** The target's spell is canceled, and the caster loses the action they were using for the spell. If the spell had a limited use, that use is expended if your natural attack roll is even.
 
----
-
 #### Champion Feat
 
 You can now cast _counter-magic_ twice per battle.
-
----
 
 #### Epic Feat
 
@@ -658,19 +564,13 @@ Once per battle, as a free action on your turn, gain a flash of insight about a 
 - Find out the condition under which it would negotiate, surrender, or flee.
 - Know about weaknesses or resistances.
 
----
-
 #### Adventurer Feat
 
 If the creature is an aberration, beast, dragon, elemental or ooze, you can learn two facts about it.
 
----
-
 #### Champion Feat
 
 You can use this talent twice per battle.
-
----
 
 #### Epic Feat
 
@@ -684,19 +584,13 @@ You can make unarmed attacks without penalty, and your unarmed damage dice are d
 
 When you cast a ranged spell, you don’t trigger attacks of opportunity from engaged enemies that you target with the spell.
 
----
-
 #### Adventurer Feat
 
 When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier (x2 at 5th level; x3 at 8th) to it.
 
----
-
 #### Champion Feat
 
 Increase your recovery dice to d8s.
-
----
 
 #### Epic Feat
 
@@ -710,19 +604,13 @@ You can switch one of your wizard spells for a spell of the same level from the 
 
 You know how to unravel the magic that creates undead. You gain a +1 bonus to attacks against them.
 
----
-
 #### Adventurer Feat
 
 Understanding the undead helps you ward them off. You gain a +1 bonus to defenses against undead.
 
----
-
 #### Champion Feat
 
 Add your Intelligence modifier to the first death save you roll in a battle. If you roll a natural 20 on any death save. you also regain an expended spell.
-
----
 
 #### Epic Feat
 
@@ -746,13 +634,9 @@ Your close ties in wizard society give you an extra positive relationship point 
 
 Due to your pure wizard blood, combined with the excellent training you have enjoyed, you gain a bonus spell slot at the highest level you can cast. However, you also have one less recovery (usually 7).
 
----
-
 #### Adventurer Feat
 
 You have met many wizards, which gives you an easy read on them. When meeting an arcane spellcaster for the first time, ask one question about them, which the GM will answer truthfully. Typical questions are their school specialization, their icon affiliation, or the spell signature that marks their spells.
-
----
 
 #### Champion Feat
 
@@ -766,19 +650,13 @@ Intelligence-based skill checks are one step easier (-5) for you. This includes 
 
 However, you also choose one ability score where all skill checks are one step more difficult. You’re either frail (Strength), clumsy (Dexterity), sickly (Constitution), lacking in empathy (Wisdom) or socially awkward (Charisma).
 
----
-
 #### Adventurer Feat
 
 Choose a very narrowly defined scholarly background, and gain one skill point in a related skill per word in the name of your background, ignoring trivial words like “the”, for up to 7 skill points. Examples include the revised taxonomy of butterflies in the Eldeen Reaches, cultural implications of the seasonal migration patterns of Koru Behemoths, or tribal animism and worship among Iron Sea merfolk.
 
----
-
 #### Champion Feat
 
 When you spend a feat to improve a wizard spell, you also gain the benefits of any other feat of that spell up to your current tier.
-
----
 
 #### Epic Feat
 
@@ -790,19 +668,13 @@ Once per day, you can perform an arcane ritual for half of the normal component 
 
 You gain a +2 bonus to your critical threat range with wizard at-will spells.
 
----
-
 #### Adventurer Feat
 
 Once per day per point of Dexterity modifier, you can reroll an attack roll with an at-will spell.
 
----
-
 #### Champion Feat
 
 Once per battle, when the escalation die is 3+, you can cast an at-will spell as a quick action.
-
----
 
 #### Epic Feat
 
@@ -816,19 +688,13 @@ When you spend a quick action to control a summoned creature (which allows it to
 
 Creatures you summon have one recovery. When healed, they use your recovery roll to determine how many hit points they regain. They can use the rally action to heal, or be healed using healing spells and potions.
 
----
-
 #### Adventurer Feat
 
 Your summoned creatures gain a +1 bonus to all saves.
 
----
-
 #### Champion Feat
 
 Your summoned creatures have a second recovery.
-
----
 
 #### Epic Feat
 
@@ -843,19 +709,13 @@ Choose a type from among Fire, Acid, Cold, Lightning, Force, Psychic, or Poison.
 
 You gain a spell from any class as a bonus spell at the highest level you can cast, as long as that spell deals your chosen type damage or is otherwise connected to that type. If the spell has an attack roll, you can use Intelligence as the ability score.
 
----
-
 #### Adventurer Feat
 
 You ignore resistance for your type.
 
----
-
 #### Champion Feat
 
 When you take your type of damage from an enemy attack, heal hit points equal to your level.
-
----
 
 #### Epic Feat
 
@@ -871,19 +731,13 @@ When you cast a spell that targets PD, choose one of the following benefits:
 - Increase the DC for the target’s first save against the spell by your Constitution modifier. (A natural roll of 18+ always saves, however)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if it is one target, or twice your level in case of multiple targets.
 
----
-
 #### Adventurer Feat
 
 You gain 3 skill points towards a skill in alchemy and the manipulation of forces and matter.
 
----
-
 #### Champion Feat
 
 Choose a class. You can switch out a wizard spell for a spell from that class at a -2 level penalty, as long as that spell targets PD.
-
----
 
 #### Epic Feat
 
@@ -961,19 +815,13 @@ You gain a +1 save bonus. Tough counts as two familiar abilities.
 
 Your familiar can talk like a person (but the GM speaks for the familiar more than you do).
 
----
-
 ##### Adventurer Feat
 
 Your familiar gains another ability.
 
----
-
 ##### Champion Feat
 
 Once per level, if your familiar is close to you, it can cast one of your spells as a free action on your initiative count, even if you have already expended the spell. The spell functions as if you had cast it.
-
----
 
 ##### Epic Feat
 
@@ -987,163 +835,109 @@ Your familiar gains another ability.
 
 The cantrip creates a minor watch-sprite that can be instructed to scream if someone comes through an area or touches an object. Watch-sprites are notoriously stupid and sleepy, but with the right talking-to they might stay focused for the duration of the spell. At higher levels, the spell might summon little fanged spirits buzzing back and forth serving as both visual and actual deterrents.
 
----
-
 ### Animated Quill
 
 Animate a quill, a piece of charcoal or similar object to write down words as you instruct it.
-
----
 
 ### Arcane Mark (standard duration)
 
 The cantrip creates a magical sigil on an object or person. These sigils are usually plain to see, though a deliberately invisible mark can be made. It takes a difficult perception or magic check to notice.
 
----
-
 ### Deep Pockets
 
 Put an item in a pocket, from where it disappears into a small pocket dimension. The item can be as long as you like, as long as it fits through the pocket’s opening. You can pull the item back out as a quick action at any time. At the end of the cantrip’s duration, or if the physical pocket is destroyed, the item falls out.
-
----
 
 ### Detect Magic
 
 You notice lingering magic and supernatural effects within your field of vision. If an effect is concealed on purpose, the DM can require a skill check to detect it.
 
----
-
 ### Erase
 
 Permanently remove non-magical writing or painting from a scroll or a sheet of paper, parchment, or similar surfaces.
-
----
 
 ### Fire Shaping
 
 Enlarge or reduce a non-magical fire, change its color, shape, or intensity. After the spell ends, the fire returns to its natural shape, determined by the material that is burning.
 
----
-
 ### Ghost Sound
 
 This spell creates false noises emanating from somewhere nearby. The effect is like an exceptionally good version of throwing your voice, if your voice could create a wide variety of sounds. Attempted distractions with the cantrip are DC 15 challenges in adventurer environments, higher as you move into champion and epic environments. If someone is using ghost sound against the PCs, a Wisdom-based skill check can identify the sound as a magical fake.
-
----
 
 ### Grease
 
 You create a slippery area where you touch the floor or an object. Anyone who attempts to move through the area or tries to hold on to the object must succeed at a save to do so.
 
----
-
 ### Gust of Wind
 
 Create a strong puff of air that is sufficient to extinguish candles, torches, and similar unprotected flames. With a successful skill check, the gust is strong enough to even extinguish lanterns and other protected flames. It pushes back insects and other small flying creatures, smells, and smoke clouds. It does not affect larger creatures except for a dramatic waving of hair and clothing.
-
----
 
 ### Knock
 
 This cantrip summons a magical servitor three to four times as big as your closed fist that swarms around the door and attempts to punch or push it open (depending on whether you want to be quiet or announce your presence). Success is determined with an Intelligence check against the environment's DC using an appropriate skill. This cantrip does nothing to avoid any traps that might exist.
 
----
-
 ### Light (standard duration)
 
 This cantrip creates a fairly wide and consistent field of light, up to 30 feet in diameter, though it isn't bright enough to dazzle.
-
----
 
 ### Locate Minor Object
 
 Divine the location of an object you are very familiar with, within a range of a few meters. This spell is very handy to find keys, glasses, and other things that get lost around the house.
 
----
-
 ### Mage Hand
 
 This cantrip creates a small telekinetic effect that lasts a round at most. At best it's about half as strong as the wizard's own strongest hand. At worst it's half as strong as the wizard when they're weak from a bad fever.
-
----
 
 ### Mending
 
 This cantrip summons a variety of tiny (hand-sized and smaller) magical sprites who swarm over a chosen broken object attempting to mend it (over the course of 1–6 rounds). Small-scale repairs like torn wineskins, muddy clothing, a broken handgrip on a sword, and similar repairs that anyone could fix with two to four hours of devoted work gets handled in seconds. More elaborate repairs to complicated objects might require an Intelligence check, or at the GM's discretion could only be possible if the wizard has taken the Cantrip Mastery talent.
 
----
-
 ### Nascent Magic Aura
 
 Give an item an indeterminate magic aura, which can be noticed if it is examined for the presence of magic. Upon closer examination and a hard difficulty skill check, the examiner can determine that the aura has no other effect than to create the appearance of a magical enchantment.
-
----
 
 ### Perfume
 
 Create a pleasant smell on the target object, or at least hide a hideous one.
 
----
-
 ### Prestidigitation
 
 This cantrip produces magic tricks and small illusions. One casting usually gives you a minute of fun. The magic has nowhere near as much real world force as mage hand.
-
----
 
 ### Quench
 
 This spell can put out nearby small fire sources such as campfire embers and candles, or smother a hem or sleeve someone has carelessly caught aflame. At higher levels, this cantrip can be used on smaller flames that are far away, or put out a large campfire or small bonfire nearby.
 
----
-
 ### Recall Familiar
 
 You summon your familiar back to your shoulder, or a location next to you, from up to a few hundred feet distance.
-
----
 
 ### Recording
 
 For the next few minutes, you record the surrounding sounds into a small gem. The gem holds the recorded sound and can replay it as long as the cantrip lasts.
 
----
-
 ### Spark
 
 This is a minor fire creation spell, enough to light a pipe, or a campfire, or even a page or two of an unprotected spellbook. It doesn't work against living beings or against things that couldn't easily be set on fire with a few seconds of steady application of a candle. The target of the spark has to be nearby and in sight.
-
----
 
 ### Still Image
 
 You produce an illusory image, roughly the size of a portrait painting, for the standard duration. It’s two-dimensional, doesn’t move, and doesn’t react to touch. You can make the image transparent or opaque.
 
----
-
 ### Sundial
 
 Summon a small sundial on your open palm that shows the current time, even in places where no sunlight is available.
-
----
 
 ### Sunshades
 
 Summon a black screen in front of your eyes that blocks excessive sunlight.
 
----
-
 ### Ventriloquism
 
 You throw your voice to appear to come from a different location. This is especially effective if the target can’t see you speak.
 
----
-
 ### Adventurer Feat
 
 Double the number of cantrips you know.
-
----
 
 ### Champion Feat
 
@@ -1197,19 +991,13 @@ Conjuration
 | 7th | 12 damage |
 | 9th | 20 damage |
 
----
-
 #### Adventurer Feat
 
 When the escalation die is odd, target 3 random nearby enemies.
 
----
-
 #### Champion Feat
 
 When the escalation die is even, increase the damage by the spell level.
-
----
 
 #### Epic Feat
 
@@ -1237,16 +1025,12 @@ If you cast the spell on a true magic item suit of armor, or equip it with magic
 
 While the armor provides strong protection, it has one weakness — when it takes damage, it needs a round to reassemble itself, and cannot attack that turn.
 
----
-
 #### Summoned Armor Golem
 
 | Normal 1st level | **Initiative +4; Pummel 6+ vs. AC--1d4 damage (or damage die or equipped weapon)** | **AC** **PD**| **17** **15** |
 | --- | --- | --- | --- |
 | **Troop** | _Magic item powers:_ as per equipped items | **MD** **HP** | **11** **22** |
 | | _Unstable Enchantment:_ When the armor golem takes damage, it cannot attack on your next turn. Instead, it uses its standard action to heal hit points equal to twice the spell level. | | |
-
----
 
 ##### Armor Golem Level Advancement
 
@@ -1260,13 +1044,9 @@ While the armor provides strong protection, it has one weakness — when it take
 
 >\* Increase damage die according to equipped item.
 
----
-
 #### Adventurer Feat
 
 Unstable Enchantment now only activates when the armor golem is staggered.
-
----
 
 #### Champion Feat
 
@@ -1349,19 +1129,13 @@ Evocation
 | 7th | | Amethyst | Petrification | Negative energy damage | The target is weakened (save ends). If it fails its fourth save against the spell, it is permanently turn into stone. |
 | 9th | 9d12 damage | Ashen | | Negative energy damage | If the target has 150 hit points or less, it dies. Otherwise it takes 50 ongoing negative energy damage. |
 
----
-
 #### Adventurer Feat
 
 The spell is now Recharge 16+ after battle.
 
----
-
 #### Champion Feat
 
 All saves against this spell are hard saves (16+), including saves against ongoing damage.
-
----
 
 #### Epic Feat
 
@@ -1388,19 +1162,13 @@ Cyclic (cast once per battle OR at-will when the escalation die is even)
 | 7th | 10d6 damage, 40 hp or fewer. |
 | 9th | 10d12 damage, 60 hp or fewer. |
 
----
-
 #### Adventurer Feat
 
 Increase the hit point threshold of the weakened effect by 5 hp.
 
----
-
 #### Champion Feat
 
 On a miss, the spell deals damage equal to your level.
-
----
 
 #### Epic Feat
 
@@ -1431,8 +1199,6 @@ Enchantment
 | 7th | 4d20 damage |
 | 9th | 6d20 damage |
 
----
-
 #### Adventurer Feat
 
 You can cast this spell as a close-quarters spell.
@@ -1462,19 +1228,13 @@ Evocation
 | 7th | 7d8 damage |
 | 9th | 10d8 damage |
 
----
-
 #### Adventurer Feat
 
 Choose the element of each attack. You can also deal acid or thunder damage with this spell, but each attack must use a different element.
 
----
-
 #### Champion Feat
 
 If you miss a target with the first or second attack roll, you can target the same enemy again with the next attack.
-
----
 
 #### Epic Feat
 
@@ -1547,8 +1307,6 @@ Transmutation
 
 **Effect:** Move to a far away location that you can reach on foot. You do not trigger opportunity attacks and you cannot be intercepted.
 
----
-
 #### Adventurer Feat
 
 Until the end of your next turn, you gain a bonus to all defenses equal to the escalation die.
@@ -1580,8 +1338,6 @@ _Special:_ You can increase the targets of the spell to 1d3 nearby enemies. This
 | 7th | 6d10 damage; 1d6 targets if expended |
 | 9th | 8d12 damage |
 
----
-
 #### Adventurer Feat
 
 If you expend the spell, you can recharge it on a 16+ after the battle.
@@ -1606,13 +1362,9 @@ Evocation
 
 **Cloud:** A creature that is not engaged can leave the cloud as a move action. At the start of your next turn, make a normal save (11+) to check whether the cloud persists. This is not an action. If it persists, the effect continues, and you make another check at the start of the following turn.
 
----
-
 #### Adventurer Feat
 
 The save to see if the cloud persists is now an easy save (6+).
-
----
 
 #### Champion Feat
 
@@ -1647,8 +1399,6 @@ _Resist:_ The target takes 2d10 psychic damage.
 | 7th | 8d10 damage |
 | 9th | 12d10 damage |
 
----
-
 #### Adventurer Feat
 
 You can share the reveal with your allies, which gives the target disadvantage on attacks against them too.
@@ -1680,8 +1430,6 @@ _Natural even hit:_ Deal 1d8 cold damage to the 1d3 enemies closest to the targe
 | 7th | 13d8 damage; 4d8 on even hit |
 | 9th | 2d8 x 10 damage; 5d8 on even hit |
 
----
-
 #### Adventurer Feat
 
 For the extra damage on even hit, increase the number of targets to 1d4 and the damage dice to d10s.
@@ -1709,13 +1457,9 @@ _Special:_ You can spend 2d4 minutes to cast this spell out of battle to protect
 | 3rd | Base armor 13 |
 | 5th | Base armor 14 |
 
----
-
 #### Adventurer Feat
 
 If you cast this spell out of battle, it lasts for two battles.
-
----
 
 #### Champion Feat
 
@@ -1742,19 +1486,13 @@ At-Will
 | 7th | 6d6 damage. |
 | 9th | 10d6 damage. |
 
----
-
 #### Adventurer Feat
 
 You can choose two targets; roll half the damage dice for one missile and half the damage dice for the other, then assign one set of damage dice to each of the two targets.
 
----
-
 #### Champion Feat
 
 Roll a d20 when you use the spell; if you roll a natural 20, the magic missile crits and deals double damage. (Rolling a 1 is not a fumble; this roll checks only to see if you can crit.)
-
----
 
 #### Epic Feat
 
@@ -1781,19 +1519,13 @@ Enchantment
 | 5th | Increase the bonus to +2 |
 | 7th | Increase the bonus to +3 |
 
----
-
 #### Adventurer Feat
 
 If you wield the weapon, you can use your Intelligence modifier for attack and damage with it.
 
----
-
 #### Champion Feat
 
 The spell is now Recharge 16+ after battle.
-
----
 
 #### Epic Feat
 
@@ -1822,13 +1554,9 @@ Quick action
 | 7th | 1d6+1 images |
 | 9th | 2d4 images |
 
----
-
 #### Adventurer Feat
 
 The spell is now Recharge 16+ after battle.
-
----
 
 #### Champion Feat
 
@@ -1866,8 +1594,6 @@ The GM can set the save as hard (16+) or easy (6+) depending on how realistic th
 | 5th | The phantasm can have up to two of the effects above. |
 | 9th | You can target a second enemy. |
 
----
-
 #### Adventurer Feat
 
 When you hit a mook with this spell, you affect the entire group.
@@ -1897,19 +1623,13 @@ Illusion
 | 7th | 6d12 damage |
 | 9th | 10d12 damage |
 
----
-
 #### Adventurer Feat
 
 If the target is dazed or confused, you have advantage on the attack roll.
 
----
-
 #### Champion Feat
 
 On a natural even hit, also deal ongoing psychic damage equal to the spell level.
-
----
 
 #### Epic Feat
 
@@ -1942,13 +1662,9 @@ _Natural 16+:_ The target has disadvantage on its next attack roll.
 | 7th | 10d6 damage |
 | 9th | 10d10 damage |
 
----
-
 #### Adventurer Feat
 
 On a natural 12–15 on the attack roll, the target is vulnerable to the next attack against it.
-
----
 
 #### Champion Feat
 
@@ -1977,19 +1693,13 @@ At-Will
 | 7th | 7d10 damage. |
 | 9th | 10d12 damage. |
 
----
-
 #### Adventurer Feat
 
 When your _ray of frost_ attack roll is a natural even hit, if the target is staggered after taking the damage, it is also dazed until the end of your next turn.
 
----
-
 #### Champion Feat
 
 The target of the spell can also be far away.
-
----
 
 #### Epic Feat
 
@@ -2035,8 +1745,6 @@ Abjuration
 | 7th | The spell now affects two targets. |
 | 9th | Recharge roll is now 11+. |
 
----
-
 #### Adventurer Feat
 
 You can target an additional creature with the spell.
@@ -2053,25 +1761,17 @@ Conjuration
 
 **Effect:** This spell summons a Mana Spirit as a superior summoned creature. The level of the spirit is the same as the spell’s level. This spell follows the summoning rules.
 
----
-
 #### Adventurer Feat
 
 The mana spirit can teleport to a nearby location once per battle.
-
----
 
 #### Champion Feat
 
 When the escalation die is even, the Mana Spirit can attack two nearby enemies with its magic missile attack.
 
----
-
 #### Epic Feat
 
 The mana spirit can use Magic Missile as an interrupt action after it is attacked.
-
----
 
 #### Summoned Mana Spirit
 
@@ -2079,8 +1779,6 @@ The mana spirit can use Magic Missile as an interrupt action after it is attacke
 | --- | --- | --- | --- |
 | **Artillery Caster** | _Cantrips:_ The Mana Spirit can cast any wizard cantrip as a quick action once per round. | **MD** **HP** | **14** **10** |
 | | _Resist 16+:_ Any damage except force damage. | | |
-
----
 
 ##### Mana Spirit Level Advancement
 
@@ -2111,19 +1809,13 @@ Free action to cast, when an attack hits your AC.
 | 7th | The bonus to AC/PD on the rerolled attack increases to +4. |
 | 9th | The bonus to AC/PD on the rerolled attack increases to +6. |
 
----
-
 #### Adventurer Feat
 
 You can now choose either of the attack rolls, in case the second one crits or is otherwise bad for you.
 
----
-
 #### Champion Feat
 
 Recharge roll after battle is now 6+.
-
----
 
 #### Epic Feat
 
@@ -2152,19 +1844,13 @@ At-Will
 | 7th | 3d6 damage. |
 | 9th | 4d6 damage. |
 
----
-
 #### Adventurer Feat
 
 The spell now requires only a quick action to cast (once per round).
 
----
-
 #### Champion Feat
 
 Once per battle, when you hit the target of the spell, you can also daze it until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -2236,8 +1922,6 @@ Abjuration
 
 **Miss:** —
 
----
-
 #### Champion Feat
 
 You can target one specific effect, rather than all of them.
@@ -2276,13 +1960,9 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 
 **Effect:** You summon a clay golem to fight as your ally in the upcoming battles, according to the summoning rules. The golem stays animated until it is reduced to zero hit points, or until your next full heal-up.
 
----
-
 #### Adventurer Feat
 
 Your clay golem regenerates a number of hit points equal to its level at the start of its turn.
-
----
 
 #### Summoned Clay Golem
 
@@ -2292,8 +1972,6 @@ Your clay golem regenerates a number of hit points equal to its level at the sta
 | | _Miss:_ Half damage | | |
 | | _Slow:_ The clay golem takes a -5 penalty on disengage checks. | | |
 | | _Golem immunity:_ It can’t be slowed, dazed, or immobilized. | | |
-
----
 
 ##### Clay Golem Level Advancement
 
@@ -2325,19 +2003,13 @@ Daily
 | 7th | Target with 250 hp or fewer, or two targets each with 125 hp or fewer. |
 | 9th | Target with 500 hp or fewer, or two targets each with 250 hp or fewer. |
 
----
-
 #### Adventurer Feat
 
 On a miss against all targets with this spell, you can choose to daze those targets (save ends). If you do, you do not regain the spell.
 
----
-
 #### Champion Feat
 
 Each failed save against the spell deals 6d10 psychic damage to the target.
-
----
 
 #### Epic Feat
 
@@ -2407,8 +2079,6 @@ Abjuration
 | 7th | 80 points of damage |
 | 9th | 140 points of damage |
 
----
-
 #### Adventurer Feat
 
 You can choose to create two shields for two different elements; each absorbs half the amount.
@@ -2435,13 +2105,9 @@ Enchantment
 | 7th | Increase the extra damage to 3d6. |
 | 9th | Increase the enchantment bonus to epic tier (+3), and the extra damage to 5d6. |
 
----
-
 #### Adventurer Feat
 
 You can switch the damage type as a quick action.
-
----
 
 #### Champion Feat
 
@@ -2471,8 +2137,6 @@ Abjuration
 | 7th | 2d6 x 10 damage |
 | 9th | 3d6 x 10 damage |
 
----
-
 #### Adventurer Feat
 
 The runes have 1d4+1 charges, and they last for up to a month.
@@ -2499,13 +2163,9 @@ _Special:_ Choose whether you want to create a fire shield or an ice shield when
 | --- | --- |
 | 5th | The resistance is now 16+. |
 
----
-
 #### Champion Feat
 
 Increase the AC bonus to +2.
-
----
 
 #### Epic Feat
 
@@ -2547,13 +2207,9 @@ _Special:_ When you cast the spell, choose whether you want to cast it as (A) a 
 | 7th | 5 WEAPON dice |
 | 9th | 7 WEAPON dice |
 
----
-
 #### Adventurer Feat
 
 The spell is now Recharge 16+ after battle.
-
----
 
 #### Champion Feat
 
@@ -2585,13 +2241,9 @@ Conjuration
 | 7th | 1d12 x 10 damage |
 | 9th | 3d6 x 10 damage |
 
----
-
 #### Adventurer Feat
 
 On a miss, deal damage equal to your level to the initial target.
-
----
 
 #### Champion Feat
 
@@ -2619,19 +2271,13 @@ _Special:_ The spell creates a number of force bolts equal to 1 + your Intellige
 | 7th | 10d12 damage. |
 | 9th | 3d6 x 10 damage. |
 
----
-
 #### Adventurer Feat
 
 You can now target a specific creature with more than one bolt. Once you hit that target, you must target a different creature, and so on. (Roll your attack after each bolt before picking a target for the next bolt.)
 
----
-
 #### Champion Feat
 
 On a miss, a bolt now deals miss damage equal to your level.
-
----
 
 #### Epic Feat
 
@@ -2688,8 +2334,6 @@ Enchantment
 | 5th | The target also gains the bonus to defenses. |
 | 7th | Increase the bonus to +2. |
 
----
-
 #### Adventurer Feat
 
 When you cast the spell, roll 1d6. If the result is equal to the escalation die or lower, you can add a second target.
@@ -2716,19 +2360,13 @@ Daily
 | 7th | Target with 160 hp or fewer. |
 | 9th | Target with 250 hp or fewer. |
 
----
-
 #### Adventurer Feat
 
 If the spell misses all targets, you regain the spell during your next quick rest.
 
----
-
 #### Champion Feat
 
 The spell can target up to 2 nearby enemies whose total hit points don't exceed the limit.
-
----
 
 #### Epic Feat
 
@@ -2756,13 +2394,9 @@ Daily
 | 7th | 2d8 x 10 damage. |
 | 9th | 3d8 x 10 damage. |
 
----
-
 #### Champion Feat
 
 A natural even hit also deals 10 ongoing lightning damage.
-
----
 
 #### Epic Feat
 
@@ -2794,8 +2428,6 @@ _Natural 18+:_ The target is also stunned until the end of your next turn.
 | 7th | 25 damage, and 25 ongoing damage |
 | 9th | 40 damage, and 40 ongoing damage |
 
----
-
 #### Champion Feat
 
 Stun the target on a natural 16+.
@@ -2812,15 +2444,11 @@ Illusion
 
 **Effect:** You summon a mob of three phantom soldiers (below), as per the summoning rules. These soldiers fight for you until the end of the battle, or until they drop to 0 hp, whichever comes first.
 
----
-
 #### Summoned Phantom Soldier
 
 | Normal 3rd level | **Initiative +3; Ghostly Bohemian Ear Spoon +6 vs. AC--6 damage** | **AC** **PD**| **16** **12** |
 | --- | --- | --- | --- |
 | **Mook** | _Immaterial:_ Attacks with a natural odd attack roll don’t affect the soldier. | **MD** **HP** | **16** **10** |
-
----
 
 ##### Phantom Soldier Level Advancement
 
@@ -2844,19 +2472,13 @@ Abjuration
 
 **Effect:** Until the end of the battle, the target gains resist missile attacks 18+. This reduces the damage from weapon-based ranged attacks, such as arrows or sling stones, but not spells and attacks that deal elemental damage. The spell does not protect from attacks that aren’t targeted, such as an avalanche.
 
----
-
 #### Adventurer Feat
 
 The spell is now Recharge 16+ after battle.
 
----
-
 #### Champion Feat
 
 If the natural attack roll is 12 or lower, the resisted attack deals no damage.
-
----
 
 #### Epic Feat
 
@@ -2898,19 +2520,13 @@ Cyclic (once per battle OR at-will when the escalation die is even)
 | 7th | Target with 266 hp or fewer. |
 | 9th | Target with 400 hp or fewer. |
 
----
-
 #### Adventurer Feat
 
 When you roll a natural even hit with the spell, you also deal psychic damage equal to double your level to the target.
 
----
-
 #### Champion Feat
 
 When you hit the target with the spell, you also daze it until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -2981,19 +2597,13 @@ _Slowed:_ The target is limited to one attack per turn and takes a -5 penalty to
 | 7th | 300 hp or fewer |
 | 9th | 480 hp or fewer |
 
----
-
 #### Adventurer Feat
 
 On a miss, the target takes a -5 penalty to disengage checks until the end of its next turn.
 
----
-
 #### Champion Feat
 
 Target 1d3 nearby enemies.
-
----
 
 #### Epic Feat
 
@@ -3027,19 +2637,13 @@ _Reckless miss:_ Your allies engaged with the target take one-fourth damage and 
 | 7th | 9d12 damage. |
 | 9th | 2d8 x 10 damage. |
 
----
-
 #### Adventurer Feat
 
 When casting recklessly, the save to avoid being dazed is now hard (16+) for enemies and normal (11+) for allies.
 
----
-
 #### Champion Feat
 
 Casting the spell recklessly increases the number of additional targets to 1d4 instead of 1d3.
-
----
 
 #### Epic Feat
 
@@ -3072,8 +2676,6 @@ Evocation
 | 5th | 6d6 damage |
 | 7th | 10d6 damage |
 | 9th | 14d6 damage |
-
----
 
 #### Adventurer Feat
 
@@ -3117,13 +2719,9 @@ Always: For the rest of the battle, once per round when an enemy moves to engage
 | 7th | 6d10 damage. |
 | 9th | 10d10 damage. |
 
----
-
 #### Champion Feat
 
 When your _teleport shield_ attack misses, the spell's attack is not expended that round.
-
----
 
 #### Epic Feat
 
@@ -3157,19 +2755,13 @@ _Reckless Miss:_ Make an attack roll for this spell against each of your allies 
 | 7th | Targets with 80 hp or fewer |
 | 9th | Targets with 125 hit points or fewer |
 
----
-
 #### Adventurer Feat
 
 Your allies can save against the spell with an easy save (6+).
 
----
-
 #### Champion Feat
 
 Target 1d4 enemies.
-
----
 
 #### Epic Feat
 
@@ -3198,13 +2790,9 @@ Daily
 | 7th | 9d12 damage. |
 | 9th | 3d4 x 10 damage. |
 
----
-
 #### Champion Feat
 
 Affected targets instead become vulnerable (16+).
-
----
 
 #### Epic Feat
 
@@ -3235,8 +2823,6 @@ _Special:_ You can use this spell to create a trap. Cast the spell as a standard
 | 7th | 2d4 x 10 damage |
 | 9th | 2d8 x 10 damage |
 
----
-
 #### Champion Feat
 
 The trap resets to trigger a second time after 1d4 turns.
@@ -3264,13 +2850,9 @@ Transmutation
 | 7th | Target with 250 hp or fewer, or two targets each with 125 hp or fewer |
 | 9th | Target with 500 hp or fewer, or two targets each with 250 hp or fewer |
 
----
-
 #### Champion Feat
 
 After the target successfully saves against the spell, it is dazed until the end of its next turn.
-
----
 
 #### Epic Feat
 
@@ -3288,13 +2870,9 @@ Conjuration
 
 **Effect:** You summon a hand of shimmering, translucent force, as per the summoning rules. The hand lasts until the end of the battle, or until destroyed. It moves at your command, mimicking the movements of your own hand.
 
----
-
 #### Champion Feat
 
 Attacks by the hand deal +1d8 damage; +2d8 at 8th level.
-
----
 
 #### Summoned Bigby's Hand
 
@@ -3303,8 +2881,6 @@ Attacks by the hand deal +1d8 damage; +2d8 at 8th level.
 | **Troop Construct** | **Forceful Hand +10 vs. PD—** The target is pushed back and pops free from all opponents. | **MD** **HP** | **15** **60** |
 | | **Grasping Hand +10 vs. PD—** 9 force damage and the target is grabbed (until disengaged; -5 to disengage; can’t make opportunity attacks; the hand gets a +4 bonus to attacks against the target). | | |
 | | _Interposing Hand:_ (standard action) Until the end of the summoner’s next turn, attacks against their AC and PD by creatures not engaged with them have disadvantage. The hand can intercept enemies trying to engage the summoner. | | |
-
----
 
 ##### Bigby's Hand Level Advancement
 
@@ -3340,8 +2916,6 @@ _Reckless miss:_ Your allies engaged with the target take damage equal to twice 
 | 7th | 15d8 damage |
 | 9th | 2d8 x 10 damage |
 
----
-
 #### Champion Feat
 
 The spell is now Recharge 16+ after battle.
@@ -3365,8 +2939,6 @@ Triggering the contingent spell does not take an action from you. It takes effec
 The contingent spell takes effect only on you, even if it can normally target others.
 
 If the contingency was not triggered, it ends at your next full heal-up.
-
----
 
 #### Adventurer Feat
 
@@ -3411,13 +2983,9 @@ Daily
 | 7th | 3d4 x 10 damage. |
 | 9th | 3d6 x 10 damage. |
 
----
-
 #### Champion Feat
 
 When you roll a natural even miss with the spell, the target is also hampered until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -3489,19 +3057,13 @@ _Phasing:_ If the escalation die is even, the beast can teleport to a nearby loc
 
 _Psychic Strike:_ When a nearby enemy attacks the beast’s MD, it can make a phantom claw attack against it as an interrupt action.
 
----
-
 #### Champion Feat
 
 Choose two abilities instead.
 
----
-
 #### Epic Feat
 
 Choose three abilities instead.
-
----
 
 #### Summoned Fantastic Beast
 
@@ -3509,8 +3071,6 @@ Choose three abilities instead.
 | --- | --- | --- | --- |
 | **Wrecker Beast** | _Wings:_ The beast can fly. | **MD** **HP** | **19** **38** |
 | | _Immaterial:_ Attacks with a natural odd attack roll don’t affect the beast. | | |
-
----
 
 ##### Fantastic Beast Level Advancement
 
@@ -3544,13 +3104,9 @@ Reckless miss: Your allies engaged with the target take one-fourth damage.
 | 7th | 12d10 damage. |
 | 9th | 20d10 damage. |
 
----
-
 #### Champion Feat
 
 Casting the spell recklessly increases the number of additional targets to 1d4 instead of 1d3.
-
----
 
 #### Epic Feat
 
@@ -3593,8 +3149,6 @@ Illusion
 | 7th | 120 hit points or fewer |
 | 9th | 180 hit points or fewer |
 
----
-
 #### Champion Feat
 
 Enemies who successfully save against this spell are still dazed until the end of their next turn.
@@ -3625,8 +3179,6 @@ Evocation
 | --- | --- |
 | 7th | 8d10 damage |
 | 9th | 10d12 damage |
-
----
 
 #### Champion Feat
 
@@ -3676,13 +3228,9 @@ _Natural odd hit:_ The target makes a basic attack against one of its allies.
 | 7th | 2d8 x 10 damage |
 | 9th | 4d6 x 10 damage |
 
----
-
 #### Champion Feat
 
 On an odd hit, the target will use its most damaging attack power available instead of a basic attack, possibly targeting more than one ally.
-
----
 
 #### Epic Feat
 
@@ -3702,8 +3250,6 @@ Divination
 
 **Effect:** Until the end of the battle, whenever the target is attacked, they can use an interrupt action to roll a d20. If that roll is higher than the natural roll of the attacker, the attack is a miss. (Note that you are limited to one interrupt action between your turns.)
 
----
-
 #### Champion Feat
 
 Add the escalation die to the d20 roll.
@@ -3722,13 +3268,9 @@ Abjuration
 
 **Effect:** Until the end of the battle, the target gains resist weapon attacks 18+. This reduces the damage from weapon-based melee attacks, such as swords and axes. It does not protect from attacks that don’t use weapons, including the claws, teeth, and other natural weapons of monsters. True magic item weapons also ignore the resistance.
 
----
-
 #### Champion Feat
 
 If the natural attack roll is 12 or lower, the resisted attack deals no damage.
-
----
 
 #### Epic Feat
 
@@ -3748,19 +3290,13 @@ _Special:_ You can only cast this spell outside of battle it requires 2d4 minute
 
 **Effect:** You summon a rock golem to fight as your ally in upcoming battles, according to the summoning rules. The golem stays animated until it is reduced to zero hit points, or until your next full heal-up.
 
----
-
 #### Champion Feat
 
 Enemies engaged with the stone golem take a -2 penalty to any attack that does not target the stone golem.
 
----
-
 #### Epic Feat
 
 The stone golem cannot be intercepted by creatures that aren’t large or bigger.
-
----
 
 #### Summoned Rock Golem
 
@@ -3770,8 +3306,6 @@ The stone golem cannot be intercepted by creatures that aren’t large or bigger
 | | _Miss:_ Damage equal to the golem’s level | | |
 | | _Golem immunity:_ Can’t be dazed, weakened, confused, made vulnerable, or touched by ongoing damage. | | |
 | | _Rock-hard shell:_ Attacks with a natural roll of 10 or less have no effect on the golem, including no miss damage. | | |
-
----
 
 ##### Rock Golem Level Advancement
 
@@ -3832,8 +3366,6 @@ Divination
 
 **Effect:** All targets of the spell can communicate with each other telepathically for the next hour.
 
----
-
 #### Champion Feat
 
 If two targets of the spell are engaged with the same enemy, they gain a +2 bonus to attacks against that enemy.
@@ -3853,8 +3385,6 @@ Transmutation
 **Effect:** You become a fighting machine—stronger, tougher, faster. You can wield all weapons without attack penalty, your Strength is increased to be equal to your Intelligence score, your base armor class increases to 14 (from usually 10), your recovery dice increase to d10s, and you gain 5 temporary hit points per level.
 
 However, you cannot cast any spells while transformed. You can end the spell at the start of your turn as a free action.
-
----
 
 #### Champion Feat
 
@@ -3883,13 +3413,9 @@ _Special:_ You can choose more than one target for this spell, but you take a �
 | 7th level spell | 12d10 damage. |
 | 9th level spell | 2d8 x 10 damage. |
 
----
-
 #### Champion Feat
 
 Affected targets must make a hard save (16+) to end the stuck condition.
-
----
 
 #### Epic Feat
 
@@ -3912,8 +3438,6 @@ Abjuration
 **Effect:** You create a shimmering zone around the target that suppresses all magic within it. The zone protects the target and any creature next to it. Creatures within the zone can’t cast spells or use magic items, and any ongoing magical effects end. Magical attacks, including supernatural effects like gaze or breath weapons, don’t affect targets within the zone.
 
 The spell lasts until the end of the battle, or until you end it as a free action.
-
----
 
 #### Champion Feat
 
@@ -3942,8 +3466,6 @@ Conjuration
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 1d12 x 10 damage |
-
----
 
 #### Champion Feat
 
@@ -3992,8 +3514,6 @@ _Cloud:_ A creature that is not engaged can leave the cloud as a move action. At
 | Higher Level | Effect |
 | --- | --- |
 | 9th | 50 damage to non-mooks; 25 damage to allies on miss |
-
----
 
 #### Epic Feat
 
@@ -4044,8 +3564,6 @@ Abjuration
 | Higher Level | Effect |
 | --- | --- |
 | 9th | Trigger on 18 or less. |
-
----
 
 #### Champion Feat
 
@@ -4123,16 +3641,12 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 | --- | --- |
 | 9th | You can now embed three gems worth at least 500 gp each to embed 5th level spells. |
 
----
-
 #### Summoned Gem Golem
 
 | Normal 7th level | **Initiative +11; Diamond Fist +13 vs. AC--25 damage; the golem has a +2 bonus to its critical threat range with the attack.** | **AC** **PD**| **23** **19** |
 | --- | --- | --- | --- |
 | **Caster Construct** | _Spellcasting:_ The golem can cast three spells that you embed when you create it. | **MD** **HP** | **21** **76** |
 | | _Golem immunity:_ Can’t be dazed, weakened, confused, made vulnerable, or touched by ongoing damage. | | |
-
----
 
 ##### Gem Golem Level Advancement
 
@@ -4196,8 +3710,6 @@ Abjuration
 | --- | --- |
 | 9th | Resist psychic 18+ |
 
----
-
 #### Epic Feat
 
 You can target yourself and 1d3 allies with the spell.
@@ -4246,8 +3758,6 @@ _Special:_ You can choose to cast this spell recklessly. In this case, add 1d3 e
 | --- | --- |
 | 9th | Increase all damage multipliers to x 15. |
 
----
-
 #### Epic Feat
 
 On a natural 16+ attack roll, the primary target is weakened until the end of your next turn.
@@ -4273,8 +3783,6 @@ _Special:_ If the target has 160 hp or fewer, you gain a +4 bonus to the attack 
 **Miss:** —
 
 9th level spell: Targets with 500 / 250 hp or fewer
-
----
 
 #### Epic Feat
 
@@ -4317,8 +3825,6 @@ Enchantment
 | Higher Level | Effect |
 | --- | --- |
 | 9th | Targets with 600 hp or fewer |
-
----
 
 #### Epic Feat
 
@@ -4443,13 +3949,9 @@ When the symbol is triggered, it makes the following attack:
 | --- | --- |
 | 9th | Increase the hp threshold to 180 / 270 hp. |
 
----
-
 #### Champion Feat
 
 You can hide the symbol, so that it only becomes visible on a certain condition (for example, when an orc approaches within 30 feet, or when someone is touching the object). The symbol must become visible before it can trigger.
-
----
 
 #### Epic Feat
 
@@ -4515,8 +4017,6 @@ In addition, if the target drops to 0 hp from this attack, or drops to 0 hp befo
 
 **Miss:** Half damage.
 
----
-
 #### Epic Feat
 
 You can now target a far away creature with the spell.
@@ -4536,8 +4036,6 @@ Enchantment
 **Attack:** Intelligence + Level vs. MD
 
 **Hit:** You take complete control over the target (normal save 11+ ends; double-strength and stronger monsters make an easy save 6+). The target acts on its normal turn, but you determine its actions. If you order the target to do something that goes against its very nature, it can immediately save against the effect.
-
----
 
 #### Epic Feat
 
@@ -4560,8 +4058,6 @@ Enchantment
 **Hit:** The target is reduced to minimal intelligence and instinctual behavior (hard save 16+ ends). The target can still physically defend itself and fight, and it recognizes friend from foe, but it can’t speak, cast spells, or use any advanced tactics. This is effectively a stronger version of the hampered condition.
 
 **Miss:** The target is dazed until the end of your next turn.
-
----
 
 #### Epic Feat
 
@@ -4613,13 +4109,9 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 
 **Effect:** You summon a magma golem to fight as your ally in upcoming battles, according to the summoning rules. The golem stays animated until it is reduced to zero hit points, or until your next full heal-up.
 
----
-
 #### Epic Feat
 
 When the magma golem engages an enemy, it deals 25 fire damage to them.
-
----
 
 #### Summoned Magma Golem
 
@@ -4647,8 +4139,6 @@ Conjuration
 
 **Miss:** —
 
----
-
 #### Epic Feat
 
 Enemies now need four successes to escape the maze (three if their MD is higher than yours).
@@ -4675,8 +4165,6 @@ Any allies engaged with the enemies you are targeting take one-fourth damage fro
 
 **Miss:** Half damage.
 
----
-
 #### Epic Feat
 
 Each meteor now deals 5d4 x 10 damage.
@@ -4699,8 +4187,6 @@ Enchantment
 
 **Miss:** 50 ongoing damage
 
----
-
 #### Epic Feat
 
 On a natural 5 or less on the save, increase the ongoing damage by 100.
@@ -4716,8 +4202,6 @@ Daily
 **Target:** You
 
 **Effect:** You create a series of stationary multicolored barriers around you that grant you resist 18+ to all damage, even from weapons (but not from holy or negative energy). You can leave or re-enter the barriers without harming yourself, but other creatures who pass them suffer 4d20 points of a certain damage type as indicated on the chart below. The rainbow barriers can be overcome only by physically passing through them, or by dealing 40 points of a certain damage type to each one in the specific order presented below. Attack rolls that target a barrier must overcome your PD (even if they would normally target AC or MD), and the resistances don’t apply to the barriers—only to you. As each barrier comes down, you lose the indicated resistance type; you also lose your resistance to weapon damage when the final violet barrier is dispersed.
-
----
 
 #### Epic Feat
 
@@ -4788,8 +4272,6 @@ When you teleport, roll a d20. If you roll a 1, you miss your desired location a
 
 Any effects of spells or items cast before teleporting are dispelled and no longer function on arrival.
 
----
-
 #### Epic Feat
 
 Your allies don't need to be next to you before you cast the spell, just nearby. Alternately, if they are all next to you when you cast the spell, you can teleport to a location known to one of your allies.
@@ -4825,8 +4307,6 @@ Illusion
 **Hit:** The target is confused (save ends). It takes a penalty to the save equal to the escalation die. Whenever the target hits its own ally, it takes psychic damage equal to half the damage it dealt. Whenever the target takes damage, increase the damage of its attacks by its level until the end of the battle (even after the spell ends).
 
 **Miss:** You can repeat the attack against the target once during your next turn as a quick action.
-
----
 
 #### Epic Feat
 
