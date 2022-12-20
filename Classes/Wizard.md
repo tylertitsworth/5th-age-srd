@@ -46,8 +46,6 @@ Wizards start with 25gp.
 
 >\*A wizard needs one free hand on a spellcasting implement to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)
 
----
-
 ## Level Progression
 
 | **Wizard Level** | **Total Hit Points** | **Total Feats** | **1st level spell (H)** | **3rd level spell (H)** | **5th level spell (H)** | **7th level spell (H)** | **9th level spell (H)** | **Level-up Ability Bonuses** |
@@ -204,8 +202,6 @@ This school covers mainly defense and protection spells.
 
 Once per day, when casting an Abjuration spell on yourself, also grant the benefit to a nearby ally.
 
----
-
 ##### Spell List
 
 | **Level** | **Spells** |
@@ -225,8 +221,6 @@ Spells of this school summon things, usually from other planes.
 ##### Adventurer Feat
 
 You gain a +1 bonus to attack rolls with your spells against enemies engaged with a creature you summoned.
-
----
 
 ##### Spell List
 
@@ -248,8 +242,6 @@ Spells of this school help you perceive things, both mundane and magical, and at
 
 When you perform an arcane ritual to gain information or predict the future, you have advantage on the ritual check.
 
----
-
 ##### Spell List
 
 | **Level** | **Spells** |
@@ -269,8 +261,6 @@ There are two types of Enchantment spells, those that mess with the mind and tho
 ##### Adventurer Feat
 
 Increase the difficulty of saves against spells of the Enchantment school by 1. (A natural 18+ on a save always succeeds.)
-
----
 
 ##### Spell List
 
@@ -292,8 +282,6 @@ Evocation spells summon raw magical force and the elements. Besides spells that 
 
 Once per battle, when casting an Evocation spell on more than one target, add an additional target.
 
----
-
 ##### Spell List
 
 | **Level** | **Spells** |
@@ -314,8 +302,6 @@ Illusion spells create figments of imagination, either in the target’s mind or
 
 Double the duration of all illusion spells you cast that have a fixed duration.
 
----
-
 ##### Spell List
 
 | **Level** | **Spells** |
@@ -335,8 +321,6 @@ Transmutation manipulates the properties of a physical object, or changes it ent
 ##### Adventurer Feat
 
 Double the duration of any spell that targets physical objects, including cantrips.
-
----
 
 ##### Spell List
 
@@ -851,151 +835,101 @@ Your familiar gains another ability.
 
 The cantrip creates a minor watch-sprite that can be instructed to scream if someone comes through an area or touches an object. Watch-sprites are notoriously stupid and sleepy, but with the right talking-to they might stay focused for the duration of the spell. At higher levels, the spell might summon little fanged spirits buzzing back and forth serving as both visual and actual deterrents.
 
----
-
 ### Animated Quill
 
 Animate a quill, a piece of charcoal or similar object to write down words as you instruct it.
-
----
 
 ### Arcane Mark (standard duration)
 
 The cantrip creates a magical sigil on an object or person. These sigils are usually plain to see, though a deliberately invisible mark can be made. It takes a difficult perception or magic check to notice.
 
----
-
 ### Deep Pockets
 
 Put an item in a pocket, from where it disappears into a small pocket dimension. The item can be as long as you like, as long as it fits through the pocket’s opening. You can pull the item back out as a quick action at any time. At the end of the cantrip’s duration, or if the physical pocket is destroyed, the item falls out.
-
----
 
 ### Detect Magic
 
 You notice lingering magic and supernatural effects within your field of vision. If an effect is concealed on purpose, the DM can require a skill check to detect it.
 
----
-
 ### Erase
 
 Permanently remove non-magical writing or painting from a scroll or a sheet of paper, parchment, or similar surfaces.
-
----
 
 ### Fire Shaping
 
 Enlarge or reduce a non-magical fire, change its color, shape, or intensity. After the spell ends, the fire returns to its natural shape, determined by the material that is burning.
 
----
-
 ### Ghost Sound
 
 This spell creates false noises emanating from somewhere nearby. The effect is like an exceptionally good version of throwing your voice, if your voice could create a wide variety of sounds. Attempted distractions with the cantrip are DC 15 challenges in adventurer environments, higher as you move into champion and epic environments. If someone is using ghost sound against the PCs, a Wisdom-based skill check can identify the sound as a magical fake.
-
----
 
 ### Grease
 
 You create a slippery area where you touch the floor or an object. Anyone who attempts to move through the area or tries to hold on to the object must succeed at a save to do so.
 
----
-
 ### Gust of Wind
 
 Create a strong puff of air that is sufficient to extinguish candles, torches, and similar unprotected flames. With a successful skill check, the gust is strong enough to even extinguish lanterns and other protected flames. It pushes back insects and other small flying creatures, smells, and smoke clouds. It does not affect larger creatures except for a dramatic waving of hair and clothing.
-
----
 
 ### Knock
 
 This cantrip summons a magical servitor three to four times as big as your closed fist that swarms around the door and attempts to punch or push it open (depending on whether you want to be quiet or announce your presence). Success is determined with an Intelligence check against the environment's DC using an appropriate skill. This cantrip does nothing to avoid any traps that might exist.
 
----
-
 ### Light (standard duration)
 
 This cantrip creates a fairly wide and consistent field of light, up to 30 feet in diameter, though it isn't bright enough to dazzle.
-
----
 
 ### Locate Minor Object
 
 Divine the location of an object you are very familiar with, within a range of a few meters. This spell is very handy to find keys, glasses, and other things that get lost around the house.
 
----
-
 ### Mage Hand
 
 This cantrip creates a small telekinetic effect that lasts a round at most. At best it's about half as strong as the wizard's own strongest hand. At worst it's half as strong as the wizard when they're weak from a bad fever.
-
----
 
 ### Mending
 
 This cantrip summons a variety of tiny (hand-sized and smaller) magical sprites who swarm over a chosen broken object attempting to mend it (over the course of 1–6 rounds). Small-scale repairs like torn wineskins, muddy clothing, a broken handgrip on a sword, and similar repairs that anyone could fix with two to four hours of devoted work gets handled in seconds. More elaborate repairs to complicated objects might require an Intelligence check, or at the GM's discretion could only be possible if the wizard has taken the Cantrip Mastery talent.
 
----
-
 ### Nascent Magic Aura
 
 Give an item an indeterminate magic aura, which can be noticed if it is examined for the presence of magic. Upon closer examination and a hard difficulty skill check, the examiner can determine that the aura has no other effect than to create the appearance of a magical enchantment.
-
----
 
 ### Perfume
 
 Create a pleasant smell on the target object, or at least hide a hideous one.
 
----
-
 ### Prestidigitation
 
 This cantrip produces magic tricks and small illusions. One casting usually gives you a minute of fun. The magic has nowhere near as much real world force as mage hand.
-
----
 
 ### Quench
 
 This spell can put out nearby small fire sources such as campfire embers and candles, or smother a hem or sleeve someone has carelessly caught aflame. At higher levels, this cantrip can be used on smaller flames that are far away, or put out a large campfire or small bonfire nearby.
 
----
-
 ### Recall Familiar
 
 You summon your familiar back to your shoulder, or a location next to you, from up to a few hundred feet distance.
-
----
 
 ### Recording
 
 For the next few minutes, you record the surrounding sounds into a small gem. The gem holds the recorded sound and can replay it as long as the cantrip lasts.
 
----
-
 ### Spark
 
 This is a minor fire creation spell, enough to light a pipe, or a campfire, or even a page or two of an unprotected spellbook. It doesn't work against living beings or against things that couldn't easily be set on fire with a few seconds of steady application of a candle. The target of the spark has to be nearby and in sight.
-
----
 
 ### Still Image
 
 You produce an illusory image, roughly the size of a portrait painting, for the standard duration. It’s two-dimensional, doesn’t move, and doesn’t react to touch. You can make the image transparent or opaque.
 
----
-
 ### Sundial
 
 Summon a small sundial on your open palm that shows the current time, even in places where no sunlight is available.
 
----
-
 ### Sunshades
 
 Summon a black screen in front of your eyes that blocks excessive sunlight.
-
----
 
 ### Ventriloquism
 
@@ -1090,8 +1024,6 @@ By default, the armor uses its gauntlets to attack, and has a d4 damage die with
 If you cast the spell on a true magic item suit of armor, or equip it with magic items, it benefits from their bonuses and abilities. However, it can only benefit from one item per spell level, and it suffers all item quirks.
 
 While the armor provides strong protection, it has one weakness — when it takes damage, it needs a round to reassemble itself, and cannot attack that turn.
-
----
 
 #### Summoned Armor Golem
 
@@ -1841,8 +1773,6 @@ When the escalation die is even, the Mana Spirit can attack two nearby enemies w
 
 The mana spirit can use Magic Missile as an interrupt action after it is attacked.
 
----
-
 #### Summoned Mana Spirit
 
 | Normal 1st level | **Initiative +3; Flight; (Ranged) Magic Missile, automatic hit--5 force damage** | **AC** **PD**| **13** **10** |
@@ -2033,8 +1963,6 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 #### Adventurer Feat
 
 Your clay golem regenerates a number of hit points equal to its level at the start of its turn.
-
----
 
 #### Summoned Clay Golem
 
@@ -2516,8 +2444,6 @@ Illusion
 
 **Effect:** You summon a mob of three phantom soldiers (below), as per the summoning rules. These soldiers fight for you until the end of the battle, or until they drop to 0 hp, whichever comes first.
 
----
-
 #### Summoned Phantom Soldier
 
 | Normal 3rd level | **Initiative +3; Ghostly Bohemian Ear Spoon +6 vs. AC--6 damage** | **AC** **PD**| **16** **12** |
@@ -2948,8 +2874,6 @@ Conjuration
 
 Attacks by the hand deal +1d8 damage; +2d8 at 8th level.
 
----
-
 #### Summoned Bigby's Hand
 
 | Large 5th level | **Initiative +7; Clenched Fist +10 vs. PD--18 force damage** | **AC** **PD**| **21** **19** |
@@ -3140,8 +3064,6 @@ Choose two abilities instead.
 #### Epic Feat
 
 Choose three abilities instead.
-
----
 
 #### Summoned Fantastic Beast
 
@@ -3375,8 +3297,6 @@ Enemies engaged with the stone golem take a -2 penalty to any attack that does n
 #### Epic Feat
 
 The stone golem cannot be intercepted by creatures that aren’t large or bigger.
-
----
 
 #### Summoned Rock Golem
 
@@ -3720,8 +3640,6 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 | Higher Level | Effect |
 | --- | --- |
 | 9th | You can now embed three gems worth at least 500 gp each to embed 5th level spells. |
-
----
 
 #### Summoned Gem Golem
 
@@ -4194,8 +4112,6 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 #### Epic Feat
 
 When the magma golem engages an enemy, it deals 25 fire damage to them.
-
----
 
 #### Summoned Magma Golem
 
