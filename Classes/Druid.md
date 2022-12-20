@@ -38,8 +38,6 @@ Druids start with 25gp.
 
 >\*Circle of War talent choices can change shield and one-handed weapon stats.
 
----
-
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
@@ -132,8 +130,6 @@ You can talk with plants and animals pretty much as often you like, and you gain
 
 Druids can cast primal [rituals](../General-Rules/Rituals.md).
 
----
-
 ## Druid Talents
 
 Each of your talents unlocks pools of spells and powers that are not available to characters who lack the talent. Druids who choose to more talents in a circle become adepts and masters and gain additional benefits and powers in that circle.
@@ -159,8 +155,6 @@ This circle harnesses the destructive phase of the cycle of life. Droughts, plag
 However, there is a darker element to it, a destructive force that is outside of nature, a breaking of the cycle. It is a powerful, tempting magic, and blighters are always at risk of drawing more power from their surroundings than intended, leaving wounds that may never heal.
 
 In the same way that the Lich King represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
-
----
 
 ### Circle of Decay Talents
 
@@ -397,8 +391,6 @@ On a natural 18+, you can heal using a recovery.
 ### Circle of Decay Spells
 
 You choose the spells you can cast at full heal-up. The number of spells you gain is determined by your class level and whether you are an initiate, adept or master.
-
----
 
 #### Shrivel (1st Level)
 
@@ -712,8 +704,6 @@ _Adept:_ Your animal companion is one level below your class level, and it is pr
 
 _Master:_ As adept, but your companion is now the same level as your class level.
 
----
-
 ### Circle of Fang Talents
 
 #### Animal Friends
@@ -952,8 +942,6 @@ Druids of the circle of feysong are either fey themselves, or humanoids who live
 Fey druids with true fey blood have physical features that show the heritage, such as waving, unnaturally shiny hair, a bulbous nose or small horns on the forehead. Their eyes and hair are often unnaturally colorful, and they have a glimmering aura like the reflection of the sun on morning dew.
 
 Druids of this circle are known as fey druids. If they are fey children switched out for mortal babies, they are also known as changelings.
-
----
 
 ### Circle of Feysong Talents
 
@@ -1601,8 +1589,6 @@ In addition, some spells are in the Any Terrain category and can be cast anywher
 You don’t prepare spells after a full heal-up as a land druid. Instead, you can use your spell slots to cast any daily spell of the terrain you are currently in. The number of spell slots is determined by the unified spell progression table at the start of this chapter. You always cast terrain spells at the highest level you have access to.
 
 This circle also gives access to at-will and once-per battle spells.
-
----
 
 ### Circle of the Land Talents
 
@@ -3596,8 +3582,6 @@ This circle provides powerful healing and support spells to aid your allies. It 
 
 Druids of this circle are known as life druids or simply healers.
 
----
-
 ### Circle of Life Talents
 
 #### Font of Life
@@ -3621,8 +3605,6 @@ Increase the healing bonus to 5x your Wisdom modifier.
 #### Gaia’s Light
 
 You gain the Gaia’s Light at-will spell as a bonus spell. It does not use one of your spell slots.
-
----
 
 ##### Gaia’s Light
 
@@ -3700,8 +3682,6 @@ You grant the benefit to all allies targeted by the spell, instead of just one.
 As a healer druid, you don’t need to prepare spells. You have a number of spell slots, and you cast your spells from these slots.
 
 If the spell you cast is a daily spell, the spell is expended. If you cast a once-per-battle spell, you regain the spell slot after the battle, and you can cast either the same spell again in that slot, or any other spell, including a daily spell.
-
----
 
 #### Cycle of Life and Death (1st Level)
 
@@ -4040,8 +4020,6 @@ You can only have one beast aspect active at a time. Activating a beast aspect e
 _Initiate:_ Beast aspects are daily powers for you. When activating an aspect, you gain the initiate effect.
 
 _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activating an aspect, you gain the adept effect.
-
----
 
 ### Circle of the Moon Talents
 
@@ -4644,8 +4622,6 @@ This circle makes you a stronger combatant with melee or ranged weapons, and it 
 ### Adventurer Feat
 
 If you hybrid, the druid side is considered a “skillful warrior” and does not decrease your WEAPON damage dice.
-
----
 
 ### Circle of War Talents
 
