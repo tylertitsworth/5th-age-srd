@@ -389,44 +389,6 @@ If you don’t like either the random bard affinity or the battle cry you rolled
 
 ---
 
-### Psionic Warrior
-
-You don’t take an attack penalty when wielding a one-handed melee weapon of any kind, or a shield. You also take no attack penalty for wearing heavy armor, and your base AC in heavy armor is increased to 12.
-
-When you would roll to determine your next affinity, you can choose to gain the effects below instead of an affinity. The effect depends on the affinity you roll, and it lasts until the end of your next turn.
-
-| **Affinity** | **Effect** |
-| --- | --- |
-| Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
-| Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
-| Iconic / Blood | Gain advantage on your next melee attack roll. |
-| Iconic / Light | Your melee attacks deal holy damage, you deal half damage on a miss. |
-| Iconic / Twisted | Your melee attacks deal negative energy damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
-
-If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
-
-_Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion daily affinity.
-
----
-
-#### Adventurer Feat
-
-Your recoveries use exploding dice (add one more die for each that comes up as maximum).
-
----
-
-#### Champion Feat
-
-Your AC in light armor is increased to 11, and in heavy armor to 13.
-
----
-
-#### Epic Feat
-
-Once per battle, when the escalation die is 3+, make a melee attack as a quick action after using a psion affinity on that turn.
-
----
-
 ### Eidolon of Anarchy
 
 As a rampant psionic vessel, your body isn’t stable. The color of your hair, eyes and even skin keeps shifting through all the colors of the rainbow, based on your mood, the weather, and the whims of psionics. On some days, you wake up as a different species or gender. All of this is wildly confusing to others, but you were born with it and know this is who you are. When you manifest a affinity, it’s less of a conscious act of casting than a failure to contain the psionics.
@@ -521,6 +483,62 @@ Once per battle, roll twice for affinity. Keep one to determine your affinity an
 #### Epic Feat
 
 When you have no psion daily affinities left, regain one when you take a quick rest.
+
+---
+
+### Mind Reader
+
+You can read the thoughts of nearby sentient creatures. If they are unaware of your mind reading ability you can make an 11+ save to understand their thoughts.
+
+If you are in battle you can use a quick action to attempt to reveal the thoughts and strategy of one creature nearby of you, make an 11+ save to understand their thoughts with a penalty equal to their intelligence modifier unless they are aware of your ability to understand their thoughts, then make a 16+ save instead. If you succeed you gain advantage on the next attack roll against that creature.
+
+If you do not speak their language make the save with disadvantage.
+
+#### Adventurer Feat
+
+If you do not speak their language you do not make the save with disadvantage.
+
+#### Champion Feat
+
+The save is 6+, 11+ if they are aware of your mind reader ability.
+
+---
+
+### Psionic Warrior
+
+You don’t take an attack penalty when wielding a one-handed melee weapon of any kind, or a shield. You also take no attack penalty for wearing heavy armor, and your base AC in heavy armor is increased to 12.
+
+When you would roll to determine your next affinity, you can choose to gain the effects below instead of an affinity. The effect depends on the affinity you roll, and it lasts until the end of your next turn.
+
+| **Affinity** | **Effect** |
+| --- | --- |
+| Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
+| Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
+| Iconic / Blood | Gain advantage on your next melee attack roll. |
+| Iconic / Light | Your melee attacks deal holy damage, you deal half damage on a miss. |
+| Iconic / Twisted | Your melee attacks deal negative energy damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
+
+If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
+
+_Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion daily affinity.
+
+---
+
+#### Adventurer Feat
+
+Your recoveries use exploding dice (add one more die for each that comes up as maximum).
+
+---
+
+#### Champion Feat
+
+Your AC in light armor is increased to 11, and in heavy armor to 13.
+
+---
+
+#### Epic Feat
+
+Once per battle, when the escalation die is 3+, make a melee attack as a quick action after using a psion affinity on that turn.
 
 ---
 
@@ -1889,3 +1907,19 @@ Ranged affinity
 Daily
 
 **Effect:** Until the end of the battle, you have _flight_ while the escalation die is even. While the escalation die is odd, you can cast _twisted beam_ once during your turn as a quick action.
+
+---
+
+#### Mind Control (7th level+)
+
+Ranged affinity
+
+Daily
+
+**Target:** One nearby enemy
+
+**Attack:** Charisma + Level vs. MD
+
+**Hit:** The target is dominated by you until the end of the battle. If the target is already dominated, it is instead confused until the end of the battle.
+
+**Miss:** The target is confused until the end of the battle.
