@@ -455,8 +455,6 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **22** **108** |
 
----
-
 #### Skeletal Minion Feats
 
 Like animal companion feats, skeletal minion feats don't build on each other. You don't have to take them in a particular order, as long as you qualify for the tier.
@@ -467,15 +465,11 @@ Like animal companion feats, skeletal minion feats don't build on each other. Yo
 - When an enemy attempts to disengage from the skeletal minion, it takes a penalty to the check equal to the escalation die.
 - As a quick action, you can set your skeletal minion ablaze, or extinguish the blaze. While it's flaming, your skeleton minion's damage dice increase by one size, and it deals fire damage with its melee attacks, but it takes damage equal to your level each time its natural attack roll is odd.
 
----
-
 ##### Champion Feats
 
 - Add a damage die of the same size to your skeletal minion's damage rolls (for example, 3d6 becomes 4d6).
 - Add double your Charisma modifier to your skeletal minion's hit points. At 8th level, add triple it.
 - Add a damage die of the same size to your skeletal minion's damage rolls (for example, 4d6 becomes 5d6, and this is cumulative with the champion feat).
-
----
 
 ##### Epic Feats
 
