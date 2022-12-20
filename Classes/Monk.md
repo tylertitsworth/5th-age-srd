@@ -202,8 +202,6 @@ Whenever you spend a ki point, you also gain a +1 bonus to all defenses until th
 
 Once per battle, as an interrupt action, you can spend a ki point to make a melee basic attack against an enemy who misses you with a melee attack.
 
----
-
 #### Ki Power
 
 _Spread the Wings:_ You can spend a ki point to add your Wisdom modifier to a disengage check, after you roll.
@@ -225,8 +223,6 @@ On a successful save, you also block any non-damage effect from the attack.
 #### Epic Feat
 
 If you roll a natural 18+ on the save, you instead take no damage from the attack and can choose one nearby enemy. It takes one-quarter of the damage as you deflect the attack, and suffers any effects from it.
-
----
 
 #### Ki Power
 
@@ -251,8 +247,6 @@ The ki power save is now an easy save (6+).
 #### Epic Feat
 
 You can also use the ki power to save against a last gasp effect (but it doesn't count against your total if you fail).
-
----
 
 #### Ki Power
 
@@ -289,8 +283,6 @@ Also deal the extra damage on a miss.
 #### Champion Feat
 
 On a natural 18+ attack roll, deal maximum damage with the Fire Fist extra damage.
-
----
 
 #### Ki Power
 
@@ -334,8 +326,6 @@ Your Flurry attack now deals damage equal to your level on a miss.
 
 When the escalation die is 4+, your Flurry attack deals PUNCH + Strength damage instead of JAB + Strength.
 
----
-
 #### Ki Power
 
 _A Thousand Palms:_ You must be engaged with 2 or more enemies to use this power. After making a Flurry attack, you can spend 1 point of ki to make another Flurry attack against a target you have not already attacked with Flurry this turn.
@@ -370,8 +360,6 @@ You can spend a ki point to use freezing fist a second time in a battle.
 
 You now deal 1d8 per level extra cold damage instead.
 
----
-
 #### Ki Power
 
 _Icy Breath:_ When you use Freezing Fist, spend a ki point to give all enemies engaged with you disadvantage to disengage checks until the end of your next turn.
@@ -404,8 +392,6 @@ When you successfully disengage from an enemy, that enemy takes damage equal to 
 
 Once per battle, reroll an attack that qualified for Greeting Fist damage.
 
----
-
 #### Ki Power
 
 _Opening the Death Gate:_ When you deal Greeting Fist damage, you can spend 1 point of ki to double that damage (as usual, a crit would then triple that damage).
@@ -421,8 +407,6 @@ Once per battle when you would make a melee attack as an element of one of your 
 #### Epic Feat
 
 You no longer take opportunity attacks when you make ranged attacks while engaged.
-
----
 
 #### Ki Power
 
@@ -454,8 +438,6 @@ You gain resist poison 16+.
 
 At the start of each battle, you gain temporary hit points equal to 10 times your Constitution modifier.
 
----
-
 #### Ki Power
 
 _Seal of Steel:_ You can spend a ki point to turn a failed save against ongoing damage, or the weakened, hampered, vulnerable or stuck conditions, into a success.
@@ -467,8 +449,6 @@ _Seal of Steel:_ You can spend a ki point to turn a failed save against ongoing 
 Any melee weapon is a monk weapon for you. You wield them without penalty, and you can use your monk forms with them. When wielding a melee weapon, use that weapon’s usual WEAPON damage die instead of your JAB, PUNCH or KICK.
 
 When you wield a two-handed weapon, use Strength instead of Dexterity for the attack roll. You don’t reroll natural 2 on the attack, as you are not two-weapon-fighting.
-
----
 
 #### Ki Power
 
@@ -502,8 +482,6 @@ You gain a +3 bonus to disengage checks.
 
 When an enemy makes an attack against you that targets more than one creature, you only take half damage from that attack, hit or miss.
 
----
-
 #### Ki Power
 
 _Wind's Comrade:_ You can spend 1 point of ki during your turn to gain _flight_ until the end of your turn.
@@ -532,8 +510,6 @@ Gain a second Rogue power, which counts as a PUNCH if it is an attack, and can b
 
 Gain a third Rogue power, which counts as a KICK if it is an attack, and can be used as a finishing attack.
 
----
-
 #### Ki Power
 
 _Yamiuchi:_ When you hit with a melee attack against an enemy that is also engaged with one of your allies, you can spend a ki point to deal Sneak Attack damage as a rogue of your level.
@@ -553,8 +529,6 @@ Once per day after rolling a death save, you can gain +4 bonus to the roll.
 #### Epic Feat
 
 The first time you die after taking this feat, you are resurrected at a place of power like your home monastery or other sanctum between one and four days later, assuming another resurrection doesn't find you first. (This counts against your normal resurrection limit, as normal.)
-
----
 
 #### Ki Power
 
@@ -582,8 +556,6 @@ If you roll a natural 18+ on the save, you instead take no damage from the attac
 
 Spinning Willow Style saves are now easy saves (6+).
 
----
-
 #### Ki Power
 
 _The Willow Bends:_You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
@@ -606,8 +578,6 @@ You can choose a champion tier form as your bonus form instead.
 
 You can choose an epic tier form as your bonus form instead.
 
----
-
 #### Ki Power
 
 _Flow of the Ink:_ Once per battle, as a quick action, you can spend a ki point to move forward one step in the progression from opening to flow or from flow to finishing.
@@ -627,8 +597,6 @@ When you roll a natural 2 with a monk attack while fighting with your monastic w
 #### Epic Feat
 
 One battle per day, the damage dice of your finishing attacks increase by one size (max d12). (For example, d10s become d12s.)
-
----
 
 #### Ki Power
 
@@ -651,8 +619,6 @@ Choose a necromancer spell of your level or lower as a bonus power. You can choo
 #### Champion Feat
 
 When you use a monk power that has an elemental damage type, such as fire, you can change that damage to negative energy instead.
-
----
 
 #### Ki Power
 
@@ -693,8 +659,6 @@ If you kill a target with Death Touch, you can spend a ki point to use a recover
 
 Kill a target with 150 hit points or less.
 
----
-
 #### Ki Power
 
 _Fatal Surprise:_ Once per battle, you can spend a ki point to use Death Touch even if you have already used a different Deadly Secret this battle.
@@ -706,8 +670,6 @@ _Fatal Surprise:_ Once per battle, you can spend a ki point to use Death Touch e
 When you gain this talent, choose a class: cleric, sorcerer, or wizard. Each time you take a full heal-up, choose a non-feature spell of your level or lower from that class. You can't choose the same spell twice in a row; you must choose a different option each time you take a full heal-up.
 
 If the spell is at-will, you can cast it in place of a flow attack. If the spell is limited use, you can cast it in place of a finishing attacks. Use your Wisdom as the ability score that determines attack and damage with the spell.
-
----
 
 #### Ki Power
 
@@ -721,8 +683,6 @@ Once per battle as a quick action, you can pull off an outrageous improvisationa
 
 The outrageous action of your stunt isn't something you have to roll for, even if it would ordinarily require a skill check to pull off, though you'll still have to roll for an attack that follows up your stunt.
 
----
-
 #### Ki Power
 
 _Ludicrous Improbability Maneuver:_You can spend 1 ki point to use Improbable Stunt again this battle.
@@ -732,8 +692,6 @@ _Ludicrous Improbability Maneuver:_You can spend 1 ki point to use Improbable St
 ### Path of the Perfect Warrior
 
 One battle per day, you can increase your JAB damage dice to d8s, your PUNCH damage dice to d10s, and your KICK damage dice to d12s.
-
----
 
 #### Ki Power
 
@@ -748,8 +706,6 @@ If your flow attack is from the same form as your opening attack, you gain a +1 
 #### Epic Feat
 
 In addition to a bonus to your critical threat range, also gain the same bonus to the attack roll. This bonus is also doubled when you expend a ki point.
-
----
 
 #### Ki Power
 
@@ -769,8 +725,6 @@ Once per day, as a quick action when the escalation die is 1+, you can unleash t
 
 You also gain resist fire 16+ while the demon is unleashed.
 
----
-
 #### Ki Power
 
 _The Demon Roars:_ When you unleash the demon, if both dice of your melee attack show the same number, you can spend a ki point to deal 1d6 fire damage per level to the target.
@@ -788,8 +742,6 @@ Increase your damage dice with small thrown weapons to d6.
 #### Epic Feat
 
 Once per battle, you can make an opening attack as a ranged attack with a small thrown weapon instead of its usual type.
-
----
 
 #### Ki Power
 
@@ -825,8 +777,6 @@ Once per battle when you make a flow attack, you can roll an additional d20 for 
 
 Once per battle, you can make a monk basic melee attack as a quick action, using the same damage die (JAB, PUNCH or KICK) as your last melee attack.
 
----
-
 #### Ki Power
 
 _Morning Tempest:_ You can spend a ki point to gain a second use of this talent in a battle, when the escalation die is 3+.
@@ -845,8 +795,6 @@ For one battle per day, as a quick action, you can summon a shadow double of you
 
 Damage by your shadow double is either holy or negative energy damage (choose when you take the feat).
 
----
-
 #### Ki Power
 
 _Ripples in the Pond:_ You can spend a ki point to set the d6 to 1 after you roll it (potentially triggering the shadow double attack).
@@ -860,8 +808,6 @@ You regain a ki point when you take a quick rest.
 #### Epic Feat
 
 When you spend a ki point to increase a natural roll, you can increase it by two instead.
-
----
 
 #### Ki Power
 
@@ -886,8 +832,6 @@ The first time you are hit in a battle, make a save. If you succeed, you only ta
 #### Epic Feat
 
 If you fail the save, you take only half damage.
-
----
 
 #### Ki Power
 
@@ -1095,8 +1039,6 @@ Melee attack
 **Hit:** PUNCH + Strength damage
 
 **Miss:** One enemy you are engaged with (GM’s choice) can make a melee attack against you as a free action. The enemy has disadvantage on the attack.
-
----
 
 ##### Ki Power
 
