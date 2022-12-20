@@ -172,8 +172,6 @@ Once per battle when you roll for a high weirdness effect, roll twice and use bo
 
 One battle per day, each time you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
 
----
-
 #### High Weirdness Table
 
 | **d100** | **High Weirdness Effect** |
@@ -233,8 +231,6 @@ Choose three of the following class talents.
 There are three separate Warp talents that you may choose from. They provide random powers or features that surface unpredictably during battles (and perhaps during non-combat moments of high tension).
 
 If a warp talent gives you access to a affinity from another class, associate it with psionic's attack category or defense category. You can then cast it if that affinity type comes up for you.
-
----
 
 #### Attacking Warp
 
