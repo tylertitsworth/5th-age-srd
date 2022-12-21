@@ -29,6 +29,12 @@ When you hit with an attack using this ammunition, the target also pops free fro
 
 ---
 
+#### Incineration
+
+Creatures slain by ammunition with this property are reduced to ash when they die. They’re not going to come back as zombies, or rise as vampires, or be used as husks by demons.
+
+---
+
 #### Keen
 
 When you make an attack with this ammunition, the crit range of that attack expands by 1 (usually 18+ including the default bonus).
@@ -99,6 +105,14 @@ When you hit with this ammunition and deal damage, if the target has 40 hp or fe
 
 ---
 
+#### Dolorous Bolt
+
+This crossbow bolt inflicts a special form of ongoing damage – the victim takes 50 damage, but suffers that damage every day instead of every round. There is no save against this damage, and nothing less than a [Wish](../Classes/Wizard.md#wish) spell can remove it. The damage recurs at the exact same time every day. Some creatures may simply die, but anyone worth shooting with an epic-tier weapon probably has the hit points and healing to survive the ongoing hit point damage. The constant pain and the knowledge that the agony’s going to recur every day for as long as they live are other matters entirely.
+
+>_Note:_ One of the Crusader’s madmen shot the King of the Stone Giants with a dolorous bolt. Around the same time, you start hearing stories that the Dark Gods can cure any injury if you swear to serve them forever. Think the Crusader’s mad enough to risk a war with the giants on the off-chance of snaring their king’s soul? - Hresta, half-elf ranger
+
+---
+
 #### Uncanny
 
 It warps the forces of necessity and miracle as it flies. When you attack with this ammunition, use the target's lowest defense instead of the defense your attack would normally target.
@@ -153,6 +167,14 @@ You gain a +4 bonus to AC while you have no recoveries left.
 
 ---
 
+#### Of the Guarded Heart
+
+The AC bonus from your armor applies to your MD as well.
+
+**Quirk:** Mistrustful.
+
+---
+
 #### Perfection
 
 Heavy Armor
@@ -199,6 +221,16 @@ The default AC bonus applies to Physical Defense as well.
 
 ---
 
+#### Unyielding Plate
+
+Heavy Armor
+
+_Recharge 16+:_ You don’t fall unconscious when reduced to 0 hit points – you can keep fighting, but you’re weakened (-4 to all attacks and defenses), and you don’t need to make death saves. You still die when reduced to a negative score equal to half your maximum hit points. (Champion: Three quarters of your maximum hit points; epic: equal to your maximum hit points).
+
+**Quirk:** Cold and unsympathetic.
+
+---
+
 #### Warding
 
 You gain resistance 12+ against attacks targeting Physical Defense or Mental Defense.
@@ -209,11 +241,31 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 ### Champion
 
+#### Plate of the Automaton
+
+Heavy armor
+
+While wearing this armor, you may enter into a trance that fulfills your need for sleep, but lets your body continue with some mindless repetitive task. You could, for example, ‘sleep’ while marching, or while patrolling for monsters, or while digging graves. You are vaguely aware of your surroundings while in a trace; you could even hold a conversation or fight a battle, but you’d be hampered throughout in the latter case.
+
+**Quirk:** Monotonous speech.
+
+---
+
 #### Robe of Preservation
 
 _Recharge 16+:_ This soft grey robe automatically activates when you are knocked unconscious. It teleports you to a safer location nearby – it might bring you out of the room in a dungeon, or drop you at the feet of the party cleric, or just stuff your unconscious body into a cupboard. The robe remains behind when you teleport, falling empty to the ground where you stood.
 
 **Quirk:** Heedless of danger.
+
+---
+
+#### Unrelenting
+
+You may drain and heal using Recoveries from your nearby allies on a two-for-one basis – one nearby ally loses two Recoveries, you get the healing benefit of one of them. The armor activates automatically when you go below 50 hit points. You get to pick who you drain – they don’t get to refuse, but can cut you off forever after being drained. If an ally cuts you off, you may never drain them with the armor again.
+
+**Quirk:** Callous.
+
+---
 
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
@@ -257,6 +309,16 @@ Like most belts, this increases your maximum recoveries by 1 (champion by 2, epi
 
 ---
 
+#### Girdle of Oaths
+
+Like other magic belts, this one increases your maximum recoveries by 1 (2 for champion, 3 for epic). The girdle of oaths can also give you an unlimited number of bonus recoveries – the catch is that each one comes with a cost, and the cost keeps rising. The first free recovery requires a minor service or complication. After that, the price goes up. Whatever the belt asks of you will always be useful to the belt’s true master, so it might ask you to recruit others to their cause, or donate magic items or treasure, or slay enemies of the belt's true master.
+
+Refuse, and at the worst possible moment, the belt will take back the health it’s given you, and you’ll take damage equal to the healing provided by the belt in the past.
+
+**Quirk:** Mercenary in all things.
+
+---
+
 #### Glorious Rally
 
 When you rally, you gain 4 temporary hit points that last until the end of your next turn (champion: 10 temp hp; epic: 25 temp hp).
@@ -268,6 +330,14 @@ When you rally, you gain 4 temporary hit points that last until the end of your 
 _Recharge 11+:_ You can use a recovery to prevent all damage from an attack (including ongoing damage), but not effects.
 
 **Quirk:** Has terrible heartburn.
+
+---
+
+#### Hungry Scabbard
+
+A weapon drawn from this swordbelt inflicts an extra 1d8 damage with your first hit each battle (champion: +2d8; epic: +4d8). However, if you don’t kill something that bleeds in the fight, the weapon still demands its thirst be sated; lose a recovery after the fight if you fail to slay a creature, or if you’re fighting things that don’t have blood.
+
+**Quirk:** Unwholesome taste for red meat.
 
 ---
 
@@ -383,6 +453,14 @@ You gain a +1 bonus to all skill checks based on Str, Con, or Dex.
 
 ---
 
+#### Scroll of Darkness
+
+This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is only a few pages long, but you find yourself reading it again and again, and each reading brings new insights into the nature of life and death. As long as you possess the scroll, you have a3-point skill related to knowledge of evil deific figures.
+
+**Quirk:** Not so much a quirk as a health and safety warning – if this item takes over, then you’ll be sacrificing virgins on altars in no time.
+
+---
+
 #### Scroll of the Fortuitous Outlook
 
 (Quick action – once per battle)
@@ -450,6 +528,20 @@ _Recharge 11+:_ When you miss with a melee attack, reroll the attack using +15 a
 
 ---
 
+#### Manual of Victory
+
+_Recharge 16+:_ Those who study this monograph on total warfare come to understand that a bloodless victory is a hollow one, and that it is only from sacrifice and suffering that true glory arises. The first time one of your allies falls on the field of battle (drops to 0 hit points or is otherwise slain or incapacitated), choose one of the following effects:
+
+- Increase the escalation die by 1
+- Take an immediate standard action for free
+- Increase your weapon damage dice by one step (d6s become d8s, d8s become d10s) for the remainder of the battle
+
+Be warned, though – if the fallen ally is healed and returns to the fray, it throws your tactical calculations off, and you no longer benefit from the escalation die for the rest of the battle.
+
+**Quirk:** Refight famous battles in your head or on the tabletop.
+
+---
+
 ### Epic
 
 #### Labyrinthine Grimoire
@@ -509,6 +601,14 @@ You can walk or run normally through terrain that would usually slow one down, s
 Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss (champion: +2d8; epic: +4d10).
 
 **Quirk:** You like to start fights as much as you like to finish them.
+
+---
+
+#### Face-Stomping Boots
+
+_Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may automatically inflict 5 damage on them immediately (champion: 10 damage; epic: 25 damage). You don’t have to be the one who staggered them to trigger this item.
+
+**Quirk:** Hates bugs and other things that crawl.
 
 ---
 
@@ -603,6 +703,23 @@ Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
 _Recharge 6+:_ When an attack or effect deals ongoing damage to you that a save ends, you can roll an immediate save against it.
 
 **Quirk:** Doesn't notice social slights or insults.
+
+---
+
+#### Demonhide Cloak
+
+_Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die. You’re wearing a cloak made from the skin of a trapped demon. Roll 1d6 at the start of battle to see what power the cloak can manifest in this fight if you choose to activate it.
+
+| d6 | Effect |
+| --- | --- |
+| 1 | +4 temporary hit points (champion: +10; epic: +25) |
+| 2 | Resist Fire 6+ (champion: 11+; epic: 16+) |
+| 3 | True Seeing – you are immune to invisibility and see through any illusions |
+| 4 | Demonic speed – once per battle at the start of your turn, roll a d8. If the result is equal to or lower than the escalation die, you get to take an extra standard action this round (champion: d6; epic: d4) |
+| 5 | If a nearby demon teleports, you may choose to teleport with it. You arrive engaged with the demon. |
+| 6 | +1 to all attacks against demons
+
+**Quirk:** Goddamn smart-mouth cloak thinks it’s so smart, speaking through your mouth.
 
 ---
 
@@ -752,6 +869,14 @@ _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When
 
 ---
 
+#### Steel Fist of the Crusader
+
+_Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship die you have with the Crusader (champion: d8; epic: d12).
+
+**Quirk:** Becomes increasingly paranoid about demons.
+
+---
+
 #### Sure Fingers
 
 You gain a +2 bonus to any skill check that involves sleight of hand, strength of grip, hand-eye coordination, or similar abilities.
@@ -846,6 +971,14 @@ When you fail an Intelligence skill check, you may roll another d20 immediately 
 
 ---
 
+#### Helm of Terror
+
+When the escalation die is 3 or higher, you cause fear like a monster of the same level. Better yet, nearby allies who would fear you if you were a monster (i.e. their hit points are lower than your fear threshold) are immune to fear as long as you’re around.
+
+**Quirk:** Enjoys intimidating people a little too much.
+
+---
+
 ### Epic
 
 #### Crown of the Mighty Strike
@@ -922,6 +1055,14 @@ _Recharge 16+:_ This necklace changes shape and jewels depending on the species 
 
 ---
 
+#### Talisman of Mortification
+
+_Recharge 11+:_ An ugly, spiky lump of metal scrapes against your chest, reminding you that your flesh is mortal, but the cause is eternal. Before you roll a save, you may sacrifice any number of recoveries. For each recovery sacrificed, you gain a +1 bonus to your roll.
+
+**Quirk:** Refuses to yield.
+
+---
+
 #### Water Breathing
 
 _Recharge 6+:_ This band of aquamarine and pearls enables you to breathe water for a short time, usually about five minutes. The effect wears off slowly, so you'll have warning to get to the surface.
@@ -955,6 +1096,14 @@ _Recharge 11+:_ One enemy you're engaged with takes damage equal to your normal 
 _Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
 
 **Quirk:** Stubborn.
+
+---
+
+#### Enmity
+
+In addition to a +2 bonus to saves against confusion, this ring lets you specify which of your nearby allies you attack when confused. Choose your special friend when the confusion starts, and you may even specify yourself.
+
+**Quirk:** Keeps an enemies list. Checks it twice.
 
 ---
 
@@ -1114,6 +1263,16 @@ _Recharge 6+:_ When you make a basic melee attack, roll a save against one ongoi
 
 ---
 
+#### Watchful Eye
+
+The living eyeball mounted in the boss of this round shield watches vigilantly for hidden foes and dangers. You gain a +4 bonus to skill checks to avoid being ambushed or surprised. In combat, the eye seems to look pleadingly at any foe who’s strong enough to shatter your shield, as if hoping to be released from its unnatural state.
+
+**Quirk:** Always watching people. You sleep with your eyes open.
+
+>_Note:_ Hey, I know that… eye. -Grunbolt, dwarven adventurer
+
+---
+
 ## Staff
 
 A staff counts as both a wand (arcane spells) and a symbol (divine spells). Staffs are champion or epic items only. Epic staffs don't like to be around lesser staffs, and do not abide wands.
@@ -1206,6 +1365,12 @@ _Recharge 16+:_ The power of this golden staff can only be invoked by a spellcas
 
 ---
 
+#### Wrath-Staff
+
+_Recharge 6+:_ This simple staff of iron-shod wood oozes blood when activated. When you kill a foe with a spell, you may activate that staff and have any excess damage spill over to a nearby mob of mooks. The mook’s relevant Defense must be equal to or lower than that of your original target.
+
+---
+
 ## Symbol, Holy Symbol, Relic, Sacred Branch
 
 Sometimes a symbolic magic item is a gem or rune that can be attached to any of various holy symbols. Typically a divine spellcaster pries the gem or other adornment off a foreign holy symbol and affixes it to their own mundane holy symbol. Symbols are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
@@ -1217,6 +1382,16 @@ Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
 ---
 
 ### Adventurer
+
+#### Blasphemous Symbol
+
+_Recharge 11+:_ When you cast a spell that allows an ally to heal using a recovery, you may choose to invoke this relic’s power before the recovery is rolled. The ally may reroll any recovery dice that roll a 1 or a 2. That ally is then bound to perform a service for an evil deific figure.
+
+If the ally refuses to perform the service (or if the service is deemed too petty or meaningless), then both you and that ally are cursed in some fashion. The nature of the curse depends on the service, but it’s more likely to be something unpleasant or loathsome that does not interfere with your ability to serve the deific figure. Expect boils.
+
+**Quirk:** Unctuous.
+
+---
 
 #### Chosen One, Sign of the
 
@@ -1356,6 +1531,14 @@ _Recharge 16+:_ This wand turns any attack spell that targets a randomly determi
 
 ---
 
+#### Rod of Banishment
+
+_Recharge 6+:_ When a demon is killed by you or one of your allies, you may immediately make a free attack (Intelligence + Level vs. MD) against up to 1d3 creatures summoned by that demon. If you hit, the summoned creature is instantly banished. This only works on creatures summoned using the demon’s random demon powers, like gate – it won’t work on demons called in other ways.
+
+**Quirk:** Dismissive.
+
+---
+
 #### Unfettered Minion, Wand of
 
 (Quick action – recharge: 11+)
@@ -1446,6 +1629,14 @@ When damage from this weapon leaves an enemy with 20 hit points or fewer, you de
 
 ---
 
+#### Demon-Thrashing
+
+Demons struck by this weapon writhe in unexpected agony. If you roll a natural 16+ when you hit a demon, you may choose to force the demon to reroll on the Demonic Random Abilities table. (Champion: Reroll with a -1 penalty, and if the demon rolls a 0 or less, it becomes vulnerable to all attacks until the end of the battle; epic: reroll with a -2 penalty).
+
+**Quirk:** Your mood changes every time you take damage.
+
+---
+
 #### Dexterous Parry
 
 (One-handed melee weapon – recharge 11+)
@@ -1463,6 +1654,14 @@ When an enemy you are engaged with hits you while you're wielding this weapon, m
 When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
 
 **Quirk:** Intrudes on personal space.
+
+---
+
+#### Fiery
+
+Your weapon deals fire damage instead of normal damage. This fire damage replaces the normal damage from the weapon – it’s not extra damage. (Champion: All right, have an extra d6 fire damage; epic: 2d6).
+
+**Quirk:** Explosive temper.
 
 ---
 
@@ -1617,6 +1816,14 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 ---
 
 ### Champion
+
+#### Binding
+
+_Recharge 16+:_ When you slay a demon with this weapon, you steal that demon’s random ability and get to use it yourself for the rest of the battle.
+
+**Quirk:** The “quirk” is that there’s a demon spirit temporarily residing in your weapon. Lose control, and the demon’s back in the saddle of your brain.
+
+---
 
 #### Longbow of Fallen Grace
 
