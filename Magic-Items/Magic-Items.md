@@ -113,7 +113,7 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 
 #### Clever Step
 
-(Usually light armor)
+Light Armor
 
 You gain a +4 bonus to all defenses against opportunity attacks.
 
@@ -139,7 +139,7 @@ The default AC bonus applies to Mental Defense as well.
 
 #### Last Stand
 
-(Usually heavy armor)
+Heavy Armor
 
 You gain a +4 bonus to AC while you have no recoveries left.
 
@@ -149,7 +149,7 @@ You gain a +4 bonus to AC while you have no recoveries left.
 
 #### Perfection
 
-(Usually heavy armor)
+Heavy Armor
 
 You gain a +1 bonus to all defenses while at maximum hit points.
 
@@ -217,8 +217,7 @@ One magical sword sheathed on this belt gains a +2 bonus to recharge rolls for i
 
 #### Brutal Vigor
 
-_Recharge 6+_
-When you rally, make a basic attack.
+_Recharge 6+:_ When you rally, make a basic attack.
 
 **Quirk:** Plays with their weapons.
 
@@ -232,8 +231,7 @@ When you rally, you gain 4 temporary hit points that last until the end of your 
 
 #### Heroic Resolve
 
-_Recharge 11+_
-You can use a recovery to prevent all damage from an attack (including ongoing damage), but not effects.
+_Recharge 11+:_ You can use a recovery to prevent all damage from an attack (including ongoing damage), but not effects.
 
 **Quirk:** Has terrible heartburn.
 
@@ -249,8 +247,7 @@ When you heal using your last remaining recovery, you heal 30 additional hit poi
 
 #### Potion Belt
 
-_Recharge 16+_
-Drink a potion stored on this belt as a quick action instead of a standard action. (It also provides slots for up to six potions.)
+_Recharge 16+:_ Drink a potion stored on this belt as a quick action instead of a standard action. (It also provides slots for up to six potions.)
 
 **Quirk:** Constantly attempts to refill everyone else's drinks. Or potions. Or ration bags.
 
@@ -258,8 +255,7 @@ Drink a potion stored on this belt as a quick action instead of a standard actio
 
 #### Resilience
 
-_Recharge 16+_
-When you rally, you can use a second recovery to heal after using the first (and seeing the recovery roll).
+_Recharge 16+:_ When you rally, you can use a second recovery to heal after using the first (and seeing the recovery roll).
 
 **Quirk:** Grinningly optimistic.
 
@@ -277,8 +273,7 @@ You must carry a single magic melee weapon that you keep attached to this item f
 
 #### Resurgence
 
-_Recharge 16+_
-When you drop to 0 hit points or lower, heal using a recovery before falling unconscious.
+_Recharge 16+:_ When you drop to 0 hit points or lower, heal using a recovery before falling unconscious.
 
 **Quirk:** Bursts forth with wildly optimistic comments from time to time.
 
@@ -286,8 +281,7 @@ When you drop to 0 hit points or lower, heal using a recovery before falling unc
 
 #### Sash of Suppleness
 
-_Recharge 6+_
-A silky sash worn as a belt. When an attack hits your AC and deals 16 damage or less, change that hit into a miss (epic: 40 damage or less).
+_Recharge 6+:_ A silky sash worn as a belt. When an attack hits your AC and deals 16 damage or less, change that hit into a miss (epic: 40 damage or less).
 
 **Quirk:** Always stretching, even when it would be more polite or sensible to not be doing so.
 
@@ -297,8 +291,7 @@ A silky sash worn as a belt. When an attack hits your AC and deals 16 damage or 
 
 #### Kilt of the Mad Archmage
 
-_Recharge 11+_
-When you drop one or more foes with an arcane spell attack, heal using a recovery and gain a +4 bonus to attack rolls with spells until the end of your next turn.
+_Recharge 11+:_ When you drop one or more foes with an arcane spell attack, heal using a recovery and gain a +4 bonus to attack rolls with spells until the end of your next turn.
 
 **Quirk:** Roll eyes and giggle too often for comfort.
 
@@ -334,8 +327,7 @@ None.
 
 #### Codex of Foreshadowed Victory
 
-_Recharge 16+_
-When you roll initiative, gain a +10 bonus to your roll after seeing it.
+_Recharge 16+:_ When you roll initiative, gain a +10 bonus to your roll after seeing it.
 
 **Quirk:** Jumpy.
 
@@ -361,8 +353,7 @@ Make a recharge roll for a recharge power you expended this turn (including a ma
 
 #### Scroll of Seven Subtle Serpents
 
-_Recharge 6+_
-When you make a melee attack based on Dexterity, Intelligence, or Wisdom, evoke a special ability of your choice. Pick the ability from one of the following options after seeing whether the attack is a hit.
+_Recharge 6+:_ When you make a melee attack based on Dexterity, Intelligence, or Wisdom, evoke a special ability of your choice. Pick the ability from one of the following options after seeing whether the attack is a hit.
 
 - Deal +1d6 damage on a hit (champion: +2d8; epic: +4d10).
 - Deal +1d4 damage on a miss (champion: +2d6; epic: +4d8).
@@ -377,8 +368,7 @@ Quirk: Always in constant motion, or swaying gently when still.
 
 #### Scroll of the Unerring Shaft
 
-_Recharge 11+_
-When you miss with a ranged weapon attack, turn that miss into a hit, dealing your ranged basic attack damage with the attack instead.
+_Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a hit, dealing your ranged basic attack damage with the attack instead.
 
 **Quirk:** Sings snatches of nonsense.
 
@@ -386,8 +376,7 @@ When you miss with a ranged weapon attack, turn that miss into a hit, dealing yo
 
 #### Tome of the Divinities and their Deeds
 
-_Recharge 16+_
-When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total (champion: +2d8 hp; epic: +4d10 hp).
+_Recharge 16+:_ When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total (champion: +2d8 hp; epic: +4d10 hp).
 
 **Quirk:** Sees the hands of the gods operating subtly through the natural and social world, and makes others aware of it.
 
@@ -395,8 +384,7 @@ When you cast a divine spell, heal using a recovery and add +1d6 hit points to t
 
 #### Tome of the Open Mind
 
-_Recharge 16+_
-When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike the result, reroll the check.
+_Recharge 16+:_ When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike the result, reroll the check.
 
 **Quirk:** Annoyingly curious.
 
@@ -406,8 +394,7 @@ When you roll a skill check using Intelligence, Wisdom, or Charisma and dislike 
 
 #### Manual of Puissant Skill at Arms
 
-_Recharge 11+_
-When you miss with a melee attack, reroll the attack using +15 as your attack bonus instead of your own bonus (epic: +20). If an arcane spellcaster reads this manual, it hurts their brain and permanently reduces their maximum hit points by 4 (epic: by 10).
+_Recharge 11+:_ When you miss with a melee attack, reroll the attack using +15 as your attack bonus instead of your own bonus (epic: +20). If an arcane spellcaster reads this manual, it hurts their brain and permanently reduces their maximum hit points by 4 (epic: by 10).
 
 **Quirk:** Constantly checking self out and flexing, and seems to want to be caught doing that.
 
@@ -417,8 +404,7 @@ When you miss with a melee attack, reroll the attack using +15 as your attack bo
 
 #### Tome of Arcane Mysteries
 
-_Recharge 11+_
-When you make an attack roll with an arcane spell, after finding out whether the attack hits, change the attack roll to a 10 instead of the natural roll.
+_Recharge 11+:_ When you make an attack roll with an arcane spell, after finding out whether the attack hits, change the attack roll to a 10 instead of the natural roll.
 
 **Quirk:** Doodles insane geometrical designs.
 
@@ -468,8 +454,7 @@ Whenever you move to engage a foe first and then make a melee attack against it 
 
 #### Sandals of the Slippery Eel
 
-_Recharge 11+_
-Reroll a failed disengage check.
+_Recharge 11+:_ Reroll a failed disengage check.
 
 **Quirk:** Loves puns.
 
@@ -477,8 +462,7 @@ Reroll a failed disengage check.
 
 #### Slayer's Boots
 
-_Recharge 11+_
-When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
+_Recharge 11+:_ When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
 
 **Quirk:** Recites death poems of ancient heroes. At length.
 
@@ -498,8 +482,7 @@ If you were the last creature to take its turn this round, you pop free from all
 
 #### Sandals of Wall Striding
 
-_Recharge 6+_
-Until the end of your next turn, you can move normally along a wall or vertical surface as if you were flying.
+_Recharge 6+:_ Until the end of your next turn, you can move normally along a wall or vertical surface as if you were flying.
 
 **Quirk:** Has compulsion to snatch small insects out of the air and pop them into mouth when they think no one is watching.
 
@@ -549,8 +532,7 @@ Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
 
 #### Adroit Avoidance
 
-_Recharge 6+_
-When an attack or effect deals ongoing damage to you that a save ends, you can roll an immediate save against it.
+_Recharge 6+:_ When an attack or effect deals ongoing damage to you that a save ends, you can roll an immediate save against it.
 
 **Quirk:** Doesn't notice social slights or insults.
 
@@ -566,8 +548,7 @@ Add +4 to checks to hide in natural surroundings.
 
 #### Evasion
 
-_Recharge 6+_
-When you take damage from an opportunity attack, take 20 less damage from it (champion: 40; epic: 100)
+_Recharge 6+:_ When you take damage from an opportunity attack, take 20 less damage from it (champion: 40; epic: 100)
 
 **Quirk:** You can't answer a question directly even if you want to.
 
@@ -593,8 +574,7 @@ This long cloak with a full hood keeps you warm and dry, regardless of the eleme
 
 #### Stalwart
 
-_Recharge 16+_
-When an attack against your Physical Defense hits, make the attacker reroll the attack and use a PD of 15 instead (champion: 20; epic: 25).
+_Recharge 16+:_ When an attack against your Physical Defense hits, make the attacker reroll the attack and use a PD of 15 instead (champion: 20; epic: 25).
 
 **Quirk:** Always the last to retreat or avoid danger.
 
@@ -604,8 +584,7 @@ When an attack against your Physical Defense hits, make the attacker reroll the 
 
 #### Guardian
 
-_Recharge 11+_
-When a foe you're engaged with targets your ally with an attack that doesn't include you, make that enemy target you instead of that ally. Declare your choice before the attack is rolled. (Epic: recharge 6+.)
+_Recharge 11+:_ When a foe you're engaged with targets your ally with an attack that doesn't include you, make that enemy target you instead of that ally. Declare your choice before the attack is rolled. (Epic: recharge 6+.)
 
 **Quirk:** Compelled to the defense of others, even those who might not need defending.
 
@@ -615,8 +594,7 @@ When a foe you're engaged with targets your ally with an attack that doesn't inc
 
 #### Inviolability
 
-_Recharge 16+_
-When an attack against your Physical Defense hits, change that hit into a miss instead.
+_Recharge 16+:_ When an attack against your Physical Defense hits, change that hit into a miss instead.
 
 **Quirk:** Attempts stunts of toughness and daring that a person less convinced of their invulnerability might be wise enough to avoid.
 
@@ -634,8 +612,7 @@ None.
 
 #### Ambidexterity
 
-_Recharge 11+_
-When you roll a natural 16+ with your first melee attack during your turn while wielding a weapon in your off-hand, make a melee attack with the weapon in your off-hand as a free action, using +10 as your attack bonus (champion: +15; epic: +20).
+_Recharge 11+:_ When you roll a natural 16+ with your first melee attack during your turn while wielding a weapon in your off-hand, make a melee attack with the weapon in your off-hand as a free action, using +10 as your attack bonus (champion: +15; epic: +20).
 
 **Quirk:** Writes with both hands at the same time on different parts of the page. It freaks people out.
 
@@ -651,8 +628,7 @@ These gloves improve your ability to contact, detect, and distinguish supernatur
 
 #### Archer's Gauntlets
 
-_Recharge 16+_
-When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus (champion: +15; epic: +20).
+_Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus (champion: +15; epic: +20).
 
 **Quirk:** You're quiet. Too quiet. Say something.
 
@@ -660,8 +636,7 @@ When you miss with a ranged weapon attack, reroll it using +10 as your attack bo
 
 #### Gauntlets of Clobbering
 
-_Recharge 16+_
-You deal +1d8 damage with two-handed weapons until the end of the battle (champion: +2d8; epic: +4d10).
+_Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of the battle (champion: +2d8; epic: +4d10).
 
 **Quirk:** Clobber first, talk later.
 
@@ -669,8 +644,7 @@ You deal +1d8 damage with two-handed weapons until the end of the battle (champi
 
 #### Gloves of Mind Rot
 
-_Recharge 6+_
-When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+_Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
 
 **Quirk:** The texture of your skin seems wrong to everyone else, but you know it's all in their minds and often explain that to them.
 
@@ -678,8 +652,7 @@ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic da
 
 #### Jeweled Glove
 
-_Recharge 6+_
-When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
+_Recharge 6+:_ When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
 
 **Quirk:** Alternately paranoid that people are looking too closely at your precious jeweled glove and upset that people aren't paying enough attention to your amazing jeweled glove.
 
@@ -731,8 +704,7 @@ When an enemy misses you with an attack against your AC or PD, change that miss 
 
 #### Helm of Psychic Armor
 
-_Recharge 16+_
-When an attack that targets Mental Defense hits you, cancel the attack's non-damage effects against you.
+_Recharge 16+:_ When an attack that targets Mental Defense hits you, cancel the attack's non-damage effects against you.
 
 **Quirk:** Won't stop going on about "the amazing dream I had last night."
 
@@ -740,8 +712,7 @@ When an attack that targets Mental Defense hits you, cancel the attack's non-dam
 
 #### Helm of Psychic Retribution
 
-_Recharge 16+_
-When an enemy misses you with an attack that targets Mental Defense, deal 10 psychic damage to that enemy (champion: 25 damage; epic: 60 damage).
+_Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defense, deal 10 psychic damage to that enemy (champion: 25 damage; epic: 60 damage).
 
 **Quirk:** Stares into space often.
 
@@ -767,8 +738,7 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 
 #### Crown of the Mighty Strike
 
-_Recharge 16+_
-This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next daily attack power this battle as a quick action.
+_Recharge 16+:_ This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next daily attack power this battle as a quick action.
 
 **Quirk:** Likely to make bold statements or undertake bold actions, especially by reflex.
 
@@ -786,8 +756,7 @@ This slim but elegant crown wants to share your glory and thus needs you to be g
 
 #### Bearclaw
 
-_Recharge 11+_
-When you hit with a melee attack while you're staggered, gain 10 temporary hit points (champion: 25 temporary hp; epic: 50 temporary hp).
+_Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10 temporary hit points (champion: 25 temporary hp; epic: 50 temporary hp).
 
 **Quirk:** Swaggers even when overmatched.
 
@@ -827,8 +796,7 @@ The pendant brings out the best in other magic items you carry, so that their qu
 
 #### Paragon
 
-_Recharge 16+_
-This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle.
+_Recharge 16+:_ This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle.
 
 **Quirk:** Sometimes unwittingly speaks in a language that sounds like it could be the original language of their species, if anyone else could understand it.
 
@@ -836,8 +804,7 @@ This necklace changes shape and jewels depending on the species of the wearer. W
 
 #### Water Breathing
 
-_Recharge 6+_
-This band of aquamarine and pearls enables you to breathe water for a short time, usually about five minutes. The effect wears off slowly, so you'll have warning to get to the surface.
+_Recharge 6+:_ This band of aquamarine and pearls enables you to breathe water for a short time, usually about five minutes. The effect wears off slowly, so you'll have warning to get to the surface.
 
 **Quirk:** Hiccups in stressful situations.
 
@@ -865,8 +832,7 @@ One enemy you're engaged with takes damage equal to your normal melee miss damag
 
 #### Defense
 
-_Recharge 6+_
-When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
+_Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
 
 **Quirk:** Stubborn.
 
@@ -882,8 +848,7 @@ This brilliant, gem-encrusted ring gives you an aura of status (and whatever tha
 
 #### Instant Vengeance
 
-_Recharge 16+_
-When you take damage from an enemy's attack, choose one ally you can see. That ally can make a basic attack (melee or ranged) against the attacker as a free action.
+_Recharge 16+:_ When you take damage from an enemy's attack, choose one ally you can see. That ally can make a basic attack (melee or ranged) against the attacker as a free action.
 
 **Quirk:** Sticks close to their friends, real close.
 
@@ -917,8 +882,7 @@ Make a basic attack ignoring any effects that give you an attack penalty, preven
 
 #### Resilience
 
-_Recharge 6+_
-When you use this ring, heal using a recovery.
+_Recharge 6+:_ When you use this ring, heal using a recovery.
 
 **Quirk:** Eats an odd vegetarian diet and advocates it loudly.
 
@@ -926,8 +890,7 @@ When you use this ring, heal using a recovery.
 
 #### Skin of Your Teeth
 
-_Recharge 6+_
-When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
+_Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
 
 **Quirk:** Regularly finds copper pieces and other minor valuables on the ground.
 
@@ -977,8 +940,7 @@ When you move to engage an enemy while using this shield, you can use the shield
 
 #### Drakefanged
 
-_Recharge 11+_
-This spiked shield sports a massive dragon fang that wounds enemies. When an enemy engaged with you misses you with a melee attack, make a basic melee attack against the enemy as a free action, with a +2 attack bonus per tier of the shield (adventurer: +2, champion: +4, epic: +6). On a hit, the attack deals 2d6 damage; on a miss, it deals 2 damage (champion: 4d8 damage, or 5 on a miss; epic: 8d10 damage, or 12 on miss).
+_Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enemies. When an enemy engaged with you misses you with a melee attack, make a basic melee attack against the enemy as a free action, with a +2 attack bonus per tier of the shield (adventurer: +2, champion: +4, epic: +6). On a hit, the attack deals 2d6 damage; on a miss, it deals 2 damage (champion: 4d8 damage, or 5 on a miss; epic: 8d10 damage, or 12 on miss).
 
 **Quirk:** Compares everything to dragons or to draconic things, and judges actions by how they stack up to draconic expectations.
 
@@ -994,8 +956,7 @@ Enemies engaged with you take a –1 attack penalty against your allies.
 
 #### Puissance
 
-_Recharge 6+_
-When you make a basic melee attack, make a recharge roll for one expended power.
+_Recharge 6+:_ When you make a basic melee attack, make a recharge roll for one expended power.
 
 **Quirk:** Tremendous appetite for meat.
 
@@ -1003,8 +964,7 @@ When you make a basic melee attack, make a recharge roll for one expended power.
 
 #### Resilience
 
-_Recharge 11+_
-When you make a basic melee attack, heal using a recovery.
+_Recharge 11+:_ When you make a basic melee attack, heal using a recovery.
 
 **Quirk:** Eats an odd vegetarian diet and advocates it loudly.
 
@@ -1020,8 +980,7 @@ When you roll a natural 2 with a melee attack while using the shield, you can ma
 
 #### Termination
 
-_Recharge 6+_
-When you make a basic melee attack, roll a save against one ongoing damage effect.
+_Recharge 6+:_ When you make a basic melee attack, roll a save against one ongoing damage effect.
 
 **Quirk:** Continually fails to finish sentences, stopping in mid-thoug….
 
@@ -1059,8 +1018,7 @@ When you cast spells that heal or provide temporary hit points, add 4 to the tot
 
 #### Staff of the Diffident Magician
 
-_Recharge 6+_
-The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
+_Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
 
 **Quirk:** Doesn't like to be touched.
 
@@ -1068,8 +1026,7 @@ The first time an enemy engages you, make an opportunity attack against that ene
 
 #### Staff of the God's Riches
 
-_Recharge 16+_
-When you cast a cleric spell using this staff, you can cast the spell both _for __power_ and _for__ broad__effect_ (if applicable), choosing different targets.
+_Recharge 16+:_ When you cast a cleric spell using this staff, you can cast the spell both _for __power_ and _for__ broad__effect_ (if applicable), choosing different targets.
 
 **Quirk:** Careless with money.
 
@@ -1093,8 +1050,7 @@ When you cast an attack spell using this staff, you gain a +1 attack bonus with 
 
 #### Staff of the Uncrowned King
 
-_Recharge 6+_
-When you use this power, you automatically succeed on a save against an effect created or caused by an undead enemy.
+_Recharge 6+:_ When you use this power, you automatically succeed on a save against an effect created or caused by an undead enemy.
 
 **Quirk:** You see dead people…sometimes.
 
@@ -1144,8 +1100,7 @@ When you use this knot, you can serve in a priestly function for nearly any god 
 
 #### Dodging Doom, Symbol of
 
-_Recharge 6+_
-When you cast a divine spell on an ally, that ally can roll a save against one ongoing save ends effect as a free action.
+_Recharge 6+:_ When you cast a divine spell on an ally, that ally can roll a save against one ongoing save ends effect as a free action.
 
 **Quirk:** Wildly optimistic.
 
@@ -1153,8 +1108,7 @@ When you cast a divine spell on an ally, that ally can roll a save against one o
 
 #### Dominating Truth, Symbol of
 
-_Recharge 11+_
-When you cast a divine spell that affects one target with a limited amount of hit points (for example, _turn undead_), you can instead have that spell affect two targets with half the hit point requirement or less.
+_Recharge 11+:_ When you cast a divine spell that affects one target with a limited amount of hit points (for example, _turn undead_), you can instead have that spell affect two targets with half the hit point requirement or less.
 
 **Quirk:** Never admits they're wrong.
 
@@ -1180,8 +1134,7 @@ When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 te
 
 #### The Gods and Goddesses, Gem of
 
-_Recharge 6+_
-When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
+_Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
 
 **Quirk:** Insists on courtesy even in situations where none should be required.
 
@@ -1189,8 +1142,7 @@ When you cast a daily divine spell on an ally, that ally also heals 10 hit point
 
 #### Greater Power, Relic of
 
-_Recharge 11+_
-When you cast a quick action divine spell that targets allies, the spell affects one additional ally.
+_Recharge 11+:_ When you cast a quick action divine spell that targets allies, the spell affects one additional ally.
 
 **Quirk:** Keeps the relic meticulously clean, rests it on velvet, etc.
 
@@ -1236,8 +1188,7 @@ When you cast an arcane attack spell using this wand, you gain a +1 bonus to att
 
 #### Mage's Invisible Aegis, Wand of the
 
-_Recharge 16+_
-When you use this wand, you can cast the wizard's shield spell, with a level no higher than your level. (Champion: recharge 11+).
+_Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, with a level no higher than your level. (Champion: recharge 11+).
 
 **Quirk:** Hums tunelessly.
 
