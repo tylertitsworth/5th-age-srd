@@ -17,6 +17,12 @@ Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point e
 
 ### Adventurer
 
+#### Bitter
+
+A target struck by one of these barbed missiles takes a -2 penalty to all saves until the end of their next turn.
+
+---
+
 #### Energy
 
 This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, holy, lightning, thunder. An attack using this ammunition deals that type of damage.
@@ -241,6 +247,16 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 ### Champion
 
+#### Ether-Combusting
+
+This armor looks like oddly reddish steel, but to the eyes of a creature that exists half in this world and half in the realms between – demons, phase spiders and the like – you look like you’re wearing a blazing pillar of fire that sets the very fabric of reality ablaze wherever you go. Whenever a nearby foe teleports, you automatically blast them for 2d8 fire damage (epic: 4d8).
+
+**Quirk:** Terrified of being teleported.
+
+>_Note:_ You never said there was a dress code. - Dracerys, Dark Elf knight; said as he entered the sanctum of the High Elves in the Queen’s Wood
+
+---
+
 #### Plate of the Automaton
 
 Heavy armor
@@ -306,6 +322,14 @@ Like most belts, this increases your maximum recoveries by 1 (champion by 2, epi
 **Quirk:** Formidable appetite.
 
 >_Note:_ Formidable smell, too. Wear that belt for long enough, and you start smelling like a giant’s armpit. You don’t notice it in Horizon, because that whole place stinks of sulfur and ozone and bat guano anyway, but just take a sniff at the Archmage’s guards when they go traveling. - Hresta, half-elf ranger
+
+---
+
+#### Girdle of Deceit
+
+When wearing this girdle, people keep mistaking you for somebody else. Usually, it’s the person they were expecting to see who most resembles you – if you’re a young woman, and you’re sneaking around the duke’s mansion in the dead of night when a servant discovers you, this belt might ensure he mistakes you for a maidservant or the duke’s daughter. If you’re a hulking half-orc barbarian in the same situation, the servant might mistake you for a bad dream. Any interaction beyond the perfunctory breaks the illusion – if you give the other person any reason to question their misconception (like, say, the duke’s daughter asking the way to the treasury), then they’ll see through the belt’s magic.
+
+**Quirk:** Intensely curious.
 
 ---
 
@@ -453,6 +477,18 @@ You gain a +1 bonus to all skill checks based on Str, Con, or Dex.
 
 ---
 
+#### Pillow Book of Unspoken Dreams
+
+This slim book, bound in delicate cloth, looks like the sort of novel or collection of moral stories that might be read by a young noble of Axis or Glitterhaegen. The book always tells the story of an exiled prince (or princess) named Regret, and the tale always begins with young Regret awakening on the shore of the Midland Sea after a shipwreck. The story then relates how Regret obtained his or her heart’s desires – and these desires are always the secret, unspoken desires of the reader. In effect, the book records and reflects the unspoken dreams of the reader, describing exactly what they truly want (even things they are unwilling or unable to admit to themselves). So, in one version of the story, Regret might seek out fortune; in another fame; in another, Regret might discover he really, really wants to murder his brothers and claim his mother’s throne; in yet another, Regret might want to ensure that no-one ever, ever finds out she’s a secret spy for the Lich King.
+
+The only person who is immune to the book’s effects (other than exceedingly strong-willed entities, or those who have somehow conquered, eliminated or already achieved all they desire) is the book’s owner. When the owner reads the book, they can read the innermost desires of the last person to read it.
+
+So, you want to persuade the local duke to help you? Get him to read this book, then get it back and read it. Assuming none of the duke’s servants took a peek, you’ll find the tale of Regret echoes the duke’s desires.
+
+**Quirk:** Become convinced that you are, in fact, Regret, and be consumed with the desires currently described in the book.
+
+---
+
 #### Scroll of Darkness
 
 This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is only a few pages long, but you find yourself reading it again and again, and each reading brings new insights into the nature of life and death. As long as you possess the scroll, you have a3-point skill related to knowledge of evil deific figures.
@@ -491,6 +527,26 @@ Quirk: Always in constant motion, or swaying gently when still.
 _Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a hit, dealing your ranged basic attack damage with the attack instead.
 
 **Quirk:** Sings snatches of nonsense.
+
+---
+
+#### Scroll of Unspoken Deeds
+
+Although this scroll is initially blank when discovered, it nonetheless feels stained and sordid, and slightly moist to the touch. Write a description of an event on the scroll, and everyone involved in that event in any way becomes unwilling to speak about it or react to it. They are consumed by feelings of shame, as if whatever happened was vile, unwholesome, unworthy and also their fault.
+
+For example, if you wrote ‘we stole the treasure hoard of Galdhirix the Dragon’ on the scroll, then Galdhirix would be consumed with embarrassment at having his treasure hoard stolen. The dragon might still try to recover the hoard, but would never dare mention it to another dragon, or even a minion. Your fellow party members would also be afflicted, although how they deal with their feelings of guilt is up to them.
+
+If you wrote ‘I was caught spying on the Elf Queen’s Ambassador in Newport’, then the Ambassador would leap to the conclusion that reporting your misdeed would implicate him in someone treasonous or illicit, and that the best thing to do is never mention the incident to anyone ever again.
+
+As bearer of the scroll, you’re immune to shame. We just mean magical shame, but if you’re the sort of person who appreciates items like this, then you’ve probably got normal shame covered yourself.
+
+You may scrape the scroll clean and inscribe a new event on it, but that lifts the enchantment from the previous shameful incident.
+
+You may inscribe an event that you weren’t involved in, but you need to be able to describe it in detail and note down everyone who was there.
+
+**Quirk:** Delights in needling people and reminding them of things they’d prefer to leave unspoken.
+
+>_Note:_ I sometimes think that all the events of my life are written on one of those scrolls. - Erach, crazed preacher of the Crusader
 
 ---
 
@@ -648,11 +704,35 @@ _Recharge 6+:_ Until the end of your next turn, you can move normally along a wa
 
 ---
 
+#### Slippers of Absence
+
+_Recharge 16+:_ You become invisible until the end of battle, or until you attack. However, you must specify one nearby foe who is unaffected by the slippers’ magic (and there has to be a nearby foe for the slippers to work). If that foe dies when you’re still invisible, specify someone else. The chosen person doesn’t have to be someone in line of sight, just someone nearby.
+
+Out of battle, the slippers work for about five minutes, but the GM gets to pick who can see you and who can’t.
+
+**Quirk:** Speaks in a whisper.
+
+---
+
 #### Winged Shoes
 
 _Recharge 11+:_ You can fly for the next 1d3 rounds.
 
 **Quirk: Hasty.**
+
+---
+
+### Epic
+
+#### Boots of the Demon Prince
+
+Standard action
+
+_Recharge 11+:_ Activate these blood-red boots, and you open a one-way portal to the infernal realms at your feet. You become stuck until the end of your next turn. At the end of your next turn, assuming you’re still conscious, you and anyone engaged with you sinks into the portal and arrives... well, maybe in the nearest hellhole, or in the Abyss, or somewhere even worse.
+
+The boots return you – just you – to the same spot in the material plane after a few minutes. If you activate the boots in a fight, you’re definitely not coming back until after the battle’s done. Anyone you bring with you has to find their own way out of this hellish place.
+
+**Quirk:** Your footsteps have a strange echo, as if some fiend doth close behind you tread. If the boots take over, the fiend possesses you.
 
 ---
 
@@ -703,6 +783,22 @@ Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
 _Recharge 6+:_ When an attack or effect deals ongoing damage to you that a save ends, you can roll an immediate save against it.
 
 **Quirk:** Doesn't notice social slights or insults.
+
+---
+
+#### Cape of Flight
+
+_Recharge 16+:_ When you activate this cape, you may fly until you attack or are hit by an attack. Most versions of this cape grant flight by transforming into a diaphanous greatcloak that catches unseen updrafts and lifts you up like a leaf on the wind; others just conceal the bat wings you grew when you first put on the cloak.
+
+**Quirk:** Drawn to bright lights and exposed flames, like a moth.
+
+---
+
+#### Cloak of Misdirection
+
+_Recharge 16+:_ When engaged by two or more enemies, if one of them strikes you with a melee attack, you may activate the cloak to have that melee attack also strike another engaged foe. The same attack roll is applied to this new extra target, so it is possible that an attack that hit you still misses the second target. You may not use any powers or abilities that avoid attacks or negate damage in conjunction with the cloak – you have to feel the pain before you can share it.
+
+**Quirk:** Gets into fights a little too readily.
 
 ---
 
@@ -837,6 +933,14 @@ _Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of th
 
 ---
 
+#### Glove of Glimpsed Sorrow
+
+_Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+
+**Quirk:** You know that a terrible tragedy, worse than anything you or anyone else could ever imagine, will instantly befall the world if you ever remove these gloves.
+
+---
+
 #### Gloves of Mind Rot
 
 _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
@@ -900,6 +1004,22 @@ Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 While wearing this circlet, in regular social situations, you appear to others as someone who belongs there. You easily fit in with new groups of people, unless there is some particular reason for others to be suspicious. The circlet has no power in unusual social situations.
 
 **Quirk:** Peppers speech with needless foreign words.
+
+---
+
+#### Circlet of Swift Thought
+
+_Recharge 16+:_ Increase your Initiative by 4.
+
+**Quirk:** The slightest delay infuriates you.
+
+---
+
+#### Diadem of Whispering
+
+Your words are magically audible by any one creature you can see, as if you were standing next to them whispering into their ear. Their replies are not magically enhanced, so they can only answer if you could normally hear their words. You may change target freely, but can only whisper to one person per round.
+
+**Quirk:** Gossips like a fishwife on the Shadowport docks.
 
 ---
 
@@ -981,6 +1101,14 @@ When the escalation die is 3 or higher, you cause fear like a monster of the sam
 
 ### Epic
 
+#### Crown of Hell
+
+When any devil first sees your horned crown, you must make a free attack using your Charisma + Level vs. the Demon’s MD; if you hit, the devil takes a -2 penalty to its attacks on you and will attack other available targets in preference to you if it can. On a critical hit, the devil may even retreat or seek a peaceful solution rather than attack such a royal personage as yourself. If you encounter a bunch of devils at once, just make one attack roll against the highest MD in the group. If you succeed, all the devils respect you.
+
+**Quirk:** This crown is clearly your inheritance by right of blood. Why, is it not obvious that you are descended from the line of the arch-devils, and that the throne of the infernal realms is yours for the taking? Furthermore, is it not patently clear that anyone who dares deny your royal claim is a traitor and must be annihilated!?!
+
+---
+
 #### Crown of the Mighty Strike
 
 _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next daily attack power this battle as a quick action.
@@ -1004,6 +1132,14 @@ _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus n
 _Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10 temporary hit points (champion: 25 temporary hp; epic: 50 temporary hp).
 
 **Quirk:** Swaggers even when overmatched.
+
+---
+
+#### Pendant of Burning Blood
+
+_Recharge 11+:_ Your blood is black, thick as treacle and hot as boiling oil. As a free action when you take untyped ongoing damage (so, just plain “X ongoing damage”, as opposed to ongoing psychic damage or ongoing fire damage or whatever), you may inflict an amount of fire damage equal to that ongoing damage on all foes engaged with you.
+
+**Quirk:** Passionate in the extreme.
 
 ---
 
@@ -1115,6 +1251,14 @@ This brilliant, gem-encrusted ring gives you an aura of status (and whatever tha
 
 ---
 
+#### Honeyed Words
+
+This signet ring bears the symbol of an archdevil, and is just large enough to be noticed from across a room. While wearing it, you get a +6 bonus to skill tests to convince someone to aid you in some fashion. Your target is magically compelled to look favorably on your case and think of you as eloquent and interesting. However, it has the opposite effect on every other witness to the conversation, including the other PCs - they believe that you’re deceitful, manipulative and crass, no matter what you say or do. Oh well, it’s not like they can cause any problems later on. You could try getting around the ring’s restriction by insisting on a private conference. That won’t make anyone suspicious or paranoid in the slightest.
+
+**Quirk:** Incapable of speaking without prevaricating.
+
+---
+
 #### Instant Vengeance
 
 _Recharge 16+:_ When you take damage from an enemy's attack, choose one ally you can see. That ally can make a basic attack (melee or ranged) against the attacker as a free action.
@@ -1136,6 +1280,16 @@ When you make a skill check involving climbing, holding something, or otherwise 
 When you make a skill check, if your bonus for that check is +1 or +0, you gain a +2 bonus for your skill bonus instead (if your bonus is +2 or higher, this ring has no effect).
 
 **Quirk:** Talks as though they know everything.
+
+---
+
+#### Parting Gesture
+
+Quick Action
+
+_Recharge 6+:_ When one side in a battle flees, specify a target on the opposing side to yours. When you next encounter that foe, you automatically inflict 1d8 (champion: 2d8; epic: 4d10) psychic damage on that enemy at the start of combat.
+
+**Quirk:** Sore loser.
 
 ---
 
@@ -1263,6 +1417,14 @@ _Recharge 6+:_ When you make a basic melee attack, roll a save against one ongoi
 
 ---
 
+#### Toothsome
+
+When you successfully intercept an enemy, your shield inflicts your normal miss damage on them. Some warriors who carry shields of this type also bring along leather or wooden covers to conceal their shield’s unusual appearance outside of battle. Veteran bearers also carry toothpicks.
+
+**Quirk:** Takes bites or pieces out of things that you were supposed to just pass on.
+
+---
+
 #### Watchful Eye
 
 The living eyeball mounted in the boss of this round shield watches vigilantly for hidden foes and dangers. You gain a +4 bonus to skill checks to avoid being ambushed or surprised. In combat, the eye seems to look pleadingly at any foe who’s strong enough to shatter your shield, as if hoping to be released from its unnatural state.
@@ -1318,6 +1480,20 @@ When you cast spells that heal or provide temporary hit points, add 4 to the tot
 _Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
 
 **Quirk:** Doesn't like to be touched.
+
+---
+
+#### Staff of Gifts
+
+_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
+
+Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
+
+If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
+
+If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
+
+**Quirk:** A little too generous.
 
 ---
 
@@ -1445,19 +1621,27 @@ When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 te
 
 ---
 
-#### The Gods and Goddesses, Gem of
-
-_Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
-
-**Quirk:** Insists on courtesy even in situations where none should be required.
-
----
-
 #### Greater Power, Relic of
 
 _Recharge 11+:_ When you cast a quick action divine spell that targets allies, the spell affects one additional ally.
 
 **Quirk:** Keeps the relic meticulously clean, rests it on velvet, etc.
+
+---
+
+#### Peerless Piety
+
+You have a fraudulent aura of religious piety and devotion to the Gods of Light. Everyone you know instinctively assumes that you are an unusually devout and moral individual – perhaps even a little too devout. This illusion is not foolproof – if confronted with undeniable evidence of any failings or misdeeds on your part, those who believed in you will lose faith – but it does mean that you’ll get the benefit of the doubt in most situations.
+
+**Quirk:** Wracked with guilt whenever you do anything of questionable morality.
+
+---
+
+#### The Gods and Goddesses, Gem of
+
+_Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
+
+**Quirk:** Insists on courtesy even in situations where none should be required.
 
 ---
 
@@ -1536,6 +1720,14 @@ _Recharge 16+:_ This wand turns any attack spell that targets a randomly determi
 _Recharge 6+:_ When a demon is killed by you or one of your allies, you may immediately make a free attack (Intelligence + Level vs. MD) against up to 1d3 creatures summoned by that demon. If you hit, the summoned creature is instantly banished. This only works on creatures summoned using the demon’s random demon powers, like gate – it won’t work on demons called in other ways.
 
 **Quirk:** Dismissive.
+
+---
+
+#### Seizures
+
+_Recharge 16+:_ When you hit an enemy with a spell that targets a single foe, that enemy is also stuck until the end of their next turn. (Champion: You can affect up to three targets)
+
+**Quirk:** Prone to evil mastermind monologues.
 
 ---
 
