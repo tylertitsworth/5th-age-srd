@@ -7,7 +7,7 @@ Each name/characteristic includes its action type, usage, description, power, an
 
 ## Arrow, Crossbow Bolt, Slingstone
 
-In general, ammunition is one-use, hit or miss. It also doesn't take up a chakra, and, like other one-use items, ammunition doesn't confer quirks on its user.
+In general, ammunition is one-use, hit or miss, and, like other one-use items, ammunition doesn't confer quirks on its user.
 
 ### Default Bonus
 
@@ -524,7 +524,7 @@ Until the end of your next turn, you can move normally along a wall or vertical 
 
 ## Bracers
 
-Bracers occupy the same chakra as magic melee weapons.
+Bracers occupy the same type as magic melee weapon in terms of bonuses.
 
 Monks get magic-weapon style powers from magical bracers. A monk wearing magical bracers can't use a magical melee weapon at the same time.
 
@@ -1606,7 +1606,7 @@ Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The
 
 ## Wondrous Items
 
-You can attune multiple wondrous items. They don't fill up a chakra.
+You can attune multiple wondrous items.
 
 ### Default Bonus
 

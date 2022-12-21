@@ -244,7 +244,7 @@ You gain a +1 bonus to recharge rolls for recharge after battle powers.
 
 #### Adventurer Tier
 
-You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item from any chakra (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At 5th level, upgrade the item to champion tier, and at 8th level, to epic tier.
+You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At 5th level, upgrade the item to champion tier, and at 8th level, to epic tier.
 
 ---
 
@@ -386,7 +386,7 @@ When you kill a non-mook enemy, you gain temporary hit points equal to the enemy
 
 #### Adventurer Tier
 
-Choose a magic item chakra that your class normally can’t use as an implement. For example, if your bard casts their spells through dancing, you might pick boots. You can use that type of item as a spellcasting implement, i.e. you gain a +1 bonus to attack and damage with your spells per tier. You can still only get that bonus from one implement at a time.
+Choose a magic item type that your class normally can’t use as an implement. For example, if your bard casts their spells through dancing, you might pick boots. You can use that type of item as a spellcasting implement, i.e. you gain a +1 bonus to attack and damage with your spells per tier. You can still only get that bonus from one implement at a time.
 
 ---
 

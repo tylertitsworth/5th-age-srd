@@ -27,11 +27,11 @@ If you are carrying and wielding a number of items that is greater than your cur
 
 ---
 
-## Chakras
+## Types
 
 You can only have one of each type of magic item (or one pair, for boots and gloves). Rings are one for each hand. You can have as many wondrous items as your overall capacity for magic items allows.
 
-| **Type of Magic Item, aka Chakra** | **Default Bonus** **(often +1 adv, +2 champ, +3 epic)** |
+| **Type of Magic Item** | **Default Bonus** **(often +1 adv, +2 champ, +3 epic)** |
 | --- | --- |
 | Armor, robe, shirt, tunic | Armor Class |
 | Arrow, crossbow bolt, slingstone | No default bonus. The most common type of magic ammunition expands crit range by 1 |
@@ -55,7 +55,7 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 
 ### One Size Fits
 
-Magic items shape themselves to suit the person who has given them their chakra.
+Magic items shape themselves to suit the person who created them.
 
 ---
 
@@ -105,7 +105,7 @@ The majority of magic item powers list a recharge number (6+, 11+, or 16+). You 
 
 Artifacts are a special type of unique magic item that have their own story. They're capable of providing multiple powers and benefits to their bearer, although that power comes at a cost.
 
-Each artifact functions like a normal true magic item of its type, possessing the same default bonus, if any, and occupying one of its bearer's chakras, if that's how that type functions.
+Each artifact functions like a normal true magic item of its type, possessing the same default bonus.
 
 Unlike other true magic items, artifacts have more than one power, each with its associated quirk. When you first attune an artifact, choose one of its powers from your tier or lower. Each time you gain a level after that, you can choose to learn another of the artifact's powers from your tier or lower.
 
