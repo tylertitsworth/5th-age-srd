@@ -7,7 +7,7 @@ layout: doc
 
 ### Weapon Damage Progression
 
-The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level). See Weapons for more on weapon damage rules.
+The basic rule for PC weapon damage is that a character deals 1 die of weapon damage per class level, plus their ability modifier (or double the modifier at 5th level, and triple it at 8th level). See [Weapons](../Character-Rules/Combat.md#weapons) for more on weapon damage rules.
 
 ---
 

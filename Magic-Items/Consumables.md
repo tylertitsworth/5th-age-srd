@@ -28,7 +28,7 @@ A healing potion lets the creature drinking it heal using one of their recoverie
 
 ### Potion of [Energy] Resistance
 
-When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See Resistance. For the types of resistance available, see [Other Damage Types](../General-Rules/Combat.md#other-damage-types).
+When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See [Resistance](../Character-Rules/Combat.md#resistance). For the types of resistance available, see [Other Damage Types](../General-Rules/Combat.md#other-damage-types).
 
 ### Resistance Potion Costs
 

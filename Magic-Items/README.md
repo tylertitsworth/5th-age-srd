@@ -3,7 +3,7 @@ layout: doc
 ---
 # Magic Items
 
-There are two types of magic item. True magic items are permanent magic items used as loot during adventures and rewards for success. One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See Loot: Treasure Rewards for notes on the wealth successful characters earn each adventure.)
+There are two types of magic item. True magic items are permanent magic items used as loot during adventures and rewards for success. One-use items (mainly potions, oils, and runes) are magical treasure on which to spend hard-won gold. (See [Loot](../GM-Rules/Treasure.md#loot-treasure-rewards) for notes on the wealth successful characters earn each adventure.)
 
 ## One-Use Items
 

@@ -124,7 +124,7 @@ Spells with the _breath weapon_ keyword have a chance to be re-used during battl
 
 The _breath weapon_ power lasts for a single battle only.
 
-You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the Chromatic Destroyer Heritage talent for the path to multiple _breath weapon_ spells.)
+You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the [Chromatic Destroyer Heritage talent](#chromatic-destroyer-heritage) for the path to multiple _breath weapon_ spells.)
 
 Failing a death save cancels any _breath weapon_ spells you have active.
 

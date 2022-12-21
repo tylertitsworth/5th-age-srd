@@ -2,7 +2,7 @@
 
 For adventure tier, levels 1-4, start with one enemy creature of the party's level per PC. At champion tier, levels 5-7, start with one enemy creature per PC, with each creature being one level higher than the PCs. At epic tier, levels 8–10, the monsters should weigh in at two levels above the PCs if they appear in equal numbers.
 
-Lower-level monsters count as fractions of an adventurer-level monster, and higher-level monsters count as multiples. See the monster equivalents chart below.
+Lower-level monsters count as fractions of an adventurer-level monster, and higher-level monsters count as multiples.
 
 ## Monster Equivalents
 

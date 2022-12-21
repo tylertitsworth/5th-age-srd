@@ -142,7 +142,7 @@ Your initiative result becomes the count on which you took the readied action. I
 
 #### Standard, Move, and Quick Actions
 
-Each turn you can take one of each action, in any order. See Combat Actions.
+Each turn you can take one of each action, in any order. See [Combat Actions](#combat-actions).
 
 ---
 
@@ -354,7 +354,7 @@ Fleeing is a party action. On any PC's turn, any player can propose that all the
 
 ### Rally
 
-Once a battle, every PC can use a standard action to rally, spending one of their recoveries and regaining hit points they've lost in combat. (See Recoveries.)
+Once a battle, every PC can use a standard action to rally, spending one of their recoveries and regaining hit points they've lost in combat. (See [Recoveries](#recoveries).)
 
 If you want to rally again later in the same battle, make a normal save (11+). If you succeed, you can rally again that battle. If you fail the save, you can take your turn normally, but you can't rally that round.
 
@@ -482,7 +482,7 @@ In general, monsters become staggered when they take damage equal to half their 
 
 ### Unconscious
 
-When you drop to 0 hp or below, you fall unconscious. You can't take any actions until you're conscious again, though you do make a death save at the start of each of your turns. (See Death and Dying.)
+When you drop to 0 hp or below, you fall unconscious. You can't take any actions until you're conscious again, though you do make a death save at the start of each of your turns. (See [Death and Dying](#death-and-dying).)
 
 When monsters drop to 0 hp, it means they've been slain, unless the characters' intent is to keep the monster alive and the attack seems like a potentially humane blow that could knock the monster unconscious instead.
 
@@ -538,7 +538,7 @@ After approximately four battles, characters earn a full heal-up, though the exa
 
 After a full heal-up, your hit points reset to full. You regain any recoveries you've used. All expended powers are regained or recharged. ("Daily" powers are actually "per heal-up.")
 
-If the party is short of a heal-up but is too beat up to press on, they can retreat and take a full heal-up, which entails a campaign loss. (See Flee.)
+If the party is short of a heal-up but is too beat up to press on, they can retreat and take a full heal-up, which entails a campaign loss. (See [Flee](#flee).)
 
 ---
 

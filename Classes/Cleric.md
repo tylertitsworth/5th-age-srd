@@ -815,7 +815,7 @@ This spell is now a quick action to cast.
 
 ## Additional Domains
 
-Additional domains can be added to this document upon request. See the Domain table.
+Additional domains can be added to this document upon request.
 
 | Domain | Spells |
 | --- | --- |
