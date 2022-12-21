@@ -1114,7 +1114,7 @@ Evocation
 
 | Color | Ability | Damage Type | Effect |
 | --- | --- | --- | --- |
-| Pearly | Light | Holy damage | The target is surrounded by bright light. It is also weakened (-4 to attacks and defenses; save ends). |
+| Pearly | Light | Radiant damage | The target is surrounded by bright light. It is also weakened (-4 to attacks and defenses; save ends). |
 | Ruby | Heat | Fire damage | The target’s attacks deal half damage (save ends). |
 
 **Miss:** You regain the spell during your next quick rest.
@@ -1122,12 +1122,12 @@ Evocation
 | Higher Level | Damage | Color | Ability | Damage Type | Effect |
 | --- | --- | --- | --- | --- | --- |
 | 3rd | 3d12 damage | Opal | Fire | Fire damage | The target takes 5 points of ongoing fire damage per spell level. |
-| 3rd | | Amber | Blindness | Negative energy damage | When the target attacks, determine the targets randomly among all nearby creatures (save ends). |
+| 3rd | | Amber | Blindness | Necrotic damage | When the target attacks, determine the targets randomly among all nearby creatures (save ends). |
 | 5th | 5d12 damage | Emerald | Stinking cloud | Poison damage | The target is dazed (save ends). Deal half damage to 1d3 nearby enemies. |
 | 5th | | Turquoise | Magnetism | | Metal objects start clinging to the target. It is hampered (save ends). |
 | 7th | 7d12 damage | Sapphire | Paralysis | Lightning damage | The target is stunned (save ends). If the target has more than 150 hit points, it can save against the effect immediately. |
-| 7th | | Amethyst | Petrification | Negative energy damage | The target is weakened (save ends). If it fails its fourth save against the spell, it is permanently turn into stone. |
-| 9th | 9d12 damage | Ashen | | Negative energy damage | If the target has 150 hit points or less, it dies. Otherwise it takes 50 ongoing negative energy damage. |
+| 7th | | Amethyst | Petrification | Necrotic damage | The target is weakened (save ends). If it fails its fourth save against the spell, it is permanently turn into stone. |
+| 9th | 9d12 damage | Ashen | | Necrotic damage | If the target has 150 hit points or less, it dies. Otherwise it takes 50 ongoing necrotic damage. |
 
 #### Adventurer Feat
 
@@ -1703,7 +1703,7 @@ The target of the spell can also be far away.
 
 #### Epic Feat
 
-When you cast the spell you can change the damage type to lightning or negative energy.
+When you cast the spell you can change the damage type to lightning or necrotic.
 
 ---
 
@@ -4183,7 +4183,7 @@ Enchantment
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** The target takes 100 ongoing negative energy damage. If it rolls a natural 5 or less on its save, increase the ongoing damage by 50.
+**Hit:** The target takes 100 ongoing necrotic damage. If it rolls a natural 5 or less on its save, increase the ongoing damage by 50.
 
 **Miss:** 50 ongoing damage
 
@@ -4201,7 +4201,7 @@ Daily
 
 **Target:** You
 
-**Effect:** You create a series of stationary multicolored barriers around you that grant you resist 18+ to all damage, even from weapons (but not from holy or negative energy). You can leave or re-enter the barriers without harming yourself, but other creatures who pass them suffer 4d20 points of a certain damage type as indicated on the chart below. The rainbow barriers can be overcome only by physically passing through them, or by dealing 40 points of a certain damage type to each one in the specific order presented below. Attack rolls that target a barrier must overcome your PD (even if they would normally target AC or MD), and the resistances don’t apply to the barriers—only to you. As each barrier comes down, you lose the indicated resistance type; you also lose your resistance to weapon damage when the final violet barrier is dispersed.
+**Effect:** You create a series of stationary multicolored barriers around you that grant you resist 18+ to all damage, even from weapons (but not from radiant or necrotic). You can leave or re-enter the barriers without harming yourself, but other creatures who pass them suffer 4d20 points of a certain damage type as indicated on the chart below. The rainbow barriers can be overcome only by physically passing through them, or by dealing 40 points of a certain damage type to each one in the specific order presented below. Attack rolls that target a barrier must overcome your PD (even if they would normally target AC or MD), and the resistances don’t apply to the barriers—only to you. As each barrier comes down, you lose the indicated resistance type; you also lose your resistance to weapon damage when the final violet barrier is dispersed.
 
 #### Epic Feat
 
@@ -4211,10 +4211,10 @@ You can expand the barriers to hold 1d2 allies who can enter and exit them just 
 | --- | --- | --- |
 | 1st–Red | Fire | Cold |
 | 2nd–Orange | Thunder | Thunder |
-| 3rd–Yellow | Force | Negative Energy |
+| 3rd–Yellow | Force | Necrotic |
 | 4th–Green | Acid | Psychic |
 | 5th–Blue | Cold | Force |
-| 6th–Indigo | Lightning | Holy |
+| 6th–Indigo | Lightning | Radiant |
 | 7th–Violet | Psychic | Lightning |
 
 ---

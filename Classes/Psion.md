@@ -447,8 +447,8 @@ When you would roll to determine your next affinity, you can choose to gain the 
 | Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
 | Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
 | Iconic / Blood | Gain advantage on your next melee attack roll. |
-| Iconic / Light | Your melee attacks deal holy damage, you deal half damage on a miss. |
-| Iconic / Twisted | Your melee attacks deal negative energy damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
+| Iconic / Light | Your melee attacks deal radiant damage, you deal half damage on a miss. |
+| Iconic / Twisted | Your melee attacks deal necrotic damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
 
 If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
 
@@ -794,7 +794,7 @@ Daily
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** The target takes 50 ongoing negative energy damage as its body slowly devolves. The save against the ongoing damage is a hard save (16+). If a target has 100 hit points or fewer left when it fails a save, it becomes primordial ooze, leaving only a puddle of gooey mess.
+**Hit:** The target takes 50 ongoing necrotic damage as its body slowly devolves. The save against the ongoing damage is a hard save (16+). If a target has 100 hit points or fewer left when it fails a save, it becomes primordial ooze, leaving only a puddle of gooey mess.
 
 **Miss:** --
 
@@ -1130,7 +1130,7 @@ _Special:_ This affinity attack ignores all the target's resistances.
 
 ##### Adventurer Feat
 
-This affinity can now deal holy damage instead of fire damage.
+This affinity can now deal radiant damage instead of fire damage.
 
 ##### Champion Feat
 
@@ -1453,7 +1453,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d10 + Charisma negative energy damage.
+**Hit:** 1d10 + Charisma necrotic damage.
 
 **Natural Even Hit:** As a hit, plus you gain 5 temporary hit points if the target drops to 0 hp during the battle.
 
@@ -1472,7 +1472,7 @@ This affinity now deals half damage on a miss.
 
 ##### Champion Feat
 
-When the target drops to 0 hp, instead of gaining temporary hit points, you can choose to deal that amount of negative energy damage to one nearby enemy as a free action.
+When the target drops to 0 hp, instead of gaining temporary hit points, you can choose to deal that amount of necrotic damage to one nearby enemy as a free action.
 
 ##### Epic Feat
 
@@ -1520,7 +1520,7 @@ At-Will
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 1d8 + Charisma holy damage, and one nearby ally gains 3 temporary hit points.
+**Hit:** 1d8 + Charisma radiant damage, and one nearby ally gains 3 temporary hit points.
 
 **Miss:** Damage equal to your level.
 

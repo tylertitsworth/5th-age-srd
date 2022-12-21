@@ -274,7 +274,7 @@ When you Gather Power, you gain the divine benefit below. Unlike other bloodline
 | **Escalation Die** | **Adventurer Tier Benefit** |
 | --- | --- |
 | None | Gain a +1 bonus to PD and MD until the start of your next turn.|
-| Odd | Deal holy damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) + Level to one nearby enemy. |
+| Odd | Deal radiant damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) + Level to one nearby enemy. |
 | Even | Heal hit points equal to Wisdom modifier, twice at 5th level, and thrice at 8th to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
 
 ###### Adventurer Feat
@@ -307,7 +307,7 @@ _Celestial Ward:_ Once per battle, when the Sorcerer, or an adjacent ally is att
 
 _Healing Touch:_ Once per day, the familiar can touch an ally. The ally can use a recovery to heal.
 
-_Radiant:_ Once per battle, when you hit an enemy engaged with you, you can add 5 ongoing holy damage per tier to the damage roll.
+_Radiant:_ Once per battle, when you hit an enemy engaged with you, you can add 5 ongoing radiant damage per tier to the damage roll.
 
 ---
 
@@ -315,7 +315,7 @@ _Radiant:_ Once per battle, when you hit an enemy engaged with you, you can add 
 
 You gain the following metamagic abilities.
 
-_Holy Spell (1 point):_ Change the spell’s damage to holy damage.
+_Holy Spell (1 point):_ Change the spell’s damage to radiant damage.
 
 _Rejuvenating Spell (1 point):_ The target also gains temporary hit points equal to your Wisdom modifier, twice at 5th level, and thrice at 8th, plus twice the spell level
 
@@ -338,7 +338,7 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 1 | Fire |
 | 2 | Lightning |
 | 3 | Thunder |
-| 4 | Holy |
+| 4 | Radiant |
 
 ---
 
@@ -550,7 +550,7 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | **d4** | **Energy Type** |
 | --- | --- |
 | 1 | Cold |
-| 2 | Negative Energy |
+| 2 | Necrotic |
 | 3 | Poison |
 | 4 | Psychic |
 
@@ -606,7 +606,7 @@ _Insubstantial:_ Your familiar can pass through solid objects, but it cannot int
 
 You gain the following metamagic abilities.
 
-_Negative Spell (1 point):_ Change the spell’s damage type to negative energy damage.
+_Negative Spell (1 point):_ Change the spell’s damage type to necrotic damage.
 
 _Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier (x2 at 5th level; x3 at 8th) + the spell level.
 
@@ -653,7 +653,7 @@ Your shadow has the stats, attacks and defenses as below. It acts on your initia
 
 ###### Adventurer Feat
 
-You can choose to deal negative energy instead of cold damage with your shadow. If you do, change the effect on a natural even hit to “The target’s next attack deals half damage.”
+You can choose to deal necrotic instead of cold damage with your shadow. If you do, change the effect on a natural even hit to “The target’s next attack deals half damage.”
 
 ###### Champion Feat
 
@@ -932,7 +932,7 @@ Gain a fifth benefit.
 
 ### Undead Remnant Heritage
 
-You have resist negative energy 12+ and gain a +1 attack bonus against undead. You can also include negative energy damage on your personal random energy damage type table, swapping out an energy type you don't want to access randomly.
+You have resist necrotic 12+ and gain a +1 attack bonus against undead. You can also include necrotic damage on your personal random energy damage type table, swapping out an energy type you don't want to access randomly.
 
 #### Adventurer Feat
 
@@ -940,7 +940,7 @@ Decrease your total recoveries by 1; you gain a +2 bonus to death saves.
 
 #### Champion Feat
 
-Your resist negative energy power improves to 16+, and the attack bonus against undead increases to +2.
+Your resist necrotic power improves to 16+, and the attack bonus against undead increases to +2.
 
 #### Epic Feat
 
@@ -989,7 +989,7 @@ Celestial
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** 3d8 + Charisma holy damage. If the target makes an attack, it takes 5 + your Wisdom modifier holy damage (save ends).
+**Hit:** 3d8 + Charisma radiant damage. If the target makes an attack, it takes 5 + your Wisdom modifier radiant damage (save ends).
 
 **Miss:** Damage equal to your level
 
@@ -1055,7 +1055,7 @@ When you cast the spell, roll on your random energy table to determine the type 
 
 _Arcane (or not listed):_ The weapon can fly to make a ranged attack and return to your hand.
 
-_Celestial:_ The weapon deals holy damage and ignores damage resistance of undead enemies.
+_Celestial:_ The weapon deals radiant damage and ignores damage resistance of undead enemies.
 
 _Draconic:_ Each time you cast a daily breath weapon spell this battle, the weapon gains extra damage on a hit equal to the spell level.
 
@@ -1191,7 +1191,7 @@ Celestial
 
 **Target:** One nearby ally per point of Wisdom modifier (including you)
 
-**Effect:** Until the end of the battle, the target gains resist negative energy and holy 12+.
+**Effect:** Until the end of the battle, the target gains resist necrotic and radiant 12+.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1286,7 +1286,7 @@ Umbral
 
 #### Adventurer Feat
 
-Hit or miss, deal negative energy damage equal to your level.
+Hit or miss, deal necrotic damage equal to your level.
 
 ---
 
@@ -1619,7 +1619,7 @@ You can now use the spell against a far away target, but with a –2 attack pena
 
 #### Champion Feat
 
-Each time you cast the spell, you can have the attack deal random energy damage instead of fire damage. Replace the fire entry on the random energy table with your choice of negative energy or acid.
+Each time you cast the spell, you can have the attack deal random energy damage instead of fire damage. Replace the fire entry on the random energy table with your choice of necrotic or acid.
 
 #### Epic Feat
 
@@ -1982,7 +1982,7 @@ _Special:_ When casting the spell, choose whether you want to attack the target�
 
 **Attack:** Charisma + Level vs. PD or MD
 
-**Hit:** 4d8 + Charisma negative energy (PD) or psychic (MD) damage and the target is weakened and stuck until the end of your next turn. Against a staggered target, deal 6d8 damage, and the weaken and stuck effects are “save ends both”.
+**Hit:** 4d8 + Charisma necrotic (PD) or psychic (MD) damage and the target is weakened and stuck until the end of your next turn. Against a staggered target, deal 6d8 damage, and the weaken and stuck effects are “save ends both”.
 
 **Miss:** You regain the spell at the end of the battle.
 
@@ -2507,7 +2507,7 @@ _Special:_ You can cast this spell any time during battle, even during an enemy�
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 6d8 + Charisma holy damage
+**Hit:** 6d8 + Charisma radiant damage
 
 _Natural even hit:_ The target has disadvantage on their next attack roll.
 
@@ -2538,7 +2538,7 @@ _Arcane:_ Gain a sorcery point.
 
 _Fey:_ Teleport to a nearby location you can see.
 
-_Umbral:_ Deal ongoing negative energy damage equal to twice the spell level (save ends both).
+_Umbral:_ Deal ongoing necrotic damage equal to twice the spell level (save ends both).
 
 **Miss:** —
 
@@ -2582,7 +2582,7 @@ Celestial
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** 5d8 + Charisma holy damage, and the target loses all nastier specials (save ends). If you affect one mook, all mooks from that group lose their nastier specials.
+**Hit:** 5d8 + Charisma radiant damage, and the target loses all nastier specials (save ends). If you affect one mook, all mooks from that group lose their nastier specials.
 
 **Miss:** —
 
@@ -3128,7 +3128,7 @@ Any bloodline
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 2d6 x 10 negative energy damage, and the target is vulnerable (hard save ends, 16+). In addition, if the target drops to 0 hp from this attack, or drops to 0 hp before it saves against the vulnerable effect of this attack, raise it at the start of your next turn. It gains 100 hit points, and it is now under your control (hard save ends). If the creature was double-strength, its attacks now deal half damage. If it was triple-strength, they deal one third.
+**Hit:** 2d6 x 10 necrotic damage, and the target is vulnerable (hard save ends, 16+). In addition, if the target drops to 0 hp from this attack, or drops to 0 hp before it saves against the vulnerable effect of this attack, raise it at the start of your next turn. It gains 100 hit points, and it is now under your control (hard save ends). If the creature was double-strength, its attacks now deal half damage. If it was triple-strength, they deal one third.
 
 **Miss:** Half damage
 
@@ -3247,7 +3247,7 @@ Daily
 
 Umbral
 
-**Effect:** You create a melee weapon that you can wield without attack penalty. Use your Charisma for the attack roll. Your melee attacks with the blade target PD. It deals exactly 100 negative energy damage on a hit, ignoring any damage bonuses or resistances. If your attack roll is a natural 20, the target starts making last gasp saves (16+) and is disintegrated on the fourth failed save.
+**Effect:** You create a melee weapon that you can wield without attack penalty. Use your Charisma for the attack roll. Your melee attacks with the blade target PD. It deals exactly 100 necrotic damage on a hit, ignoring any damage bonuses or resistances. If your attack roll is a natural 20, the target starts making last gasp saves (16+) and is disintegrated on the fourth failed save.
 
 #### Epic Feat
 
@@ -3321,7 +3321,7 @@ Daily
 
 **Attack:** Charisma + Level vs. MD
 
-**Hit:** 2d12 x 10 + Charisma negative energy damage, and the target moves down 2d6 points in initiative order, to a minimum of 1.
+**Hit:** 2d12 x 10 + Charisma necrotic damage, and the target moves down 2d6 points in initiative order, to a minimum of 1.
 
 **Miss:** Half damage.
 
@@ -3511,9 +3511,9 @@ Umbral
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** 2d8 x 10 + Charisma negative energy damage
+**Hit:** 2d8 x 10 + Charisma necrotic damage
 
-_Natural 18+:_ The target is sucked into a pocket dimension. It is removed from the battlefield and takes 50 ongoing negative energy damage (save ends both; on a successful save the target reappears at a random nearby location).
+_Natural 18+:_ The target is sucked into a pocket dimension. It is removed from the battlefield and takes 50 ongoing necrotic damage (save ends both; on a successful save the target reappears at a random nearby location).
 
 **Miss:** Half damage
 

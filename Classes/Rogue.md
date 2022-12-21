@@ -1006,7 +1006,7 @@ Quick action
 
 Shadow
 
-**Effect:** You summon a gloved, floating hand of shadow matter. As a quick action, you can order the hand to carry and manipulate objects or extinguish torches. As a standard action, it can choke or punch people. It uses your Dexterity for attack and damage, has a d4 damage die, and deals negative energy damage. The hand stays until the end of the battle or scene. The hand has your defenses, and hit points equal to twice your level. It ignores any damage except force and holy damage.
+**Effect:** You summon a gloved, floating hand of shadow matter. As a quick action, you can order the hand to carry and manipulate objects or extinguish torches. As a standard action, it can choke or punch people. It uses your Dexterity for attack and damage, has a d4 damage die, and deals necrotic damage. The hand stays until the end of the battle or scene. The hand has your defenses, and hit points equal to twice your level. It ignores any damage except force and radiant damage.
 
 #### Champion Feat
 
@@ -1229,7 +1229,7 @@ requires momentum
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** Negative energy damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
+**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
 
 #### Adventurer Feat
 
@@ -1658,7 +1658,7 @@ Shadow
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** WEAPON + Dexterity damage and 10 ongoing negative energy damage
+**Hit:** WEAPON + Dexterity damage and 10 ongoing necrotic damage
 
 **Miss:** Half damage
 
@@ -1843,7 +1843,7 @@ Shadow
 
 **Attack:** Dexterity + Level vs. PD
 
-**Hit:** 15 ongoing negative energy damage and the target is stuck (save ends both).
+**Hit:** 15 ongoing necrotic damage and the target is stuck (save ends both).
 
 **Miss:** —
 
@@ -2338,7 +2338,7 @@ Shadow
 
 **Attack:** Dexterity OR Charisma + Level vs. PD
 
-**Hit:** 50 ongoing negative energy damage, and the target is hampered (save ends).
+**Hit:** 50 ongoing necrotic damage, and the target is hampered (save ends).
 
 **Miss:** You regain this power at the end of your next turn.
 

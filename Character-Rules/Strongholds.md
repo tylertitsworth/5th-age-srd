@@ -108,7 +108,7 @@ Barbarians prefer followers who are independent and don’t require a lot of ove
 
 #### Righteous Smite
 
-The Paladin's Smite Evil burns through enemy resistance. Enemies automatically fail resust checks to holy damage. Enemies immune to holy are now only resistant to it, and make a resist 11+ check. You can do this a number of times equal to your chapel level. You regain all expended uses after a full recovery.
+The Paladin's Smite Evil burns through enemy resistance. Enemies automatically fail resist checks to radiant damage. Enemies immune to radiant are now only resistant to it, and make a resist 11+ check. You can do this a number of times equal to your chapel level. You regain all expended uses after a full recovery.
 
 ---
 
