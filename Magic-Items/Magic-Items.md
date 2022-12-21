@@ -3,7 +3,7 @@ layout: doc
 ---
 # Magic Item Descriptions
 
-Each name/characteristic includes its action type, usage, description, power, and quirk (as applying to the item's user), if applicable. Magic items in the adventurer tier can be used by players in any tier. Magic items in the champion tier cannot be used by players in the adventurer tier. Epic level magic items are limited to epic-tier players.
+Each name/characteristic includes its action type, usage, description, power. Magic items in the adventurer tier can be used by players in any tier. Magic items in the champion tier cannot be used by players in the adventurer tier. Epic level magic items are limited to epic-tier players. Optionally, the GM can apply the quirk of an item, if applicable, to the item's user.
 
 ## Arrow, Crossbow Bolt, Slingstone
 
@@ -56,6 +56,12 @@ This ammunition has been enchanted against one of the following groups of monste
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
+
+---
+
+#### Spellbound
+
+You may cast one of your Close spells onto the missile. When the missile is fired, the spell takes effect as if you were standing at the spot where it fell. So, you could charge an arrow with lightning fork and fire it at a far away group of foes. The missile must be fired quickly before the magic burns it out – either cast your spell and shoot the missile yourself next round, or cast the spell on an ally’s missile and have them fire it.
 
 ---
 
@@ -159,11 +165,21 @@ You gain a +1 bonus to all defenses while at maximum hit points.
 
 #### Perseverance
 
-(Quick action – daily)
+Quick action
+
+Daily
 
 If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way.
 
 **Quirk:** Repeats stories over and over.
+
+---
+
+#### Spellthread Shirt
+
+_Recharge 11+:_ When you cast a spell that targets yourself, you also charge the shirt with that spell. When the shirt is charged, you may activate it as a free action to gain the benefits of that spell for one round. The spell has to be one that lasts for an entire battle – you can’t charge it with dimension door or teleport. For example, if you cast blur on yourself in one fight, you could use the shirt to blur again for one round in a later battle. The shirt’s appearance changes to reflect the stored spell – if you’ve got a feather fall in it, it’s puffy and silky; if it’s storing water breathing, it’s green and clings to your skin.
+
+**Quirk:** Compelled to change your hairstyle and wardrobe to complement the shirt.
 
 ---
 
@@ -190,6 +206,14 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 **Quirk:** Stretches and meditates whenever inactive.
 
 ---
+
+### Champion
+
+#### Robe of Preservation
+
+_Recharge 16+:_ This soft grey robe automatically activates when you are knocked unconscious. It teleports you to a safer location nearby – it might bring you out of the room in a dungeon, or drop you at the feet of the party cleric, or just stuff your unconscious body into a cupboard. The robe remains behind when you teleport, falling empty to the ground where you stood.
+
+**Quirk:** Heedless of danger.
 
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
@@ -220,6 +244,16 @@ One magical sword sheathed on this belt gains a +2 bonus to recharge rolls for i
 _Recharge 6+:_ When you rally, make a basic attack.
 
 **Quirk:** Plays with their weapons.
+
+---
+
+#### Giant Health
+
+Like most belts, this increases your maximum recoveries by 1 (champion by 2, epic by 3). In addition, one bonus recovery given by this particular belt is giant-sized – you get to roll d12s instead of your normal recovery dice when you spend it. You choose when you tap this extra-large recovery.
+
+**Quirk:** Formidable appetite.
+
+>_Note:_ Formidable smell, too. Wear that belt for long enough, and you start smelling like a giant’s armpit. You don’t notice it in Horizon, because that whole place stinks of sulfur and ozone and bat guano anyway, but just take a sniff at the Archmage’s guards when they go traveling. - Hresta, half-elf ranger
 
 ---
 
@@ -333,6 +367,14 @@ _Recharge 16+:_ When you roll initiative, gain a +10 bonus to your roll after se
 
 ---
 
+#### Compendium of Observed Ritual
+
+Exhaustively complete and exhaustingly pedantic, this book purports to record all known rituals, barring a few diabolical ones censored by the compilers. While following the instructions in this book makes ritual casting take much longer (2d4 hours, and you can’t use high arcana to hasten matters along), it can also improve the efficiency of the ritual. Roll a d6; on a 6, then the components used to fuel the ritual aren’t expended, as the book describes a method to tap some other power source.
+
+**Quirk:** Becomes obsessed with pointless ceremony and ritual.
+
+---
+
 #### Manual of Enlightened Flesh
 
 You gain a +1 bonus to all skill checks based on Str, Con, or Dex.
@@ -392,6 +434,14 @@ _Recharge 16+:_ When you roll a skill check using Intelligence, Wisdom, or Chari
 
 ### Champion
 
+#### Manual of the Numinous Realms
+
+_Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum, and illustrated with strange diagrams that move on their own, the manual describes the interplay of elemental forces and spiritual currents that underlie the illusion we call reality. By manipulating these fundamental levers of reality, you may accomplish great feats of magic. When you miss all targets with a daily spell, you give up that spell’s miss effect (if any) and cast another daily spell as a free action.
+
+**Quirk:** Fears unlikely consequences and improbable coincidences. If only you fools could see how all things are interconnected, you too would fear the calling of the birds in the trees when the wind is from the west and there’s a woman in a red shawl nearby!
+
+---
+
 #### Manual of Puissant Skill at Arms
 
 _Recharge 11+:_ When you miss with a melee attack, reroll the attack using +15 as your attack bonus instead of your own bonus (epic: +20). If an arcane spellcaster reads this manual, it hurts their brain and permanently reduces their maximum hit points by 4 (epic: by 10).
@@ -401,6 +451,16 @@ _Recharge 11+:_ When you miss with a melee attack, reroll the attack using +15 a
 ---
 
 ### Epic
+
+#### Labyrinthine Grimoire
+
+_Recharge 16+:_ When this book is opened, your body falls to the ground, helpless. Your mind enters a seemingly infinite library, a maze of book-lined passageways and vaults that contains all the knowledge of the universe. You may swap out any one spell for any other spell you have access too – once you find that spell in the library. At the start of your turn, make a skill check using a suitable magical skill against DC 25. If you succeed, you wake up. If you fail, you’re still stuck in the library and remain helpless for another round. If you roll a 1, well, something crawled out of the library and into your body while you were detained, like a book-spirit desperate to get written into reality. You can use the grimoire outside of combat, but it’s up to the GM how often you get to make skill tests to find your way back – life or death situations are great for focusing one’s mind on the task at hand.
+
+**Quirk:** Bibliophile.
+
+>_Note:_ My master once owned the Labyrinthine Grimoire, and consulted it some sixty-nine years ago. He has yet to return. If, when searching the infinite library, you happen across an absent-minded old wizard with a purple beard, please break it to him that he’s been dead for sixty-four years and a considerable amount of paperwork has built up in his absence. - Gerolt, the Eternal Apprentice
+
+---
 
 #### Tome of Arcane Mysteries
 
@@ -470,9 +530,9 @@ _Recharge 11+:_ When one or more creatures attempt to intercept you while you're
 
 #### Wise Eyelet Boots
 
-(Quick action – recharge 16+)
+Quick action
 
-If you were the last creature to take its turn this round, you pop free from all enemies.
+_Recharge 16+:_ If you were the last creature to take its turn this round, you pop free from all enemies.
 
 **Quirk:** Hesitates before speaking.
 
@@ -485,6 +545,14 @@ If you were the last creature to take its turn this round, you pop free from all
 _Recharge 6+:_ Until the end of your next turn, you can move normally along a wall or vertical surface as if you were flying.
 
 **Quirk:** Has compulsion to snatch small insects out of the air and pop them into mouth when they think no one is watching.
+
+---
+
+#### Winged Shoes
+
+_Recharge 11+:_ You can fly for the next 1d3 rounds.
+
+**Quirk: Hasty.**
 
 ---
 
@@ -554,11 +622,21 @@ _Recharge 6+:_ When you take damage from an opportunity attack, take 20 less dam
 
 ---
 
+#### Invisibility
+
+Standard action
+
+_Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around you to maintain the invisibility, you can’t take standard actions while invisible, which means (mostly) no spellcasting or attacking. You can drop the invisibility at the end of any turn; you become visible immediately, and can act normally on your next turn.
+
+**Quirk:** Paranoid about other invisible creatures, lurking invisibly nearby.
+
+---
+
 #### Recovery
 
-(Quick action – recharge 16+)
+Quick action
 
-You heal using a recovery and add +4 hp to the total (champion: +10 hp; epic: +25 hp).
+_Recharge 16+:_ You heal using a recovery and add +4 hp to the total (champion: +10 hp; epic: +25 hp).
 
 **Quirk:** You grow small extra appendages that slowly wither away over days or weeks.
 
@@ -666,6 +744,14 @@ While you wear these fine silk gloves, you can play any musical instrument witho
 
 ---
 
+#### Spell Deflection
+
+_Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When wielding a melee weapon, you can parry a spell targeting you or an ally as a free action. To parry the spell, you roll Strength + Level vs. the caster’s MD; if you hit, the spell is cancelled and the caster loses the action they were using for the spell. If it was a limited-used spell, that use is expended if your natural attack roll was even. (It’s basically the Counter-Magic bonus spell in glove form).
+
+**Quirk:** Rudely interrupts people when they’re talking.
+
+---
+
 #### Sure Fingers
 
 You gain a +2 bonus to any skill check that involves sleight of hand, strength of grip, hand-eye coordination, or similar abilities.
@@ -734,6 +820,32 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 
 ---
 
+#### Wizard’s Hat of Conjuration
+
+Once per day, you can pull a useful non-magical common item out of this hat. The item must be able to fit through the brim of the hat, so you couldn’t pull out a siege engine or a horse. You could, though, produce a sword, or length of chain, or a saw, or a delicate vase decorated with salacious paintings of frolicking kobolds. The hat can also produce small living creatures, like rabbits or cats or doves or maybe even the aforementioned frolicking kobolds.
+
+**Quirk:** Kleptomania; you unconsciously steal items and stick them inside your hat. Sometimes, you can’t find them again afterwards.
+
+---
+
+#### Wizard’s Hat of Loyalty
+
+This hat always returns to you. No matter the circumstances, it always finds its way back. Put into prison? You’ve got your hat. Ambushed in the middle of the night? You’ve got your hat. You could be stripped naked, hurled through a portal into the Abyss, and carried by a demonic roc to its nest hundreds of miles away in a nameless infernal mountain range – and you’ve find your hat waiting for you there. You may keep up to three small items in the brim of the hat (scrolls, potions, gemstones, snacks), and they’ll be with the hat when it comes back to you.
+
+**Quirk:** Compelled to treat the hat as a pet.
+
+---
+
+### Champion
+
+#### Crown of Brimming Wisdom
+
+When you fail an Intelligence skill check, you may roll another d20 immediately and add it to your total. The trouble is, if you pass, you start rambling on in a pedantic and absent-minded way for a number of rounds equal to the second d20 roll, as the crown pours more information than you actually needed into your brain and it spills out through your mouth. You can’t do anything else while rambling, although if you’re attacked, you may roll a hard save (16+) to notice, in which case you finish your erudite lecture once the fight concludes.
+
+**Quirk:** Voracious reader.
+
+---
+
 ### Epic
 
 #### Crown of the Mighty Strike
@@ -794,6 +906,14 @@ The pendant brings out the best in other magic items you carry, so that their qu
 
 ---
 
+#### Paired Talisman of the Familiar
+
+_Recharge 16+:_ You can cast an at-will spell through your familiar, as if you were standing in the familiar’s place. This means you could zap someone with a Close spell from Far Away – your pet frog hops up to them and unleashes your shocking grasp.
+
+**Quirk:** Takes on behavioral traits from familiar.
+
+---
+
 #### Paragon
 
 _Recharge 16+:_ This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle.
@@ -822,9 +942,9 @@ None.
 
 #### Cheap Shot
 
-(Quick action – recharge 11+)
+Quick action
 
-One enemy you're engaged with takes damage equal to your normal melee miss damage.
+_Recharge 11+:_ One enemy you're engaged with takes damage equal to your normal melee miss damage.
 
 **Quirk:** Often stops speaking mid-sentence.
 
@@ -870,11 +990,19 @@ When you make a skill check, if your bonus for that check is +1 or +0, you gain 
 
 ---
 
+#### Protection
+
+_Recharge 11+:_ Gain a +2 bonus to your AC until the start of your next turn (champion: PD too; epic: also MD).
+
+**Quirk:** Touchy and defensive.
+
+---
+
 #### Relentless Strike
 
-(Standard action – recharge 16+)
+Standard action
 
-Make a basic attack ignoring any effects that give you an attack penalty, prevent you from attacking, keep you from taking actions, or force you to reroll the attack. You can also use this ring's power while you're stunned, even though you couldn't normally take an action.
+_Recharge 16+:_ Make a basic attack ignoring any effects that give you an attack penalty, prevent you from attacking, keep you from taking actions, or force you to reroll the attack. You can also use this ring's power while you're stunned, even though you couldn't normally take an action.
 
 **Quirk:** Has near-constant insomnia.
 
@@ -996,6 +1124,16 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 ---
 
+### Adventurer
+
+#### Spellforce Staff
+
+_Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hampered or weakened conditions afflicting you when making an arcane spell attack. The staff doesn’t get rid of the conditions – it just amps up your spell so it blasts through them.
+
+**Quirk:** SHOUTS A LOT.
+
+---
+
 ### Champion
 
 #### Diabolical Staff
@@ -1060,9 +1198,9 @@ _Recharge 6+:_ When you use this power, you automatically succeed on a save agai
 
 #### Staff of the Imperium
 
-(Standard action – recharge 16+)
+Standard action
 
-The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
+_Recharge 16+:_ The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
 
 **Quirk:** Becomes certain that they are destined to rule.
 
@@ -1090,9 +1228,9 @@ When you cast your last divine daily spell, roll a save. If you succeed, you don
 
 #### Divine Harmony, Knot of
 
-(Standard action – recharge 16+)
+Standard action
 
-When you use this knot, you can serve in a priestly function for nearly any god or ritual. You can use this power to meet a free-form challenge, at the GM's discretion.
+_Recharge 16+:_ When you use this knot, you can serve in a priestly function for nearly any god or ritual. You can use this power to meet a free-form challenge, at the GM's discretion.
 
 **Quirk:** Believes in everything.
 
@@ -1168,11 +1306,19 @@ This rune-covered bronze dagger also works as a wand. When you cast an arcane at
 
 ---
 
+#### Corrected Devastation
+
+_Recharge 16+:_ Activate this wand immediately after rolling damage for a daily spell that hit. That spell never happened and is not expended. Gain a free action to cast an at-will spell instead. Everyone on the battlefield is somewhat alarmed by the fact that the blazing ball of fire suddenly vanished, but that’s wizards for you.
+
+**Quirk:** Prone to sudden bursts of rage over trivial problems.
+
+---
+
 #### Flaring Wand
 
-(Quick action – recharge 11+)
+Quick action
 
-When the escalation die is 5+, cast one of your arcane spells. That spell will miss on any natural odd roll.
+_Recharge 11+:_ When the escalation die is 5+, cast one of your arcane spells. That spell will miss on any natural odd roll.
 
 **Quirk:** Often looks frazzled.
 
@@ -1199,6 +1345,14 @@ _Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, 
 When you cast an arcane attack spell using this wand, you gain a +1 bonus to attack and damage with that spell if it targets Mental Defense.
 
 **Quirk:** Uses pedantically circumlocutious phraseology.
+
+---
+
+#### Reckless Abandon
+
+_Recharge 16+:_ This wand turns any attack spell that targets a randomly determined number of targets into a reckless one. You may increase the number of targets by 1d3, but any allies engaged with any of the targets also take the damage from the spell. So, if you use this wand to cast breath of the white recklessly, the spell affects 1d2+1d3 targets, but any allies engaged with any of those targets also gets attacked.
+
+**Quirk:** Becomes extremely callous, especially where the lives of allies are concerned.
 
 ---
 
@@ -1234,7 +1388,7 @@ Attacks and damage when using the weapon: +1 (adventurer); +2 (champion); +3 (ep
 
 #### Abandon
 
-(Melee weapon)
+Melee Weapon
 
 You deal +2d6 damage with your first attack each battle using this weapon (champion: +4d6; epic: +4d12).
 
@@ -1242,9 +1396,19 @@ You deal +2d6 damage with your first attack each battle using this weapon (champ
 
 ---
 
+#### Animated
+
+Melee Weapon
+
+_Recharge 11+:_ For the rest of the battle, or until it misses with an attack, this weapon may make basic attacks on its own in any turn in which you don’t use it to make an attack. It uses a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy. The sword doesn’t benefit from the escalation die. Remember, you can only attune to one magic weapon at a time – if you have an animated sword, you may not use another magic melee weapon.
+
+**Quirk:** Loves to delegate.
+
+---
+
 #### Bloodthirsty
 
-(Any weapon)
+Any Weapon
 
 When you crit with a natural 20 using this weapon, you deal crit damage instead of normal damage if you hit with this weapon again during your next turn.
 
@@ -1324,7 +1488,7 @@ When you hit with an opportunity attack using this weapon, the target is weakene
 
 #### Greater Striking
 
-(Melee weapon)
+Melee Weapon
 
 While the escalation die is 3+, you deal +1d8 damage whenever you hit with this weapon (champion: +2d8; epic: +4d8).
 
@@ -1334,7 +1498,7 @@ While the escalation die is 3+, you deal +1d8 damage whenever you hit with this 
 
 #### Haughty
 
-(Any weapon)
+Any Weapon
 
 When you hit with an attack using this weapon, if that enemy is the most dangerous foe in the battle (or tied for most dangerous, GM's assessment), you deal +1d4 per tier damage to it (champion: +1d8 per tier; epic: +1d10 per tier).
 
@@ -1344,7 +1508,7 @@ When you hit with an attack using this weapon, if that enemy is the most dangero
 
 #### Inimical
 
-(Any weapon)
+Any Weapon
 
 When you hit with this weapon, you can deal +1d10 damage to that enemy (champion: +2d10; epic: +4d10). If you do, you also take that extra damage.
 
@@ -1384,7 +1548,7 @@ You deal +1d8 damage with your next melee attack with this weapon that hits this
 
 #### No Mercy
 
-(Ranged weapon)
+Ranged Weapon
 
 If your target is attempting to flee from the battle, a natural even hit against it is a critical hit instead.
 
@@ -1434,7 +1598,7 @@ When you make a basic attack with this weapon, roll a save against a save ends e
 
 #### Vanity
 
-(Melee weapon)
+Melee Weapon
 
 When you hit with this weapon, deal +1d6 damage to that enemy if you are the only one engaged with it (champion: +2d6; epic: +4d6).
 
@@ -1444,7 +1608,7 @@ When you hit with this weapon, deal +1d6 damage to that enemy if you are the onl
 
 #### Vengeance
 
-(Melee weapon)
+Melee Weapon
 
 When you hit with this weapon while you are staggered, deal +1d6 damage to that enemy.
 
@@ -1524,6 +1688,8 @@ None.
 
 #### [All-Purpose Tool](http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
 
+---
+
 #### [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding)
 
 ---
@@ -1574,6 +1740,8 @@ Your unarmed attacks are considered magical and you gain a +1 to attack and dama
 
 #### [Elemental Gem](http://dnd5e.wikidot.com/wondrous-items:elemental-gem)
 
+---
+
 #### Eversmoking Bottle
 
 moke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use a standard action to remove the stopper a cloud of thick smoke pours out into the nearby area. The cloud's area is heavily obscured. The cloud persists and after 3 rounds expands to far away so long as it remains open. After closing the bottle is disperses after 10 minutes, but moderate and strong winds can disperse it quicker.
@@ -1588,11 +1756,15 @@ These crystal lenses fit over the eyes. Once per full recovery you can use a sta
 
 #### [Eyes of Minute Seeing](http://dnd5e.wikidot.com/wondrous-items:eyes-of-minute-seeing)
 
+---
+
 #### [Eyes of the Eagle](http://dnd5e.wikidot.com/wondrous-items:eyes-of-the-eagle)
 
 ---
 
 #### [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
+
+---
 
 #### [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box)
 
@@ -1614,6 +1786,8 @@ A bottle of translucent glass, sealed with lead, with a ghastly face that peers 
 
 #### [Luckstone](http://dnd5e.wikidot.com/wondrous-items:luckstone)
 
+---
+
 #### Pearl of Power
 
 While this pearl is on your person, you can use an action to speak its command word and regain one expended power. Once you have used the pearl, it can't be used until you complete a full recovery.
@@ -1622,13 +1796,17 @@ While this pearl is on your person, you can use an action to speak its command w
 
 #### [Rope of Climbing](http://dnd5e.wikidot.com/wondrous-items:rope-of-climbing)
 
+---
+
 #### Sending Stones
 
-Sending stones come in pairs, with each smooth stone carved to match the other so the pairing is easily recognized. While you touch one stone to telepathically communicate with the bearer of the other stone.  If no creature bears the other stone, you know that fact as soon as you use the stone and don't cast the spell.
+Sending stones come in pairs, with each smooth stone carved to match the other so the pairing is easily recognized. While you touch one stone to telepathically communicate with the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone and don't cast the spell.
 
 ---
 
 #### [Soul Coin](http://dnd5e.wikidot.com/wondrous-items:soul-coin)
+
+---
 
 #### Lesser Spellwrought Tattoo
 
@@ -1656,6 +1834,8 @@ The chime can be used ten times. After the tenth time, it cracks and becomes use
 
 #### [Cube of Force](http://dnd5e.wikidot.com/wondrous-items:cube-of-force)
 
+---
+
 #### [Dimensional Shackles](http://dnd5e.wikidot.com/wondrous-items:dimensional-shackles)
 
 ---
@@ -1667,6 +1847,8 @@ Once per full recovery, as a standard action, you can speak the gem's command wo
 ---
 
 #### [Heward's Handy Haversack](http://dnd5e.wikidot.com/wondrous-items:hewards-handy-haversack)
+
+---
 
 #### Horn of Blasting
 
@@ -1766,11 +1948,15 @@ Once the bands are used, they can't be used again until you gain a full recovery
 
 #### [Knave's Eye Patch](http://dnd5e.wikidot.com/wondrous-items:knaves-eye-patch)
 
+---
+
 #### [Mirror of the Past](http://dnd5e.wikidot.com/wondrous-items:mirror-of-the-past)
 
 ---
 
 #### [Portable Hole](http://dnd5e.wikidot.com/wondrous-items:portable-hole)
+
+---
 
 #### Rope of Entangling
 
@@ -1986,6 +2172,8 @@ Your Strength score increases by 2 while this pale blue rhomboid orbits your hea
 ---
 
 #### [Nightfall Pearl](http://dnd5e.wikidot.com/wondrous-items:nightfall-pearl)
+
+---
 
 #### [Platinum Scarf](http://dnd5e.wikidot.com/wondrous-items:platinum-scarf)
 
