@@ -77,6 +77,12 @@ On a miss, you can make a basic ranged attack against another foe that is near t
 
 ---
 
+#### Missile of Challenge
+
+This item is of use only to paladins – and even then, only to paladins with the paladin’s challenge talent. When you hit a foe with this missile, you may choose to challenge them as if you’d struck them with a melee attack.
+
+---
+
 #### Nemesis
 
 This ammunition has been enchanted against one of the following groups of monsters: dragon, giant, orc, or undead. An attack against the designated nemesis with this ammunition can be rerolled once if it misses. When you use this ammunition, however, it allows each monster of the same group to reroll one attack against you that misses this battle. If you use this type of ammunition two or more times against the same creature group this battle, monsters of that type can instead reroll each attack against you that misses this battle (once per attack).
@@ -168,6 +174,18 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 ---
 
 ### Adventurer
+
+#### Blazing Beacon Armor
+
+Heavy Armor
+
+Quick Action
+
+_Recharge 11+:_ You may activate blazing beacon armor when you hit an enemy with a melee attack. While active, the armor’s bonus to AC increases by 1. It increases again by +1 if you hit again, to a maximum of +2 (champion: +3; epic: +5). However, if you miss or are hit by an attack, the armor deactivates and the added bonus is lost. When active, the armor glows with a burning holy light whose brightness is proportional to the bonus to AC, making you the most obvious target on the battlefield.
+
+**Quirk:** Foolhardy.
+
+---
 
 #### Butterflies
 
@@ -414,6 +432,16 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 ---
 
 ### Adventurer
+
+#### Belt of Humility
+
+Free Action
+
+_Recharge 11+:_ This simple leather belt allows you to automatically succeed at a saving throw (including a death save) or to use a recovery to heal, but only when you really need it. You may only use this item when you’re at 10 hit points or less, or in a similarly dire situation. After using the belt, you must repay your debt to the cosmos, either by sacrificing another true magic item, or by undertaking a quest with no hope of reward.
+
+**Quirk:** Incapable of saying no to a request for aid.
+
+---
 
 #### Belt of Swift Travel
 
@@ -900,6 +928,18 @@ _Recharge 16+:_ If you were the last creature to take its turn this round, you p
 
 ### Champion
 
+#### Errant Boots
+
+With these boots, you walk the paths of dream. Whenever you dream a true dream, you may teleport to a place glimpsed in that dream. You don’t get to control where that place is; you dream of somewhere, and you wake up there.
+
+Don’t take this item until you really enjoy being tossed across the world by the whims of fate. Of course, if that sounds like a barrel of laughs, or a barrel of worthy heroic demon-smiting, then go for it.
+
+Sometimes – perhaps when the stars align, perhaps when Bahamut has a moment of respite in his eternal struggle, or perhaps when it suits the GM – the boots allow several others to teleport too. Actually, ‘allow’ is the wrong word to describe the act of being kidnapped by someone else’s footwear.
+
+**Quirk:** Collects souvenirs.
+
+---
+
 #### Sandals of Wall Striding
 
 _Recharge 6+:_ Until the end of your next turn, you can move normally along a wall or vertical surface as if you were flying.
@@ -1005,6 +1045,16 @@ _Recharge 6+:_ When an attack or effect deals ongoing damage to you that a save 
 _Recharge 16+:_ When you activate this cape, you may fly until you attack or are hit by an attack. Most versions of this cape grant flight by transforming into a diaphanous greatcloak that catches unseen updrafts and lifts you up like a leaf on the wind; others just conceal the bat wings you grew when you first put on the cloak.
 
 **Quirk:** Drawn to bright lights and exposed flames, like a moth.
+
+---
+
+#### Cloak of Gold
+
+To most people, this cloak looks drab and threadbare, so shabby that a beggar would be ashamed to wear it. However, certain people can see the cloak for what it really is – a shining mantle of golden light that makes you a blazing beacon of hope. Innocents, paladins and those touched by the Bahamut's blessings can see the true cloak, as can evil-doers and servants of dark powers who should rightly fear the approach of one of his champions.
+
+In short, if someone reacts to your cloak, then there’s something special about them.
+
+**Quirk:** Frets constantly about seeing the cloak as drab and threadbare.
 
 ---
 
@@ -1195,6 +1245,16 @@ _Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 a
 
 ---
 
+#### Dragon’s Claw Gauntlet
+
+Quick Action
+
+_Recharge 11+:_ This elaborate steel gauntlet is made to resemble the claw of a dragon. Your next attack that would normally target AC now targets MD instead, as you hew at your enemy’s soul.
+
+**Quirk:** Quick to judge.
+
+---
+
 #### Dragon-Rider’s Gloves
 
 _Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, polearms – anything that qualifies for reach tricks) for the rest of the battle, as long as you’re mounted on a steed of some sort (champion: +2d8; epic: +4d10).
@@ -1224,6 +1284,14 @@ _Recharge 11+:_ Should anyone else touch your gloved hand, they receive a moment
 _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
 
 **Quirk:** The texture of your skin seems wrong to everyone else, but you know it's all in their minds and often explain that to them.
+
+---
+
+#### Gauntlet of Revelation
+
+_Recharge 6+:_ When you hit an enemy with a melee attack, you momentarily disrupt anything that stops people from seeing that foe as they truly are. So, if the enemy’s shapeshifted, or invisible, or cloaked in an illusion, or has charmed people into believing a lie, they see the truth for a brief time. The enemy’s deceits reassert themselves at the start of the enemy’s next turn.
+
+**Quirk:** Paranoid.
 
 ---
 
@@ -1355,11 +1423,37 @@ _Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defe
 
 ---
 
+#### Helm of the Dragon’s Soul
+
+_Recharge 6+:_ When casting a divine spell, you may use your Strength modifier instead of your Wisdom modifier. Alternatively, when making a melee attack, you may use your Wisdom modifier instead of your Strength modifier. Either way, for the rest of the battle, you glow from within.
+
+**Quirk:** Ascetic in the extreme. Often, you’ll forget to eat or sleep.
+
+>_Note:_ Don’t believe a lich if it tells you it’s many Ages old. The thing about liches is that we all look the same. One walking skeleton in robes looks almost exactly like another walking skeleton in robes. In fact, a lot of liches take titles that mention the color of their robes – the Red King, the Lord of Fallen Trees, the August Personage in Jade – just so people know who they are when they walk into the room. It’s easy for a lich to say they’re much older than they actually are. That’s why liches hate herald’s helms. It shows them up for the pretenders that so many of them are. Not me, of course. Why, I was there when the Lich King still had two eyes. - Baron Rotte, exiled lich
+
+---
+
+#### Helm of the Unbowed
+
+_Recharge 16+:_ After the first time in a battle that an enemy attacks you with a power that targets your Mental Defense and misses, increase your MD by +2 for the rest of that battle.
+
+**Quirk:** Uncompromising.
+
+---
+
 #### Helm of the Undaunted Hero
 
 (Recharge 6+): When your turn starts, roll a save against one ongoing save ends effect.
 
 **Quirk:** Favors traditional battle hymns.
+
+---
+
+#### Herald’s Helm
+
+This ill-fitting helmet feels like it was designed for someone bigger and more imposing than the wearer. It’s also ancient beyond compare, and marked with runes whose meanings are lost in the present Age. While wearing this helm, you’re considered a representative of Justice. This gives you a +4 bonus to any Charisma skill checks when dealing with the followers of deific figures of justice, or when dealing with metallic dragons. So will other evil entities and chromatic dragons give more weight to your words.
+
+**Quirk:** Your voice is not always your own – sometimes, strange spirits speak through you.
 
 ---
 
@@ -1437,6 +1531,14 @@ When the escalation die is 3 or higher, you cause fear like a monster of the sam
 
 ---
 
+#### Helm of the Vigilant Commander
+
+_Recharge 11+:_ When a nearby enemy targets a nearby ally that has 25 hit points or fewer (epic: 50 or fewer, and it’s recharge 6+), you may redirect the attack to target yourself instead. You must choose to do this before the attack is rolled.
+
+**Quirk:** Savagely protective of allies.
+
+---
+
 ### Epic
 
 #### Crown of Hell
@@ -1502,6 +1604,16 @@ You gain a +1 bonus to saves whenever you have one or fewer recoveries left (cha
 The stones in the necklace breathe, ever so slightly. You gain a +5 bonus to death saves, if failure would kill you. You also gain a +5 bonus to last gasp saves.
 
 **Quirk:** Chides others for taking risks when they have lesser magical protection.
+
+---
+
+#### Light
+
+Standard Action
+
+_Recharge 11+:_ 1d3 nearby undead creatures, each with 55 hp or fewer, are automatically dazed until the end of your next turn (champion: 150 hp or fewer; epic: 240 hp or fewer). For the rest of the battle, those undead you targeted with this effect have a +1 bonus to their attacks on you.
+
+**Quirk:** Restless sleep.
 
 ---
 
@@ -1689,6 +1801,22 @@ The dwarven runesmiths believe that this ring enables the bearer to see the spar
 
 ---
 
+#### Seal Ring of the Citadel
+
+Standard Action
+
+_Recharge 16+:_ By slamming this ring onto a door or other portal, or onto the lid of a container, you create a magical seal of golden light that undead and demons cannot pass – at least, not for some time. The seal works like the [hold portal](../Character-Rules/Rituals.md#hold-portal) ritual, but instead of you making Intelligence skill checks to keep the portal closed, you make Charisma skill checks instead.
+
+Two things to note – first, unlike the spell, it’s not restricted to doors and door-like things. You can seal a vampire in a coffin, or a ghost in a bottle, or a demon in a magic circle. As long as there’s a clear barrier that you can reinforce with the magic of the ring, it’ll work.
+
+Second, the magic only works on demons and undead. Other creatures can open the barrier just fine – and can, if they wish, let the undead or demons through behind them.
+
+**Quirk:** Tests others for weakness, both physical and mental.
+
+>_Note:_ Before the Great Gold Wyrm sacrificed himself by entering the Abyss, these were even more powerful, and their binding spells lasted for many centuries if the soul that wielded the ring was strong enough. There are still bound demons and ghosts across the land, held prisoner by the power of these rings, and only the matching ring can free them. Those who bear these rings must beware of thieves and assassins in the service of the Diabolist. - Sir Tanteer, Paladin of the Light
+
+---
+
 #### Skin of Your Teeth
 
 _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
@@ -1740,14 +1868,9 @@ stunt)
 - Alcohol becomes poisonous to them
 - Curse of beardlessness
 
-The irony of this magic item requiring a lengthy series of
-subclauses and sections is not lost on us.
+The irony of this magic item requiring a lengthy series of subclauses and sections is not lost on us.
 
-Oh yeah – if you’ve got one of these rings, you’ll be called
-upon to act as arbiter in all sorts of disputes whenever you visit
-a dwarven community. And if you’re not a dwarf or otherwise
-in good standing with the Dwarf King, don’t even _think_ about
-carrying a _dwarflaw ring_.
+Oh yeah – if you’ve got one of these rings, you’ll be called upon to act as arbiter in all sorts of disputes whenever you visit a dwarven community. And if you’re not a dwarf or otherwise in good standing with the Dwarf King, don’t even _think_ about carrying a _dwarflaw ring_.
 
 **Quirk:** Litigious.
 
@@ -1786,6 +1909,16 @@ When you move to engage an enemy while using this shield, you can use the shield
 _Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enemies. When an enemy engaged with you misses you with a melee attack, make a basic melee attack against the enemy as a free action, with a +2 attack bonus per tier of the shield (adventurer: +2, champion: +4, epic: +6). On a hit, the attack deals 2d6 damage; on a miss, it deals 2 damage (champion: 4d8 damage, or 5 on a miss; epic: 8d10 damage, or 12 on miss).
 
 **Quirk:** Compares everything to dragons or to draconic things, and judges actions by how they stack up to draconic expectations.
+
+---
+
+#### Fate Aversion
+
+This burnished shield bears the symbol of Bahamut, his wings stretched protectively over the whole world. Once per level, when you take a campaign loss, you may invoke the shield’s power to avert the worst effects of the loss. Bad stuff still happens, but events conspire to give you a fighting chance to put things right. To take the example from the book, if you’re on your way to rescue a captive from an unholy sacrifice, and you take a campaign loss through fleeing, then without the shield, the captive gets sacrificed. With the shield, maybe the captive’s bleeding out when you arrive in the ritual chamber, and if you can get close to her quickly, you can save her life. Or maybe she’s dead, but there are spirits of light fending off the summoned demon, so you’ve a chance to save her soul from being consumed.
+
+The powers of light look a lot more favorably on campaign losses suffered because of really unfortunate dice rolls than they do on losses incurred through hesitation, bad decisions or cowardice.
+
+**Quirk:** Dwells on worst case scenarios that will probably never happen.
 
 ---
 
@@ -1956,6 +2089,16 @@ You can evoke the power of the staff to gain additional attention and power from
 
 ---
 
+#### Dragonfire Staff
+
+Standard Action
+
+Recharge 11+:_ You may expend one of your spell slots (one containing either an at-will spell, or a spell that you could cast this battle, but haven’t yet used) to channel the fiery breath of Bahamut through your staff. This close-quarters attack uses your Wisdom or Charisma + Level, affects 1d3+1 nearby enemies, targets Physical Defense, and inflicts 1d8 damage per level of the spell expended (epic: d12s), plus your Wisdom or Charisma modifier. Oh, each dice of damage is both fire and holy damage.
+
+**Quirk:** Warns people about the error of their ways, and how they had better repent or… boom…
+
+---
+
 #### Staff of Health
 
 When you cast spells that heal or provide temporary hit points, add 4 to the total (epic: 8).
@@ -2079,6 +2222,16 @@ _Recharge 6+:_ When you cast a divine spell on an ally, that ally can roll a sav
 _Recharge 11+:_ When you cast a divine spell that affects one target with a limited amount of hit points (for example, _turn undead_), you can instead have that spell affect two targets with half the hit point requirement or less.
 
 **Quirk:** Never admits they're wrong.
+
+---
+
+#### Fallen Heroes, Symbol of
+
+_Recharge 11+:_ The gods are often distant and uncaring; it is the deeds of heroes and champions that make all the difference in the mortal realm. This holy symbol honors those fallen heroes. When you invoke it, you gain an additional +1 bonus to hit and damage with a divine spell. You must call on a specific fallen hero and explain how their example inspires you in this case. A good tale might convince the GM to let you swap that +1 bonus for a change to the spell, like adding on an extra condition or some other special effect.
+
+The symbol’s especially attuned to fallen player characters. If a PC died earlier in the campaign, you can call on their spirit to get a bonus based on their tier when they died. Adventurer PCs give a +1, champions give +2, epic-tier PCs give a +3. The PC has to be dead (or at least dying) for you to call on their spirit – you can’t invoke the spirit of a character who later got resurrected.
+
+**Quirk:** Encourages others to take risks.
 
 ---
 
@@ -2409,6 +2562,14 @@ Any Weapon
 When you hit with an attack using this weapon, if that enemy is the most dangerous foe in the battle (or tied for most dangerous, GM's assessment), you deal +1d4 per tier damage to it (champion: +1d8 per tier; epic: +1d10 per tier).
 
 **Quirk:** Challenges others to improvised contests.
+
+---
+
+#### Indomitable
+
+If you’re attacking an enemy 3 or more levels higher than you, you deal +1d8 damage to that enemy on a hit (Champion: +2d8; epic: +4d8).
+
+**Quirk:** Tilts at windmills.
 
 ---
 
