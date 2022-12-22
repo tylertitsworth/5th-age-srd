@@ -212,7 +212,7 @@ Double the hit point range at which you can drop an enemy to zero hit points.
 
 ###### Adventurer Feat
 
-Deal extra negative energy damage equal to your level.
+Deal extra necrotic damage equal to your level.
 
 ---
 
@@ -1060,7 +1060,7 @@ With aim, you also deal half damage on a miss.
 
 _Special:_ This talent requires [Ranger Ex Cathedral](#ranger-ex-cathedral).
 
-Once per day, you can swear an Oath of Vengeance against an enemy as a quick action. Your attack rolls against the target have advantage, and all damage you deal against it is holy damage.
+Once per day, you can swear an Oath of Vengeance against an enemy as a quick action. Your attack rolls against the target have advantage, and all damage you deal against it is radiant damage.
 
 You also gain Inescapable Wrath and Relentless Pursuit as bonus powers.
 

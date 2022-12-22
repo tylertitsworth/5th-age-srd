@@ -107,7 +107,7 @@ Advantage: On a natural attack roll of 18+, your companion does 1d6 per level ex
 
 **Acts:** Before druid / ranger
 
-Advantage: The companion gains resist negative energy 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
+Advantage: The companion gains resist necrotic 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
 
 ## Shocker Lizard
 
@@ -119,7 +119,7 @@ Advantage: The first time your companion hits an enemy in a battle, it deals 1d1
 
 **Acts:** After druid / ranger
 
-Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to holy damage.
+Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to radiant damage.
 
 ### Champion Feat
 

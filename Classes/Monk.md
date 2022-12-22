@@ -618,7 +618,7 @@ Choose a necromancer spell of your level or lower as a bonus power. You can choo
 
 #### Champion Feat
 
-When you use a monk power that has an elemental damage type, such as fire, you can change that damage to negative energy instead.
+When you use a monk power that has an elemental damage type, such as fire, you can change that damage to necrotic instead.
 
 #### Ki Power
 
@@ -793,7 +793,7 @@ For one battle per day, as a quick action, you can summon a shadow double of you
 
 #### Epic Feat
 
-Damage by your shadow double is either holy or negative energy damage (choose when you take the feat).
+Damage by your shadow double is either radiant or necrotic damage (choose when you take the feat).
 
 #### Ki Power
 
@@ -1335,9 +1335,9 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** JAB + Wisdom holy damage
+**Hit:** JAB + Wisdom radiant damage
 
-_Cycle bonus:_ Your melee attacks deal holy damage, and you can replace Strength with Wisdom for damage.
+_Cycle bonus:_ Your melee attacks deal radiant damage, and you can replace Strength with Wisdom for damage.
 
 **Miss:** Damage equal to your level. You can spend a ki point to gain the cycle bonus.
 
@@ -2140,9 +2140,9 @@ Melee attack
 
 **Hit:** JAB + Strength damage.
 
-_Natural Even Hit:_ As a hit, plus the target takes ongoing negative energy damage equal to its level.
+_Natural Even Hit:_ As a hit, plus the target takes ongoing necrotic damage equal to its level.
 
-**Miss:** You take 5 ongoing negative energy damage.
+**Miss:** You take 5 ongoing necrotic damage.
 
 ---
 
@@ -2170,7 +2170,7 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** KICK + Strength damage, and 15 ongoing negative energy damage.
+**Hit:** KICK + Strength damage, and 15 ongoing necrotic damage.
 
 _Natural Even Hit:_ As a hit, plus until the end of your next turn, you gain _flight_ and _resist damage 16+_ to all damage as you become incorporeal. (You can move through solid objects but can't end your turn in them.)
 

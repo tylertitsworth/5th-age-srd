@@ -365,9 +365,9 @@ All 6s you roll with relationship dice count as 5s. You gain another extra necro
 
 Undead you summon release holy energy bursts as they drop to 0 hp, dealing a small amount of damage to each enemy engaged with them.
 
-Mooks you summon deal holy damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
+Mooks you summon deal radiant damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
-Non-mooks you summon deal holy damage equal to your Charisma modifier x 1d4 (1d8 at 5th level; 2d6 at 8th level).
+Non-mooks you summon deal radiant damage equal to your Charisma modifier x 1d4 (1d8 at 5th level; 2d6 at 8th level).
 
 In story terms, you're not likely to have a positive relationship with any necromantic deities if you take the Redeemer talent.
 
@@ -377,7 +377,7 @@ The first time each battle an undead creature you have summoned attacks, it gain
 
 #### Champion Feat
 
-When one of your summoned undead creatures drops to 0 hp, instead of having it deal holy damage to engaged enemies, you can heal hit points equal to that damage instead.
+When one of your summoned undead creatures drops to 0 hp, instead of having it deal radiant damage to engaged enemies, you can heal hit points equal to that damage instead.
 
 #### Epic Feat
 
@@ -505,7 +505,7 @@ The first time you die each level, roll a normal save, adding your Charisma modi
 
 #### Adventurer Feat
 
-You gain _resist poison 16+_ and _resist negative energy 16+_.
+You gain _resist poison 16+_ and _resist necrotic 16+_.
 
 #### Champion Feat
 
@@ -531,7 +531,7 @@ When wielding a shield, you can cast ranged necromancer spells without provoking
 
 #### Champion Feat
 
-If you hit with your next melee attack after you cast a necromancer spell, you deal additional negative energy damage equal to the spell level. Only count the highest level spell, multiple spells do not stack.
+If you hit with your next melee attack after you cast a necromancer spell, you deal additional necrotic damage equal to the spell level. Only count the highest level spell, multiple spells do not stack.
 
 #### Epic Feat
 
@@ -587,9 +587,9 @@ Once per battle
 
 **Attack:** Intelligence + Level vs. MD (make one attack only against the attack target)
 
-**Hit vs. an enemy:** 2d6 + Intelligence negative energy damage, and the healing target can heal using a recovery.
+**Hit vs. an enemy:** 2d6 + Intelligence necrotic damage, and the healing target can heal using a recovery.
 
-**Hit vs. an ally:** 5 negative energy damage, and the healing target can heal using a recovery.
+**Hit vs. an ally:** 5 necrotic damage, and the healing target can heal using a recovery.
 
 **Miss:** The spell is not expended.
 
@@ -624,7 +624,7 @@ At-Will
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 1d10 + Intelligence negative energy damage.
+**Hit:** 1d10 + Intelligence necrotic damage.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -721,7 +721,7 @@ At-Will
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 1d4 + Intelligence modifier ongoing negative energy damage.
+**Hit:** 1d4 + Intelligence modifier ongoing necrotic damage.
 
 _Special:_ Instead of taking the ongoing damage at the end of its turn, the target can use its standard action to strike out at the skeletal limbs or spectral arms that are flailing at it. When it does, the ongoing damage ends and you can't use _death's gauntlet_ again until the end of your next turn.
 
@@ -736,11 +736,11 @@ _Special:_ Instead of taking the ongoing damage at the end of its turn, the targ
 
 #### Adventurer Feat
 
-When a target uses a standard action to end _death's gauntlet_ ongoing damage, it takes negative energy damage equal to your level.
+When a target uses a standard action to end _death's gauntlet_ ongoing damage, it takes necrotic damage equal to your level.
 
 #### Champion Feat
 
-When you roll a natural even hit against a target with this spell, the ongoing negative energy damage has a hard save (16+).
+When you roll a natural even hit against a target with this spell, the ongoing necrotic damage has a hard save (16+).
 
 #### Epic Feat
 
@@ -772,7 +772,7 @@ Anti-Cyclic (cast once per battle OR at-will when the escalation die is odd)
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 1d4 + Intelligence negative energy damage, and you heal hit points equal to half the damage dealt.
+**Hit:** 1d4 + Intelligence necrotic damage, and you heal hit points equal to half the damage dealt.
 
 **Miss:** Deal damage and heal hit points equal to your level.
 
@@ -819,7 +819,7 @@ Recharge 11+
 
 Quick action
 
-**Effect:** Create a floating hand of spectral matter that lasts until the end of the battle. The hand can engage a nearby enemy when you create it, and you can move it to a different enemy as a quick action. Through the hand, you can target this enemy with any of your spells, regardless of the spell’s normal range. The spell does not provoke opportunity attacks. The hand has your defenses, and hit points equal to twice the spell level. It ignores any damage except force and holy damage.
+**Effect:** Create a floating hand of spectral matter that lasts until the end of the battle. The hand can engage a nearby enemy when you create it, and you can move it to a different enemy as a quick action. Through the hand, you can target this enemy with any of your spells, regardless of the spell’s normal range. The spell does not provoke opportunity attacks. The hand has your defenses, and hit points equal to twice the spell level. It ignores any damage except force and radiant damage.
 
 #### Adventurer Feat
 
@@ -864,13 +864,13 @@ If one or more mooks summoned by the spell survive the battle, you can keep one 
 
 #### Crumbling Skeleton
 
-| **Normal** **1st level** | Initiative: +6; Vulnerability: holy; **Sword +6 vs. AC** **—** 3 damage | **AC** **PD** | **16** **14** |
+| **Normal** **1st level** | Initiative: +6; Vulnerability: radiant; **Sword +6 vs. AC** **—** 3 damage | **AC** **PD** | **16** **14** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **10** **6** |
 
 #### Bone Archer
 
-| **Normal** **1st level** | Initiative: +6; Vulnerability: holy; (Ranged) **Skeletal Bow +6 vs. AC** **—** 3 damage | **AC** **PD** | **13** **14** |
+| **Normal** **1st level** | Initiative: +6; Vulnerability: radiant; (Ranged) **Skeletal Bow +6 vs. AC** **—** 3 damage | **AC** **PD** | **13** **14** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 15+:_ When a weapon attack targets this creature, the attacker must roll a natural 15+ on the attack roll or it only deals half damage. | **MD** **HP** | **10** **5** |
 
@@ -887,14 +887,14 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 #### Putrid Zombie
 
-| **Normal** **3rd level** | Initiative: +2; Vulnerability: holy; **Rotting fist +7 vs. AC—** 5 damage | **AC** **PD** | **18** **16** |
+| **Normal** **3rd level** | Initiative: +2; Vulnerability: radiant; **Rotting fist +7 vs. AC—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural 16+:_ Both the zombie and its target take 1d6 damage! | **MD** **HP** | **12** **16** |
 | | _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | | |
 
 ##### Zombombie
 
-| **Normal** **3rd level** | Initiative: +2; Vulnerability: holy; **Putrid Claw +7 vs. PD—** (When the zombombie is killed, against all enemies engaged with it) 2d10 poison damage | **AC** **PD** | **13** **14** |
+| **Normal** **3rd level** | Initiative: +2; Vulnerability: radiant; **Putrid Claw +7 vs. PD—** (When the zombombie is killed, against all enemies engaged with it) 2d10 poison damage | **AC** **PD** | **13** **14** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Miss:_ Half damage; _Always:_ 1d10 poison damage to each ally engaged with at least one target | **MD** **HP** | **10** **12** |
 | | _Headshot:_ A critical hit against a putrid zombie deals triple damage instead of the normal double damage for a crit. | | |
@@ -911,7 +911,7 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 #### Starving Ghoul
 
-| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Ripping claws +10 vs. AC** **—** 7 damage | **AC** **PD** | **20** **18** |
+| **Normal** **5th level** | Initiative: +8; Vulnerability: radiant; **Ripping claws +10 vs. AC** **—** 7 damage | **AC** **PD** | **20** **18** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural 16+_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **14** **18** |
 | | _Pound of flesh:_ The starving ghoul's _ripping claws_ attack deals +5 damage against vulnerable targets. | | |
@@ -927,7 +927,7 @@ When you summon a skeletal mage, roll on the table below:
 | 3 | Lightning |
 | 4 | Poison |
 
-| **Normal** **5th level** | Initiative: +9; Vulnerability: holy; (Ranged) **Bone Magic +9 vs. PD** **—** 10 (random element) damage, +3 for each other nearby skeletal mage | **AC** **PD** | **17** **15** |
+| **Normal** **5th level** | Initiative: +9; Vulnerability: radiant; (Ranged) **Bone Magic +9 vs. PD** **—** 10 (random element) damage, +3 for each other nearby skeletal mage | **AC** **PD** | **17** **15** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist (random element) 13+:_ When a (random element) attack targets this creature, the attacker must roll a natural 13+ on the attack roll or it only deals half damage. | **MD** **HP** | **19** **20** |
 
@@ -942,14 +942,14 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 #### Masterless Vampire Spawn
 
-| **Normal** **7th level** | Initiative: +11; Vulnerability: holy; **Claw +11 vs. AC—** 14 damage | **AC** **PD** | **22** **19** |
+| **Normal** **7th level** | Initiative: +11; Vulnerability: radiant; **Claw +11 vs. AC—** 14 damage | **AC** **PD** | **22** **19** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural even hit:_ The vampire spawn can make a _fangs_ attack against the target as a free action. | **MD** **HP** | **17** **24** |
 | | _[Special trigger]_ **Fangs +15 vs. AC—** 7 damage, and a humanoid target is weakened (–4 attack and defenses) until the end of the masterless vampire spawn's next turn | | |
 
 #### Giant Skeleton
 
-| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Giant Femur Club +9 vs. AC—** 25 damage | **AC** **PD** | **21** **20** |
+| **Normal** **7th level** | Initiative: +10; Vulnerability: radiant; **Giant Femur Club +9 vs. AC—** 25 damage | **AC** **PD** | **21** **20** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist 15+:_ When a weapon attack targets this creature, the attacker must roll a natural 15+ on the attack roll or it only deals half damage. | **MD** **HP** | **16** **33** |
 
@@ -961,7 +961,7 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 #### Blackamber Skeletal Warrior
 
-| **Normal** **9th level** | Initiative: +15; Vulnerability: holy; **Shortsword +15 vs. AC** **—**28 damage | **AC** **PD** | **26** **20** |
+| **Normal** **9th level** | Initiative: +15; Vulnerability: radiant; **Shortsword +15 vs. AC** **—**28 damage | **AC** **PD** | **26** **20** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Natural 16+:_ Each Blackamber skeletal warrior in the battle moves up 1d4 points in initiative order. | **MD** **HP** | **22** **25** |
 | | _Natural even miss:_ 10 damage. **R: Javelin** **+13 vs. AC** **—** 24 damage | | |
@@ -970,9 +970,9 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 #### Minor Lich
 
-| **Normal** **9th level** | Initiative: +15; Vulnerability: holy; (Ranged) **finger of Death +15 vs. PD** **—**30 negative energy damage. If the target has 30 or less hit points after the hit, it dies. | **AC** **PD** | **22** **17** |
+| **Normal** **9th level** | Initiative: +15; Vulnerability: radiant; (Ranged) **finger of Death +15 vs. PD** **—**30 necrotic damage. If the target has 30 or less hit points after the hit, it dies. | **AC** **PD** | **22** **17** |
 | --- | --- | --- | --- |
-| **Mook** **Undead** | _Resist negative energy 15+:_ When a negative energy attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **21** **30** |
+| **Mook** **Undead** | _Resist necrotic 15+:_ When a necrotic attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **21** **30** |
 
 ---
 
@@ -1075,7 +1075,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d6 + Intelligence negative energy damage.
+**Hit:** 4d6 + Intelligence necrotic damage.
 
 **First Miss:** Half damage, and make the attack again against an enemy you haven't already targeted with _unholy blast_ this turn.
 
@@ -1133,7 +1133,7 @@ At-will
 
 **Attack:** Intelligence + Level vs. AC
 
-**Hit:** WEAPON + Intelligence negative energy damage. Until the start of your next turn, the target takes 1d8 extra damage from your allies’ attacks.
+**Hit:** WEAPON + Intelligence necrotic damage. Until the start of your next turn, the target takes 1d8 extra damage from your allies’ attacks.
 
 **Miss:** Your level in damage
 
@@ -1195,9 +1195,9 @@ Chain spell
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 3d8 + Intelligence negative energy damage
+**Hit:** 3d8 + Intelligence necrotic damage
 
-**Miss:** Negative energy damage equal to your level
+**Miss:** Necrotic damage equal to your level
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1257,9 +1257,9 @@ _Special:_ You can't cast this spell unless the escalation die is 3+.
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit vs. an enemy:** 5d12 + Intelligence negative energy damage.
+**Hit vs. an enemy:** 5d12 + Intelligence necrotic damage.
 
-**Hit vs.** **an ally:** 1d6 negative energy damage.
+**Hit vs.** **an ally:** 1d6 necrotic damage.
 
 **Miss vs. an enemy:** Half damage.
 
@@ -1331,7 +1331,7 @@ Once per battle
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 3d12 + Intelligence negative energy damage.
+**Hit:** 3d12 + Intelligence necrotic damage.
 
 _Natural 19+:_ The target is stunned until the end of its next turn.
 
@@ -1357,7 +1357,7 @@ Daily
 
 **Target:** You
 
-**Effect:** Until the end of the battle, when an enemy engaged with you attacks you with a natural odd attack roll, it takes 6d6 + Intelligence negative energy damage.
+**Effect:** Until the end of the battle, when an enemy engaged with you attacks you with a natural odd attack roll, it takes 6d6 + Intelligence necrotic damage.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1377,7 +1377,7 @@ At-will
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 3d8 + Intelligence negative energy damage. If one nearby ally is willing to sacrifice 1d8 hit points, deal extra damage equal to that amount.
+**Hit:** 3d8 + Intelligence necrotic damage. If one nearby ally is willing to sacrifice 1d8 hit points, deal extra damage equal to that amount.
 
 **Miss:** Damage equal to your level
 
@@ -1403,7 +1403,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d12 + Intelligence negative energy damage, and the target is weakened (save ends)
+**Hit:** 4d12 + Intelligence necrotic damage, and the target is weakened (save ends)
 
 **Miss:** Half damage.
 
@@ -1488,9 +1488,9 @@ Daily
 
 #### Flesh Golem
 
-| **Normal** **3rd level** | Initiative +0; Vulnerability: holy; **Meaty Hook +9 vs. AC** **—** 10 damage. If the golem is staggered, it heals 1d10 hp. | **AC** **PD** | **18** **18** |
+| **Normal** **3rd level** | Initiative +0; Vulnerability: radiant; **Meaty Hook +9 vs. AC** **—** 10 damage. If the golem is staggered, it heals 1d10 hp. | **AC** **PD** | **18** **18** |
 | --- | --- | --- | --- |
-| **Troop** **Undead** | _Energy magnet:_ When a ranged or close-quarter attack that causes cold, fire, force, lightning, or negative energy damage targets you or a nearby ally, the flesh golem has a 50% chance of becoming the main target instead. | **MD** **HP** | **14** **28** |
+| **Troop** **Undead** | _Energy magnet:_ When a ranged or close-quarter attack that causes cold, fire, force, lightning, or necrotic damage targets you or a nearby ally, the flesh golem has a 50% chance of becoming the main target instead. | **MD** **HP** | **14** **28** |
 
 ##### Adventurer Feat
 
@@ -1526,7 +1526,7 @@ As you cast the spell at higher levels, the creature you summon varies, as shown
 
 #### Summoned Ghoul
 
-| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Claws and bite +8 vs. AC** **—** 8 damage | **AC** **PD** | **18** **16** |
+| **Normal** **3rd level** | Initiative: +8; Vulnerability: radiant; **Claws and bite +8 vs. AC** **—** 8 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
 | **Spoiler** **Undead** | _Natural even hit:_ The target is vulnerable (_attacks vs. it have crit range expanded by 2_) to attacks by undead until the end of the ghoul's next turn. | **MD** **HP** | **12** **20** |
 | | _Pound of flesh:_ The ghoul's _claws and bite_ attack deals +4 damage against vulnerable targets. | | |
@@ -1534,21 +1534,21 @@ As you cast the spell at higher levels, the creature you summon varies, as shown
 
 #### Summoned Wight
 
-| **Normal** **5th level** | Initiative: +8; Vulnerability: holy; **Sword +10 vs. AC—** 14 damage | **AC** **PD** | **22** **18** |
+| **Normal** **5th level** | Initiative: +8; Vulnerability: radiant; **Sword +10 vs. AC—** 14 damage | **AC** **PD** | **22** **18** |
 | --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing negative energy damage. | **MD** **HP** | **14** **32** |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the wight is staggered, the attack also deals 8 ongoing necrotic damage. | **MD** **HP** | **14** **32** |
 
 #### Summoned Barrow Wight
 
-| **Normal** **7th level** | Initiative: +10; Vulnerability: holy; **Sword +12 vs. AC—** 21 damage | **AC** **PD** | **24** **20** |
+| **Normal** **7th level** | Initiative: +10; Vulnerability: radiant; **Sword +12 vs. AC—** 21 damage | **AC** **PD** | **24** **20** |
 | --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing negative energy damage. | **MD** **HP** | **16** **52** |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the barrow wight is staggered, the attack also deals 13 ongoing necrotic damage. | **MD** **HP** | **16** **52** |
 
 #### Summoned Greater Wight
 
-| **Normal** **9th level** | Initiative: +12; Vulnerability: holy; **Attack +14 vs AC—** 40 damage | **AC** **PD** | **26** **22** |
+| **Normal** **9th level** | Initiative: +12; Vulnerability: radiant; **Attack +14 vs AC—** 40 damage | **AC** **PD** | **26** **22** |
 | --- | --- | --- | --- |
-| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing negative energy damage. | **MD** **HP** | **18** **90** |
+| **Spoiler** **Undead** | _Natural even hit or miss:_ Unless the greater wight is staggered, the attack also deals 20 ongoing necrotic damage. | **MD** **HP** | **18** **90** |
 
 ### The Bones Beneath
 
@@ -1560,7 +1560,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 4d12 + Intelligence negative energy damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
+**Hit:** 4d12 + Intelligence necrotic damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
 **Miss:** Half damage, and each mook in the mob that drops becomes a skeleton mook under your control until the end of the battle.
 
@@ -1580,25 +1580,25 @@ This isn't a summoning spell, so the mooks created by this spell don't count as 
 
 #### 3rd Level
 
-| **Normal** **3rd level** | Initiative: +8; Vulnerability: holy; **Sword or axe or whatever +8 vs. AC** **—** 5 damage | **AC** **PD** | **18** **16** |
+| **Normal** **3rd level** | Initiative: +8; Vulnerability: radiant; **Sword or axe or whatever +8 vs. AC** **—** 5 damage | **AC** **PD** | **18** **16** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **12** **11** |
 
 #### 5th Level
 
-| **Normal** **5th level** | Initiative: +10; Vulnerability: holy; **Sword or axe or whatever +10 vs. AC** **—** 8 damage | **AC** **PD** | **20** **18** |
+| **Normal** **5th level** | Initiative: +10; Vulnerability: radiant; **Sword or axe or whatever +10 vs. AC** **—** 8 damage | **AC** **PD** | **20** **18** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **14** **18** |
 
 #### 7th Level
 
-| **Normal** **7th level** | Initiative: +12; Vulnerability: holy; **Sword or axe or whatever +12 vs. AC** **—** 16 damage | **AC** **PD** | **22** **20** |
+| **Normal** **7th level** | Initiative: +12; Vulnerability: radiant; **Sword or axe or whatever +12 vs. AC** **—** 16 damage | **AC** **PD** | **22** **20** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **16** **27** |
 
 #### 9th Level
 
-| **Normal** **9th level** | Initiative: +14; Vulnerability: holy; **Sword or axe or whatever +14 vs. AC** **—** 28 damage | **AC** **PD** | **24** **22** |
+| **Normal** **9th level** | Initiative: +14; Vulnerability: radiant; **Sword or axe or whatever +14 vs. AC** **—** 28 damage | **AC** **PD** | **24** **22** |
 | --- | --- | --- | --- |
 | **Mook** **Undead** | _Resist weapons 16+:_ When a weapon attack targets this creature, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. | **MD** **HP** | **18** **44** |
 
@@ -1622,7 +1622,7 @@ Ranged spell
 
 Daily
 
-**Effect:** Choose a nearby enemy. It takes 2d6 negative energy damage for each point on the escalation die. (For example, if the escalation die is 2 when you cast the spell, you'll deal 4d6 negative energy damage to the target.)
+**Effect:** Choose a nearby enemy. It takes 2d6 necrotic damage for each point on the escalation die. (For example, if the escalation die is 2 when you cast the spell, you'll deal 4d6 necrotic damage to the target.)
 
 Until the end of the battle, as a free action at the start of each of your turns, repeat the effect above, choosing a target and dealing damage based on the escalation die value.
 
@@ -1718,7 +1718,7 @@ Quick action
 
 **Target:** A nearby ally
 
-**Effect:** Until the end of the battle, the target deals 2d6 extra negative energy damage on a hit with a melee attack. Both you and the target heal hit points equal to half the extra damage.
+**Effect:** Until the end of the battle, the target deals 2d6 extra necrotic damage on a hit with a melee attack. Both you and the target heal hit points equal to half the extra damage.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1739,7 +1739,7 @@ Once per battle
 
 **Attack:** Intelligence + Level vs. AC
 
-**Hit:** WEAPON + Strength + Intelligence negative energy damage. Your attack rolls against the target have advantage (save ends).
+**Hit:** WEAPON + Strength + Intelligence necrotic damage. Your attack rolls against the target have advantage (save ends).
 
 **Miss:** Your level in damage
 
@@ -1788,9 +1788,9 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 30 ongoing negative energy damage (hard save ends, 16+), and each time the target fails the save, the ongoing negative energy damage increases by 15
+**Hit:** 30 ongoing necrotic damage (hard save ends, 16+), and each time the target fails the save, the ongoing necrotic damage increases by 15
 
-**Miss:** 15 ongoing negative energy damage (hard save ends, 16+).
+**Miss:** 15 ongoing necrotic damage (hard save ends, 16+).
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1809,7 +1809,7 @@ Quick action
 
 **Target:** You or a nearby ally
 
-**Effect:** The target spends a recovery and gains temporary hit points equal to the recovery roll. Until the end of the battle, whenever the target is hit by an attack, protective spirits deal negative energy damage equal to the spell level to the attacker.
+**Effect:** The target spends a recovery and gains temporary hit points equal to the recovery roll. Until the end of the battle, whenever the target is hit by an attack, protective spirits deal necrotic damage equal to the spell level to the attacker.
 
 #### Champion Feat
 
@@ -1840,23 +1840,23 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 
 #### Summoned Wraith
 
-| **Normal** **5th level** | Initiative: +10; Vulnerability: holy; **Ice-cold ghost blade +10 vs. PD—** 14 negative energy damage | **AC** **PD** | **19** **14** |
+| **Normal** **5th level** | Initiative: +10; Vulnerability: radiant; **Ice-cold ghost blade +10 vs. PD—** 14 necrotic damage | **AC** **PD** | **19** **14** |
 | --- | --- | --- | --- |
-| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 10 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **17** **33** |
+| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 10 necrotic damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **17** **33** |
 | | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
 | | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
 | | _Flight_: The wraith hovers and zooms about. | | |
-| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
+| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even radiant damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 #### Summoned Greater Wraith
 
-| **Normal** **7th level** | Initiative: +12; Vulnerability: holy; **Ice-cold ghost blade +12 vs. PD—** 20 negative energy damage | **AC** **PD** | **21** **16** |
+| **Normal** **7th level** | Initiative: +12; Vulnerability: radiant; **Ice-cold ghost blade +12 vs. PD—** 20 necrotic damage | **AC** **PD** | **21** **16** |
 | --- | --- | --- | --- |
-| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 15 negative energy damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **19** **47** |
+| **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 15 necrotic damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **19** **47** |
 | | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
 | | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
 | | _Flight_: The wraith hovers and zooms about. | | |
-| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even holy damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
+| | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even radiant damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 ---
 
@@ -1896,7 +1896,7 @@ Daily
 
 **Hit:** The target is confused (save ends). Instead of attacking an ally, the target attacks itself.
 
-**Miss:** Negative energy damage equal to your level.
+**Miss:** Necrotic damage equal to your level.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1925,7 +1925,7 @@ Once per battle
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 6d6 + Intelligence negative energy damage, and you heal hit points equal to half the amount of damage dealt. If the target has 100 hp or less after taking damage, you control the target on its next turn. If you give the target a suicidal command, it can immediately save against the effect.
+**Hit:** 6d6 + Intelligence necrotic damage, and you heal hit points equal to half the amount of damage dealt. If the target has 100 hp or less after taking damage, you control the target on its next turn. If you give the target a suicidal command, it can immediately save against the effect.
 
 **Miss:** Necrotic damage equal to your level
 
@@ -1993,7 +1993,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD
 
-**Hit:** 10d10 + Intelligence negative energy damage.
+**Hit:** 10d10 + Intelligence necrotic damage.
 
 **Natural even hit:** As a hit, plus the target is hampered (save ends).
 
@@ -2017,9 +2017,9 @@ _Special:_ When you cast this spell, add one failed death save to the number you
 
 **Attack:** Intelligence + Level vs. PD. For each ally who is currently unconscious and gave up a death save, you gain advantage on one attack roll.
 
-**Hit:** Negative energy damage equal to half the target’s total hit points (up to 444 damage).
+**Hit:** Necrotic damage equal to half the target’s total hit points (up to 444 damage).
 
-**Miss:** Negative energy damage equal to a quarter of the target’s total hit points (up to 222 damage).
+**Miss:** Necrotic damage equal to a quarter of the target’s total hit points (up to 222 damage).
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2121,7 +2121,7 @@ Daily
 
 **Attack:** Intelligence + Level vs. PD. Gain advantage on the attack roll against staggered enemies.
 
-**Hit:** 2d8 x 10 negative energy damage
+**Hit:** 2d8 x 10 necrotic damage
 
 **Miss:** Half damage
 
@@ -2163,7 +2163,7 @@ Daily
 
 #### Blood Golem
 
-| **Normal** **7th level** | Initiative: +0; Vulnerability: holy; **Scabbed Claws +14 vs. AC—** 6d6 damage. Your golem heals hit points equal to the sum of all damage dice that come up even, and you heal hit points equal to the sum of all damage dice that come up odd. | **AC** **PD** | **24** **24** |
+| **Normal** **7th level** | Initiative: +0; Vulnerability: radiant; **Scabbed Claws +14 vs. AC—** 6d6 damage. Your golem heals hit points equal to the sum of all damage dice that come up even, and you heal hit points equal to the sum of all damage dice that come up odd. | **AC** **PD** | **24** **24** |
 | --- | --- | --- | --- |
 | **Troop** **Undead** | _Blood-activated:_ When you summon a blood golem, spend a recovery without healing. | **MD** **HP** | **20** **70** |
 | | _Golem immunity:_ The golem can’t be dazed, weakened, confused, made vulnerable, or touched by ongoing damage. | | |
@@ -2186,7 +2186,7 @@ Daily
 
 Quick action
 
-**Effect:** You grow black raven wings that allow you to fly until the end of the battle. The first time you hit an enemy with an attack each turn, that enemy also takes 25 ongoing negative energy damage.
+**Effect:** You grow black raven wings that allow you to fly until the end of the battle. The first time you hit an enemy with an attack each turn, that enemy also takes 25 ongoing necrotic damage.
 
 #### Epic Feat
 
@@ -2206,7 +2206,7 @@ _Special:_ If you have 50 hit points or less, you can cast Blood Vortex at-will.
 
 **Attack:** Intelligence + level vs. PD
 
-**Hit:** 2d8 x 10 + Intelligence negative energy damage
+**Hit:** 2d8 x 10 + Intelligence necrotic damage
 
 **Miss:** Half damage
 
@@ -2288,10 +2288,10 @@ Daily
 
 #### (Summoned) Dracolich
 
-| **Normal** **9th level** | Initiative: +14; Vulnerability: holy; Flight; **Bone Claws +14 vs. AC—, 2 attacks—** 20 damage damage. | **AC** **PD** | **25** **22** |
+| **Normal** **9th level** | Initiative: +14; Vulnerability: radiant; Flight; **Bone Claws +14 vs. AC—, 2 attacks—** 20 damage damage. | **AC** **PD** | **25** **22** |
 | --- | --- | --- | --- |
 | **Caster** **Undead, Dragon** | _Natural 5 or less:_ The Dracolich can use its Blight Breath attack on its next turn.  | **MD** **HP** | **22** **130** |
-| | _Special:_ **Blight Breath +13 vs. PD (1d3 nearby enemies)—** 20 negative energy damage, and the target is blighted. Blighted enemies take half of the damage they deal with their next attack. | | |
+| | _Special:_ **Blight Breath +13 vs. PD (1d3 nearby enemies)—** 20 necrotic damage, and the target is blighted. Blighted enemies take half of the damage they deal with their next attack. | | |
 
 ---
 
@@ -2307,7 +2307,7 @@ _Special:_ After you cast this spell, you drop to 0 hit points and can't use the
 
 **Attack:** Intelligence + Level vs. MD
 
-**Hit:** 3d6 x 10 negative energy damage.
+**Hit:** 3d6 x 10 necrotic damage.
 
 **Miss:** Half damage.
 
