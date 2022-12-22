@@ -29,6 +29,12 @@ This ammunition has been enchanted with one of the following types of energy: ac
 
 ---
 
+#### Explosive
+
+Hit or miss, this projectile does 1d6 damage to any one other foe near to the original target (champion: 2d6 to two other enemies; epic: 3d6 to three other enemies).
+
+---
+
 #### Forceful Impact
 
 When you hit with an attack using this ammunition, the target also pops free from each enemy engaged with it.
@@ -68,6 +74,14 @@ This ammunition has been enchanted against one of the following groups of monste
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
+
+---
+
+#### Stone-Piercing
+
+Enchanted for battle in the Underworld, stonepiercing projectiles pass through solid stone – but not other barriers – as though it was empty air. Stone cover offers no protection against this ammunition. You can even fire through walls, if you have some other way of discerning your foe’s position than sight (or, more likely, you’ve got so many dwarves with stone- piercing bolts that you can pepper every inch of the cave wall and be sure of hitting a goblin.)
+
+>_Note:_ We’re not sure how far stone-piercing bolts actually… go. For if all the earth and stone’s no more than empty air to ‘em, then there’s a fair to middling chance they just keep falling forever all the way down through the Underworld, until they hit someone or fall out the bottom of the world. Grunbolt, dwarven adventurer.
 
 ---
 
@@ -203,6 +217,16 @@ If you are staggered, you regain an expended power as if you had taken a quick r
 
 ---
 
+#### Solidity
+
+Heavy Armor
+
+It’s harder for you to be teleported if you don’t want to be moved. If an enemy’s spell or power teleports you in battle, you may defer being moved for one round (champion: a number of rounds equal to the escalation die, +1; epic: you’re not going anywhere). The teleport effect kicks in at the end of your turn when the deferment runs out.
+
+**Quirk:** Seizes on a trivial point and won’t let go.
+
+---
+
 #### Spellthread Shirt
 
 _Recharge 11+:_ When you cast a spell that targets yourself, you also charge the shirt with that spell. When the shirt is charged, you may activate it as a free action to gain the benefits of that spell for one round. The spell has to be one that lasts for an entire battle – you can’t charge it with dimension door or teleport. For example, if you cast blur on yourself in one fight, you could use the shirt to blur again for one round in a later battle. The shirt’s appearance changes to reflect the stored spell – if you’ve got a feather fall in it, it’s puffy and silky; if it’s storing water breathing, it’s green and clings to your skin.
@@ -224,6 +248,16 @@ Enemies engaged with you take a –2 attack penalty against allies without splen
 The default AC bonus applies to Physical Defense as well.
 
 **Quirk:** Extremely stubborn.
+
+---
+
+#### Thrice-Forged
+
+Heavy Armor
+
+Raise your critical hit threshold by 1 (champion: by 2; epic: by 3). Your critical hit threshold can’t go above 20, but this armor ameliorates the effects of vulnerability and other conditions that make you more likely to suffer critical hits.
+
+**Quirk:** Praises the craftsmanship and superiority of dwarven goods at every opportunity.
 
 ---
 
@@ -257,6 +291,16 @@ This armor looks like oddly reddish steel, but to the eyes of a creature that ex
 
 ---
 
+#### Perfect Guard
+
+Heavy Armor
+
+_Recharge 11+:_ On command, your armor seals itself completely. Tiny panels of diamond-glass lock in place over your eyes, and the joints of the armor mesh together like cogs so that you are completely encased in dwarven steel – just long enough for the incoming attack to wash over you. You take half damage from any one attack that targets PD.
+
+**Quirk:** Always favors the direct approach, even when it’s clearly a bad idea.
+
+---
+
 #### Plate of the Automaton
 
 Heavy armor
@@ -282,6 +326,16 @@ You may drain and heal using Recoveries from your nearby allies on a two-for-one
 **Quirk:** Callous.
 
 ---
+
+### Epic
+
+#### Armor of the Ancestors
+
+The dwarves of ancient days wore this very suit of armor. Whenever a hero who wears this armor falls in battle – and they always fall atop a high heap of slain foes – the suit is recovered and repaired so that another worthy dwarf may take up the burden. Obviously, this suit is only worn by dwarves.
+
+While wearing this +3 armor, you gain the feats that’s your best shot, toughness and skilled; the latter feat augments some dwarfy skills you possess, ideally one that expresses how much you venerate and respect your ancestors. If you already have any or all of those feats, the armor’s overlapping bonus feats can be applied to other abilities, as long as they’re in keeping with the ways of the dwarven ancestors.
+
+**Quirk:** Gets confused between past and present. The past was better, damn it.
 
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
@@ -365,6 +419,14 @@ A weapon drawn from this swordbelt inflicts an extra 1d8 damage with your first 
 
 ---
 
+#### Kilt of the Mountains
+
+_Recharge 16+:_ When you activate this kilt, you may walk on walls or steep cliffs as if they were level ground. You can run straight up a vertical wall – just stay clear of the ceiling, as the kilt’s magic fails if you go upside-down. The kilt’s effect lasts for the rest of the battle.
+
+**Quirk:** Sworn to abjure underwear of all forms.
+
+---
+
 #### Last Word
 
 When you heal using your last remaining recovery, you heal 30 additional hit points (champion 75 hp; epic: 200 hp).
@@ -386,6 +448,14 @@ _Recharge 16+:_ Drink a potion stored on this belt as a quick action instead of 
 _Recharge 16+:_ When you rally, you can use a second recovery to heal after using the first (and seeing the recovery roll).
 
 **Quirk:** Grinningly optimistic.
+
+---
+
+#### Swordbelt of the Keen Blade
+
+_Recharge 11+:_ One magical edged or piercing weapon worn on this belt has its critical range increased by 2 at the start of the battle. This bonus is lost for the rest of the encounter when you actually score a critical hit with that weapon.
+
+**Quirk:** Always engaged in preparation and maintenance; you are incapable of staying idle even for a moment.
 
 ---
 
@@ -668,6 +738,14 @@ _Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may autom
 
 ---
 
+#### Iron-Shod Boots
+
+_Recharge 6+:_ When someone intercepts you, stomp on them for 1d8 damage (champion: 2d10; epic: 4d12). If this damage kills your foe, you can keep moving as if you hadn’t been intercepted.
+
+**Quirk:** Runs roughshod over other people’s feelings.
+
+---
+
 #### Sandals of the Slippery Eel
 
 _Recharge 11+:_ Reroll a failed disengage check.
@@ -802,6 +880,14 @@ _Recharge 16+:_ When engaged by two or more enemies, if one of them strikes you 
 
 ---
 
+#### Cloak of the Underworld
+
+The cloth of this scratchy grey cloak matches the color of the surrounding rock, giving a +4 bonus to checks to hide whenever blending in with the surrounding stonework would be an advantage.
+
+**Quirk:** Sees meaning and patterns in the cracks in the paving stones.
+
+---
+
 #### Demonhide Cloak
 
 _Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die. You’re wearing a cloak made from the skin of a trapped demon. Roll 1d6 at the start of battle to see what power the cloak can manifest in this fight if you choose to activate it.
@@ -845,6 +931,14 @@ _Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around y
 
 ---
 
+#### Mantle of Lost Cities
+
+Dwarven historians weave ornate cloaks of this sort from silver wire and rams-hair. While wearing this mantle, you see any dwarven structure or handiwork both as it is and as it was at its height. So, if you entered a ruined dwarven citadel, you would see both the current dilapidated ruin and, overlaid on that, what the citadel looked like when it was fully manned and intact. This double vision may be useful when exploring ruined areas or searching for lost treasures. For instance, you might know that there’s a door beneath a particular piles of fallen rocks, or recognize a rusty broken sword as the remains of a potent magic weapon.
+
+**Quirk:** Besieged by nostalgia.
+
+---
+
 #### Recovery
 
 Quick action
@@ -868,6 +962,14 @@ This long cloak with a full hood keeps you warm and dry, regardless of the eleme
 _Recharge 16+:_ When an attack against your Physical Defense hits, make the attacker reroll the attack and use a PD of 15 instead (champion: 20; epic: 25).
 
 **Quirk:** Always the last to retreat or avoid danger.
+
+---
+
+#### Steelcloak
+
+_Recharge 6+:_ For the rest of this battle, or until you are hit by an attack that targets AC, your cloak’s bonus applies to your AC as well as your PD.
+
+**Quirk:** You move as though carrying a heavy weight.
 
 ---
 
@@ -949,6 +1051,14 @@ _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +
 
 ---
 
+#### Gauntlets of the Titan
+
+These heavy gauntlets carry in them the spirit of the mightiest giants. Their power is sluggish and slow to wake, so they are of no benefit in combat, but they give a +6 bonus to Strength checks outside of combat.
+
+**Quirk:** Constantly flexes hands, clenching and releasing and clenching again. Occasionally crushes random small objects.
+
+---
+
 #### Jeweled Glove
 
 _Recharge 6+:_ When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
@@ -1023,6 +1133,16 @@ Your words are magically audible by any one creature you can see, as if you were
 
 ---
 
+#### Helmet of Bitter Work
+
+Quick Action
+
+_Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered (champion: x2 value; epic: 5x value).
+
+**Quirk:** Weeps silently when in battle.
+
+---
+
 #### Helm of Fortunate Dodging
 
 (Recharge 11+, and see below)
@@ -1054,6 +1174,14 @@ _Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defe
 (Recharge 6+): When your turn starts, roll a save against one ongoing save ends effect.
 
 **Quirk:** Favors traditional battle hymns.
+
+---
+
+#### Magic Beard of Entanglement
+
+_Recharge 6+:_ Depending on your character’s facial hair, this item may enter be a set of gold braids and jewels that are woven into your full and manly beard, or a false beard made of gold. Either way, when a foe you’re engaged with disengages, you may activate the beard, which grabs on and forces the foe to reroll their disengage attempt.
+
+**Quirk:** Pognokleptomania – your beard steals things.
 
 ---
 
@@ -1191,6 +1319,24 @@ _Recharge 16+:_ This necklace changes shape and jewels depending on the species 
 
 ---
 
+#### Pendant of Thunderous Snoring
+
+This curious (but often vital item) has two related powers. Firstly, it grants the wearer a measure of awareness while sleeping, allowing them to communicate important information through snoring. In game terms, you may make skill checks while sleeping or unconscious, as long as you can express the result of those checks through the medium of snoring. (Spotting assassins creeping up on the party while you’re all asleep, for example).
+
+_Recharge 6+:_ Once per battle, you may attempt to curse a nearby enemy with your snoring by making a Charisma + Level attack vs. your target’s MD. If you hit, they start to snore. This doesn’t put them to sleep or inconvenience their spellcasting, but invisible creatures are much easier to spot when all you need to do is swing in the direction of the snoring. The miss chance for a snoring invisible creature drops to 25%, and the snoring gives a +4 bonus to any attempts to track a hidden foe by hearing.
+
+**Quirk:** You also talk in your sleep.
+
+---
+
+#### Stone of Preservation
+
+If you fail all your available death saves (as opposed to being dismembered, or being turned to stone, or dying in some other ghastly way), you enter into a coma instead of dying. Your body becomes rigid as stone, and most external examiners assume you are dead. You can be restored to life by a suitably potent effect (healing ritual, magical rejuvenation, really excellent dwarven beer), or after several months of slumber. If the stone of preservation is removed while you’re in a coma, you perish instantly.
+
+**Quirk:** Sleeps very, very soundly.
+
+---
+
 #### Talisman of Mortification
 
 _Recharge 11+:_ An ugly, spiky lump of metal scrapes against your chest, reminding you that your flesh is mortal, but the cause is eternal. Before you roll a save, you may sacrifice any number of recoveries. For each recovery sacrificed, you gain a +1 bonus to your roll.
@@ -1319,6 +1465,20 @@ _Recharge 6+:_ When you use this ring, heal using a recovery.
 
 ---
 
+#### Ring of Runes
+
+Quick Action
+
+_Recharge 16+:_ At the start of battle, you instinctively trace a magic rune in the air that flashes and brands itself on one item carried by a nearby ally. This magic rune has the same effects as a [normal rune](./Consumables.md#runes). You may choose what item you target with the rune, but may not target the same item twice. There are three versions of this ring, one for each tier of play, and each one produces rune effects of the appropriate tier.
+
+The dwarven runesmiths believe that this ring enables the bearer to see the spark of glory within each item, and that the rune is the soul of the weapon being made temporarily manifest. They claim to be able to foretell the future in the shape of the rune, and in the random rune effects it generates. If a rune causes a weapon to gain a bonus to opportunity attacks, then clearly great opportunity awaits the weapon’s wielder. If an implement gives a bonus to spells targeting a single enemy, then obviously the spellcaster’s attention is divided, and their implement is warning them to focus on what is important.
+
+(By the standards of dwarven prophets and soothsayers, the runesmiths are considered reliable compared to the crackseers, who seek meaning in the patterns of cracks and flaws in stone, or the holy ale-questers, who seek divine guidance at the bottom of ale tankards.)
+
+**Quirk:** Believes that rune effects foretell the future, and acts on the wisdom revealed by the Random Rune Effect tables.
+
+---
+
 #### Skin of Your Teeth
 
 _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
@@ -1340,6 +1500,40 @@ While the ring is on your finger, if you shut both eyes and concentrate, you can
 Animals accept you and may even show you affection. The animals, however, still react normally if you threaten them, and well-trained guard animals are especially wary of you.
 
 **Quirk:** Seems out of place in civilization.
+
+---
+
+### Champion
+
+#### Dwarflaw Ring
+
+Standard Action
+
+_Recharge 16+:_ Bearing this black iron ring means you hold the office of lawspeaker. The laws of the dwarves as strict and unyielding as they are complex and hidebound, and even the stones remember them. While you are in dwarven lands – even if those lands are no longer occupied by the dwarves – you may magically enforce the law. The authority of this ring awakens ancient wards and geases of law graven into the bones of the earth.
+
+When you activate the ring, you must declare yourself as a lawspeaker, and inform your foes what dwarven laws they’ve broken. Dwarven law changes from stronghold to stronghold, so you can invent new laws each time you use the ring, and old ones don’t necessary apply.
+
+For the rest of the battle, whenever you hit a foe for the first time, you may apply one of the following punishments for their crimes:
+
+- +2d8 psychic damage (epic: +5d8)
+- -1 to any one defense for the rest of the fight
+- The stones of the mountains reject them (treat as a terrain
+stunt)
+- Alcohol becomes poisonous to them
+- Curse of beardlessness
+
+The irony of this magic item requiring a lengthy series of
+subclauses and sections is not lost on us.
+
+Oh yeah – if you’ve got one of these rings, you’ll be called
+upon to act as arbiter in all sorts of disputes whenever you visit
+a dwarven community. And if you’re not a dwarf or otherwise
+in good standing with the Dwarf King, don’t even _think_ about
+carrying a _dwarflaw ring_.
+
+**Quirk:** Litigious.
+
+>_Note:_ The Dwarf King claims all treasures pulled from the earth are his. He claims that his law holds sway wherever the dwarves ever ruled. He claims his armies can hold the line against the Orc Lord. Let him make his wild claims. Each one saps his strength, and soon there will be precious little of that left. The old dwarf shall be the first to fall. I have foreseen this. - Arthak, Orc Blood Sorcerer
 
 ---
 
@@ -1377,6 +1571,14 @@ _Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enem
 
 ---
 
+#### Forge-Hot Shield
+
+_Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
+
+**Quirk:** Always uncomfortably chilly, even in the hottest conditions.
+
+---
+
 #### Protection
 
 Enemies engaged with you take a –1 attack penalty against your allies.
@@ -1398,6 +1600,17 @@ _Recharge 6+:_ When you make a basic melee attack, make a recharge roll for one 
 _Recharge 11+:_ When you make a basic melee attack, heal using a recovery.
 
 **Quirk:** Eats an odd vegetarian diet and advocates it loudly.
+
+---
+
+#### Shattered Shield of Dreadful Deeds
+
+_Recharge 11+:_ Most magic items demand to be kept in pristine condition – they’re prima donnas and scabbard queens, refusing to show themselves without being polished, oiled, sharpened and otherwise pampered. The Shattered Shield is the opposite – it looks like a dull, half-broken slab of metal, scarred and scored in a hundred places from a hundred battles. No trace of heraldry or other decoration remains, other than a little dried blood in
+the crevices.
+
+When an attack reduces you to 0 or less hit points, you may activate the shield and immediately roll your Constitution + Level against the enemy’s corresponding Defense to the one of yours targeted by the killing attack (for example, if you were brought down by an attack targeting MD, your retributive strike also targets the enemy’s MD). If you hit, you deal exactly half as much damage (rounding up) to the enemy as the enemy did just did to you.
+
+**Quirk:** Live each day as if it’s your last. After a few weeks, the bearer of the shield rapidly comes to resemble the shield’s haggard, run-down appearance.
 
 ---
 
@@ -1455,6 +1668,26 @@ _Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hamper
 
 ---
 
+#### Staff of Gifts
+
+_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
+
+Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
+
+If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
+
+If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
+
+**Quirk:** A little too generous.
+
+#### Staff of Manipulation
+
+When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
+
+**Quirk:** Expects to be treated with respect.
+
+---
+
 ### Champion
 
 #### Diabolical Staff
@@ -1480,36 +1713,6 @@ When you cast spells that heal or provide temporary hit points, add 4 to the tot
 _Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
 
 **Quirk:** Doesn't like to be touched.
-
----
-
-#### Staff of Gifts
-
-_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
-
-Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
-
-If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
-
-If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
-
-**Quirk:** A little too generous.
-
----
-
-#### Staff of the God's Riches
-
-_Recharge 16+:_ When you cast a cleric spell using this staff, you can cast the spell both _for __power_ and _for__ broad__effect_ (if applicable), choosing different targets.
-
-**Quirk:** Careless with money.
-
----
-
-#### Staff of Manipulation
-
-When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
-
-**Quirk:** Expects to be treated with respect.
 
 ---
 
@@ -1558,6 +1761,18 @@ Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
 ---
 
 ### Adventurer
+
+#### Ancestral Symbol
+
+Quick Action
+
+_Recharge 16+:_ After you hit with a divine spell, or use a healing spell, you may reroll the damage dealt or healing generated. You may take the higher of the two results.
+
+However, you must give thanks to the ancestors when you do so. Specifically, you must always thank one of your close deceased ancestors (usually, a parent or grandparent), and then a number of extra ancestors equal to the escalation die. So, at escalation die 0, you only need to thank the bare minimum. Escalation die 3 means you’ve got to thank your father, and, say, your grandfather, your great grandfather and your great great grandfather.
+
+You don’t have to thank the same ancestors each time – you could start off by thanking your maternal grandmother, then her great-grandmother and her great-great-grandfather and so on. However, any hesitation, deviation or repetition (if two ancestors have the same name, then obviously you must also mention their distinctive bynames) means you have disrespected your ancestors, and you must take the lower of the two rolls for damage or healing. The displeased ancestors will also make their anger known in some other way until you have atoned.
+
+**Quirk:** Keeps detailed genealogical records.
 
 #### Blasphemous Symbol
 
@@ -1699,6 +1914,14 @@ _Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, 
 
 ---
 
+#### Metal Detecting
+
+In addition to improving your arcane spells, this wand allows you to detect concentrations of metal buried underground. It’s not especially precise, but can tell you the rough distance and direction to any nearby deposits of raw (or worked) gold, iron or other metals.
+
+**Quirk:** Obsessively checks wand to see if it’s struck gold.
+
+---
+
 #### Mindbending, Wand of
 
 When you cast an arcane attack spell using this wand, you gain a +1 bonus to attack and damage with that spell if it targets Mental Defense.
@@ -1728,6 +1951,16 @@ _Recharge 6+:_ When a demon is killed by you or one of your allies, you may imme
 _Recharge 16+:_ When you hit an enemy with a spell that targets a single foe, that enemy is also stuck until the end of their next turn. (Champion: You can affect up to three targets)
 
 **Quirk:** Prone to evil mastermind monologues.
+
+---
+
+#### Sturdy
+
+This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic bonus applies to both spell and melee attacks made with the wand (so if it’s a +1 wand, it’s also a +1 weapon). It only takes up one slot (pick which one you want to use), and gets full benefit from any oils or runes applied to it (so, if you boost the item up to a +2 wand with magic oil, it also becomes a +2 weapon).
+
+**Quirk:** Mistrustful of complexity, innovation or sophistry.
+
+>_Note:_ Steel and stone and rune and fire. Gold and dark and blood and fire. Heart and soul and beer and fire. These things make a dwarf. - ancient dwarven song, used to keep time when pumping bellows
 
 ---
 
@@ -1778,6 +2011,16 @@ Melee Weapon
 _Recharge 11+:_ For the rest of the battle, or until it misses with an attack, this weapon may make basic attacks on its own in any turn in which you don’t use it to make an attack. It uses a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy. The sword doesn’t benefit from the escalation die. Remember, you can only attune to one magic weapon at a time – if you have an animated sword, you may not use another magic melee weapon.
 
 **Quirk:** Loves to delegate.
+
+---
+
+#### Ankle-Hewing
+
+Melee Weapon
+
+Giants are vulnerable to the attacks of this weapon.
+
+**Quirk:** Gets touchy about short jokes.
 
 ---
 
@@ -1967,6 +2210,16 @@ When you make a basic attack with this weapon, make a recharge roll for one powe
 
 ---
 
+#### Resounding
+
+Melee Weapon
+
+When you roll a critical hit on one enemy, you may also inflict thunder damage equal to your level to a different nearby foe.
+
+**Quirk:** Half-deaf
+
+---
+
 #### Steady
 
 (Ranged weapon – recharge 11+)
@@ -2034,6 +2287,14 @@ If your elven grace species ability roll failed this turn, use the natural resul
 When you roll a natural even hit with this weapon and have more hit points than the target, that creature is also stunned until the end of its next turn.
 
 **Quirk:** Warns of impending doom.
+
+---
+
+#### Quaking Hammer
+
+This _warhammer_ +2 makes the ground shudder when you get in a good hit with it. If you hit, all nearby enemies take 1 thunder damage for every weapon damage die that rolls its highest possible result. So, if you roll 6d8 for damage, and you roll three 8s, then that’s 3 damage to every nearby foe.
+
+**Quirk:** Terrified of the ocean. You need solid rock under your feet.
 
 ---
 
