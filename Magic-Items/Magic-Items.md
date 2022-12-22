@@ -23,6 +23,12 @@ A target struck by one of these barbed missiles takes a -2 penalty to all saves 
 
 ---
 
+#### Bolt of the Legion
+
+You deal +1d6 damage on a hit. Any allies who make ranged attacks at the same target you just hit also deal +1d6 damage on a hit. This effect ends as soon as an ally misses with a ranged attack, or at the start of your next turn.
+
+---
+
 #### Elf Shot
 
 If you’re attacking from ambush, you get a +5 bonus to your attack roll.
@@ -201,6 +207,14 @@ You gain a +4 bonus to all defenses during your first turn in battle.
 
 ---
 
+#### Inspiring
+
+Any nearby allies may use your hit point total instead of their own to determine if they’re affected by fear. If you’re not scared, they’re not either.
+
+**Quirk:** Roars a battle cry at the start of every fight.
+
+---
+
 #### Iron Will
 
 The default AC bonus applies to Mental Defense as well.
@@ -321,6 +335,14 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 ### Champion
 
+#### Captain’s Armor
+
+At the start of a battle, you may choose to reduce this armor’s bonus to +1 for the rest of the battle and give up to five allies a +1 bonus to their AC, as long as all the chosen allies are wearing non-magical armor.
+
+**Quirk:** Paternal attitude towards allies
+
+---
+
 #### Ether-Combusting
 
 This armor looks like oddly reddish steel, but to the eyes of a creature that exists half in this world and half in the realms between – demons, phase spiders and the like – you look like you’re wearing a blazing pillar of fire that sets the very fabric of reality ablaze wherever you go. Whenever a nearby foe teleports, you automatically blast them for 2d8 fire damage (epic: 4d8).
@@ -392,6 +414,16 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 ---
 
 ### Adventurer
+
+#### Belt of Swift Travel
+
+You can sleep and heal while riding; better yet, any steed you sit upon while wearing this belt does not suffer from fatigue, and needs only a little food and water to keep going indefinitely.
+
+**Quirk:** Only comfortable on a horse.
+
+>_Note:_ Back when the world was young, they made belts of swift travel for the Emperor’s dragon-riders. The dragons still remember them, and honor the sacrifices of their riders. If you find a belt of swift travel that looks very, very old, and if it’s got rings on the hips where straps might go, then maybe you’ve one of those dragon-belts, and you can ask a favor of a dragon of Axis. One favor, in memory of fallen heroes. - Synix Alacostar, Wizard of Horizon
+
+---
 
 #### Blademaster's Belt
 
@@ -658,6 +690,24 @@ _Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a
 
 ---
 
+#### Scroll of Glorious Deeds
+
+When you write the description of an event on the blank scroll, that event becomes famous and is seen as impressive or inspiring, no matter what actually happened. Stories of the deed are on everyone’s lips no matter where you go; bards compose epic sagas immortalizing the deed, and rich merchants try to buy respect by building statues commemorating it.
+
+If the deed was shameful or trivial, then people will still try to find something memorable about it. The magic might cause people to misinterpret what happened, or read unintended meanings into it, or connect it to some unrelated story. So, if Bognor the Barbarian mistakes the chamber pot in the inn for a hat, and you make that deed a glorious one, then perhaps:
+
+- Bognor becomes a fashion icon, and wearing chamber pots as hats is the thing to do at court
+- It’s said that a rich merchant left a fabulous jewel in the chamber pot, and Bognor is now famed for his good luck and sudden wealth
+- Bognor and the chamber pot? Everyone knows that ‘Bognor’ is just a metaphor for the Orc Lord, and the chamber pot is the nickname of a fortress on the border that held off an attack by the orc armies. That chamber pot story is an allegory for heroism and the defense of the realm!
+
+In effect, whatever you write on the scroll becomes a famous feel-good tale. You may scrape the scroll clean and inscribe a new event on it, but that lifts the enchantment from the previous glorious incident.
+
+You may inscribe an event that you weren’t involved in, but you need to be able to describe it in detail and note down everyone who was there.
+
+**Quirk:** Unusually modest and self-effacing.
+
+---
+
 #### Scroll of Unspoken Deeds
 
 Although this scroll is initially blank when discovered, it nonetheless feels stained and sordid, and slightly moist to the touch. Write a description of an event on the scroll, and everyone involved in that event in any way becomes unwilling to speak about it or react to it. They are consumed by feelings of shame, as if whatever happened was vile, unwholesome, unworthy and also their fault.
@@ -785,6 +835,14 @@ You can walk or run normally through terrain that would usually slow one down, s
 Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss (champion: +2d8; epic: +4d10).
 
 **Quirk:** You like to start fights as much as you like to finish them.
+
+---
+
+#### Boots of the Hero’s Footsteps
+
+These travel-worn boots have been all over the Empire, and they remember every step. Sometimes, you’re beset by intense déjà vu, as memories from the boots leak into your mind. This only happens in places where the boots have been before. When it goes, you either get a +4 bonus to a Wisdom skill check related to navigation or finding paths, or a +4 bonus to a Dexterity check to avoid unexpected hazards that the boots have encountered before.
+
+**Quirk:** Your feet instinctively lead you towards the nearest inn.
 
 ---
 
@@ -1025,6 +1083,14 @@ This cloak is usually pale white, but becomes redder and darker as its power gro
 
 ---
 
+#### Purple Mantle
+
+While wearing this fine purple cloak, others instinctively see you as an individual of wealth or influence from the upper echelons of society. In the Dragon Empire, they assume you are in some way noble; other cultures interpret your magically enhanced station differently. The cloak does not give you any automatic bonuses to interactions, but may alter the sort of interactions you experience (the wealthy noble sees you as a peer and holds a feast in your honor; the brigand lurking in the inn sees you as a target and tries to rob you).
+
+**Quirk:** Has trouble holding onto money.
+
+---
+
 #### Recovery
 
 Quick action
@@ -1040,6 +1106,14 @@ _Recharge 16+:_ You heal using a recovery and add +4 hp to the total (champion: 
 This long cloak with a full hood keeps you warm and dry, regardless of the elements, barring full immersion in water or other liquid.
 
 **Quirk:** Prefers the outdoors.
+
+---
+
+#### Spy-Master’s Cape
+
+_Recharge 16+:_ The magic in this dark cape allows you to teleport to any nearby or far away location you can see, but only when you are hidden from the view of all other observers. You may use the cape at the moment of discovery to escape. For example, if you’re trying to hide from a band of orc scouts, and one of them discovers your hiding place, you may teleport as a reaction just before he sees you. Once he looks directly at you, the cloak cannot be activated.
+
+**Quirk:** Ends conversations by leaving abruptly when the other person looks away.
 
 ---
 
@@ -1118,6 +1192,14 @@ These gloves improve your ability to contact, detect, and distinguish supernatur
 _Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus (champion: +15; epic: +20).
 
 **Quirk:** You're quiet. Too quiet. Say something.
+
+---
+
+#### Dragon-Rider’s Gloves
+
+_Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, polearms – anything that qualifies for reach tricks) for the rest of the battle, as long as you’re mounted on a steed of some sort (champion: +2d8; epic: +4d10).
+
+**Quirk:** Condescending.
 
 ---
 
@@ -1314,6 +1396,22 @@ This hat always returns to you. No matter the circumstances, it always finds its
 ---
 
 ### Champion
+
+#### Castlehelm
+
+Standard Action
+
+_Recharge 16+:_ On command, this ornate full helmet expands to the size of a watchtower. The eyeslits are now the size of windows, and can be used as arrow-slits by archers. The face-plate is now a fortified doorway, narrow enough to be held by a single warrior. A hatch in the ‘ceiling’ of the helmet allows access to the ceremonial crest, which is now a walkway some thirty feet above the battlefield, perfect for another archer or spellcaster to rain down destruction.
+
+The castlehelm may only be activated when there is enough space for the helmet to expand (roughly a 30’ x 30’ x 30’ area). Anyone inside that region – usually, anyone nearby the wearer – finds themselves inside the ‘castle’ when it appears. Anyone else ends up outside the instant keep. One or two characters may fight in melee from the narrow doorway of the castle, and up to three may use ranged attacks from the eyeslits and crest.
+
+The growth of the helm is instantaneous and magical – one moment, there’s a normal-sized helmet, and the next, there’s a castle, with no apparent transition, so you can’t, say, squish a foe by trapping them between a wall and the expanding helm. While the helm is in fortress mode, you still get its bonus to MD as long as you’re inside it.
+
+**Quirk:** Egotistical.
+
+>_Note:_ Three days west of Anvil, there’s a giant suit of armor, lying rusting in the mud, all overgrown with bitterweed. I’ve seen it. Some say the helmet’s a castlehelm that got stuck, but where did the rest of the armor come from? Not even the biggest giant is that big… right? - Ljan, Acolyte of the Crusader
+
+---
 
 #### Crown of Brimming Wisdom
 
@@ -1599,6 +1697,14 @@ _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack rol
 
 ---
 
+#### Spellbreaking Ring
+
+_Recharge 11+:_ For a magic ring, this is a hefty chunk of metal, more of a knuckleduster than anything else. If an enemy you’re engaged with draws an opportunity attack by casting a spell, and you hit with that opportunity attack, you may activate the ring to automatically counter the enemy’s spell. If you roll a natural even hit, and the spell has a limited number of uses, then one use is consumed fruitlessly.
+
+**Quirk:** Doesn’t respect personal space.
+
+---
+
 #### Thief's-Eye
 
 While the ring is on your finger, if you shut both eyes and concentrate, you can see through the ring, allowing you to peer around corners and such.
@@ -1698,6 +1804,28 @@ _Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver
 _Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
 
 **Quirk:** Always uncomfortably chilly, even in the hottest conditions.
+
+---
+
+#### Heraldic Shield
+
+Quick Action
+
+_Recharge 16+:_ Your shield bears the heraldic symbol of your family (or that of some other noble knight, if you looted this shield in a dungeon). Either way, you may invoke the aid of that symbol, causing a spirit animal to manifest on the battlefield. This spirit remains until the end of the battle (or until you disgrace your family, causing it to leave in disgust). The benefit provided by the spirit depends on what it is, but here are some ideas.
+
+- Boar: +1d4 damage if you hit someone in the same round you move to engage them (champion: +2d4; epic: +4d6)
+- Eagle: +1 damage to ranged attacks, hit or miss (champion: +3; epic: +6)
+- Dog: Enemies engaged with you have an additional -1 penalty to disengage check. (champion: -2; epic: -3)
+- Unicorn: You may rally a second time in a battle without rolling (champion: once per battle, you can rally on behalf of a nearby ally; you spend the standard action and the recovery, they get the healing; epic: twice per battle)
+- Griffon: Once per battle, when you inflict a critical hit on a foe, you may immediately make a basic attack on a different enemy as a free action. (Champion: twice per battle; epic: three times per battle).
+- Lion: Once per battle, you can roar. You cause fear as though you were a monster with a fear aura until the start of your next turn (champion: you count as being one level higher for the purposes of determining your fear threshold; epic: two levels higher).
+- Wolf: +1d6 damage on opportunity attacks (champion: +2d6; epic: +4d8)
+- Dragon: Once per battle, when you inflict a critical hit on an enemy, you immediately deal 1d6 fire damage to all other engaged enemies (champion: 2d6; epic: 4d8)
+- Snake: Once per battle, when you hit an enemy engaged with you, you may add 5 ongoing poison damage to the damage roll (champion: 10 ongoing; epic: 15 ongoing)
+
+**Quirk:** Family honor is everything.
+
+>_Note:_ I once knew this barbarian. Eight feet tall he was, and nearly as broad across the shoulders, eyes like smoldering coals. He comes out of the north, as barbarians do, and does all the things you’d expect a barbarian of that sort to do. He loots dungeons, slays monsters, sacks cities, seduces princes. The Emperor gives him a castle to keep him quiet, and a noble title to go with it. So, now that he’s a respectable noble, our barbarian goes and gets himself a suit of magic plate armor, and a magic shield to go with it. The shield-maker asks him what the heraldic symbol of his house is, and the barbarian doesn’t know. He thinks about it, and picks the most impressive beast he’s ever seen. KORU! he says, in this deep booming voice like an earthquake. So the shield-maker paints a behemoth on the magic shield. Next time a demon shows up, the barbarian girds his loins, and the rest of him too, and rides out to meet it in battle. He invokes the power of his shield and calls on his heraldic spirit… You can still see the crater. It’s in the shape of a behemoth footprint. Squished him and the demon flat as two pancakes. That’s why, if they ever make me a baron, I’m going to rule under the sigil of something small and very safe. I’m thinking goldfish. You? - Stormcrow Jacen, “Merchant”
 
 ---
 
@@ -1861,6 +1989,14 @@ _Recharge 6+:_ When you use this power, you automatically succeed on a save agai
 ---
 
 ### Epic
+
+#### Axial Staff
+
+The Axial Staff draws its power from the Imperial City it was created in, and grows in strength the closer you are to that great metropolis. The staff gives a +3 bonus to attacks and damage with spells while within 100 miles of the city, +2 within 200 miles, +1 within 400 miles, and has no effect beyond that, or when in the Overworld or Underworld. Oh, it’s a mighty +4 within Axis. You may also add the staff’s bonus to any Charisma skill checks involving invoking law or imperial authority. (For reference: It’s +3 at First Triumph, +2 in Horizon, Glitterhaegen, up in the mountains, and for about half the Kneedeep, and +1 in about another third of the Empire). The downside, beyond your staff diminishing in power the further you go from the capital, is that the Axial Staff connects your spirit to the city. Your maximum recoveries drop by 1 when you’re outside the city, by 2 within 200 miles, by 3 within 400 miles, and by 4 beyond that. If the city’s damaged, you take damage. If it’s beset by plague, you’re sickened. If there’s a famine, you starve no matter how much you eat. And if Axis falls, you die.
+
+**Quirk:** Your moods and health become entwined with those of the city of Axis. When there’s a festival in the city, you’re tipsy. On the days of the gladiatorial games, you get rowdy.
+
+---
 
 #### Staff of the Imperium
 
@@ -2403,6 +2539,16 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 _Recharge 16+:_ When you slay a demon with this weapon, you steal that demon’s random ability and get to use it yourself for the rest of the battle.
 
 **Quirk:** The “quirk” is that there’s a demon spirit temporarily residing in your weapon. Lose control, and the demon’s back in the saddle of your brain.
+
+---
+
+#### Glorious Gladiator’s Blade
+
+Standard Action
+
+_Recharge 16+:_ This weapon is a trophy of the arenas of Axis, handed down from champion to champion. To activate it, the escalation die must be 3+ and you must spend a round showboating for the crowd (even if you don’t have an audience.) While showboating, you may not attack and take a -2 penalty to all Defenses. Furthermore, the other players (and anyone else in the room) must chant your character’s name. The first attack you make in the round after showboating is enhanced by the sword – you may double the to-hit bonus from the escalation die, and add the value of the escalation die to your crit range. So, if the escalation die is 4, you get a +8 bonus to hit and have your crit range increased by +4.
+
+**Quirk:** Craves the adulation of the crowd.
 
 ---
 
