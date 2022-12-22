@@ -133,7 +133,7 @@ Your character's relationship with people, organizations, and entities gives you
 
 At 1st level, each character gets 3 relationship points.
 
-The number of points you invest in a relationship doesn't necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It's not necessarily about how well the they know you or how strong they feel about you. Instead, the points reflect the amount of sacrifices they will make to accommodate, sponsor, and/or worship you.
+The number of points you invest in a relationship doesn't necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It's not necessarily about how well they know you or how strong they feel about you. Instead, the points reflect the amount of sacrifices they will make to accommodate, sponsor, and/or worship you.
 
 ---
 
