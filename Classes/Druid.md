@@ -330,7 +330,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom negative energy damage. Immediately make a recharge roll for a blight druid spell that is “Recharge after battle”.
+**Hit:** 1d8 + Wisdom necrotic damage. Immediately make a recharge roll for a blight druid spell that is “Recharge after battle”.
 
 **Miss:** Damage equal to your level
 
@@ -347,7 +347,7 @@ At-will
 
 Hasten the process of decay by drawing life from that which still lives.
 
-Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, negative energy damage to a nearby enemy.
+Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, necrotic damage to a nearby enemy.
 
 You also gain the Leeching Fingers at-will spell as a bonus spell.
 
@@ -371,7 +371,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom negative energy damage. Heal hit points equal to your level.
+**Hit:** 1d8 + Wisdom necrotic damage. Heal hit points equal to your level.
 
 **Miss:** Damage equal to your level
 
@@ -400,7 +400,7 @@ Daily
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** The target is weakened and takes 10 ongoing negative energy damage (save ends both).
+**Hit:** The target is weakened and takes 10 ongoing necrotic damage (save ends both).
 
 **Miss:** Damage equal to your level
 
@@ -543,7 +543,7 @@ Daily
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 15 ongoing negative energy damage (hard save 16+). If the target’s hit points fall below 60, it starts making last gasp saves (hard save 16+ ends both). When the target fails a save, repeat the attack as a free action against a different nearby enemy. If a target fails the 4th save, it dies. Targets that have successfully saved against the spell are immune to it.
+**Hit:** 15 ongoing necrotic damage (hard save 16+). If the target’s hit points fall below 60, it starts making last gasp saves (hard save 16+ ends both). When the target fails a save, repeat the attack as a free action against a different nearby enemy. If a target fails the 4th save, it dies. Targets that have successfully saved against the spell are immune to it.
 
 **Miss:** 10 damage
 
@@ -626,7 +626,7 @@ _Special:_ Against plant type creatures and water elementals, gain a +2 bonus to
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d12 x 10 + Wisdom negative energy damage
+**Hit:** 1d12 x 10 + Wisdom necrotic damage
 
 **Miss:** The target takes half damage, and you deal 3d8 damage to all allies engaged with it.
 
@@ -656,7 +656,7 @@ Close-quarters spell
 
 Daily
 
-**Effect:** Pop free from all enemies. Until the end of the battle, you create a perimeter around yourself that repels ordinary living creatures. Nearby enemies can try to engage you as a move action, but they must succeed at a normal save to push through the barrier. On a success, they engage you, but take 50 negative energy damage. On a failure, they take no damage, but the engage fails.
+**Effect:** Pop free from all enemies. Until the end of the battle, you create a perimeter around yourself that repels ordinary living creatures. Nearby enemies can try to engage you as a move action, but they must succeed at a normal save to push through the barrier. On a success, they engage you, but take 50 necrotic damage. On a failure, they take no damage, but the engage fails.
 
 _Special:_ Non-living creatures, such as constructs and undead, ignore the effect of this spell.
 
@@ -856,7 +856,7 @@ Your companion has a +1 bonus to attack against staggered enemies.
 
 #### Spirit Companion
 
-As a spirit creature, your companion deals either negative energy or holy damage. You can call it to manifest at your side as a quick action (if it is available this battle). In addition, it gains a number of abilities from the list below, depending on your level of mastery in the circle. Choose one as an initiate, two as an adept and three as a master.
+As a spirit creature, your companion deals either necrotic or radiant damage. You can call it to manifest at your side as a quick action (if it is available this battle). In addition, it gains a number of abilities from the list below, depending on your level of mastery in the circle. Choose one as an initiate, two as an adept and three as a master.
 
 - It gains resist physical damage 12+.
 - The first time in a battle when your companion is reduced below 0 hp by an attack, it can make a hard save (16+) to negate the damage of that attack.
@@ -1610,7 +1610,7 @@ _Koru behemoth:_ Unstoppable. Gain a +1 bonus to saves.
 
 _Mountains:_ Your mind is clear. Gain +1 to MD.
 
-_Plains, overworld:_ Sunrays. When you make an attack, you can change its damage type to holy.
+_Plains, overworld:_ Sunrays. When you make an attack, you can change its damage type to radiant.
 
 _Ruins:_ All things end. Staggered enemies are vulnerable to your attacks.
 
@@ -3616,7 +3616,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom holy damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
+**Hit:** 1d6 + Wisdom radiant damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
 
 **Miss:** Damage equal to your level
 
@@ -3721,7 +3721,7 @@ _A staggered ally:_ Gain a free recovery, but heal half the amount.
 
 _An unconscious ally:_ Gain a +5 bonus to their next death save.
 
-_An enemy:_ Holy damage equal to twice the level of the enemy.
+_An enemy:_ Radiant damage equal to twice the level of the enemy.
 
 ##### Adventurer Feat
 
@@ -3762,7 +3762,7 @@ Daily
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 2d8 + Wisdom holy damage, and a nearby staggered ally heals hit points equal to half the amount.
+**Hit:** 2d8 + Wisdom radiant damage, and a nearby staggered ally heals hit points equal to half the amount.
 
 **Miss:** Damage equal to your level, and a nearby staggered ally heals hit points equal to your level.
 
@@ -3814,7 +3814,7 @@ Once-per-battle
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 3d10 + Wisdom ongoing holy damage
+**Hit:** 3d10 + Wisdom ongoing radiant damage
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3870,12 +3870,12 @@ Quick action
 
 **Target:** You or a nearby ally
 
-**Effect:** The target spends a recovery, and gains temporary hit points equal to the recovery roll +10 instead of healing. Undead creatures, demons and devils engaged with the target take 10 holy damage.
+**Effect:** The target spends a recovery, and gains temporary hit points equal to the recovery roll +10 instead of healing. Undead creatures, demons and devils engaged with the target take 10 radiant damage.
 
 | Higher Level | Effect |
 | --- | --- |
-| 7th | +15 temporary hit points; 15 holy damage |
-| 9th | +25 temporary hit points; 25 holy damage |
+| 7th | +15 temporary hit points; 15 radiant damage |
+| 9th | +25 temporary hit points; 25 radiant damage |
 
 ##### Adventurer Feat
 
@@ -3929,7 +3929,7 @@ Quick action
 
 **Target:** A nearby unconscious ally
 
-**Effect:** Reset the target’s number of failed death saves to zero. They can spend a recovery to heal. Until the end of the battle, the target has resist poison and negative energy 12+. If you are a life adept, increase the resistances to 14+. As a master, increase to 16+.
+**Effect:** Reset the target’s number of failed death saves to zero. They can spend a recovery to heal. Until the end of the battle, the target has resist poison and necrotic 12+. If you are a life adept, increase the resistances to 14+. As a master, increase to 16+.
 
 ##### Epic Feat
 

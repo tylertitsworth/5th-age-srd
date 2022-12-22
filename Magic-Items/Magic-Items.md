@@ -31,7 +31,7 @@ If you’re attacking from ambush, you get a +5 bonus to your attack roll.
 
 #### Energy
 
-This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, holy, lightning, thunder. An attack using this ammunition deals that type of damage.
+This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, radiant, lightning, thunder. An attack using this ammunition deals that type of damage.
 
 ---
 
@@ -2783,7 +2783,7 @@ While the tattoo is on your skin, you have resistance 16+ to a type of damage as
 | 3 | Fire | Red |
 | 4 | Force | White |
 | 5 | Lightning | Yellow |
-| 6 | Negative Energy | Black |
+| 6 | Necrotic | Black |
 | 7 | Poison | Violet |
 | 8 | Psychic | Silver |
 | 9 | Positive Energy | Gold |
@@ -2803,7 +2803,7 @@ While you hold the banner, your melee and ranged attacks and those of all allied
 
 #### Blood Fury Tattoo
 
-Once per battle when you hit a creature with a weapon attack you can deal an extra 4d6 negative energy damage and regain half as much negative energy damage dealt.
+Once per battle when you hit a creature with a weapon attack you can deal an extra 4d6 necrotic damage and regain half as much necrotic damage dealt.
 
 Once per battle when a creature you can see damages you, you can use an interrupt action to make a melee attack against that creature with advantage on your attack roll.
 
@@ -2905,7 +2905,7 @@ This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-li
 
 #### Lifewell Tattoo
 
-You have resist negative energy damage 16+ and once per day if you would be reduced to 0 hit points you drop to 1 hit point instead.
+You have resist necrotic damage 16+ and once per day if you would be reduced to 0 hit points you drop to 1 hit point instead.
 
 ---
 

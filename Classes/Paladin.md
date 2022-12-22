@@ -288,7 +288,7 @@ Also deal the smite extra damage and heal hit points equal to that amount on a m
 
 ##### Death Rune
 
-**Effect:** Increase your critical threat range with Paladin melee attacks by 1, and they deal negative energy damage. When you drop a non-mook enemy to zero hp, deal negative energy damage equal to your Smite bonus damage to another nearby enemy.
+**Effect:** Increase your critical threat range with Paladin melee attacks by 1, and they deal necrotic damage. When you drop a non-mook enemy to zero hp, deal necrotic damage equal to your Smite bonus damage to another nearby enemy.
 
 ###### Epic Feat
 
@@ -368,7 +368,7 @@ Gain a +1 bonus to all defenses against devils and demons.
 
 #### Smite of Interdiction
 
-On a hit, the target takes ongoing holy damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
+On a hit, the target takes ongoing radiant damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
 
 ##### Champion Feat
 
@@ -631,7 +631,7 @@ Enemies you challenge are vulnerable to your attacks.
 
 #### Exalted Challenge
 
-If you use the talent to challenge the target with your Smite Evil attack, the target takes holy damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
+If you use the talent to challenge the target with your Smite Evil attack, the target takes radiant damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
 
 ##### Adventurer Feat
 
@@ -651,7 +651,7 @@ Once per day, you can reroll your relationship advantages check with a heroic or
 
 #### Champion Feat
 
-All of your melee and ranged attacks deal holy damage.
+All of your melee and ranged attacks deal radiant damage.
 
 #### Epic Feat
 
@@ -713,7 +713,7 @@ On a hit, the target has disadvantage on their next attack roll against you.
 
 ##### Adventurer Feat
 
-If the target misses with its next attack, it takes ongoing negative energy damage equal to three times your level.
+If the target misses with its next attack, it takes ongoing necrotic damage equal to three times your level.
 
 ---
 
@@ -813,7 +813,7 @@ The wings granted by your smite power last until the end of your next turn.
 
 ### Chosen of Darkness (8th Level+)
 
-If an enemy targets you with an attack, that enemy takes negative energy damage equal to 10 + your Charisma modifier. The enemy with the most hit points on the battlefield is immune to the effect.
+If an enemy targets you with an attack, that enemy takes necrotic damage equal to 10 + your Charisma modifier. The enemy with the most hit points on the battlefield is immune to the effect.
 
 #### Cleaving Smite
 

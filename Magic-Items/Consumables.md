@@ -97,7 +97,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | **Roll** | **Effect** |
 | --- | --- |
 | 01–20 | +1 additional attack bonus if spell has only one target |
-| 21–40 | Implement gains an energy damage type such as fire, negative energy, etc., and deals +1d4 damage (champion: +2d6; epic: +5d6) |
+| 21–40 | Implement gains an energy damage type such as fire, necrotic, etc., and deals +1d4 damage (champion: +2d6; epic: +5d6) |
 | 41–60 | +1 additional attack bonus with daily spells |
 | 61–80 | +1 additional attack bonus if spell has more than one target |
 | 81–100 | Reroll one missed attack roll with implement |

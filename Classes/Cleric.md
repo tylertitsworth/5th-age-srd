@@ -287,11 +287,11 @@ Once per day, you can use d20s instead of d8s for the bonus damage dice.
 
 ### Domain: Sun/Anti-Undead
 
-Every attack you make deals holy damage instead of other types of damage unless you choose otherwise for a specific attack.
+Every attack you make deals radiant damage instead of other types of damage unless you choose otherwise for a specific attack.
 
 #### Adventurer Feat
 
-If your attack already deals holy damage, it gains the following bonus damage—adventurer tier: +1 damage; champion tier: +2 damage; epic tier: +3 damage.
+If your attack already deals radiant damage, it gains the following bonus damage—adventurer tier: +1 damage; champion tier: +2 damage; epic tier: +3 damage.
 
 #### Champion Feat
 
@@ -414,7 +414,7 @@ At-Will
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom holy damage.
+**Hit:** 1d6 + Wisdom radiant damage.
 
 **Miss:** Damage equal to your level.
 
@@ -472,7 +472,7 @@ Once per battle
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 4d6 + Wisdom holy damage, and your nearby ally with the fewest hit points gains a +4 bonus to AC until the end of your next turn.
+**Hit:** 4d6 + Wisdom radiant damage, and your nearby ally with the fewest hit points gains a +4 bonus to AC until the end of your next turn.
 
 **Miss:** Your nearby ally with the fewest hit points gains a +2 bonus to AC until the end of your next turn.
 
@@ -501,11 +501,11 @@ Daily
 
 **Hit:** The target is dazed until end of your next turn.
 
-**Hit by 4+:** 1d10 x your level holy damage, and the target is dazed until end of your next turn.
+**Hit by 4+:** 1d10 x your level radiant damage, and the target is dazed until end of your next turn.
 
-**Hit by 8+:** Against non-mooks, holy damage equal to half the target's maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level holy damage.
+**Hit by 8+:** Against non-mooks, radiant damage equal to half the target's maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level radiant damage.
 
-**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level holy damage
+**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level radiant damage
 
 | Higher Level | Effect |
 | --- | --- |
@@ -608,9 +608,9 @@ Daily
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 5d10 + Wisdom holy damage.
+**Hit:** 5d10 + Wisdom radiant damage.
 
-**Miss:** Holy damage equal to your level.
+**Miss:** Radiant damage equal to your level.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -684,7 +684,7 @@ Daily
 
 Quick action to cast
 
-**Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes holy damage equal to double your level.
+**Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes radiant damage equal to double your level.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -720,7 +720,7 @@ Daily
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 7d8 + Charisma holy damage.
+**Hit:** 7d8 + Charisma radiant damage.
 
 **Miss:** Half damage.
 

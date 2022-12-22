@@ -49,11 +49,11 @@ Different monsters and characters may be resistant or vulnerable to various type
 - Cold
 - Fire
 - Force
-- Holy
 - Lightning
-- Negative energy
+- Necrotic
 - Poison
 - Psychic
+- Radiant
 - Thunder (sonic energy)
 
 ---
