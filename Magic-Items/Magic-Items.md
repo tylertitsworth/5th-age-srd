@@ -23,6 +23,12 @@ A target struck by one of these barbed missiles takes a -2 penalty to all saves 
 
 ---
 
+#### Elf Shot
+
+If you’re attacking from ambush, you get a +5 bonus to your attack roll.
+
+---
+
 #### Energy
 
 This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, holy, lightning, thunder. An attack using this ammunition deals that type of damage.
@@ -91,6 +97,12 @@ You may cast one of your Close spells onto the missile. When the missile is fire
 
 ---
 
+#### Swift Shot
+
+Once per battle, if you’ve got elven grace, and you get an extra standard action, and you use that standard action to make a ranged attack with this ammo, then the size of the die rolled to determine whether or not your elven grace triggers doesn’t increase. If you’re not playing a wood elf archer, your eyes probably glazed over two clauses back.
+
+---
+
 #### Twin
 
 When you attack with twin ammunition, a second projectile materializes out of the first and targets the same or a different enemy. Make a free action basic ranged attack for it with a +8 attack bonus instead of your normal bonus (champion: +12; epic: +16).
@@ -151,6 +163,18 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 
 ### Adventurer
 
+#### Butterflies
+
+Quick Action
+
+_Recharge 6+:_ Hundreds of brightly colored butterflies cling to this armor, strangely undisturbed by the din of battle or other unpleasant conditions associated with the adventuring life. They sometimes flutter around the wearer. New butterflies sometimes crawl out of joints or gaps in the armor, although there are no chrysalises or hiding places on the inside. It’s just one of those things.
+
+You may send the butterflies off to protect an ally. That ally gains the magical protection of your armor instead of you (the bonus from your armor stacks with theirs). The butterflies return to you at the end of your next turn.
+
+**Quirk:** Fragile sense of self.
+
+---
+
 #### Clever Step
 
 Light Armor
@@ -158,6 +182,14 @@ Light Armor
 You gain a +4 bonus to all defenses against opportunity attacks.
 
 **Quirk:** Likes to dance little jigs.
+
+---
+
+#### Guarded Heart
+
+The AC bonus from your armor applies to your MD as well.
+
+**Quirk:** Mistrustful.
 
 ---
 
@@ -184,14 +216,6 @@ Heavy Armor
 You gain a +4 bonus to AC while you have no recoveries left.
 
 **Quirk:** Has a high pain tolerance.
-
----
-
-#### Of the Guarded Heart
-
-The AC bonus from your armor applies to your MD as well.
-
-**Quirk:** Mistrustful.
 
 ---
 
@@ -251,6 +275,14 @@ The default AC bonus applies to Physical Defense as well.
 
 ---
 
+#### Swift Fury
+
+_Recharge 16+:_ When an enemy crits you in melee, you may immediately take an opportunity attack against that enemy.
+
+**Quirk:** Unsettlingly cheery, especially in the face of danger.
+
+---
+
 #### Thrice-Forged
 
 Heavy Armor
@@ -258,6 +290,14 @@ Heavy Armor
 Raise your critical hit threshold by 1 (champion: by 2; epic: by 3). Your critical hit threshold can’t go above 20, but this armor ameliorates the effects of vulnerability and other conditions that make you more likely to suffer critical hits.
 
 **Quirk:** Praises the craftsmanship and superiority of dwarven goods at every opportunity.
+
+---
+
+#### Unfettered Grace
+
+While wearing this armor, you feel even more agile and limber than you do while wearing normal clothing. You gain a +2 bonus to disengage checks and any skill checks related to gymnastic ability, tumbling or poise.
+
+**Quirk:** Show-off.
 
 ---
 
@@ -369,6 +409,16 @@ _Recharge 6+:_ When you rally, make a basic attack.
 
 ---
 
+#### Dusk and Dawn
+
+_Recharge 6+:_ Heal with a free recovery at the moment of sunset or sunrise.
+
+**Quirk:** Struck by existential angst in the middle of the night.
+
+>_Note:_ Only a fool would rely on the magic of the setting sun. Few monsters are polite enough to wait until two minutes before sunset before attacking so your belt can heal you in the middle of the fight. - Dracerys, dark elf knight
+
+---
+
 #### Giant Health
 
 Like most belts, this increases your maximum recoveries by 1 (champion by 2, epic by 3). In addition, one bonus recovery given by this particular belt is giant-sized – you get to roll d12s instead of your normal recovery dice when you spend it. You choose when you tap this extra-large recovery.
@@ -464,6 +514,14 @@ _Recharge 11+:_ One magical edged or piercing weapon worn on this belt has its c
 You must carry a single magic melee weapon that you keep attached to this item for it to manifest its power. When using that weapon, apply the weapon's magic bonus to miss damage.
 
 **Quirk:** Have a hard time taking no for an answer.
+
+---
+
+#### Woodrunner’s Kilt
+
+While wearing this loose belt, you can run through the branches and treetops as though running on firm and level ground. The belt only allows you to run – if you stop to fight or do anything other than run swiftly, then it provides no benefit and you may fall or be otherwise impeded by the terrain. Running in forests, though, you’ve got covered.
+
+**Quirk:** Restless.
 
 ---
 
@@ -746,6 +804,16 @@ _Recharge 6+:_ When someone intercepts you, stomp on them for 1d8 damage (champi
 
 ---
 
+#### Masterworks of the Cobbler-Sprites
+
+These elegant shoes are always found in absolutely pristine condition, and always are perfectly fitted to the feet of the wearer as if a legion of invisible master cobbler faerie sprites had worked diligently all night. That’s probably because these shoes come with a legion of invisible master-cobbler spirits bound to them. If the shoes are ever damaged or soiled, the cobbler sprites repair them overnight.
+
+Now, if the sprites arrive at night and find the shoes are not in need of repair, then the diligent craft-spirits do not stand idle. Instead, they turn their tiny invisible hands to other jobs that need doing. In game terms, whenever you take a full heal-up, you may specify what act of building, maintenance or service the spirits do for you. They won’t fight, but they could repair part of a damaged castle, clean all your equipment and polish your armor, prepare and serve a seven-course breakfast, or just repair the footwear of anyone else in the party. The spirits are cobblers at heart, and prefer mending shoes to any other tasks. They become vengeful if their masterwork shoes are deliberately destroyed or defaced.
+
+**Quirk:** All other shoes seem to fit very badly.
+
+---
+
 #### Sandals of the Slippery Eel
 
 _Recharge 11+:_ Reroll a failed disengage check.
@@ -779,6 +847,16 @@ _Recharge 16+:_ If you were the last creature to take its turn this round, you p
 _Recharge 6+:_ Until the end of your next turn, you can move normally along a wall or vertical surface as if you were flying.
 
 **Quirk:** Has compulsion to snatch small insects out of the air and pop them into mouth when they think no one is watching.
+
+---
+
+#### Seven League Boots
+
+Move Action
+
+_Recharge 16+:_ These traveling boots allow you to cover huge distances with every stride. In combat, you may move to any point you can see as a single move. This isn’t teleportation – you must disengage, may risk opportunity attacks or be intercepted. Out of combat, the boots let you cover huge distances very quickly. However, skill checks may be required to avoid becoming lost or to dodge hazardous terrain, like tripping on a mountain as you stride across the world.
+
+**Quirk:** You start sleepwalking.
 
 ---
 
@@ -939,6 +1017,14 @@ Dwarven historians weave ornate cloaks of this sort from silver wire and rams-ha
 
 ---
 
+#### Pale Mantle of Suffering
+
+This cloak is usually pale white, but becomes redder and darker as its power grows. You heal 2 hit points (champion: 4; epic: 10) whenever an enemy suffers ongoing damage caused by one of your attacks. Rumors that certain Drow nobles wear pale mantles that are so blooddrenched they appear black as night are quite accurate.
+
+**Quirk:** Delights in the suffering of others.
+
+---
+
 #### Recovery
 
 Quick action
@@ -970,6 +1056,14 @@ _Recharge 16+:_ When an attack against your Physical Defense hits, make the atta
 _Recharge 6+:_ For the rest of this battle, or until you are hit by an attack that targets AC, your cloak’s bonus applies to your AC as well as your PD.
 
 **Quirk:** You move as though carrying a heavy weight.
+
+---
+
+#### Two Worlds Cloak
+
+_Recharge 16+:_ When you teleport, you may bring one extra passenger along with you, wrapped in the voluminous folds of this purple silk cloak.
+
+**Quirk:** Emotional obsession with your extra passenger.
 
 ---
 
@@ -1088,6 +1182,16 @@ _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When
 _Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship die you have with the Crusader (champion: d8; epic: d12).
 
 **Quirk:** Becomes increasingly paranoid about demons.
+
+---
+
+#### Swordmaster’s Gauntlets
+
+_Recharge 6+:_ These lacy silk gloves seize control of the wearer’s hands when placed near a blade. You may make a basic melee attack as a quick action after missing with a Close spell. This extra attack is instead of any miss damage from your missed spell.
+
+**Quirk:** Challenges people to sword duels.
+
+>_Note:_ Trial by combat is a legal defense in most of the Empire. They don’t allow it in Horizon – wizards’ duels are outlawed except in rare circumstances, because, well, fireball. And they don’t allow it in Newport or Glitterhaegen, because they think they’re more civilized there. Most other places, you can find the gods’ truth on the edge of a blade. - Sir Tanteer, paladin of the light
 
 ---
 
@@ -1216,6 +1320,14 @@ This hat always returns to you. No matter the circumstances, it always finds its
 When you fail an Intelligence skill check, you may roll another d20 immediately and add it to your total. The trouble is, if you pass, you start rambling on in a pedantic and absent-minded way for a number of rounds equal to the second d20 roll, as the crown pours more information than you actually needed into your brain and it spills out through your mouth. You can’t do anything else while rambling, although if you’re attacked, you may roll a hard save (16+) to notice, in which case you finish your erudite lecture once the fight concludes.
 
 **Quirk:** Voracious reader.
+
+---
+
+#### Crown of Leaves
+
+Once per level, you may curse another traveler in the woods. The cursed victim is doomed to wander the woods until they perish, or until you release them (or until they’re freed by a powerful entity, or find an alternate way to leave like teleporting). Cursing people is safe enough in the Queen’s Wood – doing so in any of the other major forests may incur the wrath of the local icon or other great powers.
+
+**Quirk:** Sleeps standing up, and sways back and forth gently while sleeping.
 
 ---
 
@@ -1571,6 +1683,16 @@ _Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enem
 
 ---
 
+#### Flowing Silver
+
+Free Action
+
+_Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver. When someone attacking you rolls a natural 1, you may teleport that attacker to anywhere nearby that you can see. You can’t put the attacker into immediate danger (no teleporting foes into lava), but can put them in combat with your allies, or stick them up a tree. If the attacker’s wielding a weapon, then you can choose to just teleport the weapon; the attacker can either let go of its weapon and stay engaged with you, or keep hold of the weapon and get teleported too.
+
+**Quirk:** Vain
+
+---
+
 #### Forge-Hot Shield
 
 _Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
@@ -1659,6 +1781,12 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 ---
 
 ### Adventurer
+
+#### Oakenheart Stave
+
+_Recharge 11+:_ Leaning on this heavy staff for a moment connects you with the living earth and the boundless regenerative energy of the trees. If you do nothing in your turn – no move actions, no attacks or standard action, no quick or free actions, not even rolling any saves – you automatically heal using a recovery.
+
+**Quirk:** You start putting down roots. Emotional ones, to begin with.
 
 #### Spellforce Staff
 
@@ -1857,6 +1985,14 @@ You have a fraudulent aura of religious piety and devotion to the Gods of Light.
 _Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
 
 **Quirk:** Insists on courtesy even in situations where none should be required.
+
+---
+
+#### Wreath of the Ancient Woods
+
+_Recharge 11+:_ A living strand of ivy twines around the holy symbol, linking it to the deep magic of the woodlands. When you cast a divine spell, you may have the spell emanate from any plant you can see. So, if you’re far away from a fighter, but she’s got her back to a tree, you can channel your heal spell through the tree and ‘touch’ her from afar.
+
+**Quirk:** Keeps an elaborate and well-maintained garden.
 
 ---
 
@@ -2426,11 +2562,19 @@ These crystal lenses fit over the eyes. Once per full recovery you can use a sta
 
 ---
 
+#### Hero’s Harp
+
+_Recharge 6+:_ This wooden harp is of use only to bards. When you roll to sustain a song, you may keep the result of the d20 roll and use it for an attack this round.
+
+**Quirk:** Composes heroic ditties about the exploits of the rest of the party.
+
+---
+
 #### [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box)
 
 ---
 
-#### Latern of Revealing
+#### Lantern of Revealing
 
 While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light nearby and dim light far away. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light to next to you.
 
