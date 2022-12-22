@@ -194,9 +194,7 @@ Most skill checks require you to equal or beat a Difficulty Class (DC), set by t
 
 To make a skill check, use this formula:
 
----
-
-#### _D20 + relevant ability modifier + level + relevant skill points_ _Vs._ _DC set by the environment_
+_D20 + relevant ability modifier + level + relevant skill points_ _Vs._ _DC set by the environment_
 
 You can't apply multiple skills to the same check; the skill with the highest (or tied for highest) bonus applies.
 
