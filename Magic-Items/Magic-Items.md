@@ -89,6 +89,12 @@ This ammunition has been enchanted against one of the following groups of monste
 
 ---
 
+#### Quickling Arrow
+
+You can attack during an ambush no matter what your initiative roll was.
+
+---
+
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
@@ -138,6 +144,18 @@ When you hit with an attack using this ammunition, if the target is from the sam
 #### Flaming
 
 Bursts into fire as it flies. You deal 8 extra ongoing fire damage on a hit (epic: 20 ongoing fire).
+
+---
+
+#### Ghost Arrow
+
+This arrow’s damage is force damage, so it can hit wraiths and other pesky resist damage ghosts without any problems.
+
+---
+
+#### Serpent Arrow
+
+On a hit, this arrow also inflicts 5 ongoing poison damage on the target (epic: 15 ongoing poison). On a miss, the arrow falls to the ground and becomes a snake. If the target of the attack does not move away from the snake (or spend an attack killing it), the snake attacks again on the same initiative as the missile attack next round. The snake attacks with +10 vs. AC, and deals 5 ongoing poison damage on a hit. The snake keeps attacking until the target moves away or kills it. (Epic: +15 vs. AC and 15 ongoing poison damage).
 
 ---
 
@@ -209,6 +227,28 @@ You gain a +4 bonus to all defenses against opportunity attacks.
 
 ---
 
+#### Formic Armor
+
+Heavy Armor
+
+As if the antennae on the helmet didn’t give it away, this armor was made by (and from) giant ants. (Don’t worry – they’re cool with you wearing the exoskeleton of their dead relatives. Ants are like that.) You get Acid Resistance 12+.
+
+**Quirk:** Interprets smells as speech.
+
+>_Note:_ Giant ants. Why did it have to be giant ants? - Arthak, orc blood mage.
+
+---
+
+#### Fur Shirt of Vitality
+
+Light Armor
+
+Add the armor’s magic bonus to the total hit points restored when you receive healing from any source (champion: bonus x2; epic: bonus x4).
+
+**Quirk:** Wild and raucous.
+
+---
+
 #### Guarded Heart
 
 The AC bonus from your armor applies to your MD as well.
@@ -270,6 +310,18 @@ Daily
 If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way.
 
 **Quirk:** Repeats stories over and over.
+
+---
+
+#### Rooted Armor
+
+Heavy Armor
+
+Quick Action
+
+_Recharge 6+:_ Roots and tendrils trail from this suit of heavy armor. On command, the armor roots itself to the ground, increasing its AC bonus by +1 but keeping the wearer stuck. Freeing the armor from the ground and ending the stuck condition takes a standard action; the +1 bonus to AC is lost as soon as the wearer becomes unstuck.
+
+**Quirk:** Heavy sleeper.
 
 ---
 
@@ -537,6 +589,18 @@ _Recharge 16+:_ When you activate this kilt, you may walk on walls or steep clif
 
 ---
 
+#### Kilt of Wild Magic
+
+Quick Action
+
+_Recharge 11+:_ Talismans and fetishes of ancient magic hang from this kilt. Sometimes, when the chaotic forces align, the wearer can channel cosmic energy to fuel works of great spellcasting. Of course, there’s also a chance that those chaotic forces can rip the wearer’s soul to shreds. When you cast a spell or use an item, you may activate the kilt and roll a d6. If the result is less than the escalation die, then the recharge roll for that power drops by 5 (so, an item that’s recharge 11+ becomes recharge 6+). Daily spells affected by this item become recharge 16+.
+
+If you roll equal to or higher than the escalation die, then you take damage equal to your level multiplied by the value of the escalation die.
+
+**Quirk:** Reads meaning into patterns, like the flight of birds across the evening sky or the ripples in a windtossed lake.
+
+---
+
 #### Last Word
 
 When you heal using your last remaining recovery, you heal 30 additional hit points (champion 75 hp; epic: 200 hp).
@@ -654,6 +718,14 @@ _Recharge 16+:_ When you roll initiative, gain a +10 bonus to your roll after se
 Exhaustively complete and exhaustingly pedantic, this book purports to record all known rituals, barring a few diabolical ones censored by the compilers. While following the instructions in this book makes ritual casting take much longer (2d4 hours, and you can’t use high arcana to hasten matters along), it can also improve the efficiency of the ritual. Roll a d6; on a 6, then the components used to fuel the ritual aren’t expended, as the book describes a method to tap some other power source.
 
 **Quirk:** Becomes obsessed with pointless ceremony and ritual.
+
+---
+
+#### Herbal Compendium
+
+This isn’t just a book – if you’ve got a copy of the herbal compendium, then you’ve also got bags of dried herbs, gardening tools, dirt under your fingernails and things growing in your hair. You get a +4 bonus to any skill checks relating to herb lore and plant life, and you almost always have a herbal remedy to deal with a problem or free-form challenge. At the very least, you can say what sort of herb could help in the current situation, and you know the regions it’s said to grow in.
+
+**Quirk:** Always grubby.
 
 ---
 
@@ -804,6 +876,20 @@ Be warned, though – if the fallen ally is healed and returns to the fray, it t
 
 ---
 
+#### Palimpsest of the Living Land
+
+_Recharge 11+:_ This collection of philosophical writings, arcane ravings, philosophical dirges and mystical revelation has been handed down from druid to druid over the Ages, with each generation adding to the wisdom of those that have gone before. The writings describe the wild world before the civilizing influences of industry and emperors, before rule-bound magic and petty gods, before roads and farms and cities.
+
+Druids don’t take kindly to outsiders stealing their sacred texts.
+
+When you make an attack roll, after finding out if the attack hits, you may change the attack roll to a value that depends on your surroundings. In a city or other outpost of civilization, it’s 1d6. In a region that’s mostly wild, but is still marked by signs of civilization (roads, farms, stone buildings), it’s 2d6. In the wild woods, deep desert and other regions of pristine wilderness, it’s 3d6. If you’ve recently helped nature reassert itself by destroying those pesky signs of civilization, have another +1d6, or even 2d6 for a really crushing blow to the Empire.
+
+So, theoretically, if some druid was defending the heart of the Wild Wood (a 3d6 region) and had just dealt a terrible injury to the forces of civilization (+2d6), she could reroll a missed attack and substitute 5d6 for a d20 roll.
+
+**Quirk:** Reads messages from the living world in the shape of trees and the colors of the leaves.
+
+---
+
 ### Epic
 
 #### Labyrinthine Grimoire
@@ -908,6 +994,16 @@ _Recharge 11+:_ Reroll a failed disengage check.
 
 ---
 
+#### Shoes of the Doe
+
+Quick Action
+
+_Recharge 6+:_ The wearer of these deerskin moccasins is astoundingly fleet of foot. Out of combat, you can run as fast as a horse, and with similar endurance. In combat, you may activate the shoes to take a bonus move action in a round.
+
+**Quirk:** Easily startled.
+
+---
+
 #### Slayer's Boots
 
 _Recharge 11+:_ When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
@@ -965,6 +1061,18 @@ _Recharge 16+:_ You become invisible until the end of battle, or until you attac
 Out of battle, the slippers work for about five minutes, but the GM gets to pick who can see you and who can’t.
 
 **Quirk:** Speaks in a whisper.
+
+---
+
+#### Verdant Boots
+
+Plants sprout instantly in your footsteps. You can easily be followed when walking – all your pursuer needs to do is look for the wide path of riotous vegetation that springs up in your wake. These books are banned on all Imperial highways and in cities, as one casual stroll can ruin a paved road as trees and plants push up between the stones.
+
+In combat, the growth of plants around your feet hinders your foes. Enemies take a -2 penalty to attempts to disengage from you, as they’ve also got to pull themselves free of the thorn bushes and twining plants you’ve inadvertently caused to grow around you.
+
+**Quirk:** Suffers from hayfever.
+
+>_Note:_ In the village of Hawhedge, the punishment for many crimes is to spend a day walking up and down the fields in the “Boots of Justice”. They’re a pair of verdant boots, only with a ball and chain attached to each boot. The ball’s hollow and pierced with lots of little holes, and the villagers fill it with seeds of whatever plants they want to grow that day. - Synix Alacostar, Wizard of Horizon
 
 ---
 
@@ -1037,6 +1145,23 @@ Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
 _Recharge 6+:_ When an attack or effect deals ongoing damage to you that a save ends, you can roll an immediate save against it.
 
 **Quirk:** Doesn't notice social slights or insults.
+
+---
+
+#### Animal-Shape
+
+Standard Action
+
+_Recharge 11+:_ There are several different types of cloak, each of which allows you to take on the shape of a particular animal. The same rules apply to all of them.
+
+- Changing shape into an animal is a standard action. Changing back by taking off the cloak is a quick action.
+- You automatically change back if you’re knocked unconscious, fall asleep, or suffer a critical hit.
+- Some cloaks allow you to fight in animal form, but you use the stats for a ranger’s animal companion of two levels lower than your actual level (minimum 0), and you don’t add the escalation die to your attacks. On the bright side, you get to use your own hit points.
+- You can’t cast spells, use items or speak while in animal form. You can communicate through gestures and adorable animal interpretive dances.
+
+The cloak resembles the sort of animal you can turn into – so, a bearskin cloak might let you become a bear, a wolfskin cloak lets you turn into a wolf. A shimmery, filmy, scaly cape lets you become a salmon. Classic animal shapes include: bear, wolf, bat, cat, squirrel, seal, fish or bird. The Champion tier version of this cloak lets you take on the form of any common animal.
+
+**Quirk:** Take on traits of the animal you become. (champion: Values animals above other people of your kind.)
 
 ---
 
@@ -1303,6 +1428,34 @@ These heavy gauntlets carry in them the spirit of the mightiest giants. Their po
 
 ---
 
+#### Hand of Winter
+
+Quick Action
+
+_Recharge 11+:_ It’s debatable if there’s one relic called the hand of winter that recurs in different forms, or if each one’s as distinct as one winter is from next year’s. To obtain the hand of winter, you need to find the current bearer (or their corpse) and touch their frozen, icy-blue hand. If they willingly pass on the curse of the hand (or they’re dead), then your own hand freezes solid and becomes living ice, while their hand unfreezes and rots instantly, as frostbite devours it completely. So, now that you’ve got an icy hand, what does it do for you? Your melee attacks and damaging spells can do cold damage instead of whatever damage they normally deal if you wish. You inflict additional cold damage equal to twice your level when you punch or touch someone. All those effects are automatic and passive – you don’t need to activate the hand for those.
+
+You may activate it to:
+
+- add +5d10 cold damage to any one attack (if the attack has more than one target, then split the d10s among them before rolling – you could do an extra d10 to five different enemies, or hit two foes, one for 3d10 and the other for 2d10).
+- allow yourself or any nearby ally to automatically succeed at a save against ongoing cold damage.
+- change the weather in the local area. You can call up winter storms, blanket the land in a blizzard, or pick up and drag winter away to let spring in. You don’t have any fine control, so you can’t use this power as a direct attack.
+- Do epic, hand-wavey narrative things because you’ve got a season on the end of your arm.
+
+Once you’ve got the hand, you’re stuck with it until you perish or you willingly allow someone to take it from you. Technically, your hand is indestructible, but that’s something of a moot point, as the rest of your body is still mortal. If you try to, say, catch the fiery breath of the Red, your hand will survive but the rest of you will be frosted ash on the wind.
+
+Depending on the whims of the GM, the following may be true:
+
+- You have to physically drag the season of winter down from the north each year, and pull it back up when it’s time for spring
+- You’re doomed to freeze the hearts of anyone you love
+- You get to shape giant snow castles and rule an ice-bound empire with your frozen fist
+- You’re an honorary blood sibling of the Front Giant Jarl. Or his mortal enemy. Or both.
+
+**Quirk:** Depressed.
+
+>_Note:_ Hand of winter, breath of spring, Heart of summer, shadow’s fall, Seasons stop and old trees sing; When the Druid finds them all - Children’s rhyme in Eld
+
+---
+
 #### Jeweled Glove
 
 _Recharge 6+:_ When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
@@ -1384,6 +1537,16 @@ _Recharge 16+:_ Increase your Initiative by 4.
 Your words are magically audible by any one creature you can see, as if you were standing next to them whispering into their ear. Their replies are not magically enhanced, so they can only answer if you could normally hear their words. You may change target freely, but can only whisper to one person per round.
 
 **Quirk:** Gossips like a fishwife on the Shadowport docks.
+
+---
+
+#### Hat of Birds
+
+_Recharge 11+:_ A colony of birds nest in this now-shapeless pile of fabric scraps that claims to be a hat. The birds consider you to be the supreme being, and devoutly perform basic tasks for you like scouting ahead, carrying messages or foraging for insects. While the birds are smart, they’re not supernaturally intelligent, so their scouting is limited to reports of “danger that way, no danger this way”, where “danger” means “animals or humanoids”.
+
+Protective druidic blessings tie the birds to your life force; as long as you’re alive, they’ll be ok even when the fireballs start flying.
+
+**Quirk:** Drawn to rooftops and open spaces. Also, insects are surprisingly tasty and a good source of protein.
 
 ---
 
@@ -1825,11 +1988,23 @@ _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack rol
 
 ---
 
-#### Spellbreaking Ring
+#### Spellbreaking
 
 _Recharge 11+:_ For a magic ring, this is a hefty chunk of metal, more of a knuckleduster than anything else. If an enemy you’re engaged with draws an opportunity attack by casting a spell, and you hit with that opportunity attack, you may activate the ring to automatically counter the enemy’s spell. If you roll a natural even hit, and the spell has a limited number of uses, then one use is consumed fruitlessly.
 
 **Quirk:** Doesn’t respect personal space.
+
+---
+
+#### The Cycle, Ring of
+
+When a nearby ally fails a death or last gasp save, you may cancel this failure, keeping them alive. However, each time you do this, you must pick another nearby ally to ‘lose’ a death save. If that second ally gets knocked to negative hit points and has to make death saves, then they die after one fewer death save than normal. (Usually, you die after four failed death saves; if someone’s used the ring of the cycle on you once, you die after three.)
+
+The ring of the cycle cannot be used to preserve someone who has lost a death save to the ring.
+
+Death saves ‘reset’ when a character levels. You can’t use the ring of the cycle on yourself, either to save yourself or to sacrifice your own life force to save others. Druids have to stand outside the cycle of life.
+
+**Quirk:** Unaccountably merry in the presence of death.
 
 ---
 
@@ -1959,6 +2134,14 @@ _Recharge 16+:_ Your shield bears the heraldic symbol of your family (or that of
 **Quirk:** Family honor is everything.
 
 >_Note:_ I once knew this barbarian. Eight feet tall he was, and nearly as broad across the shoulders, eyes like smoldering coals. He comes out of the north, as barbarians do, and does all the things you’d expect a barbarian of that sort to do. He loots dungeons, slays monsters, sacks cities, seduces princes. The Emperor gives him a castle to keep him quiet, and a noble title to go with it. So, now that he’s a respectable noble, our barbarian goes and gets himself a suit of magic plate armor, and a magic shield to go with it. The shield-maker asks him what the heraldic symbol of his house is, and the barbarian doesn’t know. He thinks about it, and picks the most impressive beast he’s ever seen. KORU! he says, in this deep booming voice like an earthquake. So the shield-maker paints a behemoth on the magic shield. Next time a demon shows up, the barbarian girds his loins, and the rest of him too, and rides out to meet it in battle. He invokes the power of his shield and calls on his heraldic spirit… You can still see the crater. It’s in the shape of a behemoth footprint. Squished him and the demon flat as two pancakes. That’s why, if they ever make me a baron, I’m going to rule under the sigil of something small and very safe. I’m thinking goldfish. You? - Stormcrow Jacen, “Merchant”
+
+---
+
+#### Ironhide Shield
+
+_Recharge 6+:_ It may be nothing more than animal-hide stretched over a crude wooden frame, but the primitive druidic markings daubed onto the face of this shield make it indestructible. When an enemy attack you in melee combat, use the shield to inflict damage equal to the natural attack roll on the attacker as their blow smashes into the surprisingly immovable surface of the unyielding shield.
+
+**Quirk:** Loves to provoke a fight.
 
 ---
 
@@ -2141,6 +2324,16 @@ The Axial Staff draws its power from the Imperial City it was created in, and gr
 
 ---
 
+#### Heartwood Staff
+
+Standard Action
+
+_Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald blaze when its power is invoked, as it opens a direct connection to some primal source of druidic power. Pick a number of allies equal to the value of the escalation die and roll a d20 for each of them; on a 16+, that ally gets to take an extra standard action in their next turn. The threshold for extra actions drops to 13+ if the ally has a positive relationship with an Archdruid. You might also be able to use this staff’s wellspring of life energy to cause rapid growth of plants or animals, to change the seasons, heal a wounded forest, or otherwise meddle with the fundamental forces. You’ve got nigh-infinite life force on tap through the staff – use it wisely.
+
+**Quirk:** As you can’t target yourself with the staff, you feel old and jealous when you lend youth and vitality to others.
+
+---
+
 #### Staff of the Imperium
 
 Standard action
@@ -2269,6 +2462,16 @@ You have a fraudulent aura of religious piety and devotion to the Gods of Light.
 
 ---
 
+#### Sickle of Culling
+
+Quick Action
+
+_Recharge 11+:_ For the rest of the battle, all your attacks deal 5 extra damage (champion: 10 extra damage) when targeting mooks.
+
+**Quirk:** Callous.
+
+---
+
 #### The Gods and Goddesses, Gem of
 
 _Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
@@ -2310,6 +2513,14 @@ This rune-covered bronze dagger also works as a wand. When you cast an arcane at
 _Recharge 16+:_ Activate this wand immediately after rolling damage for a daily spell that hit. That spell never happened and is not expended. Gain a free action to cast an at-will spell instead. Everyone on the battlefield is somewhat alarmed by the fact that the blazing ball of fire suddenly vanished, but that’s wizards for you.
 
 **Quirk:** Prone to sudden bursts of rage over trivial problems.
+
+---
+
+#### Dowsing, Wand of
+
+In addition to providing the usual bonus to arcane spells and damage, this wand of rowan-wood can also point on command towards the nearest concentration of elemental power (bodies of water, volcanoes, druidic circles – the raw, wild magic of the natural world). The wand does not reveal what sort of elemental power it’s pointing towards, only the rough strength and distance.
+
+**Quirk:** Wild and lurid dreams.
 
 ---
 
@@ -2663,6 +2874,20 @@ Before rolling a ranged attack with this weapon, choose 10 as the natural roll f
 
 ---
 
+#### Thunderbolts, Of
+
+_Recharge 11+:_ At the start of a battle, roll a d6 (champion: 2d6; epic 3d6). When the escalation die equals the value rolled on the d6, a bolt of lightning shoots from the sky and charges your weapon with crackling energy; for that round, any hits you inflict with your weapon deal an extra 2d10 lightning damage.
+
+If you’re using a champion- or epic-tier weapon of thunderbolts, then there’s a chance that two or more bolts will land in the same round; in that case, the damage stacks.
+
+As the lightning bolt needs a clear path from the sky to your upraised weapon, this item doesn’t function indoors or underground.
+
+**Quirk:** Bombastic speech.
+
+>_Note:_ I don’t believe it myself, but this lizard I know swears that the Blue Lady up in Drakkenhall bewitched a druid, and he made her one of those thunderbolt weapons. You know what charges a weapon a lot better than a bolt of lighting from the sky? The unfettered breath of the Blue, that’s what. When that hammer’s charged up, they say it could knock the head off a manticore with one swing. Of course, for some of the things that crawl out of the Iron Sea, we’re going to need a bigger hammer. - Stormcrow Jacen, “Merchant”
+
+---
+
 #### Unstinting Virtue
 
 (Melee weapon – recharge 11+)
@@ -2700,6 +2925,16 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 _Recharge 16+:_ When you slay a demon with this weapon, you steal that demon’s random ability and get to use it yourself for the rest of the battle.
 
 **Quirk:** The “quirk” is that there’s a demon spirit temporarily residing in your weapon. Lose control, and the demon’s back in the saddle of your brain.
+
+---
+
+#### Bow of the North Wind
+
++2 longbow
+
+_Recharge 11+:_ When you hit with this bow, you start to fly, carried aloft by a howling gale of icy winds. You keep flying as long as you keep making successful ranged attacks with the bow. If you ever miss or don’t make an attack, you land at the start of your next turn.
+
+**Quirk:** Haunted by frost-spirits.
 
 ---
 
@@ -2797,6 +3032,18 @@ None.
 
 ---
 
+#### Bag of Storms
+
+Standard Action
+
+_Recharge 11+:_ The walls of this leather bag creak and stretch as it struggles the storm trapped inside. You may loosen the drawstring of the bag to let out a bolt of lighting. This counts as casting a ranged spell. The bolt attacks using your Dexterity + Level vs. PD, targets up to three nearby enemies in a roughly straight line, and inflicts 2d6 lightning damage (champion: 4d6; epic: 10d6). If you roll a natural 1, roll a d20. On another natural 1, you let the storm out, as detailed below.
+
+Alternatively, you may open the bag entirely and let the storm free. This destroys the bag of storms, but unleashes a titanic, once-acentury storm on the region, centered on you. The effects of the storm are more story-based than anything else, but the ghastly weather conditions make any sort of fighting almost impossible. All anyone can do is seek shelter from the howling winds, crashing thunder and torrential rain. Any sort of ranged attacks, flight, spellcasting or travel is ill-advised for the next several hours.
+
+**Quirk:** Moody
+
+---
+
 #### Lesser Barrier Tattoo
 
 While you aren't wearing armor, your base AC is 12.
@@ -2807,15 +3054,11 @@ While you aren't wearing armor, your base AC is 12.
 
 This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has flight. It can carry up to 400 pounds, but moves slowly when carrying over 200 pounds and grants a -2 to AC. The broom stops hovering when you land.
 
-**Quirk:** Petulant, Snarky, and most certainly does not like heavy loads. Will happily drop it's user from the sky when it's bristles get burned.
-
 ---
 
 #### Decanter of Endless Water
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use a standard action to call forth anything from stream of fresh water or salt water to a geyser of gushing water that knocks an enemy prone if they don't succeed on an 11+ skill check.
-
-**Quirk:** Runs out of water after producing about 30 gallons. Cannot produce a geyser if recently emptied.
 
 ---
 
@@ -2823,15 +3066,11 @@ This stoppered flask sloshes when shaken, as if it contains water. The decanter 
 
 This small sphere of thick glass weighs 1 pound. While you are nearby it you can speak its command word and cause it to emanate daylight. You can speak another command word as a standard action to make the globe rise into the air and float above the ground. The globe follows you and stays nearby and if it can't stay nearby it sinks gently to the ground, becomes inactive, and its light winks out.
 
-**Quirk:** The intensity of the light is determined by its mood, can be disheartened easily.
-
 ---
 
 #### Dwarven Mug
 
 One in four mugs of ale you drink from this mug will be magically transformed into the very finest non-magical dwarven ale. If your relationship with the mug is good, the variety might even suit your current mood and the odds of getting a good brew might improve in your favor. But really, who's going to complain about putting down a second, or even third, mug for the chance to get a taste of the best stuff? When that excellent ale does show up, you can share a sip or two with a friend, but other attempts to capitalize on this mug's magic will just shut it down until it can find a more suitable owner.
-
-**Quirk:** Speaks in dwarven, especially while drunk, even if ordinarily unable to speak dwarven.
 
 ---
 
@@ -2930,8 +3169,6 @@ This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-li
 #### Badge of the Watchers
 
 A _Badge of the Waters_ is given only to those who have earned a place among the _Watchers_. While wearing the badge, you gain a +2 bonus to AC if you aren't using a shield.
-
-**Quirk:** The badge is vigilant in its quest to protect the weak and seek justice.
 
 ---
 
