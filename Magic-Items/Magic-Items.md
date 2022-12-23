@@ -3703,7 +3703,7 @@ The item has a recharge roll like normal magic items, but it's easier to recharg
 
 ### Chitin Claw
 
-(ring)
+Ring
 
 This fleshy multi-eyed loop sheaths a finger in sharp carapace. _Always:_ When you pick a lock, disarm a trap, or otherwise perform a task that having a tiny shape-changing blade and tiny eyes attached to your finger would be aided by, you gain a +2 bonus to the roll. _Quirk:_ Gnarled over-long fingers on that hand.
 
@@ -3711,7 +3711,7 @@ This fleshy multi-eyed loop sheaths a finger in sharp carapace. _Always:_ When y
 
 ### Chuul Helm
 
-(helm)
+Helm
 
 This insectile segmented helm is lined with ganglia that link with your brain. _Always:_ +1 MD (adventurer); +2 MD (champion); +MD (epic). _Chuulish recharge:_ You gain _resist psychic 12+_ until the end of the battle (champion: _resist psychic 16+_; epic: _resist psychic 18+_). _Quirk:_ Bone-ridged holes in skull.
 
@@ -3719,7 +3719,7 @@ This insectile segmented helm is lined with ganglia that link with your brain. _
 
 ### Chuulish Cuirass
 
-(heavy armor)
+Heavy Armor
 
 The many eyes and symbiotic nervous system in this torso armor give you warning of danger. _Always:_ +1 AC (adventurer); +2 AC (champion); +3 AC (epic). _Chuulish recharge:_ You gain a +4 bonus to all defenses against ranged attacks until the end of the battle. _Quirk:_ Over-large protruding ribs.
 
@@ -3727,7 +3727,7 @@ The many eyes and symbiotic nervous system in this torso armor give you warning 
 
 ### Clawed Tentacles
 
-(gloves)
+Gloves
 
 These claw-covered tentacles normally reside under the skin of the forearm, completely concealed. _Chuulish recharge:_ Choose an enemy engaged with you. Until the end of the battle, whenever that enemy tries to disengage from you or pop free from you, it must first succeed at an easy save (champion: normal save; epic: hard save). _Quirk:_ Tentacles writhe in and out of the skin unexpectedly.
 
@@ -3735,7 +3735,7 @@ These claw-covered tentacles normally reside under the skin of the forearm, comp
 
 ### Death Claw
 
-(gloves)
+Gloves
 
 A lobster-clawed gauntlet that fits over your forearm. The eyes at the fleshy joints blink unnervingly. _Chuulish recharge:_ Reroll a missed melee attack with a +1 attack bonus (champion: +2; epic: +3). _Quirk:_ The claw flexes and snaps reflexively when wearer is excited.
 
@@ -3743,7 +3743,7 @@ A lobster-clawed gauntlet that fits over your forearm. The eyes at the fleshy jo
 
 ### Evil Eyes
 
-(gloves)
+Gloves
 
 This gauntlet has eyes on the knuckles, aiding archers and spellcasters. _Always:_ Bonus to attacks and damage with ranged attacks: +1 (adventurer); +2 (champion); +3 (epic). The bonus doesn't stack with bonuses from magic weapons or implements. _Chuulish recharge:_ Until the end of the battle or for five minutes, you can see the unseen. Invisible creatures are visible to you, and you spot illusions for what they are. _Quirk:_ Bone ridges and oddly patterned callouses on the arms.
 
@@ -3751,7 +3751,7 @@ This gauntlet has eyes on the knuckles, aiding archers and spellcasters. _Always
 
 ### Glandular Parasite
 
-(cloak/mantle
+Cloak/Mantle
 
 The parasite sits along your spine, feeding off your life force but also dampening your reactions to extreme stimuli and pain. _Always:_ +1 PD (adventurer); +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ You are immune to fear effects until the end of the battle or for five minutes. _Quirk:_ Strangely pronounced spine.
 
@@ -3759,7 +3759,7 @@ The parasite sits along your spine, feeding off your life force but also dampeni
 
 ### Implanted Aventail
 
-(light armor)
+Light Armor
 
 The symbiote is normally hidden. When commanded, a wave of small crab-like creatures pours out of concealed gill-like openings in your skin, providing you with scale-like armor. _Always:_ +1 AC (adventurer); +2 AC (champion); +3 AC (epic). Unleashing the armor is a quick action, and you retain the AC bonuses as long as it is in place. When the insects are retracted as a move action, you don't appear to be (or count as) wearing armor. _Quirk:_ Gill-like slits cover body even when the armor is not up.
 
@@ -3767,7 +3767,7 @@ The symbiote is normally hidden. When commanded, a wave of small crab-like creat
 
 ### Neural Blade
 
-(any bladed weapon)
+Any Bladed Weapon
 
 A boney blade with a spine and brain. _Always:_ Bonus to attacks and damage: +1 (adventurer); +2 (champion); +3 (epic); and the weapon deals psychic damage. _Chuulish recharge:_ Choose a nearby enemy. That enemy is now vulnerable to psychic damage until the end of the battle. _Quirk:_ Large sphincters on arm where the ganglia-tentacles from the blade's hilt insert themselves.
 
@@ -3775,7 +3775,7 @@ A boney blade with a spine and brain. _Always:_ Bonus to attacks and damage: +1 
 
 ### Neural Whip
 
-(light one-handed melee weapon)
+Light One-handed Melee Weapon
 
 A tentacle snakes one end around your arm, inserting filaments beneath the skin. The whip stretches and flexes at your mental command, the tip studded with hardened pulsing nerves. _Always:_ Bonus to attacks and damage: +1 (adventurer); +2 (champion); +3 (epic). _2/battle:_ You can use a [reach trick](../General-Rules/Feats.md#reach-tricks) with the whip, and the attack deals psychic damage. _Quirk:_ Grows eyes in unusual places.
 
@@ -3783,7 +3783,7 @@ A tentacle snakes one end around your arm, inserting filaments beneath the skin.
 
 ### Rachis Girdle
 
-(belt)
+Belt
 
 The pulsating band of chuul-flesh inside a bony cage sits on your lower back, exchanging blood and injecting substances into your organs. _Always:_ Increase your maximum hp by +4 (champion: +10 hp; epic: +25 hp). Whenever you take ongoing damage, reduce that damage by your level. _Quirk:_ Odd gait from reconfigured pelvis.
 
@@ -3791,7 +3791,7 @@ The pulsating band of chuul-flesh inside a bony cage sits on your lower back, ex
 
 ### Rasping Greaves
 
-(boots)
+Boots
 
 A carapace covers each of your legs and has an unblinking armored eye on the knee. Unfolding blade-like appendages whip out at those engaged with you. _Always:_ When you make an opportunity attack, the target takes +1d6 extra damage on a hit (champion: +2d8; epic: +4d10). _Quirk:_ A billow-like lung inside each greave makes a breathing sound.
 
@@ -3799,7 +3799,9 @@ A carapace covers each of your legs and has an unblinking armored eye on the kne
 
 ### Strider Symbiote
 
-(cloak/mantle – champion tier item)
+Cloak/Mantle
+
+Champion Tier Item
 
 This living "backpack" clings to you with tentacles and inserts mouthparts into the top of your spine. The segmented limbs of the strider usually lie flat against your body but may be commanded to spring out and carry you like a long-legged spider. _Always:_ +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ Until the end of the battle or for five minutes, you can move on walls or ceilings as easily as you do across the ground. (epic: chuulish recharge starts at 11+) _Quirk:_ Twitching antenna.
 
@@ -3807,7 +3809,7 @@ This living "backpack" clings to you with tentacles and inserts mouthparts into 
 
 ### Xenoteros
 
-(cloak/mantle)
+Cloak/Mantle
 
 Insectile wings hide in slits under the always itching skin of your back. _Always:_ +1 PD (adventurer); +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ As a standard action, you can fly clumsily for one round (champion: 1d3 + 1 rounds; epic: 2d4 rounds). _Quirk:_ Insectile mouthparts grow at the back of the throat and squiggle out when wearer talks excitedly.
 
@@ -3835,7 +3837,7 @@ Players will often find cursed items such as these when approaching a Shadow Dra
 
 #### Dancing Shoes
 
-(boots)
+Boots
 
 Shiny red shoes with golden wings. _Always:_ The shoes force you to dance whenever you hear music (even off-key whistling will work). The shoes magically re-appear on your feet if taken off for more than 10 minutes. _Recharge 6+:_ You gain a +3 bonus to disengage checks until the end of the battle (or five minutes).
 
@@ -3843,7 +3845,7 @@ Shiny red shoes with golden wings. _Always:_ The shoes force you to dance whenev
 
 #### Disappointment Hat
 
-(hat)
+Hat
 
 Green conical hat. _Always:_ Each time you cast a spell outside of combat or a spell is cast near you, it has some side effect (GM's choice) that inconveniences you. _Recharge 6+:_ As a move action you pull out an item from the hat. Roll a d6 to see what you get: 1–2: You get a useless or disgusting item. 3–6: You pull a useful non-magical item that grants a +d6 bonus to your next skill check until the end of your next turn.
 
@@ -3851,7 +3853,7 @@ Green conical hat. _Always:_ Each time you cast a spell outside of combat or a s
 
 #### Girdle of Gender Switching
 
-(belt)
+Belt
 
 Wide leather belt with acorn designs. _Always:_ Increase your total recoveries by one, but your gender is switched. Removing the belt reverses the effect but it teleports back onto you if removed for more than 10 minutes. In addition, minor shifts in weight distribution throw your balance off, and you take a –1 penalty with melee attacks during your first battle each day.
 
@@ -3859,7 +3861,7 @@ Wide leather belt with acorn designs. _Always:_ Increase your total recoveries b
 
 #### Tome of Misfortune
 
-(implement)
+Implement
 
 Book with an embossed face inside its cover. _1/day:_ Regain one expended daily spell that you have cast. When you cast the recovered spell, roll a d6. 1–3: The book chooses the targets for the spell and can consider you and your allies as enemies, or your enemies as allies. 4–6: You choose targets normally.
 
@@ -3867,7 +3869,7 @@ Book with an embossed face inside its cover. _1/day:_ Regain one expended daily 
 
 #### Treasured Chest
 
-(wondrous item)
+Wondrous Item
 
 It follows you on little feet, obeys you, and is much larger on the inside (able to hold the same amount of stuff as a large closet). _Always:_ You can't move faster than the chest, and the chest is slow. You travel at half speed everywhere and can't use actions to move twice during a turn in battle.
 
@@ -3877,7 +3879,7 @@ It follows you on little feet, obeys you, and is much larger on the inside (able
 
 #### Acrobat's Stick
 
-(staff)
+Staff
 
 A glowing rod that expands into a longer pole. _Always:_ Bonus to attacks and damage: +2 (adventurer). In addition, if you are a rogue with the _swashbuckle_ ability, you gain an extra use of that ability, but whenever you roll a natural 1 or 2 with any d20 roll, the staff flings you into danger (you take 2d6 damage and possibly provoke opportunity attacks in battle).
 
@@ -3885,7 +3887,7 @@ A glowing rod that expands into a longer pole. _Always:_ Bonus to attacks and da
 
 #### Anger Armor
 
-(heavy armor)
+Heavy Armor
 
 Platemail or similar with leering faces on the pauldrons. _Always:_ +2 AC (adventurer). In addition, when you miss with an attack and the escalation die is odd, roll a save; on a failure, you are enraged until the start of your next turn and take a –4 penalty to all defenses.
 
@@ -3893,7 +3895,7 @@ Platemail or similar with leering faces on the pauldrons. _Always:_ +2 AC (adven
 
 #### Backbiter Bow
 
-(bow)
+Bow
 
 Gold bow with no string. It creates a glowing string and "energy arrows." _Always:_ Bonus to attacks and damage: +2 (adventurer). In addition, when you miss with an attack and the escalation die is odd, roll a save; on a failure, you instead hit yourself with the attack.
 
@@ -3901,7 +3903,7 @@ Gold bow with no string. It creates a glowing string and "energy arrows." _Alway
 
 #### Blade of Unerring Panache
 
-(+2 weapon)
++2 Weapon
 
 When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic: 25 hp).
 
@@ -3911,7 +3913,7 @@ When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic:
 
 #### Sword of Relentless Glory
 
-(+2 weapon)
++2 Weapon
 
 If you don't make a melee attack with this weapon during your turn, it shuts down and its default bonus becomes +0 until the end of the battle.
 
@@ -3921,7 +3923,7 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 
 #### Wand of the Bloodless Mage
 
-(+2 implement)
++2 Implement
 
 When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
 
@@ -3937,7 +3939,7 @@ Any adventurer cursed item bumped up, or…
 
 #### Axe of Bloody Vengeance
 
-(+3 weapon)
++3 Weapon
 
 You cannot rally during a battle.
 
@@ -3947,7 +3949,7 @@ You cannot rally during a battle.
 
 #### Bait Breastplate
 
-(any armor)
+Any Armor
 
 Thick metal plate cuirass that attracts ranged attacks and spells even as it deflects melee attacks. _Always:_ +3 AC (champion) against melee attacks, but –1 AC against ranged attacks.
 
@@ -3955,7 +3957,7 @@ Thick metal plate cuirass that attracts ranged attacks and spells even as it def
 
 #### Brazen Armor
 
-(+3 armor)
++3 Armor
 
 When an attack against your AC crits you, the armor "goes quiet" and its default bonus becomes +0 until the end of the battle.
 
@@ -3965,7 +3967,7 @@ When an attack against your AC crits you, the armor "goes quiet" and its default
 
 #### Cudgel of Heedlessness
 
-(heavy two-handed melee weapon)
+Heavy Two-handed Melee Weapon
 
 A strangely glowing crude wooden club. _Always:_ Bonus to attacks and damage: +3 (champion). In addition, when you roll a natural 1 with a melee attack using this weapon, you hit a random nearby ally with that attack and deal maximum damage. If you try to use a different weapon, the cudgel will teleport into your hand.
 
@@ -3973,7 +3975,7 @@ A strangely glowing crude wooden club. _Always:_ Bonus to attacks and damage: +3
 
 #### Ring of Delusion
 
-(ring)
+Ring
 
 Ring made out of complex interlocking wooden pieces. _Always:_ Whenever there are two possible explanations and one is obviously ridiculous, that is what you believe provided there is no obvious and direct proof that contradicts your delusion. In addition, you gain +3 bonus to checks to find traps and see through illusions.
 
@@ -3987,7 +3989,7 @@ Any lower item bumped up, or…
 
 #### Chicken Shield
 
-(shield)
+Shield
 
 A fancy cavalier's shield. _Always:_ +35 hp (epic). In addition, when you miss with an attack and the escalation die is odd, roll a save; on a failure, you run away from that enemy as far as you can go (no disengage check, take opportunity attacks).
 
@@ -3995,7 +3997,7 @@ A fancy cavalier's shield. _Always:_ +35 hp (epic). In addition, when you miss w
 
 #### Danger Bracers
 
-(light armor)
+Light Armor
 
 Chains welded into forearm armor. _Always:_ +4 AC (epic). In addition, you can't disengage from enemies.
 
@@ -4003,7 +4005,7 @@ Chains welded into forearm armor. _Always:_ +4 AC (epic). In addition, you can't
 
 #### Procrastination Tome
 
-(implement)
+Implement
 
 This book contains instructions for being a better spellcaster. _Always:_ Bonus to spell attacks and damage: +5 (epic). In addition, during the first round of each battle you must spend all your actions either moving or "limbering up." This means not using any abilities, you're just jogging and stretching.
 
@@ -4011,7 +4013,7 @@ This book contains instructions for being a better spellcaster. _Always:_ Bonus 
 
 #### Great Low Sickle
 
-(+5 weapon)
++5 Weapon
 
 You deal +5 damage with missed attacks, but all of your defenses take a –3 penalty.
 
@@ -4019,6 +4021,6 @@ You deal +5 damage with missed attacks, but all of your defenses take a –3 pen
 
 #### Staff of Dark Karma
 
-(3/day)
+3/Day
 
 When you hit with a spell attack, deal extra damage to one target. If the spell targets one enemy, deal +4d10 damage. Otherwise, deal +2d10 damage. In addition, the first time you take damage each battle, you lose 20 hp.
