@@ -23,6 +23,12 @@ Arrows and bolts with this property have the skulls of rats, snakes or other ver
 
 ---
 
+#### Barbed Arrow of Disruption
+
+An enemy hit with this arrow stops counting as an ally to its allies, so it cannot benefit from group abilities, bard songs and similar abilities. A hard save (16+) at the end of your turn ends this disruption.
+
+---
+
 #### Bitter
 
 A target struck by one of these barbed missiles takes a -2 penalty to all saves until the end of their next turn.
@@ -251,6 +257,14 @@ You gain a +4 bonus to all defenses against opportunity attacks.
 
 ---
 
+#### Dragonhide Shirt
+
+This shirt gives resistance 12+ against either fire, lightning, acid, cold or poison, depending on whether the dragon whose hide you’re wearing was red, blue, black, white, green, brass, bronze, copper, silver, or gold. Wearing a dragonhide shirt gives a -4 penalty to any Charisma skill checks when trying to negotiate or placate a dragon.
+
+**Quirk:** You can only get comfortable when lying on coins and jewels.
+
+---
+
 #### Formic Armor
 
 Heavy Armor
@@ -346,6 +360,14 @@ Quick Action
 _Recharge 6+:_ Roots and tendrils trail from this suit of heavy armor. On command, the armor roots itself to the ground, increasing its AC bonus by +1 but keeping the wearer stuck. Freeing the armor from the ground and ending the stuck condition takes a standard action; the +1 bonus to AC is lost as soon as the wearer becomes unstuck.
 
 **Quirk:** Heavy sleeper.
+
+---
+
+#### Scars
+
+This ‘armor’ consists of magical brands and scars that strengthen your flesh until it becomes as tough as iron. You gain the bonus to AC even when naked, and this armor cannot be removed. You may wear other armor over it, but magic bonuses to AC don’t stack – use the best one. The armor of scars only takes up a slot if it’s the most powerful magic armor you’re wearing.
+
+**Quirk:** Stoic in the face of pain.
 
 ---
 
@@ -531,6 +553,16 @@ _Recharge 11+:_ This simple leather belt allows you to automatically succeed at 
 
 ---
 
+#### Belt of Skulls
+
+Quick Action
+
+_Recharge 16+:_ This belt is empty when found. Once per level, when you defeat a foe whose level is higher than yours, you may mount that foe’s head on your belt as a trophy. (The belt’s magic shrinks the head to fit.) You may activate the belt when you make an attack; instead of rolling the dice, your natural attack roll is equal to 5 + the number of skulls on the belt. Large monsters count as two skulls; huge monsters count as three skulls (so, theoretically, you could get a natural attack roll of 35 if you have 10 huge skulls on your belt.) You may not swap out skulls – you must stick with your original trophies.
+
+**Quirk:** Haunted by ghostly voices from the skulls.
+
+---
+
 #### Belt of Swift Travel
 
 You can sleep and heal while riding; better yet, any steed you sit upon while wearing this belt does not suffer from fatigue, and needs only a little food and water to keep going indefinitely.
@@ -689,6 +721,14 @@ _Recharge 6+:_ You are drawn to prey on the weak and the dying. When you use the
 
 ---
 
+#### Taskmaster’s Belt
+
+_Recharge 6+:_ This ugly iron belt is of benefit only when partnered with a magic weapon that deals extra dice of damage when a particular condition is met. Activating the belt lets you ignore your weapon’s condition for one attack.
+
+**Quirk:** Intolerant of the failings of others.
+
+---
+
 #### Victory by Inches
 
 You must carry a single magic melee weapon that you keep attached to this item for it to manifest its power. When using that weapon, apply the weapon's magic bonus to miss damage.
@@ -793,18 +833,6 @@ You gain a +1 bonus to all skill checks based on Str, Con, or Dex.
 
 ---
 
-#### Pillow Book of Unspoken Dreams
-
-This slim book, bound in delicate cloth, looks like the sort of novel or collection of moral stories that might be read by a young noble of Axis or Glitterhaegen. The book always tells the story of an exiled prince (or princess) named Regret, and the tale always begins with young Regret awakening on the shore of the Midland Sea after a shipwreck. The story then relates how Regret obtained his or her heart’s desires – and these desires are always the secret, unspoken desires of the reader. In effect, the book records and reflects the unspoken dreams of the reader, describing exactly what they truly want (even things they are unwilling or unable to admit to themselves). So, in one version of the story, Regret might seek out fortune; in another fame; in another, Regret might discover he really, really wants to murder his brothers and claim his mother’s throne; in yet another, Regret might want to ensure that no-one ever, ever finds out she’s a secret spy for the Lich King.
-
-The only person who is immune to the book’s effects (other than exceedingly strong-willed entities, or those who have somehow conquered, eliminated or already achieved all they desire) is the book’s owner. When the owner reads the book, they can read the innermost desires of the last person to read it.
-
-So, you want to persuade the local duke to help you? Get him to read this book, then get it back and read it. Assuming none of the duke’s servants took a peek, you’ll find the tale of Regret echoes the duke’s desires.
-
-**Quirk:** Become convinced that you are, in fact, Regret, and be consumed with the desires currently described in the book.
-
----
-
 #### Scroll of Darkness
 
 This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is only a few pages long, but you find yourself reading it again and again, and each reading brings new insights into the nature of life and death. As long as you possess the scroll, you have a3-point skill related to knowledge of evil deific figures.
@@ -845,44 +873,6 @@ Quirk: Always in constant motion, or swaying gently when still.
 _Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a hit, dealing your ranged basic attack damage with the attack instead.
 
 **Quirk:** Sings snatches of nonsense.
-
----
-
-#### Scroll of Glorious Deeds
-
-When you write the description of an event on the blank scroll, that event becomes famous and is seen as impressive or inspiring, no matter what actually happened. Stories of the deed are on everyone’s lips no matter where you go; bards compose epic sagas immortalizing the deed, and rich merchants try to buy respect by building statues commemorating it.
-
-If the deed was shameful or trivial, then people will still try to find something memorable about it. The magic might cause people to misinterpret what happened, or read unintended meanings into it, or connect it to some unrelated story. So, if Bognor the Barbarian mistakes the chamber pot in the inn for a hat, and you make that deed a glorious one, then perhaps:
-
-- Bognor becomes a fashion icon, and wearing chamber pots as hats is the thing to do at court
-- It’s said that a rich merchant left a fabulous jewel in the chamber pot, and Bognor is now famed for his good luck and sudden wealth
-- Bognor and the chamber pot? Everyone knows that ‘Bognor’ is just a metaphor for the Orc Lord, and the chamber pot is the nickname of a fortress on the border that held off an attack by the orc armies. That chamber pot story is an allegory for heroism and the defense of the realm!
-
-In effect, whatever you write on the scroll becomes a famous feel-good tale. You may scrape the scroll clean and inscribe a new event on it, but that lifts the enchantment from the previous glorious incident.
-
-You may inscribe an event that you weren’t involved in, but you need to be able to describe it in detail and note down everyone who was there.
-
-**Quirk:** Unusually modest and self-effacing.
-
----
-
-#### Scroll of Unspoken Deeds
-
-Although this scroll is initially blank when discovered, it nonetheless feels stained and sordid, and slightly moist to the touch. Write a description of an event on the scroll, and everyone involved in that event in any way becomes unwilling to speak about it or react to it. They are consumed by feelings of shame, as if whatever happened was vile, unwholesome, unworthy and also their fault.
-
-For example, if you wrote ‘we stole the treasure hoard of Galdhirix the Dragon’ on the scroll, then Galdhirix would be consumed with embarrassment at having his treasure hoard stolen. The dragon might still try to recover the hoard, but would never dare mention it to another dragon, or even a minion. Your fellow party members would also be afflicted, although how they deal with their feelings of guilt is up to them.
-
-If you wrote ‘I was caught spying on the Elf Queen’s Ambassador in Newport’, then the Ambassador would leap to the conclusion that reporting your misdeed would implicate him in someone treasonous or illicit, and that the best thing to do is never mention the incident to anyone ever again.
-
-As bearer of the scroll, you’re immune to shame. We just mean magical shame, but if you’re the sort of person who appreciates items like this, then you’ve probably got normal shame covered yourself.
-
-You may scrape the scroll clean and inscribe a new event on it, but that lifts the enchantment from the previous shameful incident.
-
-You may inscribe an event that you weren’t involved in, but you need to be able to describe it in detail and note down everyone who was there.
-
-**Quirk:** Delights in needling people and reminding them of things they’d prefer to leave unspoken.
-
->_Note:_ I sometimes think that all the events of my life are written on one of those scrolls. - Erach, crazed preacher of the Crusader
 
 ---
 
@@ -1015,6 +1005,16 @@ Whenever you move to engage a foe first and then make a melee attack against it 
 These travel-worn boots have been all over the Empire, and they remember every step. Sometimes, you’re beset by intense déjà vu, as memories from the boots leak into your mind. This only happens in places where the boots have been before. When it goes, you either get a +4 bonus to a Wisdom skill check related to navigation or finding paths, or a +4 bonus to a Dexterity check to avoid unexpected hazards that the boots have encountered before.
 
 **Quirk:** Your feet instinctively lead you towards the nearest inn.
+
+---
+
+#### Clawed Boots
+
+Move Action
+
+_Recharge 11+:_ The lion-fur that lines these boots conceals magical bone claws that sprout from their ankles. You may leap upon a foe of equal or greater size while wearing these boots; when you do so, the claws dig in and keep you attached to that enemy. The enemy has a -2 penalty to attempts to disengage or pop you free, and if the enemy does disengage by any means, your boots inflict 1d10 damage on it automatically (champion: 2d10; epic: 4d10).
+
+**Quirk:** Likes high places and elevated positions.
 
 ---
 
@@ -1336,6 +1336,16 @@ Undead creatures take a -2 penalty to their attacks against you if they are also
 
 ---
 
+#### Mantle of the Warlord
+
+Quick Action
+
+_Recharge 6+:_ When fighting alongside allies that don’t normally get to add the escalation die to their attacks (summoned monsters, ranger’s pets, druids in animal form, most NPCs, those suffering from fear), you may choose at the start of your turn to give up the bonus from the escalation die until the start of your next turn. If you do so, all nearby allies who could not otherwise do so may add the escalation die to their attack rolls.
+
+**Quirk:** Shouts like a drill sergeant.
+
+---
+
 #### Pale Mantle of Suffering
 
 This cloak is usually pale white, but becomes redder and darker as its power grows. You heal 2 hit points (champion: 4; epic: 10) whenever an enemy suffers ongoing damage caused by one of your attacks. Rumors that certain Drow nobles wear pale mantles that are so blooddrenched they appear black as night are quite accurate.
@@ -1359,6 +1369,14 @@ Quick action
 _Recharge 16+:_ You heal using a recovery and add +4 hp to the total (champion: +10 hp; epic: +25 hp).
 
 **Quirk:** You grow small extra appendages that slowly wither away over days or weeks.
+
+---
+
+#### Scout’s Cloak
+
+Gives +2 to attempts to hide in darkened areas, or at night. You may share this bonus with up to two other nearby allies.
+
+**Quirk:** Paranoid.
 
 ---
 
@@ -1403,6 +1421,14 @@ _Recharge 16+:_ When you teleport, you may bring one extra passenger along with 
 ---
 
 ### Champion
+
+#### Cloak of Escape
+
+_Recharge 11+:_ The wearer seems to almost vanish in the billowing black folds of this overlarge garment. When included in the list of targets for an attack that strikes multiple targets, if there is at least one nearby ally who is a valid target for that spell but is not already targeted by it, you may use the cloak of escape to force the attacker to choose another target instead of you. For example, if an enemy casts a spell that targets two nearby creatures, and there are two other player characters nearby, you may use the cloak to ensure the spell attacks the two of them instead of you.
+
+**Quirk:** Gregarious.
+
+---
 
 #### Guardian
 
@@ -1500,6 +1526,14 @@ _Recharge 11+:_ Should anyone else touch your gloved hand, they receive a moment
 
 ---
 
+#### Gauntlets of Maiming
+
+_Recharge 16+:_ These nasty, spiked gauntlets are invariably caked with blood and gore, no matter how much you scrub them. When you inflict a critical hit that does not kill your opponent, you may describe how your attack is especially painful, and may involve chopping off limbs or skewering organs. The GM might even let this hamper or daze your enemy, or give a penalty to a particular special attack (“_how’s that manticore going to make a tail spikes attack now that I’ve cut off his tail!_”)
+
+**Quirk:** Squeamish and gentle outside of combat.
+
+---
+
 #### Gloves of Mind Rot
 
 _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
@@ -1513,6 +1547,14 @@ _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +
 _Recharge 6+:_ When you hit an enemy with a melee attack, you momentarily disrupt anything that stops people from seeing that foe as they truly are. So, if the enemy’s shapeshifted, or invisible, or cloaked in an illusion, or has charmed people into believing a lie, they see the truth for a brief time. The enemy’s deceits reassert themselves at the start of the enemy’s next turn.
 
 **Quirk:** Paranoid.
+
+---
+
+#### Gloves of the Low Blow
+
+_Recharge 6+:_ Sparks and tendrils of chaotic magical energy crawl around these gloves, like coiled snakes waiting for the moment to strike. When you make a melee or ranged attack on a foe that’s vulnerable to a particular type of damage (like vulnerable to fire or vulnerable to holy), then the gloves magically make your attack do that sort of damage.
+
+**Quirk:** Refuses to admit pain or weakness.
 
 ---
 
@@ -1602,6 +1644,18 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 ---
 
+### Champion
+
+#### Siege Engine Mitts
+
+Standard Action
+
+_Recharge 11+:_ When you throw a stone from these heavy leather gloves, the magic of the mitts imbues it with as much weight and force as a boulder hurled from a big siege catapult. You may make a basic ranged attack by throwing a pebble, but your projectile also inflicts lots of collateral damage on the surrounding scenery. You can smash down castle walls, break down doors, collapse ceilings or tear huge holes in the ground by flinging a tiny piece of rock.
+
+**Quirk:** Loves ball games, especially ones that involve knocking down targets.
+
+---
+
 ## Helmet, Crown, Diadem, Circlet
 
 ### Default Bonus
@@ -1661,6 +1715,22 @@ _Recharge 6+:_ When you heal using a recovery, add the escalation die’s value 
 _Recharge 11+:_ When an enemy misses you with an attack against your AC or PD, change that miss into a fumble (no damage or possibly a negative outcome).
 
 **Quirk:** Easily moved to dancing by rhythmic music, and taps foot when there is no music.
+
+---
+
+#### Helm of Infamy
+
+Helmets of this type are always distinctive in design – maybe yours has horns, or is made to look like a snarling beast, or has a noticeable crest or is painted an unusual color. Anyway, it’s immediately recognizable. When you defeat a group of enemies who are all of the same type (all goblins for example, or, all elves, or all zombies, or all serving the same master), then as long as you let one of them survive to spread your legend, then your attacks deal an extra +1d4 damage against all creatures of the same type who have heard your legend. At the adventurer tier, that generally means ‘in the same tribe, clan or army, or living in the same dungeon’.
+
+The helmet only affects one type of foe at a time. If you’re the infamous bane of the goblins of the Hag Caves, the helmet has no effect on other creatures in the Hag Caves who aren’t goblins (or goblins from outside the Hag Caves).
+
+The champion-tier version of the helm ups the damage to +1d6, and your legend spreads to a whole region. You might be feared by every spider in Spiderwood, or every lizard man in the Fangs, or every demon in the Red Wastes.
+
+The epic-tier helm of infamy increases the damage to +1d8, and you strike terror into the hearts of your chosen prey across the world. Even foes of that type who have never heard of you are instinctively scared of your dreadful visage.
+
+You can change the type of foe affected by the helmet, but you must win a significant victory against that type of foe to build a new infamous reputation before you get the bonus. Your previous victims breathe a sigh of relief that their cultural bogeyman has moved on to a new set of targets, and are no longer terrified of you.
+
+**Quirk:** Enjoys intimidating people.
 
 ---
 
@@ -1908,6 +1978,14 @@ _Recharge 6+:_ Once per battle, you may attempt to curse a nearby enemy with you
 
 ---
 
+#### Spirit Fetish
+
+This leather bag binds and constrains a spirit of some sort. Choose the type of spirit when you gain the item. The spirit tugs on your soul, giving you a +1 bonus to saves in certain situations. For example, a spirit of fire gives you a +1 bonus to saves against cold-based attacks. A spirit of battle might help you make saves against effects that stop you fighting and killing, but wouldn’t care about confusion as long as you’re still hitting people.
+
+**Quirk:** Depends on the spirit.
+
+---
+
 #### Stone of Preservation
 
 If you fail all your available death saves (as opposed to being dismembered, or being turned to stone, or dying in some other ghastly way), you enter into a coma instead of dying. Your body becomes rigid as stone, and most external examiners assume you are dead. You can be restored to life by a suitably potent effect (healing ritual, magical rejuvenation, really excellent dwarven beer), or after several months of slumber. If the stone of preservation is removed while you’re in a coma, you perish instantly.
@@ -1932,6 +2010,22 @@ _Recharge 6+:_ This band of aquamarine and pearls enables you to breathe water f
 
 ---
 
+### Champion
+
+#### Spirit Channeling
+
+_Recharge 16+:_ This potent talisman lets you call on powerful elemental spirits. To use it, you must touch a magic item whose powers are expended and so is in need of a recharge. By placing a powerful spirit in the item, you automatically recharge it and it can be used again in this battle. However, the super-charged item now permanently counts as two items rather than one for the purposes of determining how many magic items you can safely carry (but not for how many times you can use it – you’re trading a once-off recharge for a permanent downside).
+
+You can repeatedly recharge an item using this talisman, but each time you add one to the ‘item count’ of the charged device.
+
+A kind GM might let you infuse yourself or an ally with a spirit, allowing immediate recharge of a power. A cruel GM will definitely let you stick wild elemental spirits into your fellow PCs. Sure, recharge that power. Take another hit. What could go wrong with welding elemental spirits to the souls of your friends?
+
+Oh, if you try recharging a spirit channeling talisman with itself, it explodes and becomes a howling gate to the spirit realm.
+
+**Quirk:** Eager to be helpful.
+
+---
+
 ## Rings
 
 ### Default Bonus
@@ -1941,6 +2035,16 @@ None.
 ---
 
 ### Adventurer
+
+#### Bloody Swathe
+
+Quick Action
+
+_Recharge 6+:_ The huge ruby in this ring glows hungrily when you call on its power. Activate the ring when you defeat three or more foes with a single attack. After the battle, you may apply the number of foes dropped with that single attack as a bonus to any recharge rolls made after this combat.
+
+**Quirk:** Battle-hungry.
+
+---
 
 #### Cheap Shot
 
@@ -2298,6 +2402,14 @@ When you successfully intercept an enemy, your shield inflicts your normal miss 
 
 ---
 
+#### Warleader’s Shield
+
+Nominate two allies at the start of battle. Their maximum (and current) hit points are raised by 2 (champion: 5; epic: 13) until the end of the battle.
+
+**Quirk:** Considers possessions to be held in common among members of the party.
+
+---
+
 #### Watchful Eye
 
 The living eyeball mounted in the boss of this round shield watches vigilantly for hidden foes and dangers. You gain a +4 bonus to skill checks to avoid being ambushed or surprised. In combat, the eye seems to look pleadingly at any foe who’s strong enough to shatter your shield, as if hoping to be released from its unnatural state.
@@ -2305,6 +2417,16 @@ The living eyeball mounted in the boss of this round shield watches vigilantly f
 **Quirk:** Always watching people. You sleep with your eyes open.
 
 >_Note:_ Hey, I know that… eye. -Grunbolt, dwarven adventurer
+
+---
+
+### Champion
+
+#### Crashing Thunder
+
+_Recharge 16+:_ When an enemy makes a melee attack on you, you may inflict thunder damage on all engaged creatures (both enemies and allies) equal to the natural attack roll.
+
+**Quirk:** Hard of hearing.
 
 ---
 
@@ -2434,6 +2556,14 @@ _Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald
 
 ---
 
+#### Spellbane Staff
+
+Standard Action
+
+_Recharge 11+:_ This staff was originally a simple tree-branch used as a walking-stick, but now it groans beneath the weight of hundreds of magical talismans, wands, holy symbols and other arcane tokens taken from defeated spellcasters. When you activate the staff, you gain the [counter-magic spell](../Classes/Wizard.md#counter-magic) and may use it any number of times per battle, until you miss with it or cast a spell that isn’t counter-magic. You also deal 3d6 psychic damage when you hit with counter-magic. Quirk: Collects trophies from the defeated.
+
+---
+
 #### Staff of the Imperium
 
 Standard action
@@ -2533,6 +2663,14 @@ _Recharge 11+:_ The gods are often distant and uncaring; it is the deeds of hero
 The symbol’s especially attuned to fallen player characters. If a PC died earlier in the campaign, you can call on their spirit to get a bonus based on their tier when they died. Adventurer PCs give a +1, champions give +2, epic-tier PCs give a +3. The PC has to be dead (or at least dying) for you to call on their spirit – you can’t invoke the spirit of a character who later got resurrected.
 
 **Quirk:** Encourages others to take risks.
+
+---
+
+#### Fanatic’s Symbol
+
+The sight of this symbol spurs those who see it to greater acts of devotion to their cause. Anyone nearby feels more devoted to their chosen faith or creed, becoming more willing to commit perilous or bloody deeds, and less willing to compromise or tolerate the ways of others.
+
+**Quirk:** Sees the hand of the gods everywhere.
 
 ---
 
@@ -2697,6 +2835,14 @@ _Recharge 16+:_ This wand turns any attack spell that targets a randomly determi
 _Recharge 6+:_ When a demon is killed by you or one of your allies, you may immediately make a free attack (Intelligence + Level vs. MD) against up to 1d3 creatures summoned by that demon. If you hit, the summoned creature is instantly banished. This only works on creatures summoned using the demon’s random demon powers, like gate – it won’t work on demons called in other ways.
 
 **Quirk:** Dismissive.
+
+---
+
+#### Rushlight Wand
+
+_Recharge 6+:_ When you hit a target with a ranged spell, you may cause that creature to glow from within for the rest of the battle with a bright light, as if their blood had caught fire. This glow makes it very difficult for the target to hide (-4 penalty to attempts to hide), and even invisible creatures shed some light (miss chances are halved).
+
+**Quirk:** Likes to make things burn.
 
 ---
 
@@ -2903,6 +3049,16 @@ When you hit with an attack using this weapon, if that enemy is the most dangero
 _Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
 
 **Quirk:** It’s a talkative ghost. Or maybe it just screams in your ear all the time. Either way, you’re the only one who can see or hear it.
+
+---
+
+#### Hungry
+
+Any Weapon
+
+You deal +1d6 damage with this weapon on all hits after the first time you hit with it in a round (champion: +2d6; epic +4d6). So, opportunity attacks, cleaves or extra attacks from powers like haste or hack & slash can trigger this weapon’s bonus damage.
+
+**Quirk:** Short attention span.
 
 ---
 
@@ -3132,6 +3288,18 @@ _Recharge 16+:_ When you slay a foe with this weapon, that enemy does not die im
 
 ---
 
+#### World-Rending Axe
+
++2 Greataxe
+
+Quick Action
+
+_Recharge 16+:_ This massive two-handed axe never needs sharpening, as its edge is already keen enough to cut through the fabric of reality. When you inflict a critical hit, you may teleport to any nearby location you can see by slicing a hole in the world and stepping through it. This ability lasts for the rest of the battle.
+
+**Quirk:** Feels alive only in battle.
+
+---
+
 ### Epic
 
 #### Greatsword of Utter Night
@@ -3151,6 +3319,20 @@ _Recharge 6+:_ When you hit with this weapon, you spirit away that enemy and you
 Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The GM determines just how broadly the term "dragon" applies.
 
 **Quirk:** Speaks in Draconic, first just curses, but then more and more elements of speech.
+
+---
+
+#### Sword of Ruin
+
++3 Greatsword
+
+The sword of ruin is the bane of kings and the unraveller of empires. If it’s used to kill someone with authority over or ownership of a domain of any kind, it curses that domain. Armies lose their courage; castle walls lose their strength; places of magic lose their power; people lose their faith and even the land loses its vitality and becomes desolate and barren.
+
+For example, if the sword of ruin killed the Imperial Governor of a seaport, then that town’s walls might crumble. Its defenders might lose heart, its ships might sink or its fishing fleets might find the seas unaccountably empty. The precise manifestation of the sword’s curse varies, but it always brings ruin and destruction. Any domain, no matter how large or small, is vulnerable to ruin. If it killed a peasant, it blight only that peasant’s field and leave the rest of the farmland nearby untouched. If it killed the Emperor… well, that would be one way to end a campaign.
+
+The sword of ruin only works if it kills with a critical hit or a coup de grace.
+
+**Quirk:** Hates to be given orders.
 
 ---
 
@@ -3205,6 +3387,27 @@ This wooden broom, which weighs 3 pounds, functions like a mundane broom until y
 #### Decanter of Endless Water
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds. You can use a standard action to call forth anything from stream of fresh water or salt water to a geyser of gushing water that knocks an enemy prone if they don't succeed on an 11+ skill check.
+
+---
+
+#### Dice of Fate
+
+_Recharge 16+:_ Before a battle, you may cast the dice to affect your fortunes. Roll all three dice. Pick one of them and keep it – during the battle, you have a number of +1 bonuses equal to the value on the die that you can apply to your d20 rolls or the d20s rolls of your allies. So, if you take a 5, you’ve got 5 +1 fate bonuses that you can use on any roll. You have to apply the fate bonus before you roll, and you can only use one of these fate bonuses on a roll.
+
+The GM picks the second die. This second die works the same way, but the GM gets to give those fate bonuses to your enemies in the battle.
+
+The value of the third die, the one neither side picked, warps the skein of destiny in the battle. Consult the table below for inspiration.
+
+| d6 | Result | Effect |
+| --- | --- | --- |
+| 1 | Unchanged Fate | Nothing weird happens. |
+| 2 | Two paths diverge | You’ll be faced with a terrible choice during or soon after the battle. |
+| 3 | A third side | There’s another faction at work here, beyond the enemies you know about, and they’ll show their hand soon. |
+| 4 | Death | This battle will have lasting and terrible consequences. Don’t count on being able to flee. |
+| 5 | The elements in turmoil | The weather or some other elemental force is going to play a major role in this battle. |
+| 6 | Wild Chaos unleashed | GM’s whim. |
+
+**Quirk:** Can’t resist a wager.
 
 ---
 
