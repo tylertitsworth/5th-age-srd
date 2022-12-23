@@ -815,7 +815,9 @@ This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is on
 
 #### Scroll of the Fortuitous Outlook
 
-(Quick action – once per battle)
+Quick Action
+
+Once per Battle
 
 Make a recharge roll for a recharge power you expended this turn (including a magic item power) If successful, you regain that power this turn.
 
@@ -1656,9 +1658,7 @@ _Recharge 6+:_ When you heal using a recovery, add the escalation die’s value 
 
 #### Helm of Fortunate Dodging
 
-(Recharge 11+, and see below)
-
-When an enemy misses you with an attack against your AC or PD, change that miss into a fumble (no damage or possibly a negative outcome).
+_Recharge 11+:_ When an enemy misses you with an attack against your AC or PD, change that miss into a fumble (no damage or possibly a negative outcome).
 
 **Quirk:** Easily moved to dancing by rhythmic music, and taps foot when there is no music.
 
@@ -1700,7 +1700,7 @@ _Recharge 16+:_ After the first time in a battle that an enemy attacks you with 
 
 #### Helm of the Undaunted Hero
 
-(Recharge 6+): When your turn starts, roll a save against one ongoing save ends effect.
+_Recharge 6+:_ When your turn starts, roll a save against one ongoing save ends effect.
 
 **Quirk:** Favors traditional battle hymns.
 
@@ -2358,9 +2358,7 @@ When you cast an attack spell using this staff, you gain a +1 bonus to attack an
 
 #### Diabolical Staff
 
-(Recharge: 16+, but see below)
-
-You can evoke the power of the staff to gain additional attention and power from the spirits of darkness. When you roll for relationship advantages with a villainous relationship, treat a 16+ as a 20. If you don't roll a 16+, the staff recharges automatically during your next quick rest.
+_Recharge 16+:_ You can evoke the power of the staff to gain additional attention and power from the spirits of darkness. When you roll for relationship advantages with a villainous relationship, treat a 16+ as a 20. If you don't roll a 16+, the staff recharges automatically during your next quick rest.
 
 **Quirk:** Exaggerates a chaotic or destructive trait that is already there.
 
@@ -2540,7 +2538,7 @@ The symbol’s especially attuned to fallen player characters. If a PC died earl
 
 #### Gathered Power, Symbol of
 
-(Recharge with full heal-up)
+Daily
 
 When you use this symbol during a quick rest, you regain an expended daily adventurer-level spell (1st or 3rd level, in practice) (champion: champion-level spell, 5th or 7th).
 
@@ -2722,9 +2720,9 @@ This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic
 
 #### Unfettered Minion, Wand of
 
-(Quick action – recharge: 11+)
+Quick Action
 
-When you use this wand, a creature who is at least somewhat subservient to you gains a +1 bonus to melee attacks and damage until the end of the battle (champion: +2 bonus).
+_Recharge 11+:_ When you use this wand, a creature who is at least somewhat subservient to you gains a +1 bonus to melee attacks and damage until the end of the battle (champion: +2 bonus).
 
 **Quirk:** Switches unexpectedly into "evil mastermind" tone of voice.
 
@@ -2734,7 +2732,7 @@ When you use this wand, a creature who is at least somewhat subservient to you g
 
 #### Wand of Unerring Pain
 
-(See below – recharge 16+): When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
+_Recharge 16+:_ When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
 
 **Quirk:** Stares intently, often at nothing.
 
@@ -2792,7 +2790,9 @@ When you crit with a natural 20 using this weapon, you deal crit damage instead 
 
 #### Certain Pain
 
-(Two-handed melee weapon – recharge 11+)
+Two-handed melee weapon
+
+_Recharge 11+:_
 
 Before making an attack with this weapon, designate it as a "pain" attack. On a hit with that attack, one target takes 10 extra damage. On a miss, you take 10 damage (champion: 25 damage; epic: 60 damage).
 
@@ -2802,9 +2802,9 @@ Before making an attack with this weapon, designate it as a "pain" attack. On a 
 
 #### Climactic Shot
 
-(Ranged weapon – recharge 6+)
+Ranged weapon
 
-When the escalation die is 3+ and you hit with an attack using this weapon, the target takes 10 extra damage (champion: 25 damage; epic: 60 damage).
+_Recharge 6+:_ When the escalation die is 3+ and you hit with an attack using this weapon, the target takes 10 extra damage (champion: 25 damage; epic: 60 damage).
 
 **Quirk:** Can't stop checking the weapon and its ammunition.
 
@@ -2812,9 +2812,9 @@ When the escalation die is 3+ and you hit with an attack using this weapon, the 
 
 #### Cruel
 
-(Any weapon – recharge 11+)
+Any weapon
 
-When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it (champion: 40 hp/10 ongoing damage; epic: 80 hp/20 ongoing damage).
+_Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it (champion: 40 hp/10 ongoing damage; epic: 80 hp/20 ongoing damage).
 
 **Quirk:** Tortures flies.
 
@@ -2830,9 +2830,9 @@ Demons struck by this weapon writhe in unexpected agony. If you roll a natural 1
 
 #### Dexterous Parry
 
-(One-handed melee weapon – recharge 11+)
+One-handed melee weapon
 
-When an enemy you are engaged with hits you while you're wielding this weapon, make a Dexterity check against the attacker's MD. If you succeed, the attack misses instead.
+_Recharge 11+:_ When an enemy you are engaged with hits you while you're wielding this weapon, make a Dexterity check against the attacker's MD. If you succeed, the attack misses instead.
 
 **Quirk:** Jumpy and suspicious.
 
@@ -2840,9 +2840,9 @@ When an enemy you are engaged with hits you while you're wielding this weapon, m
 
 #### Distraction
 
-(Two-handed melee weapon – recharge 11+)
+Two-handed melee weapon
 
-When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
+_Recharge 11+:_ When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
 
 **Quirk:** Intrudes on personal space.
 
@@ -2858,7 +2858,9 @@ Your weapon deals fire damage instead of normal damage. This fire damage replace
 
 #### Flurry
 
-(Two-handed melee weapon – recharge 11+)
+Two-handed melee weapon
+
+_Recharge 11+:_
 
 When you make a basic attack, make a second basic attack against a different enemy as a free action.
 
@@ -2868,7 +2870,7 @@ When you make a basic attack, make a second basic attack against a different ene
 
 #### Guardian
 
-(One-handed melee weapon)
+One-handed melee weapon
 
 When you hit with an opportunity attack using this weapon, the target is weakened until the end of that turn (–4 attacks and defenses).
 
@@ -2924,7 +2926,11 @@ When you hit with this weapon, you can deal +1d10 damage to that enemy (champion
 
 #### Liberation
 
-(Melee weapon – quick action – recharge 6+)
+Melee Weapon
+
+Quick Action
+
+_Recharge 6+:_
 
 If you have attacked with this weapon this turn, allow an ally to roll a save against an ongoing save ends effect as a free action.
 
@@ -2934,7 +2940,9 @@ If you have attacked with this weapon this turn, allow an ally to roll a save ag
 
 #### Mauling
 
-(Two-handed melee weapon – move action)
+Two-handed melee weapon
+
+Move Action
 
 You gain a +1 attack bonus to your next attack you make this turn.
 
@@ -2944,7 +2952,9 @@ You gain a +1 attack bonus to your next attack you make this turn.
 
 #### Mighty Swing
 
-(Two-handed melee weapon – move action)
+Two-handed melee weapon
+
+Move Action
 
 You deal +1d8 damage with your next melee attack with this weapon that hits this turn (champion: +2d8; epic: +4d8). If you miss, you take that damage instead.
 
@@ -2964,9 +2974,9 @@ If your target is attempting to flee from the battle, a natural even hit against
 
 #### Protection
 
-(Melee weapon – recharge 6+)
+Melee weapon
 
-When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn (champion: +5; epic: +6).
+_Recharge 6+:_ When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn (champion: +5; epic: +6).
 
 **Quirk:** Has urges to watch over the helpless or innocent.
 
@@ -2974,9 +2984,9 @@ When you make a basic attack with this weapon, gain a +4 bonus to all defenses u
 
 #### Puissance
 
-(Melee weapon – recharge 16+)
+Melee weapon
 
-When you make a basic attack with this weapon, make a recharge roll for one power.
+_Recharge 16+:_ When you make a basic attack with this weapon, make a recharge roll for one power.
 
 **Quirk:** Tremendous appetite for meat.
 
@@ -2994,9 +3004,9 @@ When you roll a critical hit on one enemy, you may also inflict thunder damage e
 
 #### Steady
 
-(Ranged weapon – recharge 11+)
+Ranged weapon
 
-Before rolling a ranged attack with this weapon, choose 10 as the natural roll for that attack.
+_Recharge 11+:_ Before rolling a ranged attack with this weapon, choose 10 as the natural roll for that attack.
 
 **Quirk:** Talks too much about the weather.
 
@@ -3018,9 +3028,9 @@ As the lightning bolt needs a clear path from the sky to your upraised weapon, t
 
 #### Unstinting Virtue
 
-(Melee weapon – recharge 11+)
+Melee weapon
 
-When you make a basic attack with this weapon, roll a save against a save ends effect.
+_Recharge 11+:_ When you make a basic attack with this weapon, roll a save against a save ends effect.
 
 **Quirk:** Insists that all weakness is an illusion.
 
@@ -3078,9 +3088,9 @@ _Recharge 16+:_ This weapon is a trophy of the arenas of Axis, handed down from 
 
 #### Longbow of Fallen Grace
 
-(+3 longbow – recharge 16+)
++3 longbow
 
-If your elven grace species ability roll failed this turn, use the natural result of this bow's attack roll as another elven grace roll, after you see the roll.
+_Recharge 16+:_ If your elven grace species ability roll failed this turn, use the natural result of this bow's attack roll as another elven grace roll, after you see the roll.
 
 **Quirk:** Complains too often that the glorious centuries of old are gone forever.
 
@@ -3088,9 +3098,9 @@ If your elven grace species ability roll failed this turn, use the natural resul
 
 #### Mighty Stunning
 
-(One-handed blunt 1d6 melee weapon – recharge 16+)
+One-handed Blunt 1d6 Melee Weapon
 
-When you roll a natural even hit with this weapon and have more hit points than the target, that creature is also stunned until the end of its next turn.
+_Recharge 16+:_ When you roll a natural even hit with this weapon and have more hit points than the target, that creature is also stunned until the end of its next turn.
 
 **Quirk:** Warns of impending doom.
 
@@ -3106,9 +3116,9 @@ This _warhammer_ +2 makes the ground shudder when you get in a good hit with it.
 
 #### Reckless
 
-(Melee weapon – recharge 6+)
+Melee weapon
 
-Reroll one of your attack rolls with a +4 bonus. In addition, until the end of the battle, enemies attacking you add the escalation die to their attack roll (no effect if the enemy already adds it for some reason).
+_Recharge 6+:_ Reroll one of your attack rolls with a +4 bonus. In addition, until the end of the battle, enemies attacking you add the escalation die to their attack roll (no effect if the enemy already adds it for some reason).
 
 **Quirk:** Low impulse control, particularly when it comes to impulsive movements through doors, onto railings, or over tables.
 
@@ -3126,9 +3136,9 @@ _Recharge 16+:_ When you slay a foe with this weapon, that enemy does not die im
 
 #### Greatsword of Utter Night
 
-(+3 greatsword – recharge 6+)
++3 Greatsword
 
-When you hit with this weapon, you spirit away that enemy and yourself to an empty void beyond time where only the two of you face each other for a short time. Neither you nor your foe can move, but you can sure fight. Your enemy acts first, then you, and then you are both spirited back to the real world exactly where you were when the power triggered. Bystanders only see a flash of black.
+_Recharge 6+:_ When you hit with this weapon, you spirit away that enemy and yourself to an empty void beyond time where only the two of you face each other for a short time. Neither you nor your foe can move, but you can sure fight. Your enemy acts first, then you, and then you are both spirited back to the real world exactly where you were when the power triggered. Bystanders only see a flash of black.
 
 **Quirk:** Has disturbing dreams that can't be remembered, or at the very least must not be.
 
@@ -3136,7 +3146,7 @@ When you hit with this weapon, you spirit away that enemy and yourself to an emp
 
 #### Incomparable Axe of Wyrm Chopping
 
-(+3 axe)
++3 Axe
 
 Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The GM determines just how broadly the term "dragon" applies.
 
