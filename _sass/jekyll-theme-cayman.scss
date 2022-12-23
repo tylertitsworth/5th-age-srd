@@ -47,6 +47,7 @@
       margin: 0;
       padding: 0;
       visibility: hidden;
+      table{ display: none; }
       &.selected {
         border: dashed;
         min-width: 2.25in;
