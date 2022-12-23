@@ -71,6 +71,12 @@ Creatures slain by ammunition with this property are reduced to ash when they di
 
 ---
 
+#### Judgment
+
+When you hit an enemy with this ammunition, you receive a brief moment of insight into the foe. You might see something they’ve done recently, or learn why they’re in this battle, or glimpse something of their plans. You may then choose to either add another +1d6 radiant damage onto the attack (champion: +2d6; epic: +4d6) or deal your miss damage instead of your hit damage.
+
+---
+
 #### Keen
 
 When you make an attack with this ammunition, the crit range of that attack expands by 1 (usually 18+ including the default bonus).
@@ -110,6 +116,12 @@ You can attack during an ambush no matter what your initiative roll was.
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
+
+---
+
+#### Slingstone of Courage
+
+This ammunition deals +2d10 damage when it strikes a foe from a higher tier (so, if you’re an adventurer-tier character, you deal the extra damage when you hit a creature who’s 5th level or higher.)
 
 ---
 
@@ -235,6 +247,16 @@ _Recharge 11+:_ You may activate blazing beacon armor when you hit an enemy with
 
 ---
 
+#### Blessed Robes
+
+Light Armor
+
+_Recharge 11+:_ When an attack hits you, you gain a +4 bonus to all Defenses until you attack or until you are hit again.
+
+**Quirk:** Sings or hums hymns when nervous.
+
+---
+
 #### Butterflies
 
 Quick Action
@@ -254,6 +276,16 @@ Light Armor
 You gain a +4 bonus to all defenses against opportunity attacks.
 
 **Quirk:** Likes to dance little jigs.
+
+---
+
+#### Divine Passage
+
+Quick Action
+
+_Recharge 6+:_ When activated, this armor glows with holy light. You gain a +5 bonus to attempts to disengage from undead or demons. If an undead or demon intercepts you, you may avoid the intercept and move past without provoking an attack of opportunity if you roll an 11+ on a d20. This effect lasts until you stop moving.
+
+**Quirk:** Hates to be confined.
 
 ---
 
@@ -326,6 +358,16 @@ Heavy Armor
 You gain a +4 bonus to AC while you have no recoveries left.
 
 **Quirk:** Has a high pain tolerance.
+
+---
+
+#### Martyr’s Armor
+
+Free Action
+
+_Recharge 6+:_ If you are knocked unconscious or slain, you may apply your armor’s magic AC bonus to an ally’s AC for the rest of the battle, or until you are revived. This bonus stacks with any protection given by the ally’s magic armor, if any.
+
+**Quirk:** Casts away unneeded worldly goods.
 
 ---
 
@@ -627,9 +669,17 @@ Refuse, and at the worst possible moment, the belt will take back the health it�
 
 ---
 
+#### Girdle of the Gods
+
+_Recharge 11+:_ When you first receive this item, pick the god it’s dedicated to. You may heal using a recovery when you perform an act pleasing to that god, or when you’re in or near a place associated with that god. So, if you pick a war god, then the belt might let you rally after you slay a foe. If you pick a harvest god, then you get to rally when defending farmland, or at the end of summer (or maybe you can argue that, symbolically speaking, it’s the autumn of the encounter when the escalation die is 5+, so you can heal then.)
+
+**Quirk:** Bound to observe religious holidays. All of them for the god in question, no matter how obscure or moribund.
+
+---
+
 #### Girdle of the Grave
 
-_Recharge 11+:_ Until the end of your next turn, the first 5 points of negative energy damage you suffer in a turn heals you instead of reducing your hit points. So, if you get hit for 8 negative energy damage, that’s a net gain of 2 hit points (+5 hit points, then -3). (Champion: heal with the first 10 points; epic: heal with the first 25).
+_Recharge 11+:_ Until the end of your next turn, the first 5 points of necrotic damage you suffer in a turn heals you instead of reducing your hit points. So, if you get hit for 8 necrotic damage, that’s a net gain of 2 hit points (+5 hit points, then -3). (Champion: heal with the first 10 points; epic: heal with the first 25).
 
 **Quirk:** Doesn’t really see what’s wrong with the undead. Lovely people, once you get to know them.
 
@@ -698,6 +748,14 @@ _Recharge 16+:_ Drink a potion stored on this belt as a quick action instead of 
 _Recharge 16+:_ When you rally, you can use a second recovery to heal after using the first (and seeing the recovery roll).
 
 **Quirk:** Grinningly optimistic.
+
+---
+
+#### Sash of Subtle Arguments
+
+_Recharge 6+:_ Minute inscriptions of obscure philosophical debates cover both sides of this silken belt. You may ignore any one condition affecting you until the start of your next turn. You don’t suffer the penalties or ongoing damage from that condition, but you may not make a save against that condition if it allows a save.
+
+**Quirk:** Delights in getting into arguments.
 
 ---
 
@@ -822,6 +880,22 @@ Exhaustively complete and exhaustingly pedantic, this book purports to record al
 This isn’t just a book – if you’ve got a copy of the herbal compendium, then you’ve also got bags of dried herbs, gardening tools, dirt under your fingernails and things growing in your hair. You get a +4 bonus to any skill checks relating to herb lore and plant life, and you almost always have a herbal remedy to deal with a problem or free-form challenge. At the very least, you can say what sort of herb could help in the current situation, and you know the regions it’s said to grow in.
 
 **Quirk:** Always grubby.
+
+---
+
+#### Hymnal of the Divinities
+
+This item allows its bearer to roll to sustain bard songs sung by an ally. Both you and your bard ally get to make a roll to sustain; as long as one of you succeeds, the song may continue. You may keep sustaining a song even if the bard is dead, unconscious or otherwise unable to sing.
+
+**Quirk:** Puritanical, especially when it comes to frivolous entertainments.
+
+---
+
+#### Litany of the Light
+
+_Recharge 6+:_ In order to benefit from this book’s effect, your character must have recently preached or recited an extract from it to your allies, so it’s of no use when ambushed or if you don’t have time to prepare for battle. When you cast a divine spell that targets more than one ally, you may target one additional ally who listened to your preaching earlier.
+
+**Quirk:** Loves the sound of your own voice.
 
 ---
 
@@ -958,6 +1032,16 @@ _Recharge 11+:_ When you make an attack roll with an arcane spell, after finding
 
 ---
 
+#### Tome of Enlightenment
+
+When you prepare spells, you may leave one slot empty. You may fill that slot with a spell whenever you need it. So, you could leave one ninth-level cleric spell slot free, and fill it with resurrection if a party member dies, or overworld travel if you need to get somewhere in a hurry, or a 9th level turn undead if you’re ambushed by the Lich King’s forces.
+
+(If your class doesn’t have spells, you may leave a power or feat slot empty when you level instead.)
+
+**Quirk:** Loves abstruse philosophical arguments and theological debates.
+
+---
+
 ## Boots, Shoes, Sandals, Slippers
 
 ### Default Bonus
@@ -973,6 +1057,14 @@ Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer
 You gain a +4 bonus to skill checks to walk quietly.
 
 **Quirk:** Develops a love of elegant elven poetry.
+
+---
+
+#### Boots of Joy
+
+_Recharge 6+:_ These elegant boots lighten your heart, and make you want to dance at every opportunity. You may take a free move action immediately when you roll a natural 20.
+
+**Quirk:** Merry.
 
 ---
 
@@ -1269,6 +1361,14 @@ _Recharge 16+:_ When engaged by two or more enemies, if one of them strikes you 
 
 ---
 
+#### Cloak of Shelter
+
+_Recharge 6+:_ One nearby ally may use one of your Defenses (AC, MD or PD) when targeted by an enemy attack. The choice to substitute your Defense for theirs must be made before the attack; however, if the attack hits, the cloak’s power is not expended.
+
+**Quirk:** Attract those in need of alms and aid everywhere you go.
+
+---
+
 #### Cloak of the Underworld
 
 The cloth of this scratchy grey cloak matches the color of the surrounding rock, giving a +4 bonus to checks to hide whenever blending in with the surrounding stonework would be an advantage.
@@ -1317,6 +1417,14 @@ Standard action
 _Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around you to maintain the invisibility, you can’t take standard actions while invisible, which means (mostly) no spellcasting or attacking. You can drop the invisibility at the end of any turn; you become visible immediately, and can act normally on your next turn.
 
 **Quirk:** Paranoid about other invisible creatures, lurking invisibly nearby.
+
+---
+
+#### Mantle of Divine Grace
+
+_Recharge 6+:_ Negates 15 points of negative energy damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
+
+**Quirk:** Innocent and unworldly.
 
 ---
 
@@ -1594,6 +1702,16 @@ Depending on the whims of the GM, the following may be true:
 
 ---
 
+#### Healing Touch
+
+Standard Action
+
+_Recharge 16+:_ These pearly-white gloves are usually splattered with dried blood and the mud of the battlefield, but shine all the brighter for it. When you cast a healing spell (or use a power that heals in a similar way, like lay on hands), you may touch an additional target. That extra target also gets the benefit of the healing effect.
+
+**Quirk:** Martyrdom complex.
+
+---
+
 #### Jeweled Glove
 
 _Recharge 6+:_ When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
@@ -1800,6 +1918,14 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 
 ---
 
+#### Soulshield Helmet
+
+The MD bonus from this helmet is doubled against attacks from demons.
+
+**Quirk:** Fastidious about personal cleanliness.
+
+---
+
 #### Wizard’s Hat of Conjuration
 
 Once per day, you can pull a useful non-magical common item out of this hat. The item must be able to fit through the brim of the hat, so you couldn’t pull out a siege engine or a horse. You could, though, produce a sword, or length of chain, or a saw, or a delicate vase decorated with salacious paintings of frolicking kobolds. The hat can also produce small living creatures, like rabbits or cats or doves or maybe even the aforementioned frolicking kobolds.
@@ -1975,6 +2101,16 @@ This curious (but often vital item) has two related powers. Firstly, it grants t
 _Recharge 6+:_ Once per battle, you may attempt to curse a nearby enemy with your snoring by making a Charisma + Level attack vs. your target’s MD. If you hit, they start to snore. This doesn’t put them to sleep or inconvenience their spellcasting, but invisible creatures are much easier to spot when all you need to do is swing in the direction of the snoring. The miss chance for a snoring invisible creature drops to 25%, and the snoring gives a +4 bonus to any attempts to track a hidden foe by hearing.
 
 **Quirk:** You also talk in your sleep.
+
+---
+
+#### Periapt of Faith
+
+_Recharge 16+:_ Only clerics may use this item. This small pebble on a simple silver chain holds an inextinguishable spark of faith, and meditating on it can renew the spirits of those who are broken and exhausted. If you have no daily spells and no domain invocations remaining at the start of a battle, you may use this item to immediately regain one daily spell.
+
+_Champion:_ You can instead choose to regain one domain invocation; epic: recharge 11+.
+
+**Quirk:** Irritatingly serene.
 
 ---
 
@@ -2343,6 +2479,14 @@ _Recharge 6+:_ It may be nothing more than animal-hide stretched over a crude wo
 
 ---
 
+#### Peace
+
+In combat, regain hit points equal to the value of the escalation die at the start of every round (champion: twice the escalation die’s value; epic: three times the value). This stops as soon as you make an attack or otherwise inflict any damage on an enemy.
+
+**Quirk:** Always thinks the worst of people.
+
+---
+
 #### Protection
 
 Enemies engaged with you take a –1 attack penalty against your allies.
@@ -2399,6 +2543,14 @@ _Recharge 6+:_ When you make a basic melee attack, roll a save against one ongoi
 When you successfully intercept an enemy, your shield inflicts your normal miss damage on them. Some warriors who carry shields of this type also bring along leather or wooden covers to conceal their shield’s unusual appearance outside of battle. Veteran bearers also carry toothpicks.
 
 **Quirk:** Takes bites or pieces out of things that you were supposed to just pass on.
+
+---
+
+#### War
+
+_Recharge 6+:_ Until the end of your next turn, you and anyone engaged with you when you trigger the power cannot regain hit points by any means – no healing spells, no regeneration, no rallying.
+
+**Quirk:** Single-minded.
 
 ---
 
@@ -2490,7 +2642,7 @@ _Recharge 16+:_ You can evoke the power of the staff to gain additional attentio
 
 Standard Action
 
-Recharge 11+:_ You may expend one of your spell slots (one containing either an at-will spell, or a spell that you could cast this battle, but haven’t yet used) to channel the fiery breath of Bahamut through your staff. This close-quarters attack uses your Wisdom or Charisma + Level, affects 1d3+1 nearby enemies, targets Physical Defense, and inflicts 1d8 damage per level of the spell expended (epic: d12s), plus your Wisdom or Charisma modifier. Oh, each dice of damage is both fire and holy damage.
+Recharge 11+:_ You may expend one of your spell slots (one containing either an at-will spell, or a spell that you could cast this battle, but haven’t yet used) to channel the fiery breath of Bahamut through your staff. This close-quarters attack uses your Wisdom or Charisma + Level, affects 1d3+1 nearby enemies, targets Physical Defense, and inflicts 1d8 damage per level of the spell expended (epic: d12s), plus your Wisdom or Charisma modifier. Oh, each dice of damage is both fire and radiant damage.
 
 **Quirk:** Warns people about the error of their ways, and how they had better repent or… boom…
 
@@ -2512,19 +2664,31 @@ When you cast spells that heal or provide temporary hit points, add 4 to the tot
 
 ---
 
-#### Staff of the Diffident Magician
-
-_Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
-
-**Quirk:** Doesn't like to be touched.
-
----
-
 #### Staff of Massacres
 
 When you cast an attack spell using this staff, you gain a +1 attack bonus with that spell if it has more than one target.
 
 **Quirk:** Obsessed with numbers and calculations.
+
+---
+
+#### Staff of Prophecy
+
+_Recharge 16+:_ This ornate ivory staff is decorated with thousands of tiny letters, whose endless combinations and recombinations encapsulate every possible prophecy. You may only glimpse a fraction of the full divine insight contained in the staff, but it’s enough to give you an edge. When you activate the staff, pick three combatants – allies or enemies – and roll 1d20 for each of them. That d20 is the natural roll they’re going to make for their next attack. So, when a target of your prophecy makes an attack, they don’t need to roll the die – they just take the d20 you rolled for them and use the value shown on it.
+
+The vision only looks into the immediate future – if any of the targeted creatures don’t make an attack by the end of your next turn, discard the value you rolled for them.
+
+The staff doesn’t give you any special power to affect the future, it just gives you a brief insight into likely outcomes.
+
+**Quirk:** Speaks in riddles.
+
+---
+
+#### Staff of the Diffident Magician
+
+_Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
+
+**Quirk:** Doesn't like to be touched.
 
 ---
 
@@ -2561,6 +2725,18 @@ _Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald
 Standard Action
 
 _Recharge 11+:_ This staff was originally a simple tree-branch used as a walking-stick, but now it groans beneath the weight of hundreds of magical talismans, wands, holy symbols and other arcane tokens taken from defeated spellcasters. When you activate the staff, you gain the [counter-magic spell](../Classes/Wizard.md#counter-magic) and may use it any number of times per battle, until you miss with it or cast a spell that isn’t counter-magic. You also deal 3d6 psychic damage when you hit with counter-magic. Quirk: Collects trophies from the defeated.
+
+---
+
+#### Staff of the Gods
+
+_Recharge 16+:_ This staff allows you to call on the gods directly when casting a spell. Either the god you name channels their power through you, or they manifest in person through the magic of the staff to deliver the spell on your behalf.
+
+You’ve got to describe the god or divine entity you’re channeling, and the GM will add on a suitable bonus effect to the spell based on the god. Say you’re casting javelin of faith at a foe, and you use this staff to invoke Thor. Maybe the clouds part and everyone sees a giant thunder god flinging a hammer at your target (adding in a juicy thunder damage hit on all enemies adjacent to the target), or everyone sees that you’re suddenly dressed in holy armor and carrying a giant warhammer (giving you the effects of hammer of faith for one round).
+
+_GMs:_ there are probably very good reasons why the gods don’t actively intercede in the world all the time. This staff is a ghastly violation of whatever divine laws exist – feel free to play merry hell with the fabric of reality every time it’s used.
+
+**Quirk:** None. You’re so awesome the gods themselves come running when you call – therefore, it’s absolutely unthinkable that so paltry an item as this one could ever affect your incredible mind. Let lesser beings have their quirks and foibles; such things are utterly beneath you!
 
 ---
 
@@ -2656,6 +2832,14 @@ _Recharge 11+:_ When you cast a divine spell that affects one target with a limi
 
 ---
 
+#### Exorcism, Symbol of
+
+_Recharge 11+:_ This symbol is especially effective against enemies that assail the minds and souls of their victims. If you or any of your nearby allies are attacked by a enemy using an attack against Mental Defense, you may activate this symbol to get an additional +2 bonus to attacks and damage with divine spells targeting that enemy for the rest of the battle. (Champion: You also deal an extra 1d10 holy damage whenever you hit that foe with a divine spell; epic: 2d10 holy damage).
+
+**Quirk:** Seeks out creatures of darkness.
+
+---
+
 #### Fallen Heroes, Symbol of
 
 _Recharge 11+:_ The gods are often distant and uncaring; it is the deeds of heroes and champions that make all the difference in the mortal realm. This holy symbol honors those fallen heroes. When you invoke it, you gain an additional +1 bonus to hit and damage with a divine spell. You must call on a specific fallen hero and explain how their example inspires you in this case. A good tale might convince the GM to let you swap that +1 bonus for a change to the spell, like adding on an extra condition or some other special effect.
@@ -2697,6 +2881,14 @@ When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 te
 _Recharge 11+:_ When you cast a quick action divine spell that targets allies, the spell affects one additional ally.
 
 **Quirk:** Keeps the relic meticulously clean, rests it on velvet, etc.
+
+---
+
+#### Light, Symbol of
+
+_Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a daily divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less (champion: 100 hit points or less; epic: 250 hit points or less). This daze lasts until the end of the enemy’s next turn.
+
+**Quirk:** Scared of the dark.
 
 ---
 
@@ -2766,7 +2958,7 @@ _Recharge 16+:_ Activate this wand immediately after rolling damage for a daily 
 
 Quick Action
 
-_Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the wand, you must nominate an enemy on the battlefield. Your next attack on that enemy inflicts 1d4 extra negative energy damage for each round since you nominated the foe (champion: make those d6s; epic: d8s). So, if you mark a foe for death in the first round of combat, but then don’t attack that foe for five rounds, your attack on that enemy will benefit from 5 extra dice of negative energy damage, hit or miss.
+_Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the wand, you must nominate an enemy on the battlefield. Your next attack on that enemy inflicts 1d4 extra necrotic damage for each round since you nominated the foe (champion: make those d6s; epic: d8s). So, if you mark a foe for death in the first round of combat, but then don’t attack that foe for five rounds, your attack on that enemy will benefit from 5 extra dice of necrotic damage, hit or miss.
 
 **Quirk:** Enjoys watching others struggle or run.
 
@@ -2819,6 +3011,14 @@ In addition to improving your arcane spells, this wand allows you to detect conc
 When you cast an arcane attack spell using this wand, you gain a +1 bonus to attack and damage with that spell if it targets Mental Defense.
 
 **Quirk:** Uses pedantically circumlocutious phraseology.
+
+---
+
+#### Pious Thaumaturgy, Wand of
+
+_Recharge 6+:_ Wands of this sort are marked with holy symbols and inscriptions that warn of the dangers of sinful magic. Your immortal soul is safe from corruption, though, thanks to this blessed and sanctified wand. You may use the wand to have a spell’s damage be holy in addition to its usual damage types. That spell also counts as divine magic as well as arcane magic.
+
+**Quirk:** Ostentatiously pious and devout.
 
 ---
 
@@ -2931,6 +3131,16 @@ Any Weapon
 When you crit with a natural 20 using this weapon, you deal crit damage instead of normal damage if you hit with this weapon again during your next turn.
 
 **Quirk:** Has taste for red meat.
+
+---
+
+#### Bonecrushing Hammer
+
+Any Bludgeoning Weapon
+
+This weapon’s die type improves by one step when dealing damage to skeletons and any other creatures that are composed entirely or mostly of bare bones (liches, particularly worm-eaten wights, animated skulls, bone golems and the like). So, if a warhammer normally does d8 damage per level in your hands, it does d10 damage per level against bony foes.
+
+**Quirk:** Grimmer than a depressed dwarven gravedigger in the rain.
 
 ---
 
@@ -3094,6 +3304,16 @@ If you have attacked with this weapon this turn, allow an ally to roll a save ag
 
 ---
 
+#### Lucky
+
+Any Weapon
+
+_Recharge 16+:_ If you miss, you can choose to make another attack on a different target instead of dealing miss damage.
+
+**Quirk:** Oblivious.
+
+---
+
 #### Mauling
 
 Two-handed melee weapon
@@ -3135,6 +3355,16 @@ Melee weapon
 _Recharge 6+:_ When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn (champion: +5; epic: +6).
 
 **Quirk:** Has urges to watch over the helpless or innocent.
+
+---
+
+#### Providence
+
+Any Weapon
+
+_Recharge 16+:_ The gods guide your hand. Don’t bother rolling the dice – you hit, if it’s at all possible that your blow could somehow land. This is a basic attack, and doesn’t trigger any flexible attacks or special abilities.
+
+**Quirk:** Much too trusting.
 
 ---
 
@@ -3494,6 +3724,16 @@ While this pearl is on your person, you can use an action to speak its command w
 ---
 
 #### [Rope of Climbing](http://dnd5e.wikidot.com/wondrous-items:rope-of-climbing)
+
+---
+
+#### Saintly Reliquary
+
+Somewhere inside this casket of gold and gemstones is the skull or other body part of a long-dead saint. Once per day, the saint intercedes on your behalf by casting a divine spell. As you’re the bearer of the relic, and hence the saint’s link to the land of the living, the saint’s spell gets treated as though you’d cast it. So, if you’re 7th level, the saint gets one 7th level spell per day, and uses one of your actions to cast it when in battle (it can cast the spell out of combat, or even as part of a ritual). You can pick the spell on the fly – it doesn’t need to be prepared ahead of time.
+
+The saint’s spirit may also manifest to give you advice, counsel or just harangue you with sermons and religious curses, depending on the saint. At best, that’s a +4 bonus to relevant skill checks. At worse, it’s a headache.
+
+**Quirk:** You must continue the holy works of the saint, which usually involves lots of visits to temples, lengthy religious ceremonies, and curing the sick. If you’re unlucky, martyrdom may also be on the agenda.
 
 ---
 
