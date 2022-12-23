@@ -17,6 +17,12 @@ Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point e
 
 ### Adventurer
 
+#### Biting Skull
+
+Arrows and bolts with this property have the skulls of rats, snakes or other vermin attached just behind the arrowhead. Sling-stones with this property are actually tiny chattering skulls. The animated skulls bite and shriek distractingly when they strike; a creature hit with this ammunition has its Initiative reduced by 4.
+
+---
+
 #### Bitter
 
 A target struck by one of these barbed missiles takes a -2 penalty to all saves until the end of their next turn.
@@ -153,6 +159,12 @@ This arrow’s damage is force damage, so it can hit wraiths and other pesky res
 
 ---
 
+#### Mortal
+
+Damage caused by this arrow cannot be healed easily. It takes two points of healing to cure one point of damage from an attack made with this arrow.
+
+---
+
 #### Serpent Arrow
 
 On a hit, this arrow also inflicts 5 ongoing poison damage on the target (epic: 15 ongoing poison). On a miss, the arrow falls to the ground and becomes a snake. If the target of the attack does not move away from the snake (or spend an attack killing it), the snake attacks again on the same initiative as the missile attack next round. The snake attacks with +10 vs. AC, and deals 5 ongoing poison damage on a hit. The snake keeps attacking until the target moves away or kills it. (Epic: +15 vs. AC and 15 ongoing poison damage).
@@ -192,6 +204,18 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 ---
 
 ### Adventurer
+
+#### Animation
+
+_Recharge 11+:_ This armor smells musty and foul, even when newly cleaned. It has a faint magical aura, but its true powers only activate when the wearer falls in combat. If you fall below 0 hit points, you can keep fighting as the armor infuses your wounded body with necromantic magic. You still have to make death saves, and you still die if you fail all your death saves or get dismembered by going to negative half your starting hit points.
+
+Oh, you also become vulnerable to holy attacks. And if you die while animated, it’s a dead cert (ahem) that you’re coming back as some sort of undead.
+
+If you don’t already have a relationship with the Lich King, you soon will.
+
+**Quirk**: Hungers for the life force of living beings.
+
+---
 
 #### Blazing Beacon Armor
 
@@ -332,6 +356,18 @@ Heavy Armor
 It’s harder for you to be teleported if you don’t want to be moved. If an enemy’s spell or power teleports you in battle, you may defer being moved for one round (champion: a number of rounds equal to the escalation die, +1; epic: you’re not going anywhere). The teleport effect kicks in at the end of your turn when the deferment runs out.
 
 **Quirk:** Seizes on a trivial point and won’t let go.
+
+---
+
+#### Spectral Armor
+
+Quick Action
+
+_Recharge 16+:_ The shreds and tatters of rotten cloth that hang from this armor flutter in a breeze that no-one else can feel, because this armor is half in the ghost world. Activate it, and you can step fully into the ghost realm for a brief time. While ghostly, you can move through solid objects, but you can’t end your turn inside one. You get resist damage 12+, but can be damaged normally by force damage. Everyone else gets resist your damage 12+ too.
+
+You remain ghostly for one round. If you want, you can try to stay ghostly by spending a recovery to let you begin making hard saves (16+) at the end of each turn. Pass the save, and you can prolong your ghostly status for another round. You can stay ghostly as long as you keep making saves. If you somehow spend your last recovery to stay ghostly – well, you’ve just lost your connection to the living world. Maybe you can find your way back. Maybe you’ll drift forever alone in a grey emptiness.
+
+**Quirk:** Pained by bright lights.
 
 ---
 
@@ -559,6 +595,14 @@ Refuse, and at the worst possible moment, the belt will take back the health it�
 
 ---
 
+#### Girdle of the Grave
+
+_Recharge 11+:_ Until the end of your next turn, the first 5 points of negative energy damage you suffer in a turn heals you instead of reducing your hit points. So, if you get hit for 8 negative energy damage, that’s a net gain of 2 hit points (+5 hit points, then -3). (Champion: heal with the first 10 points; epic: heal with the first 25).
+
+**Quirk:** Doesn’t really see what’s wrong with the undead. Lovely people, once you get to know them.
+
+---
+
 #### Glorious Rally
 
 When you rally, you gain 4 temporary hit points that last until the end of your next turn (champion: 10 temp hp; epic: 25 temp hp).
@@ -630,6 +674,18 @@ _Recharge 16+:_ When you rally, you can use a second recovery to heal after usin
 _Recharge 11+:_ One magical edged or piercing weapon worn on this belt has its critical range increased by 2 at the start of the battle. This bonus is lost for the rest of the encounter when you actually score a critical hit with that weapon.
 
 **Quirk:** Always engaged in preparation and maintenance; you are incapable of staying idle even for a moment.
+
+---
+
+#### Swordbelt of the Slayer
+
+Quick Action
+
+_Recharge 6+:_ You are drawn to prey on the weak and the dying. When you use the belt, you get a +1 bonus to your attack as long as you attack the enemy with the fewest hit points. (Champion: the effect lasts for three rounds; epic: until the end of the battle).
+
+**Quirk:** Merciless.
+
+>_Note:_ Fighting against the Lich King’s armies isn’t like fighting against mortal foes. Living enemies need to sleep, and eat, Their numbers grow fewer over time as soldiers get sick, or desert and go home, or turn to looting and pillaging instead of fighting. The undead, though – their armies get stronger over time. Those monsters avoid pitched battles at all costs – why go to war against the Imperial Legion, when you can slaughter a dozen peasant villages and turn all the dead into more zombies? It’s like fighting a plague. Swordbelt of the Slayer? Pah! Swordbelt of the Pestilent Coward, more like! - Sir Tanteer, paladin of the light
 
 ---
 
@@ -960,11 +1016,31 @@ These travel-worn boots have been all over the Empire, and they remember every s
 
 ---
 
+#### Dead Man’s Boots
+
+_Recharge 11+:_ If you’re knocked unconscious or otherwise rendered helpless or incapacitated while wearing these boots, then you get to pick a nearby enemy and make a +10 attack vs. MD against that foe (champion: +15; epic: +20). If you hit, that foe takes a fancy to your boots and tries to loot them from your unconscious body at the earliest possible opportunity. The enemy won’t take absurd risks to get the boots, but might choose to go after your boots rather than pressing the attack against the rest of the party. You’ll probably occupy your target for at least one round.
+
+The magic of the boots works best against greedy humanoids. Targeting a foe that wouldn’t normally wear boots or care about fashion means a penalty on your attack (GM: -4 sound good to you?). Targeting the sort of foe for whom looting the bodies is second nature gives a bonus to the attack (so, using the boots on goblins, kobolds, bandits, thieves, ghouls or adventurers is worth +4 or so).
+
+On a natural 20, then the chosen enemy is so obsessed with the boots they become confused (save ends).
+
+**Quirk:** Hey, these are really nice boots.
+
+---
+
 #### Face-Stomping Boots
 
 _Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may automatically inflict 5 damage on them immediately (champion: 10 damage; epic: 25 damage). You don’t have to be the one who staggered them to trigger this item.
 
 **Quirk:** Hates bugs and other things that crawl.
+
+---
+
+#### Gravewalker’s Shoes
+
+When you move, everyone nearby feels a sudden, inexplicable chill that seems to be in time with your footsteps, as if you’re walking on their grave right now. You get a bonus of +2AC against opportunity attacks provoked by movement, but this bonus is lost for the rest of the turn if one of the opportunity attacks hits.
+
+**Quirk:** You disconcert and discomfort people just by being there.
 
 ---
 
@@ -1250,6 +1326,14 @@ Dwarven historians weave ornate cloaks of this sort from silver wire and rams-ha
 
 ---
 
+#### Mantle of the Necromancer
+
+Undead creatures take a -2 penalty to their attacks against you if they are also engaged with one or more of your allies.
+
+**Quirk:** Ghosts and other undead spirits regularly petition you for aid.
+
+---
+
 #### Pale Mantle of Suffering
 
 This cloak is usually pale white, but becomes redder and darker as its power grows. You heal 2 hit points (champion: 4; epic: 10) whenever an enemy suffers ongoing damage caused by one of your attacks. Rumors that certain Drow nobles wear pale mantles that are so blooddrenched they appear black as night are quite accurate.
@@ -1327,6 +1411,16 @@ _Recharge 11+:_ When a foe you're engaged with targets your ally with an attack 
 ---
 
 ### Epic
+
+#### Cloak of the Dead World
+
+Quick Action
+
+_Recharge 11+:_ When you hit a nearby foe with an attack, your cloak engulfs them and draws them into a nightmare realm. Survivors have reported seeing a dead world of grey desolation, inhabited only by shambling zombies ruled by the Lich King from a citadel of bone. The vision inflicts 4d10 psychic damage on your enemy. The target is swallowed by your cloak and vanishes from the battlefield until the start of their next turn, at which point they emerge at a point nearby of your choice.
+
+**Quirk:** Spouts apocalyptic prophecies about how we’re all doomed, utterly doomed.
+
+---
 
 #### Inviolability
 
@@ -2282,6 +2376,14 @@ Recharge 11+:_ You may expend one of your spell slots (one containing either an 
 
 ---
 
+#### Staff of Destruction
+
+_Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of prodigious power, probably a lieutenant of a former Archmage. It laughs maniacally and blazes with unholy light when you activate the staff. Any creatures damaged by your attack this round that have 20 or fewer hit points remaining afterwards are instantly torn apart by the power of the staff (epic: 40 hit points or fewer).
+
+**Quirk:** Prone to acts of pointless malice.
+
+---
+
 #### Staff of Health
 
 When you cast spells that heal or provide temporary hit points, add 4 to the total (epic: 8).
@@ -2389,6 +2491,14 @@ If the ally refuses to perform the service (or if the service is deemed too pett
 When you cast your last divine daily spell, roll a save. If you succeed, you don't expend the spell.
 
 **Quirk:** Obsessed with fortune telling, oracles, signs, etc.
+
+---
+
+#### Dead King, Symbol of the
+
+If one of your spells would daze an undead creature, that creature becomes confused instead for the same duration.
+
+**Quirk:** Imperious and curt when dealing with ‘underlings’
 
 ---
 
@@ -2513,6 +2623,16 @@ This rune-covered bronze dagger also works as a wand. When you cast an arcane at
 _Recharge 16+:_ Activate this wand immediately after rolling damage for a daily spell that hit. That spell never happened and is not expended. Gain a free action to cast an at-will spell instead. Everyone on the battlefield is somewhat alarmed by the fact that the blazing ball of fire suddenly vanished, but that’s wizards for you.
 
 **Quirk:** Prone to sudden bursts of rage over trivial problems.
+
+---
+
+#### Deathmark Wand
+
+Quick Action
+
+_Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the wand, you must nominate an enemy on the battlefield. Your next attack on that enemy inflicts 1d4 extra negative energy damage for each round since you nominated the foe (champion: make those d6s; epic: d8s). So, if you mark a foe for death in the first round of combat, but then don’t attack that foe for five rounds, your attack on that enemy will benefit from 5 extra dice of negative energy damage, hit or miss.
+
+**Quirk:** Enjoys watching others struggle or run.
 
 ---
 
@@ -2776,6 +2896,14 @@ When you hit with an attack using this weapon, if that enemy is the most dangero
 
 ---
 
+#### Haunted
+
+_Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
+
+**Quirk:** It’s a talkative ghost. Or maybe it just screams in your ear all the time. Either way, you’re the only one who can see or hear it.
+
+---
+
 #### Indomitable
 
 If you’re attacking an enemy 3 or more levels higher than you, you deal +1d8 damage to that enemy on a hit (Champion: +2d8; epic: +4d8).
@@ -2983,6 +3111,14 @@ This _warhammer_ +2 makes the ground shudder when you get in a good hit with it.
 Reroll one of your attack rolls with a +4 bonus. In addition, until the end of the battle, enemies attacking you add the escalation die to their attack roll (no effect if the enemy already adds it for some reason).
 
 **Quirk:** Low impulse control, particularly when it comes to impulsive movements through doors, onto railings, or over tables.
+
+---
+
+#### Threshold, Of the
+
+_Recharge 16+:_ When you slay a foe with this weapon, that enemy does not die immediately. Instead, they become hampered (basic attacks only) and take one last turn immediately after this one. In this terminal turn, you get to choose what the dying creature does, as it’s animated by the necromantic power of your weapon. Once the creature’s last turn finishes, it dies.
+
+**Quirk:** Obsessed by your own tomb, and driven to build a bigger and better one so you are never forgotten when you die.
 
 ---
 
