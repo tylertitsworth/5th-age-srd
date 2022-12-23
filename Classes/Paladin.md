@@ -136,6 +136,10 @@ Gain an additional use of Smite Evil per day.
 
 #### Champion Feat
 
+Your Smite attacks become uninterruptible. Enemies cannot trigger interrupt actions against your smite attacks.
+
+---
+
 #### True Smite
 
 Deal half of both melee attack and smite extra damage on a miss.
