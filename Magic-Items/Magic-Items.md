@@ -51,6 +51,12 @@ If you’re attacking from ambush, you get a +5 bonus to your attack roll.
 
 ---
 
+#### Enchanter’s Arrow
+
+A glass arrow forged in silver fire, with a glimmer of that flame still within. When you hit an enemy with an attack using this ammunition, the target is vulnerable to daily arcane spells until the end of the battle.
+
+---
+
 #### Energy
 
 This ammunition has been enchanted with one of the following types of energy: acid, cold, fire, radiant, lightning, thunder. An attack using this ammunition deals that type of damage.
@@ -102,6 +108,12 @@ You deal +1d10 damage on a hit (champion: +2d10; epic: +4d10).
 #### Lucky Stray
 
 On a miss, you can make a basic ranged attack against another foe that is near the target or along your line of sight to the target (between you and the original target or past the original target).
+
+---
+
+#### Magician’s Bolt
+
+This ammunition has sigils that light up when it’s fired. When you hit an enemy with an attack using this ammunition, the target is lit up and your allies gain a +1 attack bonus against it until the start of your next turn. When you roll a natural even miss with this ammunition, the bolt isn’t expended and teleports back to you.
 
 ---
 
@@ -367,6 +379,14 @@ You gain a +4 bonus to all defenses during your first turn in battle.
 
 ---
 
+#### Idiographic Robe
+
+_Recharge 16+:_ This silk robe’s lining is embroidered with spells. When a nearby enemy hits you with a spell attack, that enemy rerolls the attack with a –2 penalty. If the attack hits, one of your daily spells recharges.
+
+**Quirk:** Haughty.
+
+---
+
 #### Inspiring
 
 Any nearby allies may use your hit point total instead of their own to determine if they’re affected by fear. If you’re not scared, they’re not either.
@@ -390,6 +410,14 @@ Heavy Armor
 You gain a +4 bonus to AC while you have no recoveries left.
 
 **Quirk:** Has a high pain tolerance.
+
+---
+
+#### Mage’s Leather
+
+_Recharge 16+:_ This armor isn’t made from a wizard’s hide, but can save a magician’s skin sometimes. When you cast a daily spell, teleport somewhere nearby you can see (champion: recharge 11+; epic: recharge 6+).
+
+**Quirk:** Twitchy.
 
 ---
 
@@ -422,6 +450,14 @@ Daily
 If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way.
 
 **Quirk:** Repeats stories over and over.
+
+---
+
+#### Robe of Blurring
+
+_Recharge 16+:_ The silk for this translucent robe is spun by the ghosts of moths. Enemies have a 50% miss chance against you for 1d2 rounds. If you are also affected by a blur spell, the % miss chance stacks.
+
+**Quirk:** Sly.
 
 ---
 
@@ -545,6 +581,14 @@ _Recharge 16+:_ You don’t fall unconscious when reduced to 0 hit points – yo
 
 ---
 
+#### Victorious Secret
+
+This magically reinforced garment can be worn unobtrusively under regular clothing. It counts as light armor for attack penalties and its default AC bonus. Additionally, it has concealed dimensional pockets that can hold up to a backpack’s capacity without the weight.
+
+**Quirk:** Never on time, always late or early.
+
+---
+
 #### Warding
 
 You gain resistance 12+ against attacks targeting Physical Defense or Mental Defense.
@@ -650,6 +694,14 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 ---
 
 ### Adventurer
+
+#### Belt of Dials
+
+By spending 1d3 + 1 rounds (or about half a minute outside combat) turning the decorative brass buckles, you can make yourself younger or older, taller or shorter, fatter or thinner, change your hair length, etc. It’s not quite as versatile as a wizard’s disguise self spell (you’ll end up looking like a distant cousin), but creatures that can see through illusions can be fooled by the physical transformations bought on by the belt. You set the duration of the change (anything from seconds to permanent change).
+
+**Quirk:** Physical dysphoria.
+
+---
 
 #### Belt of Humility
 
@@ -997,6 +1049,18 @@ Exhaustively complete and exhaustingly pedantic, this book purports to record al
 
 ---
 
+#### Deeds of the Wizards of Neem
+
+Quick Action
+
+1/Day
+
+You experience a flash of insight and can swap two unexpended spells (spell slots) that you know for one wizard spell that is lower level than both expended spells. You cast that spell using your primary spellcasting ability. The swap remains in effect until your next full heal-up.
+
+**Quirk:** Conceited.
+
+---
+
 #### Herbal Compendium
 
 This isn’t just a book – if you’ve got a copy of the herbal compendium, then you’ve also got bags of dried herbs, gardening tools, dirt under your fingernails and things growing in your hair. You get a +4 bonus to any skill checks relating to herb lore and plant life, and you almost always have a herbal remedy to deal with a problem or free-form challenge. At the very least, you can say what sort of herb could help in the current situation, and you know the regions it’s said to grow in.
@@ -1086,6 +1150,16 @@ When an enemy is slain by a fire attack, you may either take an extra standard a
 
 ---
 
+#### Tome of Relics
+
+1/Day
+
+This tome details the secret history of certain magic items. Expend a recharge or daily spell to recharge a magic item power.
+
+**Quirk:** Treasure aficionado.
+
+---
+
 #### Tome of the Divinities and their Deeds
 
 _Recharge 16+:_ When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total (champion: +2d8 hp; epic: +4d10 hp).
@@ -1104,11 +1178,11 @@ _Recharge 16+:_ When you roll a skill check using Intelligence, Wisdom, or Chari
 
 ### Champion
 
-#### Manual of the Numinous Realms
+#### Tome of Beasts
 
-_Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum, and illustrated with strange diagrams that move on their own, the manual describes the interplay of elemental forces and spiritual currents that underlie the illusion we call reality. By manipulating these fundamental levers of reality, you may accomplish great feats of magic. When you miss all targets with a daily spell, you give up that spell’s miss effect (if any) and cast another daily spell as a free action.
+This tome contains anatomical and cryptozoological diagrams. After each full heal-up, choose a specific creature. Until the end of the day, you gain a +3 attack bonus against that specific creature (e.g., “the stone golem that we saw yesterday”); a +2 attack bonus against creatures of the same species or ilk (e.g., stone golems); and +1 attack bonus against creatures of the same type (e.g., constructs).
 
-**Quirk:** Fears unlikely consequences and improbable coincidences. If only you fools could see how all things are interconnected, you too would fear the calling of the birds in the trees when the wind is from the west and there’s a woman in a red shawl nearby!
+**Quirk:** Always consulting the tome.
 
 ---
 
@@ -1117,6 +1191,18 @@ _Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum
 _Recharge 11+:_ When you miss with a melee attack, reroll the attack using +15 as your attack bonus instead of your own bonus (epic: +20). If an arcane spellcaster reads this manual, it hurts their brain and permanently reduces their maximum hit points by 4 (epic: by 10).
 
 **Quirk:** Constantly checking self out and flexing, and seems to want to be caught doing that.
+
+---
+
+#### Manual of the Realms
+
+Move Action
+
+2/Day
+
+This manual has more pages on the inside than its size would suggest. When you use the manual, you can teleport somewhere nearby that you can see.
+
+**Quirk:** Distracted by visions of other realities.
 
 ---
 
@@ -1131,6 +1217,14 @@ _Recharge 16+:_ Those who study this monograph on total warfare come to understa
 Be warned, though – if the fallen ally is healed and returns to the fray, it throws your tactical calculations off, and you no longer benefit from the escalation die for the rest of the battle.
 
 **Quirk:** Refight famous battles in your head or on the tabletop.
+
+---
+
+#### Manual of the Numinous Realms
+
+_Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum, and illustrated with strange diagrams that move on their own, the manual describes the interplay of elemental forces and spiritual currents that underlie the illusion we call reality. By manipulating these fundamental levers of reality, you may accomplish great feats of magic. When you miss all targets with a daily spell, you give up that spell’s miss effect (if any) and cast another daily spell as a free action.
+
+**Quirk:** Fears unlikely consequences and improbable coincidences. If only you fools could see how all things are interconnected, you too would fear the calling of the birds in the trees when the wind is from the west and there’s a woman in a red shawl nearby!
 
 ---
 
@@ -1329,6 +1423,16 @@ _Recharge 6+:_ The wearer of these deerskin moccasins is astoundingly fleet of f
 _Recharge 11+:_ When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
 
 **Quirk:** Recites death poems of ancient heroes. At length.
+
+---
+
+#### Slippers of Astral Travel
+
+1/Battle
+
+These curly-toed slippers are made from phase-spider velvet. When an enemy intercepts you, you teleport back to the spot from which you started your move (epic tier: and can retake the move action with a new destination).
+
+**Quirk:** Always looking over your shoulder.
 
 ---
 
@@ -1606,6 +1710,14 @@ _Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around y
 
 ---
 
+#### Living Cloak
+
+This scarlet cloak won’t let you unknowingly walk into danger. When you fall far enough to be hurt or move into an area and trigger a trap, roll a hard save (16+). If you succeed, the cloak animates and keeps you from falling or drags you away from harm (champion: normal save; epic: easy save).
+
+**Quirk:** Misinterprets harmless situations as dangerous.
+
+---
+
 #### Mantle of Divine Grace
 
 _Recharge 6+:_ Negates 15 points of negative energy damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
@@ -1619,6 +1731,14 @@ _Recharge 6+:_ Negates 15 points of negative energy damage you would otherwise s
 Dwarven historians weave ornate cloaks of this sort from silver wire and rams-hair. While wearing this mantle, you see any dwarven structure or handiwork both as it is and as it was at its height. So, if you entered a ruined dwarven citadel, you would see both the current dilapidated ruin and, overlaid on that, what the citadel looked like when it was fully manned and intact. This double vision may be useful when exploring ruined areas or searching for lost treasures. For instance, you might know that there’s a door beneath a particular piles of fallen rocks, or recognize a rusty broken sword as the remains of a potent magic weapon.
 
 **Quirk:** Besieged by nostalgia.
+
+---
+
+#### Mantle of Mists
+
+_Recharge 16+:_ This hooded mantle is woven from fog. Until the end of the battle, attacks against you have a 20% miss chance (champion: 25%; epic: 30%).
+
+**Quirk:** Overly sneaky.
 
 ---
 
@@ -1868,6 +1988,14 @@ _Recharge 11+:_ Should anyone else touch your gloved hand, they receive a moment
 
 ---
 
+#### Gloves of the Kineticist
+
+These white gloves fly off your hands and float about when you call upon their power. You can wield items (weapons, a shield, implements, etc.) as you normally would but using the floating gloves. You can’t wield extra items with the gloves (you must keep your hands relatively free for gesturing and directing the floating gloves) and two-handed items still require both gloves...but you have your hands free to do things like drink potions (it becomes a quick action), climb ladders more easily while fighting, and similar actions or climb ladders more easily while fighting and similar actions (if the action would require a skill check, gain a +2 bonus).
+
+**Quirk:** Shameless self-promoter.
+
+---
+
 #### Gauntlets of Maiming
 
 _Recharge 16+:_ These nasty, spiked gauntlets are invariably caked with blood and gore, no matter how much you scrub them. When you inflict a critical hit that does not kill your opponent, you may describe how your attack is especially painful, and may involve chopping off limbs or skewering organs. The GM might even let this hamper or daze your enemy, or give a penalty to a particular special attack (“_how’s that manticore going to make a tail spikes attack now that I’ve cut off his tail!_”)
@@ -1970,6 +2098,14 @@ _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When
 
 ---
 
+#### Spell-catching Gloves
+
+_Recharge 11+:_ The fingertips of these elbow-length gloves are made of rare metals. When a nearby ally misses every target with a spell attack, that ally can recast the spell, using your position as the origin point and with targets of your choosing.
+
+**Quirk:** Eager for your friends to fail so that you look better.
+
+---
+
 #### Steel Fist of the Crusader
 
 _Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship die you have with the Crusader (champion: d8; epic: d12).
@@ -2018,6 +2154,14 @@ Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 
 ### Adventurer
 
+#### Arcane Eyes
+
+This set of 12 glass eyes levitates around your head in a halo, and at your direction, some can float off to investigate nearby objects. You can see through the eyes, giving you 360° vision and excellent night vision (gain a +2 bonus to checks to avoid surprise). Twice per day outside of battle, you can send some eyes nearby to look around corners or into pits.
+
+**Quirk:** Enjoys people-watching.
+
+---
+
 #### Circlet of Approachability
 
 While wearing this circlet, in regular social situations, you appear to others as someone who belongs there. You easily fit in with new groups of people, unless there is some particular reason for others to be suspicious. The circlet has no power in unusual social situations.
@@ -2044,11 +2188,31 @@ _Recharge 16+:_ Increase your Initiative by 4.
 
 ---
 
+#### Coronet of Certamen
+
+Quick Action
+
+1/Battle
+
+This battered metal headband shows signs of having been repeatedly struck by magic and survived. Cast any at-will spell at your level. If it’s an attack spell, it deals only half damage.
+
+**Quirk:** Steely gunslinger (or spell-slinger) gaze.
+
+---
+
 #### Diadem of Whispering
 
 Your words are magically audible by any one creature you can see, as if you were standing next to them whispering into their ear. Their replies are not magically enhanced, so they can only answer if you could normally hear their words. You may change target freely, but can only whisper to one person per round.
 
 **Quirk:** Gossips like a fishwife on the Shadowport docks.
+
+---
+
+#### Gems of Elemental Magic
+
+These gemstones float above your head like a crown. When you cast a spell that deals cold, fire, thunder, or lightning damage, you gain damage resistance 14+ to that damage type (champion: 16+; epic: 18+) until an attack beats that resistance, or end of battle.
+
+**Quirk:** Haughty demeanor when dealing with non-wizards.
 
 ---
 
@@ -2412,6 +2576,18 @@ If you fail all your available death saves (as opposed to being dismembered, or 
 
 ---
 
+#### String of Lights
+
+Quick Action
+
+1/Day
+
+You can command the jewels of this necklace to detach and float around you (a free action), shedding enough light to illuminate a dungeon corridor or forest clearing. When you use the daily power, you can direct the lights to strobe quickly, dazing one nearby enemy until the end of its next turn.
+
+**Quirk:** Pride, the kind that goes before a fall.
+
+---
+
 #### Talisman of Mortification
 
 _Recharge 11+:_ An ugly, spiky lump of metal scrapes against your chest, reminding you that your flesh is mortal, but the cause is eternal. Before you roll a save, you may sacrifice any number of recoveries. For each recovery sacrificed, you gain a +1 bonus to your roll.
@@ -2451,6 +2627,30 @@ Only characters that are ritual casters (either as a class feature or as a feat)
 ### Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). You can attune to up to two orbs. If you do, the recharge powers of each orb is reduced (recharge 16+ becomes 11+, recharge 11+ becomes 6+). While wielding two orbs, you only use the default attack and damage bonus from the strongest orb. However, you do get to benefit from both their powers.
+
+---
+
+#### Phoenix
+
+_Recharge 11+:_ This marbled reddish-yellow sphere is always warm to the touch. When you make an attack that deals fire damage, you can teleport somewhere nearby you can see.
+
+**Quirk:** Broad-minded.
+
+---
+
+#### Seeing
+
+_Recharge 16+:_ A clear glass orb that magnifies things oddly. You gain a +4 bonus to skill checks to detect illusions (you still must have reason to suspect an illusion exists). This effect doesn’t continue after you use the power, though illusions revealed to you continue to be obvious to you.
+
+**Quirk:** Paranoia about magical traps.
+
+---
+
+#### Sphere of the Arcane Princess
+
+_Recharge 11+:_ This purple orb is chased with gold filigree. You gain a +2 bonus to PD or MD until the end of the battle. The first time the orb fails to recharge, you gain a +1 bonus to AC until your next full healup.
+
+**Quirk:** Love of luxury.
 
 ---
 
@@ -2537,6 +2737,26 @@ When you make a skill check involving climbing, holding something, or otherwise 
 When you make a skill check, if your bonus for that check is +1 or +0, you gain a +2 bonus for your skill bonus instead (if your bonus is +2 or higher, this ring has no effect).
 
 **Quirk:** Talks as though they know everything.
+
+---
+
+#### Minor Illusions
+
+Standard Action
+
+_Recharge 11+:_ This ring changes appearance depending on which finger it is worn on. You turn invisible until you take any action or until the end of the battle. While invisible, enemies have a 50% chance to miss you completely. As an at-will quick action, you can also create and maintain small illusions hovering above the palm of your hand.
+
+**Quirk:** Over-complicate your plans.
+
+---
+
+#### Minor Transmutation
+
+A number of times per day equal to the highest modifier of your Int, Wis, or Cha
+
+This ring is made of many twisted bands of different materials. Pass your hand over a small object to transform it in a minor way (e.g., a rag into a silk handkerchief, a copper coin into a gold coin, a blank parchment into a map, an iron nail into a key). Transformations last up to an hour.
+
+**Quirk:** Sarcastic.
 
 ---
 
@@ -2694,6 +2914,24 @@ Oh yeah – if you’ve got one of these rings, you’ll be called upon to act a
 **Quirk:** Litigious.
 
 >_Note:_ The Dwarf King claims all treasures pulled from the earth are his. He claims that his law holds sway wherever the dwarves ever ruled. He claims his armies can hold the line against the Orc Lord. Let him make his wild claims. Each one saps his strength, and soon there will be precious little of that left. The old dwarf shall be the first to fall. I have foreseen this. - Arthak, Orc Blood Sorcerer
+
+---
+
+#### Iron Tides
+
+_Recharge 6+:_ An iron ring, decorated with black pebbles from the shores of the Iron Sea. When a nearby enemy pops free or disengages, you can move as a free action.
+
+**Quirk:** Your hair grows (and un-grows) along with the tides.
+
+---
+
+### Epic
+
+#### Major Transmutation
+
+_Recharge 16+:_ The many bands of this ring coil and twist when you cast a spell. When you hit an enemy with an arcane spell, deal 3d20 extra ongoing acid to the target; or send a squirt of powerful acid that can dissolve metal and wood.
+
+**Quirk:** Acerbic humor.
 
 ---
 
@@ -2924,6 +3162,35 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 ### Champion
 
+#### Astral Staff
+
+_Recharge 16+:_ This staff is inscribed with star maps. When you teleport somewhere nearby as a move action, each negative effect on you ends.
+
+**Quirk:** Obsessive astrologer.
+
+---
+
+#### Crystalline Staff
+
+A staff made of a single crystal. When you make your second attack each battle using this staff, deal +4d6 damage of a random type (determined on the table below) to one of the targets of that spell (epic: +4d10 damage).
+
+| d10 | Damage Type |
+| --- | --- |
+| 1 | Acid |
+| 2 | Cold |
+| 3 | Fire |
+| 4 | Force |
+| 5 | Radiant |
+| 6 | Lightning |
+| 7 | Necrotic |
+| 8 | Poison |
+| 9 | Psychic |
+| 10 | Thunder |
+
+**Quirk:** Fascination with rainbows.
+
+---
+
 #### Diabolical Staff
 
 _Recharge 16+:_ You can evoke the power of the staff to gain additional attention and power from the spirits of darkness. When you roll for relationship advantages with a villainous relationship, treat a 16+ as a 20. If you don't roll a 16+, the staff recharges automatically during your next quick rest.
@@ -3097,6 +3364,16 @@ Standard action
 _Recharge 16+:_ The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
 
 **Quirk:** Becomes certain that they are destined to rule.
+
+---
+
+#### Staff of Time
+
+1/day
+
+The staff is a long, thin, and very durable hourglass. When you use this power, you gain your own escalation die to use during battle. Roll a d6: on a 1–3, your escalation die increases by 1 above the existing escalation die; on a 4–6, it increases by 2. Your escalation die advances normally, and it only affects your attacks and effects. Alternately, you can give one enemy that uses the escalation die (like a dragon) its own escalation die with a similar penalty instead.
+
+**Quirk:** Always seems to know what is about to happen.
 
 ---
 
@@ -3368,6 +3645,16 @@ _Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, 
 
 ---
 
+#### Many Hurts
+
+1/Day
+
+The wand is hard to describe; it hurts to look at it. When you roll damage dice for an arcane spell, reroll the damage against one of the targets you hit and take the second result. If the second result is lower than the first, the damage becomes ongoing damage instead.
+
+**Quirk:** Excessive brutality toward fallen foes.
+
+---
+
 #### Metal Detecting
 
 In addition to improving your arcane spells, this wand allows you to detect concentrations of metal buried underground. It’s not especially precise, but can tell you the rough distance and direction to any nearby deposits of raw (or worked) gold, iron or other metals.
@@ -3424,6 +3711,16 @@ _Recharge 16+:_ When you hit an enemy with a spell that targets a single foe, th
 
 ---
 
+#### Stick of Tricks
+
+1/Day
+
+This wand looks almost like a child’s toy. As an at-will quick action, you can create minor, random, harmless cantrip-style effects (sparkles, sounds, strange lights, bubbles, streamers, etc.). When you use the daily power, create a helpful effect or trick that is as useful as a utility spell— enough to distract some guards, hold a door shut, open a lock, or a similar open-ended effect that the GM will allow—and you can’t use the at-will power until you regain the daily power.
+
+**Quirk:** Love of practical jokes.
+
+---
+
 #### Sturdy
 
 This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic bonus applies to both spell and melee attacks made with the wand (so if it’s a +1 wand, it’s also a +1 weapon). It only takes up one slot (pick which one you want to use), and gets full benefit from any oils or runes applied to it (so, if you boost the item up to a +2 wand with magic oil, it also becomes a +2 weapon).
@@ -3431,6 +3728,18 @@ This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic
 **Quirk:** Mistrustful of complexity, innovation or sophistry.
 
 >_Note:_ Steel and stone and rune and fire. Gold and dark and blood and fire. Heart and soul and beer and fire. These things make a dwarf. - ancient dwarven song, used to keep time when pumping bellows
+
+---
+
+#### Turning Cogs
+
+Quick Action
+
+At-Will or Special
+
+A wand, made of interlinked cogs. If you’re not a wizard, you can cast the wizard mend cantrip using this wand. If you are a wizard, you gain an extra daily use of utility spell at the highest level that you can cast spells while using this wand.
+
+**Quirk:** Always tinkering.
 
 ---
 
@@ -3446,7 +3755,15 @@ _Recharge 11+:_ When you use this wand, a creature who is at least somewhat subs
 
 ### Champion
 
-#### Wand of Unerring Pain
+#### Burning Moon
+
+This pearlescent wand sheds bright light when moonlight falls upon it. While you are helpless, your spirit leaves your body and can take normal actions. You can make only basic or at-will attacks. Enemies have a 50% miss chance against your spirit-form, but damage you take in spirit-form is applied to your body (your HP) as normal. Your spirit returns to your body when you are no longer helpless.
+
+**Quirk:** Overly optimistic.
+
+---
+
+#### Unerring Pain
 
 _Recharge 16+:_ When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
 
@@ -3491,6 +3808,14 @@ Melee Weapon
 Giants are vulnerable to the attacks of this weapon.
 
 **Quirk:** Gets touchy about short jokes.
+
+---
+
+#### Arcane Blade
+
+The twisted body of this weapon is inscribed with sigils. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. When you score a critical hit with a melee attack using this weapon, you can immediately cast an at-will spell that you know as a quick action.
+
+**Quirk:** Obsession with trivia.
 
 ---
 
@@ -3688,6 +4013,14 @@ When you hit with this weapon, you can deal +1d10 damage to that enemy (champion
 
 ---
 
+#### Last Hope
+
+The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your daily spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss (champion: 2d4; epic: 2d8).
+
+**Quirk:** Fear of storms, earthquakes, and other destructive natural phenomena.
+
+---
+
 #### Liberation
 
 Melee Weapon
@@ -3877,6 +4210,14 @@ _Recharge 16+:_ This weapon is a trophy of the arenas of Axis, handed down from 
 _Recharge 16+:_ If your elven grace species ability roll failed this turn, use the natural result of this bow's attack roll as another elven grace roll, after you see the roll.
 
 **Quirk:** Complains too often that the glorious centuries of old are gone forever.
+
+---
+
+#### Mana Drinker
+
+_Recharge 11+:_ The grip of this weapon is wrapped in a strip of dragon hide. When a spell or breath weapon attack hits you, that attack has no effect as the weapon absorbs it, and you deal +2d6 damage of the type absorbed with your next attack using this weapon that hits this battle.
+
+**Quirk:** Bravery that verges on foolishness.
 
 ---
 
@@ -4088,6 +4429,18 @@ These crystal lenses fit over the eyes. Once per full recovery you can use a sta
 ---
 
 #### [Eyes of the Eagle](http://dnd5e.wikidot.com/wondrous-items:eyes-of-the-eagle)
+
+---
+
+#### Floating Disk
+
+Move Action
+
+At-Will
+
+This 3-foot-wide concave brass disk levitates when you mentally command it. As a move action, you can remain still (perhaps sitting on it) and move it, or you can move it as part of your own move action. It can travel as fast as you normally can, can float up to 3 feet above the ground, can flip over if you direct it to, and can carry twice as much as you normally can. The disk hovers (allowing it to cross water, quick sand, or trapdoors, for example), but doesn’t fly (so it will fall into a pit).
+
+**Quirk:** You tense up in dangerous situations, especially in prolonged battles.
 
 ---
 
@@ -4795,6 +5148,18 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
 
 **Quirk:** Laughs turn hollow or spectral.
+
+---
+
+#### Wizard’s Skull
+
+Wondrous Item
+
+1/Day
+
+This talking skull gives advice, most of it good. Use the power during a short rest; you gain one of your expended daily spells of your level or lower. Curse: The skull knows a lot of obscure facts and longforgotten lore, and gives very good advice—until it sees its chance to betray you to further its own goals.
+
+**Quirk:** Ancient wisdom is better than common sense.
 
 ---
 
