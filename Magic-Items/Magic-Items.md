@@ -129,17 +129,15 @@ You deal +4 damage on a miss (champion: +10; epic: +25).
 
 ---
 
-#### Slingstone of Courage
+#### Shifting
 
-This ammunition deals +2d10 damage when it strikes a foe from a higher tier (so, if you’re an adventurer-tier character, you deal the extra damage when you hit a creature who’s 5th level or higher.)
+In addition to its usual damage, this arrow inflicts 1d6 fire, lightning or acid damage, chosen when fired (champion: +2d6 damage; epic: +3d6 damage).
 
 ---
 
-#### Stone-Piercing
+#### Slingstone of Courage
 
-Enchanted for battle in the Underworld, stonepiercing projectiles pass through solid stone – but not other barriers – as though it was empty air. Stone cover offers no protection against this ammunition. You can even fire through walls, if you have some other way of discerning your foe’s position than sight (or, more likely, you’ve got so many dwarves with stone- piercing bolts that you can pepper every inch of the cave wall and be sure of hitting a goblin.)
-
->_Note:_ We’re not sure how far stone-piercing bolts actually… go. For if all the earth and stone’s no more than empty air to ‘em, then there’s a fair to middling chance they just keep falling forever all the way down through the Underworld, until they hit someone or fall out the bottom of the world. Grunbolt, dwarven adventurer.
+This ammunition deals +2d10 damage when it strikes a foe from a higher tier (so, if you’re an adventurer-tier character, you deal the extra damage when you hit a creature who’s 5th level or higher.)
 
 ---
 
@@ -152,6 +150,14 @@ You may cast one of your Close spells onto the missile. When the missile is fire
 #### Swift Shot
 
 Once per battle, if you’ve got elven grace, and you get an extra standard action, and you use that standard action to make a ranged attack with this ammo, then the size of the die rolled to determine whether or not your elven grace triggers doesn’t increase. If you’re not playing a wood elf archer, your eyes probably glazed over two clauses back.
+
+---
+
+#### Stone-Piercing
+
+Enchanted for battle in the Underworld, stonepiercing projectiles pass through solid stone – but not other barriers – as though it was empty air. Stone cover offers no protection against this ammunition. You can even fire through walls, if you have some other way of discerning your foe’s position than sight (or, more likely, you’ve got so many dwarves with stone- piercing bolts that you can pepper every inch of the cave wall and be sure of hitting a goblin.)
+
+>_Note:_ We’re not sure how far stone-piercing bolts actually… go. For if all the earth and stone’s no more than empty air to ‘em, then there’s a fair to middling chance they just keep falling forever all the way down through the Underworld, until they hit someone or fall out the bottom of the world. Grunbolt, dwarven adventurer.
 
 ---
 
@@ -276,6 +282,14 @@ _Recharge 6+:_ Hundreds of brightly colored butterflies cling to this armor, str
 You may send the butterflies off to protect an ally. That ally gains the magical protection of your armor instead of you (the bonus from your armor stacks with theirs). The butterflies return to you at the end of your next turn.
 
 **Quirk:** Fragile sense of self.
+
+---
+
+#### Chameleon Armor
+
+_Recharge 6+:_ You can blend in with your surroundings, becoming effectively invisible as long as you don’t move or attack. If a foe knows where you stopped to become invisible, your miss chance against their attacks is only 25% instead of the usual 50%.
+
+**Quirk:** Insects, when prepared correctly, add much-needed crunch to any dish. Share this culinary discovery with your friends.
 
 ---
 
@@ -441,6 +455,16 @@ It’s harder for you to be teleported if you don’t want to be moved. If an en
 
 ---
 
+#### Sorcerer’s Leather
+
+Heavy Armor
+
+This counts as heavy armor, but arcane spellcasters don’t suffer an attack penalty to their spells while wearing it. The attack penalty still applies to their melee and missile attacks, though.
+
+**Quirk:** Addicted to spellcasting.
+
+---
+
 #### Spectral Armor
 
 Quick Action
@@ -549,6 +573,14 @@ This armor looks like oddly reddish steel, but to the eyes of a creature that ex
 
 ---
 
+#### Evard's
+
+_Recharge 6+:_ This strange armor looks like a tangle of black bandages, held together with leather straps. In battle, the bandages writhe and flail with a will of their own. When you use the armor, you may make an opportunity attack on any nearby enemy that provokes one, even if you’re not actually engaged with them. Alternatively, if you’ve got the sneak attack power, you can activate the robe to have it count as an ally engaged with your target for one attack, letting you deal sneak attack damage.
+
+**Quirk:** Speaks in a throaty, watery voice, like you’re half-drowning all the time.
+
+---
+
 #### Perfect Guard
 
 Heavy Armor
@@ -595,6 +627,14 @@ While wearing this +3 armor, you gain the feats that’s your best shot, toughne
 
 **Quirk:** Gets confused between past and present. The past was better, damn it.
 
+#### Scales of Umbraxatar
+
+_Recharge 16+:_ Only sorcerers can benefit from this armor. Only sorcerers are mad enough to wear it. This armor is made from scales taken from Umbraxatar, living dragonscales infused with the power of the Shadowfell. You gain an extra Sorcerer talent, which must be spent on either Blood Link or Chromatic Destroyer Heritage. Got both those talents already? Then have a free feat, which must be spend on augmenting one of those talents. You may also channel Umbraxatar's power. This lets you gather power as a quick action, but Umbraxatar gets a say in the spellcasting. He might have his own ideas about the choice of targets, or demand that you carry out some particular course of action or repay him by doing him some service. Of course, if you’re wearing this armor, you must be a loyal ally of a chromatic dragon, and so you will have no qualms whatsoever about letting him sniff around inside your soul...
+
+**Quirk:** The dividing line between you and Her gets blurrier every day.
+
+---
+
 ## Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
 ### Default Bonus
@@ -635,6 +675,14 @@ The illusion lasts for ten minutes, and whatever item you place in the pouch is 
 
 ---
 
+#### Belt of Miscibility
+
+You can benefit from the effects of two potions at once/
+
+**Quirk:** Likes to eat weird combinations of food.
+
+---
+
 #### Belt of Skulls
 
 Quick Action
@@ -642,6 +690,14 @@ Quick Action
 _Recharge 16+:_ This belt is empty when found. Once per level, when you defeat a foe whose level is higher than yours, you may mount that foe’s head on your belt as a trophy. (The belt’s magic shrinks the head to fit.) You may activate the belt when you make an attack; instead of rolling the dice, your natural attack roll is equal to 5 + the number of skulls on the belt. Large monsters count as two skulls; huge monsters count as three skulls (so, theoretically, you could get a natural attack roll of 35 if you have 10 huge skulls on your belt.) You may not swap out skulls – you must stick with your original trophies.
 
 **Quirk:** Haunted by ghostly voices from the skulls.
+
+---
+
+#### Belt of Swift Escape
+
+_Recharge 6+:_ When you disengage from a foe, you may make an immediate save against any one condition or any ongoing damage inflicted on you by that foe.
+
+**Quirk:** Takes the easy way out.
 
 ---
 
@@ -752,6 +808,14 @@ A weapon drawn from this swordbelt inflicts an extra 1d8 damage with your first 
 _Recharge 16+:_ When you activate this kilt, you may walk on walls or steep cliffs as if they were level ground. You can run straight up a vertical wall – just stay clear of the ceiling, as the kilt’s magic fails if you go upside-down. The kilt’s effect lasts for the rest of the battle.
 
 **Quirk:** Sworn to abjure underwear of all forms.
+
+---
+
+#### Kilt of the Swamp Leech
+
+_Recharge 11+:_ The power of the lizardfolk shamans who wove this kilt flows through you. After an enemy targets you with an attack, you may activate this belt to leech off their good luck. You use the same result that they used to attack you for your next attack.
+
+**Quirk:** Takes advantage of others.
 
 ---
 
@@ -1008,6 +1072,20 @@ _Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a
 
 ---
 
+#### Seared Book
+
+_Recharge 11+:_ It’s hard to tell that this lump of charred and ruined paper was ever actually a book, but that doesn’t stop you reading it obsessively, trying to find wisdom in the burnt, acid-scarred pages.
+
+When an enemy is slain by an acid attack – you don’t have to be the one who actually delivers the killing blow, you just need to witness it – you may either take an extra move action in your next turn, or learn one secret held by that enemy related to personal matters, or to politics, intrigue or crime. The answer appears in the pages of the seared book. Think of it as a forced final confession, or a strange variation on a speak with dead ritual that uses acid as a medium.
+
+When an enemy is slain by a lightning attack, you may either immediately cast an at-will spell as a free action, or learn one secret held by that enemy relating to arcane or spiritual matters.
+
+When an enemy is slain by a fire attack, you may either take an extra standard action in your next turn or learn one secret held by that fallen enemy related to practical matters (anything not covered by the other two).
+
+**Quirk:** Drawn to ruined places and ancient battlefields.
+
+---
+
 #### Tome of the Divinities and their Deeds
 
 _Recharge 16+:_ When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total (champion: +2d8 hp; epic: +4d10 hp).
@@ -1124,6 +1202,14 @@ You gain a +4 bonus to skill checks to walk quietly.
 
 ---
 
+#### Boots of Ferocious Charge
+
+Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss (champion: +2d8; epic: +4d10).
+
+**Quirk:** You like to start fights as much as you like to finish them.
+
+---
+
 #### Boots of Joy
 
 _Recharge 6+:_ These elegant boots lighten your heart, and make you want to dance at every opportunity. You may take a free move action immediately when you roll a natural 20.
@@ -1148,19 +1234,19 @@ You can walk or run normally through terrain that would usually slow one down, s
 
 ---
 
-#### Boots of Ferocious Charge
-
-Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss (champion: +2d8; epic: +4d10).
-
-**Quirk:** You like to start fights as much as you like to finish them.
-
----
-
 #### Boots of the Hero’s Footsteps
 
 These travel-worn boots have been all over the Empire, and they remember every step. Sometimes, you’re beset by intense déjà vu, as memories from the boots leak into your mind. This only happens in places where the boots have been before. When it goes, you either get a +4 bonus to a Wisdom skill check related to navigation or finding paths, or a +4 bonus to a Dexterity check to avoid unexpected hazards that the boots have encountered before.
 
 **Quirk:** Your feet instinctively lead you towards the nearest inn.
+
+---
+
+#### Boots of Water Walking
+
+As long as you don’t stop moving, you can walk on water. You start sinking after any turn in which you don’t take a move action.
+
+**Quirk:** Twitchy.
 
 ---
 
@@ -1437,6 +1523,14 @@ In short, if someone reacts to your cloak, then there’s something special abou
 
 ---
 
+#### Cloak of Lizards
+
+_Recharge 16+:_ This folds of this scaly cloak quiver and move of their own accord, as if something – a lot of somethings – scurries around beneath the fabric. When activated, a swarm of silver lizards rush out of the cloak and distract your foes. You and any nearby allies may pop free.
+
+**Quirk:** Delights in sleight-of-hand and other dramatic tricks.
+
+---
+
 #### Cloak of Misdirection
 
 _Recharge 16+:_ When engaged by two or more enemies, if one of them strikes you with a melee attack, you may activate the cloak to have that melee attack also strike another engaged foe. The same attack roll is applied to this new extra target, so it is possible that an attack that hit you still misses the second target. You may not use any powers or abilities that avoid attacks or negate damage in conjunction with the cloak – you have to feel the pain before you can share it.
@@ -1577,6 +1671,14 @@ Gives +2 to attempts to hide in darkened areas, or at night. You may share this 
 This long cloak with a full hood keeps you warm and dry, regardless of the elements, barring full immersion in water or other liquid.
 
 **Quirk:** Prefers the outdoors.
+
+---
+
+#### Shroud of Protection
+
+_Recharge 11+:_ You may activate this cloak in response to being targeted by any non-melee attack by pulling it over your body to shield you from the blast. You choose to use the cloak before damage is rolled. You take half damage from the attack, but lose your next standard action.
+
+**Quirk:** Nervous.
 
 ---
 
@@ -1742,6 +1844,14 @@ _Recharge 6+:_ Increase your initiative by +2d6 for this round only (champion: b
 
 ---
 
+#### Glove of Adhesion
+
+The fingers of these gloves stick to any surface, giving a +4 bonus to skill checks to climb or hang on. The stickiness of the gloves lingers even after you stop using them, making your touch clammy and unpleasant.
+
+**Quirk:** Loves heights.
+
+---
+
 #### Glove of Glimpsed Sorrow
 
 _Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
@@ -1803,7 +1913,7 @@ You may activate it to:
 - change the weather in the local area. You can call up winter storms, blanket the land in a blizzard, or pick up and drag winter away to let spring in. You don’t have any fine control, so you can’t use this power as a direct attack.
 - Do epic, hand-wavey narrative things because you’ve got a season on the end of your arm.
 
-Once you’ve got the hand, you’re stuck with it until you perish or you willingly allow someone to take it from you. Technically, your hand is indestructible, but that’s something of a moot point, as the rest of your body is still mortal. If you try to, say, catch the fiery breath of the Red, your hand will survive but the rest of you will be frosted ash on the wind.
+Once you’ve got the hand, you’re stuck with it until you perish or you willingly allow someone to take it from you. Technically, your hand is indestructible, but that’s something of a moot point, as the rest of your body is still mortal. If you try to, say, catch the fiery breath of Vaeros, your hand will survive but the rest of you will be frosted ash on the wind.
 
 Depending on the whims of the GM, the following may be true:
 
@@ -1905,6 +2015,16 @@ Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 While wearing this circlet, in regular social situations, you appear to others as someone who belongs there. You easily fit in with new groups of people, unless there is some particular reason for others to be suspicious. The circlet has no power in unusual social situations.
 
 **Quirk:** Peppers speech with needless foreign words.
+
+---
+
+#### Circlet of Stolen Thoughts
+
+_Recharge 6+:_ You pick up on the thoughts of those around you. You can’t choose whose thoughts you hear, and you don’t hear everything – just snatches and fragments. Unless you are familiar with those around you, you may not be able to tell which thoughts come from whose mind. You can be sneaky and get people alone so you can listen to their thoughts only, but you still won’t know everything they’re thinking, only the occasional stray emotion or image.
+
+In combat, the circlet may give you just enough warning to avoid an attack. If an enemy’s total attack roll is exactly equal to your AC (or PD, or MD, if the attack targets a Defense other than AC), then you can change that attack into a miss by dodging at the last second. So, if you’ve got an AC of 21, and an attacker with an attack bonus of +6 rolls a 15 for a total of 21, you can change that hit into a miss.
+
+**Quirk:** Pries into personal matters.
 
 ---
 
@@ -2143,6 +2263,16 @@ _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus n
 ---
 
 ### Adventurer
+
+#### Assassin’s Amulet
+
+_Recharge 6+:_ When you miss with an attack, you may use the amulet to ensure that no-one notices. You don’t get to inflict miss damage. As far as any witnesses (including your target) are concerned, you did something perfectly innocent. Maybe you stumbled slightly, or perhaps you muttered to yourself.
+
+**Quirk:** Obsessed with making a good first impression in any situation.
+
+>_Note:_ Only humans and dragons are so neurotic about appearances that they’d invent such a thing. If an orc fails to land a blow, he gets angry and hits harder next time! - Arthak, orc blood mage
+
+---
 
 #### Bearclaw
 
@@ -2438,7 +2568,7 @@ _Recharge 6+:_ When you use this ring, heal using a recovery.
 
 ---
 
-#### Ring of Runes
+#### Runes
 
 Quick Action
 
@@ -2476,6 +2606,14 @@ _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack rol
 
 ---
 
+#### Spell Vampire
+
+_Recharge 11+:_ This ring siphons magical energy from defeated enemies. When you slay a foe, name one of your magic items or recharge powers and justify how you’re recharging that item or power with that particular foe’s essence. There has to be a symbolic or narrative connection between the two – you could obviously use a defeated fire elemental to recharge your dragonic breath weapon, but how does the elemental essence charge up your stalwart cloak? You get the level of the defeated foe as a bonus to the power or item’s recharge roll.
+
+**Quirk:** Terrible table manners.
+
+---
+
 #### Spellbreaking
 
 _Recharge 11+:_ For a magic ring, this is a hefty chunk of metal, more of a knuckleduster than anything else. If an enemy you’re engaged with draws an opportunity attack by casting a spell, and you hit with that opportunity attack, you may activate the ring to automatically counter the enemy’s spell. If you roll a natural even hit, and the spell has a limited number of uses, then one use is consumed fruitlessly.
@@ -2484,7 +2622,7 @@ _Recharge 11+:_ For a magic ring, this is a hefty chunk of metal, more of a knuc
 
 ---
 
-#### The Cycle, Ring of
+#### The Cycle
 
 When a nearby ally fails a death or last gasp save, you may cancel this failure, keeping them alive. However, each time you do this, you must pick another nearby ally to ‘lose’ a death save. If that second ally gets knocked to negative hit points and has to make death saves, then they die after one fewer death save than normal. (Usually, you die after four failed death saves; if someone’s used the ring of the cycle on you once, you die after three.)
 
@@ -2791,6 +2929,14 @@ If anyone draws on the staff in a battle, the staff is depleted after the battle
 When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
 
 **Quirk:** Expects to be treated with respect.
+
+---
+
+#### Staff of Storms
+
+_Recharge 11+:_ This staff is a long, thin shaft of blue metal, topped with a stylized image of a Blue Dragon. When you take lightning damage, you gain a bonus to your next attack of +1 per 10 damage suffered. So, if you’re hit for 100 damage, that’s a +10 bonus to your next attack. Yes, you can target yourself with a lightning attack to charge the staff.
+
+**Quirk:** Wild emotional swings, especially during thunderstorms.
 
 ---
 
@@ -3178,6 +3324,14 @@ When you cast an arcane attack spell using this wand, you gain a +1 bonus to att
 
 ---
 
+#### Inner Fire
+
+_Recharge 6+:_ The magic of this wand is intended for use by sorcerers, as it stirs up the user’s innate magic. Use it after you miss with a spell; you take 1d4 x your level in damage (1d6 x your level if you’re not a sorcerer), but you get an additional +1 bonus to your next attack with a spell.
+
+**Quirk:** If you’re a sorcerer, your arcane heritage goes into overdrive, and you start acting more like your patron Icon. If you’re not a sorcerer (or you’re a sorcerer without a clear ancestry), then you just feel queasy after using the wand, as if your blood’s started to fizz like a carbonated drink.
+
+---
+
 #### Mage's Invisible Aegis, Wand of the
 
 _Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, with a level no higher than your level. (Champion: recharge 11+).
@@ -3397,6 +3551,26 @@ Two-handed melee weapon
 _Recharge 11+:_ When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
 
 **Quirk:** Intrudes on personal space.
+
+---
+
+#### Duplicitous
+
+Melee Weapon
+
+_Recharge 11+:_ When you hit an enemy with this weapon, you may choose to instead deal the damage to another enemy also you’re engaged with.
+
+**Quirk:** Lies about trivial matters.
+
+---
+
+#### Feinting
+
+Melee Weapon
+
+When you miss with an attack with this weapon, you gain a +1 bonus to AC until the start of your next turn.
+
+**Quirk:** Blurts out lies when put under pressure.
 
 ---
 
@@ -3911,6 +4085,12 @@ While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding brig
 
 ---
 
+#### Lesser Spellwrought Tattoo
+
+This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-list) of 3rd level or lower. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+
+---
+
 #### Lore Bottle
 
 A bottle of translucent glass, sealed with lead, with a ghastly face that peers out at you. When you ask it questions, it answers in the form of vague hunches. For tough questions, the face might fade out for a while, apparently searching somewhere for an answer. Owning the bottle gives you +2 bonus to Intelligence-based skill checks, if you have the time (and privacy) to consult the lore bottle. Chances are, your particular lore bottle has some sort of specialty or bias, which you will discover only through use. Unlike most magic items, lore bottles can often be found for sale, but you probably don't want those.
@@ -3961,9 +4141,11 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 
 ---
 
-#### Lesser Spellwrought Tattoo
+#### Spirit-Catching Jar
 
-This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-list) of 3rd level or lower. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
+Spirits of all sorts move through the Empire. This glass jar is marked with runes of capture and containment, so roll a d6 at every full heal-up. On a 5 or 6, you’ve caught a spirit of the sort you’d expect to find in your current environment (ghosts in a graveyard, arcane sprites in a wizard’s tower, storm elementals at sea). Some spirits are intelligent enough to bargain for their freedom; all are magically potent and can be used either as ritual components, or just left loose at the right moment. You might catch an air sylph spirit and let it go to produce a sudden gust of wind, or capture a forest sprite and force it to show you a path through the woods.
+
+**Quirk:** Avid collector –coins, pinned insects, kobold ears, obscure spells or something weirder.
 
 ---
 
