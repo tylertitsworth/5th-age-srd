@@ -17,6 +17,10 @@ Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point e
 
 ### Adventurer
 
+#### Assassin’s Arrow
+
++1d10 damage if you hit with this arrow during a surprise round. If you’re a rogue, you may also apply your sneak attack damage if you hit with this arrow at any time.
+
 #### Biting Skull
 
 Arrows and bolts with this property have the skulls of rats, snakes or other vermin attached just behind the arrowhead. Sling-stones with this property are actually tiny chattering skulls. The animated skulls bite and shriek distractingly when they strike; a creature hit with this ammunition has its Initiative reduced by 4.
@@ -68,6 +72,12 @@ When you hit with an attack using this ammunition, the target also pops free fro
 #### Incineration
 
 Creatures slain by ammunition with this property are reduced to ash when they die. They’re not going to come back as zombies, or rise as vampires, or be used as husks by demons.
+
+---
+
+#### Invisibility
+
+If you miss with this arrow, you become invisible until the end of your next turn, or until you attack, whichever comes sooner.
 
 ---
 
@@ -279,6 +289,14 @@ You gain a +4 bonus to all defenses against opportunity attacks.
 
 ---
 
+#### Darkness
+
+Shadows congeals around this armor, sheathing the wearer in a shell of darkness. This armor gives an additional +1 bonus to AC when the wearer is in the shadows (at night, or underground or indoors and away from any light sources). Its AC bonus is reduced by 1 when in direct sunlight or next to a light source.
+
+**Quirk:** Finds bright lights painful. Skin becomes alarmingly pale. Also, allergic to garlic.
+
+---
+
 #### Divine Passage
 
 Quick Action
@@ -485,6 +503,14 @@ While wearing this armor, you feel even more agile and limber than you do while 
 
 ---
 
+#### Unremarkable
+
+While wearing this armor, you look like… well, the main distinguishing feature is the armor’s… people chiefly remember that you… were wearing armor and... that’s about it. In addition to being utterly unmemorable to casual observers, the armor makes you appear less dangerous in combat. If two or more allies are engaged with the same foe as you, their attacks that target only you take a -2 penalty.
+
+**Quirk:** All your deeds, good and bad, get attributed to other people.
+
+---
+
 #### Unyielding Plate
 
 Heavy Armor
@@ -592,6 +618,20 @@ Free Action
 _Recharge 11+:_ This simple leather belt allows you to automatically succeed at a saving throw (including a death save) or to use a recovery to heal, but only when you really need it. You may only use this item when you’re at 10 hit points or less, or in a similarly dire situation. After using the belt, you must repay your debt to the cosmos, either by sacrificing another true magic item, or by undertaking a quest with no hope of reward.
 
 **Quirk:** Incapable of saying no to a request for aid.
+
+---
+
+#### Belt of Illusions
+
+_Recharge 16+:_ This belt works like the wizard spell disguise self, altering your appearance by cloaking you in a magical disguise.
+
+Unlike the spell, though, you can disguise yourself as a specific person without penalty. There’s a trick to it, though – there’s a leather pouch attached to the belt, and the illusion’s based on whatever you put into the pouch. The more personal the item, the better.
+
+Say you want to appear to be an orc warrior so you can sneak into an orc-infested dungeon without raising the alarm. If you pickpocket an orc guard and stick whatever orcs keep in their pockets into the pouch (gobbets of raw meat, probably, and fangs, and stones that look like they might be good for smashing skulls), then the belt obligingly disguises you as a generic orc warrior. However, if you could steal the tribe shaman’s holy symbol, then the belt might disguise you as the shaman herself.
+
+The illusion lasts for ten minutes, and whatever item you place in the pouch is consumed when the duration expires.
+
+**Quirk:** Insists on elaborate systems of passwords and magic wards to defeat rival shapeshifters and doppelgangers.
 
 ---
 
@@ -787,6 +827,14 @@ _Recharge 6+:_ This ugly iron belt is of benefit only when partnered with a magi
 
 ---
 
+#### Unseen Swordbelt
+
+Spells of blinding and hiding woven around the ornate scabbard on this belt prevent it from being seen or noticed by any except exceedingly powerful and cunning entities (epic-tier characters, or champion-tier characters who specialize in divination or awareness). With your sword or other weapon hidden on this belt, you appear to be unarmed until you draw it.
+
+**Quirk:** Takes unholy delight in making swordbased puns, as if subconsciously trying to draw attention to the invisible sword.
+
+---
+
 #### Victory by Inches
 
 You must carry a single magic melee weapon that you keep attached to this item for it to manifest its power. When using that weapon, apply the weapon's magic bonus to miss damage.
@@ -858,6 +906,16 @@ None.
 ---
 
 ### Adventurer
+
+#### Codebook of Nefarious Machinations
+
+Whenever your group suffers a campaign loss, you gain a temporary 1-point positive relationship with the Prince of Shadows. This positive relationship is lost once you gain some benefit from the Prince; you must then explain how your party’s defeat played into the Prince’s stratagems, and now you’re getting your payoff.
+
+**Quirk:** Leaves apparently meaningless messages hidden in the most unlikely places.
+
+>_Note:_ No, really, it’s a good thing we got shipwrecked. I can’t tell you why, but trust me, it’s all part of the Plan. It’s also a good thing that we were able to salvage this barrel of wine. That’s not part of the Plan, I just want a drink. - Stormcrow Jacen, not even bothering to pretend he’s a “merchant” at this point.
+
+---
 
 #### Codex of Foreshadowed Victory
 
@@ -1052,6 +1110,12 @@ Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer
 
 ### Adventurer
 
+#### Boots of Convenience
+
+_Recharge 11+:_ When you’re not engaged, you may choose to temporarily be nearby or far away when targets are chosen for an attack, regardless of your actual physical position on the battlefield. So, you can be nearby the cleric when she casts heal, but then snap back to far away when the evil spellcaster fireballs the area. Quirk: Whenever you visit a tavern or other gathering-place, you attract a retinue of sycophants and ne’er-do-wells who vanish whenever you might ask them a favor.
+
+---
+
 #### Boots of Elvenkind
 
 You gain a +4 bonus to skill checks to walk quietly.
@@ -1179,6 +1243,16 @@ _Recharge 6+:_ The wearer of these deerskin moccasins is astoundingly fleet of f
 _Recharge 11+:_ When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
 
 **Quirk:** Recites death poems of ancient heroes. At length.
+
+---
+
+#### Surestep Boots
+
+_Recharge 11+:_ There’s always something to step on. When you activate these boots, you can be assured that your very next step will be onto something safe and solid, no matter the situation. If you step into a river of lava, you’ll put your foot on a cool rock. If you jump down a cliff, you’ll step on a ledge or a branch. Jump off a roof, land on a balcony or a flagpole. Leap into the ocean, and you’ll land on a sandbank or a piece of floating wreckage or a trusty sea-turtle. Depending on the circumstances, the boots may give you a +4 bonus to skill checks related to unlikely swashbuckling and acrobatics.
+
+_Disclaimer:_ the magic of the boots is good for one (1) step. Any and all future steps are outside the purview of these magic boots. You can step off a flying realm and set foot on a seagull or a floating rock, but your next step after that is your own problem. (Here’s where you start spinning the GM a yarn about how one of your backgrounds totally counts for riding a seagull while balancing on one leg.)
+
+**Quirk:** Impetuous.
 
 ---
 
@@ -1340,6 +1414,16 @@ The cloak resembles the sort of animal you can turn into – so, a bearskin cloa
 _Recharge 16+:_ When you activate this cape, you may fly until you attack or are hit by an attack. Most versions of this cape grant flight by transforming into a diaphanous greatcloak that catches unseen updrafts and lifts you up like a leaf on the wind; others just conceal the bat wings you grew when you first put on the cloak.
 
 **Quirk:** Drawn to bright lights and exposed flames, like a moth.
+
+---
+
+#### Cloak of Anonymity
+
+While wearing this cloak, you blend in with crowds. People ignore you, and overlook anything else that’s strange about you. You could be a ten-foot-tall fanged demon who constantly weeps poison, and no-one would look twice when you walked past them in the marketplace. The cloak’s magic can’t hide you if you do something out of the ordinary. If someone is specifically looking for you, you get a +4 bonus to checks to hide in the crowds.
+
+**Quirk:** Wants to do whatever common people do.
+
+>_Note:_ Beware! Beware! Monsters and demons walk amongst you unseen! They wear masks of flesh, or cloak themselves in illusion, so you do not see them as they work their evil. I say to you all – you are a slave to devils, and vampires feed on your children, and your soul is meat for the beasts of the hells, and you are blind, blind to all this! Only those blessed by the Dark Gods can see the truth! Join the Crusade, and the veils will be lifted from your eyes, and you can fight back against the invisible horrors that have ruled you all your life! Join us, and see! Join us, and fight! - Erach, crazed preacher
 
 ---
 
@@ -1530,6 +1614,18 @@ _Recharge 16+:_ When you teleport, you may bring one extra passenger along with 
 
 ### Champion
 
+#### Cloak of Bilocation
+
+_Recharge 16+:_ For the rest of the battle, or until you’re taken out, there are two of you – or one, in two places at once. You don’t get any extra actions, but you can divide your actions between your two copies as you wish. Everything’s shared between the two – damage and conditions apply to both of you. You can engage multiple foes, but take a -4 penalty to any opportunity attacks you make beyond the first each round. You can even both engage the same enemy for the purposes of powers like sneak attack.
+
+When the battle ends, pick which you stays, and which one vanishes.
+
+The epic version of this cloak gives you an extra standard action in the turn you activate the cloak.
+
+**Quirk:** You argue with yourself. And lose.
+
+---
+
 #### Cloak of Escape
 
 _Recharge 11+:_ The wearer seems to almost vanish in the billowing black folds of this overlarge garment. When included in the list of targets for an attack that strikes multiple targets, if there is at least one nearby ally who is a valid target for that spell but is not already targeted by it, you may use the cloak of escape to force the attacker to choose another target instead of you. For example, if an enemy casts a spell that targets two nearby creatures, and there are two other player characters nearby, you may use the cloak to ensure the spell attacks the two of them instead of you.
@@ -1600,6 +1696,18 @@ _Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 a
 
 ---
 
+#### Detachable Gloves
+
+You may remove your hand and send it scurrying across the ground like a five-legged spider. Not only is this hilarious at children’s parties, but you may control your detached hand by remote thought, allowing you to perform actions at a distance. Even when on detached duty, your hand shares your allocation of actions, so if you want the hand to cover any distance, you’ll need to spend a move action on it. You can’t attack with your hand, but can cast spells through it that rely on touch. If anyone injures your hand, you suffer the damage.
+
+You can reattach your hand by picking it up and touching it to your wrist.
+
+**Quirk:** Evil hand. Or good hand. Hand of opposite alignment to you, anyway.
+
+>_Note:_ Some years ago, it was fashionable in Glitterhaegen to wear detachable gloves. So many hands went astray, especially after parties, that the specialized profession of handfinder evolved. Indeed, the Worshipful Guild of Handfinders is still in operation, though I have no idea what they do now that the gloves have fallen out of common use. - Synix Alacostar, Wizard of Horizon
+
+---
+
 #### Dragon’s Claw Gauntlet
 
 Quick Action
@@ -1623,6 +1731,14 @@ _Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, pol
 _Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of the battle (champion: +2d8; epic: +4d10).
 
 **Quirk:** Clobber first, talk later.
+
+---
+
+#### Gauntlets of Swift Striking
+
+_Recharge 6+:_ Increase your initiative by +2d6 for this round only (champion: by 13; epic: you’re going first this round no matter what.)
+
+**Quirk:** You already assumed the quirk for this item was ‘jumps to conclusions’, right?
 
 ---
 
@@ -1910,6 +2026,14 @@ _Recharge 6+:_ Depending on your character’s facial hair, this item may enter 
 
 ---
 
+#### Roguish Cap
+
+While wearing this cap, you bring out the sinister or mischievous side of people. They become more willingly to break the rules around you, and see you (probably correctly) as a fellow devil-may-care sort of rulesbreaker. Depending on your surroundings, this can get you involved in all sorts of criminal dealings (wear this in a dockside tavern in Shadowport, and you’ll be surrounded by self-confessed smugglers and pirates in no time) or just give you an insight into what people might prefer to keep hidden (wear it in Santa Cora, and you’ll learn gossip about how the clerics of such-and-such a temple are all crooks out to fleece pilgrims, or how the holy relic of St. So-andso is just an old skull dipped in luminous paint).
+
+**Quirk:** Terrible reputation as a thief and scoundrel, no matter where you go.
+
+---
+
 #### Skullcap of Wit
 
 You can banter with a lively wit. If you already have a lively wit, it doesn't make much of a difference. Interpret this ability narrowly enough that it might provide a bonus to a die roll that anyone really cares about only once in a campaign.
@@ -2028,6 +2152,14 @@ _Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10
 
 ---
 
+#### Earring of Fortunate Happenstance
+
+While wearing this subtle diamond stud, your attention is magically drawn to any nearby conversations that may be of use to you. The earring is obviously of most use in crowded places, like markets or taverns or courts where there are plenty of opportunities for eavesdropping.
+
+**Quirk:** Unconsciously pauses in the middle of conversations to listen on what’s going on next door.
+
+---
+
 #### Pendant of Burning Blood
 
 _Recharge 11+:_ Your blood is black, thick as treacle and hot as boiling oil. As a free action when you take untyped ongoing damage (so, just plain “X ongoing damage”, as opposed to ongoing psychic damage or ongoing fire damage or whatever), you may inflict an amount of fire damage equal to that ongoing damage on all foes engaged with you.
@@ -2075,6 +2207,18 @@ _Recharge 11+:_ 1d3 nearby undead creatures, each with 55 hp or fewer, are autom
 The pendant brings out the best in other magic items you carry, so that their quirks turn more positive, or at least become weaker if they cause trouble. If you go over your magic item limit, the pendant ceases to function (including the default bonus) and the formerly subdued magic items express themselves with renewed fervor.
 
 **Quirk:** Treats all their magic items well—talks to them as if they're alive, refers to them as "children," etc.
+
+---
+
+#### Necklace of the Noose
+
+This little talisman allows you to feign death perfectly. When you activate it, you ‘die’ from whatever malady is most appropriate for your current situation - you might succumb to your wounds, or appear to be blasted by a death spell, or just suffer a sudden and lethal heart attack. You appear genuinely dead to all observers – a hard skill check by a physician or a spellcaster with some sort of life-discerning spell might be sense that something is wrong, but could not say for sure if you’re alive or dead.
+
+This illusion lasts for up to twenty-four hours. The GM decides when you awaken and in what circumstances – you’re completely unaware of what happens to your ‘corpse’ while you’re unconscious.
+
+The champion and epic versions of this item actually disconnect your soul from your body for the duration of the illusion, so even the gods are fooled if they don’t look too closely.
+
+**Quirk:** Delights in ghastly practical jokes.
 
 ---
 
@@ -2255,6 +2399,16 @@ Quick Action
 _Recharge 6+:_ When one side in a battle flees, specify a target on the opposing side to yours. When you next encounter that foe, you automatically inflict 1d8 (champion: 2d8; epic: 4d10) psychic damage on that enemy at the start of combat.
 
 **Quirk:** Sore loser.
+
+---
+
+#### Poor Choices
+
+Quick Action
+
+_Recharge 11+:_ This ring allows you to subtly influence the choices made by your enemies. When you use it, make a Charisma + Level attack vs. MD against one nearby enemy. If you hit, you may suggest a poor choice for the target’s next action. The course of action you suggest must be relatively reasonable – stabbing an ally for no reason is a terrible decision, not a poor one. You could, however, suggest that the enemy engage the raging barbarian instead of the unarmored and wounded wizard, or that the city guard chasing you try climbing the outside of the building instead of following you up the stairs. The GM has final say over the victim’s actions – this ring lets you influence people, not mind-control them.
+
+**Quirk:** Self-deluded and blind to own faults.
 
 ---
 
@@ -2446,6 +2600,18 @@ _Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver
 _Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
 
 **Quirk:** Always uncomfortably chilly, even in the hottest conditions.
+
+---
+
+#### Half-Cape of Evasion
+
+_Recharge 6+:_ This half-cape of heavy cloth works like a shield, both in terms of defensive fighting (you can use it to block light weapons or engulf and parry heavier attacks) and magic (its default bonus increases your maximum hit points). You can activate it when an enemy moves to attack you, or when you’re intercepted while moving.
+
+If a foe moves to attack you, then if the attack misses, you pop free automatically and don’t suffer the miss damage, if any.
+
+If you got intercepted while moving, then if you make an attack on the foe and hit, then you pop free and can finish your move action as if your enemy never got in your way.
+
+**Quirk:** Taunts and mocks foes, especially minotaurs.
 
 ---
 
@@ -2720,6 +2886,16 @@ _Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald
 
 ---
 
+#### Jack of Staves
+
+Varies
+
+_Recharge 16+:_ It’s a powerful magic item, but this gaudy shaft of painted wood looks like a jester’s stick. Using this staff is a two-stage process. First, you’ve got to touch an enemy spellcaster with the staff (hitting them in melee works just fine). You may then use the staff to cast one of their spells. (Work with your GM to hastily hammer monster abilities into something that looks like a player character ability). The enemy can’t use the same spell in their next turn (and if the spell had a limited number of uses, you just expended one of them).
+
+**Quirk:** Loves disguises.
+
+---
+
 #### Spellbane Staff
 
 Standard Action
@@ -2779,6 +2955,8 @@ However, you must give thanks to the ancestors when you do so. Specifically, you
 You don’t have to thank the same ancestors each time – you could start off by thanking your maternal grandmother, then her great-grandmother and her great-great-grandfather and so on. However, any hesitation, deviation or repetition (if two ancestors have the same name, then obviously you must also mention their distinctive bynames) means you have disrespected your ancestors, and you must take the lower of the two rolls for damage or healing. The displeased ancestors will also make their anger known in some other way until you have atoned.
 
 **Quirk:** Keeps detailed genealogical records.
+
+---
 
 #### Blasphemous Symbol
 
@@ -2937,6 +3115,16 @@ Attack and damage with arcane spells or attacks: +1 (adventurer); +2 (champion).
 ---
 
 ### Adventurer
+
+#### Arcane Ventriloquism
+
+_Recharge 11+:_ This wand is small enough to be easily concealed. When you cast a spell, pick another spellcaster (either an ally or an enemy). Your spell emanates from their location as if they’d cast it, and anyone not familiar with arcane techniques will assume they were responsible for whatever spell you just threw. You can only pick a spellcaster who’s far away if your spell can reach that range normally.
+
+**Quirk:** Blames magic items for any strange behavior or moral failings.
+
+---
+
+---
 
 #### Body Breaking, Dagger of
 
@@ -3191,6 +3379,14 @@ One-handed melee weapon
 _Recharge 11+:_ When an enemy you are engaged with hits you while you're wielding this weapon, make a Dexterity check against the attacker's MD. If you succeed, the attack misses instead.
 
 **Quirk:** Jumpy and suspicious.
+
+---
+
+#### Discretion
+
+Your attack does not trigger any counterattacks from your foe. For example, when an iron golem become staggered, it leaks poison gas. If struck by a weapon of discretion, though, the golem’s poison gas would obligingly wait for the next person to deal damage to it. This doesn’t prevent opportunity attacks, however.
+
+**Quirk:** Polite in the most unlikely situations.
 
 ---
 
@@ -3518,6 +3714,16 @@ _Recharge 16+:_ When you slay a foe with this weapon, that enemy does not die im
 
 ---
 
+#### Throwing and Catching Dagger
+
++2 Throwing Dagger
+
+_Recharge 16+:_ When you throw the dagger, you teleport and catch it before it hits the ground. You may throw the dagger anywhere within throwing range, allowing you to teleport to any point you can hit with the dagger. Precarious locations (like, say, throwing the dagger up a cliff, or between narrow bars) may require an attack roll or a skill check, or even both. You can combine throwing the dagger with a melee attack – you throw the dagger at a foe, teleport over, snatch the dagger out of the air and use it to stab your enemy. Treat this as the High Elf racial power, only you can also shave with it.
+
+**Quirk:** Jumpy and quick to change the topic of conversation.
+
+---
+
 #### World-Rending Axe
 
 +2 Greataxe
@@ -3714,6 +3920,14 @@ A bottle of translucent glass, sealed with lead, with a ghastly face that peers 
 ---
 
 #### [Luckstone](http://dnd5e.wikidot.com/wondrous-items:luckstone)
+
+---
+
+#### Nightcandle
+
+A nightcandle is an ugly black tallow candle, about a foot tall. You may attune others to the nightcandle by having them pass their hands through its flame. Only those attuned to the nightcandle can see the light shed by its flame. You can use it as a signaling device that’s imperceptible to others, or as a source of illumination that won’t give away your location. After a few hours of use, you must renew the nightcandle by putting it in a dark place with some lard and a little red wine.
+
+**Quirk:** Secretive.
 
 ---
 
