@@ -45,6 +45,12 @@ You deal +1d6 damage on a hit. Any allies who make ranged attacks at the same ta
 
 ---
 
+#### Demonseeker
+
+When you attack a creature with the demon type with this ammunition, hit or miss, the target take a –2 penalty to its next d20 roll.
+
+---
+
 #### Elf Shot
 
 If you’re attacking from ambush, you get a +5 bonus to your attack roll.
@@ -66,6 +72,12 @@ This ammunition has been enchanted with one of the following types of energy: ac
 #### Explosive
 
 Hit or miss, this projectile does 1d6 damage to any one other foe near to the original target (champion: 2d6 to two other enemies; epic: 3d6 to three other enemies).
+
+---
+
+#### Flintfire Bolt
+
+When you attack using this bolt and the natural roll is equal to or less than the escalation die, the target takes ongoing fire damage equal to twice the attack roll (champion: triple the roll; epic: five times the roll).
 
 ---
 
@@ -338,6 +350,22 @@ _Recharge 6+:_ When activated, this armor glows with holy light. You gain a +5 b
 This shirt gives resistance 12+ against either fire, lightning, acid, cold or poison, depending on whether the dragon whose hide you’re wearing was red, blue, black, white, green, brass, bronze, copper, silver, or gold. Wearing a dragonhide shirt gives a -4 penalty to any Charisma skill checks when trying to negotiate or placate a dragon.
 
 **Quirk:** You can only get comfortable when lying on coins and jewels.
+
+---
+
+#### Fiendbane
+
+This armor is covered in screaming faces— decorations or something more? When an attack by a demon or devil misses you, it deals no damage and has no effect.
+
+**Quirk:** Hates demons—like really hates demons.
+
+---
+
+#### Flamesteel
+
+_Recharge 16+:_ The scales of this armor have a flame motif. When an enemy fails to disengage from you, make a basic melee attack against it that deals fire damage. If that attack misses, this power recharges.
+
+**Quirk:** Pyromaniac.
 
 ---
 
@@ -653,6 +681,24 @@ _Recharge 16+:_ This soft grey robe automatically activates when you are knocked
 
 ---
 
+#### Soulbound
+
+Gems in this black carapace seem to pulse in time with your heartbeat. When you heal using a recovery, gain a +2 bonus to AC until the start of your next turn.
+
+**Quirk:** Aggressive.
+
+---
+
+#### Thirsty Iron
+
+Heavy
+
+Blood splattered onto the surface of this armor (usually made of iron) seeps in instead of flowing off it. While you are taking ongoing damage from an effect created by an enemy, gain a +3 bonus to AC.
+
+**Quirk:** Drinks blood.
+
+---
+
 #### Unrelenting
 
 You may drain and heal using Recoveries from your nearby allies on a two-for-one basis – one nearby ally loses two Recoveries, you get the healing benefit of one of them. The armor activates automatically when you go below 50 hit points. You get to pick who you drain – they don’t get to refuse, but can cut you off forever after being drained. If an ally cuts you off, you may never drain them with the armor again.
@@ -671,11 +717,31 @@ While wearing this +3 armor, you gain the feats that’s your best shot, toughne
 
 **Quirk:** Gets confused between past and present. The past was better, damn it.
 
+---
+
+#### Chained Demon
+
+_Recharge 6+:_ Yep, this is a demon—chained, beaten, and forged into armor. When an enemy engaged with you moves away (yes, even if it successfully disengages or pops free), its movement stops, it’s still engaged with you, and it takes 20 damage.
+
+**Quirk:** Enjoys bossing others about.
+
+---
+
 #### Scales of Umbraxatar
 
 _Recharge 16+:_ Only sorcerers can benefit from this armor. Only sorcerers are mad enough to wear it. This armor is made from scales taken from Umbraxatar, living dragonscales infused with the power of the Shadowfell. You gain an extra Sorcerer talent, which must be spent on either Blood Link or Chromatic Destroyer Heritage. Got both those talents already? Then have a free feat, which must be spend on augmenting one of those talents. You may also channel Umbraxatar's power. This lets you gather power as a quick action, but Umbraxatar gets a say in the spellcasting. He might have his own ideas about the choice of targets, or demand that you carry out some particular course of action or repay him by doing him some service. Of course, if you’re wearing this armor, you must be a loyal ally of a chromatic dragon, and so you will have no qualms whatsoever about letting him sniff around inside your soul...
 
 **Quirk:** The dividing line between you and Her gets blurrier every day.
+
+---
+
+#### Stormwing
+
+Move Action
+
+_Recharge 11+:_ This armor, which usually is a breastplate of some type, has demon wings attached to the back. When you use this power, you gain flight with your next move action and your next attack roll this battle that hits deals 3d12 extra lightning damage. If your flight ends before you land or rab onto a secure surface, you fall.
+
+**Quirk:** Loves storms.
 
 ---
 
@@ -804,6 +870,14 @@ Like most belts, this increases your maximum recoveries by 1 (champion by 2, epi
 When wearing this girdle, people keep mistaking you for somebody else. Usually, it’s the person they were expecting to see who most resembles you – if you’re a young woman, and you’re sneaking around the duke’s mansion in the dead of night when a servant discovers you, this belt might ensure he mistakes you for a maidservant or the duke’s daughter. If you’re a hulking half-orc barbarian in the same situation, the servant might mistake you for a bad dream. Any interaction beyond the perfunctory breaks the illusion – if you give the other person any reason to question their misconception (like, say, the duke’s daughter asking the way to the treasury), then they’ll see through the belt’s magic.
 
 **Quirk:** Intensely curious.
+
+---
+
+#### Girdle of Gigantic Strength
+
+This wide belt is decorated with runes worn smooth by time. You gain a +2 bonus to Strength skill checks (champion: +4; epic: +6).
+
+**Quirk:** Needlessly loud.
 
 ---
 
@@ -1150,6 +1224,24 @@ When an enemy is slain by a fire attack, you may either take an extra standard a
 
 ---
 
+#### The Hammer of Ages
+
+_Recharge 16+:_ The stone cover of this book is pitted and worn. As a standard action, identify nearby and far away demons, devils, spirits, undead, and possessed characters—even if they are hidden, invisible, or disguised by illusion. The book also counts as an arcane or divine implement with a default bonus equal to its tier against enemies of a type it can identify.
+
+**Quirk:** Paranoid inquisitor.
+
+---
+
+#### Tome of Demon-binding
+
+Quick Action
+
+_Recharge 16+:_ A heavy book, bound in demon skin. When you use the power, 1d3 random nearby demons and devils become stuck (hard save ends, 16+).
+
+**Quirk:** Sadism.
+
+---
+
 #### Tome of Relics
 
 1/Day
@@ -1446,6 +1538,14 @@ _Disclaimer:_ the magic of the boots is good for one (1) step. Any and all futur
 
 ---
 
+#### Threatening Boots
+
+These boots have spiked cleats. When you disengage, expand the crit range for your next attack by 1.
+
+**Quirk:** Eager to fight.
+
+---
+
 #### Wise Eyelet Boots
 
 Quick action
@@ -1564,11 +1664,69 @@ Bracers have the same types of powers as other melee weapons. Use the melee weap
 
 ---
 
+### Adventurer
+
+#### Spiked Hand-wraps
+
+Your crit range against demons and devils expands by 1, and when you score a critical hit against them, you deal triple damage instead of double damage.
+
+**Quirk:** Scourges self.
+
+---
+
+### Champion
+
+#### Iron Petal Bracers
+
+Quick Action
+
+_Recharge 11+:_ When you drop a non-mook enemy, pop free from each other enemy engaged with you, and you can move somewhere nearby.
+
+**Quirk:** Recites names of enemies at sunrise.
+
+---
+
+### Epic
+
+#### Bracers of Irresistible Discipline
+
+These leather bracers are warm to the touch. When you score a critical hit, you can choose to pop free of each enemy engaged with you.
+
+**Quirk:** Plays with fire and likes to walk across hot coals.
+
+---
+
 ## Chalice, Goblet, Grail (Implement)
 
 ## Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic).
+
+---
+
+### Adventurer
+
+#### Goblet of Proffered Blood
+
+The interior of this cup is inscribed with many symbols—some you recognize as being sigils of the icons. When you roll icon relationship dice, you can spend a recovery to reroll one of the dice.
+
+**Quirk:** Worships authority.
+
+---
+
+#### Iron Grail
+
+When you make an attack using this implement and miss, you can spend a recovery to reroll the attack using two d20 and taking the higher result.
+
+**Quirk:** Levity causes you pain.
+
+---
+
+#### Spiked Chalice
+
+Spend a recovery to prevent a nearby enemy from healing until the end of the battle.
+
+**Quirk:** Envy those more powerful than you.
 
 ---
 
@@ -1664,6 +1822,14 @@ _Recharge 6+:_ One nearby ally may use one of your Defenses (AC, MD or PD) when 
 The cloth of this scratchy grey cloak matches the color of the surrounding rock, giving a +4 bonus to checks to hide whenever blending in with the surrounding stonework would be an advantage.
 
 **Quirk:** Sees meaning and patterns in the cracks in the paving stones.
+
+---
+
+#### Chasuble of Fell Might
+
+This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a daily spell against a target vulnerable to holy damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
+
+**Quirk:** Collects trophies from the dead.
 
 ---
 
@@ -1892,6 +2058,14 @@ _Recharge 16+:_ When an attack against your Physical Defense hits, change that h
 
 ---
 
+#### Mantle of Dark Power
+
+_Recharge 11+:_ This hood casts odd shadows over your face when raised. When a spell attack targets your PD, heal using a recovery (before the attack roll).
+
+**Quirk:** Hatred of arcane magic.
+
+---
+
 ## Gloves, Gauntlets
 
 ### Default Bonus
@@ -2090,6 +2264,14 @@ While you wear these fine silk gloves, you can play any musical instrument witho
 
 ---
 
+#### Red-iron Gauntlet
+
+You gain a +4 bonus to all defenses against attacks that deal fire damage.
+
+**Quirk:** Plays with fire.
+
+---
+
 #### Spell Deflection
 
 _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When wielding a melee weapon, you can parry a spell targeting you or an ally as a free action. To parry the spell, you roll Strength + Level vs. the caster’s MD; if you hit, the spell is cancelled and the caster loses the action they were using for the spell. If it was a limited-used spell, that use is expended if your natural attack roll was even. (It’s basically the Counter-Magic bonus spell in glove form).
@@ -2134,6 +2316,14 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 ### Champion
 
+#### Black-iron Gauntlet
+
+_Recharge 11+:_ When you take negative energy damage, roll a save. If you succeed, instead of taking damage, heal that amount instead.
+
+**Quirk:** Disdainful of those who can’t stand up for themselves.
+
+---
+
 #### Siege Engine Mitts
 
 Standard Action
@@ -2141,6 +2331,16 @@ Standard Action
 _Recharge 11+:_ When you throw a stone from these heavy leather gloves, the magic of the mitts imbues it with as much weight and force as a boulder hurled from a big siege catapult. You may make a basic ranged attack by throwing a pebble, but your projectile also inflicts lots of collateral damage on the surrounding scenery. You can smash down castle walls, break down doors, collapse ceilings or tear huge holes in the ground by flinging a tiny piece of rock.
 
 **Quirk:** Loves ball games, especially ones that involve knocking down targets.
+
+---
+
+### Epic
+
+#### Hell-iron Gauntlet
+
+When you miss with a basic attack or at-will attack against a single target and roll a natural 2 or 3, you can reroll the attack.
+
+**Quirk:** Has waking nightmares.
 
 ---
 
@@ -2276,6 +2476,14 @@ _Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defe
 
 ---
 
+#### Helm of the Beetle
+
+You have resist poison 18+ and gain a +4 bonus to PD against close-quarters attacks that deal poison damage.
+
+**Quirk:** Claustrophobia.
+
+---
+
 #### Helm of the Dragon’s Soul
 
 _Recharge 6+:_ When casting a divine spell, you may use your Strength modifier instead of your Wisdom modifier. Alternatively, when making a melee attack, you may use your Wisdom modifier instead of your Strength modifier. Either way, for the rest of the battle, you glow from within.
@@ -2283,6 +2491,14 @@ _Recharge 6+:_ When casting a divine spell, you may use your Strength modifier i
 **Quirk:** Ascetic in the extreme. Often, you’ll forget to eat or sleep.
 
 >_Note:_ Don’t believe a lich if it tells you it’s many Ages old. The thing about liches is that we all look the same. One walking skeleton in robes looks almost exactly like another walking skeleton in robes. In fact, a lot of liches take titles that mention the color of their robes – the Red King, the Lord of Fallen Trees, the August Personage in Jade – just so people know who they are when they walk into the room. It’s easy for a lich to say they’re much older than they actually are. That’s why liches hate herald’s helms. It shows them up for the pretenders that so many of them are. Not me, of course. Why, I was there when the Lich King still had two eyes. - Baron Rotte, exiled lich
+
+---
+
+#### Helm of the Ram
+
+_Recharge 6+:_ Add +2d6 damage to your miss damage against a single target (champion: +4d8; epic: +4d12).
+
+**Quirk:** Pounds fist into palm repeatedly while talking.
 
 ---
 
@@ -2684,6 +2900,14 @@ _Recharge 11+:_ One enemy you're engaged with takes damage equal to your normal 
 
 ---
 
+#### Confidence
+
+_Recharge 11+:_ This ring is carved from the bone of a slain honey devil. When you roll an attack, save, skill check, or other roll that you can fail, add +1 to that roll.
+
+**Quirk:** Smarmy.
+
+---
+
 #### Defense
 
 _Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
@@ -2966,6 +3190,14 @@ Whenever an enemy's attack hits your Physical Defense or Mental Defense, you gai
 When you move to engage an enemy while using this shield, you can use the shield to push that enemy away from one of your allies engaged with it. That ally can make a disengage check as a free action.
 
 **Quirk:** Can't pass up an opportunity to sing.
+
+---
+
+#### Dark Guardian
+
+_Recharge 11+:_ This shield has demons imprisoned within it. Pick an area of the battlefield (or tavern, or wherever the fight is taking place)—the first time an enemy moves toward the area, pop free from each enemy engaged with you and move to intercept that enemy.
+
+**Quirk:** Only you are vigilant enough to stand watch.
 
 ---
 
@@ -3547,11 +3779,29 @@ _Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also hea
 
 ---
 
+#### Wrath, Symbol of
+
+You use your own escalation die, a d8. Your allies still use a d6. Both escalation dice advance normally, and escalation die effects affect both dice.
+
+**Quirk:** Rage.
+
+---
+
 #### Wreath of the Ancient Woods
 
 _Recharge 11+:_ A living strand of ivy twines around the holy symbol, linking it to the deep magic of the woodlands. When you cast a divine spell, you may have the spell emanate from any plant you can see. So, if you’re far away from a fighter, but she’s got her back to a tree, you can channel your heal spell through the tree and ‘touch’ her from afar.
 
 **Quirk:** Keeps an elaborate and well-maintained garden.
+
+---
+
+### Champion
+
+#### Figure of Courage
+
+Your allies gain a +1 bonus to attacks against enemies that are engaged only with you.
+
+**Quirk:** Shame at others’ failings.
 
 ---
 
@@ -3851,6 +4101,16 @@ Before making an attack with this weapon, designate it as a "pain" attack. On a 
 
 ---
 
+#### Chain of Conceit
+
+1/Battle
+
+Perform a [reach trick](../Character-Rules/Feats.md#reach-tricks).
+
+**Quirk:** Deny that you have any quirks.
+
+---
+
 #### Climactic Shot
 
 Ranged weapon
@@ -3868,6 +4128,18 @@ Any weapon
 _Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it (champion: 40 hp/10 ongoing damage; epic: 80 hp/20 ongoing damage).
 
 **Quirk:** Tortures flies.
+
+---
+
+#### Deceitful Dagger
+
+Dagger
+
+1/Day
+
+Flip a d20 result around (a 1 becomes a 20, a 2 becomes a 19, etc., a 20 becomes a 1).
+
+**Quirk:** Unable to tell the truth.
 
 ---
 
@@ -4153,6 +4425,14 @@ _Recharge 11+:_ When you make a basic attack with this weapon, roll a save again
 
 ---
 
+#### Vainglorious
+
+You always know who the ‘biggest baddest’ enemy is (the GM will let you know based on HP left, monster level, etc.). When you attack that enemy, you gain a +1 bonus to attack and damage that stacks with other magic items.
+
+**Quirk:** Insists on going first into danger.
+
+---
+
 #### Vanity
 
 Melee Weapon
@@ -4193,6 +4473,14 @@ _Recharge 11+:_ When you hit with this bow, you start to fly, carried aloft by a
 
 ---
 
+#### Dark Smiting
+
+_Recharge 11+:_ Declare that you are using this power before you make a basic attack. You deal 2d12 extra damage with that attack on a hit (epic: 3d12), or deal half damage (no extra damage) on a miss. If you are a paladin, you can’t use this power on the same turn you use your Smite Evil class feature.
+
+**Quirk:** Refuses to help the weak.
+
+---
+
 #### Glorious Gladiator’s Blade
 
 Standard Action
@@ -4200,6 +4488,16 @@ Standard Action
 _Recharge 16+:_ This weapon is a trophy of the arenas of Axis, handed down from champion to champion. To activate it, the escalation die must be 3+ and you must spend a round showboating for the crowd (even if you don’t have an audience.) While showboating, you may not attack and take a -2 penalty to all Defenses. Furthermore, the other players (and anyone else in the room) must chant your character’s name. The first attack you make in the round after showboating is enhanced by the sword – you may double the to-hit bonus from the escalation die, and add the value of the escalation die to your crit range. So, if the escalation die is 4, you get a +8 bonus to hit and have your crit range increased by +4.
 
 **Quirk:** Craves the adulation of the crowd.
+
+---
+
+#### Iron-chain Bow
+
+Bow
+
+This bow has a thin iron chain instead of a string. When you hit with an attack with this bow against an enemy your size or smaller and roll a natural 18+, you can pull that enemy into engagement with you.
+
+**Quirk:** Eager to oppress.
 
 ---
 
@@ -4280,6 +4578,18 @@ _Recharge 16+:_ This massive two-handed axe never needs sharpening, as its edge 
 ---
 
 ### Epic
+
+#### Demonic Deathknell
+
+Quick Action
+
+1/Round
+
+The hilt of the weapon features a tiny bell whose ringing is painful to demons. Drop a nearby demon or devil that has 20 hit points or fewer (the GM should let you know what enemies qualify).
+
+**Quirk:** Worships death.
+
+---
 
 #### Greatsword of Utter Night
 
@@ -5128,6 +5438,16 @@ Gold bow with no string. It creates a glowing string and "energy arrows." _Alway
 When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic: 25 hp).
 
 **Quirk:** Tells the same stories over and over.
+
+---
+
+#### Killer’s Almanac
+
+Book
+
+_Recharge 6+:_ When you hit a staggered enemy, you score a critical hit instead. Curse: The next time one of your allies is hit, that ally must roll a save. If they fail, the hit becomes a crit.
+
+**Quirk:** Eager to add new entries to the book.
 
 ---
 
