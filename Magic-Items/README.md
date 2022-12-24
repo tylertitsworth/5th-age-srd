@@ -25,6 +25,10 @@ If you are carrying and wielding a number of items that is equal to or lower tha
 
 If you are carrying and wielding a number of items that is greater than your current level, the magic item personality quirks are going to have more power over you. You're no longer running the show; instead, the magic items are, to some extent, running you. Herein lies a roleplaying challenge for the player and the GM.
 
+### Minor items
+
+Minor items don’t acquire attunement and they don’t occupy a chakra. They’re often expressions of the fact that magic is everywhere in this world, and are generally more useful for telling interesting stories and setting the scene than as functional parts of heroic arsenals. Minor items don’t have quirks, but a few come equipped with story hooks!
+
 ---
 
 ## Types
@@ -51,6 +55,10 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 | Weapon, ranged | Attack and damage (using the weapon) |
 | Wondrous item | No default. Anything goes |
 
+### Attunement
+
+To make use of an item’s bonuses and powers you must attune to it. The method of attunement depends on the specific item. Within five minutes you can usually figure out how to attune to an item, except for books, scrolls, tomes, and grimoires, which take hours to read through.
+
 ---
 
 ### One Size Fits
@@ -76,6 +84,18 @@ Unless otherwise specified, magic item powers with a recharge chance have to be 
 Magic item powers that do not specify a recharge chance or a specific usage pattern have powers that are always available.
 
 The majority of magic item powers list a recharge number (6+, 11+, or 16+). You can count on using a recharge power once a day, but subsequent uses depend on successful recharge rolls. After the battle in which you've used an item's power, roll a d20. If your roll equals or exceeds the recharge number for that item, you can use that item power again that day. If the roll fails, the item power is expended until you take a full heal-up.
+
+---
+
+### No Stacking Bonuses
+
+You can’t stack magic item bonuses. When two items give the same sort of bonus, take the better bonus of the two rather than adding them together.
+
+For example: you have an amulet that gives +2 AC while you’re in water, and armor that gives +1 AC. You have +1 AC until you go into water and then you have +2 AC (not +3 AC).
+
+Some rare magic items break the no-stacking rule, but each such item description specifically says so. Note, however, that an item that has a default bonus and a power that gives the wearer a short-term bonus of the same type stacks with itself just fine.
+
+Magic item bonuses do stack with other bonuses granted by spells, class features, etc.
 
 ---
 

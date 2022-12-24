@@ -1428,7 +1428,7 @@ The boots return you – just you – to the same spot in the material plane aft
 
 ---
 
-## Bracers
+## Bracers, Hand-Wrappings, Vampraces
 
 Bracers occupy the same type as magic melee weapon in terms of bonuses.
 
@@ -1457,6 +1457,14 @@ Bracers have the same types of powers as other melee weapons. Use the melee weap
 - Insists on always moving silently, breezing in and out of situations that in social terms require small noises and acknowledgements.
 - Can't abide "fancy" food without heartburn (or at least complaints of heartburn).
 - Insists on being the first to go into a room.
+
+---
+
+## Chalice, Goblet, Grail (Implement)
+
+## Default Bonus
+
+Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic).
 
 ---
 
@@ -2436,6 +2444,16 @@ Oh, if you try recharging a spirit channeling talisman with itself, it explodes 
 
 ---
 
+## Orb (Implement)
+
+Only characters that are ritual casters (either as a class feature or as a feat) can attune to orbs.
+
+### Default Bonus
+
+Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). You can attune to up to two orbs. If you do, the recharge powers of each orb is reduced (recharge 16+ becomes 11+, recharge 11+ becomes 6+). While wielding two orbs, you only use the default attack and damage bonus from the strongest orb. However, you do get to benefit from both their powers.
+
+---
+
 ## Rings
 
 ### Default Bonus
@@ -2679,6 +2697,14 @@ Oh yeah – if you’ve got one of these rings, you’ll be called upon to act a
 
 ---
 
+## Scepter, Rod, Cane (Implement)
+
+### Default Bonus
+
+Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). The first time each battle you cast a spell using the scepter that does less than average damage, increase the damage to the average value—thereafter, until the end of the battle, you may take the unrolled average damage for spells through the item.
+
+---
+
 ## Shield
 
 ### Default Bonus
@@ -2886,57 +2912,13 @@ _Recharge 16+:_ When an enemy makes a melee attack on you, you may inflict thund
 
 ---
 
-## Staff
+## Staff (Implement)
 
 A staff counts as both a wand (arcane spells) and a symbol (divine spells). Staffs are champion or epic items only. Epic staffs don't like to be around lesser staffs, and do not abide wands.
 
 ### Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (epic).
-
----
-
-### Adventurer
-
-#### Oakenheart Stave
-
-_Recharge 11+:_ Leaning on this heavy staff for a moment connects you with the living earth and the boundless regenerative energy of the trees. If you do nothing in your turn – no move actions, no attacks or standard action, no quick or free actions, not even rolling any saves – you automatically heal using a recovery.
-
-**Quirk:** You start putting down roots. Emotional ones, to begin with.
-
-#### Spellforce Staff
-
-_Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hampered or weakened conditions afflicting you when making an arcane spell attack. The staff doesn’t get rid of the conditions – it just amps up your spell so it blasts through them.
-
-**Quirk:** SHOUTS A LOT.
-
----
-
-#### Staff of Gifts
-
-_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
-
-Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
-
-If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
-
-If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
-
-**Quirk:** A little too generous.
-
-#### Staff of Manipulation
-
-When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
-
-**Quirk:** Expects to be treated with respect.
-
----
-
-#### Staff of Storms
-
-_Recharge 11+:_ This staff is a long, thin shaft of blue metal, topped with a stylized image of a Blue Dragon. When you take lightning damage, you gain a bonus to your next attack of +1 per 10 damage suffered. So, if you’re hit for 100 damage, that’s a +10 bonus to your next attack. Yes, you can target yourself with a lightning attack to charge the staff.
-
-**Quirk:** Wild emotional swings, especially during thunderstorms.
 
 ---
 
@@ -2960,6 +2942,22 @@ Recharge 11+:_ You may expend one of your spell slots (one containing either an 
 
 ---
 
+#### Oakenheart Stave
+
+_Recharge 11+:_ Leaning on this heavy staff for a moment connects you with the living earth and the boundless regenerative energy of the trees. If you do nothing in your turn – no move actions, no attacks or standard action, no quick or free actions, not even rolling any saves – you automatically heal using a recovery.
+
+**Quirk:** You start putting down roots. Emotional ones, to begin with.
+
+---
+
+#### Spellforce Staff
+
+_Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hampered or weakened conditions afflicting you when making an arcane spell attack. The staff doesn’t get rid of the conditions – it just amps up your spell so it blasts through them.
+
+**Quirk:** SHOUTS A LOT.
+
+---
+
 #### Staff of Destruction
 
 _Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of prodigious power, probably a lieutenant of a former Archmage. It laughs maniacally and blazes with unholy light when you activate the staff. Any creatures damaged by your attack this round that have 20 or fewer hit points remaining afterwards are instantly torn apart by the power of the staff (epic: 40 hit points or fewer).
@@ -2968,11 +2966,33 @@ _Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of p
 
 ---
 
+#### Staff of Gifts
+
+_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
+
+Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
+
+If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
+
+If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
+
+**Quirk:** A little too generous.
+
+---
+
 #### Staff of Health
 
 When you cast spells that heal or provide temporary hit points, add 4 to the total (epic: 8).
 
 **Quirk:** The diseased of nearly every population center somehow know to seek you out for healing.
+
+---
+
+#### Staff of Manipulation
+
+When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
+
+**Quirk:** Expects to be treated with respect.
 
 ---
 
@@ -2993,6 +3013,14 @@ The vision only looks into the immediate future – if any of the targeted creat
 The staff doesn’t give you any special power to affect the future, it just gives you a brief insight into likely outcomes.
 
 **Quirk:** Speaks in riddles.
+
+---
+
+#### Staff of Storms
+
+_Recharge 11+:_ This staff is a long, thin shaft of blue metal, topped with a stylized image of a Blue Dragon. When you take lightning damage, you gain a bonus to your next attack of +1 per 10 damage suffered. So, if you’re hit for 100 damage, that’s a +10 bonus to your next attack. Yes, you can target yourself with a lightning attack to charge the staff.
+
+**Quirk:** Wild emotional swings, especially during thunderstorms.
 
 ---
 
@@ -3078,7 +3106,7 @@ _Recharge 6+:_ This simple staff of iron-shod wood oozes blood when activated. W
 
 ---
 
-## Symbol, Holy Symbol, Relic, Sacred Branch
+## Symbol, Holy Relic, Blessed Siclet, Sacred Branch (Implement)
 
 Sometimes a symbolic magic item is a gem or rune that can be attached to any of various holy symbols. Typically a divine spellcaster pries the gem or other adornment off a foreign holy symbol and affixes it to their own mundane holy symbol. Symbols are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
 
@@ -3250,7 +3278,7 @@ _Recharge 11+:_ A living strand of ivy twines around the holy symbol, linking it
 
 ---
 
-## Wand
+## Wand (Implement)
 
 Wands are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
 
