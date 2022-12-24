@@ -26,7 +26,7 @@ A healing potion lets the creature drinking it heal using one of their recoverie
 
 ---
 
-### Potion of [Energy] Resistance
+### [Energy] Resistance
 
 When you drink one of these potions, you gain resistance to a single specified energy type dealt by creatures or hazards of a specific tier for the rest of the battle or for five minutes. Resistance from a potion is always 16+. Attackers of the tier covered, or lower, must roll a natural 16 or higher on their attack roll to overcome your resistance and do full damage of a type you're resistant to, otherwise they deal half damage. Damage from a source that's a higher tier than your potion ignores your resistance. See [Resistance](../Character-Rules/Combat.md#resistance). For the types of resistance available, see [Other Damage Types](../General-Rules/Combat.md#other-damage-types).
 
@@ -39,6 +39,38 @@ When you drink one of these potions, you gain resistance to a single specified e
 | Epic | Resist 16+ | 400 gp |
 
 ---
+
+### Heroism
+
+Drinking this potion gives the character a temporary incremental advance. This advance lasts for five minutes or the rest of the battle. You can’t double up on advances – if you’ve already taken your +1 to skills, you can’t take it again. You also can’t gain a new spell or power with one of these potions, unless the GM’s in a generous mood.
+
+**Costs** 150 gp/300 gp/600gp.
+
+### Fortification
+
+For the duration of this potion, you get a +1 bonus to saves against effects caused by foes and hazards of the same tier or lower as the potion. Saves against higher-tier threats aren’t affected by the potion. Costs 150 gp/300 gp/600gp.
+
+### Salvation
+
+You may immediately make a save against an ongoing save ends effect caused by a foe or hazard of the same tier or lower as the potion.
+
+**Costs** 50gp/100gp/200gp.
+
+### Rejuvenation
+
+A draught of this potion removes fatigue, hunger and thirst. It’s as if you’d slept solidly for eight hours and had a square meal afterwards. You still need to wait until you get a full heal-up before you can refresh your powers and recoveries, but this potion takes care of basic necessities like sleep and food.
+
+**Costs** 100gp.
+
+### Trollblood
+
+Trollblood potions give almost the same healing effect as a healing potion, but spread it out over time. When you drink a trollblood potion, you spend a recovery, and that recovery’s healing effect gets spread out over several rounds. With an adventurer-tier potion of trollblood, you regain one die worth of hit points at the end of each turn until that recovery’s exhausted. If you’ve got a Constitution bonus, then that applies to the first die roll only. For example, if a 3rd level character with a recovery of 3d8+3 drank a potion of trollblood, she’d regain 1d8+3 hit points at the end of the turn, then another 1d8 at the end of the next turn, and then a final 1d8 at the end of the third turn. Champion-tier potions restore two dice worth of hit points per turn; epic potions do three dice of healing.
+
+The trollblood effect ends when you’re reduced to 0 hit points.
+
+Despite the name, there’s more than troll’s blood in these brews. In fact, troll blood is probably the most palatable ingredient in there.
+
+**Costs** 50gp/100gp/200gp.
 
 ## Oils
 
@@ -57,6 +89,30 @@ Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher
 | Adventurer | +1 Oil | 100 gp |
 | Champion | +2 Oil | 200 gp |
 | Epic | +3 Oil | 400 gp |
+
+---
+
+### Elemental
+
+Elemental oil doesn’t give a bonus to attacks or damage, but causes the weapon to deal a particular type of energy damage (fire, cold, lightning, acid, poison, holy, negative energy, force, thunder and the like). Elemental oil only works on weapons, not on implements or armor.
+
+**Costs** 150gp per vial.
+
+---
+
+### Quelling
+
+Oil of quelling temporarily suppresses the magical spirit of an item, for the duration of one fight or about fifteen minutes, whichever is shorter. The item still functions normally, but doesn’t have any quirks. When the oil wears off, though, the spirit wakes up cranky and mean, and is especially hard to control for some time afterwards. Champion-tier items need champion-tier oil of quelling to lull them into slumber; otherwise, they just get briefly drowsy.
+
+**Costs** 50gp/100gp/150gp.
+
+---
+
+### Oil of Torment
+
+This sticky unguent is hot to the touch. If you’re a magic item spirit, it’s agonizingly painful. Applying oil of torment to a weapon, implement or armor increases its bonus by +1 for the duration of the battle (turning a +1 sword into a +2 sword, for example) by whipping the spirit into a frenzy. The weapon also becomes cursed in some fashion, and this curse may linger even after the temporary bonus fades. Again, you need sufficiently potent oil of the right tier to affect an champion or epic-tier item.
+
+**Costs** 100gp/150gp/300gp.
 
 ---
 
