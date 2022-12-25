@@ -147,6 +147,12 @@ You can attack during an ambush no matter what your initiative roll was.
 
 ---
 
+#### Ramshead
+
+Firing this magic arrow at a non-magical door will bust it wide open. Magical barriers and magically sealed doors roll a save to resist the arrow’s power; GM determines the save on a case-by-case basis.
+
+---
+
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
@@ -262,6 +268,16 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 ---
 
 ### Adventurer
+
+#### Ancestor’s Plate
+
+Heavy Armor Only
+
+The default bonus of this armor increases by +1 if you are a dwarf (or have a positive relationship with the Dwarf King), as long as you are not fighting dwarves or those linked to the Dwarf King.
+
+**Quirk:** Gruff and stoic.
+
+---
 
 #### Animation
 
@@ -501,6 +517,16 @@ _Recharge 6+:_ Roots and tendrils trail from this suit of heavy armor. On comman
 
 ---
 
+#### Rune-smithing
+
+Quick Action
+
+_Recharge 11+:_ Create and apply a [magical rune](./Consumables.md#runes) to a weapon that you are holding. This does not require you to be carrying a rune and does not expend a rune that you are carrying. Roll for the effect as normal, and remember that rune bonuses don’t stack with a magic item’s inherent bonus.
+
+**Quirk:** Chronic chronicler.
+
+---
+
 #### Scars
 
 This ‘armor’ consists of magical brands and scars that strengthen your flesh until it becomes as tough as iron. You gain the bonus to AC even when naked, and this armor cannot be removed. You may wear other armor over it, but magic bonuses to AC don’t stack – use the best one. The armor of scars only takes up a slot if it’s the most powerful magic armor you’re wearing.
@@ -562,6 +588,14 @@ Enemies engaged with you take a –2 attack penalty against allies without splen
 The default AC bonus applies to Physical Defense as well.
 
 **Quirk:** Extremely stubborn.
+
+---
+
+#### Stonemail
+
+Heavy Armor Only
+
+You gain a +2 bonus to AC, PD, and saves while you are standing on solid stone. Quirk: Fear of ships and open water.
 
 ---
 
@@ -699,6 +733,14 @@ Blood splattered onto the surface of this armor (usually made of iron) seeps in 
 
 ---
 
+#### Tremors
+
+_Recharge 11+:_ You cause a minor quake, and each nearby non-huge (or larger) non-flying creature in the battle can roll a disengage check as a free action. Each affected creature loses its move action during its next turn.
+
+**Quirk:** Agoraphobia.
+
+---
+
 #### Unrelenting
 
 You may drain and heal using Recoveries from your nearby allies on a two-for-one basis – one nearby ally loses two Recoveries, you get the healing benefit of one of them. The armor activates automatically when you go below 50 hit points. You get to pick who you drain – they don’t get to refuse, but can cut you off forever after being drained. If an ally cuts you off, you may never drain them with the armor again.
@@ -724,6 +766,16 @@ While wearing this +3 armor, you gain the feats that’s your best shot, toughne
 _Recharge 6+:_ Yep, this is a demon—chained, beaten, and forged into armor. When an enemy engaged with you moves away (yes, even if it successfully disengages or pops free), its movement stops, it’s still engaged with you, and it takes 20 damage.
 
 **Quirk:** Enjoys bossing others about.
+
+---
+
+#### Lavamail
+
+Heavy Armor Only
+
+When an enemy without fire resistance moves into engagement with you, it takes 10 fire damage.
+
+**Quirk:** Love of deep places.
 
 ---
 
@@ -852,6 +904,14 @@ _Recharge 6+:_ Heal with a free recovery at the moment of sunset or sunrise.
 **Quirk:** Struck by existential angst in the middle of the night.
 
 >_Note:_ Only a fool would rely on the magic of the setting sun. Few monsters are polite enough to wait until two minutes before sunset before attacking so your belt can heal you in the middle of the fight. - Dracerys, dark elf knight
+
+---
+
+#### Dwarven Might
+
+_Recharge 11+:_ When you fail a Constitution skill check, you succeed instead.
+
+**Quirk:** Sings dwarven drinking songs.
 
 ---
 
@@ -986,6 +1046,14 @@ _Recharge 16+:_ When you rally, you can use a second recovery to heal after usin
 _Recharge 6+:_ Minute inscriptions of obscure philosophical debates cover both sides of this silken belt. You may ignore any one condition affecting you until the start of your next turn. You don’t suffer the penalties or ongoing damage from that condition, but you may not make a save against that condition if it allows a save.
 
 **Quirk:** Delights in getting into arguments.
+
+---
+
+#### Scabbard of Scars
+
+_Recharge 16+:_ The crit range of one of your weapons expands by 2 until the end of the battle.
+
+**Quirk:** Always sharpening and oiling blades.
 
 ---
 
@@ -1174,6 +1242,14 @@ _Recharge 6+:_ In order to benefit from this book’s effect, your character mus
 You gain a +1 bonus to all skill checks based on Str, Con, or Dex.
 
 **Quirk:** Takes heightened satisfaction in their own physical prowess.
+
+---
+
+#### Map of the Deeps
+
+While attuned to this item, you gain a 2-point skill related to “knowing secret dwarven tunnels.”
+
+**Quirk:** Love of gemstones.
 
 ---
 
@@ -1483,6 +1559,14 @@ The magic of the boots works best against greedy humanoids. Targeting a foe that
 On a natural 20, then the chosen enemy is so obsessed with the boots they become confused (save ends).
 
 **Quirk:** Hey, these are really nice boots.
+
+---
+
+#### Dwarven Doomsteppers
+
+You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
+
+**Quirk:** Tromps and stomps loudly.
 
 ---
 
@@ -1899,9 +1983,17 @@ The cloth of this scratchy grey cloak matches the color of the surrounding rock,
 
 #### Chasuble of Fell Might
 
-This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a daily spell against a target vulnerable to holy damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
+This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a daily spell against a target vulnerable to radiant damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
 
 **Quirk:** Collects trophies from the dead.
+
+---
+
+#### Delver’s Hood
+
+You can see in darkness, and magical darkness doesn’t affect you.
+
+**Quirk:** Star-chaser.
 
 ---
 
@@ -1966,7 +2058,7 @@ This scarlet cloak won’t let you unknowingly walk into danger. When you fall f
 
 #### Mantle of Divine Grace
 
-_Recharge 6+:_ Negates 15 points of negative energy damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
+_Recharge 6+:_ Negates 15 points of necrotic damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
 
 **Quirk:** Innocent and unworldly.
 
@@ -2154,7 +2246,7 @@ _Recharge 11+:_ This hood casts odd shadows over your face when raised. When a s
 
 ---
 
-## Gloves, Gauntlets
+## Gloves, Gauntlets, Mitts
 
 ### Default Bonus
 
@@ -2172,7 +2264,7 @@ _Recharge 11+:_ When you roll a natural 16+ with your first melee attack during 
 
 ---
 
-#### Arcane Contact
+#### Arcane Contacts
 
 These gloves improve your ability to contact, detect, and distinguish supernatural forces, provided you can touch some material object connected to a force. The gloves provide no protection against the supernatural forces that touching an artifact might usher into your soul.
 
@@ -2200,7 +2292,7 @@ You can reattach your hand by picking it up and touching it to your wrist.
 
 ---
 
-#### Dragon’s Claw Gauntlet
+#### Dragon’s Claw Gauntlets
 
 Quick Action
 
@@ -2226,38 +2318,6 @@ _Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of th
 
 ---
 
-#### Gauntlets of Swift Striking
-
-_Recharge 6+:_ Increase your initiative by +2d6 for this round only (champion: by 13; epic: you’re going first this round no matter what.)
-
-**Quirk:** You already assumed the quirk for this item was ‘jumps to conclusions’, right?
-
----
-
-#### Glove of Adhesion
-
-The fingers of these gloves stick to any surface, giving a +4 bonus to skill checks to climb or hang on. The stickiness of the gloves lingers even after you stop using them, making your touch clammy and unpleasant.
-
-**Quirk:** Loves heights.
-
----
-
-#### Glove of Glimpsed Sorrow
-
-_Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
-
-**Quirk:** You know that a terrible tragedy, worse than anything you or anyone else could ever imagine, will instantly befall the world if you ever remove these gloves.
-
----
-
-#### Gloves of the Kineticist
-
-These white gloves fly off your hands and float about when you call upon their power. You can wield items (weapons, a shield, implements, etc.) as you normally would but using the floating gloves. You can’t wield extra items with the gloves (you must keep your hands relatively free for gesturing and directing the floating gloves) and two-handed items still require both gloves...but you have your hands free to do things like drink potions (it becomes a quick action), climb ladders more easily while fighting, and similar actions or climb ladders more easily while fighting and similar actions (if the action would require a skill check, gain a +2 bonus).
-
-**Quirk:** Shameless self-promoter.
-
----
-
 #### Gauntlets of Maiming
 
 _Recharge 16+:_ These nasty, spiked gauntlets are invariably caked with blood and gore, no matter how much you scrub them. When you inflict a critical hit that does not kill your opponent, you may describe how your attack is especially painful, and may involve chopping off limbs or skewering organs. The GM might even let this hamper or daze your enemy, or give a penalty to a particular special attack (“_how’s that manticore going to make a tail spikes attack now that I’ve cut off his tail!_”)
@@ -2266,15 +2326,7 @@ _Recharge 16+:_ These nasty, spiked gauntlets are invariably caked with blood an
 
 ---
 
-#### Gloves of Mind Rot
-
-_Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
-
-**Quirk:** The texture of your skin seems wrong to everyone else, but you know it's all in their minds and often explain that to them.
-
----
-
-#### Gauntlet of Revelation
+#### Gauntlets of Revelation
 
 _Recharge 6+:_ When you hit an enemy with a melee attack, you momentarily disrupt anything that stops people from seeing that foe as they truly are. So, if the enemy’s shapeshifted, or invisible, or cloaked in an illusion, or has charmed people into believing a lie, they see the truth for a brief time. The enemy’s deceits reassert themselves at the start of the enemy’s next turn.
 
@@ -2282,11 +2334,11 @@ _Recharge 6+:_ When you hit an enemy with a melee attack, you momentarily disrup
 
 ---
 
-#### Gloves of the Low Blow
+#### Gauntlets of Swift Striking
 
-_Recharge 6+:_ Sparks and tendrils of chaotic magical energy crawl around these gloves, like coiled snakes waiting for the moment to strike. When you make a melee or ranged attack on a foe that’s vulnerable to a particular type of damage (like vulnerable to fire or vulnerable to holy), then the gloves magically make your attack do that sort of damage.
+_Recharge 6+:_ Increase your initiative by +2d6 for this round only (champion: by 13; epic: you’re going first this round no matter what.)
 
-**Quirk:** Refuses to admit pain or weakness.
+**Quirk:** You already assumed the quirk for this item was ‘jumps to conclusions’, right?
 
 ---
 
@@ -2298,7 +2350,55 @@ These heavy gauntlets carry in them the spirit of the mightiest giants. Their po
 
 ---
 
-#### Hand of Winter
+#### Gloves of Adhesion
+
+The fingers of these gloves stick to any surface, giving a +4 bonus to skill checks to climb or hang on. The stickiness of the gloves lingers even after you stop using them, making your touch clammy and unpleasant.
+
+**Quirk:** Loves heights.
+
+---
+
+#### Gloves of Glimpsed Sorrow
+
+_Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+
+**Quirk:** You know that a terrible tragedy, worse than anything you or anyone else could ever imagine, will instantly befall the world if you ever remove these gloves.
+
+---
+
+#### Gloves of Mind Rot
+
+_Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+
+**Quirk:** The texture of your skin seems wrong to everyone else, but you know it's all in their minds and often explain that to them.
+
+---
+
+#### Glove of the Forge
+
+While wearing these gloves you should never fear working with hot iron. You have resist fire 16+, and gain a +4 bonus to saves against fire effects (like ongoing fire damage).
+
+**Quirk:** Traditionalist.
+
+---
+
+#### Gloves of the Kineticist
+
+These white gloves fly off your hands and float about when you call upon their power. You can wield items (weapons, a shield, implements, etc.) as you normally would but using the floating gloves. You can’t wield extra items with the gloves (you must keep your hands relatively free for gesturing and directing the floating gloves) and two-handed items still require both gloves...but you have your hands free to do things like drink potions (it becomes a quick action), climb ladders more easily while fighting, and similar actions or climb ladders more easily while fighting and similar actions (if the action would require a skill check, gain a +2 bonus).
+
+**Quirk:** Shameless self-promoter.
+
+---
+
+#### Gloves of the Low Blow
+
+_Recharge 6+:_ Sparks and tendrils of chaotic magical energy crawl around these gloves, like coiled snakes waiting for the moment to strike. When you make a melee or ranged attack on a foe that’s vulnerable to a particular type of damage (like vulnerable to fire or vulnerable to radiant), then the gloves magically make your attack do that sort of damage.
+
+**Quirk:** Refuses to admit pain or weakness.
+
+---
+
+#### Hands of Winter
 
 Quick Action
 
@@ -2346,7 +2446,7 @@ _Recharge 16+:_ Tasks that mostly require your hands (picking a pocket, whittlin
 
 ---
 
-#### Jeweled Glove
+#### Jeweled Gloves
 
 _Recharge 6+:_ When you cast a divine spell, allow one nearby ally to roll a save against one ongoing save ends effect as a free action.
 
@@ -2362,7 +2462,7 @@ While you wear these fine silk gloves, you can play any musical instrument witho
 
 ---
 
-#### Red-iron Gauntlet
+#### Red-iron Gauntlets
 
 You gain a +4 bonus to all defenses against attacks that deal fire damage.
 
@@ -2414,9 +2514,9 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 ### Champion
 
-#### Black-iron Gauntlet
+#### Black-iron Gauntlets
 
-_Recharge 11+:_ When you take negative energy damage, roll a save. If you succeed, instead of taking damage, heal that amount instead.
+_Recharge 11+:_ When you take necrotic damage, roll a save. If you succeed, instead of taking damage, heal that amount instead.
 
 **Quirk:** Disdainful of those who can’t stand up for themselves.
 
@@ -2434,7 +2534,7 @@ _Recharge 11+:_ When you throw a stone from these heavy leather gloves, the magi
 
 ### Epic
 
-#### Hell-iron Gauntlet
+#### Hell-iron Gauntlets
 
 When you miss with a basic attack or at-will attack against a single target and roll a natural 2 or 3, you can reroll the attack.
 
@@ -2555,6 +2655,14 @@ Quick Action
 _Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered (champion: x2 value; epic: 5x value).
 
 **Quirk:** Weeps silently when in battle.
+
+---
+
+#### Helm of Domination
+
+_Recharge 6+:_ When you make an attack roll that targets MD, gain a +2 bonus to the attack after seeing the roll.
+
+**Quirk:** Wears an unnerving grin.
 
 ---
 
@@ -2738,6 +2846,18 @@ When you fail an Intelligence skill check, you may roll another d20 immediately 
 
 ---
 
+#### Crown of Candles
+
+Quick Action
+
+4/Day
+
+Snuff one of the four magical candles on this lit crown to roll a save to end an effect on yourself (effects that aren’t save ends require a hard save). If you fail, the candle stays lit and can be reused (epic: roll a save to end an effect on yourself or a nearby ally).
+
+**Quirk:** Fear of the dark.
+
+---
+
 #### Crown of Leaves
 
 Once per level, you may curse another traveler in the woods. The cursed victim is doomed to wander the woods until they perish, or until you release them (or until they’re freed by a powerful entity, or find an alternate way to leave like teleporting). Cursing people is safe enough in the Queen’s Wood – doing so in any of the other major forests may incur the wrath of the local icon or other great powers.
@@ -2821,6 +2941,14 @@ _Recharge 6+:_ When a nearby ally uses a quick action to command you to do somet
 While wearing this subtle diamond stud, your attention is magically drawn to any nearby conversations that may be of use to you. The earring is obviously of most use in crowded places, like markets or taverns or courts where there are plenty of opportunities for eavesdropping.
 
 **Quirk:** Unconsciously pauses in the middle of conversations to listen on what’s going on next door.
+
+---
+
+#### Lodestone Pendant
+
+_Recharge 11+:_ You always know exactly where you are (depth, direction, and distance to places that you know, etc.) until the end of the battle or scene.
+
+**Quirk:** Fear of becoming lost.
 
 ---
 
@@ -3240,6 +3368,14 @@ _Recharge 6+:_ When you use this ring, heal using a recovery.
 
 ---
 
+#### Riches
+
+_Recharge 11+:_ You can sense nearby gold, jewels, and similar wealth until the end of the battle or for the next five minutes.
+
+**Quirk:** Envious.
+
+---
+
 #### Runes
 
 Quick Action
@@ -3314,6 +3450,14 @@ While the ring is on your finger, if you shut both eyes and concentrate, you can
 
 ---
 
+#### Underking
+
+_Recharge 16+:_ You create a door in a rock wall or a short passageway through rock. Magical barriers or materials require a skill check for the ring to work.
+
+**Quirk:** Needs to sleep on good honest dirt.
+
+---
+
 #### Wild Heart
 
 Animals accept you and may even show you affection. The animals, however, still react normally if you threaten them, and well-trained guard animals are especially wary of you.
@@ -3375,6 +3519,22 @@ _Recharge 16+:_ The many bands of this ring coil and twist when you cast a spell
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). The first time each battle you cast a spell using the scepter that does less than average damage, increase the damage to the average value—thereafter, until the end of the battle, you may take the unrolled average damage for spells through the item.
 
+### Adventurer
+
+#### Rod of Dwarven Might
+
+_Recharge 16+:_ This scepter produces a glowing axe-head on your command. You can use the implement as a two-handed axe you are proficient with. Its default bonus is the same as the implement, and you use your highest ability modifier for attack and damage while attacking with it.
+
+**Quirk:** Imperious demeanor.
+
+---
+
+#### Scepter of the Mountain King
+
+_Recharge 6+:_ You animate nearby tools to do the work they were designed for (axes chop, picks dig, mops mop, etc.) until the end of the battle or for five minutes.
+
+**Quirk:** Likes to prove worth.
+
 ---
 
 ## Shield
@@ -3408,6 +3568,14 @@ When you move to engage an enemy while using this shield, you can use the shield
 _Recharge 11+:_ This shield has demons imprisoned within it. Pick an area of the battlefield (or tavern, or wherever the fight is taking place)—the first time an enemy moves toward the area, pop free from each enemy engaged with you and move to intercept that enemy.
 
 **Quirk:** Only you are vigilant enough to stand watch.
+
+---
+
+#### Discus Shield
+
+This shield also acts as a +1 throwing weapon that returns to you after the attack (champion: +2; epic: +3).
+
+**Quirk:** Eager to discuss your opinions.
 
 ---
 
@@ -3528,6 +3696,14 @@ _Recharge 6+:_ When you make a basic melee attack, make a recharge roll for one 
 _Recharge 11+:_ When you make a basic melee attack, heal using a recovery.
 
 **Quirk:** Eats an odd vegetarian diet and advocates it loudly.
+
+---
+
+#### Roaring
+
+_Recharge 11+:_ When you fail a disengage check, make a basic melee attack.
+
+**Quirk:** Angry.
 
 ---
 
@@ -3923,7 +4099,7 @@ _Recharge 11+:_ When you cast a divine spell that affects one target with a limi
 
 #### Exorcism, Symbol of
 
-_Recharge 11+:_ This symbol is especially effective against enemies that assail the minds and souls of their victims. If you or any of your nearby allies are attacked by a enemy using an attack against Mental Defense, you may activate this symbol to get an additional +2 bonus to attacks and damage with divine spells targeting that enemy for the rest of the battle. (Champion: You also deal an extra 1d10 holy damage whenever you hit that foe with a divine spell; epic: 2d10 holy damage).
+_Recharge 11+:_ This symbol is especially effective against enemies that assail the minds and souls of their victims. If you or any of your nearby allies are attacked by a enemy using an attack against Mental Defense, you may activate this symbol to get an additional +2 bonus to attacks and damage with divine spells targeting that enemy for the rest of the battle. (Champion: You also deal an extra 1d10 radiant damage whenever you hit that foe with a divine spell; epic: 2d10 radiant damage).
 
 **Quirk:** Seeks out creatures of darkness.
 
@@ -3947,6 +4123,14 @@ The sight of this symbol spurs those who see it to greater acts of devotion to t
 
 ---
 
+#### Fork of Feasting
+
+_Recharge 11+:_ This broach has a fork-like pin. When you or a nearby ally roll recovery dice, distribute half the dice among the allies of your choice; those allies roll and gain the healing instead.
+
+**Quirk:** Gluttonous.
+
+---
+
 #### Gathered Power, Symbol of
 
 Daily
@@ -3954,6 +4138,14 @@ Daily
 When you use this symbol during a quick rest, you regain an expended daily adventurer-level spell (1st or 3rd level, in practice) (champion: champion-level spell, 5th or 7th).
 
 **Quirk:** Has one-track mind.
+
+---
+
+#### Gem of Riches
+
+_Recharge 6+ after use:_ Gain a bonus to miss damage equal to twice your level against the richest enemy in a battle (based on the loot they are carrying). You can’t use this power against a single enemy remaining in a battle, or if the richest enemy in the battle drops (but you will know which corpse has the best loot), or if no enemies have anything worth looting (GM’s call in all cases).
+
+**Quirk:** Materialistic.
 
 ---
 
@@ -3983,7 +4175,7 @@ _Recharge 6+:_ When you cast a divine spell, your symbol flares with bright ligh
 
 #### Nominus of Cruelty
 
-When you heal, one enemy engaged with you takes your level in negative energy damage.
+When you heal, one enemy engaged with you takes your level in necrotic damage.
 
 **Quirk:** Enjoys cruel tricks.
 
@@ -4265,6 +4457,14 @@ A wand, made of interlinked cogs. If you’re not a wizard, you can cast the wiz
 
 ---
 
+#### Under-river
+
+_Recharge 6+:_ Tap the wand against a rock to produce a freshwater spring. While next to the spring, creatures gain a +2 bonus to all defenses against attacks that do fire damage, and a +2 bonus to saves against effects caused by attacks that do fire damage. The spring usually dries up within five minutes, though some become permanent.
+
+**Quirk:** Thirsty.
+
+---
+
 #### Unfettered Minion, Wand of
 
 Quick Action
@@ -4335,6 +4535,8 @@ Giants are vulnerable to the attacks of this weapon.
 
 #### Arcane Blade
 
+Melee Weapon
+
 The twisted body of this weapon is inscribed with sigils. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. When you score a critical hit with a melee attack using this weapon, you can immediately cast an at-will spell that you know as a quick action.
 
 **Quirk:** Obsession with trivia.
@@ -4374,6 +4576,8 @@ Before making an attack with this weapon, designate it as a "pain" attack. On a 
 ---
 
 #### Chain of Conceit
+
+Melee Weapon
 
 1/Battle
 
@@ -4417,9 +4621,21 @@ Flip a d20 result around (a 1 becomes a 20, a 2 becomes a 19, etc., a 20 becomes
 
 #### Demon-Thrashing
 
+Melee Weapon
+
 Demons struck by this weapon writhe in unexpected agony. If you roll a natural 16+ when you hit a demon, you may choose to force the demon to reroll on the Demonic Random Abilities table. (Champion: Reroll with a -1 penalty, and if the demon rolls a 0 or less, it becomes vulnerable to all attacks until the end of the battle; epic: reroll with a -2 penalty).
 
 **Quirk:** Your mood changes every time you take damage.
+
+---
+
+#### Destiny-seeking
+
+Thrown Weapon
+
+When you throw this weapon at the most dangerous enemy in the battle, increase its damage dice by one size (d4s to d6s, d6s to d8s).
+
+**Quirk:** Vainglorious.
 
 ---
 
@@ -4435,6 +4651,8 @@ _Recharge 11+:_ When an enemy you are engaged with hits you while you're wieldin
 
 #### Discretion
 
+Any Weapon
+
 Your attack does not trigger any counterattacks from your foe. For example, when an iron golem become staggered, it leaks poison gas. If struck by a weapon of discretion, though, the golem’s poison gas would obligingly wait for the next person to deal damage to it. This doesn’t prevent opportunity attacks, however.
 
 **Quirk:** Polite in the most unlikely situations.
@@ -4448,6 +4666,18 @@ Two-handed melee weapon
 _Recharge 11+:_ When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
 
 **Quirk:** Intrudes on personal space.
+
+---
+
+#### Dwarven Rage
+
+Melee Weapon
+
+Standard Action
+
+_Recharge 6+:_ The metal of this weapon is engraved with dwarven proverbs. Make a basic melee attack against 1d3 enemies; ignore critical hits, they’re just normal hits.
+
+**Quirk:** Uses dwarven sayings (“By the King’s Beard!” “Hammer and stones!”).
 
 ---
 
@@ -4473,6 +4703,8 @@ When you miss with an attack with this weapon, you gain a +1 bonus to AC until t
 
 #### Fiery
 
+Any Weapon
+
 Your weapon deals fire damage instead of normal damage. This fire damage replaces the normal damage from the weapon – it’s not extra damage. (Champion: All right, have an extra d6 fire damage; epic: 2d6).
 
 **Quirk:** Explosive temper.
@@ -4488,6 +4720,16 @@ _Recharge 11+:_
 When you make a basic attack, make a second basic attack against a different enemy as a free action.
 
 **Quirk:** Fidgety.
+
+---
+
+#### Giant-slayer
+
+Melee Weapon
+
+This oversize weapon keens when swung in battle. This weapon gains a +2 bonus to attacks against large and huge creatures.
+
+**Quirk:** Self-conscious about size.
 
 ---
 
@@ -4523,6 +4765,8 @@ When you hit with an attack using this weapon, if that enemy is the most dangero
 
 #### Haunted
 
+Any Weapon
+
 _Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
 
 **Quirk:** It’s a talkative ghost. Or maybe it just screams in your ear all the time. Either way, you’re the only one who can see or hear it.
@@ -4541,6 +4785,8 @@ You deal +1d6 damage with this weapon on all hits after the first time you hit w
 
 #### Indomitable
 
+Any Weapon
+
 If you’re attacking an enemy 3 or more levels higher than you, you deal +1d8 damage to that enemy on a hit (Champion: +2d8; epic: +4d8).
 
 **Quirk:** Tilts at windmills.
@@ -4558,6 +4804,8 @@ When you hit with this weapon, you can deal +1d10 damage to that enemy (champion
 ---
 
 #### Last Hope
+
+Melee Weapon
 
 The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your daily spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss (champion: 2d4; epic: 2d8).
 
@@ -4663,6 +4911,16 @@ When you roll a critical hit on one enemy, you may also inflict thunder damage e
 
 ---
 
+#### Rockbow
+
+Crossbow
+
+When you attack constructs and elementals with this weapon, target PD instead of AC and ignore the damage resistances and immunities of those creature types.
+
+**Quirk:** Over-eager demolitionist.
+
+---
+
 #### Steady
 
 Ranged weapon
@@ -4674,6 +4932,8 @@ _Recharge 11+:_ Before rolling a ranged attack with this weapon, choose 10 as th
 ---
 
 #### Thunderbolts, Of
+
+Any Weapon
 
 _Recharge 11+:_ At the start of a battle, roll a d6 (champion: 2d6; epic 3d6). When the escalation die equals the value rolled on the d6, a bolt of lightning shoots from the sky and charges your weapon with crackling energy; for that round, any hits you inflict with your weapon deal an extra 2d10 lightning damage.
 
@@ -4829,7 +5089,7 @@ _Recharge 16+:_ When you slay a foe with this weapon, that enemy does not die im
 
 #### Throwing and Catching Dagger
 
-+2 Throwing Dagger
+Throwing Dagger
 
 _Recharge 16+:_ When you throw the dagger, you teleport and catch it before it hits the ground. You may throw the dagger anywhere within throwing range, allowing you to teleport to any point you can hit with the dagger. Precarious locations (like, say, throwing the dagger up a cliff, or between narrow bars) may require an attack roll or a skill check, or even both. You can combine throwing the dagger with a melee attack – you throw the dagger at a foe, teleport over, snatch the dagger out of the air and use it to stab your enemy. Treat this as the High Elf racial power, only you can also shave with it.
 
@@ -4839,7 +5099,7 @@ _Recharge 16+:_ When you throw the dagger, you teleport and catch it before it h
 
 #### World-Rending Axe
 
-+2 Greataxe
+Greataxe
 
 Quick Action
 
@@ -4853,6 +5113,8 @@ _Recharge 16+:_ This massive two-handed axe never needs sharpening, as its edge 
 
 #### Demonic Deathknell
 
+Melee Weapon
+
 Quick Action
 
 1/Round
@@ -4865,7 +5127,7 @@ The hilt of the weapon features a tiny bell whose ringing is painful to demons. 
 
 #### Greatsword of Utter Night
 
-+3 Greatsword
+Greatsword
 
 _Recharge 6+:_ When you hit with this weapon, you spirit away that enemy and yourself to an empty void beyond time where only the two of you face each other for a short time. Neither you nor your foe can move, but you can sure fight. Your enemy acts first, then you, and then you are both spirited back to the real world exactly where you were when the power triggered. Bystanders only see a flash of black.
 
@@ -4875,7 +5137,7 @@ _Recharge 6+:_ When you hit with this weapon, you spirit away that enemy and you
 
 #### Incomparable Axe of Wyrm Chopping
 
-+3 Axe
+Axe
 
 Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The GM determines just how broadly the term "dragon" applies.
 
@@ -4885,7 +5147,7 @@ Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The
 
 #### Sword of Ruin
 
-+3 Greatsword
+Greatsword
 
 The sword of ruin is the bane of kings and the unraveller of empires. If it’s used to kill someone with authority over or ownership of a domain of any kind, it curses that domain. Armies lose their courage; castle walls lose their strength; places of magic lose their power; people lose their faith and even the land loses its vitality and becomes desolate and barren.
 
