@@ -13,13 +13,13 @@ In general, ammunition is one-use, hit or miss, and, like other one-use items, a
 
 Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point expansion rather than 1 point per tier). Ammunition takes the bonus of the weapon that shoots it, just like mundane ammunition does.
 
----
-
 ### Adventurer
 
 #### Assassin’s Arrow
 
 +1d10 damage if you hit with this arrow during a surprise round. If you’re a rogue, you may also apply your sneak attack damage if you hit with this arrow at any time.
+
+---
 
 #### Biting Skull
 
@@ -30,6 +30,12 @@ Arrows and bolts with this property have the skulls of rats, snakes or other ver
 #### Barbed Arrow of Disruption
 
 An enemy hit with this arrow stops counting as an ally to its allies, so it cannot benefit from group abilities, bard songs and similar abilities. A hard save (16+) at the end of your turn ends this disruption.
+
+---
+
+#### Blackthorn
+
+When you hit with an attack using this ammunition, the target becomes stuck until the end of its next turn, as thorny vines explosively grow from its wound.
 
 ---
 
@@ -265,8 +271,6 @@ Most magic armor powers can apply to heavy armor, light armor, or even no armor 
 
 +1 AC (adventurer); +2 AC (champion); +3 AC (epic).
 
----
-
 ### Adventurer
 
 #### Ancestor’s Plate
@@ -343,6 +347,14 @@ You gain a +4 bonus to all defenses against opportunity attacks.
 
 ---
 
+#### Crystal-plate
+
+This ‘living’ armor becomes tougher the more it is struck. When an enemy scores a critical hit against you, you gain a cumulative +1 bonus to AC until your next full heal-up. Keep getting critted? Then keep upping your AC.
+
+**Quirk:** Foolhardy.
+
+---
+
 #### Darkness
 
 Shadows congeals around this armor, sheathing the wearer in a shell of darkness. This armor gives an additional +1 bonus to AC when the wearer is in the shadows (at night, or underground or indoors and away from any light sources). Its AC bonus is reduced by 1 when in direct sunlight or next to a light source.
@@ -366,6 +378,14 @@ _Recharge 6+:_ When activated, this armor glows with holy light. You gain a +5 b
 This shirt gives resistance 12+ against either fire, lightning, acid, cold or poison, depending on whether the dragon whose hide you’re wearing was red, blue, black, white, green, brass, bronze, copper, silver, or gold. Wearing a dragonhide shirt gives a -4 penalty to any Charisma skill checks when trying to negotiate or placate a dragon.
 
 **Quirk:** You can only get comfortable when lying on coins and jewels.
+
+---
+
+#### Duskchain
+
+_Recharge 11+:_ When a nearby creature you can see teleports, you can teleport somewhere nearby you can see as a free action.
+
+**Quirk:** Likes to sneak gifts into other’s belongings.
 
 ---
 
@@ -454,6 +474,14 @@ Heavy Armor
 You gain a +4 bonus to AC while you have no recoveries left.
 
 **Quirk:** Has a high pain tolerance.
+
+---
+
+#### Leafmail
+
+This armor magically changes its coloration and blends with the vegetation. While you are in forested or wooded terrain, double this armor’s default AC bonus and gain a bonus to initiative rolls, stealth skill checks, and disengage checks equal to the doubled bonus.
+
+**Quirk:** Hates axes.
 
 ---
 
@@ -803,13 +831,9 @@ _Recharge 11+:_ This armor, which usually is a breastplate of some type, has dem
 
 Increase your maximum recoveries: by 1 (adventurer); by 2 (champion); by 3 (epic).
 
----
-
 ### Optional Default Bonus
 
 Don't increase your recoveries depending on the tier. Instead, the item gives you one extra recovery. But when you heal using that recovery, you don't roll and the hit points you heal depend on the tier of the item: 20 hp (adventurer); 50 hp (champion); 125 hp (epic).
-
----
 
 ### Adventurer
 
@@ -833,7 +857,7 @@ _Recharge 11+:_ This simple leather belt allows you to automatically succeed at 
 
 #### Belt of Illusions
 
-_Recharge 16+:_ This belt works like the wizard spell disguise self, altering your appearance by cloaking you in a magical disguise.
+_Recharge 16+:_ This belt works like the [change self](../Character-Rules/Rituals.md#change-self) ritual, altering your appearance by cloaking you in a magical disguise.
 
 Unlike the spell, though, you can disguise yourself as a specific person without penalty. There’s a trick to it, though – there’s a leather pouch attached to the belt, and the illusion’s based on whatever you put into the pouch. The more personal the item, the better.
 
@@ -1049,6 +1073,14 @@ _Recharge 6+:_ Minute inscriptions of obscure philosophical debates cover both s
 
 ---
 
+#### Sash of the Swan Song
+
+When you become helpless, you can pop free from each enemy engaged with you before becoming helpless.
+
+**Quirk:** Dances when walking.
+
+---
+
 #### Scabbard of Scars
 
 _Recharge 16+:_ The crit range of one of your weapons expands by 2 until the end of the battle.
@@ -1170,8 +1202,6 @@ Mastering a book requires a course of study and practice, usually accomplished o
 ### Default Bonus
 
 None.
-
----
 
 ### Adventurer
 
@@ -1466,8 +1496,6 @@ When you prepare spells, you may leave one slot empty. You may fill that slot wi
 
 Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer); +2 bonus (champion); +3 bonus (epic).
 
----
-
 ### Adventurer
 
 #### Boots of Convenience
@@ -1578,11 +1606,27 @@ _Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may autom
 
 ---
 
+#### Glass Slippers
+
+_Recharge 6+:_ Your attire changes to suit the occasion. You gain a +2 bonus to a skill check to do something like fast talk your way past guards or appear that you belong in places where you ordinarily would not.
+
+**Quirk:** Envious of others’ relationships.
+
+---
+
 #### Gravewalker’s Shoes
 
 When you move, everyone nearby feels a sudden, inexplicable chill that seems to be in time with your footsteps, as if you’re walking on their grave right now. You get a bonus of +2AC against opportunity attacks provoked by movement, but this bonus is lost for the rest of the turn if one of the opportunity attacks hits.
 
 **Quirk:** You disconcert and discomfort people just by being there.
+
+---
+
+#### Iron Slippers
+
+_Recharge 16+:_ When you disengage from one or more enemies, one enemy that you disengage from takes ongoing damage equal to your level and becomes stuck (save ends both) as its feet burn and it’s forced to dance.
+
+**Quirk:** Laughs at the misfortune of others.
 
 ---
 
@@ -1622,6 +1666,16 @@ _Recharge 6+:_ The wearer of these deerskin moccasins is astoundingly fleet of f
 
 ---
 
+#### Silver Slippers
+
+1/Battle for Each
+
+When you pop free or disengage from a mook, one mook that you were engaged with takes damage equal to twice your level. When you take miss damage from an enemy’s attack, you can pop free from that enemy.
+
+**Quirk:** Giggles unnervingly.
+
+---
+
 #### Slayer's Boots
 
 _Recharge 11+:_ When one or more creatures attempt to intercept you while you're moving to engage an enemy during your turn, you dodge past them instead so they can't intercept.
@@ -1644,7 +1698,7 @@ These curly-toed slippers are made from phase-spider velvet. When an enemy inter
 
 _Recharge 11+:_ There’s always something to step on. When you activate these boots, you can be assured that your very next step will be onto something safe and solid, no matter the situation. If you step into a river of lava, you’ll put your foot on a cool rock. If you jump down a cliff, you’ll step on a ledge or a branch. Jump off a roof, land on a balcony or a flagpole. Leap into the ocean, and you’ll land on a sandbank or a piece of floating wreckage or a trusty sea-turtle. Depending on the circumstances, the boots may give you a +4 bonus to skill checks related to unlikely swashbuckling and acrobatics.
 
-_Disclaimer:_ the magic of the boots is good for one (1) step. Any and all future steps are outside the purview of these magic boots. You can step off a flying realm and set foot on a seagull or a floating rock, but your next step after that is your own problem. (Here’s where you start spinning the GM a yarn about how one of your backgrounds totally counts for riding a seagull while balancing on one leg.)
+_Disclaimer:_ the magic of the boots is good for one (1) step. Any and all future steps are outside the purview of these magic boots. You can step off a flying realm and set foot on a seagull or a floating rock, but your next step after that is your own problem. (Here’s where you start spinning the GM a yarn about how one of your skills totally counts for riding a seagull while balancing on one leg.)
 
 **Quirk:** Impetuous.
 
@@ -1784,8 +1838,6 @@ Bracers have the same types of powers as other melee weapons. Use the melee weap
 - Can't abide "fancy" food without heartburn (or at least complaints of heartburn).
 - Insists on being the first to go into a room.
 
----
-
 ### Adventurer
 
 #### Agony
@@ -1803,6 +1855,22 @@ When you roll a natural 1 with an unarmed attack, you can lose hit points equal 
 These leather hand-wraps are made from hide taken from a demon’s arms. You can spend a point of ki to gain a +4 bonus to a physical skill check.
 
 **Quirk:** You hiss when practicing your attack forms.
+
+---
+
+#### Leaf Hand-wrappings
+
+The magic of the living leaves changes on the season. In spring, you gain a +1d4 bonus to all disengage checks. In summer, when you heal using a recovery during battle, you heal an additional 1d4 hp. In autumn, your unarmed attacks deal 1d4 extra fire damage on a hit. In winter, your unarmed attacks deal 1d4 extra cold damage on a miss. At champion-tier, the bonus increases from 1d4 to 2d4; at epictier, the bonus increases to 2d8.
+
+**Quirk:** Likes open skies, fresh rain, and sunlight.
+
+---
+
+#### Scorpion Bracers
+
+_Recharge 11+:_ When you score a critical hit with an unarmed strike, you can instead deal the damage from that attack as ongoing poison damage (hard save ends, 16+).
+
+**Quirk:** Betrayer of trust.
 
 ---
 
@@ -1841,8 +1909,6 @@ These leather bracers are warm to the touch. When you score a critical hit, you 
 ## Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic).
-
----
 
 ### Adventurer
 
@@ -1891,8 +1957,6 @@ Spend a recovery to prevent a nearby enemy from healing until the end of the bat
 ### Default Bonus
 
 Physical defense: +1 PD (adventurer); +2 PD (champion); +3 PD (epic).
-
----
 
 ### Adventurer
 
@@ -2156,6 +2220,16 @@ _Recharge 11+:_ You may activate this cloak in response to being targeted by any
 
 ---
 
+#### Shroud of Webs
+
+1/Day
+
+You make saves against the stuck condition at the beginning of your turn as well as at the end (even if the condition isn’t a save ends effect). When you use the daily power, block a doorway or similar-sized opening with a web as though you were casting the [hold portal](../Character-Rules/Rituals.md#hold-portal) ritual.
+
+**Quirk:** Loves traps and ambushes.
+
+---
+
 #### Spy-Master’s Cape
 
 _Recharge 16+:_ The magic in this dark cape allows you to teleport to any nearby or far away location you can see, but only when you are hidden from the view of all other observers. You may use the cape at the moment of discovery to escape. For example, if you’re trying to hide from a band of orc scouts, and one of them discovers your hiding place, you may teleport as a reaction just before he sees you. Once he looks directly at you, the cloak cannot be activated.
@@ -2185,6 +2259,16 @@ _Recharge 6+:_ For the rest of this battle, or until you are hit by an attack th
 _Recharge 16+:_ When you teleport, you may bring one extra passenger along with you, wrapped in the voluminous folds of this purple silk cloak.
 
 **Quirk:** Emotional obsession with your extra passenger.
+
+---
+
+#### Whirlwind Cape
+
+Move Action
+
+_Recharge 6+ after use:_ Fly in a spinning whirlwind, descending to the ground at the start of your next turn. If you fail the recharge roll, you lose a recovery (and your lunch!). If you succeed, you regain the power and can use it again before descending without the failure effect.
+
+**Quirk:** Impulsive daredevil.
 
 ---
 
@@ -2251,8 +2335,6 @@ _Recharge 11+:_ This hood casts odd shadows over your face when raised. When a s
 ### Default Bonus
 
 None.
-
----
 
 ### Adventurer
 
@@ -2355,6 +2437,14 @@ These heavy gauntlets carry in them the spirit of the mightiest giants. Their po
 The fingers of these gloves stick to any surface, giving a +4 bonus to skill checks to climb or hang on. The stickiness of the gloves lingers even after you stop using them, making your touch clammy and unpleasant.
 
 **Quirk:** Loves heights.
+
+---
+
+#### Gloves of Elven Glories Past
+
+You gain a +2 bonus to last gasp saves, and when you hold ruined or aged items they appear as new (perfect for reading tomes spoiled by age or temporarily un-rusting a key). A side effect of being attuned to these gloves is that you do not age in a conventional sense.
+
+**Quirk:** Melancholy nostalgia.
 
 ---
 
@@ -2462,6 +2552,14 @@ While you wear these fine silk gloves, you can play any musical instrument witho
 
 ---
 
+#### Poisoned Silk
+
+Your first hit with a melee or ranged weapon attack each battle deals +1d8 poison damage (champion: +2d8; epic: +3d8). However, if your first attack in the battle is a miss, you also take poison damage equal to your level.
+
+**Quirk:** Craves rare spices.
+
+---
+
 #### Red-iron Gauntlets
 
 You gain a +4 bonus to all defenses against attacks that deal fire damage.
@@ -2548,8 +2646,6 @@ When you miss with a basic attack or at-will attack against a single target and 
 
 Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 
----
-
 ### Adventurer
 
 #### Animated Ribbons
@@ -2573,6 +2669,16 @@ This set of 12 glass eyes levitates around your head in a halo, and at your dire
 While wearing this circlet, in regular social situations, you appear to others as someone who belongs there. You easily fit in with new groups of people, unless there is some particular reason for others to be suspicious. The circlet has no power in unusual social situations.
 
 **Quirk:** Peppers speech with needless foreign words.
+
+---
+
+#### Circlet of Stars
+
+1/Day
+
+The diamonds of this silver circlet shine when danger is imminent. When you and your allies are ambushed or when you and your allies spring an ambush on enemies and a surprise round occurs, you can take a turn during the surprise round even if you normally couldn’t.
+
+**Quirk:** You believe you can see into the future slightly.
 
 ---
 
@@ -2706,6 +2812,14 @@ _Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defe
 
 ---
 
+#### Helm of the Arachnid
+
+The helm has eight giant spider-eye lenses that you look through while wearing it. You gain a +2 bonus to skill checks to detect danger and to avoid being ambushed.
+
+**Quirk:** Eats flies and other insects.
+
+---
+
 #### Helm of the Beetle
 
 You have resist poison 18+ and gain a +4 bonus to PD against close-quarters attacks that deal poison damage.
@@ -2764,6 +2878,14 @@ _Recharge 11+:_ This mask can make you look downright infernal. You gain a +10 b
 
 ---
 
+#### Laurel of Petals
+
+You gain a +2 bonus to MD and to saves against effects caused by attacks against your MD.
+
+**Quirk:** Extreme conservationist.
+
+---
+
 #### Magic Beard of Entanglement
 
 _Recharge 6+:_ Depending on your character’s facial hair, this item may enter be a set of gold braids and jewels that are woven into your full and manly beard, or a false beard made of gold. Either way, when a foe you’re engaged with disengages, you may activate the beard, which grabs on and forces the foe to reroll their disengage attempt.
@@ -2793,6 +2915,16 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 The MD bonus from this helmet is doubled against attacks from demons.
 
 **Quirk:** Fastidious about personal cleanliness.
+
+---
+
+#### Spidersilk Cap
+
+1/Day
+
+You gain resist poison 16+, and a +2 bonus to skill checks to climb and to saves against being stuck. You can also speak the secret language of spiders, though whether they have anything interesting to say is up to the GM. When you use the daily power, you can use the druid’s Nature Talking class feature power, but only with spiders.
+
+**Quirk:** Arachnophile.
 
 ---
 
@@ -2906,8 +3038,6 @@ _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus n
 
 +1 to saves when you have 10 hp or fewer (adventurer); 25 hp or fewer (champion); 50 hp or fewer (epic).
 
----
-
 ### Adventurer
 
 #### Assassin’s Amulet
@@ -2936,6 +3066,26 @@ _Recharge 6+:_ When a nearby ally uses a quick action to command you to do somet
 
 ---
 
+#### Cups
+
+When you're drunk, you don't accidentally say or do stupid things that you regret in the morning, and your head doesn't hurt so bad.
+
+**Quirk:** Not reluctant to drink excessively in public.
+
+---
+
+#### Dawn Gem
+
+Interrupt Action
+
+1/Day
+
+One nearby ally you can see can use a quick action to take a standard action this turn.
+
+**Quirk:** Nervous in cities.
+
+---
+
 #### Earring of Fortunate Happenstance
 
 While wearing this subtle diamond stud, your attention is magically drawn to any nearby conversations that may be of use to you. The earring is obviously of most use in crowded places, like markets or taverns or courts where there are plenty of opportunities for eavesdropping.
@@ -2949,22 +3099,6 @@ While wearing this subtle diamond stud, your attention is magically drawn to any
 _Recharge 11+:_ You always know exactly where you are (depth, direction, and distance to places that you know, etc.) until the end of the battle or scene.
 
 **Quirk:** Fear of becoming lost.
-
----
-
-#### Pendant of Burning Blood
-
-_Recharge 11+:_ Your blood is black, thick as treacle and hot as boiling oil. As a free action when you take untyped ongoing damage (so, just plain “X ongoing damage”, as opposed to ongoing psychic damage or ongoing fire damage or whatever), you may inflict an amount of fire damage equal to that ongoing damage on all foes engaged with you.
-
-**Quirk:** Passionate in the extreme.
-
----
-
-#### Cups
-
-When you're drunk, you don't accidentally say or do stupid things that you regret in the morning, and your head doesn't hurt so bad.
-
-**Quirk:** Not reluctant to drink excessively in public.
 
 ---
 
@@ -3014,6 +3148,14 @@ The champion and epic versions of this item actually disconnect your soul from y
 
 ---
 
+#### Obsidian Cameo
+
+_Recharge 16+:_ When a nearby enemy saves against ongoing damage, it takes ongoing damage equal to 1d3 times your level.
+
+**Quirk:** Sneering superiority.
+
+---
+
 #### Paired Talisman of the Familiar
 
 _Recharge 16+:_ You can cast an at-will spell through your familiar, as if you were standing in the familiar’s place. This means you could zap someone with a Close spell from Far Away – your pet frog hops up to them and unleashes your shocking grasp.
@@ -3027,6 +3169,14 @@ _Recharge 16+:_ You can cast an at-will spell through your familiar, as if you w
 _Recharge 16+:_ This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle.
 
 **Quirk:** Sometimes unwittingly speaks in a language that sounds like it could be the original language of their species, if anyone else could understand it.
+
+---
+
+#### Pendant of Burning Blood
+
+_Recharge 11+:_ Your blood is black, thick as treacle and hot as boiling oil. As a free action when you take untyped ongoing damage (so, just plain “X ongoing damage”, as opposed to ongoing psychic damage or ongoing fire damage or whatever), you may inflict an amount of fire damage equal to that ongoing damage on all foes engaged with you.
+
+**Quirk:** Passionate in the extreme.
 
 ---
 
@@ -3094,6 +3244,16 @@ _Recharge 11+:_ An ugly, spiky lump of metal scrapes against your chest, remindi
 
 ---
 
+#### Twilight Star
+
+1/Level
+
+The gem on this necklace glows with light equivalent to the wizard’s [light](../Classes/Wizard.md#light-standard-duration) cantrip at-will. The light will also protect you and remove you from danger. When you use the once-per-level power, as a free action, you can teleport somewhere far away or out of the battle, even if you are helpless.
+
+**Quirk:** Unrequited love.
+
+---
+
 #### Water Breathing
 
 _Recharge 6+:_ This band of aquamarine and pearls enables you to breathe water for a short time, usually about five minutes. The effect wears off slowly, so you'll have warning to get to the surface.
@@ -3125,6 +3285,22 @@ Only characters that are ritual casters (either as a class feature or as a feat)
 ### Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). You can attune to up to two orbs. If you do, the recharge powers of each orb is reduced (recharge 16+ becomes 11+, recharge 11+ becomes 6+). While wielding two orbs, you only use the default attack and damage bonus from the strongest orb. However, you do get to benefit from both their powers.
+
+---
+
+#### Astral Warlock
+
+_Recharge 11+:_ Until the end of the battle; when you hit with an attack that does negative energy or poison damage, you gain temporary hit points equal to your level.
+
+**Quirk:** Cackles when excited.
+
+---
+
+#### Forest Witch
+
+_Recharge 11+:_ When you fail to disengage, you turn into a small harmless animal (mouse, spider, cat, etc.) and disengage anyway. While you are a harmless animal, you retain the same stats and can be targeted with attacks. You can turn back to your normal form as a free action before your next action that requires you not to be a small harmless beast (attacking, casting a spell, speaking, etc.).
+
+**Quirk:** Finds the sound of laughter painful.
 
 ---
 
@@ -3194,8 +3370,6 @@ _Recharge Special:_ This sphere is made of a polished, petrified heart. When you
 
 None.
 
----
-
 ### Adventurer
 
 #### Bloody Swathe
@@ -3223,6 +3397,14 @@ _Recharge 11+:_ One enemy you're engaged with takes damage equal to your normal 
 _Recharge 11+:_ This ring is carved from the bone of a slain honey devil. When you roll an attack, save, skill check, or other roll that you can fail, add +1 to that roll.
 
 **Quirk:** Smarmy.
+
+---
+
+#### Contrary Actions
+
+_Recharge 16+ after use:_ Turn a failed skill check on its head—a roll of 1 becomes 20, a roll of 2 becomes 19, etc. However, the new result must be used for something in opposition to the desired outcome of the original skill check, but still beneficial. For example, instead of sneaking past some guards, you distract them so the rest of your allies can sneak past; or instead of flattering a group of goblins into freeing you, you disgust them so much that they exile you.
+
+**Quirk:** Unable to agree with anything.
 
 ---
 
@@ -3450,11 +3632,27 @@ While the ring is on your finger, if you shut both eyes and concentrate, you can
 
 ---
 
+#### Thorns
+
+While grabbed you deal 1d3 times your level in damage to the creature grabbing you at the start of each of your turns. While you are being grabbed by a creature, that creature takes damage equal to 1d3 times your level at the start of each of its turns.
+
+**Quirk:** Plots intricate revenge schemes.
+
+---
+
 #### Underking
 
 _Recharge 16+:_ You create a door in a rock wall or a short passageway through rock. Magical barriers or materials require a skill check for the ring to work.
 
 **Quirk:** Needs to sleep on good honest dirt.
+
+---
+
+#### Vines
+
+Motile vines extend from this ring and grow across your body. You can’t accidentally drop things, and it’s much harder for others to steal items from you; roll twice and take the best result on skill checks in such cases. You also gain a +2 bonus to skill checks to climb, to drag heavy objects, and to take actions in circumstances where having vine ‘ropes’ would be handy.
+
+**Quirk:** Wine lover (and a snob about it too).
 
 ---
 
@@ -3521,11 +3719,29 @@ Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 
 
 ### Adventurer
 
+#### Darkheart Scepter
+
+_Recharge 6+:_ This scepter summons a harmless magical humanoid who faithfully serves you until the end of the battle or for about 5 minutes. The servant makes all skill checks using 10 plus your level (so at 1st level, skill checks made by your servant are d20 + 11, and at 10th level they are d20 + 20). The servant is imprisoned by the magic of the scepter, so perhaps ‘servant’ isn’t exactly the correct word.
+
+**Quirk:** Lazy, almost as if you had a servant on call 24/7.
+
+---
+
 #### Rod of Dwarven Might
 
 _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You can use the implement as a two-handed axe you are proficient with. Its default bonus is the same as the implement, and you use your highest ability modifier for attack and damage while attacking with it.
 
 **Quirk:** Imperious demeanor.
+
+---
+
+#### Scepter of Majestic Deeds
+
+1/Day
+
+One of these scepters is said to have belonged to an elven monarch who had a vexing jester in their court. You are immune to accidentally looking foolish, even if others try to make you look so (for example, when others would fall into mud from a drop, you land gracefully with your hair un-mussed). The power of the item doesn’t protect you from any sort of attack, however. When you use the daily power, until your next initiative roll or until your next full heal-up, roll twice and take the best result for skill checks where you have an opportunity to ‘look impressive.’
+
+**Quirk:** Conceited, like a cat.
 
 ---
 
@@ -3537,13 +3753,23 @@ _Recharge 6+:_ You animate nearby tools to do the work they were designed for (a
 
 ---
 
+#### Sovereign’s Scepter
+
+Quick Action
+
+1/Level
+
+Spells cast through this implement work as normal, but their effects look more impressive to others. Cast one of your daily spells or recharge spells. If you miss any target with the spell, this power recharges during your next full heal-up.
+
+**Quirk:** Uses magic needlessly.
+
+---
+
 ## Shield
 
 ### Default Bonus
 
 Increase your maximum hit points: by +4 (adventurer); by +10 (champion); by +25 (epic).
-
----
 
 ### Adventurer
 
@@ -3768,6 +3994,14 @@ The living eyeball mounted in the boss of this round shield watches vigilantly f
 
 ---
 
+#### Woven-root Shield
+
+When you would be popped free, grabbed, or otherwise moved against your will (except when an effect would teleport you), you can roll an easy (6+) save to negate the effect against you.
+
+**Quirk:** Stubborn.
+
+---
+
 ### Champion
 
 #### Crashing Thunder
@@ -3858,6 +4092,14 @@ _Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hamper
 _Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of prodigious power, probably a lieutenant of a former Archmage. It laughs maniacally and blazes with unholy light when you activate the staff. Any creatures damaged by your attack this round that have 20 or fewer hit points remaining afterwards are instantly torn apart by the power of the staff (epic: 40 hit points or fewer).
 
 **Quirk:** Prone to acts of pointless malice.
+
+---
+
+#### Staff of Elven Fire
+
+When you teleport, one nearby enemy who you are not engaged with before or after your teleport takes damage equal to your level.
+
+**Quirk:** Thinks elves are the coolest.
 
 ---
 
@@ -3981,6 +4223,14 @@ _Recharge 11+:_ This staff was originally a simple tree-branch used as a walking
 
 ---
 
+#### Staff of Elven Shadows
+
+_Recharge 11+:_ When you use your racial ability, one willing nearby ally can heal using a recovery, but you gain the hit points instead.
+
+**Quirk:** Insults ‘friends’ with barbed ‘compliments.’
+
+---
+
 #### Staff of the Gods
 
 _Recharge 16+:_ This staff allows you to call on the gods directly when casting a spell. Either the god you name channels their power through you, or they manifest in person through the magic of the staff to deliver the spell on your behalf.
@@ -4026,8 +4276,6 @@ Sometimes a symbolic magic item is a gem or rune that can be attached to any of 
 ### Default Bonus
 
 Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
-
----
 
 ### Adventurer
 
@@ -4157,6 +4405,16 @@ When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 te
 
 ---
 
+#### Goldenberry
+
+1/Day
+
+You can magically create juicy, edible berries. The amount of food you can produce each day is enough to feed you well, or to barely keep a small group from starving or dying of thirst. After a rest, you can set aside a special goldenberry for yourself or an ally. As a quick action, a creature can eat the goldenberry to heal using a recovery.
+
+**Quirk:** Prefers veganism.
+
+---
+
 #### Greater Power, Relic of
 
 _Recharge 11+:_ When you cast a quick action divine spell that targets allies, the spell affects one additional ally.
@@ -4197,6 +4455,14 @@ You have a fraudulent aura of religious piety and devotion to the Gods of Light.
 
 ---
 
+#### Sash of Veneration
+
+_Recharge 16+ after use:_ Until the start of your next turn, you and each nearby ally gains a +1 bonus to attacks against enemies that aren’t engaged with more than one character.
+
+**Quirk:** Overly loquacious.
+
+---
+
 #### Sickle of Culling
 
 Quick Action
@@ -4204,6 +4470,22 @@ Quick Action
 _Recharge 11+:_ For the rest of the battle, all your attacks deal 5 extra damage (champion: 10 extra damage) when targeting mooks.
 
 **Quirk:** Callous.
+
+---
+
+#### Spider Symbol
+
+_Recharge 11+:_ You transform into a harmless swarm of spiders. While in swarm-form, you gain a +4 bonus to all defenses but can take no actions other than swarming about the area: you can climb walls, observe, spin webs, and eat flies, and that’s about it. Most enemies will ignore you in that form. You can change back to your normal form as a quick action.
+
+**Quirk:** Voyeur.
+
+---
+
+#### Star Symbol
+
+_Recharge 16+:_ You teleport somewhere nearby or far away that you can see, or teleport a creature next to you to a random, non-hazardous, far away location that you can’t see. An unwilling creature can roll a save to avoid the effect. If the save succeeds, your recharge roll automatically succeeds.
+
+**Quirk:** Contemplates in solitude.
 
 ---
 
@@ -4259,8 +4541,6 @@ Wands are only appropriate for adventurer- and champion-level characters. For ep
 
 Attack and damage with arcane spells or attacks: +1 (adventurer); +2 (champion).
 
----
-
 ### Adventurer
 
 #### Arcane Ventriloquism
@@ -4268,8 +4548,6 @@ Attack and damage with arcane spells or attacks: +1 (adventurer); +2 (champion).
 _Recharge 11+:_ This wand is small enough to be easily concealed. When you cast a spell, pick another spellcaster (either an ally or an enemy). Your spell emanates from their location as if they’d cast it, and anyone not familiar with arcane techniques will assume they were responsible for whatever spell you just threw. You can only pick a spellcaster who’s far away if your spell can reach that range normally.
 
 **Quirk:** Blames magic items for any strange behavior or moral failings.
-
----
 
 ---
 
@@ -4289,6 +4567,14 @@ _Recharge 16+:_ Activate this wand immediately after rolling damage for a daily 
 
 ---
 
+#### Darkroot Wand
+
+_Recharge 16+:_ When you inflict a condition on an enemy (ongoing damage, confused, dazed, etc.), the target is also stuck until the first condition ends.
+
+**Quirk:** Takes advantage of friends’ misfortunes.
+
+---
+
 #### Deathmark Wand
 
 Quick Action
@@ -4299,11 +4585,19 @@ _Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the
 
 ---
 
-#### Dowsing, Wand of
+#### Dowsing
 
 In addition to providing the usual bonus to arcane spells and damage, this wand of rowan-wood can also point on command towards the nearest concentration of elemental power (bodies of water, volcanoes, druidic circles – the raw, wild magic of the natural world). The wand does not reveal what sort of elemental power it’s pointing towards, only the rough strength and distance.
 
 **Quirk:** Wild and lurid dreams.
+
+---
+
+#### Elderwood Wand
+
+You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—are treated as if you were casting a ritual, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
+
+**Quirk:** Doesn’t like stone architecture.
 
 ---
 
@@ -4327,7 +4621,7 @@ _Recharge 11+:_ A nearby demon or devil becomes stuck (save ends) as it begins t
 
 ---
 
-#### Infighting, Wand of
+#### Infighting
 
 When you cast an arcane attack spell using this wand, you gain a +1 bonus to attack and damage with that spell if it's a close-quarters spell.
 
@@ -4351,7 +4645,7 @@ _Recharge 11+:_ When you attack an enemy and fail to overcome its damage resista
 
 ---
 
-#### Mage's Invisible Aegis, Wand of the
+#### Mage's Invisible Aegis
 
 _Recharge 16+:_ When you use this wand, you can cast the wizard's shield spell, with a level no higher than your level. (Champion: recharge 11+).
 
@@ -4377,7 +4671,7 @@ In addition to improving your arcane spells, this wand allows you to detect conc
 
 ---
 
-#### Mindbending, Wand of
+#### Mindbending
 
 When you cast an arcane attack spell using this wand, you gain a +1 bonus to attack and damage with that spell if it targets Mental Defense.
 
@@ -4385,7 +4679,7 @@ When you cast an arcane attack spell using this wand, you gain a +1 bonus to att
 
 ---
 
-#### Pious Thaumaturgy, Wand of
+#### Pious Thaumaturgy
 
 _Recharge 6+:_ Wands of this sort are marked with holy symbols and inscriptions that warn of the dangers of sinful magic. Your immortal soul is safe from corruption, though, thanks to this blessed and sanctified wand. You may use the wand to have a spell’s damage be holy in addition to its usual damage types. That spell also counts as divine magic as well as arcane magic.
 
@@ -4465,13 +4759,25 @@ _Recharge 6+:_ Tap the wand against a rock to produce a freshwater spring. While
 
 ---
 
-#### Unfettered Minion, Wand of
+#### Unfettered Minion
 
 Quick Action
 
 _Recharge 11+:_ When you use this wand, a creature who is at least somewhat subservient to you gains a +1 bonus to melee attacks and damage until the end of the battle (champion: +2 bonus).
 
 **Quirk:** Switches unexpectedly into "evil mastermind" tone of voice.
+
+---
+
+#### Unicorn Horn Wand
+
+Standard Action
+
+1/Day
+
+Call a steed, whether a horse, sand wyrm, dolphin, etc., to take you on a halfday journey to the closest safe destination. Alternatively, you can travel to the closest location for advancing the campaign, if that location is known to you. If this power is used during combat, the steed takes 1d3 + 1 rounds to arrive, otherwise it takes that many minutes. At champion-tier, you can summon enough steeds for you and your allies.
+
+**Quirk:** Pomposity in the face of hardship.
 
 ---
 
@@ -4498,8 +4804,6 @@ _Recharge 16+:_ When you miss with a spell that targets a single enemy, as a qui
 ### Default Bonus
 
 Attacks and damage when using the weapon: +1 (adventurer); +2 (champion); +3 (epic).
-
----
 
 ### Adventurer
 
@@ -4543,6 +4847,16 @@ The twisted body of this weapon is inscribed with sigils. You can apply this wea
 
 ---
 
+#### Beribboned
+
+Ranged Weapon
+
+_Recharge 6+:_ Count an odd attack roll as an even roll, or vise-versa; however, the value of the roll doesn’t change.
+
+**Quirk:** Decorates your weapons and equipment.
+
+---
+
 #### Bloodthirsty
 
 Any Weapon
@@ -4563,9 +4877,19 @@ This weapon’s die type improves by one step when dealing damage to skeletons a
 
 ---
 
+#### Brightsteel
+
+Melee Weapon
+
+_Recharge 16+:_ When you score a critical hit when the escalation die is 5+, the target also becomes stunned until the end of its next turn.
+
+**Quirk:** Valorous, but somewhat overly dramatic.
+
+---
+
 #### Certain Pain
 
-Two-handed melee weapon
+Two-handed Melee Weapon
 
 _Recharge 11+:_
 
@@ -4607,6 +4931,16 @@ _Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points 
 
 ---
 
+#### Darktouched
+
+Ranged Weapon
+
+_Recharge 16+:_ When you hit with this weapon, the target is surrounded by a clinging magical darkness and takes a –4 penalty to ranged attacks (save ends).
+
+**Quirk:** Prefers the concealment of night.
+
+---
+
 #### Deceitful Dagger
 
 Dagger
@@ -4641,7 +4975,7 @@ When you throw this weapon at the most dangerous enemy in the battle, increase i
 
 #### Dexterous Parry
 
-One-handed melee weapon
+One-handed Melee Weapon
 
 _Recharge 11+:_ When an enemy you are engaged with hits you while you're wielding this weapon, make a Dexterity check against the attacker's MD. If you succeed, the attack misses instead.
 
@@ -4661,7 +4995,7 @@ Your attack does not trigger any counterattacks from your foe. For example, when
 
 #### Distraction
 
-Two-handed melee weapon
+Two-handed Melee Weapon
 
 _Recharge 11+:_ When you hit with this weapon, allow one of your allies engaged with that foe to make a basic melee attack against it as a free action.
 
@@ -4713,7 +5047,7 @@ Your weapon deals fire damage instead of normal damage. This fire damage replace
 
 #### Flurry
 
-Two-handed melee weapon
+Two-handed Melee Weapon
 
 _Recharge 11+:_
 
@@ -4735,7 +5069,7 @@ This oversize weapon keens when swung in battle. This weapon gains a +2 bonus to
 
 #### Guardian
 
-One-handed melee weapon
+One-handed Melee Weapon
 
 When you hit with an opportunity attack using this weapon, the target is weakened until the end of that turn (–4 attacks and defenses).
 
@@ -4770,6 +5104,16 @@ Any Weapon
 _Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
 
 **Quirk:** It’s a talkative ghost. Or maybe it just screams in your ear all the time. Either way, you’re the only one who can see or hear it.
+
+---
+
+#### Hawkshot
+
+Ranged Weapon
+
+_Recharge 11+:_ Ammunition fired from this weapon transforms into bird-like forms, changing course when it misses the target. When you miss with this ammunition, reroll the attack against a different enemy.
+
+**Quirk:** Wants to fly.
 
 ---
 
@@ -4839,7 +5183,7 @@ _Recharge 16+:_ If you miss, you can choose to make another attack on a differen
 
 #### Mauling
 
-Two-handed melee weapon
+Two-handed Melee Weapon
 
 Move Action
 
@@ -4851,7 +5195,7 @@ You gain a +1 attack bonus to your next attack you make this turn.
 
 #### Mighty Swing
 
-Two-handed melee weapon
+Two-handed Melee Weapon
 
 Move Action
 
@@ -4873,7 +5217,7 @@ If your target is attempting to flee from the battle, a natural even hit against
 
 #### Protection
 
-Melee weapon
+Melee Weapon
 
 _Recharge 6+:_ When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn (champion: +5; epic: +6).
 
@@ -4893,7 +5237,7 @@ _Recharge 16+:_ The gods guide your hand. Don’t bother rolling the dice – yo
 
 #### Puissance
 
-Melee weapon
+Melee Weapon
 
 _Recharge 16+:_ When you make a basic attack with this weapon, make a recharge roll for one power.
 
@@ -4921,6 +5265,26 @@ When you attack constructs and elementals with this weapon, target PD instead of
 
 ---
 
+#### Sand-bow
+
+Any Bow
+
+_Recharge 6+:_ When you score a critical hit with this weapon, 1d3 nearby enemies in a group (which must include the enemy you hit) get sand in their faces and take a –2 penalty to their next attack roll, or –4 if only the original target is affected.
+
+**Quirk:** Enjoys the feel of the sun.
+
+---
+
+#### Shadow-lash
+
+One Handed Melee Weapon
+
+_Recharge 11+ after use:_ When you deal ongoing damage with this weapon, heal using a recovery.
+
+**Quirk:** The suffering of others amuses you.
+
+---
+
 #### Steady
 
 Ranged weapon
@@ -4928,6 +5292,16 @@ Ranged weapon
 _Recharge 11+:_ Before rolling a ranged attack with this weapon, choose 10 as the natural roll for that attack.
 
 **Quirk:** Talks too much about the weather.
+
+---
+
+#### Thorny
+
+One-Handed Melee Weapon
+
+When you deal ongoing damage with this weapon, add the weapon’s default bonus to the difficulty of the ongoing damage save. For example, a +2 champion tier weapon would mean the roll for a normal save of 11+ becomes a 13+.
+
+**Quirk:** Prefers sneaky solutions.
 
 ---
 
@@ -4949,7 +5323,7 @@ As the lightning bolt needs a clear path from the sky to your upraised weapon, t
 
 #### Unstinting Virtue
 
-Melee weapon
+Melee Weapon
 
 _Recharge 11+:_ When you make a basic attack with this weapon, roll a save against a save ends effect.
 
@@ -5071,7 +5445,7 @@ This _warhammer_ +2 makes the ground shudder when you get in a good hit with it.
 
 #### Reckless
 
-Melee weapon
+Melee Weapon
 
 _Recharge 6+:_ Reroll one of your attack rolls with a +4 bonus. In addition, until the end of the battle, enemies attacking you add the escalation die to their attack roll (no effect if the enemy already adds it for some reason).
 
@@ -5166,8 +5540,6 @@ You can attune multiple wondrous items.
 ### Default Bonus
 
 None.
-
----
 
 ### Adventurer
 
@@ -5374,6 +5746,14 @@ Spirits of all sorts move through the Empire. This glass jar is marked with rune
 
 ---
 
+#### Starsilk Gown
+
+This courtly dress is made from a rare magical material—you can wear heavy armor under it and it won’t show. While wearing the gown, you gain a +2 bonus to skill checks involving fashion and beauty.
+
+**Quirk:** Over-concerned with matters of courtesy.
+
+---
+
 ### Champion
 
 #### Badge of the Watchers
@@ -5521,6 +5901,14 @@ Once the bands are used, they can't be used again until you gain a full recovery
 Fifty feet of fine, spidersilk rope, woven so closely that it seems like a solid, flexible cable. Once you attune the rope during a full heal-up, you can make it entangle things with standard action commands. In combat, it's not that useful, because it's slow compared to a living thing. If the target is stationary, however, the rope excels at reaching, climbing, snaking, coiling, and entangling. You might be able to get the rope to bind a ferocious monster, but the rope is likely to get destroyed in the process.
 
 **Quirk:** Speaks in sentences for which "convoluted" is the only proper term.
+
+---
+
+#### Winged Backpack
+
+_Recharge 16+ after use:_ This ordinary-looking backpack unfolds itself to reveal a pair of wings. When you fall, the backpack’s wings slow your fall so you take no damage. With a strong wind or a high starting point, gliding is possible.
+
+**Quirk:** Longs for the freedom of the open skies.
 
 ---
 
@@ -6119,7 +6507,7 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 
 #### Wand (Implement)
 
-##### Wand of the Bloodless Mage
+##### Bloodless Mage
 
 When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
 
@@ -6127,7 +6515,7 @@ When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
 
 ---
 
-#### Wondrous Item
+#### Wondrous Items
 
 ##### Treasured Chest
 
