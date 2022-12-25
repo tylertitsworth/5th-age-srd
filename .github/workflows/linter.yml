@@ -41,7 +41,8 @@ jobs:
           # Full git history is needed to get a proper
           # list of changed files within `super-linter`
           fetch-depth: 0
-
+      - name: Copy Config File
+        run: mkdir -p .github/linters && cp .markdownlint.json .github/linters/.markdownlint.json 
       ################################
       # Run Linter against code base #
       ################################
