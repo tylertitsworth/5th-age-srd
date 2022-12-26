@@ -111,6 +111,12 @@ When you hit with an attack using this ammunition, the target also pops free fro
 
 ---
 
+#### Gravewood
+
+The wood for this ammunition came from a tree that sprouted from a grave. The crit range of this ammunition expands by 2 (usually to 17+) against undead creatures, and on a hit against an undead creature, the attack deals double damage (triple damage on a critical hit) and the target becomes hampered and stuck (save ends both, or hard save ends \[16+\] on a crit).
+
+---
+
 #### Incineration
 
 Creatures slain by ammunition with this property are reduced to ash when they die. They’re not going to come back as zombies, or rise as vampires, or be used as husks by demons.
@@ -253,6 +259,12 @@ This arrow’s damage is force damage, so it can hit wraiths and other pesky res
 
 ---
 
+#### Ice-bolt
+
+This missile freezes as it flies. When you hit with an attack using this ammunition, the target also takes 6 ongoing cold damage (epic: 10 ongoing cold) and is stuck until the end of its next turn.
+
+---
+
 #### Mortal
 
 Damage caused by this arrow cannot be healed easily. It takes two points of healing to cure one point of damage from an attack made with this arrow.
@@ -341,6 +353,14 @@ _Recharge 11+:_ When an attack hits you, you gain a +4 bonus to all Defenses unt
 
 ---
 
+#### Bonemail
+
+_Recharge 11+ after use:_ When you roll a death save, increase this armor’s AC bonus by +1 (cumulative) until your next full heal-up.
+
+**Quirk:** Can’t stand growing things.
+
+---
+
 #### Butterflies
 
 Quick Action
@@ -384,6 +404,22 @@ This ‘living’ armor becomes tougher the more it is struck. When an enemy sco
 Shadows congeals around this armor, sheathing the wearer in a shell of darkness. This armor gives an additional +1 bonus to AC when the wearer is in the shadows (at night, or underground or indoors and away from any light sources). Its AC bonus is reduced by 1 when in direct sunlight or next to a light source.
 
 **Quirk:** Finds bright lights painful. Skin becomes alarmingly pale. Also, allergic to garlic.
+
+---
+
+#### Deathknight
+
+_Recharge 6+:_ When a nearby ally becomes staggered, increase this armor’s AC bonus by 2 until the end of the battle.
+
+**Quirk:** Likes chewing on bones.
+
+---
+
+#### Deathshroud
+
+When you or a nearby ally fails a save, you gain a +2 bonus to AC until the end of your next turn.
+
+**Quirk:** Likes to sleep in a coffin or on grave dirt.
 
 ---
 
@@ -468,6 +504,14 @@ Light Armor
 Add the armor’s magic bonus to the total hit points restored when you receive healing from any source (champion: bonus x2; epic: bonus x4).
 
 **Quirk:** Wild and raucous.
+
+---
+
+#### Ghostplate
+
+_Recharge 11+:_ When you take damage from an attack targeting your AC, take only half damage unless damage resistance has already halved the damage.
+
+**Quirk:** Fears holy ground.
 
 ---
 
@@ -653,6 +697,16 @@ _Recharge 6+:_ Roots and tendrils trail from this suit of heavy armor. On comman
 
 ---
 
+#### Rotted
+
+Light Armor Only
+
+While you are taking ongoing damage or are helpless, gain a +2 bonus to AC and PD.
+
+**Quirk:** Concerned their skin is disintegrating and will consider odd procedures to prevent that.
+
+---
+
 #### Rune-smithing
 
 Quick Action
@@ -805,6 +859,16 @@ At the start of a battle, you may choose to reduce this armor’s bonus to +1 fo
 
 ---
 
+#### Dress of Deathless Grace
+
+Light Armor Only
+
+_Recharge 16+ after use:_ The pearls on this dress are slightly stained with blood. When an enemy hits you with an attack that targets MD, that attack targets AC instead.
+
+**Quirk:** Courteous but cold.
+
+---
+
 #### Ether-Combusting
 
 This armor looks like oddly reddish steel, but to the eyes of a creature that exists half in this world and half in the realms between – demons, phase spiders and the like – you look like you’re wearing a blazing pillar of fire that sets the very fabric of reality ablaze wherever you go. Whenever a nearby foe teleports, you automatically blast them for 2d8 fire damage (epic: 4d8).
@@ -879,6 +943,14 @@ Blood splattered onto the surface of this armor (usually made of iron) seeps in 
 
 ---
 
+#### Tombweb
+
+When you take negative energy damage or take damage from an attack by an undead creature, gain temporary hit points equal to your level.
+
+**Quirk:** Enjoys the sensation of spiders crawling on their skin.
+
+---
+
 #### Tremors
 
 _Recharge 11+:_ You cause a minor quake, and each nearby non-huge (or larger) non-flying creature in the battle can roll a disengage check as a free action. Each affected creature loses its move action during its next turn.
@@ -892,6 +964,14 @@ _Recharge 11+:_ You cause a minor quake, and each nearby non-huge (or larger) no
 You may drain and heal using Recoveries from your nearby allies on a two-for-one basis – one nearby ally loses two Recoveries, you get the healing benefit of one of them. The armor activates automatically when you go below 50 hit points. You get to pick who you drain – they don’t get to refuse, but can cut you off forever after being drained. If an ally cuts you off, you may never drain them with the armor again.
 
 **Quirk:** Callous.
+
+---
+
+#### Vampiric
+
+When you stagger a non-mook enemy or drop a nonmook enemy to 0 hp, gain a +2 bonus to AC until the start of your next turn.
+
+**Quirk:** Averse to holy symbols.
 
 ---
 
@@ -933,6 +1013,14 @@ _Recharge 16+:_ Only sorcerers can benefit from this armor. Only sorcerers are m
 
 ---
 
+#### Soul-drinking
+
+When a nearby ally becomes helpless or dies, gain a +3 bonus to AC until the end of the battle or until that ally is no longer helpless or dead. If a death triggers this effect, the good news is you know exactly where your dead ally’s soul is.
+
+**Quirk:** Thirsty—but not for mortal drink.
+
+---
+
 #### Stormwing
 
 Move Action
@@ -940,6 +1028,16 @@ Move Action
 _Recharge 11+:_ This armor, which usually is a breastplate of some type, has demon wings attached to the back. When you use this power, you gain flight with your next move action and your next attack roll this battle that hits deals 3d12 extra lightning damage. If your flight ends before you land or rab onto a secure surface, you fall.
 
 **Quirk:** Loves storms.
+
+---
+
+#### Stygian Iron
+
+1/Day
+
+When you fail a death save, you succeed instead and gain a +2 bonus to all defenses until the end of the battle.
+
+**Quirk:** Depressed.
 
 ---
 
@@ -1057,6 +1155,14 @@ _Recharge 6+:_ When you rally, make a basic attack.
 
 ---
 
+#### Cincture of Famine
+
+Wearing this girdle gives you a very tiny waist, and removes your normal need for food, water, and air, though this effect doesn’t protect you from any attack.
+
+**Quirk:** Hungers for normally inedible things.
+
+---
+
 #### Dusk and Dawn
 
 _Recharge 6+:_ Heal with a free recovery at the moment of sunset or sunrise.
@@ -1146,6 +1252,14 @@ _Recharge 11+:_ Until the end of your next turn, the first 5 points of necrotic 
 #### Glorious Rally
 
 When you rally, you gain 4 temporary hit points that last until the end of your next turn (champion: 10 temp hp; epic: 25 temp hp).
+
+---
+
+#### Grave Dirt Girdle
+
+_Recharge 11+:_ This belt has pouches containing grave dirt. When you heal using a recovery, until the start of your next turn, you: gain _resist damage 16+_ against all damage, can pop free from each enemy engaged with you as a move action, and can move through solid objects but not end your turn there.
+
+**Quirk:** Likes to be near graveyards.
 
 ---
 
@@ -1313,6 +1427,14 @@ While wearing this loose belt, you can run through the branches and treetops as 
 
 ### Champion
 
+#### Ligature of the Lich
+
+When you heal using a recovery, gain a +4 bonus to saves until the end of your next turn.
+
+**Quirk:** Seeks ways to unnaturally extend life.
+
+---
+
 #### Resurgence
 
 _Recharge 16+:_ When you drop to 0 hit points or lower, heal using a recovery before falling unconscious.
@@ -1330,6 +1452,14 @@ _Recharge 6+:_ A silky sash worn as a belt. When an attack hits your AC and deal
 ---
 
 ### Epic
+
+#### Belt of Phylacteries
+
+When you have no recoveries remaining, roll a save. If you succeed, you regain a recovery.
+
+**Quirk:** Fears others will steal their soul.
+
+---
 
 #### Kilt of the Mad Archmage
 
@@ -1792,6 +1922,16 @@ On a natural 20, then the chosen enemy is so obsessed with the boots they become
 
 ---
 
+#### Deathwalker Greaves
+
+1/Day
+
+While you’re in a graveyard or other area with a strong ‘dead’ vibe, phase through solid objects as part of your normal movement, passing through tomb doors and striding through tombstones for example, until the end of the battle or scene.
+
+**Quirk:** Talks to the dead.
+
+---
+
 #### Dwarven Doomsteppers
 
 You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
@@ -1911,6 +2051,14 @@ _Recharge 11+:_ When one or more creatures attempt to intercept you while you're
 These curly-toed slippers are made from phase-spider velvet. When an enemy intercepts you, you teleport back to the spot from which you started your move (epic tier: and can retake the move action with a new destination).
 
 **Quirk:** Always looking over your shoulder.
+
+---
+
+#### Soul-striders
+
+_Recharge 11+ after use:_ When a nearby creature dies, teleport next to that creature.
+
+**Quirk:** Hears their own heartbeat constantly.
 
 ---
 
@@ -2096,6 +2244,14 @@ These leather hand-wraps are made from hide taken from a demon’s arms. You can
 
 ---
 
+#### Deathwatch Beetle
+
+Your crit range with attacks made using these bracers expands by 1 (usually to 19+) against beasts, dragons, giants, and humanoids; and by 2 (usually to 18+) against plants.
+
+**Quirk:** Enjoys the smell of carrion.
+
+---
+
 #### Leaf Hand-wrappings
 
 The magic of the living leaves changes on the season. In spring, you gain a +1d4 bonus to all disengage checks. In summer, when you heal using a recovery during battle, you heal an additional 1d4 hp. In autumn, your unarmed attacks deal 1d4 extra fire damage on a hit. In winter, your unarmed attacks deal 1d4 extra cold damage on a miss. At champion-tier, the bonus increases from 1d4 to 2d4; at epictier, the bonus increases to 2d8.
@@ -2218,11 +2374,29 @@ Spend a recovery to allow a nearby ally to heal using two free recoveries.
 
 ---
 
+#### Skull Grail
+
+1/Day
+
+Spend a recovery to reroll a recharge roll for a spell. If the reroll fails, start the next battle with 15 temporary hit points (champion: 30 temp hp; epic: 50 temp hp).
+
+**Quirk:** Collects trophies.
+
+---
+
 #### Spiked Chalice
 
 Spend a recovery to prevent a nearby enemy from healing until the end of the battle.
 
 **Quirk:** Envy those more powerful than you.
+
+---
+
+#### Tarnished Chalice
+
+_Recharge 16+:_ Spend a recovery and roll your recovery dice but don’t heal. The next creature targeted by an attack from one of your allies this battle takes that amount of negative energy damage, hit or miss.
+
+**Quirk:** Debauched.
 
 ---
 
@@ -2440,6 +2614,14 @@ Until your next rest, or until you roll initiative, you transform into a small, 
 
 ---
 
+#### Mantle of Ice
+
+_Recharge 11+ after use:_ When an attack that deals cold damage targets your PD and misses, gain temporary hit points equal to the damage you would have taken if the attack had hit.
+
+**Quirk:** Always too warm for comfort.
+
+---
+
 #### Mantle of Lost Cities
 
 Dwarven historians weave ornate cloaks of this sort from silver wire and rams-hair. While wearing this mantle, you see any dwarven structure or handiwork both as it is and as it was at its height. So, if you entered a ruined dwarven citadel, you would see both the current dilapidated ruin and, overlaid on that, what the citadel looked like when it was fully manned and intact. This double vision may be useful when exploring ruined areas or searching for lost treasures. For instance, you might know that there’s a door beneath a particular piles of fallen rocks, or recognize a rusty broken sword as the remains of a potent magic weapon.
@@ -2622,6 +2804,16 @@ _Recharge 11+:_ When a foe you're engaged with targets your ally with an attack 
 
 ---
 
+#### Mantle of Vampirism
+
+1/Day
+
+Until the end of the battle, you know which enemy has the fewest hit points (or are tied for fewest). Once this battle when you hit that enemy with a basic attack or at-will attack, you regain a recovery, and if that attack drops the enemy to 0 hp, you can heal using that recovery.
+
+**Quirk:** Grows fangs, or becomes focused on trying to grow fangs.
+
+---
+
 #### Wolf-hide Hood
 
 Quick Action
@@ -2641,6 +2833,16 @@ _Miss:_ Damage equal to your level.
 ---
 
 ### Epic
+
+#### Bat-winged Cloak
+
+1/Day
+
+When you drop a creature to 0 hp, you gain flight until the end of the battle or scene.
+
+**Quirk:** Doesn’t always know when to stop fighting.
+
+---
 
 #### Bearskin Cloak
 
@@ -2822,6 +3024,14 @@ _Recharge 11+:_ Should anyone else touch your gloved hand, they receive a moment
 
 ---
 
+#### Gloves of Icy Grasp
+
+_Recharge 11+:_ When you roll damage dice for an attack that deals cold damage, reroll the damage dice and keep the higher result.
+
+**Quirk:** Restrains emotions.
+
+---
+
 #### Gloves of Mind Rot
 
 _Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
@@ -2851,6 +3061,14 @@ These white gloves fly off your hands and float about when you call upon their p
 _Recharge 6+:_ Sparks and tendrils of chaotic magical energy crawl around these gloves, like coiled snakes waiting for the moment to strike. When you make a melee or ranged attack on a foe that’s vulnerable to a particular type of damage (like vulnerable to fire or vulnerable to radiant), then the gloves magically make your attack do that sort of damage.
 
 **Quirk:** Refuses to admit pain or weakness.
+
+---
+
+#### Gravewarden Gloves
+
+You can touch normally intangible creatures with these gloves. When you make attacks against spirits and undead, ignore the _ghostly_ and _spirit body_ (and similar effects) abilities of those creatures.
+
+**Quirk:** Cowardly around ghosts.
 
 ---
 
@@ -3022,6 +3240,16 @@ _Recharge 11+:_ When you throw a stone from these heavy leather gloves, the magi
 
 ---
 
+#### Silver-Thread Gloves
+
+Standard Action
+
+_Recharge 16+:_ When an ally next to you is dying, pull their soul back into their body, and that ally automatically succeeds on their next death save (GM, your call on whether that ally gets to act or not that round).
+
+**Quirk:** Fascinated with the process of dying.
+
+---
+
 ### Epic
 
 #### Hell-iron Gauntlets
@@ -3127,6 +3355,14 @@ This battered metal headband shows signs of having been repeatedly struck by mag
 You can command plants to talk aloud or sing, as per the druid’s [Nature Talking](../Classes/Druid.md#nature-talking) class feature, but only with a plant.
 
 **Quirk:** Thanks plants for their sacrifice: for firewood burned, fruit consumed, etc.
+
+---
+
+#### Crown of Ice
+
+When you roll a natural even hit with an attack that targets MD, deal +1d4 cold damage with that attack (champion: +2d4; epic: +2d8).
+
+**Quirk:** Cold-hearted.
 
 ---
 
@@ -3478,6 +3714,16 @@ _Recharge 11+:_ When a nearby enemy targets a nearby ally that has 25 hit points
 
 ---
 
+#### Iron Crown
+
+Quick Action
+
+_Recharge 11+:_ When two or more enemies are engaged with you, make a basic melee attack against one of those enemies that deals negative energy damage instead of any other type of damage.
+
+**Quirk:** Has an unfocused gaze.
+
+---
+
 ### Epic
 
 #### Crown of Hell
@@ -3501,6 +3747,14 @@ _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus n
 When an enemy targets your MD with an attack and misses, each of your allies gains a +2 bonus to their next attack roll if it’s against that enemy.
 
 **Quirk:** Believes small mammals are delicious raw.
+
+---
+
+#### Tarnished Silver Crown
+
+When an attack targets your MD and misses, deal negative energy damage equal to three times your level to an enemy engaged with you.
+
+**Quirk:** Nostalgic for glories of past ages.
 
 ---
 
@@ -3600,6 +3854,16 @@ _Recharge 11+:_ 1d3 nearby undead creatures, each with 55 hp or fewer, are autom
 
 ---
 
+#### Memento Mori
+
+1/Day
+
+Reroll (or force a reroll) of any die roll (for example, an attack roll for or against a PC, a roll to determine targets, one d10 in a d100 roll, a damage die; etc.). If the reroll fails, gain a +1 bonus to saves until your next full heal-up.
+
+**Quirk:** Forgetful.
+
+---
+
 #### Momentous Harmony
 
 The pendant brings out the best in other magic items you carry, so that their quirks turn more positive, or at least become weaker if they cause trouble. If you go over your magic item limit, the pendant ceases to function (including the default bonus) and the formerly subdued magic items express themselves with renewed fervor.
@@ -3616,11 +3880,29 @@ Gain a +2 bonus to attack rolls, skill checks, and all defenses against construc
 
 ---
 
+#### Mummified Monkey Paw
+
+3/Day
+
+When you or a nearby ally fails a save, you or that ally succeed instead, but the next ally (including you) who rolls a save automatically fails and you can’t use the mummified monkey paw to change the result.
+
+**Quirk:** Uses the phrase “I wish . . .” constantly (and recklessly, considering what else this item might be capable of ).
+
+---
+
 #### Necklace of Tethered Memories
 
 _Recharge 11+:_ As a quick action on their turn, a wounded ally you can see recounts a pleasant memory of you and can heal using one of your recoveries.
 
 **Quirk:** Prone to nostalgia.
+
+---
+
+#### Necklace of Bones
+
+_Recharge 16+:_ When you would randomly determine an outcome in the game through a die roll or some other method (such as a chaos mage drawing stones), you can try again and take the result you prefer.
+
+**Quirk:** Indecisive.
 
 ---
 
@@ -3808,11 +4090,31 @@ _Recharge 11+:_ Until the end of the battle; when you hit with an attack that do
 
 ---
 
+#### Bone Orb
+
+Quick Action
+
+_Recharge 16+:_ One nearby undead creature (including you if you are undead) heals 10 hit points (champion: 20 hp; epic: 30 hp).
+
+**Quirk:** Living flesh disgusts you.
+
+---
+
 #### Forest Witch
 
 _Recharge 11+:_ When you fail to disengage, you turn into a small harmless animal (mouse, spider, cat, etc.) and disengage anyway. While you are a harmless animal, you retain the same stats and can be targeted with attacks. You can turn back to your normal form as a free action before your next action that requires you not to be a small harmless beast (attacking, casting a spell, speaking, etc.).
 
 **Quirk:** Finds the sound of laughter painful.
+
+---
+
+#### Globe of Darkness
+
+Standard Action
+
+_Recharge 16+:_ Create a surface of mystic darkness under or next to 1d3 nearby enemies in a group and each creature engaged with them (possibly including you and your allies). Each creature targeted is stuck (easy save ends, 6+) as dark tentacles extend from the surface and grab them (champion: the tentacles ignore you; epic: the tentacles also ignore your allies). Each creature targeted takes a –5 penalty to disengage checks until the end of the battle.
+
+**Quirk:** Fear of the darkness.
 
 ---
 
@@ -3853,6 +4155,16 @@ _Recharge 16+:_ A clear glass orb that magnifies things oddly. You gain a +4 bon
 _Recharge 11+ after use:_ One half of this orb is burnt wood, while moss and flowers sprout from the other half. When you deal fire damage with an attack made using this orb, you heal hit points equal to triple your level.
 
 **Quirk:** Tries to take the long view.
+
+---
+
+#### Sphere of Witch-mists
+
+Quick Action
+
+_Recharge 16+:_ Teleport to a nearby location you can see, and if the orb fails to recharge, you can spend a recovery to regain this power.
+
+**Quirk:** You prefer to remain mysterious.
 
 ---
 
@@ -3910,6 +4222,16 @@ None.
 
 ### Adventurer
 
+#### Ashen
+
+1/Day
+
+Until the end of the battle, each nearby enemy can’t heal or gain temporary hit points until that enemy succeeds with a hard save (16+) and then uses a standard action to do nothing but shake off the effect.
+
+**Quirk:** Likes to cleanse/cremate enemies.
+
+---
+
 #### Bloody Swathe
 
 Quick Action
@@ -3917,6 +4239,14 @@ Quick Action
 _Recharge 6+:_ The huge ruby in this ring glows hungrily when you call on its power. Activate the ring when you defeat three or more foes with a single attack. After the battle, you may apply the number of foes dropped with that single attack as a bonus to any recharge rolls made after this combat.
 
 **Quirk:** Battle-hungry.
+
+---
+
+#### Bone
+
+If you are humanoid you are instead considered undead when it would benefit you, and vice versa. You also always know the direction and distance to the nearest properly kept (not abandoned) graveyard or tomb.
+
+**Quirk:** Cadaverous appearance (or at least outlook).
 
 ---
 
@@ -3991,6 +4321,16 @@ This signet ring bears the symbol of an archdevil, and is just large enough to b
 _Recharge 16+:_ When you take damage from an enemy's attack, choose one ally you can see. That ally can make a basic attack (melee or ranged) against the attacker as a free action.
 
 **Quirk:** Sticks close to their friends, real close.
+
+---
+
+#### Iron
+
+Move Action
+
+_Recharge 6+ after use:_ Draw a nearby small unattended metal item to you, or pull yourself to a large one. The effect of this power isn’t exceptionally fast: pulling an item to you doesn’t count as any sort of attack, and when you pull yourself to an item, even though you are effectively flying during that movement, it still provokes opportunity attacks. If the item is in a grave or a crypt, the power recharges automatically.
+
+**Quirk:** Hates grave robbers.
 
 ---
 
@@ -4109,6 +4449,14 @@ _Recharge 6+:_ When you use this ring, heal using a recovery.
 _Recharge 11+:_ You can sense nearby gold, jewels, and similar wealth until the end of the battle or for the next five minutes.
 
 **Quirk:** Envious.
+
+---
+
+#### Rotten
+
+You are immune to all mundane diseases and have resist poison and negative energy 16+.
+
+**Quirk:** Loves rotted meat.
 
 ---
 
@@ -4313,6 +4661,32 @@ Cast one of the following wizard spells against a target that is a dragon or dra
 
 ---
 
+#### Majestic Deeds
+
+1/Day
+
+One of these scepters is said to have belonged to an elven monarch who had a vexing jester in their court. You are immune to accidentally looking foolish, even if others try to make you look so (for example, when others would fall into mud from a drop, you land gracefully with your hair un-mussed). The power of the item doesn’t protect you from any sort of attack, however. When you use the daily power, until your next initiative roll or until your next full heal-up, roll twice and take the best result for skill checks where you have an opportunity to ‘look impressive.’
+
+**Quirk:** Conceited, like a cat.
+
+---
+
+#### Mountain King
+
+_Recharge 6+:_ You animate nearby tools to do the work they were designed for (axes chop, picks dig, mops mop, etc.) until the end of the battle or for five minutes.
+
+**Quirk:** Likes to prove worth.
+
+---
+
+#### Phantom Prince
+
+_Recharge 11+:_ When you score a critical hit with a spell cast through this implement, teleport to a nearby location you can see.
+
+**Quirk:** Can’t abide being in the presence of salt.
+
+---
+
 #### Rod of Dwarven Might
 
 _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You can use the implement as a two-handed axe you are proficient with. Its default bonus is the same as the implement, and you use your highest ability modifier for attack and damage while attacking with it.
@@ -4331,24 +4705,6 @@ Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[
 
 ---
 
-#### Scepter of Majestic Deeds
-
-1/Day
-
-One of these scepters is said to have belonged to an elven monarch who had a vexing jester in their court. You are immune to accidentally looking foolish, even if others try to make you look so (for example, when others would fall into mud from a drop, you land gracefully with your hair un-mussed). The power of the item doesn’t protect you from any sort of attack, however. When you use the daily power, until your next initiative roll or until your next full heal-up, roll twice and take the best result for skill checks where you have an opportunity to ‘look impressive.’
-
-**Quirk:** Conceited, like a cat.
-
----
-
-#### Scepter of the Mountain King
-
-_Recharge 6+:_ You animate nearby tools to do the work they were designed for (axes chop, picks dig, mops mop, etc.) until the end of the battle or for five minutes.
-
-**Quirk:** Likes to prove worth.
-
----
-
 #### Sovereign’s Scepter
 
 Quick Action
@@ -4358,6 +4714,26 @@ Quick Action
 Spells cast through this implement work as normal, but their effects look more impressive to others. Cast one of your daily spells or recharge spells. If you miss any target with the spell, this power recharges during your next full heal-up.
 
 **Quirk:** Uses magic needlessly.
+
+---
+
+### Champion
+
+#### Zombie Queen
+
+When you are at 0 hp or below, you don’t fall unconscious and can continue fighting until you die (usually from reaching half your maximum negative hit points). If you take any actions during your turn while at negative hit points aside from rallying, you can’t be healed or gain hit points until the start of your next turn.
+
+**Quirk:** Emotionally dead half the time.
+
+---
+
+### Epic
+
+#### Vampire Vizier
+
+When you score a critical hit with an attack made using this implement, you can deal normal damage instead of double damage to gain temporary hit points equal to the extra damage that you would have dealt.
+
+**Quirk:** Silver gives you a rash.
 
 ---
 
@@ -4398,6 +4774,26 @@ When an enemy scores a critical hit against you or one of your nearby allies, un
 When you move to engage an enemy while using this shield, you can use the shield to push that enemy away from one of your allies engaged with it. That ally can make a disengage check as a free action.
 
 **Quirk:** Can't pass up an opportunity to sing.
+
+---
+
+#### Bloodthirsty
+
+The first time each battle you hit a beast, dragon, giant, or humanoid (once for each type) with a melee attack, heal hit points equal to twice that enemy’s level.
+
+**Quirk:** Thirsts for blood, obviously.
+
+---
+
+#### Bones
+
+Quick Action
+
+1/Battle
+
+A beast, dragon, giant, humanoid, or undead engaged with you pops free from you as you briefly take control of its bones to force it to move away. If you use the shield’s power as a standard action instead of a quick action, that creature is also stuck until the end of its next turn.
+
+**Quirk:** Keen puppeteer.
 
 ---
 
@@ -4686,6 +5082,14 @@ _Recharge 16+:_ This staff is inscribed with star maps. When you teleport somewh
 
 ---
 
+#### Blackened Bones
+
+When you cast a spell using this staff that deals negative energy damage or that targets an undead creature, and your attack roll equals the escalation die, you score a critical hit against that target, even if the attack roll would normally miss.
+
+**Quirk:** Hears the whispers of the restless dead. Probably best that they can’t (often) understand them.
+
+---
+
 #### Crystalline Staff
 
 A staff made of a single crystal. When you make your second attack each battle using this staff, deal +4d6 damage of a random type (determined on the table below) to one of the targets of that spell (epic: +4d10 damage).
@@ -4722,6 +5126,16 @@ Standard Action
 Recharge 11+:_ You may expend one of your spell slots (one containing either an at-will spell, or a spell that you could cast this battle, but haven’t yet used) to channel the fiery breath of Bahamut through your staff. This close-quarters attack uses your Wisdom or Charisma + Level, affects 1d3+1 nearby enemies, targets Physical Defense, and inflicts 1d8 damage per level of the spell expended (epic: d12s), plus your Wisdom or Charisma modifier. Oh, each dice of damage is both fire and radiant damage.
 
 **Quirk:** Warns people about the error of their ways, and how they had better repent or… boom…
+
+---
+
+#### Finality
+
+1/Day
+
+When you drop an enemy to 0 hp with an attack using this staff, and that creature is neither stronger than double-strength nor more than two levels higher than you, that creature can’t heal, dies, turns to dust, and can’t return or be brought back to life. Once-per-level you can use this item’s power on any creature.
+
+**Quirk:** Trouble comprehending cycles of nature.
 
 ---
 
@@ -5199,6 +5613,24 @@ _Recharge 11+:_ When you cast a quick action divine spell that targets allies, t
 
 ---
 
+#### Heretic’s Fingerbone
+
+1/Day
+
+When you cast a spell using this implement, count a natural 1 attack roll as a natural 20.
+
+**Quirk:** Entertains profane beliefs.
+
+---
+
+#### Iconoclast’s Relic
+
+Your crit range for attacks made using this implement expands by 2 if at least two of the following conditions are true about the target: it’s stronger than a standard monster; it’s higher level than you (champion: at least 2 levels higher; epic: at least 3 levels higher); and/or it’s either a dragon or a humanoid.
+
+**Quirk:** Has subversive thoughts.
+
+---
+
 #### Light, Symbol of
 
 _Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a daily divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less (champion: 100 hit points or less; epic: 250 hit points or less). This daze lasts until the end of the enemy’s next turn.
@@ -5301,11 +5733,29 @@ _Recharge 16+:_ You teleport somewhere nearby or far away that you can see, or t
 
 ---
 
+#### Stone of Sloth
+
+1/Day
+
+When you don’t roll to recharge any powers during a quick rest (because you choose not to, none need recharging, or you have none), each recovery you spend to heal during that rest heals you the maximum amount for your recovery dice.
+
+**Quirk:** Slothful.
+
+---
+
 #### The Gods and Goddesses, Gem of
 
 _Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
 
 **Quirk:** Insists on courtesy even in situations where none should be required.
+
+---
+
+#### Tolling Bell, Symbol of the
+
+When you fail a death save, each of your allies gains a +1 bonus to all d20 rolls until the start of your next turn.
+
+**Quirk:** Fear of bells.
 
 ---
 
@@ -5405,7 +5855,7 @@ _Recharge 16+:_ Activate this wand immediately after rolling damage for a daily 
 
 ---
 
-#### Darkroot Wand
+#### Darkroot
 
 _Recharge 16+:_ When you inflict a condition on an enemy (ongoing damage, confused, dazed, etc.), the target is also stuck until the first condition ends.
 
@@ -5413,7 +5863,15 @@ _Recharge 16+:_ When you inflict a condition on an enemy (ongoing damage, confus
 
 ---
 
-#### Deathmark Wand
+#### Deadwood
+
+When you make an attack against a plant using this wand, gain a +2 bonus to the attack and your crit range expands by 2 for that attack.
+
+**Quirk:** Collects driftwood.
+
+---
+
+#### Deathmark
 
 Quick Action
 
@@ -5441,7 +5899,7 @@ You can use this item’s powers only while helpless (including asleep) or stunn
 
 ---
 
-#### Elderwood Wand
+#### Elderwood
 
 You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—can require several hours if not days, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
 
@@ -5449,13 +5907,21 @@ You can reshape trees, bushes and other plants to your will, parting vegetation 
 
 ---
 
-#### Flaring Wand
+#### Flaring
 
 Quick action
 
 _Recharge 11+:_ When the escalation die is 5+, cast one of your arcane spells. That spell will miss on any natural odd roll.
 
 **Quirk:** Often looks frazzled.
+
+---
+
+#### Ghost Flute
+
+_Recharge 11+:_ When you cast a spell using this implement that has a hit point threshold for targets (charm person, hold monster, sleep, etc.), double the hit point threshold for undead targets, and you regain the spell at the end of the battle if you targeted only undead with that spell.
+
+**Quirk:** Plays music at midnight.
 
 ---
 
@@ -5551,7 +6017,7 @@ _Recharge 6+:_ When a demon is killed by you or one of your allies, you may imme
 
 ---
 
-#### Rushlight Wand
+#### Rushlight
 
 _Recharge 6+:_ When you hit a target with a ranged spell, you may cause that creature to glow from within for the rest of the battle with a bright light, as if their blood had caught fire. This glow makes it very difficult for the target to hide (-4 penalty to attempts to hide), and even invisible creatures shed some light (miss chances are halved).
 
@@ -5617,7 +6083,7 @@ _Recharge 11+:_ When you use this wand, a creature who is at least somewhat subs
 
 ---
 
-#### Unicorn Horn Wand
+#### Unicorn Horn
 
 Standard Action
 
@@ -5833,6 +6299,16 @@ _Recharge 16+:_ When you hit with this weapon, the target is surrounded by a cli
 
 ---
 
+#### Deathcaller
+
+Melee Weapon
+
+When you make an attack with this weapon and the target has fewer than 5 hp (champion: fewer than 15 hp; epic: fewer than 25 hp) after the attack, the target drops to 0 hp.
+
+**Quirk:** Laughs at own jokes, the crueler the joke the bigger the laugh.
+
+---
+
 #### Deceitful Dagger
 
 Dagger
@@ -6045,6 +6521,16 @@ _Recharge 11+:_ Ammunition fired from this weapon transforms into bird-like form
 
 ---
 
+#### Heartbreaker
+
+Melee Weapon
+
+You always know when any nearby creature you can see (including your allies) is vulnerable. Once-per-day when you or an ally scores a critical hit against a vulnerable enemy, that attack deals triple damage instead of double.
+
+**Quirk:** Exploits emotional vulnerabilities.
+
+---
+
 #### Horn-handled
 
 Your crit range with this weapon expands by 2 (usually to 18+) against beasts and plants.
@@ -6060,6 +6546,16 @@ Any Weapon
 You deal +1d6 damage with this weapon on all hits after the first time you hit with it in a round (champion: +2d6; epic +4d6). So, opportunity attacks, cleaves or extra attacks from powers like haste or hack & slash can trigger this weapon’s bonus damage.
 
 **Quirk:** Short attention span.
+
+---
+
+#### Ice-crack
+
+Melee Weapon
+
+When an enemy deals cold damage to you or scores a critical hit against you, your crit range with this weapon expands by 1 until the end of the battle (cumulative, up to a maximum crit range of +3).
+
+**Quirk:** Obsessed with ice, the more ice the bigger the draw.
 
 ---
 
@@ -6114,6 +6610,16 @@ _Recharge 6+:_
 If you have attacked with this weapon this turn, allow an ally to roll a save against an ongoing save ends effect as a free action.
 
 **Quirk:** Drones on about how healing grace will save all the worlds.
+
+---
+
+#### Life-drinker
+
+Ranged Weapon
+
+When you drop a non-mook enemy to 0 hp with an attack using this weapon, you gain a +3 bonus to your next attack roll with this weapon.
+
+**Quirk:** You believe that whatever doesn’t kill you makes you stronger.
 
 ---
 
@@ -6213,6 +6719,16 @@ _Recharge 16+:_ When you make a basic attack with this weapon, make a recharge r
 
 ---
 
+#### Reaping
+
+Melee Weapon
+
+When you drop a mook with this weapon, heal 3 hp (champion: 7 hp; epic: 12 hp).
+
+**Quirk:** Cares for their ‘harvest’ after their death.
+
+---
+
 #### Resounding
 
 Melee Weapon
@@ -6220,6 +6736,16 @@ Melee Weapon
 When you roll a critical hit on one enemy, you may also inflict thunder damage equal to your level to a different nearby foe.
 
 **Quirk:** Half-deaf
+
+---
+
+#### Rictus Grin
+
+Ranged Weapon
+
+_Recharge 11+:_ When you hit with an attack using this weapon, deal half the damage as ongoing psychic damage. While taking this ongoing damage, the target laughs horribly at the pain, if possible, and if the ongoing damage kills it, it dies with a huge grin.
+
+**Quirk:** Loves puns.
 
 ---
 
@@ -6287,6 +6813,16 @@ When you hit with an attack using this weapon, the target takes no damage and yo
 
 ---
 
+#### Soul-Rending
+
+Ranged Weapon
+
+_Recharge 11+ after use:_ When you make a basic attack or at-will attack using this weapon, target MD instead of AC and deal psychic damage instead of any other type.
+
+**Quirk:** Collects trophies from the dead.
+
+---
+
 #### Steady
 
 Ranged weapon
@@ -6317,7 +6853,7 @@ When you deal ongoing damage with this weapon, add the weapon’s default bonus 
 
 ---
 
-#### Thunderbolts, Of
+#### Thunderbolts
 
 Any Weapon
 
@@ -6330,6 +6866,16 @@ As the lightning bolt needs a clear path from the sky to your upraised weapon, t
 **Quirk:** Bombastic speech.
 
 >_Note:_ I don’t believe it myself, but this lizard I know swears that the Blue Lady up in Drakkenhall bewitched a druid, and he made her one of those thunderbolt weapons. You know what charges a weapon a lot better than a bolt of lighting from the sky? The unfettered breath of the Blue, that’s what. When that hammer’s charged up, they say it could knock the head off a manticore with one swing. Of course, for some of the things that crawl out of the Iron Sea, we’re going to need a bigger hammer. - Stormcrow Jacen, “Merchant”
+
+---
+
+#### Tomb-Spike
+
+Melee Weapon
+
+Attacks with this weapon deal 2d8 extra holy damage(champion: 3d10; epic: 4d12) on a hit against undead andenemies that deal negative energy damage.
+
+**Quirk:** Veneratesancestors, maybe a little too much.
 
 ---
 
@@ -6540,6 +7086,14 @@ Axe
 Whenever you attack a dragon with the axe, you deal +40 damage, hit or miss. The GM determines just how broadly the term "dragon" applies.
 
 **Quirk:** Speaks in Draconic, first just curses, but then more and more elements of speech.
+
+---
+
+#### Peerless
+
+When you are in battle with a weapon-wielding enemy who is at least 3 levels higher than you or is stronger than a standard monster, this weapon’s default bonus increases to +4, or to +5 if the enemy is both.
+
+**Quirk:** Envious of others’ powers.
 
 ---
 
@@ -7734,3 +8288,25 @@ When you hit with a spell attack, deal extra damage to one target. If the spell 
 ##### Great Low Sickle
 
 You deal +5 damage with missed attacks, but all of your defenses take a –3 penalty.
+
+---
+
+#### Wondrous Items
+
+##### Eye of Vecna
+
+1/day
+
+When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items. Curse: While using the Eye’s daily power, the Lich King knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
+
+**Quirk:** Desires to seek out and attune to the hand.
+
+---
+
+##### Hand of Vecna
+
+1/Day
+
+When placed upon an arm-stump, the withered hand grafts itself on. Make a basic attack or at-will attack against a target with fewer hit points than you (you’re aware of which enemies are), targeting PD if your attack would normally target AC. If you hit with the attack, it’s a critical hit. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items. Curse: After you use the Hand’s daily power, the Lich King takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
+
+**Quirk:** Desires to seek out and attune to the eye.
