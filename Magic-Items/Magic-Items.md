@@ -147,6 +147,12 @@ This ammunition has been enchanted against one of the following groups of monste
 
 ---
 
+#### Ogre Shot
+
+When you hit with this ammunition, ignore the target’s damage resistance, and the target is vulnerable until the end of your next turn. When you score a critical hit with this ammunition, the target also loses all damage resistances until the end of the battle.
+
+---
+
 #### Quickling Arrow
 
 You can attack during an ambush no matter what your initiative roll was.
@@ -381,6 +387,14 @@ This shirt gives resistance 12+ against either fire, lightning, acid, cold or po
 
 ---
 
+#### Dress/Shirt of Contingencies
+
+_Recharge 11+:_ This courtly clothing has ribbons that animate to pass you objects that you have previously concealed within its voluminous skirts or sleeves. Take a non-attack standard action, move action, or quick action that involves your equipment (reload a heavy crossbow, drink a potion, etc.). You can’t use the action to move anywhere, only manipulate equipment.
+
+**Quirk:** Has killer fashion sense.
+
+---
+
 #### Duskchain
 
 _Recharge 11+:_ When a nearby creature you can see teleports, you can teleport somewhere nearby you can see as a free action.
@@ -427,6 +441,14 @@ Add the armor’s magic bonus to the total hit points restored when you receive 
 
 ---
 
+#### Gladiator’s Armor
+
+_Recharge 16+:_ Reroll a missed attack and gain a bonus to attacks that depends on the number of creatures watching (not participating in) the battle: +1 for a single bystander, +2 for a small crowd, +4 for a large crowd.
+
+**Quirk:** Shows off.
+
+---
+
 #### Guarded Heart
 
 The AC bonus from your armor applies to your MD as well.
@@ -448,6 +470,16 @@ You gain a +4 bonus to all defenses during your first turn in battle.
 _Recharge 16+:_ This silk robe’s lining is embroidered with spells. When a nearby enemy hits you with a spell attack, that enemy rerolls the attack with a –2 penalty. If the attack hits, one of your daily spells recharges.
 
 **Quirk:** Haughty.
+
+---
+
+#### Imperial Plate
+
+Heavy Armor Only
+
+This armor was forged using dragon breath. You have resist 16+ to the attacks of dragons and related creatures.
+
+**Quirk:** Sneezes when anxious.
 
 ---
 
@@ -500,6 +532,16 @@ Free Action
 _Recharge 6+:_ If you are knocked unconscious or slain, you may apply your armor’s magic AC bonus to an ally’s AC for the rest of the battle, or until you are revived. This bonus stacks with any protection given by the ally’s magic armor, if any.
 
 **Quirk:** Casts away unneeded worldly goods.
+
+---
+
+#### Noble’s Undershirt
+
+Light Armor Only
+
+This armor can be worn unobtrusively under clothing. You gain a +2 bonus to AC while you’re helpless, stunned, vulnerable, or weakened. You also have this bonus at the start of each battle until you take an action.
+
+**Quirk:** Snorts when laughing.
 
 ---
 
@@ -975,6 +1017,14 @@ Refuse, and at the worst possible moment, the belt will take back the health it�
 
 ---
 
+#### Girdle of Second Chances
+
+These girdles are popular with nobles who like to hide girth gained through over-indulgences, while being assured of the safety of their food and drink. You have resist poison 16+, and when you save against ongoing poison damage or effects caused by attacks that do poison damage, roll twice and take the best result. In addition, once per day, you can drink a potion as a quick action.
+
+**Quirk:** Extreme epicurean.
+
+---
+
 #### Girdle of the Gods
 
 _Recharge 11+:_ When you first receive this item, pick the god it’s dedicated to. You may heal using a recovery when you perform an act pleasing to that god, or when you’re in or near a place associated with that god. So, if you pick a war god, then the belt might let you rally after you slay a foe. If you pick a harvest god, then you get to rally when defending farmland, or at the end of summer (or maybe you can argue that, symbolically speaking, it’s the autumn of the encounter when the escalation die is 5+, so you can heal then.)
@@ -1124,6 +1174,14 @@ _Recharge 6+:_ You are drawn to prey on the weak and the dying. When you use the
 _Recharge 6+:_ This ugly iron belt is of benefit only when partnered with a magic weapon that deals extra dice of damage when a particular condition is met. Activating the belt lets you ignore your weapon’s condition for one attack.
 
 **Quirk:** Intolerant of the failings of others.
+
+---
+
+#### Tinker’s Belt
+
+When you take damage from a trap and the natural attack roll was odd, take only half damage from that attack.
+
+**Quirk:** Constantly mumbles.
 
 ---
 
@@ -1552,6 +1610,14 @@ You can walk or run normally through terrain that would usually slow one down, s
 
 ---
 
+#### Boots of the Dragon Rider
+
+_Recharge 6+:_ When you would fall, roll a normal save. If you succeed, you avoid falling and remain as close as possible to the location you were when you started to fall.
+
+**Quirk:** Hot-headed.
+
+---
+
 #### Boots of the Hero’s Footsteps
 
 These travel-worn boots have been all over the Empire, and they remember every step. Sometimes, you’re beset by intense déjà vu, as memories from the boots leak into your mind. This only happens in places where the boots have been before. When it goes, you either get a +4 bonus to a Wisdom skill check related to navigation or finding paths, or a +4 bonus to a Dexterity check to avoid unexpected hazards that the boots have encountered before.
@@ -1805,6 +1871,16 @@ _Recharge 11+:_ Activate these blood-red boots, and you open a one-way portal to
 The boots return you – just you – to the same spot in the material plane after a few minutes. If you activate the boots in a fight, you’re definitely not coming back until after the battle’s done. Anyone you bring with you has to find their own way out of this hellish place.
 
 **Quirk:** Your footsteps have a strange echo, as if some fiend doth close behind you tread. If the boots take over, the fiend possesses you.
+
+---
+
+#### Boots of the Imperator
+
+1/Day
+
+The soles of these boots contain flecks of lava stone from deep under Axis. When an enemy engaged with you hits you with an attack, that enemy takes twice your level in fire damage, is stuck until the end of its next turn, and must reroll the attack against you as you stamp your foot and produce a small patch of lava under it.
+
+**Quirk:** Acts imperious.
 
 ---
 
@@ -2099,6 +2175,16 @@ _Recharge 6+:_ When you take damage from an opportunity attack, take 20 less dam
 _Recharge 16+:_ When an enemy scores a critical hit against you, it must reroll the attack and you can teleport somewhere nearby you can see after the attack. If the attack deals fire damage, the attack misses instead (no reroll required).
 
 **Quirk:** Ravenousness.
+
+---
+
+#### Indivisibility Cloak
+
+1/Day
+
+The metal threads in this cloak make it hard to cut. A critical hit against you becomes a regular hit, or a regular hit becomes a miss.
+
+**Quirk:** Certain of own immortality (as long as you have the cloak).
 
 ---
 
@@ -2610,6 +2696,14 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 
 ---
 
+#### Velvet Gloves of Leadership
+
+You gain a +2 bonus to skill checks to intimidate others.
+
+**Quirk:** Of course, you are right . . . you are always right.
+
+---
+
 ### Champion
 
 #### Black-iron Gauntlets
@@ -2617,6 +2711,14 @@ You gain a +2 bonus to any skill check that involves sleight of hand, strength o
 _Recharge 11+:_ When you take necrotic damage, roll a save. If you succeed, instead of taking damage, heal that amount instead.
 
 **Quirk:** Disdainful of those who can’t stand up for themselves.
+
+---
+
+#### Cestus of Champions
+
+These spiked gauntlets are light onehanded magic weapons, but you can still wield and hold items while wearing them. When you roll a natural 2 or 13 with a melee attack while not fighting with two weapons, you can make a basic melee attack as a free action.
+
+**Quirk:** Seeks the approval of others.
 
 ---
 
@@ -2669,6 +2771,14 @@ This set of 12 glass eyes levitates around your head in a halo, and at your dire
 While wearing this circlet, in regular social situations, you appear to others as someone who belongs there. You easily fit in with new groups of people, unless there is some particular reason for others to be suspicious. The circlet has no power in unusual social situations.
 
 **Quirk:** Peppers speech with needless foreign words.
+
+---
+
+#### Circlet of Noble Blood
+
+The blood-red rubies in this golden band glow softly when new or unknown magic is nearby. You gain a +2 bonus to detect magical effects, items, and traps; and to disarm magical traps.
+
+**Quirk:** Likes the finest wines only.
 
 ---
 
@@ -2928,6 +3038,16 @@ You gain resist poison 16+, and a +2 bonus to skill checks to climb and to saves
 
 ---
 
+#### Watcher’s Helm
+
+1/Day
+
+This helmet senses danger. When you are ambushed or surprised, you can act (rolling initiative and taking a turn) during the surprise round.
+
+**Quirk:** Insomniac.
+
+---
+
 #### Wig of Fabulous Loveliness
 
 _Recharge 6+:_ This color-changing wig animates at your command, altering its length and style. When you use its power, the wig acts like a prehensile limb to block blows and you gain a +1 bonus to AC and PD from attacks that target a single enemy until the end of the battle.
@@ -3169,6 +3289,14 @@ _Recharge 16+:_ You can cast an at-will spell through your familiar, as if you w
 _Recharge 16+:_ This necklace changes shape and jewels depending on the species of the wearer. When you use this necklace, you gain another use of your species power in the battle.
 
 **Quirk:** Sometimes unwittingly speaks in a language that sounds like it could be the original language of their species, if anyone else could understand it.
+
+---
+
+#### Pearl of Wisdom
+
+_Recharge 11+:_ Reroll a Wisdom skill check and take the better result.
+
+**Quirk:** Bookworm.
 
 ---
 
@@ -3588,6 +3716,14 @@ Second, the magic only works on demons and undead. Other creatures can open the 
 
 ---
 
+#### Sheriff ’s Ring of Knocking
+
+_Recharge 6+:_ This ring was owned by a famously unpopular tax collector. As a move action, make a skill check to break, knock down, or damage a non-magical object you are next to. Use a +10 bonus to your roll instead of your ability modifier + level + skill bonus (champion: +15; epic: +20).
+
+**Quirk:** Executes duties without compassion.
+
+---
+
 #### Skin of Your Teeth
 
 _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
@@ -3727,11 +3863,29 @@ _Recharge 6+:_ This scepter summons a harmless magical humanoid who faithfully s
 
 ---
 
+#### Golden Scepter of Dragon Command
+
+1/Level
+
+Cast one of the following wizard spells against a target that is a dragon or draconic creature: [charm person](../Classes/Wizard.md#charm-person), [hold monster](../Classes/Wizard.md#hold-monster), or [sleep](../Classes/Wizard.md#sleep). You cast the chosen spell at your level using your best ability for the attack roll, except you double the hp threshold (champion: triple the hp threshold; epic: quadruple the hp threshold). On a miss, regain this power after your next full heal-up in addition to any normal miss effects that are part of the spell. Quirk: Enjoys the company of dragons.
+
+---
+
 #### Rod of Dwarven Might
 
 _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You can use the implement as a two-handed axe you are proficient with. Its default bonus is the same as the implement, and you use your highest ability modifier for attack and damage while attacking with it.
 
 **Quirk:** Imperious demeanor.
+
+---
+
+#### Ruby Rod of Rulership
+
+1/Day
+
+Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll (champion: 5th level; epic: 9th level). In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp; epic: 266 hp), targeting creatures with the lowest hit points first.
+
+**Quirk:** Bossy.
 
 ---
 
@@ -3772,6 +3926,14 @@ Spells cast through this implement work as normal, but their effects look more i
 Increase your maximum hit points: by +4 (adventurer); by +10 (champion); by +25 (epic).
 
 ### Adventurer
+
+#### Absorption
+
+_Recharge 16+:_ When you roll initiative, pick a damage type associated with dragon breath (acid, cold, fire, lightning, poison, etc.). Until the end of the battle, you gain resist 16+ to that damage type.
+
+**Quirk:** Glib overconfidence.
+
+---
 
 #### Adaptation
 
@@ -4277,6 +4439,12 @@ Sometimes a symbolic magic item is a gem or rune that can be attached to any of 
 
 Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
 
+### Battle Flags
+
+When you roll initiative and use a battle flag's daily power, choose whether you are wearing the flag, or if you plant it in the ground. Your choice determines which power you can use that battle.
+
+>_Note:_ If you plant the flag, you get the benefit of its default bonus only while it is nearby.
+
 ### Adventurer
 
 #### Ancestral Symbol
@@ -4405,6 +4573,20 @@ When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 te
 
 ---
 
+#### Golden Flag of Honor
+
+Battle Flag
+
+1/Day
+
+Choose to wear or plant the flag.
+
+_Wear:_ Until the end of a battle, when an enemy scores a critical hit against you, it’s a normal hit instead.
+
+_Plant:_ Until the end of the battle, when you or an ally nearby the flag score a critical hit, that character can heal using a recovery.
+
+**Quirk:** Stays the course, in life as in battle.
+
 #### Goldenberry
 
 1/Day
@@ -4452,6 +4634,22 @@ _Recharge 16+:_ When you roll a death save or last gasp save, you regain an expe
 You have a fraudulent aura of religious piety and devotion to the Gods of Light. Everyone you know instinctively assumes that you are an unusually devout and moral individual – perhaps even a little too devout. This illusion is not foolproof – if confronted with undeniable evidence of any failings or misdeeds on your part, those who believed in you will lose faith – but it does mean that you’ll get the benefit of the doubt in most situations.
 
 **Quirk:** Wracked with guilt whenever you do anything of questionable morality.
+
+---
+
+#### Purple Banner of Righteousness
+
+Battle Flag
+
+1/Day
+
+Choose to wear or plant the flag.
+
+_Wear:_ Until the end of the battle, you and each ally nearby the flag gain a +2 bonus to death saves.
+
+_Plant:_ Until the end of the battle, you and each ally nearby the flag gain a +1 bonus to saves.
+
+**Quirk:** Prays frequently, prays loudly.
 
 ---
 
@@ -4530,6 +4728,24 @@ Your allies gain a +1 bonus to attacks against enemies that are engaged only wit
 When you roll recovery dice to heal, set aside any number of those dice before rolling, and give the healing from those dice to an ally next to you.
 
 **Quirk:** Generosity.
+
+---
+
+### Epic
+
+#### Red Flag of Rectitude
+
+Battle Flag
+
+1/Day
+
+Choose to wear or plant the flag.
+
+_Wear:_ Until the end of the battle, when you miss all targets with an attack, you and each nearby ally heal hit points equal to your level.
+
+_Plant:_ When you or an ally nearby the flag miss all targets with an attack, two allies (including you) can heal using a recovery.
+
+**Quirk:** Group unity is paramount.
 
 ---
 
@@ -4847,6 +5063,16 @@ The twisted body of this weapon is inscribed with sigils. You can apply this wea
 
 ---
 
+#### Armament of Tactical Unpredictability
+
+Melee Weapon
+
+_Recharge 6+:_ While engaged with two or more enemies, before you make a melee weapon attack, randomly determine which enemy to target to gain a +4 bonus to the attack roll.
+
+**Quirk:** Changes topic midconversation.
+
+---
+
 #### Beribboned
 
 Ranged Weapon
@@ -5127,6 +5353,16 @@ You deal +1d6 damage with this weapon on all hits after the first time you hit w
 
 ---
 
+#### Imperial Might
+
+Melee Weapon
+
+_Recharge 11+:_ When you hit with a melee attack and it could trigger an additional effect (like a flexible attack, using the Fight From the Front feature, or using the Double Melee Attack talent), you can ignore the additional effect to instead deal double damage with that attack.
+
+**Quirk:** Obsessed with imperial history.
+
+---
+
 #### Indomitable
 
 Any Weapon
@@ -5265,6 +5501,16 @@ When you attack constructs and elementals with this weapon, target PD instead of
 
 ---
 
+#### Ruby-studded
+
+Melee Weapon
+
+When an enemy scores a critical hit against you, immediately roll to regain one expended recharge power, including magic items (champion: against you or a nearby ally; epic: as champion, and roll twice for the recharge power and take the best result).
+
+**Quirk:** Fascination with personal glory.
+
+---
+
 #### Sand-bow
 
 Any Bow
@@ -5282,6 +5528,18 @@ One Handed Melee Weapon
 _Recharge 11+ after use:_ When you deal ongoing damage with this weapon, heal using a recovery.
 
 **Quirk:** The suffering of others amuses you.
+
+---
+
+#### Shinebolt
+
+Ranged Weapon
+
+1/Battle
+
+When you hit with an attack using this weapon, the target takes no damage and you and your allies gain a +4 bonus to attacks against the target until the end of your next turn.
+
+**Quirk:** Hoarder.
 
 ---
 
@@ -5576,6 +5834,22 @@ While you aren't wearing armor, your base AC is 12.
 #### Broom of Flying
 
 This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word. It then hovers beneath you and can be ridden in the air. It has flight. It can carry up to 400 pounds, but moves slowly when carrying over 200 pounds and grants a -2 to AC. The broom stops hovering when you land.
+
+---
+
+#### Captain's Horn
+
+When you sound this horn (a move action in battle), others know what information you are trying to relay, no matter how noisy the area is. You don’t even have to prearrange a code—those you designate who hear your notes will know your meaning. You can convey meaning equivalent to about a single normal sentence. For example, “help, orcs attacked our cleric and the wizard needs healing,” or “open the city gates for the hay cart with the brown horse.”
+
+**Quirk:** Stutters.
+
+---
+
+#### Commander’s Dust
+
+This multicolored powder glows and sparkles at your command, dancing in a magical wind. You can use the powder to create glowing, three-dimensional images (to display maps of battlefields for example), or to illuminate an area. When you are done with the powder, it returns to its pouch or container at your command.
+
+**Quirk:** Over-explains simple concepts.
 
 ---
 
@@ -6395,6 +6669,10 @@ You gain a cumulative +1 bonus to AC and PD each time you are hit with a fire at
 
 #### Belt, Swordbelt, Kilt, Skirt, Girdle, Sash
 
+##### Default Bonus
+
+Increase your maximum recoveries: by 2 (adventurer); by 3 (champion); by 5 (epic).
+
 ##### Girdle of Gender Switching
 
 Wide leather belt with acorn designs.
@@ -6421,6 +6699,10 @@ Book with an embossed face inside its cover. _1/day:_ Regain one expended daily 
 
 #### Boots, Shoes, Sandals, Slippers
 
+##### Default Bonus
+
+Disengage checks and other checks involving fancy footwork: +2 (adventurer); +3 (champion); +5 (epic).
+
 ##### Dancing Shoes
 
 Shiny red shoes with golden wings.
@@ -6430,6 +6712,20 @@ _Always:_ The shoes force you to dance whenever you hear music (even off-key whi
 ---
 
 #### Helmet, Crown, Diadem, Circlet
+
+##### Default Bonus
+
+Mental Defense: +2 (adventurer); +3 (champion); +5 (epic).
+
+##### Gladiator’s Headband
+
+1/Day
+
+You rally as a quick action, and the recovery you spend is free. Curse: While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s daily power, etc.
+
+**Quirk:** Speaks in simplistic, crowd-pleasing banter and refers to self in the third person (“Can you taste what The Boulder is brewing?” or “Thuug smash little man!”).
+
+---
 
 ##### Disappointment Hat
 
@@ -6507,6 +6803,10 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 
 #### Wand (Implement)
 
+##### Default Bonus
+
+Attack and damage with arcane spells or attacks: +2 (adventurer); +3 (champion).
+
 ##### Bloodless Mage
 
 When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
@@ -6569,6 +6869,10 @@ _Always:_ Whenever there are two possible explanations and one is obviously ridi
 
 #### Staff
 
+##### Default Bonus
+
+Attack and damage with arcane spells or attacks: +3 (champion); +5 (epic).
+
 ##### Acrobat's Stick
 
 A glowing rod that expands into a longer pole.
@@ -6627,11 +6931,15 @@ _Always:_ Bonus to spell attacks and damage: +5 (epic). In addition, during the 
 
 #### Shield
 
+##### Default Bonus
+
+Increase your maximum hit points: by +15 (adventurer); by +20 (champion); by +35 (epic).
+
 ##### Chicken Shield
 
 A fancy cavalier's shield.
 
-_Always:_ +35 hp (epic). In addition, when you miss with an attack and the escalation die is odd, roll a save; on a failure, you run away from that enemy as far as you can go (no disengage check, take opportunity attacks).
+_Always:_ Wwhen you miss with an attack and the escalation die is odd, roll a save; on a failure, you run away from that enemy as far as you can go (no disengage check, take opportunity attacks).
 
 ---
 
