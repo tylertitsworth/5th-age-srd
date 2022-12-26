@@ -118,9 +118,11 @@ As a druid, you choose whether you want to use Strength or Dexterity as the abil
 
 You never suffer from natural weather-related cold, heat, or exposure. You can go longer than most people without eating or drinking, but only a couple days longer.
 
+### Nature Talking
+
 You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Circle of the Moon or Circle of the Fang talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Terrain Caster talent.
 
-### Adventurer Feat
+#### Adventurer Feat
 
 You can talk with plants and animals pretty much as often you like, and you gain a +5 bonus to any skill checks involved.
 

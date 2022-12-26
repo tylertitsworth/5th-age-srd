@@ -15,15 +15,15 @@ Expands crit range by 1 (adventurer, champion, and epic tier, always a 1-point e
 
 ### Adventurer
 
-#### Assassin’s Arrow
+#### Arrowroot
 
-+1d10 damage if you hit with this arrow during a surprise round. If you’re a rogue, you may also apply your sneak attack damage if you hit with this arrow at any time.
+When you hit with an attack using this ammunition, the target is stuck until the end of its next turn as roots burst forth from the ground to trip and entangle it.
 
 ---
 
-#### Biting Skull
+#### Assassin’s Arrow
 
-Arrows and bolts with this property have the skulls of rats, snakes or other vermin attached just behind the arrowhead. Sling-stones with this property are actually tiny chattering skulls. The animated skulls bite and shriek distractingly when they strike; a creature hit with this ammunition has its Initiative reduced by 4.
++1d10 damage if you hit with this arrow during a surprise round. If you’re a rogue, you may also apply your sneak attack damage if you hit with this arrow at any time.
 
 ---
 
@@ -33,9 +33,9 @@ An enemy hit with this arrow stops counting as an ally to its allies, so it cann
 
 ---
 
-#### Blackthorn
+#### Biting Skull
 
-When you hit with an attack using this ammunition, the target becomes stuck until the end of its next turn, as thorny vines explosively grow from its wound.
+Arrows and bolts with this property have the skulls of rats, snakes or other vermin attached just behind the arrowhead. Sling-stones with this property are actually tiny chattering skulls. The animated skulls bite and shriek distractingly when they strike; a creature hit with this ammunition has its Initiative reduced by 4.
 
 ---
 
@@ -45,9 +45,21 @@ A target struck by one of these barbed missiles takes a -2 penalty to all saves 
 
 ---
 
+#### Blackthorn
+
+When you hit with an attack using this ammunition, the target becomes stuck until the end of its next turn, as thorny vines explosively grow from its wound.
+
+---
+
 #### Bolt of the Legion
 
 You deal +1d6 damage on a hit. Any allies who make ranged attacks at the same target you just hit also deal +1d6 damage on a hit. This effect ends as soon as an ally misses with a ranged attack, or at the start of your next turn.
+
+---
+
+#### Briarfoot
+
+A thicket of thorny bushes grows around the target of this ammunition, or around the area where the ammunition strikes. Hit or miss, the target and each creature engaged with it, or next to it, takes 3 damage from the thorns the next time those creatures move (including popping free) without teleporting (champion: 6 damage; epic: 9 damage).
 
 ---
 
@@ -401,6 +413,18 @@ _Recharge 11+:_ This courtly clothing has ribbons that animate to pass you objec
 
 ---
 
+#### Druidic Woad
+
+1/Day
+
+When an attack hits you, you can change the defense the attack targets.
+
+**Quirk:** Dresses very light.
+
+>_Note:_ Counts as no armor, but still occupies the armor slot.
+
+---
+
 #### Duskchain
 
 _Recharge 11+:_ When a nearby creature you can see teleports, you can teleport somewhere nearby you can see as a free action.
@@ -549,6 +573,16 @@ _Recharge 6+:_ If you are knocked unconscious or slain, you may apply your armor
 
 ---
 
+#### Naga Hide
+
+Quick Action
+
+_Recharge 6+:_ While staggered, shed this armor (losing its AC and default bonus until the end of the battle) to heal using a recovery.
+
+**Quirk:** Can’t tell fakes from the genuine article.
+
+---
+
 #### Noble’s Undershirt
 
 Light Armor Only
@@ -556,6 +590,16 @@ Light Armor Only
 This armor can be worn unobtrusively under clothing. You gain a +2 bonus to AC while you’re helpless, stunned, vulnerable, or weakened. You also have this bonus at the start of each battle until you take an action.
 
 **Quirk:** Snorts when laughing.
+
+---
+
+#### Owl-feather
+
+Light Armor Only
+
+_Recharge 11+:_ This feathered armor grants its wearer amazing wisdom. When an enemy hits you with an attack that targets AC or PD, that enemy rerolls the attack against your MD instead.
+
+**Quirk:** Myopic in their goals.
 
 ---
 
@@ -986,6 +1030,14 @@ You can sleep and heal while riding; better yet, any steed you sit upon while we
 **Quirk:** Only comfortable on a horse.
 
 >_Note:_ Back when the world was young, they made belts of swift travel for the Emperor’s dragon-riders. The dragons still remember them, and honor the sacrifices of their riders. If you find a belt of swift travel that looks very, very old, and if it’s got rings on the hips where straps might go, then maybe you’ve one of those dragon-belts, and you can ask a favor of a dragon of Axis. One favor, in memory of fallen heroes. - Synix Alacostar, Wizard of Horizon
+
+---
+
+#### Belt of Teeth
+
+As the name suggests, this wide leather belt has tusks and teeth sewn onto it. When you succeed on a death save, you can make a basic attack or at-will attack against an enemy engaged with you as a free action.
+
+**Quirk:** Ungracious—they bite the hand that feeds them.
 
 ---
 
@@ -1454,7 +1506,7 @@ _Recharge 11+:_ When you miss with a ranged weapon attack, turn that miss into a
 
 _Recharge 11+:_ It’s hard to tell that this lump of charred and ruined paper was ever actually a book, but that doesn’t stop you reading it obsessively, trying to find wisdom in the burnt, acid-scarred pages.
 
-When an enemy is slain by an acid attack – you don’t have to be the one who actually delivers the killing blow, you just need to witness it – you may either take an extra move action in your next turn, or learn one secret held by that enemy related to personal matters, or to politics, intrigue or crime. The answer appears in the pages of the seared book. Think of it as a forced final confession, or a strange variation on a speak with dead ritual that uses acid as a medium.
+When an enemy is slain by an acid attack – you don’t have to be the one who actually delivers the killing blow, you just need to witness it – you may either take an extra move action in your next turn, or learn one secret held by that enemy related to personal matters, or to politics, intrigue or crime. The answer appears in the pages of the seared book. Think of it as a forced final confession, or a strange variation on a [speak with dead](../Character-Rules/Rituals.md#speak-with-dead) ritual that uses acid as a medium.
 
 When an enemy is slain by a lightning attack, you may either immediately cast an at-will spell as a free action, or learn one secret held by that enemy relating to arcane or spiritual matters.
 
@@ -1678,6 +1730,14 @@ You have a +4 bonus to dance checks.
 
 ---
 
+#### Boots of the Roaring Pines
+
+Double this item’s default bonus to disengage checks, and apply that bonus to skill checks to navigate difficult terrain (thick mud, clinging vines, shifting rubble, etc.) as well as saves against being stuck.
+
+**Quirk:** Eager to charge into battle, into taverns, into caves . . .just a lot of running everywhere.
+
+---
+
 #### Boots of Sure Feet
 
 You can walk or run normally through terrain that would usually slow one down, such as rubble, undergrowth, muck, etc. The boots don't protect you against damage or similar effects incurred from inhospitable terrain.
@@ -1774,6 +1834,14 @@ When an enemy disengages or pops free from you, roll a normal save. If you succe
 
 ---
 
+#### Hare-foot Boots
+
+When you roll a natural 16+ on a disengage check, you can move again as a free action.
+
+**Quirk:** Paranoid they’ll be eaten.
+
+---
+
 #### Iron Slippers
 
 _Recharge 16+:_ When you disengage from one or more enemies, one enemy that you disengage from takes ongoing damage equal to your level and becomes stuck (save ends both) as its feet burn and it’s forced to dance.
@@ -1861,6 +1929,14 @@ _Disclaimer:_ the magic of the boots is good for one (1) step. Any and all futur
 These boots have spiked cleats. When you disengage, expand the crit range for your next attack by 1.
 
 **Quirk:** Eager to fight.
+
+---
+
+#### Trickster-Fox Socks
+
+_Recharge 11+:_ These long sock-like boots let you leave animal footprints instead of your own. Gain a +4 bonus to a skill check to hide your trail, or to track a creature via footprints, until the end of the battle or scene.
+
+**Quirk:** Compulsive rhymer.
 
 ---
 
@@ -2036,6 +2112,16 @@ _Recharge 11+:_ When you score a critical hit with an unarmed strike, you can in
 
 ---
 
+#### Soaring-leaf-on-wind Bracers
+
+1/Day
+
+Until the end of the battle or scene, gain a +4 bonus to d20 rolls that are not attack rolls or death saves, and take a –4 penalty to death saves—in most cases that means you’ll need a 20.
+
+**Quirk:** Repeats catchphrases during battle.
+
+---
+
 #### Spiked Hand-wraps
 
 Your crit range against demons and devils expands by 1, and when you score a critical hit against them, you deal triple damage instead of double damage.
@@ -2074,6 +2160,14 @@ Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 
 
 ### Adventurer
 
+#### Druid’s Cup
+
+_Recharge 11+:_ Spend a recovery to infuse the cup. The next willing creature to drink from the cup turns into a woodland creature as per the druid’s [scout form](../Classes/Druid.md#scout-form) power. This infusion ends during your next short rest if not used, but you don’t regain the recovery.
+
+**Quirk:** More comfortable being around animals than humanoids.
+
+---
+
 #### Glass of Fire
 
 When you make an attack, you can spend a recovery to add fire damage equal to 10 times your level to the attack, hit or miss (if the attack targets more than one creature, divide the extra damage among the targets).
@@ -2103,6 +2197,24 @@ You can spend a recovery to cast the charm person spell at your level using the 
 When you make an attack using this implement and miss, you can spend a recovery to reroll the attack using two d20 and taking the higher result.
 
 **Quirk:** Levity causes you pain.
+
+---
+
+#### Ivy-covered Bowl
+
+Spend a recovery to fill the bowl with some of your blood. As a quick action, pour out the blood to create a deep pool of blood, enough to flood a room to knee-height, or turn a forest clearing into reddish mud. Until the end of the battle or scene, each creature nearby the bloody pool or area takes a –4 penalty to disengage checks and saves against the stuck condition. After the end of the battle or scene, the blood will dry and turn into thick, tough, clinging vines, making the area impassable unless the vines are hacked through.
+
+**Quirk:** Believes sacrifices must be made to maintain the balance of the world.
+
+---
+
+#### Primal Grail
+
+1/Day
+
+Spend a recovery to allow a nearby ally to heal using two free recoveries.
+
+**Quirk:** Drinks blood. What, it’s not ghoulish; blood is a good source of protein, and others should not be so squeamish.
 
 ---
 
@@ -2222,6 +2334,14 @@ The cloth of this scratchy grey cloak matches the color of the surrounding rock,
 This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a daily spell against a target vulnerable to radiant damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
 
 **Quirk:** Collects trophies from the dead.
+
+---
+
+#### Deer-hide Cape
+
+_Recharge 16+ after use:_ You become a harmless deer, gaining a +4 bonus to disengage checks, skill checks to leap over obstacles or to travel through snowy or wooded terrain, and skill checks to perceive danger. As a harmless creature you can’t attack, use powers, or cast spells. You change back as a quick action, or when you become unconscious or take a rest.
+
+**Quirk:** Eats roses.
 
 ---
 
@@ -2378,6 +2498,14 @@ While wearing this fine purple cloak, others instinctively see you as an individ
 
 ---
 
+#### Raven-feathered Cloak
+
+_Recharge 16+ after use:_ Gain flight until the start of your next turn. You will fall if you don’t land at the end of your turn. When you fall and would take damage, you can use the power as a free action to take no damage, but you land immediately.
+
+**Quirk:** Prefers high places.
+
+---
+
 #### Recovery
 
 Quick action
@@ -2494,7 +2622,35 @@ _Recharge 11+:_ When a foe you're engaged with targets your ally with an attack 
 
 ---
 
+#### Wolf-hide Hood
+
+Quick Action
+
+_Recharge 16+:_ You (and your equipment) transform into a wolf until the end of the battle— you can’t use any of your normal attacks or spells, and your basic melee attack is as follows:
+
+**Bite level + 6 vs. AC—** 1d12 damage per level
+
+_Natural 16+:_ Ongoing damage equal to your level x 5.
+
+_Miss:_ Damage equal to your level.
+
+**Quirk:** Eats raw meat.
+
+>_Note:_ If you are a druid in beast form and you use the _wolf-hide hood_, you turn into a _different_ beast—the hood has precendence. You can't use your _beast form attack_ power while transformed by the hood.
+
+---
+
 ### Epic
+
+#### Bearskin Cloak
+
+1/Battle
+
+When an enemy targets your PD with an attack and misses, gain a +4 bonus to your next attack roll against that enemy.
+
+**Quirk:** Forager.
+
+---
 
 #### Cloak of the Dead World
 
@@ -2551,6 +2707,14 @@ These gloves improve your ability to contact, detect, and distinguish supernatur
 _Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus (champion: +15; epic: +20).
 
 **Quirk:** You're quiet. Too quiet. Say something.
+
+---
+
+#### Bear Arms
+
+_Recharge 11+, or 11+ after use when in natural surroundings in which bears might live:_ Reroll a missed at-will attack or basic attack and take the result you prefer.
+
+**Quirk:** Reluctant to remove gloves, making everyday tasks difficult.
 
 ---
 
@@ -2900,6 +3064,14 @@ While wearing this circlet, in regular social situations, you appear to others a
 
 ---
 
+#### Circlet of Mental Fortitude
+
+Double this item’s default Mental Defense bonus against attacks from demons and devils. In addition, you gain a bonus to saves against effects caused by demons and devils, and to death saves while fighting demons and devils, equal to the doubled default bonus.
+
+**Quirk:** Suspicious of others’ true natures.
+
+---
+
 #### Circlet of Noble Blood
 
 The blood-red rubies in this golden band glow softly when new or unknown magic is nearby. You gain a +2 bonus to detect magical effects, items, and traps; and to disarm magical traps.
@@ -2945,6 +3117,16 @@ Quick Action
 This battered metal headband shows signs of having been repeatedly struck by magic and survived. Cast any at-will spell at your level. If it’s an attack spell, it deals only half damage.
 
 **Quirk:** Steely gunslinger (or spell-slinger) gaze.
+
+---
+
+#### Crown of Flowers
+
+2/Day
+
+You can command plants to talk aloud or sing, as per the druid’s [Nature Talking](../Classes/Druid.md#nature-talking) class feature, but only with a plant.
+
+**Quirk:** Thanks plants for their sacrifice: for firewood burned, fruit consumed, etc.
 
 ---
 
@@ -3032,14 +3214,6 @@ You can change the type of foe affected by the helmet, but you must win a signif
 
 ---
 
-#### Circlet of Mental Fortitude
-
-Double this item’s default Mental Defense bonus against attacks from demons and devils. In addition, you gain a bonus to saves against effects caused by demons and devils, and to death saves while fighting demons and devils, equal to the doubled default bonus.
-
-**Quirk:** Suspicious of others’ true natures.
-
----
-
 #### Helm of Psychic Armor
 
 _Recharge 16+:_ When an attack that targets Mental Defense hits you, cancel the attack's non-damage effects against you.
@@ -3114,6 +3288,16 @@ This ill-fitting helmet feels like it was designed for someone bigger and more i
 
 ---
 
+#### Horned God’s Antlers
+
+1/Day, and 1/Level the Antlers will Recharge at Sunrise or Moonrise
+
+Cast [bless](../Classes/Cleric.md#bless) OR [cure wounds](../Classes/Cleric.md#cure-wounds) as a 1st level cleric spell.
+
+**Quirk:** Celebrates natural rhythms.
+
+---
+
 #### Horned Mask
 
 _Recharge 11+:_ This mask can make you look downright infernal. You gain a +10 bonus to a skill check (or checks if multiple targets and rolls) to intimidate or frighten.
@@ -3135,6 +3319,14 @@ You gain a +2 bonus to MD and to saves against effects caused by attacks against
 _Recharge 6+:_ Depending on your character’s facial hair, this item may enter be a set of gold braids and jewels that are woven into your full and manly beard, or a false beard made of gold. Either way, when a foe you’re engaged with disengages, you may activate the beard, which grabs on and forces the foe to reroll their disengage attempt.
 
 **Quirk:** Pognokleptomania – your beard steals things.
+
+---
+
+#### Mask of the Rabbit
+
+Gain a +4 bonus to MD against attacks that don’t do damage (a despoiler demon’s sow discord ability or an ogre mage’s aura of treachery, for example).
+
+**Quirk:** Jumpy.
 
 ---
 
@@ -3207,6 +3399,14 @@ This hat always returns to you. No matter the circumstances, it always finds its
 ---
 
 ### Champion
+
+#### Bearskull Helm
+
+When an attack that targets MD misses you, gain temporary hit points equal to four times your level.
+
+**Quirk:** Grouchy over-sleeper.
+
+---
 
 #### Castlehelm
 
@@ -3293,6 +3493,14 @@ When any devil first sees your horned crown, you must make a free attack using y
 _Recharge 16+:_ This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next daily attack power this battle as a quick action.
 
 **Quirk:** Likely to make bold statements or undertake bold actions, especially by reflex.
+
+---
+
+#### Garland of Feathers
+
+When an enemy targets your MD with an attack and misses, each of your allies gains a +2 bonus to their next attack roll if it’s against that enemy.
+
+**Quirk:** Believes small mammals are delicious raw.
 
 ---
 
@@ -3400,6 +3608,14 @@ The pendant brings out the best in other magic items you carry, so that their qu
 
 ---
 
+#### Mossy Jade
+
+Gain a +2 bonus to attack rolls, skill checks, and all defenses against constructs and mechanical traps.
+
+**Quirk:** Indiscreet.
+
+---
+
 #### Necklace of Tethered Memories
 
 _Recharge 11+:_ As a quick action on their turn, a wounded ally you can see recounts a pleasant memory of you and can heal using one of your recoveries.
@@ -3496,6 +3712,14 @@ _Recharge 16+:_ When you fail a save, one nearby ally can reroll the save for yo
 
 ---
 
+#### Sacred Acorn
+
+When you would be popped free from an enemy, grabbed, swallowed whole, or otherwise moved against your will, roll an easy save (6+). If you succeed, you don’t suffer the condition or effect.
+
+**Quirk:** Tries to achieve the maximum effect with the minimum effort.
+
+---
+
 #### Spirit Fetish
 
 This leather bag binds and constrains a spirit of some sort. Choose the type of spirit when you gain the item. The spirit tugs on your soul, giving you a +1 bonus to saves in certain situations. For example, a spirit of fire gives you a +1 bonus to saves against cold-based attacks. A spirit of battle might help you make saves against effects that stop you fighting and killing, but wouldn’t care about confusion as long as you’re still hitting people.
@@ -3574,7 +3798,7 @@ Only characters that are ritual casters (either as a class feature or as a feat)
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic). You can attune to up to two orbs. If you do, the recharge powers of each orb is reduced (recharge 16+ becomes 11+, recharge 11+ becomes 6+). While wielding two orbs, you only use the default attack and damage bonus from the strongest orb. However, you do get to benefit from both their powers.
 
----
+### Adventurer
 
 #### Astral Warlock
 
@@ -3624,6 +3848,14 @@ _Recharge 16+:_ A clear glass orb that magnifies things oddly. You gain a +4 bon
 
 ---
 
+#### Sphere of Verdant Growth
+
+_Recharge 11+ after use:_ One half of this orb is burnt wood, while moss and flowers sprout from the other half. When you deal fire damage with an attack made using this orb, you heal hit points equal to triple your level.
+
+**Quirk:** Tries to take the long view.
+
+---
+
 #### Sphere of the Arcane Princess
 
 _Recharge 11+:_ This purple orb is chased with gold filigree. You gain a +2 bonus to PD or MD until the end of the battle. The first time the orb fails to recharge, you gain a +1 bonus to AC until your next full healup.
@@ -3632,11 +3864,29 @@ _Recharge 11+:_ This purple orb is chased with gold filigree. You gain a +2 bonu
 
 ---
 
+#### Sphere of the Waters
+
+_Recharge 11+ after use:_ You can command and shape water, causing streams to part for you and other watery tricks. Talk to the GM to see what’s possible.
+
+**Quirk:** Clean freak.
+
+---
+
 #### Sphere of the Witchqueen
 
 _Recharge 11+:_ This orb is almost completely black. When you target or damage an ally with an attack, reroll any damage dice that are less than half of their maximum result (i.e., 2 or less on d6, 3 or less on d8, etc.).
 
 **Quirk:** Yours is an evil laugh.
+
+---
+
+### Champion
+
+#### Sphere of Blood
+
+_Recharge 16+:_ This orb is a pulsing ball of fur and muscle. When you are magically healed, you heal 3d6 additional hit points (or 1d6 hp if the orb hasn’t recharged).
+
+**Quirk:** Their comebacks and put-downs are savage.
 
 ---
 
@@ -3757,6 +4007,14 @@ When you make a skill check involving climbing, holding something, or otherwise 
 When you make a skill check, if your bonus for that check is +1 or +0, you gain a +2 bonus for your skill bonus instead (if your bonus is +2 or higher, this ring has no effect).
 
 **Quirk:** Talks as though they know everything.
+
+---
+
+#### Lorekeeper
+
+Gain a +4 bonus to skill checks involving ancient knowledge.
+
+**Quirk:** Memorizes long lists.
 
 ---
 
@@ -3916,6 +4174,14 @@ _Recharge 11+:_ For a magic ring, this is a hefty chunk of metal, more of a knuc
 
 ---
 
+#### Stone
+
+_Recharge 6+ after use:_ Reshape a handful of rock like it was wet clay (you can scoop a handful out of any nonmagical source).
+
+**Quirk:** Frustrated artist.
+
+---
+
 #### The Cycle
 
 When a nearby ally fails a death or last gasp save, you may cancel this failure, keeping them alive. However, each time you do this, you must pick another nearby ally to ‘lose’ a death save. If that second ally gets knocked to negative hit points and has to make death saves, then they die after one fewer death save than normal. (Usually, you die after four failed death saves; if someone’s used the ring of the cycle on you once, you die after three.)
@@ -3965,6 +4231,14 @@ Motile vines extend from this ring and grow across your body. You can’t accide
 Animals accept you and may even show you affection. The animals, however, still react normally if you threaten them, and well-trained guard animals are especially wary of you.
 
 **Quirk:** Seems out of place in civilization.
+
+---
+
+#### Wooden
+
+_Recharge 11+ after use:_ Cause dead non-magical wood to sprout leaves and roots. What good is that? Well, you could cause a wooden door to stick in its frame or a wooden chest to warp and burst open, for example.
+
+**Quirk:** Eager gardener.
 
 ---
 
@@ -4187,11 +4461,19 @@ _Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver
 
 ---
 
-#### Forge-Hot Shield
+#### Forge-Hot
 
 _Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
 
 **Quirk:** Always uncomfortably chilly, even in the hottest conditions.
+
+---
+
+#### Green Man
+
+Gain a +3 bonus to AC against attacks from plants and beasts. this bonus stacks with the bonuses from other magic items.
+
+**Quirk:** Takes the path less traveled.
 
 ---
 
@@ -4306,6 +4588,14 @@ When you roll a natural 2 with a melee attack while using the shield, you can ma
 
 ---
 
+#### Stone
+
+When you are staggered, gain a +2 bonus to AC against weapon attacks. This bonus stacks with the bonuses from other magic items.
+
+**Quirk:** Lives to argue.
+
+---
+
 #### Termination
 
 _Recharge 6+:_ When you make a basic melee attack, roll a save against one ongoing damage effect.
@@ -4378,6 +4668,16 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 ### Champion
 
+#### All-terrain Staff
+
+1/Day
+
+When you first attune this staff, choose a type of terrain (see the druid terrain caster from 13 True Ways for terrain types). While in that terrain, when you heal using a recovery, heal 2d12 additional hit points (epic: +3d12). When you use the daily power, until the end of the battle, all land-based locations in the battle become a terrain type of your choice. In addition, once per level you can make the terrain change permanent.
+
+**Quirk:** Tastes the ground—or a similar act—when entering new terrain.
+
+---
+
 #### Astral Staff
 
 _Recharge 16+:_ This staff is inscribed with star maps. When you teleport somewhere nearby as a move action, each negative effect on you ends.
@@ -4430,6 +4730,30 @@ Recharge 11+:_ You may expend one of your spell slots (one containing either an 
 _Recharge 11+:_ Leaning on this heavy staff for a moment connects you with the living earth and the boundless regenerative energy of the trees. If you do nothing in your turn – no move actions, no attacks or standard action, no quick or free actions, not even rolling any saves – you automatically heal using a recovery.
 
 **Quirk:** You start putting down roots. Emotional ones, to begin with.
+
+---
+
+#### Sacred-Grove Staff
+
+Quick Action OR Interrupt Action against an Enemy
+
+1/Day
+
+You can cause trees to grow in the area or on the battlefield. Until the end of the battle (or for five minutes), nearby terrain gains the forest type in addition to its normal type, and one nearby enemy becomes stuck until the start of your next turn.
+
+**Quirk:** Tastes wooden objects.
+
+---
+
+#### Scythe of Reaping
+
+Quick Action
+
+1/Day
+
+When you drop a nonmook enemy to 0 hp, or drop the last mook in a mob, cast one of your unexpended daily or recharge spells at a level two levels lower than you (so a 5th or 6th level druid would cast a 3rd level spell; a 7th or 8th level wizard would cast a 5th level spell; and so on). Casting the lower-level spell doesn’t expend the daily or recharge spell.
+
+**Quirk:** Celebrates harvests (of all kinds).
 
 ---
 
@@ -4520,6 +4844,22 @@ _Recharge 11+:_ This staff is a long, thin shaft of blue metal, topped with a st
 _Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
 
 **Quirk:** Doesn't like to be touched.
+
+---
+
+#### Staff of the Four Seasons
+
+You can make flexible melee attacks using this staff, with the following possible effects depending on the natural attack roll:
+
+_Natural 1–10:_ Deal 1d10 extra cold damage (epic: 2d8), and there is a short snow flurry.
+
+_Natural 11+:_ Deal 1d12 extra fire damage (epic: 2d10), and plants nearby bloom.
+
+_Natural Odd Roll:_ Gain temporary hit points equal to your level, and spring flowers grow from your hair.
+
+_Natural Even Roll:_ Pop free from each enemy engaged with you as you ride an autumn breeze. For the additional natural effects, the GM decides what happens.
+
+**Quirk:** Sky-watcher.
 
 ---
 
@@ -4769,6 +5109,18 @@ The sight of this symbol spurs those who see it to greater acts of devotion to t
 
 ---
 
+#### Flint of Dolorous Transformations
+
+Standard Action
+
+1/Day
+
+Cast the [change self](../Character-Rules/Rituals.md#change-self) ritual, OR transform one nearby enemy with fewer hit points than you into a helpless, stuck, untargetable creature until the end of its next turn. You narrate what the target is turned into and why it cannot fight or be targeted.
+
+**Quirk:** Loves disguises.
+
+---
+
 #### Fork of Feasting
 
 _Recharge 11+:_ This broach has a fork-like pin. When you or a nearby ally roll recovery dice, distribute half the dice among the allies of your choice; those allies roll and gain the healing instead.
@@ -4816,6 +5168,18 @@ _Wear:_ Until the end of a battle, when an enemy scores a critical hit against y
 _Plant:_ Until the end of the battle, when you or an ally nearby the flag score a critical hit, that character can heal using a recovery.
 
 **Quirk:** Stays the course, in life as in battle.
+
+---
+
+#### Golden Holly
+
+1/Day
+
+Cause a plant to grow 1d4 berries that function as heroic-tier healing potions (champion: champion tier; epic: epic tier). The berries last until your next full healup, then rot.
+
+**Quirk:** Enjoys fermented drinks.
+
+---
 
 #### Goldenberry
 
@@ -4880,6 +5244,26 @@ _Wear:_ Until the end of the battle, you and each ally nearby the flag gain a +2
 _Plant:_ Until the end of the battle, you and each ally nearby the flag gain a +1 bonus to saves.
 
 **Quirk:** Prays frequently, prays loudly.
+
+---
+
+#### Sacred Oakleaf
+
+1/Day
+
+When you or a nearby ally heals using a recovery, you regain an expended recovery.
+
+**Quirk:** Makes sacrifices at the foot of oaks.
+
+---
+
+#### Sacred Sickle of the Circle
+
+1/Day
+
+You can calm storms or cause winds to blow. Cast the [control weather](../Character-Rules/Rituals.md#control-weather) ritual without expending ritual components, although you still need to fulfill other requirements. You gain a +4 bonus to any skill checks for that ritual.
+
+**Quirk:** Prefers isolation, or at least to be among their own kind.
 
 ---
 
@@ -4962,6 +5346,14 @@ When you roll recovery dice to heal, set aside any number of those dice before r
 ---
 
 ### Epic
+
+#### Rabbit’s Foot
+
+_Recharge 16+:_ Reroll a d20 roll and take the result you prefer.
+
+**Quirk:** Relies on luck too often.
+
+---
 
 #### Red Flag of Rectitude
 
@@ -5051,7 +5443,7 @@ You can use this item’s powers only while helpless (including asleep) or stunn
 
 #### Elderwood Wand
 
-You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—are treated as if you were casting a ritual, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
+You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—can require several hours if not days, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
 
 **Quirk:** Doesn’t like stone architecture.
 
@@ -5353,6 +5745,16 @@ This weapon’s die type improves by one step when dealing damage to skeletons a
 
 ---
 
+#### Bow of Tides
+
+Any Bow
+
+_Recharge 6+:_ When you miss all targets with an attack made with this weapon, your crit range expands by 1 until the end of the battle.
+
+**Quirk:** Pessimist.
+
+---
+
 #### Bright-Lance
 
 Melee Weapon
@@ -5505,15 +5907,15 @@ _Recharge 11+:_ When you hit with this weapon, allow one of your allies engaged 
 
 ---
 
-#### Dwarven Rage
+#### Dreaming Stone
 
 Melee Weapon
 
-Standard Action
+1/Battle
 
-_Recharge 6+:_ The metal of this weapon is engraved with dwarven proverbs. Make a basic melee attack against 1d3 enemies; ignore critical hits, they’re just normal hits.
+When you roll a natural 2 or 3 on an attack with this weapon, reroll the attack, taking the higher result.
 
-**Quirk:** Uses dwarven sayings (“By the King’s Beard!” “Hammer and stones!”).
+**Quirk:** Collects beautiful natural things—shells, polished rocks, etc.
 
 ---
 
@@ -5524,6 +5926,18 @@ Melee Weapon
 _Recharge 11+:_ When you hit an enemy with this weapon, you may choose to instead deal the damage to another enemy also you’re engaged with.
 
 **Quirk:** Lies about trivial matters.
+
+---
+
+#### Dwarven Rage
+
+Melee Weapon
+
+Standard Action
+
+_Recharge 6+:_ The metal of this weapon is engraved with dwarven proverbs. Make a basic melee attack against 1d3 enemies; ignore critical hits, they’re just normal hits.
+
+**Quirk:** Uses dwarven sayings (“By the King’s Beard!” “Hammer and stones!”).
 
 ---
 
@@ -5631,6 +6045,14 @@ _Recharge 11+:_ Ammunition fired from this weapon transforms into bird-like form
 
 ---
 
+#### Horn-handled
+
+Your crit range with this weapon expands by 2 (usually to 18+) against beasts and plants.
+
+**Quirk:** Only eats food that they have ‘earned.’
+
+---
+
 #### Hungry
 
 Any Weapon
@@ -5695,6 +6117,18 @@ If you have attacked with this weapon this turn, allow an ally to roll a save ag
 
 ---
 
+#### Lightning-struck Pine
+
+Ranged Weapon
+
+1/Battle
+
+Attacks with this weapon always deal lightning damage in addition to any other type of damage the attack deals. When you hit with an attack with this weapon, the target takes half damage and you make a ranged basic attack as a free action.
+
+**Quirk:** Unmaterialistic.
+
+---
+
 #### Lucky
 
 Any Weapon
@@ -5726,6 +6160,16 @@ Move Action
 You deal +1d8 damage with your next melee attack with this weapon that hits this turn (champion: +2d8; epic: +4d8). If you miss, you take that damage instead.
 
 **Quirk:** Tends to break things.
+
+---
+
+#### Moss-Covered Stone
+
+Melee Weapon
+
+Your crit range with this weapon expands by 2 (usually to 18+) against constructs, and you gain a +2 bonus to skill checks to damage inanimate objects.
+
+**Quirk:** Tactless about others’ mortality.
 
 ---
 
@@ -5796,6 +6240,18 @@ Melee Weapon
 When an enemy scores a critical hit against you, immediately roll to regain one expended recharge power, including magic items (champion: against you or a nearby ally; epic: as champion, and roll twice for the recharge power and take the best result).
 
 **Quirk:** Fascination with personal glory.
+
+---
+
+#### Sacred Oak
+
+Melee Weapon
+
+1/Battle
+
+End an effect that is causing you to be dazed or hampered.
+
+**Quirk:** Unmaterialistic.
 
 ---
 
@@ -5912,6 +6368,18 @@ Melee Weapon
 When you hit with this weapon while you are staggered, deal +1d6 damage to that enemy.
 
 **Quirk:** Quick to take offense.
+
+---
+
+#### Woad-warrior
+
+Ranged Weapon
+
+1/Battle
+
+The natural attack roll of a ranged attack made with this weapon triggers a flexible attack that you know as if it were a melee attack.
+
+**Quirk:** Wears woad.
 
 ---
 
@@ -6236,6 +6704,16 @@ This 3-foot-wide concave brass disk levitates when you mentally command it. As a
 
 ---
 
+#### Harp of Fate
+
+1/Day
+
+You sing about something and it comes true, to your benefit. The effect should be similar to a onceper- day magic item power. The GM should work with you to determine how you reshape fate, so pick your songs carefully.
+
+**Quirk:** Pretends they know the future.
+
+---
+
 #### Hero’s Harp
 
 _Recharge 6+:_ This wooden harp is of use only to bards. When you roll to sustain a song, you may keep the result of the d20 roll and use it for an attack this round.
@@ -6292,7 +6770,7 @@ While this pearl is on your person, you can use an action to speak its command w
 
 #### Saintly Reliquary
 
-Somewhere inside this casket of gold and gemstones is the skull or other body part of a long-dead saint. Once per day, the saint intercedes on your behalf by casting a divine spell. As you’re the bearer of the relic, and hence the saint’s link to the land of the living, the saint’s spell gets treated as though you’d cast it. So, if you’re 7th level, the saint gets one 7th level spell per day, and uses one of your actions to cast it when in battle (it can cast the spell out of combat, or even as part of a ritual). You can pick the spell on the fly – it doesn’t need to be prepared ahead of time.
+Somewhere inside this casket of gold and gemstones is the skull or other body part of a long-dead saint. Once per day, the saint intercedes on your behalf by casting a divine spell. As you’re the bearer of the relic, and hence the saint’s link to the land of the living, the saint’s spell gets treated as though you’d cast it. So, if you’re 7th level, the saint gets one 7th level spell per day, and uses one of your actions to cast it when in battle. You can pick the spell on the fly – it doesn’t need to be prepared ahead of time.
 
 The saint’s spirit may also manifest to give you advice, counsel or just harangue you with sermons and religious curses, depending on the saint. At best, that’s a +4 bonus to relevant skill checks. At worse, it’s a headache.
 
