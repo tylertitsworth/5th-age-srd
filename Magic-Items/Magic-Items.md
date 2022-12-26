@@ -57,6 +57,12 @@ When you attack a creature with the demon type with this ammunition, hit or miss
 
 ---
 
+#### Dreamshot
+
+This ammunition is psychically imbued. When you hit with a natural 16+ attack roll using this ammunition, make a ranged basic attack as a free action against a different enemy that is nearby the original target. The second attack targets MD and does psychic damage.
+
+---
+
 #### Elf Shot
 
 If you’re attacking from ambush, you get a +5 bonus to your attack roll.
@@ -449,6 +455,14 @@ _Recharge 16+:_ Reroll a missed attack and gain a bonus to attacks that depends 
 
 ---
 
+#### Goldenscale
+
+You don’t take miss damage from scaled creatures (dragons, dragonics, serpents, kobolds, lizardmen, etc.).
+
+**Quirk:** Contemptuous of those less powerful.
+
+---
+
 #### Guarded Heart
 
 The AC bonus from your armor applies to your MD as well.
@@ -564,6 +578,14 @@ Daily
 If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way.
 
 **Quirk:** Repeats stories over and over.
+
+---
+
+#### Red Lightning
+
+When a demon or devil hits you with a melee attack, it takes lightning damage equal to 1d6 times your level.
+
+**Quirk:** Misinterprets jokes as insults.
 
 ---
 
@@ -777,6 +799,16 @@ While wearing this armor, you may enter into a trance that fulfills your need fo
 
 ---
 
+#### Platinum Armor
+
+1/Day
+
+When an enemy scores a critical hit against you, you take normal damage instead and can heal using a recovery.
+
+**Quirk:** Lives in the past.
+
+---
+
 #### Robe of Preservation
 
 _Recharge 16+:_ This soft grey robe automatically activates when you are knocked unconscious. It teleports you to a safer location nearby – it might bring you out of the room in a dungeon, or drop you at the feet of the party cleric, or just stuff your unconscious body into a cupboard. The robe remains behind when you teleport, falling empty to the ground where you stood.
@@ -884,6 +916,16 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 By spending 1d3 + 1 rounds (or about half a minute outside combat) turning the decorative brass buckles, you can make yourself younger or older, taller or shorter, fatter or thinner, change your hair length, etc. It’s not quite as versatile as a wizard’s disguise self spell (you’ll end up looking like a distant cousin), but creatures that can see through illusions can be fooled by the physical transformations bought on by the belt. You set the duration of the change (anything from seconds to permanent change).
 
 **Quirk:** Physical dysphoria.
+
+---
+
+#### Belt of Fists
+
+Quick Action
+
+_Recharge 11+:_ Make a basic unarmed attack, and increase your damage dice for that attack by one size.
+
+**Quirk:** Enjoys pugilistic contests.
 
 ---
 
@@ -1014,6 +1056,14 @@ Like other magic belts, this one increases your maximum recoveries by 1 (2 for c
 Refuse, and at the worst possible moment, the belt will take back the health it’s given you, and you’ll take damage equal to the healing provided by the belt in the past.
 
 **Quirk:** Mercenary in all things.
+
+---
+
+#### Girdle of Resurgent Justice
+
+_Recharge 11+:_ When you rally, one nearby ally heals hit points equal to twice the number of recoveries you have left (champion: two nearby allies; epic: three nearby allies).
+
+**Quirk:** Over-indulges.
 
 ---
 
@@ -1263,6 +1313,14 @@ None.
 
 ### Adventurer
 
+#### Book of Justice
+
+This book is a record of (so far) unpunished injustices. When you read this book, select a monster subtype of your choice. You gain a +2 bonus to attack rolls, defenses, and saves, and your crit range expands by 2 against that monster and effects created by that monster. You can change the monster chosen when you level up.
+
+**Quirk:** Holds grudges.
+
+---
+
 #### Codebook of Nefarious Machinations
 
 Whenever your group suffers a campaign loss, you gain a temporary 1-point positive relationship with the Prince of Shadows. This positive relationship is lost once you gain some benefit from the Prince; you must then explain how your party’s defeat played into the Prince’s stratagems, and now you’re getting your payoff.
@@ -1298,6 +1356,14 @@ Quick Action
 You experience a flash of insight and can swap two unexpended spells (spell slots) that you know for one wizard spell that is lower level than both expended spells. You cast that spell using your primary spellcasting ability. The swap remains in effect until your next full heal-up.
 
 **Quirk:** Conceited.
+
+---
+
+#### Enchiridion of Heroism
+
+_Recharge 11+:_ This book is a how-to manual on heroics. When you roll for a skill check that could be described as heroic and self-sacrificing, gain a +4 bonus to the roll.
+
+**Quirk:** Heroic, to a fault.
 
 ---
 
@@ -1594,6 +1660,16 @@ _Recharge 6+:_ These elegant boots lighten your heart, and make you want to danc
 
 ---
 
+#### Boots of Land-striding
+
+1/Day
+
+Until the end of the battle, you can move as a free action once each turn. Used outside of battle, these boots let you run at top speed for half a day, making a journey on foot that takes days take only hours.
+
+**Quirk:** Impatient.
+
+---
+
 #### Boots of Rhythm
 
 You have a +4 bonus to dance checks.
@@ -1685,6 +1761,16 @@ _Recharge 6+:_ Your attire changes to suit the occasion. You gain a +2 bonus to 
 When you move, everyone nearby feels a sudden, inexplicable chill that seems to be in time with your footsteps, as if you’re walking on their grave right now. You get a bonus of +2AC against opportunity attacks provoked by movement, but this bonus is lost for the rest of the turn if one of the opportunity attacks hits.
 
 **Quirk:** You disconcert and discomfort people just by being there.
+
+---
+
+#### Greaves of Reengagement
+
+1/Battle
+
+When an enemy disengages or pops free from you, roll a normal save. If you succeed, you pop free from any other enemies engaged with you and move back into engagement with that enemy.
+
+**Quirk:** Can’t stand saying goodbye.
 
 ---
 
@@ -2069,6 +2155,16 @@ _Recharge 16+:_ When you activate this cape, you may fly until you attack or are
 
 ---
 
+#### Cape of the Champion
+
+1/Level
+
+When you fight in spirit, your allies gain a +1 bonus to all defenses and saves until the start of your next turn. Once per level when you die, if one or more of your allies also died in the same battle, one of you survives as if they had succeeded on a death save, and the others are actually dead (determined randomly).
+
+**Quirk:** Morbid sense of humor.
+
+---
+
 #### Cloak of Anonymity
 
 While wearing this cloak, you blend in with crowds. People ignore you, and overlook anything else that’s strange about you. You could be a ten-foot-tall fanged demon who constantly weeps poison, and no-one would look twice when you walked past them in the marketplace. The cloak’s magic can’t hide you if you do something out of the ordinary. If someone is specifically looking for you, you get a +4 bonus to checks to hide in the crowds.
@@ -2211,6 +2307,16 @@ This scarlet cloak won’t let you unknowingly walk into danger. When you fall f
 _Recharge 6+:_ Negates 15 points of necrotic damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
 
 **Quirk:** Innocent and unworldly.
+
+---
+
+#### Mantle of Golden Scales
+
+1/Day
+
+Until your next rest, or until you roll initiative, you transform into a small, harmless gold dragon. While in dragon-form, you can’t fight, cast spells, or use powers (you need to concentrate to maintain the form), but you can do things like fly, use your breath weapon for mundane tasks like lighting torches, and other non-combat-oriented actions. Your hit points, defenses, and other stats remain the same.
+
+**Quirk:** Obsessed with eggs (and guarding them).
 
 ---
 
@@ -2478,6 +2584,16 @@ _Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, pol
 
 ---
 
+#### Gauntlets of Axes
+
+1/Day
+
+You summon forth a pair of golden axes. Until the end of the battle, you can attack with the axes as if they were heavy one-handed magic weapons with a default bonus of this item’s tier. You have no attack penalty with these axes, can use two-weapon fighting with them, and use your best ability modifier for attack and damage rolls. Out of battle, you can command the axes to undertake some axe-related task (chopping down a single tree, destroying a door, etc.), which they will magically complete (and using your attack stats if needed).
+
+**Quirk:** Whittles little toys.
+
+---
+
 #### Gauntlets of Clobbering
 
 _Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of the battle (champion: +2d8; epic: +4d10).
@@ -2722,6 +2838,16 @@ These spiked gauntlets are light onehanded magic weapons, but you can still wiel
 
 ---
 
+#### Gauntlets of Confrontation
+
+1/Battle
+
+You gain resist 16+ to a damage type that a weapon you are holding deals (so if your weapon deals fire damage, you gain resist fire 16+). If your weapons don’t deal damage of some type, you gain resist melee weapon damage 13+.
+
+**Quirk:** Amateur juggler.
+
+---
+
 #### Siege Engine Mitts
 
 Standard Action
@@ -2903,6 +3029,14 @@ The epic-tier helm of infamy increases the damage to +1d8, and you strike terror
 You can change the type of foe affected by the helmet, but you must win a significant victory against that type of foe to build a new infamous reputation before you get the bonus. Your previous victims breathe a sigh of relief that their cultural bogeyman has moved on to a new set of targets, and are no longer terrified of you.
 
 **Quirk:** Enjoys intimidating people.
+
+---
+
+#### Circlet of Mental Fortitude
+
+Double this item’s default Mental Defense bonus against attacks from demons and devils. In addition, you gain a bonus to saves against effects caused by demons and devils, and to death saves while fighting demons and devils, equal to the doubled default bonus.
+
+**Quirk:** Suspicious of others’ true natures.
 
 ---
 
@@ -3118,6 +3252,16 @@ Once per level, you may curse another traveler in the woods. The cursed victim i
 
 ---
 
+#### Helm of Negation
+
+1/Battle
+
+When you resist damage dealt to you, one nearby ally that you can see gains the same type of resistance until the end of the battle; OR when an ally you can see resists damage, you gain the same type of resistance until the end of the battle.
+
+**Quirk:** Shares food with others (and takes food without asking).
+
+---
+
 #### Helm of Terror
 
 When the escalation die is 3 or higher, you cause fear like a monster of the same level. Better yet, nearby allies who would fear you if you were a monster (i.e. their hit points are lower than your fear threshold) are immune to fear as long as you’re around.
@@ -3256,6 +3400,14 @@ The pendant brings out the best in other magic items you carry, so that their qu
 
 ---
 
+#### Necklace of Tethered Memories
+
+_Recharge 11+:_ As a quick action on their turn, a wounded ally you can see recounts a pleasant memory of you and can heal using one of your recoveries.
+
+**Quirk:** Prone to nostalgia.
+
+---
+
 #### Necklace of the Noose
 
 This little talisman allows you to feign death perfectly. When you activate it, you ‘die’ from whatever malady is most appropriate for your current situation - you might succumb to your wounds, or appear to be blasted by a death spell, or just suffer a sudden and lethal heart attack. You appear genuinely dead to all observers – a hard skill check by a physician or a spellcaster with some sort of life-discerning spell might be sense that something is wrong, but could not say for sure if you’re alive or dead.
@@ -3333,6 +3485,14 @@ _Recharge 16+:_ Only clerics may use this item. This small pebble on a simple si
 _Champion:_ You can instead choose to regain one domain invocation; epic: recharge 11+.
 
 **Quirk:** Irritatingly serene.
+
+---
+
+#### Periapt of Second Chances
+
+_Recharge 16+:_ When you fail a save, one nearby ally can reroll the save for you, applying their bonuses or penalties to the roll. If that ally succeeds, you both gain whatever benefit the save grants, if applicable (for example, if the save was against ongoing fire damage and the ally was also suffering from ongoing fire damage, you would both successfully save against that damage).
+
+**Quirk:** Gives unwanted advice.
 
 ---
 
@@ -3549,6 +3709,14 @@ _Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (c
 In addition to a +2 bonus to saves against confusion, this ring lets you specify which of your nearby allies you attack when confused. Choose your special friend when the confusion starts, and you may even specify yourself.
 
 **Quirk:** Keeps an enemies list. Checks it twice.
+
+---
+
+#### Faithful Hound
+
+This ring is carved with the face of a watchdog. When you are ambushed, roll a save. If you succeed, the ring growls in warming and you can take a turn during the ambush round.
+
+**Quirk:** Somnambulist (sleep-walker).
 
 ---
 
@@ -3943,11 +4111,27 @@ Whenever an enemy's attack hits your Physical Defense or Mental Defense, you gai
 
 ---
 
+#### Avenger
+
+When an enemy scores a critical hit against you or one of your nearby allies, until the end of your next turn, you gain a +2 bonus to attacks OR to all defenses.
+
+**Quirk:** Team-builder.
+
+---
+
 #### Bashing
 
 When you move to engage an enemy while using this shield, you can use the shield to push that enemy away from one of your allies engaged with it. That ally can make a disengage check as a free action.
 
 **Quirk:** Can't pass up an opportunity to sing.
+
+---
+
+#### Buckler of Winds
+
+_Recharge 16+:_ Each enemy engaged with you pops free from you. In addition, each other unwilling nearby enemy must roll a save. If that enemy fails, it pops free from any creature it’s engaged with.
+
+**Quirk:** Blowhard.
 
 ---
 
@@ -3964,6 +4148,14 @@ _Recharge 11+:_ This shield has demons imprisoned within it. Pick an area of the
 This shield also acts as a +1 throwing weapon that returns to you after the attack (champion: +2; epic: +3).
 
 **Quirk:** Eager to discuss your opinions.
+
+---
+
+#### Dragonbreath
+
+_Recharge 6+:_ This dragon’shead shield allows you make a breath weapon attack as though you were a dragonic. If you are a dragonic, you an make a breath weapon attack without expending a use, though you don’t gain the benefit of any feats you spent to improve your breath weapon.
+
+**Quirk:** Likes to blow smoke rings.
 
 ---
 
@@ -4461,6 +4653,16 @@ You don’t have to thank the same ancestors each time – you could start off b
 
 ---
 
+#### Badge of Pride
+
+Quick Action
+
+_Recharge 11+:_ When you miss all targets with a daily attack spell, immediately make a basic attack or at-will attack.
+
+**Quirk:** Acts like they know things they don’t.
+
+---
+
 #### Blasphemous Symbol
 
 _Recharge 11+:_ When you cast a spell that allows an ally to heal using a recovery, you may choose to invoke this relic’s power before the recovery is rolled. The ally may reroll any recovery dice that roll a 1 or a 2. That ally is then bound to perform a service for an evil deific figure.
@@ -4471,11 +4673,39 @@ If the ally refuses to perform the service (or if the service is deemed too pett
 
 ---
 
+#### Brass Dragon-sign
+
+1/Day
+
+Each creature that can see or hear you can’t speak except to babble (save ends). While under this effect in battle, creatures with arcane abilities are hampered, and no creature can grant another an action (hard save ends both, 16+). While under this effect out of battle, all skill checks to influence or inform others, or to resist being influenced, are rolled twice and the least beneficial roll must be used.
+
+**Quirk:** Talkative and flighty.
+
+---
+
+#### Bronze Dragon-sign
+
+When an enemy uses an action on its turn before attacking you, add the symbol’s default bonus to all your defenses against the attack.
+
+**Quirk:** Gregarious.
+
+---
+
 #### Chosen One, Sign of the
 
 When you cast your last divine daily spell, roll a save. If you succeed, you don't expend the spell.
 
 **Quirk:** Obsessed with fortune telling, oracles, signs, etc.
+
+---
+
+#### Copper Dragon-sign
+
+1/Day
+
+This symbol produces a thick, concealing fog. Until the end of the battle, each creature in the battle takes a –2 penalty to ranged attacks against nearby targets. The penalty increases to –4 against far away targets.
+
+**Quirk:** Quick-witted banterer.
 
 ---
 
@@ -4809,6 +5039,16 @@ In addition to providing the usual bonus to arcane spells and damage, this wand 
 
 ---
 
+#### Dream-sending
+
+2/Level
+
+You can use this item’s powers only while helpless (including asleep) or stunned. Against an enemy, cast the wizard spell [sleep](../Classes/Wizard.md#sleep) at 3rd level (champion: 7th level; epic: 9th level), using Charisma or Wisdom to cast the spell. With a friendly creature anywhere in the world that you know, for a battle or scene you can communicate in a dream: a sleeping creature experiences this as their own dream, while to a waking one you show up as a vision only they can see.
+
+**Quirk:** Daydreamer.
+
+---
+
 #### Elderwood Wand
 
 You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—are treated as if you were casting a ritual, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
@@ -5007,6 +5247,16 @@ This pearlescent wand sheds bright light when moonlight falls upon it. While you
 
 ---
 
+#### Paladin
+
+1/Battle
+
+Cast the wizard spell [magic missile](../Classes/Wizard.md#magic-missile) at your level as a close-quarters spell. In addition, if you are a paladin, you can use Smite Evil with magic missile against an enemy engaged with you.
+
+**Quirk:** Indecisive.
+
+---
+
 #### Unerring Pain
 
 _Recharge 16+:_ When you miss with a spell that targets a single enemy, as a quick action immediately afterward, fire a magical missile that automatically hits that creature for 4d10 force damage.
@@ -5103,6 +5353,20 @@ This weapon’s die type improves by one step when dealing damage to skeletons a
 
 ---
 
+#### Bright-Lance
+
+Melee Weapon
+
+Standard Action
+
+1/Battle
+
+Light flashes from this weapon when you use it. Make a melee attack against a nearby enemy. This attack deals radiant damage.
+
+**Quirk:** Strives to set a good example.
+
+---
+
 #### Brightsteel
 
 Melee Weapon
@@ -5176,6 +5440,18 @@ Dagger
 Flip a d20 result around (a 1 becomes a 20, a 2 becomes a 19, etc., a 20 becomes a 1).
 
 **Quirk:** Unable to tell the truth.
+
+---
+
+#### Demon-Flensing
+
+Melee Weapon
+
+1/Day
+
+When you drop a demon to 0 hp with an attack using this weapon, you can quickly skin it and turn its flesh into a convincing disguise. Once before your next full heal-up, you can either automatically successfully ambush a demon or group of demons, or automatically succeed on a skill check to sneak past a demon or group of demons.
+
+**Quirk:** The ends justifies the means.
 
 ---
 
@@ -5290,6 +5566,18 @@ Melee Weapon
 This oversize weapon keens when swung in battle. This weapon gains a +2 bonus to attacks against large and huge creatures.
 
 **Quirk:** Self-conscious about size.
+
+---
+
+#### Gold-Winged
+
+Ranged Weapon
+
+1/Day
+
+When you roll a natural 1 on an attack with this weapon, your next attack roll with this weapon counts as a 20 and that attack deals fire damage.
+
+**Quirk:** Burns enemies’ remains whenever possible.
 
 ---
 
@@ -5550,6 +5838,16 @@ Ranged weapon
 _Recharge 11+:_ Before rolling a ranged attack with this weapon, choose 10 as the natural roll for that attack.
 
 **Quirk:** Talks too much about the weather.
+
+---
+
+#### Sunsteel
+
+Melee Weapon
+
+When your attack roll is equal to or less than the escalation die, you deal half damage on a miss (full damage against devils and demons).
+
+**Quirk:** Must be seen to be the bravest.
 
 ---
 
