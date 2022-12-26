@@ -173,7 +173,9 @@ _Karmic rebuke_ requires a quick action instead of an interrupt action. It's des
 Close-quarters spell
 
 **At-Will**
-Quick action to cast; expend focus
+Quick action to cast
+
+Expend Focus
 
 **Target:** One nearby enemy
 
@@ -239,8 +241,6 @@ Once per battle, when you are missed by an attack, the attacker takes the miss e
 ### Blade of Castigation
 
 You gain the Martial Rebuke power, which you can use instead of Karmic Rebuke to expend your focus on your turn.
-
----
 
 #### Martial Rebuke
 
@@ -726,7 +726,9 @@ Close-quarters spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies hits a nearby enemy with an attack.
 
@@ -763,7 +765,9 @@ Close-quarters spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy misses with an attack.
 
@@ -792,7 +796,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally uses a recovery.
 
@@ -829,7 +835,7 @@ Recharge 16+ after the battle / scene
 
 Interrupt action
 
-expend focus
+Expend Focus
 
 _Special:_ You can cast this spell out of combat. In that case, it doesn’t require, expend, or retain focus.
 
@@ -851,7 +857,9 @@ Close-quarters spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies attacks a nearby enemy and misses.
 
@@ -921,7 +929,9 @@ Close-quarters spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy hits you with an attack.
 
@@ -1111,7 +1121,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy hits you or an ally with a natural odd attack roll.
 
@@ -1154,7 +1166,9 @@ Close-quarters spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies is staggered by a nearby enemy's attack.
 
@@ -1216,7 +1230,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy of 5th level or lower hits one of your allies with an attack that could have targeted you or a different ally.
 
@@ -1250,7 +1266,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally fails a save against an effect created by a level 1–4 enemy.
 
@@ -1282,7 +1300,7 @@ Recharge 6+ after battle
 
 Interrupt action to cast
 
-expend focus
+Expend Focus
 
 **Trigger:** A nearby ally makes an attack roll against an enemy.
 
@@ -1352,7 +1370,9 @@ Close-quarters spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally drops to 0 hp or below from the attack of an enemy engaged with it **.**
 
@@ -1538,7 +1558,9 @@ Close-quarters spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** An enemy with 100 hp or fewer moves to engage one of your allies and attacks.
 
@@ -1567,7 +1589,9 @@ Close-quarters spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby unengaged enemy ends its turn.
 
@@ -1632,7 +1656,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** An enemy with 70 hp or fewer fails a disengage check or is targeted with an opportunity attack.
 
@@ -1730,7 +1756,9 @@ Close-quarters spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally casts a daily or recharge spell of 7th level or lower.
 
@@ -1772,7 +1800,9 @@ Close-quarters spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally fails a disengage check.
 
@@ -1838,7 +1868,9 @@ Close-quarters spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A non-mook enemy drops to 0 hp while the escalation die is 3, 4, or 5.
 
