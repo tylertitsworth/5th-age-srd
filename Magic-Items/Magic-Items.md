@@ -189,6 +189,12 @@ Firing this magic arrow at a non-magical door will bust it wide open. Magical ba
 
 ---
 
+#### Roaring
+
+When you miss an enemy with this ammunition, deal extra thunder damage equal to twice your level.
+
+---
+
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
@@ -2316,6 +2322,18 @@ Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 
 
 ### Adventurer
 
+#### Bad-Blood Bowl
+
+Quick Action
+
+1/Day
+
+Spend a recovery to coat your weapon or the weapon of an ally next to you with a deadly toxin. Roll your recovery dice but don’t heal. The next attack using that weapon that hits deals ongoing poison damage equal to the recovery roll, and half that much ongoing poison damage on a miss.
+
+**Quirk:** Licks blood off weapons after use.
+
+---
+
 #### Druid’s Cup
 
 _Recharge 11+:_ Spend a recovery to infuse the cup. The next willing creature to drink from the cup turns into a woodland creature as per the druid’s [scout form](../Classes/Druid.md#scout-form) power. This infusion ends during your next short rest if not used, but you don’t regain the recovery.
@@ -2397,6 +2415,18 @@ Spend a recovery to prevent a nearby enemy from healing until the end of the bat
 _Recharge 16+:_ Spend a recovery and roll your recovery dice but don’t heal. The next creature targeted by an attack from one of your allies this battle takes that amount of negative energy damage, hit or miss.
 
 **Quirk:** Debauched.
+
+---
+
+### Champion
+
+#### Goblin Goblet
+
+Quick Action
+
+Spend a recovery to create a bloodred sniveling goblin (using the baseline stats, actions, and player control for a ranger’s [animal companion](../Character-Rules/Companions.md) of your level except that its hit points equal your recovery roll). The goblin lasts until the end of the battle.
+
+**Quirk:** Enjoys having lackeys to boss around.
 
 ---
 
@@ -3820,6 +3850,14 @@ While wearing this subtle diamond stud, your attention is magically drawn to any
 
 ---
 
+#### Leadfeather Pendant
+
+You take only half damage from falling.
+
+**Quirk:** Fear of heights.
+
+---
+
 #### Lodestone Pendant
 
 _Recharge 11+:_ You always know exactly where you are (depth, direction, and distance to places that you know, etc.) until the end of the battle or scene.
@@ -4027,6 +4065,18 @@ Quick Action
 You can command the jewels of this necklace to detach and float around you (a free action), shedding enough light to illuminate a dungeon corridor or forest clearing. When you use the daily power, you can direct the lights to strobe quickly, dazing one nearby enemy until the end of its next turn.
 
 **Quirk:** Pride, the kind that goes before a fall.
+
+---
+
+#### Swiftstone Necklace
+
+Quick Action
+
+1/Day
+
+Make a standard action attack.
+
+**Quirk:** Talks too quickly.
 
 ---
 
@@ -4661,6 +4711,16 @@ Cast one of the following wizard spells against a target that is a dragon or dra
 
 ---
 
+#### Mace of Dominion
+
+1/Battle
+
+This magical implement also counts as a heavy melee weapon. You can count one ally as an enemy to target them with a damaging attack made through this item. If you do, you can then target two additional enemies engaged with that ally with the attack.
+
+**Quirk:** Strength is a great virtue of leadership.
+
+---
+
 #### Majestic Deeds
 
 1/Day
@@ -4714,6 +4774,24 @@ Quick Action
 Spells cast through this implement work as normal, but their effects look more impressive to others. Cast one of your daily spells or recharge spells. If you miss any target with the spell, this power recharges during your next full heal-up.
 
 **Quirk:** Uses magic needlessly.
+
+---
+
+#### Totem of Fecundity
+
+1/Day
+
+When you cast a summoning spell, you also summon some goblin mooks (or other lowly creatures that fit your character’s flavor) as if you had cast the necromancer spell [summon undead](../Classes/Necromancer.md#summon-undead-1st-level) as a 1st level spell (champion: 5th level; epic: 9th level), except you summon 1 fewer mook (so 1d3) and the mooks are humanoid goblins (or whatever) instead of undead.
+
+**Quirk:** Maternal monster.
+
+---
+
+#### Totem of Rage
+
+_Recharge 16+:_ When the escalation die is 3+ and an ally makes a melee attack on their turn, make a melee basic attack.
+
+**Quirk:** Goes along with the group.
 
 ---
 
@@ -4802,6 +4880,14 @@ A beast, dragon, giant, humanoid, or undead engaged with you pops free from you 
 _Recharge 16+:_ Each enemy engaged with you pops free from you. In addition, each other unwilling nearby enemy must roll a save. If that enemy fails, it pops free from any creature it’s engaged with.
 
 **Quirk:** Blowhard.
+
+---
+
+#### Claws
+
+_Recharge 11+:_ When you deal miss damage with a melee attack, add the shield’s hp bonus to that miss damage.
+
+**Quirk:** Acts feral.
 
 ---
 
@@ -5497,6 +5583,14 @@ _Recharge 11+:_ When you cast a divine spell that affects one target with a limi
 
 ---
 
+#### Ensign of Loyalty
+
+_Recharge 16+:_ Until the start of your next turn, you and each nearby ally gain an attack bonus against enemies engaged with an ally equal to the number of effects on the engaged ally (for example, if an ally is both stuck and hampered, you and your allies would gain a +2 bonus to attack an enemy engaged with that ally).
+
+**Quirk:** Set in their ways.
+
+---
+
 #### Exorcism, Symbol of
 
 _Recharge 11+:_ This symbol is especially effective against enemies that assail the minds and souls of their victims. If you or any of your nearby allies are attacked by a enemy using an attack against Mental Defense, you may activate this symbol to get an additional +2 bonus to attacks and damage with divine spells targeting that enemy for the rest of the battle. (Champion: You also deal an extra 1d10 radiant damage whenever you hit that foe with a divine spell; epic: 2d10 radiant damage).
@@ -5740,6 +5834,16 @@ _Recharge 16+:_ You teleport somewhere nearby or far away that you can see, or t
 When you don’t roll to recharge any powers during a quick rest (because you choose not to, none need recharging, or you have none), each recovery you spend to heal during that rest heals you the maximum amount for your recovery dice.
 
 **Quirk:** Slothful.
+
+---
+
+#### Talons of Envy
+
+1/Day
+
+When an ally successfully recharges a spell, you gain a daily use of that spell until your next full heal-up, using your normal casting ability score for that spell.
+
+**Quirk:** Envious of friends and enemies.
 
 ---
 
@@ -6033,16 +6137,6 @@ _Recharge 16+:_ When you hit an enemy with a spell that targets a single foe, th
 
 ---
 
-#### Stick of Tricks
-
-1/Day
-
-This wand looks almost like a child’s toy. As an at-will quick action, you can create minor, random, harmless cantrip-style effects (sparkles, sounds, strange lights, bubbles, streamers, etc.). When you use the daily power, create a helpful effect or trick that is as useful as a utility spell— enough to distract some guards, hold a door shut, open a lock, or a similar open-ended effect that the GM will allow—and you can’t use the at-will power until you regain the daily power.
-
-**Quirk:** Love of practical jokes.
-
----
-
 #### Sturdy
 
 This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic bonus applies to both spell and melee attacks made with the wand (so if it’s a +1 wand, it’s also a +1 weapon). It only takes up one slot (pick which one you want to use), and gets full benefit from any oils or runes applied to it (so, if you boost the item up to a +2 wand with magic oil, it also becomes a +2 weapon).
@@ -6050,18 +6144,6 @@ This ‘wand’ is also a melee weapon like a shortsword or mace. The same magic
 **Quirk:** Mistrustful of complexity, innovation or sophistry.
 
 >_Note:_ Steel and stone and rune and fire. Gold and dark and blood and fire. Heart and soul and beer and fire. These things make a dwarf. - ancient dwarven song, used to keep time when pumping bellows
-
----
-
-#### Turning Cogs
-
-Quick Action
-
-At-Will or Special
-
-A wand, made of interlinked cogs. If you’re not a wizard, you can cast the wizard mend cantrip using this wand. If you are a wizard, you gain an extra daily use of utility spell at the highest level that you can cast spells while using this wand.
-
-**Quirk:** Always tinkering.
 
 ---
 
@@ -6198,6 +6280,26 @@ Any Weapon
 When you crit with a natural 20 using this weapon, you deal crit damage instead of normal damage if you hit with this weapon again during your next turn.
 
 **Quirk:** Has taste for red meat.
+
+---
+
+#### Blood-Rage
+
+Melee Weapon
+
+1/Battle
+
+When you miss with a basic melee attack or at-will melee attack using this weapon, reroll the attack, then, hit or miss, make the same attack against the closest nearby ally, moving as a free action that provokes opportunity attacks if no ally is next to you.
+
+**Quirk:** Rage, rage and hatred.
+
+---
+
+#### Boiling Blood
+
+_Recharge 11+:_ When you miss a melee attack with this weapon, your next melee attack with this weapon deals +2d4 fire damage (champion: +3d6; epic: +4d8), hit or miss.
+
+**Quirk:** Where there’s a whip there’s a way.
 
 ---
 
@@ -6689,6 +6791,14 @@ If your target is attempting to flee from the battle, a natural even hit against
 
 ---
 
+#### Ogre Noble’s Blade
+
+When a devil, dragon, giant, humanoid, or spirit hits you with an attack, you learn one of its names. The default bonus of this weapon increases by +2 against that creature until the end of the battle.
+
+**Quirk:** Holds grudges.
+
+---
+
 #### Protection
 
 Melee Weapon
@@ -7119,6 +7229,12 @@ You can attune multiple wondrous items.
 
 None.
 
+### Tattoo
+
+Getting a magical tattoo involves choosing a body part that doesn't already contain a tattoo and applying both the ink and enchantment. Tattoos of higher tiers take up more space on the body, and some tattoos specify where they must be located to gain the benefits of the enchantment. Magical Tattoos cannot be disenchanted normally, but instead must be removed by a tattoo removal spell or similar magic.
+
+Some magical tattoos have lesser and greater variations, which means lesser magical tattoos can be expanded upon to make them greater and therefore more powerful.
+
 ### Adventurer
 
 #### [Alchemy jug](http://dnd5e.wikidot.com/wondrous-items:alchemy-jug)
@@ -7130,6 +7246,22 @@ None.
 ---
 
 #### [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding)
+
+---
+
+#### Bad-Moon Arm Tattoo
+
+Gain a +1 bonus to AC as though you had a shield, but your off-hand is left free to wield an off-hand weapon or a two-handed weapon.
+
+**Quirk:** Howls in battle.
+
+---
+
+#### Bad-Moon Waist Tattoo
+
+Gain a new 2-point background called humanoid hunter.
+
+**Quirk:** Howls in battle.
 
 ---
 
@@ -7145,9 +7277,31 @@ Alternatively, you may open the bag entirely and let the storm free. This destro
 
 ---
 
-#### Lesser Barrier Tattoo
+#### Batwing Back Tattoo
 
-While you aren't wearing armor, your base AC is 12.
+1/Battle or Scene
+
+When you fall you glide slowly until you land on your feet without taking fall damage.
+
+**Quirk:** Recklessly takes dares.
+
+---
+
+#### Blue-Eye Arm Tattoo
+
+1/Battle
+
+Add this tattoo’s default bonus to attacks and damage you make with non-magical ranged weapons. When you make a ranged attack with a thrown weapon, increase the damage dice by one size (2d4 + 1 becomes 2d6 + 1, 5d6 + 3 becomes 5d8 + 3, etc.). Once per day, you can cast the wizard cantrip mage hand on a faraway object.
+
+**Quirk:** Fears the evil eye.
+
+---
+
+#### Blue-Eye Palm Tattoo
+
+You can see through the eye on this palm tattoo. Gain a +4 bonus to MD against last-gasp attacks that target MD (such as a basilisk’s gaze attacks, the petrification attack of a medusa, etc.) and this bonus stacks with other magic items. You can also cast the wizard cantrip mage hand at will.
+
+**Quirk:** Fears the evil eye.
 
 ---
 
@@ -7165,11 +7319,37 @@ When you sound this horn (a move action in battle), others know what information
 
 ---
 
+#### Charging-boar
+
+Back Tattoo
+
+When an attack misses your PD, your attacks deal at least half damage on a miss until the end of your next turn.
+
+**Quirk:** Argumentative.
+
+---
+
+#### Charging-Boar Leg Tattoo
+
+When you move to engage an enemy and miss it with an attack during the same turn, deal extra miss damage equal to the escalation die to that enemy (champion: twice the escalation die; epic: three times the escalation die).
+
+**Quirk:** Argumentative.
+
+---
+
 #### Commander’s Dust
 
 This multicolored powder glows and sparkles at your command, dancing in a magical wind. You can use the powder to create glowing, three-dimensional images (to display maps of battlefields for example), or to illuminate an area. When you are done with the powder, it returns to its pouch or container at your command.
 
 **Quirk:** Over-explains simple concepts.
+
+---
+
+#### Crossed-Axes Waist Tattoo
+
+The first time you become staggered each battle, the next enemy you hit before the end of the battle takes +1d8 thunder damage (champion: +2d8 thunder damage; epic: +3d10 thunder damage).
+
+**Quirk:** Sees kindness as weakness.
 
 ---
 
@@ -7212,7 +7392,7 @@ One in four mugs of ale you drink from this mug will be magically transformed in
 
 ---
 
-#### Eldritch Claw Tattoo
+#### Eldritch Claw Palm Tattoo
 
 Your unarmed attacks are considered magical and you gain a +1 to attack and damage rolls with unarmed attacks. Once per day, as a quick action you can empower the tattoo and for the rest of the battle you can attack enemies nearby that you are not engaged with as inky tendrils launch towards your foes. Your melee unarmed attacks deal an extra 1d6 force damage on a hit.
 
@@ -7280,13 +7460,45 @@ _Recharge 6+:_ This wooden harp is of use only to bards. When you roll to sustai
 
 ---
 
+#### Knot-of-Blades Chest Tattoo
+
+Gain resist damage 12+ to melee attacks against AC.
+
+**Quirk:** Likes showing fangs.
+
+---
+
+#### Knot-of-Fists Chest Tattoo
+
+_Recharge 16+:_ When a non-weapon melee attack hits you, your next unarmed attack this battle that hits deals double damage.
+
+**Quirk:** Lets fists do the talking.
+
+---
+
+#### Knuckle tattoos
+
+Your fists count as magic heavy two-handed weapons of the tattoos’ tier, with one doing cold damage and one doing fire damage, OR with one doing lightning damage and one doing thunder damage, OR both doing normal damage. Choose which damage type is for your main hand and which is for your off-hand when you first attune to this item.
+
+**Quirk:** Sometimes takes things without asking.
+
+>_Note:_ You can fight with one fist while holding a shield, and even though these tattoos turn your fists into the equivalent of a heavy two-handed weapon, if you roll a natural 2 on an attack, you can still make an off-hand attack.
+
+---
+
 #### Lantern of Revealing
 
 While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light nearby and dim light far away. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light to next to you.
 
 ---
 
-#### Lesser Spellwrought Tattoo
+#### Lesser Barrier Chest Tattoo
+
+While you aren't wearing armor, your base AC is 12.
+
+---
+
+#### Lesser Spellwrought Arm Tattoo
 
 This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-list) of 3rd level or lower. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
 
@@ -7304,6 +7516,14 @@ A bottle of translucent glass, sealed with lead, with a ghastly face that peers 
 
 ---
 
+#### Moon-Wolf Neck Tattoo
+
+Gain a +2 bonus to skill checks to understand and interact with beasts, and when you drop a beast to 0 hp, you can immediately roll a save against each condition affecting you—even if that condition would not normally allow a save (like being stuck until the end of your turn).
+
+**Quirk:** Very carnivorous.
+
+---
+
 #### Nightcandle
 
 A nightcandle is an ugly black tallow candle, about a foot tall. You may attune others to the nightcandle by having them pass their hands through its flame. Only those attuned to the nightcandle can see the light shed by its flame. You can use it as a signaling device that’s imperceptible to others, or as a source of illumination that won’t give away your location. After a few hours of use, you must renew the nightcandle by putting it in a dark place with some lard and a little red wine.
@@ -7312,9 +7532,33 @@ A nightcandle is an ugly black tallow candle, about a foot tall. You may attune 
 
 ---
 
+#### Owlbear Chest Tattoo
+
+When you score a critical hit, the AC bonus of this armor increases by 1 until the next time you score a critical hit or until your next full heal-up.
+
+**Quirk:** Weak is meat.
+
+---
+
 #### Pearl of Power
 
 While this pearl is on your person, you can use an action to speak its command word and regain one expended power. Once you have used the pearl, it can't be used until you complete a full recovery.
+
+---
+
+#### Roaring-Bear Back Tattoo
+
+When you take thunder damage from an enemy attack, the next enemy you target with an attack this battle takes extra thunder damage equal to half of the thunder damage you suffered, hit or miss.
+
+**Quirk:** Roars with rage.
+
+---
+
+#### Roaring-Bear Chest Tattoo
+
+You don’t take miss damage while engaged with two or more enemies.
+
+**Quirk:** Roars with rage, a lot.
 
 ---
 
@@ -7342,6 +7586,22 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 
 ---
 
+#### Snuffling-Hog Back Tattoo
+
+When an attack misses your PD, gain temporary hit points equal to the number of mooks you have killed since your last full heal-up (champion: twice the number of mooks; epic: three times the number of mooks).
+
+**Quirk:** Willing to eat anything.
+
+---
+
+#### Snuffling-Hog Leg Tattoo
+
+When an enemy fails to disengage from you, gain temporary hit points equal to its disengage check roll (champion: twice the roll; epic: three times the roll).
+
+**Quirk:** Willing to eat anything.
+
+---
+
 #### Spirit-Catching Jar
 
 Spirits of all sorts move through the Empire. This glass jar is marked with runes of capture and containment, so roll a d6 at every full heal-up. On a 5 or 6, you’ve caught a spirit of the sort you’d expect to find in your current environment (ghosts in a graveyard, arcane sprites in a wizard’s tower, storm elementals at sea). Some spirits are intelligent enough to bargain for their freedom; all are magically potent and can be used either as ritual components, or just left loose at the right moment. You might catch an air sylph spirit and let it go to produce a sudden gust of wind, or capture a forest sprite and force it to show you a path through the woods.
@@ -7355,6 +7615,22 @@ Spirits of all sorts move through the Empire. This glass jar is marked with rune
 This courtly dress is made from a rare magical material—you can wear heavy armor under it and it won’t show. While wearing the gown, you gain a +2 bonus to skill checks involving fashion and beauty.
 
 **Quirk:** Over-concerned with matters of courtesy.
+
+---
+
+#### Stomping-Behemoth Chest Tattoo
+
+Gain _resist damage 16+_ against environmental damage and traps.
+
+**Quirk:** Completely ignores ‘minor irritations.’
+
+---
+
+#### Stomping-Behemoth Leg Tattoo
+
+When you disengage or pop free from an enemy, that enemy takes thunder damage equal to the escalation die (champion: twice the escalation die; epic: three times the escalation die).
+
+**Quirk:** Unheeding of ‘minor irritations’.
 
 ---
 
@@ -7518,7 +7794,7 @@ _Recharge 16+ after use:_ This ordinary-looking backpack unfolds itself to revea
 
 ### Epic
 
-#### Absorbing Tattoo
+#### Absorbing Arms Tattoo
 
 While the tattoo is on your skin, you have resistance 16+ to a type of damage associated with the tattoo's color, as shown in the table below. The color is determined randomly.
 
@@ -7547,7 +7823,7 @@ While you hold the banner, your melee and ranged attacks and those of all allied
 
 ---
 
-#### Blood Fury Tattoo
+#### Blood Fury Arms Tattoo
 
 Once per battle when you hit a creature with a weapon attack you can deal an extra 4d6 necrotic damage and regain half as much necrotic damage dealt.
 
@@ -7627,7 +7903,7 @@ This smooth, rainbow-colored, egg-shaped stone can be thrown and explode with ma
 
 ---
 
-#### Ghost Step Tattoo
+#### Ghost Step Legs Tattoo
 
 As a quick action once per battle you become incorporeal until the end of your next turn and gain the following benefits:
 
@@ -7637,19 +7913,19 @@ As a quick action once per battle you become incorporeal until the end of your n
 
 ---
 
-#### Greater Barrier Tattoo
+#### Greater Barrier Chest and Arms Tattoo
 
 While you aren't wearing armor, your base AC is 15.
 
 ---
 
-#### Greater Spellwrought Tattoo
+#### Greater Spellwrought Chest and Neck Tattoo
 
 This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-list) of 7th level or lower. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell's duration. Once the spell ends, the tattoo vanishes from your skin.
 
 ---
 
-#### Lifewell Tattoo
+#### Lifewell Face and Neck Tattoo
 
 You have resist necrotic damage 16+ and once per day if you would be reduced to 0 hit points you drop to 1 hit point instead.
 
@@ -8131,6 +8407,16 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 
 ---
 
+##### War-Dirge of Chaos
+
+1/Day
+
+When you drop an enemy to 0 hp, until the end of the battle your movements and attacks create music. While you are creating this cursed dirge, an enemy that starts its turn engaged with you takes thunder damage equal to your level, and your attacks that target AC target PD and deal thunder damage instead. Curse: When you miss with an attack while the dirge effect is active, you and each ally engaged with the target take thunder damage equal to your level.
+
+**Quirk:** Has trouble staying quiet.
+
+---
+
 #### Wand (Implement)
 
 ##### Default Bonus
@@ -8146,6 +8432,20 @@ When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
 ---
 
 #### Wondrous Items
+
+##### Orcnest
+
+Wondrous Item
+
+1/Day
+
+Your body swells in places and a bunch of tiny orc-things pop forth from you at the start of your next turn as if you had cast the necromancer spell summon undead (13TW, page 86) at your level, except the orcs are humanoids instead of undead. You also gain a +4 bonus to any social skill checks involving orcs and related creatures (like half-orcs, goblins, ogres, etc.). Curse: When an enemy scores a critical hit against you, the curse’s power activates even if it’s expended and it doesn’t count as the daily use of the power, but the orc-things you spawn are hostile and attack your allies—and you if you try to stop them.
+
+**Quirk:** When you would run into derro, kobolds, troglodytes, or other humanoid monsters, you tend to run into orcs.
+
+>_Note:_ Technically the orcnest is a ‘cursed disease’ that you can attune by accident when you loot or examine a dead orc.
+
+---
 
 ##### Treasured Chest
 
