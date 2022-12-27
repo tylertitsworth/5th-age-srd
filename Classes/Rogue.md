@@ -2291,7 +2291,7 @@ Daily
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** WEAPON + Dexterity damage. If the target has 250 hit points or less left after the attack, it starts making last gasp saves (16+; see Core Book p. 200). After the fourth failed save, it dies. If the target has more than 250 hit points, you can choose to either deal 100 extra damage or cause the target to lose its next standard action.
+**Hit:** WEAPON + Dexterity damage. If the target has 250 hit points or less left after the attack, it starts making last gasp saves of 16+. After the fourth failed save, it dies. If the target has more than 250 hit points, you can choose to either deal 100 extra damage or cause the target to lose its next standard action.
 
 **Miss:** You have advantage on your next attack against the target.
 

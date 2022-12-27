@@ -437,7 +437,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a giant bug from the Hell Mother summoning list (13th Age Glorantha p. 158). You can choose any of the giant bugs of your level or lower. You summon these bugs as a superior creature according to the Summoning rules on page XX. The bug remains until the end of the battle, or until it is reduced to zero hit points.
+**Effect:** You summon a giant bug from the Hell Mother summoning list (13th Age Glorantha p. 158). You can choose any of the giant bugs of your level or lower. You summon these bugs as a superior creature according to the [Summoning rules](../Character-Rules/Summoning.md). The bug remains until the end of the battle, or until it is reduced to zero hit points.
 
 ##### Adventurer Feat
 
@@ -1316,16 +1316,6 @@ You can disguise a number of creatures equal to your Charisma modifier.
 
 ---
 
-##### Unicorn Mount
-
-Ranged spell
-
-Daily
-
-**Effect:** You summon a unicorn mount (see 13th Age Monthly, Mounted Combat, page 10) for one hour per spell level, which you can ride into battle according to the mounted combat rules. The unicorn can take two mounted combat actions per battle, which require a quick action but no mounted combat check.
-
----
-
 #### 3rd Level Fey Spells
 
 ##### Fool’s Gold
@@ -1393,7 +1383,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a 2nd-level Faun Troubadour (30 hp) or a 3rd-level Pixie Warrior (16 hp). This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
+**Effect:** You summon a 2nd-level Faun Troubadour (30 hp) or a 3rd-level Pixie Warrior (16 hp). This spell follows the [Summoning rules](../Character-Rules/Summoning.md). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
 For a faun, if your PD is higher than your MD, the summoned one follows the Path of the Sword, otherwise the Path of the Song.
 
@@ -1504,7 +1494,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
+**Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the [Summoning rules](../Character-Rules/Summoning.md). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
 
 ###### Adventurer Feat
 
@@ -1831,7 +1821,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a swarm of bats with 20 hp, according to the summoning rules on page XX. The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
+**Effect:** You summon a swarm of bats with 20 hp, according to the [Summoning rules](../Character-Rules/Summoning.md). The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1977,7 +1967,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a giant scorpion with 15 hp (CB 206), according to the summoning rules on page XX. The scorpion remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a giant scorpion with 15 hp (CB 206), according to the [Summoning rules](../Character-Rules/Summoning.md). The scorpion remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2212,7 +2202,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a wolf with 19 hp (CB 207), according to the summoning rules on page XX. The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a wolf with 19 hp (CB 207), according to the [Summoning rules](../Character-Rules/Summoning.md). The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2331,7 +2321,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a fungaloid creeper (B 83, 20 hp), according to the summoning rules on page XX. The creeper remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a fungaloid creeper (B 83, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The creeper remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2492,7 +2482,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a tundra wolf (as wolf, CB 207, 20 hp), according to the summoning rules on page XX. The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a tundra wolf (as wolf, CB 207, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2855,7 +2845,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon 1d3 razor shark mooks (B 187, 5 hp), according to the summoning rules on page XX. The creatures remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entry, except for reduced hit points and no nastier specials.
+**Effect:** You summon 1d3 razor shark mooks (B 187, 5 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The creatures remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entry, except for reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3065,7 +3055,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a badger (B2 55, 20 hp), according to the summoning rules on page XX. The badger remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a badger (B2 55, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The badger remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3219,7 +3209,7 @@ Ranged spell
 
 Daily
 
-**Effect:** You summon a rat swarm, according to the summoning rules on page XX. The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a rat swarm, according to the [Summoning rules](../Character-Rules/Summoning.md). The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |

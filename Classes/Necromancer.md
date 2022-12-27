@@ -324,7 +324,7 @@ On a critical hit, your summoned undead deal 1d6 extra damage (2d6 at 5th level;
 
 #### Champion Feat
 
-When you spend a quick action to allow a summoned undead to benefit from the escalation die (as per the summoning rules on page XX), it gains a +2 bonus to its critical threat range that round.
+When you spend a quick action to allow a summoned undead to benefit from the escalation die (as per the [Summoning rules](../Character-Rules/Summoning.md)), it gains a +2 bonus to its critical threat range that round.
 
 #### Epic Feat
 
