@@ -3740,7 +3740,7 @@ _Recharge 11+:_ The fingertips of these elbow-length gloves are made of rare met
 
 #### Steel Fist of the Crusader
 
-_Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship die you have with the Crusader (champion: d8; epic: d12).
+_Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship point you have with a divine heroic figure (champion: d8; epic: d12).
 
 **Quirk:** Becomes increasingly paranoid about demons.
 
@@ -8768,7 +8768,7 @@ This small sphere of thick glass weighs 1 pound. While you are nearby it you can
 
 #### Dwarven Mug
 
-One in four mugs of ale you drink from this mug will be magically transformed into the very finest non-magical dwarven ale. If your relationship with the mug is good, the variety might even suit your current mood and the odds of getting a good brew might improve in your favor. But really, who's going to complain about putting down a second, or even third, mug for the chance to get a taste of the best stuff? When that excellent ale does show up, you can share a sip or two with a friend, but other attempts to capitalize on this mug's magic will just shut it down until it can find a more suitable owner.
+One in four mugs of ale you drink from this mug will be magically transformed into the very finest non-magical dwarven ale. If your relationship with the mug is positive, the variety might even suit your current mood and the odds of getting a good brew might improve in your favor. But really, who's going to complain about putting down a second, or even third, mug for the chance to get a taste of the best stuff? When that excellent ale does show up, you can share a sip or two with a friend, but other attempts to capitalize on this mug's magic will just shut it down until it can find a more suitable owner.
 
 ---
 
