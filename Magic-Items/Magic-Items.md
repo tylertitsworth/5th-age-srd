@@ -69,6 +69,12 @@ When you attack a creature with the demon type with this ammunition, hit or miss
 
 ---
 
+#### Dragonbolt
+
+When you attack a dragon with this ammunition, target PD instead of AC. On a hit against a dragon, the attack deals double damage (triple damage on a crit). In addition, on a natural odd hit against a dragon, it loses flight until the end of its next turn; and on a natural even hit against a dragon, it’s hampered until the end of its next turn.
+
+---
+
 #### Dreamshot
 
 This ammunition is psychically imbued. When you hit with a natural 16+ attack roll using this ammunition, make a ranged basic attack as a free action against a different enemy that is nearby the original target. The second attack targets MD and does psychic damage.
@@ -219,6 +225,12 @@ When you hit with an attack using this ammunition, the target is stuck (save end
 
 ---
 
+#### Screwshaft
+
+This magical arrow burrows through even the thickest scales and toughest muscles. When you hit a nonmook enemy with this ammunition, repeat the attack against that enemy. If you hit with the attack and that enemy is also large or huge (but not double- or triple-strength) or larger, repeat the attack a third time.
+
+---
+
 #### Seeking
 
 You deal +4 damage on a miss (champion: +10; epic: +25).
@@ -249,9 +261,9 @@ You may cast one of your Close spells onto the missile. When the missile is fire
 
 ---
 
-#### Swift Shot
+#### Steel Rain
 
-Once per battle, if you’ve got elven grace, and you get an extra standard action, and you use that standard action to make a ranged attack with this ammo, then the size of the die rolled to determine whether or not your elven grace triggers doesn’t increase. If you’re not playing a wood elf archer, your eyes probably glazed over two clauses back.
+This ammunition is crafted from hundreds of spikes that have been magically transformed into a single projectile. Make a basic ranged attack using this ammunition against 1d3 + 1 enemies in a group. The attack deals half damage on a hit and no damage on a miss.
 
 ---
 
@@ -260,6 +272,12 @@ Once per battle, if you’ve got elven grace, and you get an extra standard acti
 Enchanted for battle in the Underworld, stonepiercing projectiles pass through solid stone – but not other barriers – as though it was empty air. Stone cover offers no protection against this ammunition. You can even fire through walls, if you have some other way of discerning your foe’s position than sight (or, more likely, you’ve got so many dwarves with stone- piercing bolts that you can pepper every inch of the cave wall and be sure of hitting a goblin.)
 
 >_Note:_ We’re not sure how far stone-piercing bolts actually… go. For if all the earth and stone’s no more than empty air to ‘em, then there’s a fair to middling chance they just keep falling forever all the way down through the Underworld, until they hit someone or fall out the bottom of the world. Grunbolt, dwarven adventurer.
+
+---
+
+#### Swift Shot
+
+Once per battle, if you’ve got elven grace, and you get an extra standard action, and you use that standard action to make a ranged attack with this ammo, then the size of the die rolled to determine whether or not your elven grace triggers doesn’t increase. If you’re not playing a wood elf archer, your eyes probably glazed over two clauses back.
 
 ---
 
@@ -367,6 +385,14 @@ If you don’t already have a relationship with the Lich King, you soon will.
 
 ---
 
+#### Blackscale
+
+_Recharge 11+:_ When you or a nearby creature takes acid damage, pop free from each enemy engaged with you.
+
+**Quirk:** Secretive.
+
+---
+
 #### Blazing Beacon Armor
 
 Heavy Armor
@@ -386,6 +412,14 @@ Light Armor
 _Recharge 11+:_ When an attack hits you, you gain a +4 bonus to all Defenses until you attack or until you are hit again.
 
 **Quirk:** Sings or hums hymns when nervous.
+
+---
+
+#### Bluescale
+
+When you take or deal lightning damage, gain a +2 bonus to PD until the start of your next turn. This bonus stacks with other magic items.
+
+**Quirk:** Bites things when frustrated.
 
 ---
 
@@ -583,6 +617,14 @@ You don’t take miss damage from scaled creatures (dragons, dragonics, serpents
 
 ---
 
+#### Greenhide
+
+This armor is made from the wing membrane of a green dragon. Gain resist poison damage 16+ and a +4 bonus to saves against effects and conditions caused by attacks that deal poison damage.
+
+**Quirk:** Distrusts elves.
+
+---
+
 #### Guarded Heart
 
 The AC bonus from your armor applies to your MD as well.
@@ -756,6 +798,16 @@ If you are staggered, you regain an expended power as if you had taken a quick r
 When a demon or devil hits you with a melee attack, it takes lightning damage equal to 1d6 times your level.
 
 **Quirk:** Misinterprets jokes as insults.
+
+---
+
+#### Redscale
+
+1/Battle
+
+When an enemy hits you with a melee attack, the enemy takes twice your level in fire damage.
+
+**Quirk:** Practices pyrography (burning patterns into wood or leather).
 
 ---
 
@@ -939,6 +991,14 @@ You gain resistance 12+ against attacks targeting Physical Defense or Mental Def
 
 ---
 
+#### Whitehide
+
+Made from the soft under-skin of a white dragon, this armor is cool to the touch and makes you harder to detect. You gain a +1 bonus to all defenses at night or while underground. This bonus stacks with other magic item bonuses.
+
+**Quirk:** Fear of graveyards, tombs, etc.
+
+---
+
 ### Champion
 
 #### Captain’s Armor
@@ -1035,7 +1095,7 @@ Blood splattered onto the surface of this armor (usually made of iron) seeps in 
 
 #### Tombweb
 
-When you take negative energy damage or take damage from an attack by an undead creature, gain temporary hit points equal to your level.
+When you take necrotic damage or take damage from an attack by an undead creature, gain temporary hit points equal to your level.
 
 **Quirk:** Enjoys the sensation of spiders crawling on their skin.
 
@@ -1249,11 +1309,37 @@ As the name suggests, this wide leather belt has tusks and teeth sewn onto it. W
 
 ---
 
+#### Black Belt
+
+_Recharge 11+:_ When an enemy hits you with a melee attack, either force the enemy to reroll the attack; OR deal acid damage equal to 1d6 times your level to that enemy.
+
+**Quirk:** Performs individual training exercises (kata) during downtime.
+
+---
+
 #### Blademaster's Belt
 
 One magical sword sheathed on this belt gains a +2 bonus to recharge rolls for its own powers.
 
 **Quirk:** Worries too much about tiny details.
+
+---
+
+#### Blood-Red Kilt
+
+Standard Action
+
+_Recharge 11+:_ “Attack” a dead enemy to heal using a free recovery.
+
+**Quirk:** Neglects to clean blood from weapons.
+
+---
+
+#### Blue Silk Girdle
+
+The layers of enchanted material in this wide belt-like garment produce tiny sparks when they rub together. As far as observers are concerned, it looks like a wide band of layered cloth. You can hide handheld items in this garment and they are magically concealed. Anyone trying to find the items must roll a hard save (16+), and searches also will receive a series of tiny shocks for their trouble.
+
+**Quirk:** Libertine.
 
 ---
 
@@ -2114,6 +2200,14 @@ While you’re in a graveyard or other area with a strong ‘dead’ vibe, phase
 
 ---
 
+#### Dragonstep Shoes
+
+_Recharge 6+:_ When you stomp in these shoes it sounds like the footsteps of something large, and you leave appropriate footprints. Gain a +4 bonus to a skill check to frighten or intimidate.
+
+**Quirk:** Take up space, make noise.
+
+---
+
 #### Dwarven Doomsteppers
 
 You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
@@ -2127,6 +2221,16 @@ You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
 _Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may automatically inflict 5 damage on them immediately (champion: 10 damage; epic: 25 damage). You don’t have to be the one who staggered them to trigger this item.
 
 **Quirk:** Hates bugs and other things that crawl.
+
+---
+
+#### Fire Walkers
+
+Move Action
+
+_Recharge 16+ after use:_ When an enemy attacks you and deals fire damage, teleport someplace nearby you can see.
+
+**Quirk:** Drawn to open flames.
 
 ---
 
@@ -2436,6 +2540,14 @@ When you roll a natural 1 with an unarmed attack, you can lose hit points equal 
 
 ---
 
+#### Black Lotus Bracers
+
+_Recharge 11+:_ When you score a critical hit with an unarmed attack, either you regain a point of ki; OR you or a nearby ally regains a once-per-battle power.
+
+**Quirk:** Collects rare items.
+
+---
+
 #### Climbing Claws of the Panther
 
 Gain a +4 bonus to skill checks to climb.
@@ -2457,6 +2569,18 @@ These leather hand-wraps are made from hide taken from a demon’s arms. You can
 Your crit range with attacks made using these bracers expands by 1 (usually to 19+) against beasts, dragons, giants, and humanoids; and by 2 (usually to 18+) against plants.
 
 **Quirk:** Enjoys the smell of carrion.
+
+---
+
+#### Dragon-skin Hand-wraps
+
+Standard Action
+
+1/Battle
+
+Make a melee basic attack against up to three enemies, dealing only half damage with the attack, hit or miss. These attacks deal one of the following damage types, chosen when you attune to this item: acid, cold, fire, lightning, or poison.
+
+**Quirk:** Taunts opponents during battle.
 
 ---
 
@@ -2496,7 +2620,7 @@ _Recharge 11+:_ When you score a critical hit with an unarmed strike, you can in
 
 2/Day but 1/Battle
 
-Attacks made using these bracers deal negative energy damage. When you make an attack using these bracers, target an enemy’s PD instead of AC.
+Attacks made using these bracers deal necrotic damage. When you make an attack using these bracers, target an enemy’s PD instead of AC.
 
 **Quirk:** Practices fighting blindfold.
 
@@ -2517,6 +2641,14 @@ Until the end of the battle or scene, gain a +4 bonus to d20 rolls that are not 
 Your crit range against demons and devils expands by 1, and when you score a critical hit against them, you deal triple damage instead of double damage.
 
 **Quirk:** Scourges self.
+
+---
+
+#### Ten-Dragon-Punch Bracers
+
+When you score a critical hit, your crit range expands by 2 until the next time you score a critical hit, the next time an enemy scores a critical hit against you, or until your next full heal-up.
+
+**Quirk:** Practices in the dark.
 
 ---
 
@@ -2559,6 +2691,16 @@ Quick Action
 Spend a recovery to coat your weapon or the weapon of an ally next to you with a deadly toxin. Roll your recovery dice but don’t heal. The next attack using that weapon that hits deals ongoing poison damage equal to the recovery roll, and half that much ongoing poison damage on a miss.
 
 **Quirk:** Licks blood off weapons after use.
+
+---
+
+#### Chalice of Chromatic Metals
+
+Quick Action
+
+Spend a recovery to take an extra standard action this turn.
+
+**Quirk:** Dislikes cities.
 
 ---
 
@@ -2640,7 +2782,7 @@ Spend a recovery to prevent a nearby enemy from healing until the end of the bat
 
 #### Tarnished Chalice
 
-_Recharge 16+:_ Spend a recovery and roll your recovery dice but don’t heal. The next creature targeted by an attack from one of your allies this battle takes that amount of negative energy damage, hit or miss.
+_Recharge 16+:_ Spend a recovery and roll your recovery dice but don’t heal. The next creature targeted by an attack from one of your allies this battle takes that amount of necrotic damage, hit or miss.
 
 **Quirk:** Debauched.
 
@@ -2668,6 +2810,26 @@ When an ally dies, permanently spend a recovery and roll a d20. On a 16+, that a
 
 ---
 
+#### Ruby-Decorated Goblet
+
+Standard Action
+
+1/Day
+
+You can cast the wizard cantrip [spark](../Classes/Wizard.md#spark) at-will. When you use the daily power, spend a recovery to cast the wizard spell [fireball](../Classes/Wizard.md#fireball) at 5th level (epic: 7th level), using Wisdom or Charisma for the attack roll if you wish. Quirk: Finds fire fascinating.
+
+---
+
+#### Sapphire-Studded Goblet
+
+1/Day
+
+Spend a recovery to regain an expended daily spell or recharge spell. If it’s a recharge spell, make a recharge roll for it. If you succeed, you regain the spent recovery, and you still regain the spell if you fail.
+
+**Quirk:** Covets knowledge.
+
+---
+
 ### Epic
 
 #### Blessed Vessel
@@ -2677,6 +2839,18 @@ When an ally dies, permanently spend a recovery and roll a d20. On a 16+, that a
 Spend a recovery to draw the attention of the forces of light to you as you make a plea. Reroll an advantages roll made for a positive relationship with a deific figure.
 
 **Quirk:** Tells the truth.
+
+---
+
+#### Onyx-Covered Goblet
+
+Quick Action
+
+1/Day
+
+Spend a recovery to drop one nearby enemy that has 40 hp or fewer to 0 hp.
+
+**Quirk:** Cruel in petty ways.
 
 ---
 
@@ -2785,6 +2959,27 @@ _Recharge 6+:_ One nearby ally may use one of your Defenses (AC, MD or PD) when 
 
 ---
 
+#### Cloak of Shifting Allegiances
+
+When you attune to this cloak, and during each rest, roll a d8 twice and reroll duplicates
+
+| d8 | Damage Type |
+| --- | --- |
+| 1 | Acid |
+| 2 | Cold |
+| 3 | Fire |
+| 4 | Force |
+| 5 | Lightning |
+| 6 | Poison |
+| 7 | Psychic |
+| 8 | Thunder |
+
+The cloak grants resist damage 16+ to those damage types until your next rest.
+
+**Quirk:** Frequently changes “best friends.”
+
+---
+
 #### Cloak of the Underworld
 
 The cloth of this scratchy grey cloak matches the color of the surrounding rock, giving a +4 bonus to checks to hide whenever blending in with the surrounding stonework would be an advantage.
@@ -2831,6 +3026,20 @@ _Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die.
 | 6 | +1 to all attacks against demons
 
 **Quirk:** Goddamn smart-mouth cloak thinks it’s so smart, speaking through your mouth.
+
+---
+
+#### Dragonskein Mantle
+
+Spend a recovery to transform into a young normal-sized dragon (epic; large dragon) until the end of the battle or scene. Your defenses, hit points, ability scores, etc. remain the same; however, you can’t use any of your normal attacks, spells, powers (including other limited-use magic item powers), or any limited-use feature or talent.
+
+On the other hand, you gain flight and the two attacks listed below (with increased ability modifiers at champion and epic tier), as well as resist damage 16+ to one of the following types: acid, cold, fire, lightning, or poison. The choice of damage type is made when you attune to this item.
+
+**Claws and bite (level + highest ability modifier) vs. AC (2 attacks)—** 1d6 times level damage.
+
+**C: Dragon breath (level + highest ability modifier) vs. PD (1d3 nearby enemies in a group)—** 1d4 times level damage of the same damage type you resist while using this item’s power.
+
+**Quirk:** Desires to become a dragon.
 
 ---
 
@@ -3073,6 +3282,14 @@ _Recharge 11+:_ Use the rogue [Swashbuckle](../Classes/Rogue.md#swashbuckle) tal
 
 ---
 
+#### Thousand Rainbow-Scale Cape
+
+This cloak is embellished with tiny scales taken from all types of scaled creatures (not just the usual five dragon types but also strange purple-, gray-, yellow-, pink-, and orange-hued scales are found on this cloak). When you attune the cloak, choose one of your talents, and a talent from another class that works with your current class. After each full heal-up, determine which of these talents (including its feats) will be available to you. Once per day when you roll initiative, you can swap these talents.
+
+**Quirk:** Of two minds about things.
+
+---
+
 #### Two Worlds Cloak
 
 _Recharge 16+:_ When you teleport, you may bring one extra passenger along with you, wrapped in the voluminous folds of this purple silk cloak.
@@ -3242,6 +3459,14 @@ _Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 a
 _Recharge 11+, or 11+ after use when in natural surroundings in which bears might live:_ Reroll a missed at-will attack or basic attack and take the result you prefer.
 
 **Quirk:** Reluctant to remove gloves, making everyday tasks difficult.
+
+---
+
+#### Burning Mittens
+
+These fingerless gloves are studded with rubies. While you are grabbed (or swallowed, engulfed, etc.) by an enemy, that enemy takes twice your level in fire damage at the start of its turn. You can also cast the wizard cantrip [spark](../Classes/Wizard.md#spark) at-will as a quick action.
+
+**Quirk:** Enjoys lighting fires.
 
 ---
 
@@ -3495,7 +3720,17 @@ _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When
 
 ---
 
-#### Spell-catching Gloves
+#### Spell Gauntlets
+
+1/Day
+
+These gloves feature sapphire-encrusted metal plates. When you miss with a daily spell that has a miss effect, the spell instead has no effect and you regain it at the end of the battle.
+
+**Quirk:** Dismissive of non-magic users.
+
+---
+
+#### Spell-Catching Gloves
 
 _Recharge 11+:_ The fingertips of these elbow-length gloves are made of rare metals. When a nearby ally misses every target with a spell attack, that ally can recast the spell, using your position as the origin point and with targets of your choosing.
 
@@ -3751,6 +3986,14 @@ Your words are magically audible by any one creature you can see, as if you were
 
 ---
 
+#### Dragonskull Helm
+
+You have the awareness and ability to see your surroundings like some dragons. Gain a +2 bonus to detect invisible creatures and to see through illusions, and a +2 bonus to attacks against invisible creatures that stacks with other magic item bonuses.
+
+**Quirk:** Disgusted by filth.
+
+---
+
 #### Exquisite Mask
 
 _Recharge 6+:_ This painted mask animates and blends with your face. When you fail a Charisma skill check, reroll it and take the better result.
@@ -3890,6 +4133,14 @@ _Recharge 6+:_ When your turn starts, roll a save against one ongoing save ends 
 This ill-fitting helmet feels like it was designed for someone bigger and more imposing than the wearer. It’s also ancient beyond compare, and marked with runes whose meanings are lost in the present Age. While wearing this helm, you’re considered a representative of Justice. This gives you a +4 bonus to any Charisma skill checks when dealing with the followers of deific figures of justice, or when dealing with metallic dragons. So will other evil entities and chromatic dragons give more weight to your words.
 
 **Quirk:** Your voice is not always your own – sometimes, strange spirits speak through you.
+
+---
+
+#### Horned Crown
+
+This black crown is decorated with diamonds and pearls, and while wearing the crown you instinctively know when you are being watched. Gain a +2 bonus to detect invisible or hidden creatures, and to skill checks to avoid being ambushed.
+
+**Quirk:** Haughty.
 
 ---
 
@@ -4107,7 +4358,7 @@ _Recharge 11+:_ When a nearby enemy targets a nearby ally that has 25 hit points
 
 Quick Action
 
-_Recharge 11+:_ When two or more enemies are engaged with you, make a basic melee attack against one of those enemies that deals negative energy damage instead of any other type of damage.
+_Recharge 11+:_ When two or more enemies are engaged with you, make a basic melee attack against one of those enemies that deals necrotic damage instead of any other type of damage.
 
 **Quirk:** Has an unfocused gaze.
 
@@ -4141,7 +4392,7 @@ When an enemy targets your MD with an attack and misses, each of your allies gai
 
 #### Tarnished Silver Crown
 
-When an attack targets your MD and misses, deal negative energy damage equal to three times your level to an enemy engaged with you.
+When an attack targets your MD and misses, deal necrotic damage equal to three times your level to an enemy engaged with you.
 
 **Quirk:** Nostalgic for glories of past ages.
 
@@ -4186,6 +4437,14 @@ _Recharge 6+:_ When a nearby ally uses a quick action to command you to do somet
 When you're drunk, you don't accidentally say or do stupid things that you regret in the morning, and your head doesn't hurt so bad.
 
 **Quirk:** Not reluctant to drink excessively in public.
+
+---
+
+#### Dragontooth
+
+You can speak, read, write, and understand all draconic languages past and present. In addition, you gain a +3 bonus to skill checks to influence dragons, and a +3 bonus to attacks that target a dragon’s or draconic creature’s MD. This bonus stacks with other magic item bonuses.
+
+**Quirk:** Speaks in draconic while under stress.
 
 ---
 
@@ -4475,6 +4734,16 @@ _Recharge 6+:_ This band of aquamarine and pearls enables you to breathe water f
 
 ### Champion
 
+#### Eggshell Pendant
+
+1/Campaign
+
+The first time you die, your body disappears and you are reborn from an egg. The egg appears nearby the next time your allies start a battle, which you can join after 1d3 rounds. You can rewrite your character to be more dragon-like. For example, you could become a dragon sorcerer or of the dragonborn race or one or more of your magic items might transform into something more dragon-themed.
+
+**Quirk:** Fears abandonment.
+
+---
+
 #### Spirit Channeling
 
 _Recharge 16+:_ This potent talisman lets you call on powerful elemental spirits. To use it, you must touch a magic item whose powers are expended and so is in need of a recharge. By placing a powerful spirit in the item, you automatically recharge it and it can be used again in this battle. However, the super-charged item now permanently counts as two items rather than one for the purposes of determining how many magic items you can safely carry (but not for how many times you can use it – you’re trading a once-off recharge for a permanent downside).
@@ -4501,9 +4770,17 @@ Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 
 
 #### Astral Warlock
 
-_Recharge 11+:_ Until the end of the battle; when you hit with an attack that does negative energy or poison damage, you gain temporary hit points equal to your level.
+_Recharge 11+:_ Until the end of the battle; when you hit with an attack that does necrotic or poison damage, you gain temporary hit points equal to your level.
 
 **Quirk:** Cackles when excited.
+
+---
+
+#### Azure
+
+_Recharge 11+:_ When you reduce a nearby non-mook enemy (or the last mook of a mob) to 0 hp with an attack that deals lightning damage, teleport to the enemy’s location.
+
+**Quirk:** Fascinated with the other blue orbs.
 
 ---
 
@@ -4514,6 +4791,22 @@ Quick Action
 _Recharge 16+:_ One nearby undead creature (including you if you are undead) heals 10 hit points (champion: 20 hp; epic: 30 hp).
 
 **Quirk:** Living flesh disgusts you.
+
+---
+
+#### Caerulean
+
+_Recharge 11+:_ When you roll a natural even hit with an attack that deals lightning damage, gain flight until the end of your next turn.
+
+**Quirk:** Fascinated with the other blue orbs.
+
+---
+
+#### Cobalt
+
+_Recharge 11+:_ When you roll a natural even miss with an attack that deals lightning damage, the target and the two enemies closest to it take thunder damage equal to your level.
+
+**Quirk:** Fascinated with the other blue orbs.
 
 ---
 
@@ -4582,6 +4875,14 @@ _Recharge 11+:_ This marbled reddish-yellow sphere is always warm to the touch. 
 _Recharge 6+:_ Spend a recovery to grant temporary hit points equal to your recovery roll to a creature you control, such as a summoned creature or an animal companion.
 
 **Quirk:** Protects those under their care.
+
+---
+
+#### Sapphire
+
+_Recharge 11+ after use:_ When an enemy hits you with an attack that deals lightning damage, the enemy takes half the damage (though you still take full damage).
+
+**Quirk:** Fascinated with the other blue orbs.
 
 ---
 
@@ -4667,7 +4968,7 @@ _Recharge Special:_ This sphere is made of a polished, petrified heart. When you
 
 ---
 
-## Rings
+## Ring
 
 ### Default Bonus
 
@@ -4747,6 +5048,16 @@ _Recharge 16+ after use:_ Turn a failed skill check on its head—a roll of 1 be
 
 ---
 
+#### Darkness
+
+Move Action
+
+_Recharge 6+:_ Use the rogue’s [Shadow Walk](../Classes/Rogue.md#shadow-walk) talent as if you had automatically hit with the Mental Defense attack roll. While attuned to this ring, you are vulnerable to necrotic.
+
+**Quirk:** Tries to act mysterious.
+
+---
+
 #### Defense
 
 _Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
@@ -4768,6 +5079,18 @@ In addition to a +2 bonus to saves against confusion, this ring lets you specify
 This ring is carved with the face of a watchdog. When you are ambushed, roll a save. If you succeed, the ring growls in warming and you can take a turn during the ambush round.
 
 **Quirk:** Somnambulist (sleep-walker).
+
+---
+
+#### Fire
+
+Quick Action
+
+1/Day
+
+Made of dragonbone, this ring is always warm to the touch. Cast the wizard cantrips [light](../Classes/Wizard.md#light-standard-duration) and [spark](../Classes/Wizard.md#spark) at-will. When you use the daily power, a nearby enemy is dazed until the end of its next turn as you create a flaring burst of fire next to it.
+
+**Quirk:** Believes fire is a tool to be used.
 
 ---
 
@@ -4935,7 +5258,7 @@ _Recharge 11+:_ You can sense nearby gold, jewels, and similar wealth until the 
 
 #### Rotten
 
-You are immune to all mundane diseases and have resist poison and negative energy 16+.
+You are immune to all mundane diseases and have resist poison and necrotic 16+.
 
 **Quirk:** Loves rotted meat.
 
@@ -4999,7 +5322,7 @@ _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack rol
 
 #### Spell Vampire
 
-_Recharge 11+:_ This ring siphons magical energy from defeated enemies. When you slay a foe, name one of your magic items or recharge powers and justify how you’re recharging that item or power with that particular foe’s essence. There has to be a symbolic or narrative connection between the two – you could obviously use a defeated fire elemental to recharge your dragonic breath weapon, but how does the elemental essence charge up your stalwart cloak? You get the level of the defeated foe as a bonus to the power or item’s recharge roll.
+_Recharge 11+:_ This ring siphons magical energy from defeated enemies. When you slay a foe, name one of your magic items or recharge powers and justify how you’re recharging that item or power with that particular foe’s essence. There has to be a symbolic or narrative connection between the two – you could obviously use a defeated fire elemental to recharge your draconic breath weapon, but how does the elemental essence charge up your stalwart cloak? You get the level of the defeated foe as a bonus to the power or item’s recharge roll.
 
 **Quirk:** Terrible table manners.
 
@@ -5408,9 +5731,17 @@ When an attack targets an ally, the attack instead targets you if you were not a
 
 #### Dragonbreath
 
-_Recharge 6+:_ This dragon’shead shield allows you make a breath weapon attack as though you were a dragonic. If you are a dragonic, you an make a breath weapon attack without expending a use, though you don’t gain the benefit of any feats you spent to improve your breath weapon.
+_Recharge 6+:_ This dragon’shead shield allows you make a breath weapon attack as though you were a dragonborn. If you are a dragonborn, you an make a breath weapon attack without expending a use, though you don’t gain the benefit of any feats you spent to improve your breath weapon.
 
 **Quirk:** Likes to blow smoke rings.
+
+---
+
+#### Dragonscale
+
+When you are targeted by an attack that also targets one or more of your allies, you take only half damage from the attack, hit or miss.
+
+**Quirk:** Avoids responsibility.
 
 ---
 
@@ -5447,6 +5778,14 @@ _Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver
 _Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
 
 **Quirk:** Always uncomfortably chilly, even in the hottest conditions.
+
+---
+
+#### Fortification of the Absent
+
+This shield features intertwined white and green dragons on the front. Gain a +2 bonus to all defenses against attacks from undead and fey, and a +2 bonus to saves against effects caused by these creatures (+4 against undead elves). These bonuses stack with other magic items.
+
+**Quirk:** Hates imprisonment.
 
 ---
 
@@ -5659,6 +5998,16 @@ _Recharge 16+:_ When an enemy makes a melee attack on you, you may inflict thund
 
 ---
 
+#### Dragonhide
+
+1/Day
+
+When you first attune to this item, chose a damage type: acid, cold, fire, lightning, or poison. When you or an ally next to you are critted by an attack that deals damage of the chosen type or by an attack from a dragon, the crit is a hit instead.
+
+**Quirk:** Intimidated by enemies bigger than you (like dragons).
+
+---
+
 ## Staff (Implement)
 
 A staff counts as both a wand (arcane spells) and a symbol (divine spells). Staffs are champion or epic items only. Epic staffs don't like to be around lesser staffs, and do not abide wands.
@@ -5671,7 +6020,7 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 ### Champion
 
-#### All-terrain Staff
+#### All-terrain
 
 1/Day
 
@@ -5681,7 +6030,7 @@ When you first attune this staff, choose a type of terrain (see the druid terrai
 
 ---
 
-#### Astral Staff
+#### Astral
 
 _Recharge 16+:_ This staff is inscribed with star maps. When you teleport somewhere nearby as a move action, each negative effect on you ends.
 
@@ -5691,7 +6040,7 @@ _Recharge 16+:_ This staff is inscribed with star maps. When you teleport somewh
 
 #### Blackened Bones
 
-When you cast a spell using this staff that deals negative energy damage or that targets an undead creature, and your attack roll equals the escalation die, you score a critical hit against that target, even if the attack roll would normally miss.
+When you cast a spell using this staff that deals necrotic damage or that targets an undead creature, and your attack roll equals the escalation die, you score a critical hit against that target, even if the attack roll would normally miss.
 
 **Quirk:** Hears the whispers of the restless dead. Probably best that they can’t (often) understand them.
 
@@ -5705,7 +6054,7 @@ _Recharge 11+:_ Spend a recovery to allow a nearby ally to heal using a free rec
 
 ---
 
-#### Crystalline Staff
+#### Crystalline
 
 A staff made of a single crystal. When you make your second attack each battle using this staff, deal +4d6 damage of a random type (determined on the table below) to one of the targets of that spell (epic: +4d10 damage).
 
@@ -5726,11 +6075,27 @@ A staff made of a single crystal. When you make your second attack each battle u
 
 ---
 
-#### Diabolical Staff
+#### Destruction
+
+_Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of prodigious power, probably a lieutenant of a former Archmage. It laughs maniacally and blazes with unholy light when you activate the staff. Any creatures damaged by your attack this round that have 20 or fewer hit points remaining afterwards are instantly torn apart by the power of the staff (epic: 40 hit points or fewer).
+
+**Quirk:** Prone to acts of pointless malice.
+
+---
+
+#### Diabolical
 
 _Recharge 16+:_ You can evoke the power of the staff to gain additional attention and power from the spirits of darkness. When you roll for relationship advantages with a villainous relationship, treat a 16+ as a 20. If you don't roll a 16+, the staff recharges automatically during your next quick rest.
 
 **Quirk:** Exaggerates a chaotic or destructive trait that is already there.
+
+---
+
+#### Diffident Magician
+
+_Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
+
+**Quirk:** Doesn't like to be touched.
 
 ---
 
@@ -5744,13 +6109,21 @@ _Recharge 6+:_ Create a web across a doorway or small opening as if you cast the
 
 ---
 
-#### Dragonfire Staff
+#### Dragonfire
 
 Standard Action
 
 Recharge 11+:_ You may expend one of your spell slots (one containing either an at-will spell, or a spell that you could cast this battle, but haven’t yet used) to channel the fiery breath of Bahamut through your staff. This close-quarters attack uses your Wisdom or Charisma + Level, affects 1d3+1 nearby enemies, targets Physical Defense, and inflicts 1d8 damage per level of the spell expended (epic: d12s), plus your Wisdom or Charisma modifier. Oh, each dice of damage is both fire and radiant damage.
 
 **Quirk:** Warns people about the error of their ways, and how they had better repent or… boom…
+
+---
+
+#### Elven Fire
+
+When you teleport, one nearby enemy who you are not engaged with before or after your teleport takes damage equal to your level.
+
+**Quirk:** Thinks elves are the coolest.
 
 ---
 
@@ -5764,6 +6137,54 @@ When you drop an enemy to 0 hp with an attack using this staff, and that creatur
 
 ---
 
+#### Four Seasons
+
+You can make flexible melee attacks using this staff, with the following possible effects depending on the natural attack roll:
+
+_Natural 1–10:_ Deal 1d10 extra cold damage (epic: 2d8), and there is a short snow flurry.
+
+_Natural 11+:_ Deal 1d12 extra fire damage (epic: 2d10), and plants nearby bloom.
+
+_Natural Odd Roll:_ Gain temporary hit points equal to your level, and spring flowers grow from your hair.
+
+_Natural Even Roll:_ Pop free from each enemy engaged with you as you ride an autumn breeze. For the additional natural effects, the GM decides what happens.
+
+**Quirk:** Sky-watcher.
+
+---
+
+#### Gathering Storm
+
+1/Day
+
+When you hit with a lightning or thunder attack, you and one nearby willing ally teleport next to a different nearby ally you can see.
+
+**Quirk:** Loves watching lightning.
+
+---
+
+#### Gifts
+
+_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
+
+Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
+
+If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
+
+If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
+
+**Quirk:** A little too generous.
+
+---
+
+#### Health
+
+When you cast spells that heal or provide temporary hit points, add 4 to the total (epic: 8).
+
+**Quirk:** The diseased of nearly every population center somehow know to seek you out for healing.
+
+---
+
 #### Hod of the Builder
 
 1/Day
@@ -5774,11 +6195,55 @@ Create a small brick wall around a nearby non-flying enemy; that enemy becomes s
 
 ---
 
+#### Hungry Darkness
+
+_Recharge 16+:_ When you deal damage to an enemy with an attack made with this implement, that damage becomes ongoing acid damage (hard save ends, 16+).
+
+**Quirk:** Cruel.
+
+---
+
+#### Manipulation
+
+When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
+
+**Quirk:** Expects to be treated with respect.
+
+---
+
+#### Massacres
+
+When you cast an attack spell using this staff, you gain a +1 attack bonus with that spell if it has more than one target.
+
+**Quirk:** Obsessed with numbers and calculations.
+
+---
+
 #### Oakenheart Stave
 
 _Recharge 11+:_ Leaning on this heavy staff for a moment connects you with the living earth and the boundless regenerative energy of the trees. If you do nothing in your turn – no move actions, no attacks or standard action, no quick or free actions, not even rolling any saves – you automatically heal using a recovery.
 
 **Quirk:** You start putting down roots. Emotional ones, to begin with.
+
+---
+
+#### Prime Mover
+
+When you roll initiative, if you have the highest initiative (not including ties), the staff’s default bonus increases by +1 that battle.
+
+**Quirk:** Keeps meticulous records.
+
+---
+
+#### Prophecy
+
+_Recharge 16+:_ This ornate ivory staff is decorated with thousands of tiny letters, whose endless combinations and recombinations encapsulate every possible prophecy. You may only glimpse a fraction of the full divine insight contained in the staff, but it’s enough to give you an edge. When you activate the staff, pick three combatants – allies or enemies – and roll 1d20 for each of them. That d20 is the natural roll they’re going to make for their next attack. So, when a target of your prophecy makes an attack, they don’t need to roll the die – they just take the d20 you rolled for them and use the value shown on it.
+
+The vision only looks into the immediate future – if any of the targeted creatures don’t make an attack by the end of your next turn, discard the value you rolled for them.
+
+The staff doesn’t give you any special power to affect the future, it just gives you a brief insight into likely outcomes.
+
+**Quirk:** Speaks in riddles.
 
 ---
 
@@ -5792,7 +6257,7 @@ Cause grape-bearing vines to sprout, creating a temporary structure. The structu
 
 ---
 
-#### Sacred-Grove Staff
+#### Sacred-Grove
 
 Quick Action OR Interrupt Action against an Enemy
 
@@ -5824,7 +6289,7 @@ _Recharge 16+:_ Until the end of the battle, the crit range of one of your nearb
 
 ---
 
-#### Spellforce Staff
+#### Spellforce
 
 _Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hampered or weakened conditions afflicting you when making an arcane spell attack. The staff doesn’t get rid of the conditions – it just amps up your spell so it blasts through them.
 
@@ -5832,117 +6297,11 @@ _Recharge 16+:_ Activate this staff as a free action to ignore any dazed, hamper
 
 ---
 
-#### Staff of Destruction
-
-_Recharge 16+:_ This white-metal staff is topped with the skull of a wizard of prodigious power, probably a lieutenant of a former Archmage. It laughs maniacally and blazes with unholy light when you activate the staff. Any creatures damaged by your attack this round that have 20 or fewer hit points remaining afterwards are instantly torn apart by the power of the staff (epic: 40 hit points or fewer).
-
-**Quirk:** Prone to acts of pointless malice.
-
----
-
-#### Staff of Elven Fire
-
-When you teleport, one nearby enemy who you are not engaged with before or after your teleport takes damage equal to your level.
-
-**Quirk:** Thinks elves are the coolest.
-
----
-
-#### Staff of Gifts
-
-_Recharge 11+:_ Once per battle, you and any other spellcasters present may draw on the power of the staff before attacking with a spell. Drawing on the power of the staff adds the staff’s bonus to the attack and damage of the spell – so, if you’ve got a champion-tier staff, someone else could draw on it to add +2 to their attack and damage. Everyone capable of drawing on the staff knows what it can do – and what the consequences are, because anyone who does draw on the staff owes an archdevil a favor.
-
-Multiple spellcasters can draw on the staff in a battle, but each spellcaster can only benefit from the staff once.
-
-If you draw on your own staff, the bonus stacks with the basic bonus from the staff – so you’d get +2 from holding the staff, and another +2 on top of that when you draw on it.
-
-If anyone draws on the staff in a battle, the staff is depleted after the battle and must recharge, but it can be drawn on by any number of people in one battle.
-
-**Quirk:** A little too generous.
-
----
-
-#### Staff of Health
-
-When you cast spells that heal or provide temporary hit points, add 4 to the total (epic: 8).
-
-**Quirk:** The diseased of nearly every population center somehow know to seek you out for healing.
-
----
-
-#### Staff of Manipulation
-
-When you cast an attack spell using this staff, you gain a +1 bonus to attack and damage with that spell if it has any additional negative effect on the target(s) besides damage (including ongoing damage).
-
-**Quirk:** Expects to be treated with respect.
-
----
-
-#### Staff of Massacres
-
-When you cast an attack spell using this staff, you gain a +1 attack bonus with that spell if it has more than one target.
-
-**Quirk:** Obsessed with numbers and calculations.
-
----
-
-#### Staff of Prophecy
-
-_Recharge 16+:_ This ornate ivory staff is decorated with thousands of tiny letters, whose endless combinations and recombinations encapsulate every possible prophecy. You may only glimpse a fraction of the full divine insight contained in the staff, but it’s enough to give you an edge. When you activate the staff, pick three combatants – allies or enemies – and roll 1d20 for each of them. That d20 is the natural roll they’re going to make for their next attack. So, when a target of your prophecy makes an attack, they don’t need to roll the die – they just take the d20 you rolled for them and use the value shown on it.
-
-The vision only looks into the immediate future – if any of the targeted creatures don’t make an attack by the end of your next turn, discard the value you rolled for them.
-
-The staff doesn’t give you any special power to affect the future, it just gives you a brief insight into likely outcomes.
-
-**Quirk:** Speaks in riddles.
-
----
-
-#### Staff of Storms
+#### Storms
 
 _Recharge 11+:_ This staff is a long, thin shaft of blue metal, topped with a stylized image of a Blue Dragon. When you take lightning damage, you gain a bonus to your next attack of +1 per 10 damage suffered. So, if you’re hit for 100 damage, that’s a +10 bonus to your next attack. Yes, you can target yourself with a lightning attack to charge the staff.
 
 **Quirk:** Wild emotional swings, especially during thunderstorms.
-
----
-
-#### Staff of the Diffident Magician
-
-_Recharge 6+:_ The first time an enemy engages you, make an opportunity attack against that enemy. On a hit, you deal +2d8 damage with that attack (epic: +4d10) and daze the foe until the end of its turn, if the creature is large or smaller (epic: any size).
-
-**Quirk:** Doesn't like to be touched.
-
----
-
-#### Staff of the Four Seasons
-
-You can make flexible melee attacks using this staff, with the following possible effects depending on the natural attack roll:
-
-_Natural 1–10:_ Deal 1d10 extra cold damage (epic: 2d8), and there is a short snow flurry.
-
-_Natural 11+:_ Deal 1d12 extra fire damage (epic: 2d10), and plants nearby bloom.
-
-_Natural Odd Roll:_ Gain temporary hit points equal to your level, and spring flowers grow from your hair.
-
-_Natural Even Roll:_ Pop free from each enemy engaged with you as you ride an autumn breeze. For the additional natural effects, the GM decides what happens.
-
-**Quirk:** Sky-watcher.
-
----
-
-#### Staff of the Prime Mover
-
-When you roll initiative, if you have the highest initiative (not including ties), the staff’s default bonus increases by +1 that battle.
-
-**Quirk:** Keeps meticulous records.
-
----
-
-#### Staff of the Uncrowned King
-
-_Recharge 6+:_ When you use this power, you automatically succeed on a save against an effect created or caused by an undead enemy.
-
-**Quirk:** You see dead people…sometimes.
 
 ---
 
@@ -5956,9 +6315,17 @@ When you make an attack using this implement and you or the target are in or on 
 
 ---
 
+#### Uncrowned King
+
+_Recharge 6+:_ When you use this power, you automatically succeed on a save against an effect created or caused by an undead enemy.
+
+**Quirk:** You see dead people…sometimes.
+
+---
+
 ### Epic
 
-#### Axial Staff
+#### Axial
 
 The Axial Staff draws its power from the Imperial City it was created in, and grows in strength the closer you are to that great metropolis. The staff gives a +3 bonus to attacks and damage with spells while within 100 miles of the city, +2 within 200 miles, +1 within 400 miles, and has no effect beyond that, or when in the Overworld or Underworld. Oh, it’s a mighty +4 within Axis. You may also add the staff’s bonus to any Charisma skill checks involving invoking law or imperial authority. (For reference: It’s +3 at First Triumph, +2 in Horizon, Glitterhaegen, up in the mountains, and for about half the Kneedeep, and +1 in about another third of the Empire). The downside, beyond your staff diminishing in power the further you go from the capital, is that the Axial Staff connects your spirit to the city. Your maximum recoveries drop by 1 when you’re outside the city, by 2 within 200 miles, by 3 within 400 miles, and by 4 beyond that. If the city’s damaged, you take damage. If it’s beset by plague, you’re sickened. If there’s a famine, you starve no matter how much you eat. And if Axis falls, you die.
 
@@ -5966,13 +6333,51 @@ The Axial Staff draws its power from the Imperial City it was created in, and gr
 
 ---
 
-#### Heartwood Staff
+#### Column of Flame
+
+This staff is made from magically bound elemental fire. You gain resist fire 16+ and a +4 bonus to all defenses against attacks that deal fire damage (this defense bonus stacks with other magic items). You are also vulnerable to cold.
+
+**Quirk:** Likes to make things burn.
+
+---
+
+#### Elven Shadows
+
+_Recharge 11+:_ When you use your racial ability, one willing nearby ally can heal using a recovery, but you gain the hit points instead.
+
+**Quirk:** Insults ‘friends’ with barbed ‘compliments.’
+
+---
+
+#### Gods
+
+_Recharge 16+:_ This staff allows you to call on the gods directly when casting a spell. Either the god you name channels their power through you, or they manifest in person through the magic of the staff to deliver the spell on your behalf.
+
+You’ve got to describe the god or divine entity you’re channeling, and the GM will add on a suitable bonus effect to the spell based on the god. Say you’re casting javelin of faith at a foe, and you use this staff to invoke Thor. Maybe the clouds part and everyone sees a giant thunder god flinging a hammer at your target (adding in a juicy thunder damage hit on all enemies adjacent to the target), or everyone sees that you’re suddenly dressed in holy armor and carrying a giant warhammer (giving you the effects of hammer of faith for one round).
+
+_GMs:_ there are probably very good reasons why the gods don’t actively intercede in the world all the time. This staff is a ghastly violation of whatever divine laws exist – feel free to play merry hell with the fabric of reality every time it’s used.
+
+**Quirk:** None. You’re so awesome the gods themselves come running when you call – therefore, it’s absolutely unthinkable that so paltry an item as this one could ever affect your incredible mind. Let lesser beings have their quirks and foibles; such things are utterly beneath you!
+
+---
+
+#### Heartwood
 
 Standard Action
 
 _Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald blaze when its power is invoked, as it opens a direct connection to some primal source of druidic power. Pick a number of allies equal to the value of the escalation die and roll a d20 for each of them; on a 16+, that ally gets to take an extra standard action in their next turn. The threshold for extra actions drops to 13+ if the ally has a positive relationship with an Archdruid. You might also be able to use this staff’s wellspring of life energy to cause rapid growth of plants or animals, to change the seasons, heal a wounded forest, or otherwise meddle with the fundamental forces. You’ve got nigh-infinite life force on tap through the staff – use it wisely.
 
 **Quirk:** As you can’t target yourself with the staff, you feel old and jealous when you lend youth and vitality to others.
+
+---
+
+#### Imperium
+
+Standard action
+
+_Recharge 16+:_ The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
+
+**Quirk:** Becomes certain that they are destined to rule.
 
 ---
 
@@ -5986,7 +6391,7 @@ _Recharge 16+:_ It’s a powerful magic item, but this gaudy shaft of painted wo
 
 ---
 
-#### Spellbane Staff
+#### Spellbane
 
 Standard Action
 
@@ -5994,37 +6399,7 @@ _Recharge 11+:_ This staff was originally a simple tree-branch used as a walking
 
 ---
 
-#### Staff of Elven Shadows
-
-_Recharge 11+:_ When you use your racial ability, one willing nearby ally can heal using a recovery, but you gain the hit points instead.
-
-**Quirk:** Insults ‘friends’ with barbed ‘compliments.’
-
----
-
-#### Staff of the Gods
-
-_Recharge 16+:_ This staff allows you to call on the gods directly when casting a spell. Either the god you name channels their power through you, or they manifest in person through the magic of the staff to deliver the spell on your behalf.
-
-You’ve got to describe the god or divine entity you’re channeling, and the GM will add on a suitable bonus effect to the spell based on the god. Say you’re casting javelin of faith at a foe, and you use this staff to invoke Thor. Maybe the clouds part and everyone sees a giant thunder god flinging a hammer at your target (adding in a juicy thunder damage hit on all enemies adjacent to the target), or everyone sees that you’re suddenly dressed in holy armor and carrying a giant warhammer (giving you the effects of hammer of faith for one round).
-
-_GMs:_ there are probably very good reasons why the gods don’t actively intercede in the world all the time. This staff is a ghastly violation of whatever divine laws exist – feel free to play merry hell with the fabric of reality every time it’s used.
-
-**Quirk:** None. You’re so awesome the gods themselves come running when you call – therefore, it’s absolutely unthinkable that so paltry an item as this one could ever affect your incredible mind. Let lesser beings have their quirks and foibles; such things are utterly beneath you!
-
----
-
-#### Staff of the Imperium
-
-Standard action
-
-_Recharge 16+:_ The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
-
-**Quirk:** Becomes certain that they are destined to rule.
-
----
-
-#### Staff of Time
+#### Time
 
 1/day
 
@@ -6034,7 +6409,7 @@ The staff is a long, thin, and very durable hourglass. When you use this power, 
 
 ---
 
-#### Wrath-Staff
+#### Wrath
 
 _Recharge 6+:_ This simple staff of iron-shod wood oozes blood when activated. When you kill a foe with a spell, you may activate that staff and have any excess damage spill over to a nearby mob of mooks. The mook’s relevant Defense must be equal to or lower than that of your original target.
 
@@ -6160,6 +6535,14 @@ _Recharge 11+:_ When you cast a divine spell that affects one target with a limi
 
 ---
 
+#### Dragon Idol
+
+Add this symbol’s default bonus to breath attacks that you make (sorcerer breath attacks, draconic breath attacks, or any other breath attack). This bonus stacks with other magic items.
+
+**Quirk:** Eats unusual foods.
+
+---
+
 #### Ensign of Loyalty
 
 _Recharge 16+:_ Until the start of your next turn, you and each nearby ally gain an attack bonus against enemies engaged with an ally equal to the number of effects on the engaged ally (for example, if an ally is both stuck and hampered, you and your allies would gain a +2 bonus to attack an enemy engaged with that ally).
@@ -6191,6 +6574,22 @@ The symbol’s especially attuned to fallen player characters. If a PC died earl
 The sight of this symbol spurs those who see it to greater acts of devotion to their cause. Anyone nearby feels more devoted to their chosen faith or creed, becoming more willing to commit perilous or bloody deeds, and less willing to compromise or tolerate the ways of others.
 
 **Quirk:** Sees the hand of the gods everywhere.
+
+---
+
+#### Fire-blackened Tooth
+
+All radiant damage you deal is fire damage instead, and all radiant damage you would take becomes fire damage.
+
+**Quirk:** Points out others’ shortcomings, while ignoring their own.
+
+---
+
+#### Fivefold Burning Eye
+
+When you take a full heal-up, swap out one divine spell (cleric, druid, etc.) for an arcane spell (bard, sorcerer, wizard, etc.) of the same level. You can use Wisdom in place of Intelligence or Charisma when you cast this arcane spell, and you can cast it through this implement.
+
+**Quirk:** Unsure of the difference between arcane and divine magic.
 
 ---
 
@@ -6580,6 +6979,16 @@ _Plant:_ When you or an ally nearby the flag miss all targets with an attack, tw
 
 ---
 
+#### Sigil of Dragon Wings
+
+1/Day
+
+When you cast a daily spell, gain flight until the end of the battle.
+
+**Quirk:** Annoyed by taller people.
+
+---
+
 ## Wand (Implement)
 
 Wands are only appropriate for adventurer- and champion-level characters. For epic-level spellcasting items, get a staff.
@@ -6725,6 +7134,14 @@ _Recharge 6+:_ The magic of this wand is intended for use by sorcerers, as it st
 _Recharge 11+:_ When you attack an enemy and fail to overcome its damage resistance, the target loses that resistance and gains a vulnerability to that damage type until the end of your next turn (and typeless resistance means it’s vulnerable to all attacks).
 
 **Quirk:** Laughs at others’ misfortunes.
+
+---
+
+#### Lightning Tine
+
+_Recharge 6+:_ When you take damage from an enemy attack that has a damage type, one nearby enemy takes damage of that type equal to 1d4 times your level. If the original attack did lightning damage, increase the damage from this power to 2d6 times your level and this power automatically recharges at the end of the battle.
+
+**Quirk:** Confrontational.
 
 ---
 
@@ -7018,7 +7435,7 @@ Bow
 
 1/Battle
 
-Attacks made using this weapon deal fire damage on a natural odd roll and holy damage on a natural even roll. When you use the power, the target of an attack made using this bow takes 1d8 extra damage (champion: 2d10 extra damage; epic: 3d10 extra damage), hit or miss.
+Attacks made using this weapon deal fire damage on a natural odd roll and radiant on a natural even roll. When you use the power, the target of an attack made using this bow takes 1d8 extra damage (champion: 2d10 extra damage; epic: 3d10 extra damage), hit or miss.
 
 **Quirk:** Proud.
 
@@ -7310,6 +7727,18 @@ You always know when any nearby creature you can see (including your allies) is 
 
 ---
 
+#### Hidden Claw
+
+Melee Weapon
+
+Quick Action
+
+_Recharge 11+:_ This weapon can mystically hide, allowing you to sneak it anywhere and pull it out from behind your back or under your cloak when it is needed. During your first turn in a battle, make a melee basic attack.
+
+**Quirk:** Smirks at inopportune times.
+
+---
+
 #### Horn-handled
 
 Your crit range with this weapon expands by 2 (usually to 18+) against beasts and plants.
@@ -7392,7 +7821,7 @@ If you have attacked with this weapon this turn, allow an ally to roll a save ag
 
 ---
 
-#### Life-drinker
+#### Life-Drinker
 
 Ranged Weapon
 
@@ -7402,7 +7831,7 @@ When you drop a non-mook enemy to 0 hp with an attack using this weapon, you gai
 
 ---
 
-#### Light-drinker
+#### Light-Drinker
 
 Melee Weapon
 
@@ -7412,7 +7841,19 @@ _Recharge 11+:_ When you hit an enemy with an attack using this weapon, that ene
 
 ---
 
-#### Lightning-struck Pine
+#### Lightning
+
+Bow
+
+1/Day
+
+This bow fires bolts of lightning and needs no ammunition unless you choose to use it. Attacks made with this weapon deal lightning damage on a hit and thunder damage on a miss. When you make an attack with this bow and roll a natural even hit, turn it into a critical hit.
+
+**Quirk:** Brags about own prowess, often using bombastic catchphrases mid-battle.
+
+---
+
+#### Lightning-Struck Pine
 
 Ranged Weapon
 
@@ -7674,6 +8115,16 @@ The wielder of this bow is surrounded by a nimbus of smoke. Once per round when 
 
 ---
 
+#### Soot
+
+Bow
+
+Once per round when you attack with this bow, gain a cumulative +1 bonus to AC and PD that stacks with other magic items until the end of the battle. When you are hit by an attack, reduce the AC and PD bonus by 1 (but it can’t go below 0). When you move, the cumulative bonus is reduced to 0.
+
+**Quirk:** Starts to believe own lies.
+
+---
+
 #### Soul-Rending
 
 Ranged Weapon
@@ -7768,7 +8219,7 @@ _Recharge 6+:_ When you miss all targets with an attack made with this weapon, y
 
 Melee Weapon
 
-Attacks with this weapon deal 2d8 extra radiant damage(champion: 3d10; epic: 4d12) on a hit against undead andenemies that deal negative energy damage.
+Attacks with this weapon deal 2d8 extra radiant damage(champion: 3d10; epic: 4d12) on a hit against undead andenemies that deal necrotic damage.
 
 **Quirk:** Veneratesancestors, maybe a little too much.
 
@@ -7821,6 +8272,18 @@ Melee Weapon
 When you hit with this weapon while you are staggered, deal +1d6 damage to that enemy.
 
 **Quirk:** Quick to take offense.
+
+---
+
+#### Venomous
+
+Trident
+
+2/Day
+
+Your attacks with this weapon deal poison damage. When you score a critical hit with this weapon, the target takes 5 ongoing poison damage (champion: 10 ongoing; epic: 20 ongoing).
+
+**Quirk:** Wary of poisoned drinks.
 
 ---
 
@@ -7885,6 +8348,18 @@ Ranged Weapon
 When you make an attack with this weapon against an enemy that is invisible or otherwise hidden or obscured, you take no penalties and don’t have a 50% chance to miss.
 
 **Quirk:** Longs to see the face of the divine.
+
+---
+
+#### Dragon Lance
+
+Heavy Two-Handed Weapon
+
+Quick Action
+
+_Recharge 6+:_ Until the end of your turn, your melee attacks can target nearby enemies.
+
+**Quirk:** Fears being attacked from above and prefers high places.
 
 ---
 
@@ -7956,6 +8431,16 @@ _Recharge 11+:_ When you hit with this bow, you start to fly, carried aloft by a
 
 ---
 
+#### Pyroclastic
+
+Bow
+
+Attacks made using this bow deal fire damage on a hit and thunder damage on a miss. You can use this bow to gain a +4 bonus to checks to break or damage objects.
+
+**Quirk:** Loves breaking things.
+
+---
+
 #### Quaking Hammer
 
 This _warhammer_ +2 makes the ground shudder when you get in a good hit with it. If you hit, all nearby enemies take 1 thunder damage for every weapon damage die that rolls its highest possible result. So, if you roll 6d8 for damage, and you roll three 8s, then that’s 3 damage to every nearby foe.
@@ -8017,6 +8502,28 @@ Quick Action
 The hilt of the weapon features a tiny bell whose ringing is painful to demons. Drop a nearby demon or devil that has 20 hit points or fewer (the GM should let you know what enemies qualify).
 
 **Quirk:** Worships death.
+
+---
+
+#### Dragon Strike
+
+Melee Weapon
+
+_Recharge 11+:_ Take your standard action at the start of the round, before your turn. During your turn, you can use your move and quick actions.
+
+**Quirk:** Sheds, usually hair, maybe something else.
+
+---
+
+#### Dragon Wishbone
+
+Bow
+
+1/Campaign
+
+When you score a critical hit twice during the same day (between full heal-ups) using this bow, it shatters and disappears, and you can make a wish. The wish takes the following form: during the start of your next session.
+
+**Quirk:** Cautions others to be careful what they say, but speaks rashly themselves.
 
 ---
 
@@ -9274,7 +9781,7 @@ Quick Action
 
 Become a living shadow until the end of your next turn. While a living shadow, you can move through solid objects but not end your turn there, and you can pop free from all enemies as a move action.
 
-_Curse:_ You are vulnerable to fire and holy damage, and when you are hit by negative energy damage, you also take ongoing damage equal to half the damage of the original attack as the cloak comes to life and strangles you.
+_Curse:_ You are vulnerable to fire and radiant damage, and when you are hit by necrotic damage, you also take ongoing damage equal to half the damage of the original attack as the cloak comes to life and strangles you.
 
 **Quirk:** Sneaky.
 
