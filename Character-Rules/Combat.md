@@ -644,7 +644,7 @@ Grabbed creatures can't make opportunity attacks. That also applies if the creat
 
 Grabbed creatures can't use ranged attacks, although melee and close attacks are fine.
 
-The creature grabbing you gets a +4 attack bonus against you.
+When the creature grabbing you starts its turn it deals half the normal damage it deals damage equal to half the normal damage it deals with the attack that damaged and grabbed you. This damage is dealt in addition to the monster's normal actions and attacks.
 
 ---
 
