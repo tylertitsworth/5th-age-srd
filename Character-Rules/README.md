@@ -176,7 +176,7 @@ Each character has a number of points to allocate to a set of skills. These are 
 
 ### Assigning Skill Points
 
-Each character gets skill points at certain levels, plus any extra that your class awards. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
+Each character gets skill points based on what their class awards, some class features and talents award additional skill points. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
 
 | Level | Skill Points |
 | ----- | ------------ |
