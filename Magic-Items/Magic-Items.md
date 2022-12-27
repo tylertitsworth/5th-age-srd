@@ -177,6 +177,18 @@ When you hit with this ammunition, ignore the target’s damage resistance, and 
 
 ---
 
+#### Piercing Shot
+
+When you hit with an attack using this ammunition, until the end of the target’s next turn, it’s affected by one of the following conditions: dazed, hampered, stuck, or vulnerable as you target a specific part of its body like a hand, eyes, etc.
+
+---
+
+#### Prankster’s Arrow
+
+When you hit with an attack using this ammunition, the target is vulnerable to your next attack; and when you miss, the target takes extra psychic damage equal to your level.
+
+---
+
 #### Quickling Arrow
 
 You can attack during an ambush no matter what your initiative roll was.
@@ -192,6 +204,18 @@ Firing this magic arrow at a non-magical door will bust it wide open. Magical ba
 #### Roaring
 
 When you miss an enemy with this ammunition, deal extra thunder damage equal to twice your level.
+
+---
+
+#### Rogueshot
+
+As a quick action during the first round of battle (or surprise round), roll a d6. When the escalation die reaches that result, make a ranged basic attack using this ammunition as a free action in addition to taking your normal turn in initiative order that round.
+
+---
+
+#### Ropeshot
+
+When you hit with an attack using this ammunition, the target is stuck (save ends). Out of battle, you can use this ammunition to roll twice when making a skill check to climb, which expends the ammunition also.
 
 ---
 
@@ -373,6 +397,14 @@ _Recharge 11+ after use:_ When you roll a death save, increase this armor’s AC
 
 ---
 
+#### Breastplate of Brazen Entries
+
+_Recharge 6+:_ When you fail a skill check to force open a door, chest, or similar object, reroll the check and gain a bonus to the roll equal to this armor’s default bonus.
+
+**Quirk:** Headstrong.
+
+---
+
 #### Butterflies
 
 Quick Action
@@ -390,6 +422,14 @@ You may send the butterflies off to protect an ally. That ally gains the magical
 _Recharge 6+:_ You can blend in with your surroundings, becoming effectively invisible as long as you don’t move or attack. If a foe knows where you stopped to become invisible, your miss chance against their attacks is only 25% instead of the usual 50%.
 
 **Quirk:** Insects, when prepared correctly, add much-needed crunch to any dish. Share this culinary discovery with your friends.
+
+---
+
+#### Chemise of Dusk
+
+Gain a +2 bonus to all defenses against ranged attacks at night or while you’re underground. This stacks with other magic item bonuses.
+
+**Quirk:** Takes cat naps.
 
 ---
 
@@ -656,6 +696,16 @@ Quick Action
 _Recharge 6+:_ While staggered, shed this armor (losing its AC and default bonus until the end of the battle) to heal using a recovery.
 
 **Quirk:** Can’t tell fakes from the genuine article.
+
+---
+
+#### Nightshirt
+
+Light Armor Only
+
+This chain shirt of blackened links is as fine as silk. Increase the AC bonus of this item by 1.
+
+**Quirk:** Always looking for hidden treasure, secret doors, etc.
 
 ---
 
@@ -1093,6 +1143,16 @@ Don't increase your recoveries depending on the tier. Instead, the item gives yo
 
 ### Adventurer
 
+#### Belt of Burning Betrayals
+
+1/Day
+
+While you’re staggered, when an ally either disengages from an enemy engaged with you or uses a power that allows a different ally to use a recovery, you heal using a free recovery.
+
+**Quirk:** Keeps a list of grievances.
+
+---
+
 #### Belt of Dials
 
 By spending 1d3 + 1 rounds (or about half a minute outside combat) turning the decorative brass buckles, you can make yourself younger or older, taller or shorter, fatter or thinner, change your hair length, etc. It’s not quite as versatile as a wizard’s disguise self spell (you’ll end up looking like a distant cousin), but creatures that can see through illusions can be fooled by the physical transformations bought on by the belt. You set the duration of the change (anything from seconds to permanent change).
@@ -1132,6 +1192,16 @@ Say you want to appear to be an orc warrior so you can sneak into an orc-infeste
 The illusion lasts for ten minutes, and whatever item you place in the pouch is consumed when the duration expires.
 
 **Quirk:** Insists on elaborate systems of passwords and magic wards to defeat rival shapeshifters and doppelgangers.
+
+---
+
+#### Belt of Many Eyes
+
+1/Day
+
+When you are ambushed, take a standard action before the ambushers take their turns— essentially you are ambushing the ambush.
+
+**Quirk:** Finishes others’ sentences.
 
 ---
 
@@ -1561,6 +1631,16 @@ Reading this book gives you a connection to higher powers. When you heal using a
 
 ---
 
+#### Book of Shadowed Secrets
+
+1/Day
+
+Deciphering the hidden messages within this book (attuning it) allows the reader to learn many secrets involving locks and keys. When you fail a skill check to open a lock or disarm a trap, describe a strange way to repeat the attempt (jamming a lit candle into a keyhole, humming to disarm a trap, etc.) and reroll the skill check with a +4 bonus.
+
+**Quirk:** Repeats gossip.
+
+---
+
 #### Codebook of Nefarious Machinations
 
 Whenever your group suffers a campaign loss, you gain a temporary 1-point positive relationship with the Prince of Shadows. This positive relationship is lost once you gain some benefit from the Prince; you must then explain how your party’s defeat played into the Prince’s stratagems, and now you’re getting your payoff.
@@ -1890,6 +1970,14 @@ Disengage checks and other checks involving fancy footwork: +1 bonus (adventurer
 
 ### Adventurer
 
+#### Anklets of Adumbration
+
+_Recharge 11+:_ This jangling ankle jewelry goes quiet when you need to sneak about. Use the rogue’s shadow walk power and treat the MD attack of that power as if you hit.
+
+**Quirk:** Dislikes shoes.
+
+---
+
 #### Boots of Convenience
 
 _Recharge 11+:_ When you’re not engaged, you may choose to temporarily be nearby or far away when targets are chosen for an attack, regardless of your actual physical position on the battlefield. So, you can be nearby the cleric when she casts heal, but then snap back to far away when the evil spellcaster fireballs the area. Quirk: Whenever you visit a tavern or other gathering-place, you attract a retinue of sycophants and ne’er-do-wells who vanish whenever you might ask them a favor.
@@ -1946,14 +2034,6 @@ You have a +4 bonus to dance checks.
 
 ---
 
-#### Boots of the Roaring Pines
-
-Double this item’s default bonus to disengage checks, and apply that bonus to skill checks to navigate difficult terrain (thick mud, clinging vines, shifting rubble, etc.) as well as saves against being stuck.
-
-**Quirk:** Eager to charge into battle, into taverns, into caves . . .just a lot of running everywhere.
-
----
-
 #### Boots of Sure Feet
 
 You can walk or run normally through terrain that would usually slow one down, such as rubble, undergrowth, muck, etc. The boots don't protect you against damage or similar effects incurred from inhospitable terrain.
@@ -1975,6 +2055,22 @@ _Recharge 6+:_ When you would fall, roll a normal save. If you succeed, you avoi
 These travel-worn boots have been all over the Empire, and they remember every step. Sometimes, you’re beset by intense déjà vu, as memories from the boots leak into your mind. This only happens in places where the boots have been before. When it goes, you either get a +4 bonus to a Wisdom skill check related to navigation or finding paths, or a +4 bonus to a Dexterity check to avoid unexpected hazards that the boots have encountered before.
 
 **Quirk:** Your feet instinctively lead you towards the nearest inn.
+
+---
+
+#### Boots of the Nightmare Prince
+
+_Recharge 11+:_ When an enemy moves out of engagement with you, teleport back into engagement with that enemy after it finishes its movement.
+
+**Quirk:** Enjoys stalking others.
+
+---
+
+#### Boots of the Roaring Pines
+
+Double this item’s default bonus to disengage checks, and apply that bonus to skill checks to navigate difficult terrain (thick mud, clinging vines, shifting rubble, etc.) as well as saves against being stuck.
+
+**Quirk:** Eager to charge into battle, into taverns, into caves . . .just a lot of running everywhere.
 
 ---
 
@@ -2117,6 +2213,16 @@ Quick Action
 _Recharge 6+:_ The wearer of these deerskin moccasins is astoundingly fleet of foot. Out of combat, you can run as fast as a horse, and with similar endurance. In combat, you may activate the shoes to take a bonus move action in a round.
 
 **Quirk:** Easily startled.
+
+---
+
+#### Silken Slippers
+
+Quick Action
+
+_Recharge 16+:_ Scuttle or leap someplace nearby you would not normally be able to (across a pit, up a high wall, etc.). This power is not teleportation, so you can’t pass through solid objects and you still could suffer opportunity attacks if you don’t disengage.
+
+**Quirk:** Loves spiders.
 
 ---
 
@@ -2330,6 +2436,14 @@ When you roll a natural 1 with an unarmed attack, you can lose hit points equal 
 
 ---
 
+#### Climbing Claws of the Panther
+
+Gain a +4 bonus to skill checks to climb.
+
+**Quirk:** Fastidious.
+
+---
+
 #### Claws of the Demon
 
 These leather hand-wraps are made from hide taken from a demon’s arms. You can spend a point of ki to gain a +4 bonus to a physical skill check.
@@ -2375,6 +2489,16 @@ _Recharge 16+:_ Until the end of the battle, your attacks deal radiant damage, a
 _Recharge 11+:_ When you score a critical hit with an unarmed strike, you can instead deal the damage from that attack as ongoing poison damage (hard save ends, 16+).
 
 **Quirk:** Betrayer of trust.
+
+---
+
+#### Shadow-strike Bracers
+
+2/Day but 1/Battle
+
+Attacks made using these bracers deal negative energy damage. When you make an attack using these bracers, target an enemy’s PD instead of AC.
+
+**Quirk:** Practices fighting blindfold.
 
 ---
 
@@ -2607,6 +2731,16 @@ When you fight in spirit, your allies gain a +1 bonus to all defenses and saves 
 
 ---
 
+#### Capering Cape
+
+1/Battle
+
+This embroidered cape swishes dramatically when you move. When an enemy disengages from you, take a move action but you can’t re-engage that enemy.
+
+**Quirk:** Dances at odd moments.
+
+---
+
 #### Cloak of Anonymity
 
 While wearing this cloak, you blend in with crowds. People ignore you, and overlook anything else that’s strange about you. You could be a ten-foot-tall fanged demon who constantly weeps poison, and no-one would look twice when you walked past them in the marketplace. The cloak’s magic can’t hide you if you do something out of the ordinary. If someone is specifically looking for you, you get a +4 bonus to checks to hide in the crowds.
@@ -2757,6 +2891,17 @@ This scarlet cloak won’t let you unknowingly walk into danger. When you fall f
 _Recharge 6+:_ Negates 15 points of necrotic damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
 
 **Quirk:** Innocent and unworldly.
+
+---
+
+#### Mantle of Gloom
+
+Quick Action
+
+1/Round
+
+With a swish of this black silk cape you can extinguish a nearby or far away nonmagical light source (blowing out a lantern or torch, slamming window shutters closed, dimming a magical light, etc.). Another swish relights a torch, opens shutters, etc.
+**Quirk:** Makes dramatic entrances.
 
 ---
 
@@ -2917,6 +3062,14 @@ _Recharge 16+:_ When an attack against your Physical Defense hits, make the atta
 _Recharge 6+:_ For the rest of this battle, or until you are hit by an attack that targets AC, your cloak’s bonus applies to your AC as well as your PD.
 
 **Quirk:** You move as though carrying a heavy weight.
+
+---
+
+#### Swirling Cloak of the Swashbuckler
+
+_Recharge 11+:_ Use the rogue [Swashbuckle](../Classes/Rogue.md#swashbuckle) talent without spending momentum.
+
+**Quirk:** Laughs at danger. Literally.
 
 ---
 
@@ -3384,6 +3537,14 @@ You gain a +2 bonus to skill checks to intimidate others.
 
 ---
 
+#### White Gloves of the Phantom
+
+These monogramed gloves originally belonged to a master thief. Gain a +4 bonus to skill checks involving manual dexterity.
+
+**Quirk:** Leaves clues at the scene of crimes committed.
+
+---
+
 ### Champion
 
 #### Black-iron Gauntlets
@@ -3526,6 +3687,14 @@ _Recharge 16+:_ Increase your Initiative by 4.
 
 ---
 
+#### Commoner’s Crown
+
+_Recharge 11+:_ This cracked and tarnished crown looks like it was once mighty, but it still holds a trick or two. Swap places with one random nearby creature that is not engaged with or next to an enemy, or that is someplace unsafe (in the air if you can’t fly, for example).
+
+**Quirk:** Antiestablishmentarian.
+
+---
+
 #### Coronet of Certamen
 
 Quick Action
@@ -3561,6 +3730,16 @@ When you roll a natural even hit with an attack that targets MD, deal +1d4 cold 
 _Recharge 6+:_ You command a normally inanimate object with moving parts to fulfil its function (i.e., locks lock and unlock, clasps clasp and unclasp, doors open and close, crossbows fire, lanterns douse and light, etc.).
 
 **Quirk:** Expects obedience.
+
+---
+
+#### Diadem of Disguises
+
+1/Day
+
+Cast the ritual [change self](../Character-Rules/Rituals.md#change-self) without expending ritual components; OR when an enemy targets you with an attack, briefly change your appearance as an interrupt action to make that enemy target one of its allies engaged with you.
+
+**Quirk:** Not satisfied with appearance, no matter how often it changes.
 
 ---
 
@@ -3785,6 +3964,18 @@ You can banter with a lively wit. If you already have a lively wit, it doesn't m
 The MD bonus from this helmet is doubled against attacks from demons.
 
 **Quirk:** Fastidious about personal cleanliness.
+
+---
+
+#### Spectra Spectacles
+
+Quick Action
+
+1/Day
+
+Learn the defenses, HP, vulnerabilities, and resistances of a nearby creature; OR learn the bonuses and power(s) of a nearby magic item, but not its quirks or curses.
+
+**Quirk:** Rubs eyes often.
 
 ---
 
@@ -4018,6 +4209,14 @@ While wearing this subtle diamond stud, your attention is magically drawn to any
 
 ---
 
+#### Last Legs
+
+You gain a +1 bonus to saves whenever you have one or fewer recoveries left (champion: two or fewer, epic: three or fewer).
+
+**Quirk:** Loves long-shot bets.
+
+---
+
 #### Leadfeather Pendant
 
 You take only half damage from falling.
@@ -4026,19 +4225,19 @@ You take only half damage from falling.
 
 ---
 
+#### Lens of Discovery
+
+_Recharge 11+:_ This lens lets you peer back in time. Roll a hard skill check. If you succeed, learn about something relevant to the adventure or campaign that happened at your location.
+
+**Quirk:** Aficionado of oddities.
+
+---
+
 #### Lodestone Pendant
 
 _Recharge 11+:_ You always know exactly where you are (depth, direction, and distance to places that you know, etc.) until the end of the battle or scene.
 
 **Quirk:** Fear of becoming lost.
-
----
-
-#### Last Legs
-
-You gain a +1 bonus to saves whenever you have one or fewer recoveries left (champion: two or fewer, epic: three or fewer).
-
-**Quirk:** Loves long-shot bets.
 
 ---
 
@@ -4494,6 +4693,16 @@ _Recharge 11+:_ Any documents sealed with this signet ring are mystically imprin
 
 ---
 
+#### Blind Seer
+
+1/Day
+
+Cast the bard spell [befuddle](../Classes/Bard.md#befuddle) at your level using your best ability score against an enemy you have already attacked this battle.
+
+**Quirk:** Blurts out secrets.
+
+---
+
 #### Bloody Swathe
 
 Quick Action
@@ -4770,6 +4979,16 @@ _Recharge 6+:_ This ring was owned by a famously unpopular tax collector. As a m
 
 ---
 
+#### Sincerity
+
+1/Day
+
+When you attempt to influence a creature (through a skill check, using a charm person spell, etc.), roll twice and take the better result.
+
+**Quirk:** Affectionate.
+
+---
+
 #### Skin of Your Teeth
 
 _Recharge 6+:_ When an enemy attacks you, subtract 1 from the natural attack roll after seeing it.
@@ -4917,6 +5136,16 @@ Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 
 
 ### Adventurer
 
+#### Cane of Night-kissed Cobbles
+
+1/Day
+
+Over the course of a battle or scene, magically rearrange the layout of streets, tunnels, or dungeon corridors to suit your needs. When you use this power, spend a recovery and roll a skill check. The greater the success, the more the new layout will favor whatever you have planned (GM, there should be some changes even with a poor roll; favor the player here). The layout returns to its previous form at the end of the battle or scene (probably).
+
+**Quirk:** Has wanderlust.
+
+---
+
 #### Darkheart Scepter
 
 _Recharge 6+:_ This scepter summons a harmless magical humanoid who faithfully serves you until the end of the battle or for about 5 minutes. The servant makes all skill checks using 10 plus your level (so at 1st level, skill checks made by your servant are d20 + 11, and at 10th level they are d20 + 20). The servant is imprisoned by the magic of the scepter, so perhaps ‘servant’ isn’t exactly the correct word.
@@ -4930,6 +5159,14 @@ _Recharge 6+:_ This scepter summons a harmless magical humanoid who faithfully s
 1/Level
 
 Cast one of the following wizard spells against a target that is a dragon or draconic creature: [charm person](../Classes/Wizard.md#charm-person), [hold monster](../Classes/Wizard.md#hold-monster), or [sleep](../Classes/Wizard.md#sleep). You cast the chosen spell at your level using your best ability for the attack roll, except you double the hp threshold (champion: triple the hp threshold; epic: quadruple the hp threshold). On a miss, regain this power after your next full heal-up in addition to any normal miss effects that are part of the spell. Quirk: Enjoys the company of dragons.
+
+---
+
+#### Jester’s Stick
+
+_Recharge 11+:_ When you use this power, each time you miss with your first attack roll during a round, your crit range expands by 1 (cumulative) until you score a critical hit or until the end of the battle.
+
+**Quirk:** Mocks others.
 
 ---
 
@@ -4984,6 +5221,26 @@ _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You ca
 Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll (champion: 5th level; epic: 9th level). In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp; epic: 266 hp), targeting creatures with the lowest hit points first.
 
 **Quirk:** Bossy.
+
+---
+
+#### Shadows
+
+1/Battle
+
+When you hit an enemy with a spell cast through this implement, a nearby ally gains a +1 bonus to attacks against that enemy until the end of the battle.
+
+**Quirk:** Absent-minded.
+
+---
+
+#### Shaft of Darkness
+
+Quick Action
+
+This implement creates a beam of darkness and shadow. Cast the wizard cantrip [ghost sound](../Classes/Wizard.md#ghost-sound), except using shadows instead of noise.
+
+**Quirk:** Prankster.
 
 ---
 
@@ -5253,6 +5510,16 @@ Looking in the polished surface of this shield shows your heart’s desire. When
 
 ---
 
+#### Obscuration
+
+1/Day
+
+While you are hiding with allies close by, this shield produces a magical glamor to help. When you and one or more allies next to you roll skill checks to sneak or hide, each ally uses the highest result.
+
+**Quirk:** Tries to make friends with everybody they meet.
+
+---
+
 #### Peace
 
 In combat, regain hit points equal to the value of the escalation die at the start of every round (champion: twice the escalation die’s value; epic: three times the value). This stops as soon as you make an attack or otherwise inflict any damage on an enemy.
@@ -5301,6 +5568,18 @@ the crevices.
 When an attack reduces you to 0 or less hit points, you may activate the shield and immediately roll your Constitution + Level against the enemy’s corresponding Defense to the one of yours targeted by the killing attack (for example, if you were brought down by an attack targeting MD, your retributive strike also targets the enemy’s MD). If you hit, you deal exactly half as much damage (rounding up) to the enemy as the enemy did just did to you.
 
 **Quirk:** Live each day as if it’s your last. After a few weeks, the bearer of the shield rapidly comes to resemble the shield’s haggard, run-down appearance.
+
+---
+
+#### Silver Rose
+
+Interrupt Action
+
+1/Battle
+
+When an enemy engaged with you targets you with an attack, a willing ally that’s also engaged with that enemy and not targeted by its attack can become the target of the attack before the attack roll instead of you.
+
+**Quirk:** Vain.
 
 ---
 
@@ -6065,6 +6344,16 @@ _Recharge 16+:_ When you roll a death save or last gasp save, you regain an expe
 
 ---
 
+#### Onyx Symbol
+
+1/Day
+
+When you miss every target with a daily spell cast through this symbol, you instead hit every target, and a random ally that casts spells (including you) loses their next standard action and expends (without effect) a random daily spell of at least the same level as the triggering spell.
+
+**Quirk:** Values privacy.
+
+---
+
 #### Peerless Piety
 
 You have a fraudulent aura of religious piety and devotion to the Gods of Light. Everyone you know instinctively assumes that you are an unusually devout and moral individual – perhaps even a little too devout. This illusion is not foolproof – if confronted with undeniable evidence of any failings or misdeeds on your part, those who believed in you will lose faith – but it does mean that you’ll get the benefit of the doubt in most situations.
@@ -6142,6 +6431,16 @@ Quick Action
 _Recharge 11+:_ For the rest of the battle, all your attacks deal 5 extra damage (champion: 10 extra damage) when targeting mooks.
 
 **Quirk:** Callous.
+
+---
+
+#### Sigil of the Magpie
+
+1/Day
+
+When an ally misses every target with a daily attack that targets more than one enemy, after this battle and until your next full heal-up, you can repeat the attack against a single target as if your ally was the one attacking.
+
+**Quirk:** Likes shiny things.
 
 ---
 
@@ -7103,6 +7402,16 @@ When you drop a non-mook enemy to 0 hp with an attack using this weapon, you gai
 
 ---
 
+#### Light-drinker
+
+Melee Weapon
+
+_Recharge 11+:_ When you hit an enemy with an attack using this weapon, that enemy is vulnerable to your attacks until the end of the battle.
+
+**Quirk:** Has a sinister laugh.
+
+---
+
 #### Lightning-struck Pine
 
 Ranged Weapon
@@ -7156,6 +7465,16 @@ Melee Weapon
 Your crit range with this weapon expands by 2 (usually to 18+) against constructs, and you gain a +2 bonus to skill checks to damage inanimate objects.
 
 **Quirk:** Tactless about others’ mortality.
+
+---
+
+#### Nightfall
+
+Hammer
+
+_Recharge 16+:_ When you hit with an attack using this weapon, teleport the target to someplace nearby. This movement can’t harm the target.
+
+**Quirk:** Makes midbattle puns.
 
 ---
 
@@ -7311,6 +7630,18 @@ _Recharge 6+:_ When you score a critical hit with this weapon, 1d3 nearby enemie
 
 ---
 
+#### Shadow
+
+Blade
+
+1/Day
+
+Cut a shadowy doorway into a nonmagical wall or other barrier of similar size (so no tunneling through mountains). The doorway lasts until the end of the battle or scene.
+
+**Quirk:** Dislikes light.
+
+---
+
 #### Shadow-lash
 
 One Handed Melee Weapon
@@ -7330,6 +7661,16 @@ Ranged Weapon
 When you hit with an attack using this weapon, the target takes no damage and you and your allies gain a +4 bonus to attacks against the target until the end of your next turn.
 
 **Quirk:** Hoarder.
+
+---
+
+#### Smoke
+
+Bow
+
+The wielder of this bow is surrounded by a nimbus of smoke. Once per round when you miss with this weapon, gain a cumulative +1 bonus to all defenses until you hit with an attack or until the end of the battle. This bonus stacks with other magic items.
+
+**Quirk:** Burns incense.
 
 ---
 
@@ -7483,6 +7824,18 @@ When you hit with this weapon while you are staggered, deal +1d6 damage to that 
 
 ---
 
+#### Wintersmith
+
+Bow
+
+1/Day
+
+Attacks made using this bow deal cold damage. When the escalation die is 3+ and you hit an enemy with an attack with this bow, that enemy takes a –4 penalty to all defenses (hard save ends, 16+).
+
+**Quirk:** Loves winter nights.
+
+---
+
 #### Woad-warrior
 
 Ranged Weapon
@@ -7502,6 +7855,16 @@ The natural attack roll of a ranged attack made with this weapon triggers a flex
 _Recharge 16+:_ When you slay a demon with this weapon, you steal that demon’s random ability and get to use it yourself for the rest of the battle.
 
 **Quirk:** The “quirk” is that there’s a demon spirit temporarily residing in your weapon. Lose control, and the demon’s back in the saddle of your brain.
+
+---
+
+#### Dancing
+
+Blade
+
+_Recharge 11+:_ This blade jumps out of your grip to strike your enemies at odd moments. When you roll initiative, note your natural roll (or rolls). Until the end of the battle, when a nearby enemy makes a natural attack roll that matches your natural initiative roll, make a melee basic attack against that enemy as a free action.
+
+**Quirk:** Sings.
 
 ---
 
@@ -7570,6 +7933,16 @@ One-handed Blunt 1d6 Melee Weapon
 _Recharge 16+:_ When you roll a natural even hit with this weapon and have more hit points than the target, that creature is also stunned until the end of its next turn.
 
 **Quirk:** Warns of impending doom.
+
+---
+
+#### Moonlight Steps
+
+Bow
+
+_Recharge 11+:_ When you attack with this weapon and miss, one nearby ally can teleport next to, and become engaged with, the target.
+
+**Quirk:** Has odd bathing habits.
 
 ---
 
@@ -8068,6 +8441,16 @@ While this pearl is on your person, you can use an action to speak its command w
 
 ---
 
+#### Perfect Disguise
+
+There are many perfect disguises, but each perfect disguise is a different item of clothing or jewelry. When you wear the item, you physically change to look like whatever the disguise is designed to be—a priest’s smock might transform you into a priest, a courtier’s elaborate wig will change you into a noble of the court— and you gain a +10 bonus to all skill checks to pass as that person. The disguise alters the rest of your clothing and equipment, overlaying illusions over those things it can’t transform. You even gain some familiarity with the customs and mannerisms to aid in the masquerade: transformed into a priest, you’ll speak like a priest and can instinctively perform simple religious ceremonies or quote scriptures; the disguise of a courtier would give you the manners and feeling for politics needed to get through a day at court.
+
+One downside is that each disguise is fixed—whoever dons the courtier disguise will be the same courtier, so if a disguise is associated with a crime or is a known persona, then by donning the disguise you might end up being blamed for the crimes of previous owners. The second downside is that the disguise grants enough borrowed knowledge to get through cursory interactions but not true knowledge (a disguise that turns you into a blacksmith gives you enough ‘smith-ness’ to bluff your way as a smith among smiths at the local tavern, but you won’t be able to forge a nail).
+
+**Quirk:** Prefers the disguise’s fake persona to their own.
+
+---
+
 #### Roaring-Bear Back Tattoo
 
 When you take thunder damage from an enemy attack, the next enemy you target with an attack this battle takes extra thunder damage equal to half of the thunder damage you suffered, hit or miss.
@@ -8085,6 +8468,14 @@ You don’t take miss damage while engaged with two or more enemies.
 ---
 
 #### [Rope of Climbing](http://dnd5e.wikidot.com/wondrous-items:rope-of-climbing)
+
+---
+
+#### Sack of Looting
+
+This bag is bigger on the inside (sleeping-bag size) than on the outside (a small drawstring pouch). Anything put in the bag that can fit into a sleeping-bag-size opening, up to about 80 pounds of material, isn’t apparent and weighs nothing while inside. Each bag is different: one might be made of black silk, another of pink beads, and another of soft tan leather.
+
+**Quirk:** Can’t leave anything behind.
 
 ---
 
@@ -8765,7 +9156,9 @@ Players will often find cursed items such as these when approaching a Shadow Dra
 
 ##### Backbiter Bolt
 
-When you hit with a natural even attack roll with this ammunition, it’s a critical hit instead. Curse: When you miss with a natural even attack roll using this ammunition, the attack hits you instead (in the back!).
+When you hit with a natural even attack roll with this ammunition, it’s a critical hit instead.
+
+_Curse:_ When you miss with a natural even attack roll using this ammunition, the attack hits you instead (in the back!).
 
 ---
 
@@ -8789,7 +9182,9 @@ _Always:_ +2 AC (adventurer). In addition, when you miss with an attack and the 
 
 2/Battle, or every five minutes
 
-Reduce an enemy’s d20 roll (attack, save, skill check, etc.) by 1 if it would turn a success into a failure. Curse: When an enemy scores a critical hit against you, the next attack against you is also a crit.
+Reduce an enemy’s d20 roll (attack, save, skill check, etc.) by 1 if it would turn a success into a failure.
+
+_Curse:_ When an enemy scores a critical hit against you, the next attack against you is also a crit.
 
 **Quirk:** Dreads dying . . . or rather what happens after death.
 
@@ -8799,7 +9194,9 @@ Reduce an enemy’s d20 roll (attack, save, skill check, etc.) by 1 if it would 
 
 Heavy Armor Only
 
-When an enemy with the demon, devil, or undead type hits you with an attack, you gain a ‘pain point.’ As a free action, you can give any number of pain points to allies next to you (and they feel pain) but an ally can’t have more pain points than the value of the escalation die. As a free action after rolling save, you or an ally can spend any number of pain points to gain a +1 bonus to that save for each point spent. Curse: You are vulnerable to attacks by demons, devils, and the undead . . . and they know it.
+When an enemy with the demon, devil, or undead type hits you with an attack, you gain a ‘pain point.’ As a free action, you can give any number of pain points to allies next to you (and they feel pain) but an ally can’t have more pain points than the value of the escalation die. As a free action after rolling save, you or an ally can spend any number of pain points to gain a +1 bonus to that save for each point spent.
+
+_Curse:_ You are vulnerable to attacks by demons, devils, and the undead . . . and they know it.
 
 **Quirk:** Dresses flamboyantly.
 
@@ -8809,7 +9206,9 @@ When an enemy with the demon, devil, or undead type hits you with an attack, you
 
 Heavy Armor Only
 
-You gain a cumulative +1 bonus to AC and PD each time you are hit with a fire attack. The bonus ends at the end of your turn if you have not been hit with a fire attack since the end of your previous turn. Curse: When you take cold damage, you take a cumulative –1 penalty to all defenses, saves, and skill checks until the end of the battle.
+You gain a cumulative +1 bonus to AC and PD each time you are hit with a fire attack. The bonus ends at the end of your turn if you have not been hit with a fire attack since the end of your previous turn.
+
+_Curse:_ When you take cold damage, you take a cumulative –1 penalty to all defenses, saves, and skill checks until the end of the battle.
 
 **Quirk:** Never warm enough.
 
@@ -8833,7 +9232,9 @@ _Always:_ Increase your total recoveries by one, but your gender is switched. Re
 
 ##### Killer’s Almanac
 
-_Recharge 6+:_ When you hit a staggered enemy, you score a critical hit instead. Curse: The next time one of your allies is hit, that ally must roll a save. If they fail, the hit becomes a crit.
+_Recharge 6+:_ When you hit a staggered enemy, you score a critical hit instead.
+
+_Curse:_ The next time one of your allies is hit, that ally must roll a save. If they fail, the hit becomes a crit.
 
 **Quirk:** Eager to add new entries to the book.
 
@@ -8859,6 +9260,26 @@ _Always:_ The shoes force you to dance whenever you hear music (even off-key whi
 
 ---
 
+#### Cloak, Mantle, Cape
+
+#### Default Bonus
+
+Physical defense: +2 PD (adventurer); +3 PD (champion); +5 PD (epic).
+
+##### Cloak of Shadow
+
+Quick Action
+
+1/Day
+
+Become a living shadow until the end of your next turn. While a living shadow, you can move through solid objects but not end your turn there, and you can pop free from all enemies as a move action.
+
+_Curse:_ You are vulnerable to fire and holy damage, and when you are hit by negative energy damage, you also take ongoing damage equal to half the damage of the original attack as the cloak comes to life and strangles you.
+
+**Quirk:** Sneaky.
+
+---
+
 #### Helmet, Crown, Diadem, Circlet
 
 ##### Default Bonus
@@ -8869,7 +9290,9 @@ Mental Defense: +2 (adventurer); +3 (champion); +5 (epic).
 
 1/Day
 
-You rally as a quick action, and the recovery you spend is free. Curse: While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s daily power, etc.
+You rally as a quick action, and the recovery you spend is free.
+
+_Curse:_ While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s daily power, etc.
 
 **Quirk:** Speaks in simplistic, crowd-pleasing banter and refers to self in the third person (“Can you taste what The Boulder is brewing?” or “Thuug smash little man!”).
 
@@ -8880,6 +9303,18 @@ You rally as a quick action, and the recovery you spend is free. Curse: While in
 Green conical hat.
 
 _Always:_ Each time you cast a spell outside of combat or a spell is cast near you, it has some side effect (GM's choice) that inconveniences you. _Recharge 6+:_ As a move action you pull out an item from the hat. Roll a d6 to see what you get: 1–2: You get a useless or disgusting item. 3–6: You pull a useful non-magical item that grants a +d6 bonus to your next skill check until the end of your next turn.
+
+---
+
+#### Ring
+
+##### Dark-Iron
+
+_Recharge 11+:_ Extend your reach through solid objects until the end of your next turn. You can use this power to attack a target’s PD instead of AC, or remove an object from inside a trapped chest or from behind a locked door, for example.
+
+_Curse:_ When you attack and roll a natural 1, you phase into the floor, ground, or a nearby object and are stuck and dazed until the end of your next turn.
+
+**Quirk:** Paranoid about losing things: memories, friends, items, their way, etc.
 
 ---
 
@@ -8911,7 +9346,9 @@ When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic:
 
 One-Handed
 
-When you roll a critical hit with this weapon, deal 2d4 extra fire damage after the crit damage has been rolled (champion: extra 6d4 damage; epic: extra 10d4 damage). Curse: When you roll a natural 1 or a critical hit against an enemy that resists fire with this weapon, you take double the extra fire damage instead of applying it to the target.
+When you roll a critical hit with this weapon, deal 2d4 extra fire damage after the crit damage has been rolled (champion: extra 6d4 damage; epic: extra 10d4 damage).
+
+_Curse:_ When you roll a natural 1 or a critical hit against an enemy that resists fire with this weapon, you take double the extra fire damage instead of applying it to the target.
 
 **Quirk:** Pyrophobia.
 
@@ -8919,7 +9356,9 @@ When you roll a critical hit with this weapon, deal 2d4 extra fire damage after 
 
 ##### Hammer of Cursing
 
-When your attack roll is equal to the escalation die value, make a basic attack with a +2 attack bonus as a free action. Curse: When you roll a natural 1 on an attack with this weapon, the attack hits you or an ally next to you instead (your choice).
+When your attack roll is equal to the escalation die value, make a basic attack with a +2 attack bonus as a free action.
+
+_Curse:_ When you roll a natural 1 on an attack with this weapon, the attack hits you or an ally next to you instead (your choice).
 
 **Quirk:** Clumsy.
 
@@ -8927,15 +9366,31 @@ When your attack roll is equal to the escalation die value, make a basic attack 
 
 ##### Hellforged
 
-Each battle while staggered, when you first take damage that has a type (acid, cold, fire, etc.), you deal +1d6 damage of that type with weapon attacks for the rest of the battle (champion: +2d6; epic: +3d6). Curse: When you roll a natural 1 (on any d20 roll), you take double the weapon’s extra damage.
+Each battle while staggered, when you first take damage that has a type (acid, cold, fire, etc.), you deal +1d6 damage of that type with weapon attacks for the rest of the battle (champion: +2d6; epic: +3d6).
+
+_Curse:_ When you roll a natural 1 (on any d20 roll), you take double the weapon’s extra damage.
 
 **Quirk:** The grass is always greener.
 
 ---
 
+##### Phase
+
+Bow
+
+_Recharge 11+:_ You can target an enemy you can’t see but that you know is in the battle, without taking any penalties.
+
+_Curse:_ If you roll a natural 1 or 2 when attacking with this bow, the attack automatically hits one of your allies (including you) closest to the target.
+
+**Quirk:** Covets worthless trinkets.
+
+---
+
 ##### Soul-drinking
 
-_Recharge 11+:_ The first time each battle you hit with an attack using this weapon, you gain 1d10 + 2 temporary hit points (champion: 2d10 + 2; epic: 4d10 + 2). Curse: The first time each battle each of your allies heals using a recovery, that ally heals 8 fewer hit points (champion: 13 hp; epic: 24 hp).
+_Recharge 11+:_ The first time each battle you hit with an attack using this weapon, you gain 1d10 + 2 temporary hit points (champion: 2d10 + 2; epic: 4d10 + 2).
+
+_Curse:_ The first time each battle each of your allies heals using a recovery, that ally heals 8 fewer hit points (champion: 13 hp; epic: 24 hp).
 
 **Quirk:** Very pale complexion.
 
@@ -8953,7 +9408,9 @@ If you don't make a melee attack with this weapon during your turn, it shuts dow
 
 1/Day
 
-When you drop an enemy to 0 hp, until the end of the battle your movements and attacks create music. While you are creating this cursed dirge, an enemy that starts its turn engaged with you takes thunder damage equal to your level, and your attacks that target AC target PD and deal thunder damage instead. Curse: When you miss with an attack while the dirge effect is active, you and each ally engaged with the target take thunder damage equal to your level.
+When you drop an enemy to 0 hp, until the end of the battle your movements and attacks create music. While you are creating this cursed dirge, an enemy that starts its turn engaged with you takes thunder damage equal to your level, and your attacks that target AC target PD and deal thunder damage instead.
+
+_Curse:_ When you miss with an attack while the dirge effect is active, you and each ally engaged with the target take thunder damage equal to your level.
 
 **Quirk:** Has trouble staying quiet.
 
@@ -8981,7 +9438,9 @@ Wondrous Item
 
 1/Day
 
-Your body swells in places and a bunch of tiny orc-things pop forth from you at the start of your next turn as if you had cast the necromancer spell summon undead (13TW, page 86) at your level, except the orcs are humanoids instead of undead. You also gain a +4 bonus to any social skill checks involving orcs and related creatures (like half-orcs, goblins, ogres, etc.). Curse: When an enemy scores a critical hit against you, the curse’s power activates even if it’s expended and it doesn’t count as the daily use of the power, but the orc-things you spawn are hostile and attack your allies—and you if you try to stop them.
+Your body swells in places and a bunch of tiny orc-things pop forth from you at the start of your next turn as if you had cast the necromancer spell summon undead (13TW, page 86) at your level, except the orcs are humanoids instead of undead. You also gain a +4 bonus to any social skill checks involving orcs and related creatures (like half-orcs, goblins, ogres, etc.).
+
+_Curse:_ When an enemy scores a critical hit against you, the curse’s power activates even if it’s expended and it doesn’t count as the daily use of the power, but the orc-things you spawn are hostile and attack your allies—and you if you try to stop them.
 
 **Quirk:** When you would run into derro, kobolds, troglodytes, or other humanoid monsters, you tend to run into orcs.
 
@@ -9001,7 +9460,9 @@ _Always:_ You can't move faster than the chest, and the chest is slow. You trave
 
 1/Day
 
-This talking skull gives advice, most of it good. Use the power during a short rest; you gain one of your expended daily spells of your level or lower. Curse: The skull knows a lot of obscure facts and longforgotten lore, and gives very good advice—until it sees its chance to betray you to further its own goals.
+This talking skull gives advice, most of it good. Use the power during a short rest; you gain one of your expended daily spells of your level or lower.
+
+_Curse:_ The skull knows a lot of obscure facts and longforgotten lore, and gives very good advice—until it sees its chance to betray you to further its own goals.
 
 **Quirk:** Ancient wisdom is better than common sense.
 
@@ -9139,7 +9600,9 @@ You deal +5 damage with missed attacks, but all of your defenses take a –3 pen
 
 1/day
 
-When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items. Curse: While using the Eye’s daily power, the Lich King knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
+When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
+
+_Curse:_ While using the Eye’s daily power, the Lich King knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
 
 **Quirk:** Desires to seek out and attune to the hand.
 
@@ -9149,6 +9612,8 @@ When placed in your empty eye socket, this undead eye allows you to see what oth
 
 1/Day
 
-When placed upon an arm-stump, the withered hand grafts itself on. Make a basic attack or at-will attack against a target with fewer hit points than you (you’re aware of which enemies are), targeting PD if your attack would normally target AC. If you hit with the attack, it’s a critical hit. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items. Curse: After you use the Hand’s daily power, the Lich King takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
+When placed upon an arm-stump, the withered hand grafts itself on. Make a basic attack or at-will attack against a target with fewer hit points than you (you’re aware of which enemies are), targeting PD if your attack would normally target AC. If you hit with the attack, it’s a critical hit. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
+
+_Curse:_ After you use the Hand’s daily power, the Lich King takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
 
 **Quirk:** Desires to seek out and attune to the eye.
