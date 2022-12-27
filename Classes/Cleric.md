@@ -66,8 +66,9 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 14 + middle mod of Con/Dex/Wis + Level |
 | **Armor Class (shield and heavy armor)** | 15 + middle mod of Con/Dex/Wis + Level |

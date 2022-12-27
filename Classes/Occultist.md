@@ -68,8 +68,9 @@ The occultist start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
