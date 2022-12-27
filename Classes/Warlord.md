@@ -64,8 +64,9 @@ Warlords start with 25gp.
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |

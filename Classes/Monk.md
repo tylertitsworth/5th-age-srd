@@ -64,8 +64,9 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength, Dexterity, or Wisdom in two scores (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength, Dexterity, or Wisdom in two scores (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | Armor Class (no/light armor) | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |

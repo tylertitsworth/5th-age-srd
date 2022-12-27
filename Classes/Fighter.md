@@ -68,8 +68,9 @@ Fighter weapon attack maneuvers deal damage based on the fighter's level. You al
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 15 + middle mod of Con/Dex/Wis + Level |
 | **Armor Class (shield and heavy armor)** | 16 + middle mod of Con/Dex/Wis + Level |

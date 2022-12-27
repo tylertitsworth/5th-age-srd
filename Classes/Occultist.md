@@ -68,8 +68,9 @@ The occultist start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
@@ -294,7 +295,7 @@ Choose a damage type, such as physical weapons or fire. You are vulnerable to th
 
 #### Adventurer Feat
 
-Gain a 3-point background related to the prophecy.
+Gain a 3-point skill related to the prophecy.
 
 #### Champion Feat
 
@@ -328,7 +329,7 @@ Once per day when you hit an enemy with _karmic rebuke_, you can make a basic me
 
 _Special:_ You cannot take this talent if you have taken the Icon Envoy talent.
 
-You have three fewer relationship points than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to allocate relationship points, you get an advantage as though you have 3 points with any one occult relationship you choose. Like any other character, you can gain occult relationship points through extraordinary story events. Remember, just because a occult relationship is out to kill you doesn't mean you have negative relationship points. Points represent the utility of a connection in the story not its strength. If you encounter occult relationships other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
+You have three fewer relationship points than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to allocate relationship points, you get an advantage as though you have 3 points with any one occult relationship you choose. Like any other character, you can gain occult relationship points through extraordinary story events. Remember, just because an occult relationship is out to kill you doesn't mean you have negative relationship points. Points represent the utility of a connection in the story not its strength. If you encounter occult relationships other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
 
 #### Adventurer Feat
 

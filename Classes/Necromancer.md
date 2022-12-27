@@ -70,8 +70,9 @@ Although not listed on the table, this class gets three talents. It does not get
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Intelligence or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
@@ -323,7 +324,7 @@ On a critical hit, your summoned undead deal 1d6 extra damage (2d6 at 5th level;
 
 #### Champion Feat
 
-When you spend a quick action to allow a summoned undead to benefit from the escalation die (as per the summoning rules on page XX), it gains a +2 bonus to its critical threat range that round.
+When you spend a quick action to allow a summoned undead to benefit from the escalation die (as per the [Summoning rules](../Character-Rules/Summoning.md)), it gains a +2 bonus to its critical threat range that round.
 
 #### Epic Feat
 
