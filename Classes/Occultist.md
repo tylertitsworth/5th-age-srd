@@ -691,7 +691,7 @@ On a natural 18+, the stun effect is “save ends.”
 
 ---
 
-### Transcendence
+### Transcendence (8th Level+)
 
 You gain 5-point skill towards a transcendence skills. This skill represent your connection to a shared universal conscience. If you close your eyes for a few seconds, you can merge with the font of all knowledge and dig up even the most remote and obscure insight that is beyond mere mortal comprehension.
 
