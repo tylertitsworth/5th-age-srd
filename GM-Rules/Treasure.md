@@ -47,13 +47,13 @@ Each player rolls a d20 and checks the table below. Results are not cumulative; 
 
 ### Selling Magic Items
 
-| Tier | DnD 5e Rarity | Armor/Weapon Bonus | Price (gp) |
+| Tier | Rarity | Armor/Weapon Bonus | Price (gp) |
 | ---- | ------------- | ------------------ | ---------- |
-| | Common | | 300 |
+| | Minor | | 300 |
 | Adventurer | Uncommon | +1 | 1000 |
 | Champion | Rare | +2 | 3000 |
 | Epic | Very Rare | +3 | 10000 |
-| | Legendary | | 30000 |
+| | Artifact | | 30000 |
 
 ---
 
