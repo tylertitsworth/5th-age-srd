@@ -37,7 +37,9 @@
     <br>
     {% if site.show_downloads %}
         <a href="{{ site.github.sheet_url }}" class="btn">Download Character Sheet</a>
+        <button type="button" class="btn power-button" onclick="powerPrint()">Print Highlighted Power Cards</button>
     {% endif %}
+
 </header>
 
   <aside id="sidebar">
@@ -65,6 +67,8 @@
   <script src="{{ '/assets/js/js_enabled.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   <script src="{{ '/assets/js/anchor_spy.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   <script src="{{ '/assets/js/navigator.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+  <script src="../assets/js/power-cards.js"></script>
+
 </body>
 
 </html>
