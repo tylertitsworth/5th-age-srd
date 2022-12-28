@@ -7864,7 +7864,7 @@ While the escalation die is 3+, you deal +1d8 damage whenever you hit with this 
 
 Any Weapon
 
-The secret of forging harmonious weapons was lost in the fall of the towers. Harmonious weapons are also always found in a set of two, and have a crystalline sheen to the metal of the blade. When struck, they chime a perfect note. 
+The secret of forging harmonious weapons was lost in the fall of the towers. Harmonious weapons are also always found in a set of two, and have a crystalline sheen to the metal of the blade. When struck, they chime a perfect note.
 
 In combat, whenever you attack with a harmonious weapon, note the natural roll. If, later this battle, an ally wielding the other harmonious weapon hits with the same natural result, they deal +1d8 damage with their attack (Champion: +2d8; epic: +4d8).
 
