@@ -529,6 +529,27 @@ Increase the targeting limit by 100 hp.
 
 ---
 
+### Vigilant Light
+
+Close-quarters spell
+
+Daily
+
+Quick Action to Cast out of Combat
+
+_Special:_ While this spell is active, your head is crowned by a corona of scintillating light that spins and spits tiny beams of illumination. This pretty much makes it impossible for you to hide, though an invisibility spell might work, with difficulty.
+
+**Effect:** You gain an initiative bonus equal to your Wisdom modifier, and +1d6 holy damage to the first close-range or melee attack you hit with in battle. Hitting dispels the corona.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Spell is now recharge 11+; bonus damage increases to +3d6. |
+| 5th | Spell also affects ranged attacks; bonus damage increases to +5d6. |
+| 7th | Your first attack gains a +2 attack bonus; damage bonus of first hit increases to +7d6. |
+| 9th | Damage bonus increases to +9d6 and applies to your first two attacks in the battle. |
+
+---
+
 ## 3rd Level Spells
 
 ### Cause Fear
@@ -694,6 +715,39 @@ Quick action to cast
 
 ---
 
+### Light of Revelation
+
+Ranged Spell
+
+Daily
+
+_Special:_ You can cast this spell for power or for broad effect.
+
+**Target:** (cast for power) One nearby enemy, or (cast for broad effect) up to three nearby enemies.
+
+**Attack:** Wisdom + Level vs. MD
+
+**Hit:** If cast for power, deal 6d10 + Wisdom radiant damage, and 10 ongoing radiant damage (save ends). You may immediately ask the enemy a brief question and unless the enemy has been dropped to 0 hit points, it is compelled to give a truthful answer in response (no more than one or two words, usually.) You may ask another question whenever the target fails a saving throw against the ongoing radiant damage.
+
+If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the tareget (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
+
+_Miss:_ If cast for power, you may ask one question; the target takes half damage if they answer truthfully, and full damage if they lie or refuse to answer. If cast for broad effect, the target takes half damage but no other effect.
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 9d10/6d10 and 15 ongoing radiant damage |
+| 9th | 12d10/9d10 and 20 ongoing radiant damage |
+
+#### Champion Feat
+
+When cast at a single target, you may choose to waive the ongoing damage effect. If you do so, the save to remove the ongoing compulsion to answer questions becomes hard (16+).
+
+#### Epic Feat
+
+You can now move the ongoing damage effect to any nearby enemy as a quick action once per round.
+
+---
+
 ### Sanctuary
 
 Close-quarters spell
@@ -751,6 +805,36 @@ Quick action to cast
 #### Epic Feat
 
 The spell is now (recharge 16+) after battle instead of daily.
+
+---
+
+### Divine Intervention
+
+Ranged Spell
+
+_Special:_ You can cast this spell only once per level. You’ll also have to keep track of how many times you cast this spell in your life.
+
+**Effect:** When you cast this spell, roll 1d6 for each cleric domain you have, one domain at a time. (You’ll want to start with the domain you’re most interested in accessing.) If you get a 5 or a 6, then your deity intervenes through that domain, and something miraculous and astounding happens based on that domain; don’t roll for your other domains. A 5 means the miracle comes with a price, drawback or some other repercussion; a 6 means that your deity is able to intercede cleanly, without upsetting the balance of the cosmos.
+
+If none of your rolls get a 5 or 6, then you’ve got two choices. Option one is to substitute another cleric spell of the same level for this spell—it doesn’t have to be one you’ve got prepared— and cast that spell instead. This still counts as one of your lifetime uses of divine intervention. Option two is to drop the divine intervention—nothing happens and the spell and the action used to cast it is lost, but it doesn’t count towards your lifetime casting total.
+
+The form and scope of the divine intervention is up to you and the GM. The gods don’t usually intervene to smack down bad guys—the intervention is more likely to get you out of a no-win situation, or give you some key clue or advantage to turn the tables on your opponents. Divine interventions can also help with natural disasters and non-combat threats—if you need to stop a volcanic eruption or cure a whole city of plague, this is the spell for you. The effects are always connected to the domain you invoke.
+
+Divine intervention cannot bring back the dead, at least not permanently. It might let a soul out of the afterlife for one fight.
+
+_Limited Use:_ Like resurrection, this spell takes its toll on you. The first time you cast it, you can cast it quickly, with a single standard action.
+
+The second time you cast it, it costs you half your hit points and half your daily powers/spells. You’re also permanently marked or changed in some way—you might gain some divine feature, be branded with your god’s holy symbol, or maybe you’ll just be left twisted and broken by the powers you just channeled.
+
+The third time you cast it, you permanently lose access to the domain(s) used to shape the intervention, and you’re left with no spells and only a few hit points. Oh, and every enemy of your deity suddenly knows exactly where you are.
+
+The fourth time you cast it, not only do you lose access to that domain, but so do all the other clerics of your god. Restoring that connection requires an epic quest. Again, you lose all your remaining spells and are knocked down to a few hit points, and you advertise your location and weakness to every foe.
+
+The fifth time you cast this spell, you burn out your soul and are annihilated. Mortals aren’t meant to channel the power of the gods like this.
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You get an intervention-with-strings on a 3-4 (instead of a 5) and a repercussionfree intervention on a 5-6 (instead of a 6). |
 
 ---
 

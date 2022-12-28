@@ -81,6 +81,12 @@ This ammunition is psychically imbued. When you hit with a natural 16+ attack ro
 
 ---
 
+#### Earthbinding Arrow
+
+A creature struck by an earthbinding arrow loses the flight ability and cannot fly until it makes a successful save at the start of its turn. An earthbinding arrow can only affect creatures of the same tier as itself, or lower, and the difficulty of the save depends on whether the target of the arrow or the shooter is higher level. A higher level target only needs an easy save, a same-level target needs a normal save, a lower level target needs a difficult save.
+
+---
+
 #### Elf Shot
 
 If you’re attacking from ambush, you get a +5 bonus to your attack roll.
@@ -793,6 +799,16 @@ If you are staggered, you regain an expended power as if you had taken a quick r
 
 ---
 
+#### Putrid Deeps
+
+Heavy Armor
+
+This air-tight sealed armor was created for dwarven expeditions to reclaim the poisoned halls of the Underhome. The wearer gains resist poison 18+ and resist acid 18+; however, the wearer becomes dazed (–4 to attack) until the end of their next turn in any round in which they are targeted by an acid or poison attack. In addition, the wearer of the armor may cast light at will.
+
+**Quirk:** Unnaturally drawn to terrible or terrifying smells.
+
+---
+
 #### Red Lightning
 
 When a demon or devil hits you with a melee attack, it takes lightning damage equal to 1d6 times your level.
@@ -848,6 +864,16 @@ Quick Action
 _Recharge 11+:_ Create and apply a [magical rune](./Consumables.md#runes) to a weapon that you are holding. This does not require you to be carrying a rune and does not expend a rune that you are carrying. Roll for the effect as normal, and remember that rune bonuses don’t stack with a magic item’s inherent bonus.
 
 **Quirk:** Chronic chronicler.
+
+---
+
+#### Scarab War Kit
+
+Heavy Armor
+
+_Recharge 16+:_ When hit or critted by a huge creature, reduce the damage by half.
+
+**Quirk:** Kill or attack insects without even thinking about it. Even if that’s unwise.
 
 ---
 
@@ -1273,6 +1299,12 @@ You can benefit from the effects of two potions at once/
 
 ---
 
+#### Belt of Primordial Giant Strength
+
+_Recharge 16+:_ This power can only be used if you are fighting at least one non-minion giant or an undead version of a giant! Until the end of the battle, you have your own personal escalation die. It starts at 2 when you use this power and rises by 2 every round, maxing out at 6.
+
+---
+
 #### Belt of Skulls
 
 Quick Action
@@ -1439,6 +1471,14 @@ These girdles are popular with nobles who like to hide girth gained through over
 
 ---
 
+#### Girdle of the Barbarian King
+
+_Recharge 6+:_ When you hit with a melee attack, increase your damage by the amount of ongoing damage you’re currently suffering.
+
+**Quirk:** Refuses to acknowledge pain or ask for help.
+
+---
+
 #### Girdle of the Gods
 
 _Recharge 11+:_ When you first receive this item, pick the god it’s dedicated to. You may heal using a recovery when you perform an act pleasing to that god, or when you’re in or near a place associated with that god. So, if you pick a war god, then the belt might let you rally after you slay a foe. If you pick a harvest god, then you get to rally when defending farmland, or at the end of summer (or maybe you can argue that, symbolically speaking, it’s the autumn of the encounter when the escalation die is 5+, so you can heal then.)
@@ -1510,6 +1550,14 @@ _Recharge 11+:_ Talismans and fetishes of ancient magic hang from this kilt. Som
 If you roll equal to or higher than the escalation die, then you take damage equal to your level multiplied by the value of the escalation die.
 
 **Quirk:** Reads meaning into patterns, like the flight of birds across the evening sky or the ripples in a windtossed lake.
+
+---
+
+#### Knightwheel Sash
+
+_Recharge 6+:_ If you’re a dwarf, use the human species power [quick to fight](../Species/Human.md#quick-to-fight) at the start of a battle. If you’re a human, use the dwarf species power [that’s your best shot?](../Species/Dwarf.md#thats-your-best-shot) during a battle.
+
+**Quirk:** Surprisingly optimistic about dire situations.
 
 ---
 
@@ -2178,6 +2226,14 @@ _Recharge 11+:_ The lion-fur that lines these boots conceals magical bone claws 
 
 ---
 
+#### Dancing Boots of the Corsair
+
+Once per battle, the wearer of these boots may make a tremendous leap, effectively flying for one move action. However, the boots are extremely sensitive to magical songs, such as those sung by bards. The first time in a battle that anyone uses a magical song or music, the boots compel you to dance a merry jig. You get to make a normal save to resist (or an easy save, 6+, if you know the song is coming and can brace for it); if you fail, you’re dazed.
+
+**Quirk:** Can’t resist a party.
+
+---
+
 #### Dead Man’s Boots
 
 _Recharge 11+:_ If you’re knocked unconscious or otherwise rendered helpless or incapacitated while wearing these boots, then you get to pick a nearby enemy and make a +10 attack vs. MD against that foe (champion: +15; epic: +20). If you hit, that foe takes a fancy to your boots and tries to loot them from your unconscious body at the earliest possible opportunity. The enemy won’t take absurd risks to get the boots, but might choose to go after your boots rather than pressing the attack against the rest of the party. You’ll probably occupy your target for at least one round.
@@ -2231,6 +2287,14 @@ Move Action
 _Recharge 16+ after use:_ When an enemy attacks you and deals fire damage, teleport someplace nearby you can see.
 
 **Quirk:** Drawn to open flames.
+
+---
+
+#### Footpads of the Footpad
+
+_Recharge 16+:_ When activated, the wearer of these boots can fly! You can soar to the height of, oh, about half an inch, maybe. And only over solid ground. The virtue is that you don’t leave footprints, set off pressure plates, and have a much easier job balancing on thin or precarious surfaces like a ledge or narrow branch, gaining a +5 (champion: +10; epic: +15) bonus to such skill tests. The magic of the boots lasts only a few minutes.
+
+**Quirk:** Shady. You ooze criminality. People look at you and think “now there goes a shady, suspicious cutthroat who might rob me.”
 
 ---
 
@@ -2951,6 +3015,14 @@ _Recharge 16+:_ When engaged by two or more enemies, if one of them strikes you 
 
 ---
 
+#### Cloak of Plausible Deniability
+
+_Recharge 11+:_ When you activate this cloak, you may take one quick action as if you were standing at a nearby point you can see. You don’t actually move—there’s a brief flickering projection as you’re in two places at once. You still draw opportunity attacks if you cast a ranged spell or take any such action while projecting.
+
+**Quirk:** Secretive.
+
+---
+
 #### Cloak of Shelter
 
 _Recharge 6+:_ One nearby ally may use one of your Defenses (AC, MD or PD) when targeted by an enemy attack. The choice to substitute your Defense for theirs must be made before the attack; however, if the attack hits, the cloak’s power is not expended.
@@ -2977,6 +3049,22 @@ When you attune to this cloak, and during each rest, roll a d8 twice and reroll 
 The cloak grants resist damage 16+ to those damage types until your next rest.
 
 **Quirk:** Frequently changes “best friends.”
+
+---
+
+#### Cloak of the Barbarian King
+
+_Recharge 16+:_ When an attack targeting your Physical Defense reduces you to 0 hit points, immediately heal using a recovery, and keep fighting instead of falling unconscious.
+
+**Quirk:** Will not, under any circumstances, kneel. Or even salute. Maybe not even say ‘good morning,’ or ask ‘how are you’?
+
+---
+
+#### Cloak of the Grey Lady
+
+_Recharge 16+:_ When an undead creature attacks you and hits (but does not crit), change that attack into a miss instead.
+
+**Quirk:** Treats undead as if they are still alive.
 
 ---
 
@@ -3029,6 +3117,18 @@ _Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die.
 
 ---
 
+#### Doppelganger Cloaks
+
+These cloaks are always found in pairs. To activate the set, wear one cloak and leave the other cloak where no-one can see it. When you leave, the other cloak will come to life and conjure an illusory copy of you. This copy will go about its business, roughly mimicking your day-to-day life as best it can. When you return to the place you buried the cloak, your doppelganger will return and then whisper a onesentence message that sums up its exploits while wearing your face (“went to the market”, “visited your aunt”, “worshipped the dark lord” and the like) before vanishing back into the cloak.
+
+The function of the cloak is to create a semi-reliable alibi to hide illicit activities (like being a devoted follower or organizing priest of the Cultist!). The doppelganger will always try to avoid the original if possible, and will only willingly meet its progenitor at the spot where it was ‘born’—the private spot where the empty cloak was hidden. If by some mischance a meeting between the two cannot be avoided, the doppelganger vanishes prematurely.
+
+The illusory duplicate cannot attack, and vanishes if it takes any serious damage. It’s semi-solid and can perform basic tasks, but not with any degree of skill or accomplishment. For example, if you usually chop wood all day, then your cloakdoppelganger will also chop wood, but it’ll do a poor job and can’t attack with the axe.
+
+**Quirk:** Exceptionally paranoid.
+
+---
+
 #### Dragonskein Mantle
 
 Spend a recovery to transform into a young normal-sized dragon (epic; large dragon) until the end of the battle or scene. Your defenses, hit points, ability scores, etc. remain the same; however, you can’t use any of your normal attacks, spells, powers (including other limited-use magic item powers), or any limited-use feature or talent.
@@ -3064,6 +3164,23 @@ _Recharge 6+:_ When you take damage from an opportunity attack, take 20 less dam
 _Recharge 16+:_ When an enemy scores a critical hit against you, it must reroll the attack and you can teleport somewhere nearby you can see after the attack. If the attack deals fire damage, the attack misses instead (no reroll required).
 
 **Quirk:** Ravenousness.
+
+---
+
+#### Hame of the Tunnel Panther
+
+Daily
+
+Once per full heal-up, while wearing this cloak, you may send forth your mind as the shadow of a tunnel panther. In this trance, your mind roams around the surrounding area, and you wake knowing the answer to one of the following questions (GM’s choice!) (champion: 2 questions; epic: 3 questions):
+
+- What is the biggest monster in the area?
+- Where is a foe that we encountered signs of earlier?
+- Where does the air smell foulest?
+- Where does the air smell freshest?
+- Where is the nearest source of clean water?
+- Where is the best ambush site?
+
+**Quirk:** Lurks melodramatically and speaks as if pouncing.
 
 ---
 
@@ -4416,6 +4533,14 @@ _Recharge 6+:_ When you miss with an attack, you may use the amulet to ensure th
 
 ---
 
+#### Axis Stone Necklace
+
+_Recharge 6+:_ You gain 20 temporary hit points (champion 50, epic 100) if you are the last member of your adventuring party standing in a fight.
+
+**Quirk:** Never, ever, backs down.
+
+---
+
 #### Bearclaw
 
 _Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10 temporary hit points (champion: 25 temporary hp; epic: 50 temporary hp).
@@ -4968,7 +5093,7 @@ _Recharge Special:_ This sphere is made of a polished, petrified heart. When you
 
 ---
 
-## Ring
+## Rings
 
 ### Default Bonus
 
@@ -5194,6 +5319,16 @@ This tarnished silver ring lets you clean yourself, mend your clothes, style you
 
 ---
 
+#### Poison Transmutation
+
+_Recharge 6+:_ Let’s start with the quirk: you have a taste for exotic and even dangerous food. Which you indulge often, because the power is that until the end of the battle, when you make a successful save against ongoing poison damage, you may immediately take one of the following benefits:
+
+- Make a recharge roll for one spell or magic item
+- Make a free basic attack
+- Save against one other condition or instance of ongoing damage
+
+---
+
 #### Poor Choices
 
 Quick Action
@@ -5294,7 +5429,7 @@ Second, the magic only works on demons and undead. Other creatures can open the 
 
 ---
 
-#### Sheriff ’s Ring of Knocking
+#### Sheriff’s Ring of Knocking
 
 _Recharge 6+:_ This ring was owned by a famously unpopular tax collector. As a move action, make a skill check to break, knock down, or damage a non-magical object you are next to. Use a +10 bonus to your roll instead of your ability modifier + level + skill bonus (champion: +15; epic: +20).
 
@@ -5369,6 +5504,16 @@ While the ring is on your finger, if you shut both eyes and concentrate, you can
 While grabbed you deal 1d3 times your level in damage to the creature grabbing you at the start of each of your turns. While you are being grabbed by a creature, that creature takes damage equal to 1d3 times your level at the start of each of its turns.
 
 **Quirk:** Plots intricate revenge schemes.
+
+---
+
+#### Treasured Indulgence
+
+Quick Action
+
+_Recharge 16+:_ Increase the escalation die by 1d3. Until the end of the battle, your true magic items come perilously close to taking you over. In fact, you need to roll a normal save (11+) at the start of each of your turns. If you fail the save, the GM and your fellow players indulge themselves in arranging a somewhat suboptimal turn for you that indulges as many of your magic item quirks as comically or dramatically appropriate. Your items aren’t (usually) trying to get you killed, but they’re somewhat monomaniacal.
+
+**Quirk:** Very devoted to the wellbeing of true magic items, and addresses them as if they were all fully sentient conversationalists.
 
 ---
 
@@ -7137,6 +7282,14 @@ _Recharge 11+:_ When you attack an enemy and fail to overcome its damage resista
 
 ---
 
+#### Last Resort
+
+_Recharge 16+:_ When an enemy engages you in an unexpected way (attacking from ambush, teleporting, a special ability that allows flight or bypasses defenders), you may roll an easy save. If the save succeeds, you can cast a closequarters spell that targets you or the attacker as an interrupt action. If the save fails, the wand’s power is expended with no effect.
+
+**Quirk:** Jumpy. Very, very jumpy. And itchy.
+
+---
+
 #### Lightning Tine
 
 _Recharge 6+:_ When you take damage from an enemy attack that has a damage type, one nearby enemy takes damage of that type equal to 1d4 times your level. If the original attack did lightning damage, increase the damage from this power to 2d6 times your level and this power automatically recharges at the end of the battle.
@@ -7355,6 +7508,16 @@ When you hit a target with an attack made using this weapon, the target takes a 
 
 ---
 
+#### Barbarian King
+
+Axe
+
+When you kill a number of mooks in a mob with a melee attack, kill one additional mook.
+
+**Quirk:** Trouble counting.
+
+---
+
 #### Beribboned
 
 Ranged Weapon
@@ -7482,6 +7645,16 @@ Any weapon
 _Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it (champion: 40 hp/10 ongoing damage; epic: 80 hp/20 ongoing damage).
 
 **Quirk:** Tortures flies.
+
+---
+
+#### Dark Elf Bloodblade
+
+Edged Melee Weapon
+
+Creatures taking ongoing damage are vulnerable to attacks from this weapon.
+
+**Quirk:** Maniacal laughter at inopportune mwhahahahaahhhah moments. If already oriented towards insane laughter, laughter uses some other voice that’s disturbing to wielder.
 
 ---
 
@@ -7687,6 +7860,18 @@ While the escalation die is 3+, you deal +1d8 damage whenever you hit with this 
 
 ---
 
+#### Harmonious
+
+Any Weapon
+
+The secret of forging harmonious weapons was lost in the fall of the towers. Harmonious weapons are also always found in a set of two, and have a crystalline sheen to the metal of the blade. When struck, they chime a perfect note. 
+
+In combat, whenever you attack with a harmonious weapon, note the natural roll. If, later this battle, an ally wielding the other harmonious weapon hits with the same natural result, they deal +1d8 damage with their attack (Champion: +2d8; epic: +4d8).
+
+**Quirk:** Sings rather than speaks. Preferably in harmony with the other person using the weapon’s twin.
+
+---
+
 #### Haughty
 
 Any Weapon
@@ -7794,6 +7979,16 @@ Any Weapon
 When you hit with this weapon, you can deal +1d10 damage to that enemy (champion: +2d10; epic: +4d10). If you do, you also take that extra damage.
 
 **Quirk:** Bites nails, or a similar darker habit.
+
+---
+
+#### Knightwheel
+
+Melee Weapon
+
+_Recharge 16+:_ You gain a +1 attack bonus and deal +1d4 damage with this attack for each different fighter maneuver you have used in this battle (champion: +1d8 instead of +1d4; epic: +2d6 instead of +1d8).
+
+**Quirk:** Flips randomly between ruthless efficiency and dreamy optimism.
 
 ---
 

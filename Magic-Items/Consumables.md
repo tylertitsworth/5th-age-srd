@@ -50,6 +50,12 @@ Drinking this potion gives the character a temporary incremental advance. This a
 
 For the duration of this potion, you get a +1 bonus to saves against effects caused by foes and hazards of the same tier or lower as the potion. Saves against higher-tier threats aren’t affected by the potion. Costs 150 gp/300 gp/600gp.
 
+#### Mental Fortitude
+
+This potion suppresses the animal furies and lusts of lycanthropes, and allows a wild werecreature to retain full control in hybrid or beast form, even in the full moon. For non-lycanthropes, it gives a +4 bonus to Mental Defense for one fight. Each time MD is targeted, the bonus drops by 1.
+
+**Costs** 100gp.
+
 ### Salvation
 
 You may immediately make a save against an ongoing save ends effect caused by a foe or hazard of the same tier or lower as the potion.
@@ -71,6 +77,8 @@ The trollblood effect ends when you’re reduced to 0 hit points.
 Despite the name, there’s more than troll’s blood in these brews. In fact, troll blood is probably the most palatable ingredient in there.
 
 **Costs** 50gp/100gp/200gp.
+
+---
 
 ## Oils
 

@@ -463,6 +463,36 @@ If you manage to surprise the target at the start of a battle, and you are the o
 
 ---
 
+### Poison Master
+
+You gain the venomous strike bonus power. You also gain a +2 bonus to saves against ongoing poison damage.
+
+#### Venomous Strike
+
+Melee Attack
+
+At-Will
+
+**Target:** One enemy who is not suffering ongoing poison damage.
+
+**Attack:** Dexterity + level vs AC
+
+**Hit:** WEAPON + Dexterity damage.
+
+_Natural Even Hit:_ The target takes ongoing poison damage equal to your Constution modifier (save ends) (champion: ongoing poison damage is now double your Constitution modifier; epic: triple).
+
+_Miss:_ Damage equal to your level.
+
+##### Adventurer Feat
+
+You can spend your momentum to use this attack against a creature that is already suffering ongoing poison damage. If you do so, you inflict ongoing poison damage on a successful hit, regardless of whether it’s odd or even.
+
+##### Champion Feat
+
+If an enemy you’re engaged makes a successful saving throw against your ongoing damage, you may spend your momentum to make a venomous strike attack as an interrupt action.
+
+---
+
 ### Ready to Roll
 
 You start each battle with momentum.

@@ -301,6 +301,10 @@ If you choose a spell from the sorcerer class, you also gain the sorcerer's _dan
 
 Choose a second spell-casting class. Choose another spell from that class as well.
 
+#### Champion Feat
+
+Once per battle, when you cast a spell obtained with Jack of Spells, you may use a move action to teleport to a spot adjacent to a target of that spell.
+
 #### Epic Feat
 
 Choose a third spell-casting class. Gain a spell from that class also.
