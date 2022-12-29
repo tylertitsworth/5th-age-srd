@@ -645,6 +645,10 @@ Choose a specific monster type (e.g. aberration, beast, construct, demon, dragon
 
 You can change your favored enemy by meditating when you take a full heal-up.
 
+#### Adventurer Feat
+
+This feat is only usable by rangers who have taken humanoid as a favored enemy. Once per day, as a free action, you may select a humanoid species you have encountered in the past. Until the end of the battle, you may use that species’ racial ability. For example, you could gain the shifty bugger ability of goblins, be as evasive as a kobold, as dangerous as an orc, or blend into your surroundings like a chameleon troglodyte. The Gamemaster may veto overpowered or overly magical abilities—this feat represents your ability to emulate the tricks and tactics of your prey, not a supernatural power of shapeshifting.
+
 #### Champion Feat
 
 Your crit range for attacks against favored enemies expands by 1 (to +3).
@@ -724,6 +728,14 @@ Once per battle, when fighting with a two-handed weapon, reroll one of your miss
 #### Epic Feat
 
 When you hit an enemy you weren’t engaged with at the start of your turn with a two-handed weapon, gain two extra WEAPON damage dice.
+
+---
+
+### Green Bandit’s Secret
+
+When you attack from ambush, an additional number of your allies equal to your Charisma modifier may act in the surprise round.
+
+Once per day, when you flee, you may make a normal save (11+). If successful, this escape was just a feint; you do not take a campaign loss, and instead hide nearby. You may take a short rest, then return to the adventure without significant setback. Once per level, you may declare that you know about a hiding place or refuge nearby. The nature of this refuge depends on the sort of terrain, but it’s always a safe, well-concealed place stocked with supplies. It might be a hidden cache in the wilderness, or the home of a trusted old friend, or just a dungeon room that you somehow intuit is safer than anywhere else. Each character in the company automatically succeeds at one recharge roll when they first take a short rest in the refuge.
 
 ---
 

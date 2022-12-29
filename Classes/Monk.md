@@ -255,6 +255,34 @@ _Diamond Soul:_ When you are dazed, weakened, or stunned, you can spend 1 point 
 
 ---
 
+### Emperor-Killing Punch (Seven Deadly Secrets)
+
+_Special:_ If you use Emperor-Killing Punch in a battle, you can’t use any other Deadly Secrets talents that battle.
+
+Once per battle, at the start of your turn, you may name a foe in this battle as your mortal enemy. In the unlikely event that your foe survives, they remain your mortal enemy until the next full heal-up, though you can use Emperor-killing Punch in the next battle to have another mortal enemy.
+
+As long as your mortal enemy remains in this battle, you suffer a –4 penalty to attacks on all other enemies in this battle.
+
+When you make an opening attack against your mortal enemy, your crit range expands by 1. When you make a flow attack against your mortal enemy, your crit range expands by 2. When you make a finishing attack against that mortal enemy, your critical range expands by 3.
+
+#### Adventurer Feat
+
+Twice per battle, gain an additional move action that can only be used to move towards your mortal enemy.
+
+#### Champion Feat
+
+You don’t suffer the –4 penalty to attacks against enemies that are between you and your mortal enemy.
+
+#### Epic Feat
+
+Once per battle, you automatically succeed as if you had rolled a natural 20 with a death or last gasp save if your mortal enemy is still alive and in this battle.
+
+#### Ki Power
+
+_Dig Two Graves:_ Spend a point of ki to prevent your mortal enemy from disengaging from you. If your mortal enemy leaves the battle, spend a point of ki to follow them in the same way. (So, if your mortal enemy teleports away, you get to grab on and be teleported alongside then. If a dragon rescues your mortal enemy, then you grab onto the dragon’s tail and are carried into the sky. If your enemy sails away on a boat, you get to stow away on board.)
+
+---
+
 ### Fire Fist (Seven Deadly Secrets)
 
 _Special:_ If you use Fire Fist in a battle, you can’t use any other Deadly Secrets talents that battle.

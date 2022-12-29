@@ -2321,6 +2321,40 @@ You can target a far away enemy at a -2 penalty to the attack roll.
 
 ## 5th Level Spells
 
+### Breath of the Beast
+
+Ranged Spell
+
+Daily
+
+**Target:** One nearby ally or enemy
+
+_breath weapon vs. enemy:_
+
+**Attack:** Charisma + Level vs. AC
+
+**Hit:** 10d6 + Charisma damage.
+
+_Miss:_ 20 damage
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 10d10 damage; 40 damage on a miss. |
+| 9th | 2d6 x 10 damage; 60 damage on a miss. |
+
+_targeting ally:_
+
+**Effect:** That ally may make a basic melee attack as a free action on its next turn.
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | Instead of a free action basic melee attack, the ally gains a bonus standard action, but cannot use that action on a daily power. |
+| 9th | The ally gains a bonus standard action, no strings or requirements. |
+
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use breath of the beast that turn If you wish.
+
+---
+
 ### Breath of the Black
 
 Close-quarters spell

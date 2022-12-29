@@ -459,6 +459,30 @@ Gain the lowest tier feat of all spells of your specialist school for free.
 
 ---
 
+### Destiny Manipulation
+
+You've studied the movements of the stars, correlated the signs and portends, and learned the forbidden fate-warping magic.
+
+Once per day, you may allow yourself or an ally to reroll a d20 with a +4 bonus by changing fate. However, this manipulation of destiny has a cost. After the battle or scene in which you enabled a reroll, attempt an easy save (6+). If you succeed, nothing horrible happens, congratulations on your prescient reroll.
+
+If you fail the save, you, or someone in the adventuring party, or more rarely, an NPC or place you care about, take a big loss— something horrible happens that isn’t directly related to the fight or problem you were just dealing with.
+
+Each loss gives you an option: you can choose to make it slightly less of a loss by having the problem magically tie back to your predictions. Or you can erase all traces of your manipulation, so that not even your fellow player characters have any idea, but the loss will be just as bad as it was going to be.
+
+#### Adventurer Feat
+
+You gain a +1 bonus on the destiny manipulation save.
+
+#### Champion Feat
+
+You can now use destiny manipulation twice a day.
+
+#### Epic Feat
+
+You can now use destiny manipulation on your enemy’s rolls.
+
+---
+
 ### Dual Specialization
 
 _Special:_ You cannot take both this talent and Deep Specialization.
@@ -596,6 +620,30 @@ Increase your recovery dice to d8s.
 #### Epic Feat
 
 Increase the damage dice of your once-per-battle unarmed attack to d20s.
+
+---
+
+### Necroblast
+
+Once per day, before you cast a spell, you may declare it to be a necroblast. The spell’s damage type becomes negative energy damage in addition to its usual type. If any non-undead nonmooks are destroyed by the spell, they become undead under your control.
+
+In battle, these undead creatures crumble at the end of their next turn, or if they are hit by any other attack, but may make a move and a basic attack under your control. The creatures are considered weakened (–4 to attacks and defenses).
+
+Alternatively, if you do not wish to force the creatures to fight for you, the undead creature will perform one brief service for you after the battle before crumbling, like answering a question, guiding you a short distance, carrying you across some obstacle, or a brief improvised entertainment.
+
+If no creatures are destroyed by the necroblast, you gain no added benefit.
+
+#### Adventurer Feat
+
+If you don’t kill any non-mooks with the spell, your necroblast ability isn’t expended.
+
+#### Champion Feat
+
+Reanimated creatures aren’t weakened.
+
+#### Epic Feat
+
+The service you demand out of battle doesn’t have to be a brief one. Instead, they serve you at least until your next full heal-up, and possibly longer. Creatures who are forced to serve still won’t fight for you.
 
 ---
 
@@ -3957,6 +4005,26 @@ You can hide the symbol, so that it only becomes visible on a certain condition 
 #### Epic Feat
 
 The effect skips nearby enemies with more hit points than the hp threshold if eligible targets are within range.
+
+---
+
+### Time Travel
+
+Ranged Spell
+
+Daily
+
+**Effect:** You and several allies (the adventuring party, more or less) next to you can travel backwards in time. Your control over this temporal shift is limited—you pick your destination age, and then fight a number of battles equal to the number of ages travelled. Your opponents in these battles may be Eternals. You may take a quick rest between fights, but if you take a full heal-up or a campaign loss when fighting your way back in time, you’ll arrive in an unfamiliar place and time in your destination age. If you endure, you get to pick roughly when and where you’ll arrive.
+
+You can return to your home age by casting this spell again, or you may be dragged back to the present when reality snaps back (i.e. at the end of the adventure.) You don’t usually need to fight your way back to the future on the return trip.
+
+You cannot use this spell to travel into the future (although entities from the future can use it to travel back to the present), or to travel within the same age.
+
+You can only travel back to a specific age once per level. Trying to repeat the same time-jump more than once may have unfortunate consequences.
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You get to take a full heal-up once during your travel in time. You must describe the weird cross-temporal place where you take a break from battling your way through the howling time winds. |
 
 ---
 

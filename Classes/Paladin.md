@@ -504,6 +504,47 @@ Reroll all natural 1s and 2s on the damage dice with your Smite Evil. This appli
 
 ---
 
+### Holy Strike
+
+Your Smite Evil attacks now deal radiant damage. You gain decree of anathema as a spell of your level or lower.
+
+This spell is now part of your powers.
+
+#### Adventurer Feat
+
+When you use Smite Evil, until the end of your next turn, your basic melee attacks deal radiant damage.
+
+#### Champion Feat
+
+When you hit an enemy with an attack, they are vulnerable to radiant until the end of your next turn.
+
+#### Epic Feat
+
+As a quick action, you may expend a use of Smite Evil to bless an ally’s attack. That attack is now considered radiant.
+
+#### Decree of Anathema
+
+Close-quarters spell
+
+Recharge 11+ after battle
+
+**Target:** 1d4 nearby creatures.
+
+**Attack:** Charisma + level vs. MD
+
+**Hit:** 2d6 + Charisma psychic damage, and the target becomes vulnerable to radiant until the end of the battle.
+
+_Miss:_ Psychic damage equal to your level, and the target becomes vulnerable to holy until the end of your next turn.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 psychic damage |
+| 5th | 6d6 psychic damage |
+| 7th | 8d6 psychic damage |
+| 9th | 11d6 psychic damage |
+
+---
+
 ### Implacable
 
 You can roll saves at the start of your turn instead of at the end of your turn. A successful save against ongoing damage, for example, means that you will not take the ongoing damage that turn.
