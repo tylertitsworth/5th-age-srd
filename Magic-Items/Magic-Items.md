@@ -1181,6 +1181,14 @@ When an enemy without fire resistance moves into engagement with you, it takes 1
 
 ---
 
+#### Master-Forged
+
+_Recharge 16+:_ Activate this ability when you are the last player character left in the battle and at least two of your allies have been knocked unconscious or killed. For the rest of the battle, you may heal using one recovery per round as a quick action.
+
+**Quirk:** Sings songs of ancient days.
+
+---
+
 #### Scales of Umbraxatar
 
 _Recharge 16+:_ Only sorcerers can benefit from this armor. Only sorcerers are mad enough to wear it. This armor is made from scales taken from Umbraxatar, living dragonscales infused with the power of the Shadowfell. You gain an extra Sorcerer talent, which must be spent on either Blood Link or Chromatic Destroyer Heritage. Got both those talents already? Then have a free feat, which must be spend on augmenting one of those talents. You may also channel Umbraxatar's power. This lets you gather power as a quick action, but Umbraxatar gets a say in the spellcasting. He might have his own ideas about the choice of targets, or demand that you carry out some particular course of action or repay him by doing him some service. Of course, if you’re wearing this armor, you must be a loyal ally of a chromatic dragon, and so you will have no qualms whatsoever about letting him sniff around inside your soul...
@@ -8482,6 +8490,16 @@ Your attacks with this weapon deal poison damage. When you score a critical hit 
 
 ---
 
+#### Web-Slicing
+
+Edged Weapon
+
+If stuck or hampered by a web or similar physical entanglement, gain a +5 bonus to saves.
+
+**Quirk:** Prefers direct solutions to complex problems.
+
+---
+
 #### Wintersmith
 
 Bow
@@ -8849,6 +8867,14 @@ Alternatively, you may open the bag entirely and let the storm free. This destro
 When you fall you glide slowly until you land on your feet without taking fall damage.
 
 **Quirk:** Recklessly takes dares.
+
+---
+
+#### Bell of Gathering Friends
+
+Characters may attune to this brass bell during a full heal-up. When the bell is rung, only individuals attuned to it can hear the sound. Echoes of the bell can be heard for some distance underground, giving scattered companions a +4 bonus to any tests that involve finding their way back to the rest of the party.
+
+**Quirk:** Delights in entertaining and taking care of companions.
 
 ---
 
