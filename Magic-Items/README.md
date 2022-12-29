@@ -27,7 +27,7 @@ If you are carrying and wielding a number of items that is greater than your cur
 
 ### Minor items
 
-Minor items don’t acquire attunement and they don’t occupy a chakra. They’re often expressions of the fact that magic is everywhere in this world, and are generally more useful for telling interesting stories and setting the scene than as functional parts of heroic arsenals. Minor items don’t have quirks, but a few come equipped with story hooks!
+Minor items don’t require attunement and they don’t occupy a slot. They’re often expressions of the fact that magic is everywhere in this world, and are generally more useful for telling interesting stories and setting the scene than as functional parts of heroic arsenals. Minor items don’t have quirks, but a few come equipped with story hooks!
 
 ---
 
@@ -58,6 +58,8 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 ### Attunement
 
 To make use of an item’s bonuses and powers you must attune to it. The method of attunement depends on the specific item. Within five minutes you can usually figure out how to attune to an item, except for books, scrolls, tomes, and grimoires, which take hours to read through.
+
+A character can attune to a number of items equal to their level.
 
 ---
 
