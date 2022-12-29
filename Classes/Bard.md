@@ -56,9 +56,9 @@ Bards start with 25gp.
 | **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 4 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels
 

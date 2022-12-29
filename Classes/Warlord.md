@@ -56,9 +56,9 @@ Warlords start with 25gp.
 | **Level 5** | (7 + CON mod) x **8** | 4 adv; 1 champ | 4 | 7 | 5th level |  | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x **10** | 4 adv; 2 champ | 4 | 8 | 5th level |  | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x **12** | 4 adv; 3 champ | 4 | 8 | 7th level | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 4 | 9 | 7th level |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 4 | 9 | 9th level |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 4 | 10 | 9th level | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 4 | 9 | 7th level |  | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 4 | 9 | 9th level |  | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 4 | 10 | 9th level | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
