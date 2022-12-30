@@ -157,7 +157,7 @@ This circle harnesses the destructive phase of the cycle of life. Droughts, plag
 
 However, there is a darker element to it, a destructive force that is outside of nature, a breaking of the cycle. It is a powerful, tempting magic, and blighters are always at risk of drawing more power from their surroundings than intended, leaving wounds that may never heal.
 
-In the same way that the Lich King represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
+In the same way that a lich represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
 
 ### Circle of Decay Talents
 

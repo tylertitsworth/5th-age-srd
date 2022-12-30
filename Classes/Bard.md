@@ -1633,7 +1633,7 @@ Daily
 
 **Target:** You
 
-**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Elf Queen or a smile to the face of an Archdevil.
+**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Raven Queen or a smile to the face of an Archdevil.
 
 This spell allows you to achieve a feat with your voice that would normally require a ridiculously hard skill check at epic tier (DC 35).
 
@@ -1793,7 +1793,7 @@ Standard action each turn; 16+ to sustain
 
 #### Epic Feat
 
-When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target. If you have a positive icon relationship with the Lich King, you gain this feat for free.
+When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target.
 
 ---
 

@@ -26,9 +26,9 @@ _Story Hook:_ Though the pattern is threadbare, it is discernible. Is it worth t
 
 ## Batwing backpack
 
-Made from a demon’s wing-leather, anything placed inside the backpack is invisible to servants of the Diabolist.
+Made from a demon’s wing-leather, anything placed inside the backpack is invisible to servants of Archdemons.
 
-_Story Hook:_ Who would want to hide things from the Diabolist? What would they do to get a backpack?
+_Story Hook:_ Who would want to hide things from an Archdemon? What would they do to get a backpack?
 
 ## Bearded skull
 
@@ -36,7 +36,7 @@ An orc skull, except that it has a long calcified beard. Kissing the skull on th
 
 ## Bone door-chime
 
-Small bones suspended from a longer bone by sinew-strings. When placed near a door, the noise of the bones knocking together often manages to sound out the name of the person using the door. (It’s easier to understand if you’re a necromancer or are closely tied to the Lich King.)
+Small bones suspended from a longer bone by sinew-strings. When placed near a door, the noise of the bones knocking together often manages to sound out the name of the person using the door. (It’s easier to understand if you’re a necromancer or are closely tied to a lich.)
 
 _Story Hook:_ One day the bones say your name and the door opens, but you’re already in the room.
 

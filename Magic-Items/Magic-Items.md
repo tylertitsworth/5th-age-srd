@@ -385,7 +385,7 @@ _Recharge 11+:_ This armor smells musty and foul, even when newly cleaned. It ha
 
 Oh, you also become vulnerable to radiant attacks. And if you die while animated, it’s a dead cert (ahem) that you’re coming back as some sort of undead.
 
-If you don’t already have a relationship with the Lich King, you soon will.
+If you don’t already have a relationship with a prominent lich, you soon will.
 
 **Quirk**: Hungers for the life force of living beings.
 
@@ -1785,7 +1785,7 @@ Deciphering the hidden messages within this book (attuning it) allows the reader
 
 #### Codebook of Nefarious Machinations
 
-Whenever your group suffers a campaign loss, you gain a temporary 1-point positive relationship with the Prince of Shadows. This positive relationship is lost once you gain some benefit from the Prince; you must then explain how your party’s defeat played into the Prince’s stratagems, and now you’re getting your payoff.
+Whenever your group suffers a campaign loss, you gain a temporary 1-point positive relationship with the a shadowy mastermind. This positive relationship is lost once you gain some benefit from the mastermind; you must then explain how your party’s defeat played into the mastermind’s stratagems, and now you’re getting your payoff.
 
 **Quirk:** Leaves apparently meaningless messages hidden in the most unlikely places.
 
@@ -3525,7 +3525,7 @@ When an enemy targets your PD with an attack and misses, gain a +4 bonus to your
 
 Quick Action
 
-_Recharge 11+:_ When you hit a nearby foe with an attack, your cloak engulfs them and draws them into a nightmare realm. Survivors have reported seeing a dead world of grey desolation, inhabited only by shambling zombies ruled by the Lich King from a citadel of bone. The vision inflicts 4d10 psychic damage on your enemy. The target is swallowed by your cloak and vanishes from the battlefield until the start of their next turn, at which point they emerge at a point nearby of your choice.
+_Recharge 11+:_ When you hit a nearby foe with an attack, your cloak engulfs them and draws them into a nightmare realm. Survivors have reported seeing a dead world of grey desolation, inhabited only by shambling zombies ruled by a prominent lich from a citadel of bone. The vision inflicts 4d10 psychic damage on your enemy. The target is swallowed by your cloak and vanishes from the battlefield until the start of their next turn, at which point they emerge at a point nearby of your choice.
 
 **Quirk:** Spouts apocalyptic prophecies about how we’re all doomed, utterly doomed.
 
@@ -5432,8 +5432,6 @@ Two things to note – first, unlike the spell, it’s not restricted to doors a
 Second, the magic only works on demons and undead. Other creatures can open the barrier just fine – and can, if they wish, let the undead or demons through behind them.
 
 **Quirk:** Tests others for weakness, both physical and mental.
-
->_Note:_ Before the Great Gold Wyrm sacrificed himself by entering the Abyss, these were even more powerful, and their binding spells lasted for many centuries if the soul that wielded the ring was strong enough. There are still bound demons and ghosts across the land, held prisoner by the power of these rings, and only the matching ring can free them. Those who bear these rings must beware of thieves and assassins in the service of the Diabolist. - Sir Tanteer, Paladin of the Light
 
 ---
 
@@ -10330,7 +10328,7 @@ You deal +5 damage with missed attacks, but all of your defenses take a –3 pen
 
 When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
 
-_Curse:_ While using the Eye’s daily power, the Lich King knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
+_Curse:_ While using the Eye’s daily power, Vecna knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
 
 **Quirk:** Desires to seek out and attune to the hand.
 
@@ -10342,6 +10340,6 @@ _Curse:_ While using the Eye’s daily power, the Lich King knows your exact loc
 
 When placed upon an arm-stump, the withered hand grafts itself on. Make a basic attack or at-will attack against a target with fewer hit points than you (you’re aware of which enemies are), targeting PD if your attack would normally target AC. If you hit with the attack, it’s a critical hit. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
 
-_Curse:_ After you use the Hand’s daily power, the Lich King takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
+_Curse:_ After you use the Hand’s daily power, Vecna takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
 
 **Quirk:** Desires to seek out and attune to the eye.

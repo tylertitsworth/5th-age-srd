@@ -4395,6 +4395,6 @@ Conjuration
 
 _Special:_ You cannot, or rather should not attempt to cast this spell more than three times in a lifetime. Stories are vague as to the reason, but the most common legend is that the genie who fulfills your wishes is freed after the third casting, and a fourth attempt will force the caster to take their place.
 
-_GM Note:_ If you are looking for a literary inspiration for this spell, think about Cinderella’s transformation to join the ball. Think about who fulfills wishes in your campaign — Faerie godmothers? Genies? The Diabolist?
+_GM Note:_ If you are looking for a literary inspiration for this spell, think about Cinderella’s transformation to join the ball. Think about who fulfills wishes in your campaign — Faerie godmothers? Genies? Primus?
 
 All in all, treat this spell as a plot device. Fulfill the Wish in a way that moves the story forward, with an epic effect that is worthy of a 9th level spell, just like you would handle a 5 or 6 on an icon relationship roll. This is the most powerful spell in the game, cast by one of the most powerful casters in the game world, at the peak of the campaign. The results can and should feel amazing. There is always room to introduce unintended negative consequences later.
