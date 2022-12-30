@@ -540,7 +540,7 @@ You can replace Intelligence with Charisma for your chosen necromancer spells.
 
 All Umbral sorcerers can cast the _crypt candles_ spell as a standard action. The spell produces a circle of black and red candles that provide an eerie illumination within thirty feet of you. They create enough light to move around, but it’s easy to miss details in the dim, flickering lights. If you move, the zone moves with you.
 
-The candles and their illumination can only be seen by you, your allies and any creatures with a connection to the Shadow Prince or the Lich King. They make invisible creatures visible.
+The candles and their illumination can only be seen by you, your allies and any creatures with a connection to a shadowy mastermind or a prominent lich. They make invisible creatures visible.
 
 The spell usually lasts at least an hour. You can cast it a number of times per day equal to your Charisma modifier.
 
