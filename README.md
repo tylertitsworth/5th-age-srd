@@ -48,6 +48,7 @@ bundle exec jekyll serve --force-polling
 - [Magic Items](./Magic-Items/README.md)
   - [Consumables](./Magic-Items/Consumables.md)
   - [Magic Items](./Magic-Items/Magic-Items.md)
+  - [Minor Items](./Magic-Items/Minor-Items.md)
 - [Species](./Species/README.md)
   - [Aasimar](./Species/Aasimar.md)
   - [Dragonborn](./Species/Dragonborn.md)
