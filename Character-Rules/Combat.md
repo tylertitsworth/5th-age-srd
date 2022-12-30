@@ -320,9 +320,9 @@ Then roll initiative for the side that got ambushed and play normal combat round
 
 ---
 
-##### Dicey Moves
+##### Stunts
 
-If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check against the ability score that the action is going to use. The DC depends on the current environment and the dice tell the tale.
+If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check. The DC depends on the current environment and the dice tell the tale.
 
 ---
 
