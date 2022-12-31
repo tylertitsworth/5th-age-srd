@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Loot: Treasure Rewards
 
 Use the guidelines that follow to decide how many gold pieces and magic items to reward to successful adventurers.

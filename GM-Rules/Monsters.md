@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Monster Rules
 
 ## Monster Stats
