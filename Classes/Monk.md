@@ -54,9 +54,9 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | 3 adv | 3 adv,1 champ | 3 + Wis mod |  | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | 3 adv; 1 champ | 3 adv; 1 champ | 3 + Wis mod |  | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | 3 adv; 1 champ | 2 adv; 2 champ | 3 + Wis mod | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 adv; 1 champ | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 adv; 1 champ; 1 epic | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 3 adv; 1 champion 1 epic | 2 adv; 2 champ; 2 epic | 3 + Wis mod | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 adv; 1 champ | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 adv; 1 champ; 1 epic | 2 adv; 2 champ; 1 epic | 3 + Wis mod |  | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 3 adv; 1 champion 1 epic | 2 adv; 2 champ; 2 epic | 3 + Wis mod | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
@@ -73,7 +73,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x level) + Con mod |
+| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
 | **Talents** | 3 (see [level progression chart](#level-progression)) |

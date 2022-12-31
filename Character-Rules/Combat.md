@@ -27,7 +27,7 @@ Calculate the ability modifier subtracting 10 from the ability score, halving th
 
 At 5th level, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
 
-At 8th level, triple the ability score modifier.
+At 8th level, quadruple the ability score modifier.
 
 Spells indicate a specific number of dice to roll for damage. Weapon attacks work differently.
 
@@ -250,7 +250,7 @@ By default, characters in a battle are free. They can move freely, use ranged at
 
 #### Engaged
 
-Characters are engaged when they are in melee with foes. Engaged creatures can use melee attacks and close-quarter spells against the creatures they engage. They can use ranged attacks but doing so draws opportunity attacks from the enemies that are engaging them that they don't attack, as does moving away from the enemies they're engaged with.
+Characters are engaged when they are in melee with foes. Engaged creatures can use melee attacks and close-quarter spells against the creatures they engage. They can use ranged attacks but doing so draws opportunity attacks from the enemies that are engaging them, as does moving away from the enemies they're engaged with.
 
 Unengaged creatures have no particular limits on how they move. They can't use melee attacks until engaged.
 
@@ -282,7 +282,9 @@ When a creature gets to make an opportunity attack, it can make a basic melee at
 
 #### Intercepting
 
-If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are. The GM rules on what counts as moving "past" a defending character or enemy.
+If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are as an interrupt action. The GM rules on what counts as moving "past" a defending character or enemy.
+
+Only one creature can intercept a single enemy moving past them at a time.
 
 ---
 
@@ -372,7 +374,7 @@ When you use an attack, you declare which attack you are using and pick its targ
 
 #### Ranged Attacks
 
-Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you that you don't target with the attack.
+Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you.
 
 ---
 
@@ -462,9 +464,9 @@ Every creature has hit points. You slay enemies (or occasionally knock them out)
 
 ### Recoveries
 
-Each PC starts the adventure with 8 or 9 recoveries, a stat that represents the PC's ability to heal or bounce back from damage. Many healing spells and potions require you to use up a recovery. So does rallying during a battle.
+Each PC starts the adventure with 7-10 recoveries, a stat that represents the PC's ability to heal or bounce back from damage. Many healing spells and potions require you to use up a recovery. So does rallying during a battle.
 
-When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use.
+When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use. At 7th level PCs get to roll [more](../Classes/README.md#recovery-dice-progression) recovery dice.
 
 At 5th level, double the bonus you get from your Con modifier. At 8th level, triple it.
 
@@ -548,7 +550,7 @@ The universal combat modifier is +2 when you have advantageous circumstances. Si
 
 ### Shooting into Melee
 
-When using a ranged attack to target an enemy that is engaged with one or more of your allies and you fumble (roll a 1), reroll that attack considering the engaged ally as the target. If there are multiple allies, the GM rules which ally is the target.
+When using a ranged attack to target an enemy that is engaged with one or more of your allies, or using a close-quarters attack to target an enemy you are not engaged with that is engaged with one or more of your allies, a fumble (a natural 1) means that you hit one of those allies for half damage. If you have more than one ally engaged with the target, choose randomly.
 
 ---
 
@@ -612,7 +614,7 @@ You suffer a –4 penalty to defenses and can't take any actions.
 
 #### Vulnerable
 
-Attacks against you have their crit range expanded by 2 (normally 18+).
+The first time an attack you are vulnerable to misses you each turn, the attacker can reroll the attack once. You don’t get to reroll every attack against a creature that’s vulnerable to your attacks, just the first missed attack each turn.
 
 ---
 

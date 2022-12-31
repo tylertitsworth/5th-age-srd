@@ -56,9 +56,9 @@ Clerics start with 25gp.
 | **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | — | 2 | 4 | — | — | — | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | — | 1 | 6 | — | — | — | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | — | — | 2 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | — | — | 1 | 7 | — | — | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | — | — | — | 2 | 6 | — | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | — | — | — | 1 | 8 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | — | — | 1 | 7 | — | — | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | — | — | — | 2 | 6 | — | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | — | — | — | 1 | 8 | +1 to 3 abilities | 4 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -75,8 +75,8 @@ Although not listed on the table, this class gets three talents. It does not gai
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod |
+| **Recoveries** | 7 |
+| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |

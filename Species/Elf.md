@@ -21,6 +21,8 @@ Otherwise, if your class would ordinarily have an attack penalty with such sword
 
 ### Species Power
 
+Choose one of the following species powers.
+
 #### Cruel
 
 Once per battle, deal ongoing damage to a target you hit with a natural even attack roll as a free action. The ongoing damage equals 5 times your level. (For example, at 3rd level you would deal 15 ongoing damage against a single target.) As usual, a normal save (11+) ends the damage. A critical hit doesn't double this ongoing damage.
@@ -28,6 +30,16 @@ Once per battle, deal ongoing damage to a target you hit with a natural even att
 ##### Champion Feat
 
 Once per day, you can instead use _cruel_ to deal 5 ongoing damage per level against an enemy you miss or that you roll a natural odd attack against.
+
+---
+
+#### Devious Strike
+
+Once per battle when an ally's melee attack misses a foe you're engaged with, you can make a basic melee attack against that foe with a one-handed sword or dagger as a free action. add +4 to your roll.
+
+##### Adventurer Feat
+
+If your Devious Strike hits, gain a +2 bonus to all your defenses until an enemy attack misses you.
 
 ---
 
@@ -41,6 +53,8 @@ Once per day, you can instead use _cruel_ to deal 5 ongoing damage per level aga
 
 ### Species Power
 
+Choose one of the following species powers.
+
 #### Highblood Teleport
 
 Once per battle as a move action, place yourself in a nearby location you can see.
@@ -48,6 +62,16 @@ Once per battle as a move action, place yourself in a nearby location you can se
 ##### Champion Feat
 
 Deal damage equal to twice your level to one enemy engaged with you before or after you teleport.
+
+---
+
+#### Mystic Initiative
+
+Once per battle before you have acted in the current round, you can trade initiative with one of your nearby allies. You both gain 8 temporary hit points (5th: 16 temp hp; 8th: 35 temp hp).
+
+##### Champion Feat
+
+Instead of trading initiative with an ally, you can trade with any enemy! You don't gain any temporary hit points when you use Mystic Initiative on an enemy.
 
 ---
 

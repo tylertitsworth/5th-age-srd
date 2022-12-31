@@ -58,9 +58,9 @@ Druids start with 25gp.
 | **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 2 | 4 | 6 | 5th | | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 2 | 5 | 7 | 5th | | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 3 | 5 | 7 | 7th |+1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 | 6 | 8 | 7th | | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 | 6 | 8 | 7th | | 4 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 4 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 4 x ability modifier |
 
 ## Stats
 
@@ -74,8 +74,8 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | (probably) 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod |
+| **Recoveries** | 8 |
+| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 (4 at 5th level; 5 at 8th level) |
 | **Talents** | 3 |

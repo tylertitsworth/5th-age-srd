@@ -56,9 +56,9 @@ Fighters start with 25gp.
 | **Level 5** | (8 + CON mod) x 8 | 4 adv; 1 champ | 5 | 5th level | 3 |  | 2 x ability modifier |
 | **Level 6** | (8 + CON mod) x 10 | 4 adv; 2 champ | 6 | 5th level | 4 |  | 2 x ability modifier |
 | **Level 7** | (8 + CON mod) x 12 | 4 adv; 3 champ | 6 | 7th level | 4 | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (8 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 7 | 7th level | 4 |  | 3 x ability modifier |
-| **Level 9** | (8 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 7 | 9th level | 4 |  | 3 x ability modifier |
-| **Level 10** | (8 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 8 | 9th level | 4 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (8 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 7 | 7th level | 4 |  | 4 x ability modifier |
+| **Level 9** | (8 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 7 | 9th level | 4 |  | 4 x ability modifier |
+| **Level 10** | (8 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 8 | 9th level | 4 | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
@@ -77,8 +77,8 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | 9 |
-| **Recovery Dice** | (1d10 x Level) + Con mod |
+| **Recoveries** | 7 |
+| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 (see [level progression chart](#level-progression)) |

@@ -58,9 +58,9 @@ The occultist start with 25gp.
 | **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 5 | — | 3 | 3 | — | — |  | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 5 | — | — | 7 | — | — |  | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 5 | — | — | 4 | 4 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 6 | — | — | — | 9 | — |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 6 | — | — | — | 4 | 5 |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6 | — | — | — | — | 10 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 6 | — | — | — | 9 | — |  | 4 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 6 | — | — | — | 4 | 5 |  | 4 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6 | — | — | — | — | 10 | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
@@ -77,7 +77,7 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod |
+| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
 | **Talents** | 4 (see [level progression chart](#level-progression)) |
