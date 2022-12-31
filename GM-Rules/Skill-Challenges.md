@@ -21,6 +21,7 @@ A GM writes a task, which can be written like so:
 
 ```text
 Primary Task: Find a safe way up the ocean cliff face.
+Primary Skills: Athletics and Acrobatics
 Prerequisite: Able to climb.
 Hard - You make it up the cliff face with time to spare and without being noticed.
 Moderate - You make it up the cliff face with no difficulty.
@@ -28,6 +29,8 @@ Moderate - You make it up the cliff face with no difficulty.
     Failure 1 - Dodge the falling rocks that come loose from people climbing above you.
     Failure 2 - Change from an awkward fall to a graceful dive before you hit the water.
 ```
+
+Non-primary skills may not follow the same DC requirements based on the context provided by the player for how their character uses that skill. Usually non-primary skills increase the DC by one level.
 
 Each time a player engages with one of the failure clauses, they get to reroll using a new skill check with a cumulative +2 bonus. Failure clauses come with penalties that are applied to these cumulative skill checks. In the example above, 2 failures would result in a failed task.
 
