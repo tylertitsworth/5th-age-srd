@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Environments
 
 Any place in the game world that a player might want to make a skill check is an environment, of which there are three tiers: adventurer, champion, and epic.

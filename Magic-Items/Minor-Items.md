@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Minor Items
 
 ## Accurate measuring spoons
