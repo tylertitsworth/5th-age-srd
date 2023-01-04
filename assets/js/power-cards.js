@@ -1,17 +1,32 @@
 function powerPrint() {
-    // alert("TESTING")
+    //Get every checkbox
     var checkedBoxes = document.querySelectorAll('input[name=toPrint]:checked');
-    for(var i = 0; i < checkedBoxes.length; i++){
-    console.log(checkedBoxes[i].parentNode.innerText)
-    }
-}
+    //Clear the local storage so we don't get duplicate cards
+    localStorage.clear()
+    // localStorage.setItem("cardsToPrint", checkedBoxes)
+    window.location.href = "../powerCardPrint.html"
+    // Checkboxes will be hidden on next page, otherwise current page will lose checkboxes
+    // Make a new webpage using the information in checkedBoxes
 
+    var cards = []
+    for(var i = 0; i < checkedBoxes.length; i++){
+    var currentNode = checkedBoxes[i].parentNode
+    currentNode.querySelector(".toPrintCheckbox").remove()
+    cards.push(currentNode.innerHTML)
+    // console.log(currentNode.innerHTML)
+    }
+     localStorage.setItem("cardsToPrint", cards)
+     
+}
 function createButtons(){
+    // Get the wrapper that contains all of our class stuff
     var wrapper = document.getElementById("content-wrapper")
     if(!wrapper){
         console.log("wrapper is null")
     }
 
+    //Go through each div in the class and add a print checkbox
+    //TODO: Remove check box from divs that should not be printed
     var nodes = wrapper.getElementsByTagName("div");
     for(var i = 0; i < nodes.length; i++){
         var checkbox = document.createElement('input')
@@ -19,6 +34,7 @@ function createButtons(){
         checkbox.name = "toPrint"
         checkbox.className ="toPrintCheckbox"
         // nodes[i].appendChild(checkbox)
+        //Insert the checbox right after the heading
         nodes[i].insertBefore(checkbox, nodes[i].children[1])
     }
 
