@@ -4,7 +4,6 @@ function powerPrint() {
     //Clear the local storage so we don't get duplicate cards
     localStorage.clear()
     // localStorage.setItem("cardsToPrint", checkedBoxes)
-    window.location.href = "../powerCardPrint.html"
     // Checkboxes will be hidden on next page, otherwise current page will lose checkboxes
     // Make a new webpage using the information in checkedBoxes
 
@@ -16,6 +15,7 @@ function powerPrint() {
     // console.log(currentNode.innerHTML)
     }
      localStorage.setItem("cardsToPrint", cards)
+     window.location.href = "../../Printing/README.html"
      
 }
 function createButtons(){
