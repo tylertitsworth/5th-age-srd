@@ -11,7 +11,8 @@ function powerPrint() {
     for(var i = 0; i < checkedBoxes.length; i++){
     var currentNode = checkedBoxes[i].parentNode
     currentNode.querySelector(".toPrintCheckbox").remove()
-    cards.push(currentNode.innerHTML)
+    var cardScript = '<div class = "powerCard">\n' + currentNode.innerHTML + '\n</div>'
+    cards.push(cardScript)
     // console.log(currentNode.innerHTML)
     }
      localStorage.setItem("cardsToPrint", cards)
@@ -23,6 +24,7 @@ function createButtons(){
     var wrapper = document.getElementById("content-wrapper")
     if(!wrapper){
         console.log("wrapper is null")
+        return
     }
 
     //Go through each div in the class and add a print checkbox
