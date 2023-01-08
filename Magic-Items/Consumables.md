@@ -46,6 +46,8 @@ Drinking this potion gives the character a temporary incremental advance. This a
 
 **Costs** 150 gp/300 gp/600gp.
 
+---
+
 ### Fortification
 
 For the duration of this potion, you get a +1 bonus to saves against effects caused by foes and hazards of the same tier or lower as the potion. Saves against higher-tier threats aren’t affected by the potion. Costs 150 gp/300 gp/600gp.
@@ -56,17 +58,23 @@ This potion suppresses the animal furies and lusts of lycanthropes, and allows a
 
 **Costs** 100gp.
 
+---
+
 ### Salvation
 
 You may immediately make a save against an ongoing save ends effect caused by a foe or hazard of the same tier or lower as the potion.
 
 **Costs** 50gp/100gp/200gp.
 
+---
+
 ### Rejuvenation
 
 A draught of this potion removes fatigue, hunger and thirst. It’s as if you’d slept solidly for eight hours and had a square meal afterwards. You still need to wait until you get a full heal-up before you can refresh your powers and recoveries, but this potion takes care of basic necessities like sleep and food.
 
 **Costs** 100gp.
+
+---
 
 ### Trollblood
 
