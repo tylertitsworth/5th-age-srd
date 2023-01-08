@@ -20,6 +20,13 @@ function powerPrint() {
      
 }
 function createButtons(){
+    
+    //If this is the printing page, I don't want to add checkmarks
+    var printingPage = document.getElementById("printPage")
+    if(printingPage){
+        return
+    }
+
     // Get the wrapper that contains all of our class stuff
     var wrapper = document.getElementById("content-wrapper")
     if(!wrapper){
