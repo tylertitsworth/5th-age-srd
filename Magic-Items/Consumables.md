@@ -32,11 +32,11 @@ When you drink one of these potions, you gain resistance to a single specified e
 
 ### Resistance Potion Costs
 
-| **Tier** | **Resistance** | **Cost** |
-| --- | --- | --- |
-| Adventurer | Resist 16+ | 100 gp |
-| Champion | Resist 16+ | 200 gp |
-| Epic | Resist 16+ | 400 gp |
+| **Tier** | **Cost** |
+| --- | --- |
+| Adventurer | 100 gp |
+| Champion | 200 gp |
+| Epic | 400 gp |
 
 ---
 
