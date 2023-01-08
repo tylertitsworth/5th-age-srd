@@ -50,9 +50,13 @@ Drinking this potion gives the character a temporary incremental advance. This a
 
 ### Fortification
 
-For the duration of this potion, you get a +1 bonus to saves against effects caused by foes and hazards of the same tier or lower as the potion. Saves against higher-tier threats aren’t affected by the potion. Costs 150 gp/300 gp/600gp.
+For the duration of this potion, you get a +1 bonus to saves against effects caused by foes and hazards of the same tier or lower as the potion. Saves against higher-tier threats aren’t affected by the potion.
 
-#### Mental Fortitude
+**Costs** 150gp/300gp/600gp.
+
+---
+
+### Mental Fortitude
 
 This potion suppresses the animal furies and lusts of lycanthropes, and allows a wild werecreature to retain full control in hybrid or beast form, even in the full moon. For non-lycanthropes, it gives a +4 bonus to Mental Defense for one fight. Each time MD is targeted, the bonus drops by 1.
 
