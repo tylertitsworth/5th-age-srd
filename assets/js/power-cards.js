@@ -1,3 +1,10 @@
+//Used to check how many feats are attached to this feature
+//Needed to group the feats with the feature when printing
+function checkFeats(currentDiv){
+    var numFeats = 0
+    return numFeats
+}
+
 function powerPrint() {
     //Get every checkbox
     var checkedBoxes = document.querySelectorAll('input[name=toPrint]:checked');
@@ -7,12 +14,12 @@ function powerPrint() {
     // Checkboxes will be hidden on next page, otherwise current page will lose checkboxes
     // Make a new webpage using the information in checkedBoxes
 
-    var cards = []
+    var cards = ""
     for(var i = 0; i < checkedBoxes.length; i++){
     var currentNode = checkedBoxes[i].parentNode
     currentNode.querySelector(".toPrintCheckbox").remove()
-    var cardScript = '<div class = "powerCard">\n' + currentNode.innerHTML + '\n</div>'
-    cards.push(cardScript)
+    var cardScript = '<div class = "powerCard">\n' + currentNode.innerHTML + '\n</div>\n'
+    cards += cardScript
     // console.log(currentNode.innerHTML)
     }
      localStorage.setItem("cardsToPrint", cards)
@@ -38,6 +45,10 @@ function createButtons(){
     //TODO: Remove check box from divs that should not be printed
     var nodes = wrapper.getElementsByTagName("div");
     for(var i = 0; i < nodes.length; i++){
+        if(nodes[i].firstElementChild.tagName == "H1" || nodes[i].firstElementChild.tagName == "H2"){
+            continue
+        }
+        console.log(nodes[i].firstElementChild.tagName)
         var checkbox = document.createElement('input')
         checkbox.type = "checkbox"
         checkbox.name = "toPrint"

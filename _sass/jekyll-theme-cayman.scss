@@ -31,6 +31,7 @@
   .page-header { display: none; }
   .site-footer { display: none; }
   #sidebar { display: none; }
+  .click-here-to-print-chosen-cards{ display:none; }
   #content-wrapper {
     color: black;
     h1 { color: black; }
@@ -39,36 +40,114 @@
     h4 { color: black; }
     h5 { color: black; }
     h6 { color: black; }
+
+    display: block;
+    // display: flex;
+    // flex-direction: row;
+    // flex-wrap: wrap;
+    // justify-content: flex-start;
+    // align-items: flex-start;
+    // align-content: flex-start;
+    // break-inside: avoid;
+
     div {
-      font-size: 0pt;
-      height: 0;
+
+      h1 { font-size: 10px; }
       hr { display: none; }
-      line-height: 0;
-      margin: 0;
-      padding: 0;
+      table { display: none; }
+      float: left;
       visibility: hidden;
-      table{ display: none; }
-      &.selected {
-        border: dashed;
-        min-width: 2.25in;
-        min-height: 3.5in;
-        max-width: 2.25in;
-        max-height: 3.5in;
-        font-size: 8px;
-        height: auto;
-        justify-content: center;
-        line-height: 1.5;
-        margin: 20px;
-        overflow: hidden;
-        padding: 0.05in;
-        page-break-inside: avoid;
-        position: absolute;
-        top: 0px;
-        visibility: visible;
-      }
-    }
+      break-inside: avoid;
+      border: dashed;
+      font-size: 8px;
+      height: auto;
+      justify-content: center;
+      line-height: 1.5;
+      margin: 20px;
+      overflow: hidden;
+      padding: 0.05in;
+      // position: absolute;
+      top: 0px;
+      visibility: visible;
+      min-width: 2.25in;
+      min-height: 3.5in;
+      max-width: 2.25in;
+      max-height: 3.5in;
+   }
   }
 }
+
+// @media print {
+//   .main-wrapper { background-color: white; }
+//   .page-header { display: none; }
+//   .site-footer { display: none; }
+//   #sidebar { display: none; }
+//   #content-wrapper {
+//     color: black;
+//     h1 { color: black; }
+//     h2 { color: black; }
+//     h3 { color: black; }
+//     h4 { color: black; }
+//     h5 { color: black; }
+//     h6 { color: black; }
+//     div {
+//       font-size: 0pt;
+//       height: 0;
+//       line-height: 0;
+//       margin: 0;
+//       padding: 0;
+//       visibility: hidden;
+//       display: inline-block;
+//       hr { display: none; }
+//       table{ 
+//         resize: auto;
+//         visibility: hidden;
+//         font-size: 8px;
+//        }
+//       &.selected {
+
+//         min-width: 2.25in;
+//         min-height: 3.5in;
+//         max-width: 2.25in;
+//         max-height: 3.5in;
+//         border: dashed;
+//         overflow: hidden;
+//         display: flex;
+//         flex-direction: column;
+//         flex-wrap: wrap;
+//         justify-content: flex-start;
+//         align-items: flex-start;
+//         align-content: flex-start;
+//         p{ 
+//           flex-basis: auto;
+//           flex-shrink: 2;
+
+//         }
+//         // align-content: ;
+  
+//         font-size: 8px;
+//         text-size-adjust: auto;
+//         height: auto;
+//         justify-content: center;
+//         line-height: 1.5;
+//         margin: 20px;
+
+
+//         // display: block;
+//         // white-space: nowrap;
+//         // text-overflow: ellipsis;
+//         // word-wrap: break-word;
+
+//         padding: 0.05in;
+//         page-break-inside: avoid;
+//         position: absolute;
+//         top: 0px;
+//         visibility: visible;
+
+//       }
+//     }
+//   }
+// }
 
 body {
   padding: 0;
@@ -543,6 +622,14 @@ a {
     background-color: $hr-border-color;
     border: 0;
   }
+
+  .toPrintCheckbox {
+    position: relative;
+    bottom: 41px;
+    float: right;
+    // display: flex;
+  }
+
 }
 
 .site-footer {
@@ -570,4 +657,12 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+#printButton {
+  :hover{
+    color: $body-link-color;
+    text-decoration: underline $body-link-color
+
+  }
 }

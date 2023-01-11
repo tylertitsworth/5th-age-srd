@@ -5,4 +5,5 @@ layout: doc
 <span id="printPage"></span>
 
 # Click Here to Print Chosen Cards
+{: #printButton}
 
