@@ -198,7 +198,7 @@ In certain circumstances, characters can intercept foes moving past them, make o
 
 A creature's position amounts to two things: the creature's whereabouts, and who it's contending with in melee.
 
-<img src="https://user-images.githubusercontent.com/43555799/211723030-aed15878-697c-4491-a11e-aa44fb943282.jpg" alt="13thAge-PositionalTracker" width="25%" align="middle" />
+<img src="https://user-images.githubusercontent.com/43555799/211723030-aed15878-697c-4491-a11e-aa44fb943282.jpg" alt="13thAge-PositionalTracker" width="100%" align="middle" />
 
 ---
 
