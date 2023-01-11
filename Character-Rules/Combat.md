@@ -164,9 +164,17 @@ The escalation die represents a bonus to attacks as the fight goes on.
 
 At the start of the second round, the GM sets the escalation die at 1. Each PC gains a bonus to attack rolls equal to the current value on the escalation die. Each round, the escalation die advances by +1, to a maximum of +6.
 
-Monsters and NPCs do not add the escalation die bonus to their attacks
+Most Monsters and NPCs do not add the escalation die bonus to their attacks.
 
-If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
+Some conditions can be applied to the escalation die:
+
+- If the opposition consists of nothing but mooks (of less than or equal to the player's level), and the number of mooks is less than 3x the number of player characters, the escalation die will not activate.
+- If the PCs, as a group, failed a skill challenge pause the escalation die.
+- If the foes receive reinforcements, pause, reduce, or reset the escalation die.
+- If a player character falls unconscious, the escalation die pauses.
+- If a player character dies, the escalation die is reduced by 1.
+- After the escalation die has been at its maximum for a number of rounds equal to its maximum (i.e. 6 rounds at +6), it reduces by one per round, every round, regardless of circumstances, until it has reached zero. Once at zero, the escalation die can activate once again.
+- If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
 
 ---
 
