@@ -189,14 +189,14 @@ Animal companion feats are designed so that they do not build on each other. Unl
 
 ## Adventurer Feats
 
-- Once per day, your animal companion can attack twice in a round with a standard action.
+- Once per full recovery, your animal companion can attack twice in a round with a standard action.
 - Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
-- Once per day, reroll one of your animal companion's missed attack rolls.
+- Once per full recovery, reroll one of your animal companion's missed attack rolls.
 - Your animal companion adds the escalation die to its attacks.
 
 ## Champion Feats
 
-- Once per day, your animal companion can force an enemy to reroll an attack that hit it.
+- Once per full recovery, your animal companion can force an enemy to reroll an attack that hit it.
 - Your Lethal Hunter talent also applies to your animal companion.
 - Increase your animal companion's Physical Defense and Mental Defense by +1.
 

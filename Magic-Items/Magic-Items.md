@@ -347,7 +347,7 @@ When you hit with this ammunition and deal damage, if the target has 40 hp or fe
 
 #### Dolorous Bolt
 
-This crossbow bolt inflicts a special form of ongoing damage – the victim takes 50 damage, but suffers that damage every day instead of every round. There is no save against this damage, and nothing less than a [Wish](../Classes/Wizard.md#wish) spell can remove it. The damage recurs at the exact same time every day. Some creatures may simply die, but anyone worth shooting with an epic-tier weapon probably has the hit points and healing to survive the ongoing hit point damage. The constant pain and the knowledge that the agony’s going to recur every day for as long as they live are other matters entirely.
+This crossbow bolt inflicts a special form of ongoing damage – the victim takes 50 damage, but suffers that damage every full recovery instead of every round. There is no save against this damage, and nothing less than a [Wish](../Classes/Wizard.md#wish) spell can remove it. The damage recurs at the exact same time every full recovery. Some creatures may simply die, but anyone worth shooting with an epic-tier weapon probably has the hit points and healing to survive the ongoing hit point damage. The constant pain and the knowledge that the agony’s going to recur every full recovery for as long as they live are other matters entirely.
 
 >_Note:_ One of the Crusader’s madmen shot the King of the Stone Giants with a dolorous bolt. Around the same time, you start hearing stories that the Dark Gods can cure any injury if you swear to serve them forever. Think the Crusader’s mad enough to risk a war with the giants on the off-chance of snaring their king’s soul? - Hresta, half-elf ranger
 
@@ -1193,7 +1193,7 @@ _Recharge 16+:_ Activate this ability when you are the last player character lef
 
 _Recharge 16+:_ Only sorcerers can benefit from this armor. Only sorcerers are mad enough to wear it. This armor is made from scales taken from Umbraxatar, living dragonscales infused with the power of the Shadowfell. You gain an extra Sorcerer talent, which must be spent on either Blood Link or Chromatic Destroyer Heritage. Got both those talents already? Then have a free feat, which must be spend on augmenting one of those talents. You may also channel Umbraxatar's power. This lets you gather power as a quick action, but Umbraxatar gets a say in the spellcasting. He might have his own ideas about the choice of targets, or demand that you carry out some particular course of action or repay him by doing him some service. Of course, if you’re wearing this armor, you must be a loyal ally of a chromatic dragon, and so you will have no qualms whatsoever about letting him sniff around inside your soul...
 
-**Quirk:** The dividing line between you and Her gets blurrier every day.
+**Quirk:** The dividing line between you and Her gets blurrier every full recovery.
 
 ---
 
@@ -1473,7 +1473,7 @@ _Recharge 11+:_ When you rally, one nearby ally heals hit points equal to twice 
 
 #### Girdle of Second Chances
 
-These girdles are popular with nobles who like to hide girth gained through over-indulgences, while being assured of the safety of their food and drink. You have resist poison 16+, and when you save against ongoing poison damage or effects caused by attacks that do poison damage, roll twice and take the best result. In addition, once per day, you can drink a potion as a quick action.
+These girdles are popular with nobles who like to hide girth gained through over-indulgences, while being assured of the safety of their food and drink. You have resist poison 16+, and when you save against ongoing poison damage or effects caused by attacks that do poison damage, roll twice and take the best result. In addition, once per full recovery, you can drink a potion as a quick action.
 
 **Quirk:** Extreme epicurean.
 
@@ -1749,7 +1749,7 @@ Whenever you take ongoing damage, roll an immediate save to end the effect witho
 
 ## Book, Scroll, Tome, Grimoire
 
-Mastering a book requires a course of study and practice, usually accomplished over a day or more. Sometimes a book will reject a reader, leaving them either confounded or disturbed.
+Mastering a book requires a course of study and practice, usually accomplished over a full recovery or more. Sometimes a book will reject a reader, leaving them either confounded or disturbed.
 
 ### Default Bonus
 
@@ -1992,7 +1992,7 @@ _Recharge 16+:_ When you roll a skill check using Intelligence, Wisdom, or Chari
 
 #### Tome of Beasts
 
-This tome contains anatomical and cryptozoological diagrams. After each full heal-up, choose a specific creature. Until the end of the day, you gain a +3 attack bonus against that specific creature (e.g., “the stone golem that we saw yesterday”); a +2 attack bonus against creatures of the same species or ilk (e.g., stone golems); and +1 attack bonus against creatures of the same type (e.g., constructs).
+This tome contains anatomical and cryptozoological diagrams. After each full heal-up, choose a specific creature. Until the end of the full recovery, you gain a +3 attack bonus against that specific creature (e.g., “the stone golem that we saw yesterday”); a +2 attack bonus against creatures of the same species or ilk (e.g., stone golems); and +1 attack bonus against creatures of the same type (e.g., constructs).
 
 **Quirk:** Always consulting the tome.
 
@@ -2162,7 +2162,7 @@ _Recharge 6+:_ These elegant boots lighten your heart, and make you want to danc
 
 1/Day
 
-Until the end of the battle, you can move as a free action once each turn. Used outside of battle, these boots let you run at top speed for half a day, making a journey on foot that takes days take only hours.
+Until the end of the battle, you can move as a free action once each turn. Used outside of battle, these boots let you run at top speed for half a full recovery, making a journey on foot that takes days take only hours.
 
 **Quirk:** Impatient.
 
@@ -2534,7 +2534,7 @@ In combat, the growth of plants around your feet hinders your foes. Enemies take
 
 **Quirk:** Suffers from hayfever.
 
->_Note:_ In the village of Hawhedge, the punishment for many crimes is to spend a day walking up and down the fields in the “Boots of Justice”. They’re a pair of verdant boots, only with a ball and chain attached to each boot. The ball’s hollow and pierced with lots of little holes, and the villagers fill it with seeds of whatever plants they want to grow that day. - Synix Alacostar, Wizard of Horizon
+>_Note:_ In the village of Hawhedge, the punishment for many crimes is to spend a full recovery walking up and down the fields in the “Boots of Justice”. They’re a pair of verdant boots, only with a ball and chain attached to each boot. The ball’s hollow and pierced with lots of little holes, and the villagers fill it with seeds of whatever plants they want to grow that full recovery. - Synix Alacostar, Wizard of Horizon
 
 ---
 
@@ -3127,11 +3127,11 @@ _Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die.
 
 #### Doppelganger Cloaks
 
-These cloaks are always found in pairs. To activate the set, wear one cloak and leave the other cloak where no-one can see it. When you leave, the other cloak will come to life and conjure an illusory copy of you. This copy will go about its business, roughly mimicking your day-to-day life as best it can. When you return to the place you buried the cloak, your doppelganger will return and then whisper a onesentence message that sums up its exploits while wearing your face (“went to the market”, “visited your aunt”, “worshipped the dark lord” and the like) before vanishing back into the cloak.
+These cloaks are always found in pairs. To activate the set, wear one cloak and leave the other cloak where no-one can see it. When you leave, the other cloak will come to life and conjure an illusory copy of you. This copy will go about its business, roughly mimicking your full recovery-to-full recovery life as best it can. When you return to the place you buried the cloak, your doppelganger will return and then whisper a onesentence message that sums up its exploits while wearing your face (“went to the market”, “visited your aunt”, “worshipped the dark lord” and the like) before vanishing back into the cloak.
 
 The function of the cloak is to create a semi-reliable alibi to hide illicit activities (like being a devoted follower or organizing priest of the Cultist!). The doppelganger will always try to avoid the original if possible, and will only willingly meet its progenitor at the spot where it was ‘born’—the private spot where the empty cloak was hidden. If by some mischance a meeting between the two cannot be avoided, the doppelganger vanishes prematurely.
 
-The illusory duplicate cannot attack, and vanishes if it takes any serious damage. It’s semi-solid and can perform basic tasks, but not with any degree of skill or accomplishment. For example, if you usually chop wood all day, then your cloakdoppelganger will also chop wood, but it’ll do a poor job and can’t attack with the axe.
+The illusory duplicate cannot attack, and vanishes if it takes any serious damage. It’s semi-solid and can perform basic tasks, but not with any degree of skill or accomplishment. For example, if you usually chop wood all full recovery, then your cloakdoppelganger will also chop wood, but it’ll do a poor job and can’t attack with the axe.
 
 **Quirk:** Exceptionally paranoid.
 
@@ -3409,7 +3409,7 @@ _Recharge 11+:_ Use the rogue [Swashbuckle](../Classes/Rogue.md#swashbuckle) tal
 
 #### Thousand Rainbow-Scale Cape
 
-This cloak is embellished with tiny scales taken from all types of scaled creatures (not just the usual five dragon types but also strange purple-, gray-, yellow-, pink-, and orange-hued scales are found on this cloak). When you attune the cloak, choose one of your talents, and a talent from another class that works with your current class. After each full heal-up, determine which of these talents (including its feats) will be available to you. Once per day when you roll initiative, you can swap these talents.
+This cloak is embellished with tiny scales taken from all types of scaled creatures (not just the usual five dragon types but also strange purple-, gray-, yellow-, pink-, and orange-hued scales are found on this cloak). When you attune the cloak, choose one of your talents, and a talent from another class that works with your current class. After each full heal-up, determine which of these talents (including its feats) will be available to you. Once per full recovery when you roll initiative, you can swap these talents.
 
 **Quirk:** Of two minds about things.
 
@@ -3973,7 +3973,7 @@ Mental defense: +1 MD (adventurer); +2 MD (champion); +3 MD (epic).
 
 #### Animated Ribbons
 
-_Recharge 16+:_ These long scarlet ribbons animate to keep you safe. When you are helpless and an enemy tries to attack you, the ribbons pull you out of danger (for example, popping you free from an enemy about to perform a coup de grace). In addition, when you go a full day without becoming helpless, during the next adventuring day you gain a single use of an at-will or basic attack as a quick action as the ribbons use your weapon or spells for you.
+_Recharge 16+:_ These long scarlet ribbons animate to keep you safe. When you are helpless and an enemy tries to attack you, the ribbons pull you out of danger (for example, popping you free from an enemy about to perform a coup de grace). In addition, when you go a full full recovery without becoming helpless, during the next adventuring full recovery you gain a single use of an at-will or basic attack as a quick action as the ribbons use your weapon or spells for you.
 
 **Quirk:** Keeps pointless secrets.
 
@@ -3981,7 +3981,7 @@ _Recharge 16+:_ These long scarlet ribbons animate to keep you safe. When you ar
 
 #### Arcane Eyes
 
-This set of 12 glass eyes levitates around your head in a halo, and at your direction, some can float off to investigate nearby objects. You can see through the eyes, giving you 360° vision and excellent night vision (gain a +2 bonus to checks to avoid surprise). Twice per day outside of battle, you can send some eyes nearby to look around corners or into pits.
+This set of 12 glass eyes levitates around your head in a halo, and at your direction, some can float off to investigate nearby objects. You can see through the eyes, giving you 360° vision and excellent night vision (gain a +2 bonus to checks to avoid surprise). Twice per full recovery outside of battle, you can send some eyes nearby to look around corners or into pits.
 
 **Quirk:** Enjoys people-watching.
 
@@ -4385,7 +4385,7 @@ _Recharge 6+:_ This color-changing wig animates at your command, altering its le
 
 #### Wizard’s Hat of Conjuration
 
-Once per day, you can pull a useful non-magical common item out of this hat. The item must be able to fit through the brim of the hat, so you couldn’t pull out a siege engine or a horse. You could, though, produce a sword, or length of chain, or a saw, or a delicate vase decorated with salacious paintings of frolicking kobolds. The hat can also produce small living creatures, like rabbits or cats or doves or maybe even the aforementioned frolicking kobolds.
+Once per full recovery, you can pull a useful non-magical common item out of this hat. The item must be able to fit through the brim of the hat, so you couldn’t pull out a siege engine or a horse. You could, though, produce a sword, or length of chain, or a saw, or a delicate vase decorated with salacious paintings of frolicking kobolds. The hat can also produce small living creatures, like rabbits or cats or doves or maybe even the aforementioned frolicking kobolds.
 
 **Quirk:** Kleptomania; you unconsciously steal items and stick them inside your hat. Sometimes, you can’t find them again afterwards.
 
@@ -5297,7 +5297,7 @@ _Recharge 11+:_ This ring changes appearance depending on which finger it is wor
 
 #### Minor Transmutation
 
-A number of times per day equal to the highest modifier of your Int, Wis, or Cha
+A number of times per full recovery equal to the highest modifier of your Int, Wis, or Cha
 
 This ring is made of many twisted bands of different materials. Pass your hand over a small object to transform it in a minor way (e.g., a rag into a silk handkerchief, a copper coin into a gold coin, a blank parchment into a map, an iron nail into a key). Transformations last up to an hour.
 
@@ -6057,7 +6057,7 @@ the crevices.
 
 When an attack reduces you to 0 or less hit points, you may activate the shield and immediately roll your Constitution + Level against the enemy’s corresponding Defense to the one of yours targeted by the killing attack (for example, if you were brought down by an attack targeting MD, your retributive strike also targets the enemy’s MD). If you hit, you deal exactly half as much damage (rounding up) to the enemy as the enemy did just did to you.
 
-**Quirk:** Live each day as if it’s your last. After a few weeks, the bearer of the shield rapidly comes to resemble the shield’s haggard, run-down appearance.
+**Quirk:** Live each full recovery as if it’s your last. After a few weeks, the bearer of the shield rapidly comes to resemble the shield’s haggard, run-down appearance.
 
 ---
 
@@ -6552,7 +6552,7 @@ _Recharge 11+:_ This staff was originally a simple tree-branch used as a walking
 
 #### Time
 
-1/day
+1/full recovery
 
 The staff is a long, thin, and very durable hourglass. When you use this power, you gain your own escalation die to use during battle. Roll a d6: on a 1–3, your escalation die increases by 1 above the existing escalation die; on a 4–6, it increases by 2. Your escalation die advances normally, and it only affects your attacks and effects. Alternately, you can give one enemy that uses the escalation die (like a dragon) its own escalation die with a similar penalty instead.
 
@@ -6820,7 +6820,7 @@ Cause a plant to grow 1d4 berries that function as heroic-tier healing potions (
 
 1/Day
 
-You can magically create juicy, edible berries. The amount of food you can produce each day is enough to feed you well, or to barely keep a small group from starving or dying of thirst. After a rest, you can set aside a special goldenberry for yourself or an ally. As a quick action, a creature can eat the goldenberry to heal using a recovery.
+You can magically create juicy, edible berries. The amount of food you can produce each full recovery is enough to feed you well, or to barely keep a small group from starving or dying of thirst. After a rest, you can set aside a special goldenberry for yourself or an ally. As a quick action, a creature can eat the goldenberry to heal using a recovery.
 
 **Quirk:** Prefers veganism.
 
@@ -7912,7 +7912,7 @@ _Recharge 11+:_ Ammunition fired from this weapon transforms into bird-like form
 
 Melee Weapon
 
-You always know when any nearby creature you can see (including your allies) is vulnerable. Once-per-day when you or an ally scores a critical hit against a vulnerable enemy, that attack deals triple damage instead of double.
+You always know when any nearby creature you can see (including your allies) is vulnerable. Once-per-full recovery when you or an ally scores a critical hit against a vulnerable enemy, that attack deals triple damage instead of double.
 
 **Quirk:** Exploits emotional vulnerabilities.
 
@@ -8732,7 +8732,7 @@ Bow
 
 1/Campaign
 
-When you score a critical hit twice during the same day (between full heal-ups) using this bow, it shatters and disappears, and you can make a wish. The wish takes the following form: during the start of your next session.
+When you score a critical hit twice during the same full recovery (between full heal-ups) using this bow, it shatters and disappears, and you can make a wish. The wish takes the following form: during the start of your next session.
 
 **Quirk:** Cautions others to be careful what they say, but speaks rashly themselves.
 
@@ -8880,7 +8880,7 @@ Characters may attune to this brass bell during a full heal-up. When the bell is
 
 1/Battle
 
-Add this tattoo’s default bonus to attacks and damage you make with non-magical ranged weapons. When you make a ranged attack with a thrown weapon, increase the damage dice by one size (2d4 + 1 becomes 2d6 + 1, 5d6 + 3 becomes 5d8 + 3, etc.). Once per day, you can cast the wizard cantrip mage hand on a faraway object.
+Add this tattoo’s default bonus to attacks and damage you make with non-magical ranged weapons. When you make a ranged attack with a thrown weapon, increase the damage dice by one size (2d4 + 1 becomes 2d6 + 1, 5d6 + 3 becomes 5d8 + 3, etc.). Once per full recovery, you can cast the wizard cantrip mage hand on a faraway object.
 
 **Quirk:** Fears the evil eye.
 
@@ -8993,7 +8993,7 @@ One in four mugs of ale you drink from this mug will be magically transformed in
 
 #### Eldritch Claw Palm Tattoo
 
-Your unarmed attacks are considered magical and you gain a +1 to attack and damage rolls with unarmed attacks. Once per day, as a quick action you can empower the tattoo and for the rest of the battle you can attack enemies nearby that you are not engaged with as inky tendrils launch towards your foes. Your melee unarmed attacks deal an extra 1d6 force damage on a hit.
+Your unarmed attacks are considered magical and you gain a +1 to attack and damage rolls with unarmed attacks. Once per full recovery, as a quick action you can empower the tattoo and for the rest of the battle you can attack enemies nearby that you are not engaged with as inky tendrils launch towards your foes. Your melee unarmed attacks deal an extra 1d6 force damage on a hit.
 
 ---
 
@@ -9063,7 +9063,7 @@ When you die, you are reincarnated, returning to life in a different form to joi
 
 1/Day
 
-You sing about something and it comes true, to your benefit. The effect should be similar to a onceper- day magic item power. The GM should work with you to determine how you reshape fate, so pick your songs carefully.
+You sing about something and it comes true, to your benefit. The effect should be similar to a onceper- full recovery magic item power. The GM should work with you to determine how you reshape fate, so pick your songs carefully.
 
 **Quirk:** Pretends they know the future.
 
@@ -9169,7 +9169,7 @@ While this pearl is on your person, you can use an action to speak its command w
 
 #### Perfect Disguise
 
-There are many perfect disguises, but each perfect disguise is a different item of clothing or jewelry. When you wear the item, you physically change to look like whatever the disguise is designed to be—a priest’s smock might transform you into a priest, a courtier’s elaborate wig will change you into a noble of the court— and you gain a +10 bonus to all skill checks to pass as that person. The disguise alters the rest of your clothing and equipment, overlaying illusions over those things it can’t transform. You even gain some familiarity with the customs and mannerisms to aid in the masquerade: transformed into a priest, you’ll speak like a priest and can instinctively perform simple religious ceremonies or quote scriptures; the disguise of a courtier would give you the manners and feeling for politics needed to get through a day at court.
+There are many perfect disguises, but each perfect disguise is a different item of clothing or jewelry. When you wear the item, you physically change to look like whatever the disguise is designed to be—a priest’s smock might transform you into a priest, a courtier’s elaborate wig will change you into a noble of the court— and you gain a +10 bonus to all skill checks to pass as that person. The disguise alters the rest of your clothing and equipment, overlaying illusions over those things it can’t transform. You even gain some familiarity with the customs and mannerisms to aid in the masquerade: transformed into a priest, you’ll speak like a priest and can instinctively perform simple religious ceremonies or quote scriptures; the disguise of a courtier would give you the manners and feeling for politics needed to get through a full recovery at court.
 
 One downside is that each disguise is fixed—whoever dons the courtier disguise will be the same courtier, so if a disguise is associated with a crime or is a known persona, then by donning the disguise you might end up being blamed for the crimes of previous owners. The second downside is that the disguise grants enough borrowed knowledge to get through cursory interactions but not true knowledge (a disguise that turns you into a blacksmith gives you enough ‘smith-ness’ to bluff your way as a smith among smiths at the local tavern, but you won’t be able to forge a nail).
 
@@ -9207,7 +9207,7 @@ This bag is bigger on the inside (sleeping-bag size) than on the outside (a smal
 
 #### Saintly Reliquary
 
-Somewhere inside this casket of gold and gemstones is the skull or other body part of a long-dead saint. Once per day, the saint intercedes on your behalf by casting a divine spell. As you’re the bearer of the relic, and hence the saint’s link to the land of the living, the saint’s spell gets treated as though you’d cast it. So, if you’re 7th level, the saint gets one 7th level spell per day, and uses one of your actions to cast it when in battle. You can pick the spell on the fly – it doesn’t need to be prepared ahead of time.
+Somewhere inside this casket of gold and gemstones is the skull or other body part of a long-dead saint. Once per full recovery, the saint intercedes on your behalf by casting a divine spell. As you’re the bearer of the relic, and hence the saint’s link to the land of the living, the saint’s spell gets treated as though you’d cast it. So, if you’re 7th level, the saint gets one 7th level spell per full recovery, and uses one of your actions to cast it when in battle. You can pick the spell on the fly – it doesn’t need to be prepared ahead of time.
 
 The saint’s spirit may also manifest to give you advice, counsel or just harangue you with sermons and religious curses, depending on the saint. At best, that’s a +4 bonus to relevant skill checks. At worse, it’s a headache.
 
@@ -9586,7 +9586,7 @@ This magic tattoo contains a single [wizard spell](../Classes/Wizard.md#spell-li
 
 #### Lifewell Face and Neck Tattoo
 
-You have resist necrotic damage 16+ and once per day if you would be reduced to 0 hit points you drop to 1 hit point instead.
+You have resist necrotic damage 16+ and once per full recovery if you would be reduced to 0 hit points you drop to 1 hit point instead.
 
 ---
 
@@ -9950,7 +9950,7 @@ Increase your maximum recoveries: by 2 (adventurer); by 3 (champion); by 5 (epic
 
 Wide leather belt with acorn designs.
 
-_Always:_ Increase your total recoveries by one, but your gender is switched. Removing the belt reverses the effect but it teleports back onto you if removed for more than 10 minutes. In addition, minor shifts in weight distribution throw your balance off, and you take a –1 penalty with melee attacks during your first battle each day.
+_Always:_ Increase your total recoveries by one, but your gender is switched. Removing the belt reverses the effect but it teleports back onto you if removed for more than 10 minutes. In addition, minor shifts in weight distribution throw your balance off, and you take a –1 penalty with melee attacks during your first battle each full recovery.
 
 ---
 
@@ -9968,7 +9968,7 @@ _Curse:_ The next time one of your allies is hit, that ally must roll a save. If
 
 ##### Tome of Misfortune
 
-Book with an embossed face inside its cover. _1/day:_ Regain one expended full recovery spell that you have cast. When you cast the recovered spell, roll a d6. 1–3: The book chooses the targets for the spell and can consider you and your allies as enemies, or your enemies as allies. 4–6: You choose targets normally.
+Book with an embossed face inside its cover. _1/full recovery:_ Regain one expended full recovery spell that you have cast. When you cast the recovered spell, roll a d6. 1–3: The book chooses the targets for the spell and can consider you and your allies as enemies, or your enemies as allies. 4–6: You choose targets normally.
 
 ---
 
@@ -10324,7 +10324,7 @@ You deal +5 damage with missed attacks, but all of your defenses take a –3 pen
 
 ##### Eye of Vecna
 
-1/day
+1/full recovery
 
 When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
 

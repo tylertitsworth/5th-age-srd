@@ -125,7 +125,7 @@ As a specialist wizard, choose one of the seven wizard schools Abjuration, Conju
 
 ### Cantrips
 
-Every wizard can cast a handful of cantrips each day. You don't have to memorize or choose them beforehand, you just cast them on the fly.
+Every wizard can cast a handful of cantrips each full recovery. You don't have to memorize or choose them beforehand, you just cast them on the fly.
 
 Wizards can cast a number of cantrips equal to their Intelligence modifier each battle. Each cantrip takes a standard action to cast as a ranged spell. Outside of battle, a wizard can cast about three to six cantrips every five minutes. The Cantrip Mastery talent speeds up cantrip casting.
 
@@ -201,7 +201,7 @@ This school covers mainly defense and protection spells.
 
 ##### Champion Feat
 
-Once per day, when casting an Abjuration spell on yourself, also grant the benefit to a nearby ally.
+Once per full recovery, when casting an Abjuration spell on yourself, also grant the benefit to a nearby ally.
 
 ##### Spell List
 
@@ -429,7 +429,7 @@ Unlike normal wizards, who use a standard action to cast a cantrip, you can cast
 
 To do something particularly cunning or surprising with one of your cantrips where the GM isn't sure whether you could pull off that use of the spell, roll a normal save (11+) to cast the spell the way you envision it.
 
-Additionally, you can expend a 3rd level spell slot or higher to choose one cantrip per spell slot you have given up and create a once-per-day related effect with it that is much greater, if you and your GM can agree on a cool effect that suits the cantrip.
+Additionally, you can expend a 3rd level spell slot or higher to choose one cantrip per spell slot you have given up and create a once-per-full recovery related effect with it that is much greater, if you and your GM can agree on a cool effect that suits the cantrip.
 
 #### Adventurer Feat
 
@@ -463,7 +463,7 @@ Gain the lowest tier feat of all spells of your specialist school for free.
 
 You've studied the movements of the stars, correlated the signs and portends, and learned the forbidden fate-warping magic.
 
-Once per day, you may allow yourself or an ally to reroll a d20 with a +4 bonus by changing fate. However, this manipulation of destiny has a cost. After the battle or scene in which you enabled a reroll, attempt an easy save (6+). If you succeed, nothing horrible happens, congratulations on your prescient reroll.
+Once per full recovery, you may allow yourself or an ally to reroll a d20 with a +4 bonus by changing fate. However, this manipulation of destiny has a cost. After the battle or scene in which you enabled a reroll, attempt an easy save (6+). If you succeed, nothing horrible happens, congratulations on your prescient reroll.
 
 If you fail the save, you, or someone in the adventuring party, or more rarely, an NPC or place you care about, take a big loss— something horrible happens that isn’t directly related to the fight or problem you were just dealing with.
 
@@ -475,7 +475,7 @@ You gain a +1 bonus on the destiny manipulation save.
 
 #### Champion Feat
 
-You can now use destiny manipulation twice a day.
+You can now use destiny manipulation twice a full recovery.
 
 #### Epic Feat
 
@@ -625,7 +625,7 @@ Increase the damage dice of your once-per-battle unarmed attack to d20s.
 
 ### Necroblast
 
-Once per day, before you cast a spell, you may declare it to be a necroblast. The spell’s damage type becomes negative energy damage in addition to its usual type. If any non-undead nonmooks are destroyed by the spell, they become undead under your control.
+Once per full recovery, before you cast a spell, you may declare it to be a necroblast. The spell’s damage type becomes negative energy damage in addition to its usual type. If any non-undead nonmooks are destroyed by the spell, they become undead under your control.
 
 In battle, these undead creatures crumble at the end of their next turn, or if they are hit by any other attack, but may make a move and a basic attack under your control. The creatures are considered weakened (–4 to attacks and defenses).
 
@@ -695,7 +695,7 @@ You gain a +1 bonus to all defenses against spells and magical attacks.
 
 ### Sheltered Apprentice
 
-Intelligence-based skill checks are one step easier (-5) for you. This includes checks about niche academics and esoteric lore, but also arcane knowledge and skill checks required for ritual casting. Once per day, you can perform a stunt to remember an otherwise useless fact from an obscure tome you’ve read. This is allows you to automatically succeed on what would otherwise be a ridiculously hard task. The GM should encourage the player to make up pieces of lore for the game world with this talent.
+Intelligence-based skill checks are one step easier (-5) for you. This includes checks about niche academics and esoteric lore, but also arcane knowledge and skill checks required for ritual casting. Once per full recovery, you can perform a stunt to remember an otherwise useless fact from an obscure tome you’ve read. This is allows you to automatically succeed on what would otherwise be a ridiculously hard task. The GM should encourage the player to make up pieces of lore for the game world with this talent.
 
 However, you also choose one ability score where all skill checks are one step more difficult. You’re either frail (Strength), clumsy (Dexterity), sickly (Constitution), lacking in empathy (Wisdom) or socially awkward (Charisma).
 
@@ -709,7 +709,7 @@ When you spend a feat to improve a wizard spell, you also gain the benefits of a
 
 #### Epic Feat
 
-Once per day, you can perform an arcane ritual for half of the normal component cost, but you still need a focus worth the entire cost as relevant.
+Once per full recovery, you can perform an arcane ritual for half of the normal component cost, but you still need a focus worth the entire cost as relevant.
 
 ---
 
@@ -719,7 +719,7 @@ You gain a +2 bonus to your critical threat range with wizard at-will spells.
 
 #### Adventurer Feat
 
-Once per day per point of Dexterity modifier, you can reroll an attack roll with an at-will spell.
+Once per full recovery per point of Dexterity modifier, you can reroll an attack roll with an at-will spell.
 
 #### Champion Feat
 
@@ -838,7 +838,7 @@ Your familiar flies as well as a hawk. It doesn't fly that often and usually sti
 
 ##### Mimic
 
-One battle per day, you gain the use of the species power (without feats) of one nearby ally.
+One battle per full recovery, you gain the use of the species power (without feats) of one nearby ally.
 
 ---
 
@@ -850,7 +850,7 @@ Once per battle, when you hit an enemy engaged with you, you can add 5 ongoing p
 
 ##### Scout
 
-Once per day, your familiar can separate itself from you and make a reconnaissance run of an area or location. Roll an easy skill check for the environment to get your familiar to scout unseen.
+Once per full recovery, your familiar can separate itself from you and make a reconnaissance run of an area or location. Roll an easy skill check for the environment to get your familiar to scout unseen.
 
 ---
 
@@ -1372,7 +1372,7 @@ Evocation
 
 **Target:** One nearby enemy
 
-_Special:_ You can increase the targets of the spell to 1d3 nearby enemies. This expends the spell for the day.
+_Special:_ You can increase the targets of the spell to 1d3 nearby enemies. This expends the spell for the full recovery.
 
 **Attack:** Intelligence + Level vs. PD
 
@@ -2172,7 +2172,7 @@ Full Recovery
 
 Abjuration
 
-**Effect:** You inscribe mystic runes on a book, scroll, map or similar item that last for a day. Specify a safe way to read the runes without triggering them. If those instructions aren’t followed, the runes explode, targeting the reader with the attack below.
+**Effect:** You inscribe mystic runes on a book, scroll, map or similar item that last for a full recovery. Specify a safe way to read the runes without triggering them. If those instructions aren’t followed, the runes explode, targeting the reader with the attack below.
 
 **Attack:** Intelligence + Level vs. PD
 
@@ -2545,7 +2545,7 @@ Conjuration
 
 _Special:_ When you cast this spell during a quick rest, you can expend a recovery without healing to regain this spell after the quick rest.
 
-**Target:** One destroyed golem you have created earlier that day
+**Target:** One destroyed golem you have created earlier that full recovery
 
 **Effect:** You reanimate the golem at full hit points.
 
@@ -3632,7 +3632,7 @@ Divination
 
 **Target:** You or a nearby ally
 
-**Effect:** The target regains a spell or power they have expended this day or this battle.
+**Effect:** The target regains a spell or power they have expended this full recovery or this battle.
 
 ---
 

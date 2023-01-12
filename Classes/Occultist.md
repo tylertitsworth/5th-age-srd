@@ -139,7 +139,7 @@ Once per battle when a healing effect would be applied to you, you can roll a sa
 
 #### Epic Feat
 
-Increase your total recoveries by 1. Once per day as a free action when a natural attack roll of 17 or less hits you, you take only half damage from that attack instead.
+Increase your total recoveries by 1. Once per full recovery as a free action when a natural attack roll of 17 or less hits you, you take only half damage from that attack instead.
 
 ---
 
@@ -205,15 +205,15 @@ Like a standard spellcaster, you choose the spells you will be able to cast afte
 
 #### Adventurer Feat
 
-Once per day, you can automatically succeed on a recharge roll that's 6+ (but not 11+ or 16+).
+Once per full recovery, you can automatically succeed on a recharge roll that's 6+ (but not 11+ or 16+).
 
 #### Champion Feat
 
-Once per day when you recharge a spell (usually during a quick rest), you can make a recharge roll for a recharge spell even if you haven't expended that spell (allowing you to have an additional use of that spell available).
+Once per full recovery when you recharge a spell (usually during a quick rest), you can make a recharge roll for a recharge spell even if you haven't expended that spell (allowing you to have an additional use of that spell available).
 
 #### Epic Feat
 
-Once per day, you can automatically succeed on a recharge roll.
+Once per full recovery, you can automatically succeed on a recharge roll.
 
 ---
 
@@ -313,7 +313,7 @@ You can use an edged melee weapon without an attack penalty. You can use Intelli
 
 #### Adventurer Feat
 
-Twice per day when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
+Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
 
 #### Champion Feat
 
@@ -321,7 +321,7 @@ While you have your focus, you gain a +4 bonus to opportunity attacks.
 
 #### Epic Feat
 
-Once per day when you hit an enemy with _karmic rebuke_, you can make a basic melee attack as a free action.
+Once per full recovery when you hit an enemy with _karmic rebuke_, you can make a basic melee attack as a free action.
 
 ---
 
@@ -417,7 +417,7 @@ While you have focus, you have a +1 bonus to all defenses.
 
 ### Otherworld Shadow
 
-A shadow self haunts and lurks near you most of the time, sometimes an actual shadow on a wall, but other times only a presence sensed just over your shoulder. Once per day as an interrupt action, negate all damage and effects from an enemy's attacks against you that turn as your shadow absorbs them. Using this talent's power means you avoid damage from a monster's multiple attacks if it has them. It also works against multiple attacks from mooks in the same mob working on the same initiative count, but not attacks from multiple non-mook monsters.
+A shadow self haunts and lurks near you most of the time, sometimes an actual shadow on a wall, but other times only a presence sensed just over your shoulder. Once per full recovery as an interrupt action, negate all damage and effects from an enemy's attacks against you that turn as your shadow absorbs them. Using this talent's power means you avoid damage from a monster's multiple attacks if it has them. It also works against multiple attacks from mooks in the same mob working on the same initiative count, but not attacks from multiple non-mook monsters.
 
 #### Adventurer Feat
 
@@ -425,11 +425,11 @@ Your shadow grants you greater personal resilience: increase your total recoveri
 
 #### Champion Feat
 
-Once per day as a free action, you can end all ongoing damage affecting you as you pass off the damage to your shadow.
+Once per full recovery as a free action, you can end all ongoing damage affecting you as you pass off the damage to your shadow.
 
 #### Epic Feat
 
-Once per day as a free action, you gain a _fear aura_ that affects each enemy attacking you or engaged with you. The hit point threshold for the fear effect is the standard value for a monster five levels above you. Allies are not subject to the fear effect unless they cast a spell that targets you or otherwise interact with you directly in some way. Even in this case, that ally can spend a move action to be immune to your shadow's _fear aura_ for one round.
+Once per full recovery as a free action, you gain a _fear aura_ that affects each enemy attacking you or engaged with you. The hit point threshold for the fear effect is the standard value for a monster five levels above you. Allies are not subject to the fear effect unless they cast a spell that targets you or otherwise interact with you directly in some way. Even in this case, that ally can spend a move action to be immune to your shadow's _fear aura_ for one round.
 
 | **PC Level** | **Fear Threshold HP (Level + 5)** |
 | --- | --- |
@@ -456,7 +456,7 @@ Once per battle, gain a once-per-battle psion spell instead. In addition, you ca
 
 #### Champion Feat
 
-Once per day, gain a full recovery psion spell instead.
+Once per full recovery, gain a full recovery psion spell instead.
 
 #### Epic Feat
 
@@ -486,7 +486,7 @@ While you have focus, you ignore the resistances of any enemy you attack with a 
 
 ### Stance of Necessity
 
-Twice per day as a quick action, you can gain a +4 bonus to all defenses. The protection lasts until the end of the battle and is in effect while you do NOT have your focus. The bonus also ends when an attack hits you while you don't have your focus.
+Twice per full recovery as a quick action, you can gain a +4 bonus to all defenses. The protection lasts until the end of the battle and is in effect while you do NOT have your focus. The bonus also ends when an attack hits you while you don't have your focus.
 
 #### Adventurer Feat
 
@@ -516,7 +516,7 @@ You can also make a _karmic rebuke_ attack as a free action when you roll a natu
 
 #### Epic Feat
 
-One battle per day as a free action, you can enhance your _karmic__rebuke_. When you enhance it, enemies are vulnerable (crit range expands by 2) to your _karmic rebuke_ attacks until the end of the battle or until you score a critical hit with the attack.
+One battle per full recovery as a free action, you can enhance your _karmic__rebuke_. When you enhance it, enemies are vulnerable (crit range expands by 2) to your _karmic rebuke_ attacks until the end of the battle or until you score a critical hit with the attack.
 
 ---
 
@@ -546,7 +546,7 @@ If you have the Blade of Castigation talent, you can trigger the maneuver with M
 
 #### Adventurer Feat
 
-Choose a fighter talent that can be used once per battle. You can use this talent once per day, but you must expend your focus to do so.
+Choose a fighter talent that can be used once per battle. You can use this talent once per full recovery, but you must expend your focus to do so.
 
 #### Champion Feat
 
@@ -590,7 +590,7 @@ Whenever you roll extra damage dice from exploding dice, also deal the extra dam
 
 #### Epic Feat
 
-Once per day, attack one nearby enemy per Intelligence modifier with an occultist spell that only has one target.
+Once per full recovery, attack one nearby enemy per Intelligence modifier with an occultist spell that only has one target.
 
 ---
 
@@ -1857,7 +1857,7 @@ Close-quarters Spell
 
 Full Recovery
 
-**Effect:** You summon a colorful butterfly that flaps its wings once. This sets a chain of connected events in motion. You determine the general outcome of each event (“Snow is falling on Dragon Peak”), but not the details. The connection does not have to be obvious, as your magic works in mysterious ways. Each step in the chain takes up to a full day to resolve. After each event, roll a d20. If the roll is equal to the number of events caused by the spell, or lower, the spell ends. You cannot end the spell voluntarily — a high enough roll always causes the next event.
+**Effect:** You summon a colorful butterfly that flaps its wings once. This sets a chain of connected events in motion. You determine the general outcome of each event (“Snow is falling on Dragon Peak”), but not the details. The connection does not have to be obvious, as your magic works in mysterious ways. Each step in the chain takes up to a full full recovery to resolve. After each event, roll a d20. If the roll is equal to the number of events caused by the spell, or lower, the spell ends. You cannot end the spell voluntarily — a high enough roll always causes the next event.
 
 However, the spell does not end on a roll of natural 1. On a natural 1, the spell spins out of control, and you reroll the die. From that point on, you still describe the event, but there is some catastrophic twist, and each subsequent 1 only makes it worse. These unforeseen consequences are described by other players, starting with the person on your left.
 

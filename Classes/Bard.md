@@ -183,13 +183,13 @@ Increase the PD bonus to +2.
 
 ### Balladeer
 
-At each level, including 1st level, you may learn a great ballad of your choice. Each day you can sing one of these songs to give you a more positive relationship with a relationship that you would not ordinarily have.
+At each level, including 1st level, you may learn a great ballad of your choice. Each full recovery you can sing one of these songs to give you a more positive relationship with a relationship that you would not ordinarily have.
 
 Song choices for the great ballad are up to the role-player.
 
 It takes at least a few rounds to sing a great ballad, so ideally it happens outside of combat. As you sing the ballad, it's an opportunity to tell the GM what's special about the story you are telling.
 
-Make a Charisma skill check using your performance. If you succeed, you gain 2 points with a relationship for the rest of the day (until the next full heal-up). The DC depends on the environment:
+Make a Charisma skill check using your performance. If you succeed, you gain 2 points with a relationship for the rest of the full recovery (until the next full heal-up). The DC depends on the environment:
 
 **DC 15:** Adventurer environment
 
@@ -207,7 +207,7 @@ The first time you use your ballad-created relationship, any 5s you roll become 
 
 #### Champion Feat
 
-You can sing two great songs a day. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the day.
+You can sing two great songs a full recovery. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the full recovery.
 
 #### Epic Feat
 
@@ -229,7 +229,7 @@ Increase the number of battle cries you know by one. The bonus battle cry can be
 
 #### Adventurer Feat
 
-One battle per day, you can use your battle cries to help yourself.
+One battle per full recovery, you can use your battle cries to help yourself.
 
 #### Champion Feat
 
@@ -598,11 +598,11 @@ Your _battle chant_ damage dice are now d6s instead of d4s.
 
 ##### Champion Feat
 
-Once per day, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
+Once per full recovery, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
 
 ##### Epic Feat
 
-One battle per day, your _battle chant_ damage dice become d10s.
+One battle per full recovery, your _battle chant_ damage dice become d10s.
 
 ---
 

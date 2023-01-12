@@ -139,11 +139,11 @@ Whether you cast an at-will, per-battle, or full recovery affinity, you cast it 
 
 #### Adventurer Feat
 
-Once per day when you cast an iconic full recovery or once-per-battle affinity from an relationship you have at least a one-point with, roll a normal save. If you succeed, you don't expend that affinity, allowing you to cast it again, or another full recovery/once-per-battle affinity.
+Once per full recovery when you cast an iconic full recovery or once-per-battle affinity from an relationship you have at least a one-point with, roll a normal save. If you succeed, you don't expend that affinity, allowing you to cast it again, or another full recovery/once-per-battle affinity.
 
 #### Champion Feat
 
-Once per day when you draw an iconic affinity, before rolling, choose an relationship you have at least a one-point with. The affinity you cast next will be from that relationship.
+Once per full recovery when you draw an iconic affinity, before rolling, choose an relationship you have at least a one-point with. The affinity you cast next will be from that relationship.
 
 #### Epic Feat
 
@@ -171,7 +171,7 @@ Once per battle when you roll for a high weirdness effect, roll twice and use bo
 
 #### Epic Feat
 
-One battle per day, each time you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
+One battle per full recovery, each time you roll for a high weirdness effect, roll twice and use both results. Reroll duplicate results.
 
 #### High Weirdness Table
 
@@ -322,7 +322,7 @@ When you roll a natural 20 with an attack, the critical hit range of your attack
 
 ### Blip of Bard
 
-You gain 1 affinity of Bard. Whenever you take a full heal-up, randomly choose a bard spell or song up to the highest level you can cast. For the rest of the day, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your psion affinity casting sequence.
+You gain 1 affinity of Bard. Whenever you take a full heal-up, randomly choose a bard spell or song up to the highest level you can cast. For the rest of the full recovery, you know this affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your psion affinity casting sequence.
 
 #### Adventurer Feat
 
@@ -330,11 +330,11 @@ After each full heal-up, choose an art form such as kazoo improvisation, ice car
 
 #### Champion Feat
 
-After each full heal-up, choose one random battle cry from the bard list. You can use this battle cry with your chaos mage melee attacks. Once per day, you can also trigger it with an at-will affinity attack roll.
+After each full heal-up, choose one random battle cry from the bard list. You can use this battle cry with your chaos mage melee attacks. Once per full recovery, you can also trigger it with an at-will affinity attack roll.
 
 #### Epic Feat
 
-If you don’t like either the random bard affinity or the battle cry you rolled for the day, roll again. You’re stuck with the second one.
+If you don’t like either the random bard affinity or the battle cry you rolled for the full recovery, roll again. You’re stuck with the second one.
 
 ---
 
@@ -364,21 +364,21 @@ When you save against a save ends effect with a natural even success, make a Con
 
 You have befriended a small creature, like a cat or a fox, which hangs around you to get petted and fed. It seems completely oblivious to the chaos and mayhem that surrounds you, and ignores any High Weirdness effects. You have a nagging feeling that the universe has sent it to counterbalance the effects of your powers.
 
-Once per day, your pet can cancel an ongoing magical or supernatural effect. That effect can be a condition on a creature, an item effect, something in the environment, or your own High Weirdness. If the effect is permanent, such as an item enchantment, roll a save each turn to see when the effect is reactivated.
+Once per full recovery, your pet can cancel an ongoing magical or supernatural effect. That effect can be a condition on a creature, an item effect, something in the environment, or your own High Weirdness. If the effect is permanent, such as an item enchantment, roll a save each turn to see when the effect is reactivated.
 
 Your pet won’t join you in a fight, and it can’t be targeted by affinities or attacks.
 
 Also choose one ability for your pet from the list below:
 
-- _Axiomatic_: Once per day, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
+- _Axiomatic_: Once per full recovery, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
 - _Detector_: It can smell magic by scent.
 - _Flight_: It can fly.
-- _Healer_: Once per day, it can grant someone the use of a recovery to heal by touch.
+- _Healer_: Once per full recovery, it can grant someone the use of a recovery to heal by touch.
 - _Innate Magic_: Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
 - _Mundane Aura_: It appears fully natural and resists any divination magic cast on it.
-- _Negator_: It can use its anti-magic ability twice per day.
+- _Negator_: It can use its anti-magic ability twice per full recovery.
 - _Shapechanger_: It can take any shape it likes, as long as it stays roughly cat-sized.
-- _Shield_: Once per day, it can force an enemy to reroll an attack against you with a d12.
+- _Shield_: Once per full recovery, it can force an enemy to reroll an attack against you with a d12.
 - _Shy_: It can turn invisible at-will.
 - _Talkative_: Your pet can talk. Each session, determine its personality with the Personality table
 
@@ -491,13 +491,13 @@ When you teleport, you can heal using a recovery.
 
 ### Stench of Necromancy
 
-You gain 1 affinity of Necromancer. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the day, you know this necromancer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
+You gain 1 affinity of Necromancer. Whenever you take a full heal-up, randomly choose a necromancer spell of the highest level you can cast. For the rest of the full recovery, you know this necromancer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
 
 If the necromancer affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
-One battle per day, you can gain the Cackling Soliloquist talent from the necromancer class.
+One battle per full recovery, you can gain the Cackling Soliloquist talent from the necromancer class.
 
 #### Champion Feat
 
@@ -505,19 +505,19 @@ While you have an _earth_ or _metal_ warp effect active, when an enemy in the ba
 
 #### Epic Feat
 
-If you don't like the first random necromancer affinity you select for the day, you can determine another random necromancer affinity. You're stuck with the second one.
+If you don't like the first random necromancer affinity you select for the full recovery, you can determine another random necromancer affinity. You're stuck with the second one.
 
 ---
 
 ### Touch of Wizardry
 
-You gain 1 affinity of Wizard. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the day, you know this wizard affinity and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or full recovery—when that option is rolled during your turn.
+You gain 1 affinity of Wizard. Whenever you take a full heal-up, randomly choose a wizard spell of the highest level you can cast. For the rest of the full recovery, you know this wizard affinity and can cast it according to its normal usage pattern—at-will, cyclic, once per battle, recharge, or full recovery—when that option is rolled during your turn.
 
 If the wizard affinity refers to Intelligence, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
-You gain a random wizard talent at the start of each day. Roll a d3. 1: Abjuration; 2: Evocation; 3: High Arcana (_counter magic_). Replace references to "wizard" in these talents with "psion" and Intelligence with Charisma.
+You gain a random wizard talent at the start of each full recovery. Roll a d3. 1: Abjuration; 2: Evocation; 3: High Arcana (_counter magic_). Replace references to "wizard" in these talents with "psion" and Intelligence with Charisma.
 
 #### Champion Feat
 
@@ -525,19 +525,19 @@ You gain a single full recovery use of the wizard's _utility affinity_, cast at 
 
 #### Epic Feat
 
-If you don't like the first random wizard affinity you select for the day, you can determine another random wizard affinity. You're stuck with the second one.
+If you don't like the first random wizard affinity you select for the full recovery, you can determine another random wizard affinity. You're stuck with the second one.
 
 ---
 
 ### Trace of the Divine
 
-You gain 1 affinity of Cleric. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the day, you know this cleric affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
+You gain 1 affinity of Cleric. Whenever you take a full heal-up, randomly choose a cleric spell of the highest level you can cast. For the rest of the full recovery, you know this cleric affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
 
 If the cleric affinity refers to Wisdom, you can replace that ability score with references to Charisma.
 
 #### Adventurer Feat
 
-At the start of the day, choose a random cleric invocation, excepting those from the healing domain. You can use that invocation as if you were a cleric once this day as a quick action.
+At the start of the full recovery, choose a random cleric invocation, excepting those from the healing domain. You can use that invocation as if you were a cleric once this full recovery as a quick action.
 
 #### Champion Feat
 
@@ -545,7 +545,7 @@ While you have an _air_ or _water_ warp effect active, when you heal using a rec
 
 #### Epic Feat
 
-In addition to the random invocation you gain at the start of the day, you also get the talent/domain powers that go with it.
+In addition to the random invocation you gain at the start of the full recovery, you also get the talent/domain powers that go with it.
 
 ---
 
@@ -569,11 +569,11 @@ While you are staggered, all damage dice of your affinities are exploding dice (
 
 ### Whiff of Sorcery
 
-You gain 1 affinity of Sorcery. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the day, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
+You gain 1 affinity of Sorcery. Whenever you take a full heal-up, randomly choose a sorcerer spell of the highest level you can cast. For the rest of the full recovery, you know this sorcerer affinity and can cast it according to its normal usage pattern—at-will, once per battle, recharge, or full recovery—when that option is rolled during your turn.
 
 #### Adventurer Feat
 
-Twice per day, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer affinity or a psion affinity the next time you cast an affinity. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of affinity you will be casting, since you select an affinity type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic affinity coming.)
+Twice per full recovery, you can gather power as if you were a sorcerer in order to deal double damage with either a sorcerer affinity or a psion affinity the next time you cast an affinity. You also gain the chaotic benefit for gathering power. (Note that you should have already determined the type of affinity you will be casting, since you select an affinity type when you roll initiative and at the end of each turn, so you're generally better off waiting to gather power when you know you have an attack or iconic affinity coming.)
 
 #### Champion Feat
 
@@ -581,7 +581,7 @@ While you have an _air_ or _fire_ warp effect active, add fire damage equal to y
 
 #### Epic Feat
 
-If you don't like the first random sorcerer affinity you select for the day, you can determine another random sorcerer affinity. You're stuck with the second one.
+If you don't like the first random sorcerer affinity you select for the full recovery, you can determine another random sorcerer affinity. You're stuck with the second one.
 
 ---
 
@@ -618,7 +618,7 @@ This affinity's damage dice increase by one size to d12s.
 
 #### Epic Feat
 
-One battle per day, you can deal half damage on a natural even miss with this affinity.
+One battle per full recovery, you can deal half damage on a natural even miss with this affinity.
 
 ---
 
@@ -836,7 +836,7 @@ The _defense bonus_ effect now applies to all the target's defenses (and therefo
 
 #### Champion Feat
 
-A number of times per day equal to your highest non-Charisma modifier, you can roll twice when you cast _eidolic boon_ and gain both effects (reroll a duplicate result).
+A number of times per full recovery equal to your highest non-Charisma modifier, you can roll twice when you cast _eidolic boon_ and gain both effects (reroll a duplicate result).
 
 #### Epic Feat
 
@@ -1101,7 +1101,7 @@ Full Recovery
 
 **Target:** One nearby ally
 
-**Effect:** The target can heal using a free recovery, adding hit points equal to 1d6 x the escalation die to that healing. Unless you or the target is a dwarf, randomly choose one of the target's true magic items. You actively gain that item's quirk until the end of the day.
+**Effect:** The target can heal using a free recovery, adding hit points equal to 1d6 x the escalation die to that healing. Unless you or the target is a dwarf, randomly choose one of the target's true magic items. You actively gain that item's quirk until the end of the full recovery.
 
 ---
 
@@ -1383,7 +1383,7 @@ Ranged Affinity
 
 Full Recovery
 
-**Effect:** You and each of your nearby allies each heal hit points equal to 1d6 x the number of recoveries that character has expended this day. (And no, free recoveries don't count; this affinity only counts the resources you've expended.)
+**Effect:** You and each of your nearby allies each heal hit points equal to 1d6 x the number of recoveries that character has expended this full recovery. (And no, free recoveries don't count; this affinity only counts the resources you've expended.)
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1596,7 +1596,7 @@ At-Will
 
 ##### Adventurer Feat
 
-Once per day, one or more targets of the affinity can be far away.
+Once per full recovery, one or more targets of the affinity can be far away.
 
 ##### Champion Feat
 

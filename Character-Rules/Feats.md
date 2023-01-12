@@ -116,7 +116,7 @@ You can cast any spells you know as rituals. Classes that are already ritual cas
 
 #### Adventurer Tier
 
-Twice per day, you can add the escalation die to one of your skill checks. Choose after you roll the check.
+Twice per full recovery, you can add the escalation die to one of your skill checks. Choose after you roll the check.
 
 ---
 

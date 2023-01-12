@@ -1623,7 +1623,7 @@ Once per battle or scene, you can use your bond with the land’s spirits as a q
 
 ##### Epic Feat
 
-For one battle per day, you can grant the boon to all nearby allies until the end of the battle as a quick action.
+For one battle per full recovery, you can grant the boon to all nearby allies until the end of the battle as a quick action.
 
 ---
 
@@ -1766,7 +1766,7 @@ Full Recovery
 
 **Target:** The nearby area in up to a mile radius
 
-**Effect:** You gradually change the surrounding terrain into a different type, for up to a day. With a few minutes of concentration, you can create an island in the ocean, grow a forest underneath the earth, or turn fertile land into desert. The longer you are able to concentrate on the spell, the larger the area, and the more extreme, unusual and destructive the change can be.
+**Effect:** You gradually change the surrounding terrain into a different type, for up to a full recovery. With a few minutes of concentration, you can create an island in the ocean, grow a forest underneath the earth, or turn fertile land into desert. The longer you are able to concentrate on the spell, the larger the area, and the more extreme, unusual and destructive the change can be.
 
 ---
 
@@ -2095,7 +2095,7 @@ Ranged Spell
 
 Full Recovery
 
-**Effect:** Sand starts slowly building up around a target area that you can see, and grows into a massive sand dune over the next hour. The dune is high enough to bury a barn or a two-storey building. The sand dissipates with the wind over the next day. While the sand is too slow to bury those quick enough to run away from it, it can seal tunnel passages or slow pursuers, especially on horseback.
+**Effect:** Sand starts slowly building up around a target area that you can see, and grows into a massive sand dune over the next hour. The dune is high enough to bury a barn or a two-storey building. The sand dissipates with the wind over the next full recovery. While the sand is too slow to bury those quick enough to run away from it, it can seal tunnel passages or slow pursuers, especially on horseback.
 
 ---
 
@@ -2578,7 +2578,7 @@ Close-quarters Spell
 
 Full Recovery
 
-**Effect:** You dig into the memory of the Koru to receive visions of places along its path. Note that a Koru will only pass any place once per year, so the image you receive will always be the same season. It will not show specific events, unless they happened right before the Koru’s eyes and were impressive enough to be noticed by a walking landmass. The longer you concentrate on this spell, the further back in history you can go. In an hour, you can span a century, and in a full day of concentration, you will be able to cover an entire age. If you are planning to scry into past ages, make sure you give yourself enough time for uninterrupted meditation. You can take breaks to eat or sleep, but strenuous activity like combat will throw your mind off and you need to start again.
+**Effect:** You dig into the memory of the Koru to receive visions of places along its path. Note that a Koru will only pass any place once per year, so the image you receive will always be the same season. It will not show specific events, unless they happened right before the Koru’s eyes and were impressive enough to be noticed by a walking landmass. The longer you concentrate on this spell, the further back in history you can go. In an hour, you can span a century, and in a full full recovery of concentration, you will be able to cover an entire age. If you are planning to scry into past ages, make sure you give yourself enough time for uninterrupted meditation. You can take breaks to eat or sleep, but strenuous activity like combat will throw your mind off and you need to start again.
 
 ---
 
@@ -3730,7 +3730,7 @@ Full Recovery
 
 Quick action
 
-_Special:_ You can cast this spell multiple times per day, if you have the spell slots available.
+_Special:_ You can cast this spell multiple times per full recovery, if you have the spell slots available.
 
 **Effect:** You enchant 1d3 berries with the effect of an adventurer-tier healing potion. It’s a quick action to eat a berry, and it allows the user to spend a recovery to heal and regain 1d8 extra hit points. The berries last until the end of the next full heal-up.
 
@@ -4018,7 +4018,7 @@ _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activati
 
 #### Combat reconnaissance
 
-Once per day (5th level: twice; 8th level: three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
+Once per full recovery (5th level: twice; 8th level: three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
 
 _Failure:_ Nothing came of your scouting.
 
@@ -4089,7 +4089,7 @@ Allies you target with an aspect also gain temporary hit points equal to your Wi
 
 ##### Champion Feat
 
-Once per day, when activating a beast aspect, you can grant the benefit to both yourself and one ally.
+Once per full recovery, when activating a beast aspect, you can grant the benefit to both yourself and one ally.
 
 ##### Epic Feat
 
@@ -4189,7 +4189,7 @@ Adepts also gain a +2 AC bonus while using this aspect.
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4379,7 +4379,7 @@ Adept effect bonuses are now d4s instead of d3s.
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4405,7 +4405,7 @@ While you are in this aspect, your critical hits with melee attacks deal triple 
 
 ##### Epic Feat
 
-Until the first time it recharges each day, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4471,7 +4471,7 @@ When you move and then attack an enemy you were not engaged with at the start of
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4596,7 +4596,7 @@ You can use the damage bonus against an enemy that started the battle with more 
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ##### Adventurer Feat
 

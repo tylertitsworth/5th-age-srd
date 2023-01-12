@@ -9,7 +9,7 @@ The majority of treasure reaches the PCs one of two ways (a) as loot from climac
 
 ## Gold Piece Rewards
 
-The table below lists the highest amount of gold pieces you should consider awarding to each character in the course of an adventuring day. Rewarding less gold is fine.
+The table below lists the highest amount of gold pieces you should consider awarding to each character in the course of an adventuring full recovery. Rewarding less gold is fine.
 
 ---
 

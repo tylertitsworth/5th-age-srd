@@ -118,7 +118,7 @@ All paladins have the Smite Evil class feature.
 
 Close-quarters power
 
-Once per battle, plus once per day per Charisma modifier
+Once per battle, plus once per full recovery per Charisma modifier
 
 Free Action
 
@@ -133,7 +133,7 @@ Free Action
 
 #### Adventurer Feat
 
-Gain an additional use of Smite Evil per day.
+Gain an additional use of Smite Evil per full recovery.
 
 #### Champion Feat
 
@@ -171,7 +171,7 @@ Increase your total number of recoveries by 1.
 
 #### Champion Feat
 
-Once per day, you can use Bastion twice in the same battle.
+Once per full recovery, you can use Bastion twice in the same battle.
 
 #### Epic Feat
 
@@ -197,7 +197,7 @@ You can use your Charisma as the attack ability for cleric spells you can cast.
 
 #### Champion Feat
 
-You can now cast the cleric class feature _heal_ spell twice per day.
+You can now cast the cleric class feature _heal_ spell twice per full recovery.
 
 #### Epic Feat
 
@@ -343,7 +343,7 @@ If the target of your smite power is already stuck or vulnerable to cold, it is 
 
 _Special:_ You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
 
-Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per day.
+Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per full recovery.
 
 If the domain you choose is designed to help cleric spells and attacks, reinterpret the talent to help your paladin powers. You can use the domain's feats if you wish; reinterpret them similarly if necessary.
 
@@ -420,7 +420,7 @@ In battle, when you are staggered the first time, roll 1d4 and gain a Crusader�
 
 #### Champion Feat
 
-For one battle per day, gain the Crusader’s Boon at the start of your first turn.
+For one battle per full recovery, gain the Crusader’s Boon at the start of your first turn.
 
 #### Epic Feat
 
@@ -468,7 +468,7 @@ Choose one terrain from the druid’s Terrain Caster talent, and gain a full rec
 
 #### Champion Feat
 
-You can cast the Wild Heal spell from the Wild Healer talent twice per day.
+You can cast the Wild Heal spell from the Wild Healer talent twice per full recovery.
 
 #### Epic Feat
 
@@ -492,7 +492,7 @@ You gain a bonus to magic item power recharge rolls equal to your Charisma modif
 
 #### Champion Feat
 
-Once per day, you can concentrate on a known, named artifact to gain insight into its lore or a vision of its location.
+Once per full recovery, you can concentrate on a known, named artifact to gain insight into its lore or a vision of its location.
 
 #### Epic Feat
 
@@ -595,7 +595,7 @@ On a natural 16+ with Smite Evil, the hampered effect is now “save ends.”
 
 ### Lay on Hands
 
-Twice per day as a quick action, you can heal yourself or an ally next to you with a touch. You spend the recovery while the recipient heals as if they had spent the recovery.
+Twice per full recovery as a quick action, you can heal yourself or an ally next to you with a touch. You spend the recovery while the recipient heals as if they had spent the recovery.
 
 #### Adventurer Feat
 
@@ -607,7 +607,7 @@ Lay on Hands healing uses a free recovery instead of one of your own.
 
 #### Epic Feat
 
-You can now use Lay on Hands four times per day instead of two.
+You can now use Lay on Hands four times per full recovery instead of two.
 
 #### Healing Smite
 
@@ -693,7 +693,7 @@ Your nearby allies gain a +1 bonus to all saves.
 
 #### Adventurer Feat
 
-Once per day, you can reroll your relationship advantages check with a heroic or ambiguous relationship.
+Once per full recovery, you can reroll your relationship advantages check with a heroic or ambiguous relationship.
 
 #### Champion Feat
 
@@ -743,7 +743,7 @@ When one of your Smite Evil attacks drops a non-mook enemy to 0 hp, that use of 
 
 #### Adventurer Feat
 
-Once per day, you can reroll your relationship advantages check with a villainous or ambiguous relationship.
+Once per full recovery, you can reroll your relationship advantages check with a villainous or ambiguous relationship.
 
 #### Champion Feat
 
@@ -799,7 +799,7 @@ Increase your smite damage dice by 1d12, and halve the hit point loss.
 
 #### Cleansing Touch (5th Level+)
 
-Once per day per Charisma modifier, you can touch an adjacent ally (or yourself) as a quick action to end a condition they are under. You can end the condition regardless of whether it requires a save or not.
+Once per full recovery per Charisma modifier, you can touch an adjacent ally (or yourself) as a quick action to end a condition they are under. You can end the condition regardless of whether it requires a save or not.
 
 #### Champion Feat
 
@@ -835,7 +835,7 @@ You gain a +1 bonus to melee attack rolls.
 
 #### Champion Feat
 
-For one battle per day, grant all nearby allies a +1 bonus to melee attack rolls.
+For one battle per full recovery, grant all nearby allies a +1 bonus to melee attack rolls.
 
 #### Guiding Smite
 
@@ -845,7 +845,7 @@ On a hit, the target is vulnerable to your allies’ attacks until the start of 
 
 ### Celestial Wings (8th Level+)
 
-Once per day, you can summon glowing wings of celestial origin on your back, to allow you to fly until the end of the battle or scene.
+Once per full recovery, you can summon glowing wings of celestial origin on your back, to allow you to fly until the end of the battle or scene.
 
 #### Winged Smite
 
@@ -887,7 +887,7 @@ Once per round, when the escalation die is even, you can make a melee basic atta
 
 #### Epic Feat
 
-Once per day, move yourself to the start of the initiative order at the start of a round, after the escalation die is increased.
+Once per full recovery, move yourself to the start of the initiative order at the start of a round, after the escalation die is increased.
 
 #### Zealous Smite
 

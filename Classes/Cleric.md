@@ -120,7 +120,7 @@ There are certain abilities specific to the cleric that can affect their powers:
 - _Cast for power_ and _cast for broad effect:_ The spell can be used one of two ways—either as a more powerful effect on one target (power) or as a weaker effect on multiple targets (broad). Spells cast for power cannot target the caster. Spells cast for broad effect can.
 - _Free recovery_: The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
 - _Heal using a recovery_: The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
-- _Invocation_: A quick action that offers advantages in battle. It can be made once a day. More than one cleric in a party cannot use the same invocation during a battle.
+- _Invocation_: A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
 
 ---
 
@@ -158,7 +158,7 @@ Clerics can cast divine [rituals](../General-Rules/Rituals.md).
 
 ## Class Talents
 
-Choose three cleric talents/domains. Each talent/domain provides an ability that can be improved by feats. It also provides an invocation you can use as a quick action once per day, per battle, per party.
+Choose three cleric talents/domains. Each talent/domain provides an ability that can be improved by feats. It also provides an invocation you can use as a quick action once per full recovery, per battle, per party.
 
 ### Domain: Healing
 
@@ -210,7 +210,7 @@ You gain 4 additional skill points that must be used somehow in relation to know
 
 #### Adventurer Feat
 
-Once per day, you can change one of your skill checks involving knowledge to a natural 20 instead. Interpret the word "knowledge" as loosely as your GM allows. GMs, be generous.
+Once per full recovery, you can change one of your skill checks involving knowledge to a natural 20 instead. Interpret the word "knowledge" as loosely as your GM allows. GMs, be generous.
 
 #### Champion Feat
 
@@ -218,7 +218,7 @@ You now roll a d4 for the invocation, not a d6.
 
 #### Epic Feat
 
-You gain a different positive relationship point each day with a random deific relationship, purely because the deity has realized you know something they need to know. It changes every day and it might contradict your usual deific relationships.
+You gain a different positive relationship point each full recovery with a random deific relationship, purely because the deity has realized you know something they need to know. It changes every full recovery and it might contradict your usual deific relationships.
 
 ---
 
@@ -280,7 +280,7 @@ You can use d8s instead of d4s for the bonus damage dice.
 
 #### Epic Feat
 
-Once per day, you can use d20s instead of d8s for the bonus damage dice.
+Once per full recovery, you can use d20s instead of d8s for the bonus damage dice.
 
 **Invocation of Strength:** This battle, you and your nearby allies deal triple damage instead of double damage on critical hits with melee attacks.
 
@@ -874,7 +874,7 @@ Full Recovery
 
 _Special:_ You must cast this spell outdoors. It enables you and a group of nearby allies to travel to most any location in the world that you can name.
 
-Travel takes between an hour and a day, depending on distance and the amount of effort the exerted.
+Travel takes between an hour and a full recovery, depending on distance and the amount of effort the exerted.
 
 The destination can be in the overworld or in the land. It can't be in the underworld.
 

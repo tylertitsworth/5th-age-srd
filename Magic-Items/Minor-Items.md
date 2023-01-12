@@ -41,7 +41,7 @@ An orc skull, except that it has a long calcified beard. Kissing the skull on th
 
 Small bones suspended from a longer bone by sinew-strings. When placed near a door, the noise of the bones knocking together often manages to sound out the name of the person using the door. (It’s easier to understand if you’re a necromancer or are closely tied to a lich.)
 
-_Story Hook:_ One day the bones say your name and the door opens, but you’re already in the room.
+_Story Hook:_ One full recovery the bones say your name and the door opens, but you’re already in the room.
 
 ## Book with faded heraldic device on the cover
 
@@ -61,7 +61,7 @@ When the tarnished silver button is sewn onto a garment, it makes others mistake
 
 ## Carved pipe
 
-This pipe is carved to resemble the head of a dwarf, and the first time the pipe is smoked each day, the pipe smoke billows toward the nearest gold. Useless for finding treasure if the smoker of the pipe is carrying gold coins already.
+This pipe is carved to resemble the head of a dwarf, and the first time the pipe is smoked each full recovery, the pipe smoke billows toward the nearest gold. Useless for finding treasure if the smoker of the pipe is carrying gold coins already.
 
 ## Chainmail sock puppet
 
@@ -145,7 +145,7 @@ When held in the hand, the lantern allows the bearer to see and hear ghosts in t
 
 ## Leather belt-pouch
 
-Has bread inside it, at least several small rolls per day. Not great quality bread, but certainly quantity bread.
+Has bread inside it, at least several small rolls per full recovery. Not great quality bread, but certainly quantity bread.
 
 ## Leather-wrapped glass bottle
 
@@ -203,7 +203,7 @@ This key opens any adventurer-tier environment door, provided that it isn’t ma
 
 ## Skeleton key
 
-When inserted into a lock (or tapped against a door), it summons a skeleton to open the door and step through it, holding it open for others. Only one skeletal doorman can be summoned each day, and it will be reluctant or unable to stray far from the door it was summoned to.
+When inserted into a lock (or tapped against a door), it summons a skeleton to open the door and step through it, holding it open for others. Only one skeletal doorman can be summoned each full recovery, and it will be reluctant or unable to stray far from the door it was summoned to.
 
 ## Small pocket knife
 
@@ -239,7 +239,7 @@ _Story Hook:_ Was a famous wizard of the past who disappeared under suspicious c
 
 ## Tuning fork
 
-When struck, it causes those that hear the tone to speak in rhyme for a short time. Works around 1d3 times a day.
+When struck, it causes those that hear the tone to speak in rhyme for a short time. Works around 1d3 times a full recovery.
 
 ## Uncandle
 

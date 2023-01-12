@@ -359,7 +359,7 @@ This clothing appears to be one thing, but is another. The first time you use th
 
 ### Ring of Burning Daylight
 
-When worn, this ring begins to shine like sunlight. The ring’s magic allows a wearer of its tier to accomplish more than normal in a short span of time; mundane tasks that would take weeks can fit into a single day, and journeys that would take days can fit into hours. The ring’s magic ends when the journey is over, the tasks are done, or the sun sets.
+When worn, this ring begins to shine like sunlight. The ring’s magic allows a wearer of its tier to accomplish more than normal in a short span of time; mundane tasks that would take weeks can fit into a single full recovery, and journeys that would take days can fit into hours. The ring’s magic ends when the journey is over, the tasks are done, or the sun sets.
 
 **Cost:** 60 gp; champion: 120 gp; epic: 240 gp.
 

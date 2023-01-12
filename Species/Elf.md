@@ -29,7 +29,7 @@ Once per battle, deal ongoing damage to a target you hit with a natural even att
 
 ##### Champion Feat
 
-Once per day, you can instead use _cruel_ to deal 5 ongoing damage per level against an enemy you miss or that you roll a natural odd attack against.
+Once per full recovery, you can instead use _cruel_ to deal 5 ongoing damage per level against an enemy you miss or that you roll a natural odd attack against.
 
 ---
 
@@ -93,4 +93,4 @@ At the start of battle, you roll a d6. Each time you successfully gain an extra 
 
 ##### Champion Feat
 
-Once per day, start a battle rolling a d4 for elven grace instead of a d6.
+Once per full recovery, start a battle rolling a d4 for elven grace instead of a d6.

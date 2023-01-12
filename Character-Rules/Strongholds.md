@@ -58,7 +58,7 @@ You can spend more money to build a larger stronghold from the start, but there 
 
 #### Demesne Effects
 
-- Ale within the barbarian’s demesne is particularly refreshing, bringing good cheer with no hangovers the next day no matter how much is consumed.
+- Ale within the barbarian’s demesne is particularly refreshing, bringing good cheer with no hangovers the next full recovery no matter how much is consumed.
 - Wildlife within the barbarian’s demesne grows especially large and fierce, migrating as the camp moves.
 - Poisons brought into the barbarian’s demesne neutralize within the hour. No such cowardly “civilized” forms of death are permitted.
 
@@ -390,7 +390,7 @@ Fighting alongside undead imposes a -1 penalty on all Morale checks per graveyar
 
 - Local birds and mammals in the druid’s demesne can speak Common and Elven. They enjoy talking to new people but will try to find and warn the druid if suspicious strangers enter the demesne.
 - Nuts, fruits, and vegetables grown naturally (i.e., not farmed or cultivated) in the druid’s demesne grant those who eat them the effect of goodberry. If taken outside the demesne, they lose this effect.
-- No roads or trails in the druid’s demesne last more than a day. However, allies and the units of allies can pass through the demesne as though there were roads.
+- No roads or trails in the druid’s demesne last more than a full recovery. However, allies and the units of allies can pass through the demesne as though there were roads.
 
 ---
 
@@ -477,7 +477,7 @@ If an enemy attempts to disengage from the Fighter, the Fighter can knock them p
 
 - The library of the wizard’s stronghold has a copy of every non-magical book anyone brings into the wizard’s demesne.
 - By concentrating for 10 minutes, the wizard can scry on any person or location in their demesne as per the scrying spell. The wizard can do this while anywhere, including another plane.
-- Once per day, the wizard can control the weather in their demesne. The wizard doesn’t have to be in their demesne to do this. The effect is otherwise the same as the control weather ritual.
+- Once per full recovery, the wizard can control the weather in their demesne. The wizard doesn’t have to be in their demesne to do this. The effect is otherwise the same as the control weather ritual.
 
 ---
 
@@ -579,7 +579,7 @@ When the Ranger attempts to track a creature, they can call upon the wilds to tr
 #### Demesne Effects
 
 - Creatures age more slowly within the confines of the monk’s demesne.
-- The temperature in the monk’s demesne is always temperate, all year round, all day long.
+- The temperature in the monk’s demesne is always temperate, all year round, all full recovery long.
 - Violence of any kind in the demesne has a 15% chance of summoning a Source of Earth, who immediately uses Back to Earth to end the violence. The monk can reverse these effects.
 
 ---
@@ -680,7 +680,7 @@ In addition, the GM can choose to reveal any of the following:
 
 - The location of a secret door or a hidden entrance or exit • The location and nature of a trap
 - A description of one riddle or puzzle
-- The location and description of one powerful magic item It may seem like this is taking the fun out of the adventure, but for the player with the establishment it will seem like the opposite. It will make them feel awesome, and at the end of the day, you can always add more traps and secret doors!
+- The location and description of one powerful magic item It may seem like this is taking the fun out of the adventure, but for the player with the establishment it will seem like the opposite. It will make them feel awesome, and at the end of the full recovery, you can always add more traps and secret doors!
 
 ---
 
@@ -802,7 +802,7 @@ While the Bard is channelling a Bardic Song, they can choose to continue the son
 
 - Curses, blessings, and oaths pronounced within the sorcerer’s demesne have a 15% chance to be cast at a higher level.
 - Folks who live in the sorcerer’s demesne for a season learn one random sorcerer cantrip. They lose the ability to cast it if they ever leave.
-- Raindrops in the sorcerer’s demesne cast dazzling prismatic reflections during the day.
+- Raindrops in the sorcerer’s demesne cast dazzling prismatic reflections during the full recovery.
 
 ---
 

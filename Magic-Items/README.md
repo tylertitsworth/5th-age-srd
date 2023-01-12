@@ -39,7 +39,7 @@ You can only have one of each type of magic item (or one pair, for boots and glo
 | --- | --- |
 | Armor, robe, shirt, tunic | Armor Class |
 | Arrow, crossbow bolt, slingstone | No default bonus. The most common type of magic ammunition expands crit range by 1 |
-| Belt, swordbelt, kilt, girdle | Recoveries per day |
+| Belt, swordbelt, kilt, girdle | Recoveries per full recovery |
 | Book, scroll, manual, grimoire | No default bonus. These items commonly confer knowledge or skill |
 | Boots, sandals, slippers, shoes | Disengage checks and other footwork |
 | Cloak, mantle, cape | Physical Defense |
@@ -85,7 +85,7 @@ Unless otherwise specified, magic item powers with a recharge chance have to be 
 
 Magic item powers that do not specify a recharge chance or a specific usage pattern have powers that are always available.
 
-The majority of magic item powers list a recharge number (6+, 11+, or 16+). You can count on using a recharge power once a day, but subsequent uses depend on successful recharge rolls. After the battle in which you've used an item's power, roll a d20. If your roll equals or exceeds the recharge number for that item, you can use that item power again that day. If the roll fails, the item power is expended until you take a full heal-up.
+The majority of magic item powers list a recharge number (6+, 11+, or 16+). You can count on using a recharge power once a full recovery, but subsequent uses depend on successful recharge rolls. After the battle in which you've used an item's power, roll a d20. If your roll equals or exceeds the recharge number for that item, you can use that item power again that full recovery. If the roll fails, the item power is expended until you take a full heal-up.
 
 ---
 

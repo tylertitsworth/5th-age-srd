@@ -285,7 +285,7 @@ Once per battle while wearing heavy armor, use an attack from a class that norma
 
 #### Champion Tier
 
-Two battles per day, avoid all attack penalties for wearing heavy armor from a class that normally has such an attack penalty. During any other battles that day, you can still only use the once-per battle power from the adventurer-tier feat.
+Two battles per full recovery, avoid all attack penalties for wearing heavy armor from a class that normally has such an attack penalty. During any other battles that full recovery, you can still only use the once-per battle power from the adventurer-tier feat.
 
 ---
 
@@ -341,13 +341,13 @@ Combining your Sneak Attack damage with attacks from other classes remains off-l
 
 #### Adventurer Tier
 
-Once per day when you hit with an attack from your non-rogue class, you can gain _momentum_ as if you had used a rogue attack.
+Once per full recovery when you hit with an attack from your non-rogue class, you can gain _momentum_ as if you had used a rogue attack.
 
 ---
 
 #### Champion Tier
 
-In addition to using the adventurer-tier feat once per day, you can also use it once per battle (so in a four-battle day, you could use it five times).
+In addition to using the adventurer-tier feat once per full recovery, you can also use it once per battle (so in a four-battle full recovery, you could use it five times).
 
 ---
 
@@ -359,13 +359,13 @@ You lag one level behind in the spells known columns of the Sorcerer Level Progr
 
 #### Adventurer Tier
 
-Once per day, you can cast a non-sorcerer spell after you have gathered power. You double the damage of the spell as if it were a sorcerer spell.
+Once per full recovery, you can cast a non-sorcerer spell after you have gathered power. You double the damage of the spell as if it were a sorcerer spell.
 
 ---
 
 #### Champion Tier
 
-You can now also gather power for a non-sorcerer spell as per the adventurer-tier feat once per battle while the escalation die is 4+ (so in a four battle day, you could use it up to five times assuming the escalation die allows it).
+You can now also gather power for a non-sorcerer spell as per the adventurer-tier feat once per battle while the escalation die is 4+ (so in a four battle full recovery, you could use it up to five times assuming the escalation die allows it).
 
 ---
 

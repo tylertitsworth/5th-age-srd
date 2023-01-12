@@ -47,7 +47,7 @@ Once per battle, when you take damage from an attack by a nearby enemy, deal 1d6
 
 ##### Champion Feat
 
-Once per day, deal the Burning Vengeance damage to 1d3 additional nearby enemies.
+Once per full recovery, deal the Burning Vengeance damage to 1d3 additional nearby enemies.
 
 ---
 

@@ -118,11 +118,11 @@ All barbarians have the Barbarian Rage class feature.
 
 ### Barbarian Rage
 
-Once per day, use a quick action to start raging. A rage lasts until the end of battle, or about 5 minutes.
+Once per full recovery, use a quick action to start raging. A rage lasts until the end of battle, or about 5 minutes.
 
 While raging, you roll 2d20 to hit with your barbarian melee and thrown weapon attacks instead of 1d20. Use the higher roll for the attack. If you roll a natural 11+ with both dice and your highest attack roll is a hit, the attack is a critical hit!
 
-_Recharge 16+:_ After a battle in which you rage, roll a d20 and add your Constitution modifier. On a 16+, you can use Barbarian Rage again later in the day.
+_Recharge 16+:_ After a battle in which you rage, roll a d20 and add your Constitution modifier. On a 16+, you can use Barbarian Rage again later in the full recovery.
 
 #### Adventurer Feat
 
@@ -208,7 +208,7 @@ While raging, you can use Barbaric Cleave as many times as you like during a bat
 
 ### Building Frenzy
 
-One battle per day, as a free action after you have missed an attack, gain +1d4 damage to each successful melee attack until the end of the battle. For each missed attack following this, add another +1d4 damage, up to a maximum of +4d4 damage.
+One battle per full recovery, as a free action after you have missed an attack, gain +1d4 damage to each successful melee attack until the end of the battle. For each missed attack following this, add another +1d4 damage, up to a maximum of +4d4 damage.
 
 #### Adventurer Feat
 
@@ -220,7 +220,7 @@ Bonus damage dice are now d10s.
 
 #### Epic Feat
 
-You can use Building Frenzy twice a day.
+You can use Building Frenzy twice a full recovery.
 
 ---
 
@@ -358,7 +358,7 @@ You’ve bonded with a spirit animal that watches over you and protects you. It�
 
 You gain 4 skill points in skills that represent the spiritual connection to your spirit guide. You can use it on skill checks to perceive supernatural dangers.
 
-You also gain the two special abilities below. Once per day, you can activate one of these abilities as a quick action.
+You also gain the two special abilities below. Once per full recovery, you can activate one of these abilities as a quick action.
 
 - Infuse your body with the power of your spirit. Choose the beast aspect from the druid’s shifter talent that is closest to your spirit animal, and gain its initiate benefit until the end of the battle.
 - Spend a recovery without healing as a quick action to manifest your spirit. Until the end of the battle, your spirit companion joins the battle as your ally. Create an Animal Companion as per the ranger talent. As a spirit creature, your companion gains resist physical damage 16+.
@@ -369,7 +369,7 @@ If you are raging while your spirit companion is manifested, it can make one att
 
 #### Champion Feat
 
-You can use both the infuse and the manifest ability once per day each.
+You can use both the infuse and the manifest ability once per full recovery each.
 
 #### Epic Feat
 
@@ -421,7 +421,7 @@ You gain three skill points in a skill that represents you past or your destiny 
 - Your voice rallies the troops. Choose a battle cry of your level or lower from the bard’s list.
 - You inherited the gift of leadership from your ancestors. Choose a tactic of your level or lower from the warlord list.
 - A new relationship is interested in the destiny of your clan. You gain a new positive relationship point.
-- With you in the lead, others expect victory. Once per day, when you score a critical hit, increase the escalation die by 1.
+- With you in the lead, others expect victory. Once per full recovery, when you score a critical hit, increase the escalation die by 1.
 
 #### Adventurer Feat
 
@@ -495,7 +495,7 @@ If you hit with the melee attack granted by this talent, deal 10 times the escal
 
 ### Bellowing Charge
 
-One battle per day, you can move to engage a far away enemy and make a melee attack against them. Enemies between you and your target may still attempt to intercept you, however.
+One battle per full recovery, you can move to engage a far away enemy and make a melee attack against them. Enemies between you and your target may still attempt to intercept you, however.
 
 #### Champion Feat
 
@@ -523,11 +523,11 @@ Heal additional hit points equal to 20 x the escalation die with the recovery.
 
 ### Natural Will
 
-One battle per day as a quick action, you gain a +2 bonus to your Mental Defense until the end of the battle.
+One battle per full recovery as a quick action, you gain a +2 bonus to your Mental Defense until the end of the battle.
 
 #### Adventurer Feat
 
-You can now use Natural Will in two battles per day.
+You can now use Natural Will in two battles per full recovery.
 
 #### Champion Feat
 
@@ -569,11 +569,11 @@ You grant the bonus to all attack rolls, including ranged and spell attacks.
 
 ### Revel in Pain
 
-One battle per day while you are raging, increase your AC by 1 every time you are damaged by an enemy’s attack. This AC bonus cannot exceed the escalation die (to a maximum of 6).
+One battle per full recovery while you are raging, increase your AC by 1 every time you are damaged by an enemy’s attack. This AC bonus cannot exceed the escalation die (to a maximum of 6).
 
 #### Champion Feat
 
-You can now use Revel In Pain in two battles per day.
+You can now use Revel In Pain in two battles per full recovery.
 
 #### Epic Feat
 
@@ -597,7 +597,7 @@ You take half damage from ongoing damage.
 
 ### Thick Skin
 
-Once per day as a quick action, you gain a +2 bonus to your Physical Defense until the end of the battle.
+Once per full recovery as a quick action, you gain a +2 bonus to your Physical Defense until the end of the battle.
 
 #### Champion Feat
 
@@ -629,7 +629,7 @@ At 8th level, you gain an additional barbarian class talent. Choose one of these
 
 ### Ancestral Warband
 
-One battle per day as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can't be hurt or affected by the creatures of this world.
+One battle per full recovery as a quick action, you can call the spirits of your ancestors to fight alongside you. Your ancestors can't be hurt or affected by the creatures of this world.
 
 At the end of each of your turns, if you are conscious, roll a d6. If you roll less than or equal to the escalation die, a member of your spirit warband strikes from the spirit realm into the world. Make a melee attack against a nearby enemy as if you were making the attack yourself, using any talents, feats, or magic items as you see fit. This attack doesn't take any of your actions.
 
@@ -651,11 +651,11 @@ After you score a critical hit, the next time you are hit by an attack, you take
 
 ### Fearsome Demeanor
 
-One battle per day, all nearby normal monsters and mooks suffer a penalty to their attack rolls and MD equal to the escalation die. If a monster would normally receive a bonus to either of these stats from the escalation die, they lose that bonus instead of suffering the penalty.
+One battle per full recovery, all nearby normal monsters and mooks suffer a penalty to their attack rolls and MD equal to the escalation die. If a monster would normally receive a bonus to either of these stats from the escalation die, they lose that bonus instead of suffering the penalty.
 
 #### Epic Feat
 
-Large and double-strength monsters are also affected by your Fearsome Demeanor, and you may now use this ability in two battles per day.
+Large and double-strength monsters are also affected by your Fearsome Demeanor, and you may now use this ability in two battles per full recovery.
 
 ---
 
@@ -685,7 +685,7 @@ Increase your Dexterity, Intelligence, Wisdom and Charisma scores by 1.
 
 ### Survival Sacrifice
 
-Once per day, you can spend a recovery to turn a regular hit into a critical hit.
+Once per full recovery, you can spend a recovery to turn a regular hit into a critical hit.
 
 #### Epic Feat
 

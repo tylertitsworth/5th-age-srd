@@ -6,7 +6,7 @@
 
 ### Adventurer Feat
 
-Once per day when grabbed or stuck, you can spend a recovery (regaining no hp) and end that condition on yourself.
+Once per full recovery when grabbed or stuck, you can spend a recovery (regaining no hp) and end that condition on yourself.
 
 ### Epic Feat
 

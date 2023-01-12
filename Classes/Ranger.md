@@ -491,11 +491,11 @@ Your Archery rerolls gain a +2 attack bonus and the attack's crit range expands 
 
 #### Champion Feat
 
-Once per day, you can use Archery twice in the same battle.
+Once per full recovery, you can use Archery twice in the same battle.
 
 #### Epic Feat
 
-Once per day, you can turn a normal hit with a ranger ranged attack into a critical hit.
+Once per full recovery, you can turn a normal hit with a ranger ranged attack into a critical hit.
 
 ---
 
@@ -647,7 +647,7 @@ You can change your favored enemy by meditating when you take a full heal-up.
 
 #### Adventurer Feat
 
-This feat is only usable by rangers who have taken humanoid as a favored enemy. Once per day, as a free action, you may select a humanoid species you have encountered in the past. Until the end of the battle, you may use that species’ racial ability. For example, you could gain the shifty bugger ability of goblins, be as evasive as a kobold, as dangerous as an orc, or blend into your surroundings like a chameleon troglodyte. The Gamemaster may veto overpowered or overly magical abilities—this feat represents your ability to emulate the tricks and tactics of your prey, not a supernatural power of shapeshifting.
+This feat is only usable by rangers who have taken humanoid as a favored enemy. Once per full recovery, as a free action, you may select a humanoid species you have encountered in the past. Until the end of the battle, you may use that species’ racial ability. For example, you could gain the shifty bugger ability of goblins, be as evasive as a kobold, as dangerous as an orc, or blend into your surroundings like a chameleon troglodyte. The Gamemaster may veto overpowered or overly magical abilities—this feat represents your ability to emulate the tricks and tactics of your prey, not a supernatural power of shapeshifting.
 
 #### Champion Feat
 
@@ -687,7 +687,7 @@ The crit range of your First Strike attacks expands by 1 (to +3).
 
 #### Champion Feat
 
-Once per day, deal triple damage with a First Strike crit instead of double damage.
+Once per full recovery, deal triple damage with a First Strike crit instead of double damage.
 
 #### Epic Feat
 
@@ -735,7 +735,7 @@ When you hit an enemy you weren’t engaged with at the start of your turn with 
 
 When you attack from ambush, an additional number of your allies equal to your Charisma modifier may act in the surprise round.
 
-Once per day, when you flee, you may make a normal save (11+). If successful, this escape was just a feint; you do not take a campaign loss, and instead hide nearby. You may take a short rest, then return to the adventure without significant setback. Once per level, you may declare that you know about a hiding place or refuge nearby. The nature of this refuge depends on the sort of terrain, but it’s always a safe, well-concealed place stocked with supplies. It might be a hidden cache in the wilderness, or the home of a trusted old friend, or just a dungeon room that you somehow intuit is safer than anywhere else. Each character in the company automatically succeeds at one recharge roll when they first take a short rest in the refuge.
+Once per full recovery, when you flee, you may make a normal save (11+). If successful, this escape was just a feint; you do not take a campaign loss, and instead hide nearby. You may take a short rest, then return to the adventure without significant setback. Once per level, you may declare that you know about a hiding place or refuge nearby. The nature of this refuge depends on the sort of terrain, but it’s always a safe, well-concealed place stocked with supplies. It might be a hidden cache in the wilderness, or the home of a trusted old friend, or just a dungeon room that you somehow intuit is safer than anywhere else. Each character in the company automatically succeeds at one recharge roll when they first take a short rest in the refuge.
 
 ---
 
@@ -749,7 +749,7 @@ The crit range of your Lethal Hunter attacks expands by 1 (to +3).
 
 #### Champion Feat
 
-One battle per day, you can use Lethal Hunter against two different enemies.
+One battle per full recovery, you can use Lethal Hunter against two different enemies.
 
 #### Epic Feat
 
@@ -759,7 +759,7 @@ Your Lethal Hunter crits deal triple damage instead of double damage while the e
 
 ### Nimble Assault
 
-Once per day, you can use your innate maneuverability and momentum to great effect on the battlefield. Make a basic melee attack against a nearby; if you hit, you can automatically pop free from that target, move to engage another nearby enemy, and make a basic melee attack against the new target. Repeat the process of basic attack/pop free/move to new targets until you either miss with an attack or you have attacked all nearby enemies once.
+Once per full recovery, you can use your innate maneuverability and momentum to great effect on the battlefield. Make a basic melee attack against a nearby; if you hit, you can automatically pop free from that target, move to engage another nearby enemy, and make a basic melee attack against the new target. Repeat the process of basic attack/pop free/move to new targets until you either miss with an attack or you have attacked all nearby enemies once.
 
 #### Adventurer Feat
 
@@ -869,7 +869,7 @@ The creature will travel four hours and deliver a short message in a squeaky voi
 
 ### Summon Beasts
 
-For one battle per day, you can call on an animal appropriate to the environment to fight at your side. The animal that arrives is chosen by the GM, and it typically has animal companion stats one level lower than your level. It departs at the fight’s conclusion.
+For one battle per full recovery, you can call on an animal appropriate to the environment to fight at your side. The animal that arrives is chosen by the GM, and it typically has animal companion stats one level lower than your level. It departs at the fight’s conclusion.
 
 ---
 
@@ -975,7 +975,7 @@ If you fight with two one-handed melee weapons, whenever an enemy makes a melee 
 
 #### Epic Feat
 
-One battle per day, increase the damage you deal with missed attacks to triple your level instead of double your level (from Two-Weapon Mastery).
+One battle per full recovery, increase the damage you deal with missed attacks to triple your level instead of double your level (from Two-Weapon Mastery).
 
 ---
 
@@ -983,7 +983,7 @@ One battle per day, increase the damage you deal with missed attacks to triple y
 
 _Special:_ You must have the [Favored Enemy](#favored-enemy) talent before you can take this talent.
 
-The dark fey have taught you well, instructing you on a straightforward but effective curse you can deliver with a successful attack. Once per day, if you hit a favored enemy with an attack, it suffers a penalty on subsequent attack rolls equal to the escalation die (11+ save ends).
+The dark fey have taught you well, instructing you on a straightforward but effective curse you can deliver with a successful attack. Once per full recovery, if you hit a favored enemy with an attack, it suffers a penalty on subsequent attack rolls equal to the escalation die (11+ save ends).
 
 #### Adventurer Feat
 
@@ -1003,7 +1003,7 @@ The Unseelie Curse penalty applies to defenses as well.
 
 You gain a spell slot from the druid’s Circle of the Lands, you don’t need to prepare a spell in advance. When you decide to cast a spell, choose one from the list of the terrain(s) you are currently in, at your level or lower. If the spell is an at-will or once-per-battle spell, you regain your spell slot at the end of the battle or scene. If the spell is a full recovery spell, you regain the spell slot at your next full heal-up.
 
-In addition, once per day per point of Wisdom modifier, you can commune with the spirits of nature to gain advantage on a skill check related to the surrounding terrain. For example, beast spirits can help you track game, river spirits can point to a source of freshwater, and earth spirits can make climbing easier.
+In addition, once per full recovery per point of Wisdom modifier, you can commune with the spirits of nature to gain advantage on a skill check related to the surrounding terrain. For example, beast spirits can help you track game, river spirits can point to a source of freshwater, and earth spirits can make climbing easier.
 
 #### Champion Feat
 
@@ -1073,7 +1073,7 @@ With aim, you also deal half damage on a miss.
 
 _Special:_ This talent requires [Ranger Ex Cathedral](#ranger-ex-cathedral).
 
-Once per day, you can swear an Oath of Vengeance against an enemy as a quick action. Your attack rolls against the target have advantage, and all damage you deal against it is radiant damage.
+Once per full recovery, you can swear an Oath of Vengeance against an enemy as a quick action. Your attack rolls against the target have advantage, and all damage you deal against it is radiant damage.
 
 You also gain Inescapable Wrath and Relentless Pursuit as bonus powers.
 
@@ -1181,7 +1181,7 @@ If the second attack from Double Ranged Attack is a natural even roll, you can m
 
 #### Epic Feat
 
-Once per day, when you make at least 3 ranged attacks in one turn, increase the escalation die by 1.
+Once per full recovery, when you make at least 3 ranged attacks in one turn, increase the escalation die by 1.
 
 ---
 

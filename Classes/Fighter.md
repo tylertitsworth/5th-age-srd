@@ -171,7 +171,7 @@ _Special:_ If you target a mook with this ability, it affects every member of th
 
 #### Adventurer Feat
 
-Using bravado is now a free action. Once a day, you may use this ability twice in a battle.
+Using bravado is now a free action. Once a full recovery, you may use this ability twice in a battle.
 
 #### Champion Feat
 
@@ -231,7 +231,7 @@ You no longer take the –2 penalty to your Comeback Strike attacks.
 
 #### Champion Feat
 
-Once per day, you can use Comeback Strike twice in a battle.
+Once per full recovery, you can use Comeback Strike twice in a battle.
 
 #### Epic Feat
 
@@ -319,7 +319,7 @@ Once per battle while wearing heavy armor, when you are hit by an attack that ta
 
 #### Adventurer Feat
 
-Once per day, you can use Heavy Warrior twice in a battle (against different attacks).
+Once per full recovery, you can use Heavy Warrior twice in a battle (against different attacks).
 
 #### Champion Feat
 
@@ -327,7 +327,7 @@ You can also use the power against an attack that targets PD.
 
 #### Epic Feat
 
-Once per day, you can reroll a recharge roll for a magic armor power.
+Once per full recovery, you can reroll a recharge roll for a magic armor power.
 
 ---
 
@@ -383,7 +383,7 @@ You deal the additional Power Attack damage even if the attack misses.
 
 #### Champion Feat
 
-One battle per day, you can use Power Attack twice in the battle.
+One battle per full recovery, you can use Power Attack twice in the battle.
 
 #### Epic Feat
 
@@ -433,7 +433,7 @@ Once per battle, you may spend a recovery as a quick action to immediately rerol
 
 #### Adventurer Feat
 
-Using resist & endure is now a free action. Once a day, you may use this ability twice in a battle.
+Using resist & endure is now a free action. Once a full recovery, you may use this ability twice in a battle.
 
 #### Champion Feat
 
@@ -529,7 +529,7 @@ Once per battle, you can rally using a quick action instead of a standard action
 
 #### Adventurer Feat
 
-Once per day, you can rally twice during a battle as a quick action, without needing to roll a save for the second rally.
+Once per full recovery, you can rally twice during a battle as a quick action, without needing to roll a save for the second rally.
 
 #### Champion Feat
 
@@ -593,7 +593,7 @@ If you roll a natural 20 on an attack, you gain an additional use of this talent
 
 #### Epic Feat
 
-Once per day, you can increase the roll by 3 instead.
+Once per full recovery, you can increase the roll by 3 instead.
 
 ---
 

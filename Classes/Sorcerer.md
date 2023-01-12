@@ -306,7 +306,7 @@ Celestial familiars are often animals from divine realms. They resemble animals 
 
 _Celestial Ward:_ Once per battle, when the Sorcerer, or an adjacent ally is attacked, give the attack a penalty equal to the escalation die.
 
-_Healing Touch:_ Once per day, the familiar can touch an ally. The ally can use a recovery to heal.
+_Healing Touch:_ Once per full recovery, the familiar can touch an ally. The ally can use a recovery to heal.
 
 _Radiant:_ Once per battle, when you hit an enemy engaged with you, you can add 5 ongoing radiant damage per tier to the damage roll.
 
@@ -328,7 +328,7 @@ Celestial sorcerers can cast the _radiant halo_ spell as a standard action. The 
 
 At the GM’s discretion, the halo can give creatures that are attuned to darkness (such as dark elves) a -1 penalty to attacks against you.
 
-The spell usually lasts at least an hour. You can cast it a number of times per day equal to your Charisma modifier.
+The spell usually lasts at least an hour. You can cast it a number of times per full recovery equal to your Charisma modifier.
 
 ---
 
@@ -542,7 +542,7 @@ All Umbral sorcerers can cast the _crypt candles_ spell as a standard action. Th
 
 The candles and their illumination can only be seen by you, your allies and any creatures with a connection to a shadowy mastermind or a prominent lich. They make invisible creatures visible.
 
-The spell usually lasts at least an hour. You can cast it a number of times per day equal to your Charisma modifier.
+The spell usually lasts at least an hour. You can cast it a number of times per full recovery equal to your Charisma modifier.
 
 ---
 
@@ -593,9 +593,9 @@ Also gain the Umbral benefit as a free action the first time you are staggered i
 
 Your familiar is a creature associated with the dark arts, such as a cat, raven or a bat. Some are ghostly or skeletal in appearance. Your familiar has two abilities, which you can choose from Consume, Corrupting Touch, Ghost-sight or Insubstantial below, or Counter-bite, Flight, or Poisonous from the wizard list. If you choose a raven, it can also be Talkative.
 
-_Consume:_ Once per day, when an attack would take you below zero hit points, you can consume your familiar as an interrupt. Immediately heal using a free recovery. Your familiar reforms at the next full heal-up.
+_Consume:_ Once per full recovery, when an attack would take you below zero hit points, you can consume your familiar as an interrupt. Immediately heal using a free recovery. Your familiar reforms at the next full heal-up.
 
-_Corrupting Touch:_ Once per day, your familiar can make a Charisma + Level attack against the PD of an enemy you are engaged with. On a hit, the target is weakened until the end of your next turn.
+_Corrupting Touch:_ Once per full recovery, your familiar can make a Charisma + Level attack against the PD of an enemy you are engaged with. On a hit, the target is weakened until the end of your next turn.
 
 _Ghost-sight:_ While your familiar is nearby, you can sense the presence of undead, even at far away range.
 
@@ -625,7 +625,7 @@ Sorcerers possess innate talent for magic that is impulsive and chaotic where wi
 
 Your shadow can fetch items and help with chores, similar to a Mage Hand cantrip.
 
-Once per day, as a quick action, you can separate your shadow and have it aid you until the end of the battle as an independent combatant.
+Once per full recovery, as a quick action, you can separate your shadow and have it aid you until the end of the battle as an independent combatant.
 
 Your shadow has the stats, attacks and defenses as below. It acts on your initiative after you, taking a standard action, a move action, and (if applicable) a quick action. It can’t heal. When it drops to 0 hp, it’s destroyed until the next full heal-up. The shadow counts as your ally. Summoning rules don’t apply to it. It benefits from the default bonus of your items for attacks and defenses. It benefits from the escalation die.
 
@@ -742,11 +742,11 @@ You gain a +2 attack bonus with empowered _breath weapon_ spells.
 
 #### Champion Feat
 
-Once per day, turn a failed _breath weapon_ re-use roll into a success.
+Once per full recovery, turn a failed _breath weapon_ re-use roll into a success.
 
 #### Epic Feat
 
-One battle per day, gain resist dragon attack 16+ (all attacks made by dragons; dragon must roll natural 16+ with the attack or it deals only half damage).
+One battle per full recovery, gain resist dragon attack 16+ (all attacks made by dragons; dragon must roll natural 16+ with the attack or it deals only half damage).
 
 ---
 
@@ -772,7 +772,7 @@ You can cast all spells from your bloodline as if you had their champion feat.
 
 ### Fey Heritage
 
-One battle per day, when you roll initiative, you can choose to invoke your Fey Heritage and gain the species power of one the elven species in addition to your own species power. Roll on the table below. If you roll your own species's power, you gain the half-elf's _surprising_ species power instead.
+One battle per full recovery, when you roll initiative, you can choose to invoke your Fey Heritage and gain the species power of one the elven species in addition to your own species power. Roll on the table below. If you roll your own species's power, you gain the half-elf's _surprising_ species power instead.
 
 | **Roll (d6)** | **Species Power** |
 | --- | --- |
@@ -782,7 +782,7 @@ One battle per day, when you roll initiative, you can choose to invoke your Fey 
 
 #### Adventurer Feat
 
-You can now invoke your Fey Heritage talent in two battles each day.
+You can now invoke your Fey Heritage talent in two battles each full recovery.
 
 #### Champion Feat
 
@@ -808,7 +808,7 @@ When you gather power and your sorcerer benefit increases your defenses, you can
 
 #### Epic Feat
 
-One battle per day, you can choose to gain resist demon attack 16+ instead of resist energy 12+ from your Metallic Protector Heritage talent.
+One battle per full recovery, you can choose to gain resist demon attack 16+ instead of resist energy 12+ from your Metallic Protector Heritage talent.
 
 ---
 
@@ -878,7 +878,7 @@ Once per battle, you can include one enemy engaged with you as an additional tar
 
 #### Epic Feat
 
-Once per day when you cast an empowered spell, each enemy engaged with you becomes an additional target of that spell if it's not already targeted by the spell.
+Once per full recovery when you cast an empowered spell, each enemy engaged with you becomes an additional target of that spell if it's not already targeted by the spell.
 
 ---
 
@@ -3011,7 +3011,7 @@ Celestial / Umbral
 
 **Trigger:** A nearby enemy is reduced below zero hit points.
 
-**Effect:** The soul of the slain enemy is sealed away, and it can’t be healed, revived, resurrected, returned from the underworld, or raised as an undead for 1d6 days. After that period, it can make a hard save (16+) every day to end the effect. That doesn’t bring the target back, but it is now possible to do so. This spell can be cast as a ritual to bind a target permanently.
+**Effect:** The soul of the slain enemy is sealed away, and it can’t be healed, revived, resurrected, returned from the underworld, or raised as an undead for 1d6 days. After that period, it can make a hard save (16+) every full recovery to end the effect. That doesn’t bring the target back, but it is now possible to do so. This spell can be cast as a ritual to bind a target permanently.
 
 ---
 
@@ -3202,7 +3202,7 @@ Roll a d8 to see which power you gain:
 | **5** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
 | **6** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
 | **7** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
-| **8** | Eye of the demon | Choose any two features you want. For the rest of this day, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
+| **8** | Eye of the demon | Choose any two features you want. For the rest of this full recovery, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
 
 ---
 

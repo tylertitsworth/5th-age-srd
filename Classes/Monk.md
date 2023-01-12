@@ -143,13 +143,13 @@ When you use an element of a form, you gain an AC bonus until the start of your 
 
 ### Ki
 
-You gain a number of _ki_ points each day equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a full recovery resource. When you take a full heal-up, you regain all your ki points. You don't regain ki during a quick rest.
+You gain a number of _ki_ points each full recovery equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a full recovery resource. When you take a full heal-up, you regain all your ki points. You don't regain ki during a quick rest.
 
 After rolling an attack, you can spend 1 point of ki as a free action to change your attack's _natural_ result by 1, unless that result is a natural 1. The change can be +1 or -1. Spending ki is a free action, but you can only spend 1 point of ki each turn.
 
 #### Adventurer Feat
 
-You gain 1 additional point of ki each day.
+You gain 1 additional point of ki each full recovery.
 
 #### Champion Feat
 
@@ -157,7 +157,7 @@ You can spend as much ki as you like during a turn. You must spend each point of
 
 #### Epic Feat
 
-Work with your GM to invent a new ki power related to your one unique thing or some other aspect of your character's story. If the ki power is too good and overshadows your other ki powers, the GM should rule that you can only use it once a day.
+Work with your GM to invent a new ki power related to your one unique thing or some other aspect of your character's story. If the ki power is too good and overshadows your other ki powers, the GM should rule that you can only use it once a full recovery.
 
 ---
 
@@ -485,7 +485,7 @@ _Soulblade:_ As a free action, spend a ki point to imbue a weapon you wield as a
 
 ##### Adventurer Feat
 
-You can use the Soulblade ki power once per day without spending a ki point.
+You can use the Soulblade ki power once per full recovery without spending a ki point.
 
 ##### Champion Feat
 
@@ -553,7 +553,7 @@ In addition, while you're staggered, when you roll a natural even attack roll, y
 
 #### Champion Feat
 
-Once per day after rolling a death save, you can gain +4 bonus to the roll.
+Once per full recovery after rolling a death save, you can gain +4 bonus to the roll.
 
 #### Epic Feat
 
@@ -561,11 +561,11 @@ The first time you die after taking this feat, you are resurrected at a place of
 
 #### Ki Power
 
-_Imperial Phoenix Flare_: Once per day when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
+_Imperial Phoenix Flare_: Once per full recovery when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
 
 ##### Adventurer Feat
 
-You can now use this ki power twice per day.
+You can now use this ki power twice per full recovery.
 
 ---
 
@@ -625,7 +625,7 @@ When you roll a natural 2 with a monk attack while fighting with your monastic w
 
 #### Epic Feat
 
-One battle per day, the damage dice of your finishing attacks increase by one size (max d12). (For example, d10s become d12s.)
+One battle per full recovery, the damage dice of your finishing attacks increase by one size (max d12). (For example, d10s become d12s.)
 
 #### Ki Power
 
@@ -655,7 +655,7 @@ _Tribute to Death:_ If an enemy has 5 times your level in hit points or less aft
 
 ##### Epic Feat
 
-You can use the _Tribute to Death_ ki power once per day without expending a ki point.
+You can use the _Tribute to Death_ ki power once per full recovery without expending a ki point.
 
 ---
 
@@ -720,11 +720,11 @@ _Ludicrous Improbability Maneuver:_You can spend 1 ki point to use Improbable St
 
 ### Path of the Perfect Warrior
 
-One battle per day, you can increase your JAB damage dice to d8s, your PUNCH damage dice to d10s, and your KICK damage dice to d12s.
+One battle per full recovery, you can increase your JAB damage dice to d8s, your PUNCH damage dice to d10s, and your KICK damage dice to d12s.
 
 #### Ki Power
 
-_Perfect Breath:_Once per day when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
+_Perfect Breath:_Once per full recovery when you are healing using a recovery, you can spend 1 point of ki to heal using a second recovery as well. The second recovery is a free.
 
 ---
 
@@ -742,13 +742,13 @@ _Nidan:_ Before making your attack roll, you can spend a ki point to double the 
 
 ##### Champion Feat
 
-You can use the _Nidan_ ki power once per day without expending a ki point.
+You can use the _Nidan_ ki power once per full recovery without expending a ki point.
 
 ---
 
 ### Prison Within
 
-Once per day, as a quick action when the escalation die is 1+, you can unleash the power of the imprisoned demon. Until the end of the battle, you have advantage on melee attacks. However, if both attack rolls show the same number, the demon eats away at your soul, and you lose a recovery. If you have no recoveries left, you take a -1 penalty to attacks and defenses until your next full heal-up.
+Once per full recovery, as a quick action when the escalation die is 1+, you can unleash the power of the imprisoned demon. Until the end of the battle, you have advantage on melee attacks. However, if both attack rolls show the same number, the demon eats away at your soul, and you lose a recovery. If you have no recoveries left, you take a -1 penalty to attacks and defenses until your next full heal-up.
 
 #### Champion Feat
 
@@ -812,13 +812,13 @@ _Morning Tempest:_ You can spend a ki point to gain a second use of this talent 
 
 ##### Epic Feat
 
-Once per day, you can use the _Morning Tempest_ ki power without spending a ki point.
+Once per full recovery, you can use the _Morning Tempest_ ki power without spending a ki point.
 
 ---
 
 ### Moonlight Reflection
 
-For one battle per day, as a quick action, you can summon a shadow double of yourself. At the end of your turn, roll a d6. If the result is lower than the escalation die, the shadow double makes a melee basic attack against a nearby enemy of your choice, using your stats and doing JAB, PUNCH or KICK damage based on your current stage in the cycle. The double does not interact with the battle in any other way.
+For one battle per full recovery, as a quick action, you can summon a shadow double of yourself. At the end of your turn, roll a d6. If the result is lower than the escalation die, the shadow double makes a melee basic attack against a nearby enemy of your choice, using your stats and doing JAB, PUNCH or KICK damage based on your current stage in the cycle. The double does not interact with the battle in any other way.
 
 #### Epic Feat
 
@@ -846,7 +846,7 @@ _One with the World:_ You can spend a ki point to increase the natural roll of a
 
 ### Procession of the Sun and Moon
 
-Once per level, while meditating during a quick rest, you can decide that it's time for the start of a new day. You and each of your willing allies can make a hard save (16+). Each character who succeeds regains all spells, powers, hit points, ki, and recoveries as if they had taken a full heal-up and started a new day.
+Once per level, while meditating during a quick rest, you can decide that it's time for the start of a new full recovery. You and each of your willing allies can make a hard save (16+). Each character who succeeds regains all spells, powers, hit points, ki, and recoveries as if they had taken a full heal-up and started a new full recovery.
 
 #### Epic Feat
 
@@ -1770,7 +1770,7 @@ You can also use the _no retreat_ opening attack if you have been staggered this
 
 ##### Epic Feat
 
-One battle per day, your crit range expands by 2 (cumulative) each time you drop a non-mook enemy to 0 hp.
+One battle per full recovery, your crit range expands by 2 (cumulative) each time you drop a non-mook enemy to 0 hp.
 
 ---
 
@@ -1874,11 +1874,11 @@ _Natural Odd Miss:_ —
 
 ##### Champion Feat
 
-Once per day as a free action, double the healing you get when you heal using a recovery (from any effect).
+Once per full recovery as a free action, double the healing you get when you heal using a recovery (from any effect).
 
 ##### Epic Feat
 
-One battle per day as a free action, choose yourself or a nearby ally. That creature gains a bonus to death saves equal to your Wisdom modifier until the end of the battle.
+One battle per full recovery as a free action, choose yourself or a nearby ally. That creature gains a bonus to death saves equal to your Wisdom modifier until the end of the battle.
 
 ---
 
@@ -1991,7 +1991,7 @@ Once per battle when an enemy hits you with an attack that targets AC or PD whil
 
 ##### Epic Feat
 
-Once per day when you miss all targets with a finishing attack, you can make another finishing attack with your next standard action—in effect, you get to redo the last form of that progression.
+Once per full recovery when you miss all targets with a finishing attack, you can make another finishing attack with your next standard action—in effect, you get to redo the last form of that progression.
 
 ---
 
@@ -2207,7 +2207,7 @@ _Natural Even Hit:_ As a hit, plus until the end of your next turn, you gain _fl
 
 ##### Epic Feat Ki Power
 
-_Quivering Palm:_ Once per day when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how far away the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the day.
+_Quivering Palm:_ Once per full recovery when you hit a target with a finishing attack, you can spend 1 point of ki to create a link with the target. Until the next full heal-up, regardless of how far away the target is, you can spend 1 point of ki and two consecutive quick actions to deal PUNCH + Wisdom damage to the target. You can keep spending quick actions and ki to deal this damage once per round until you run out of ki for the full recovery.
 
 ---
 
@@ -2309,7 +2309,7 @@ _Natural Odd Hit:_ KICK + Wisdom damage, and the target takes a –2 penalty to 
 
 ##### Epic Feat
 
-Once per day when you use the _lotus dreams the world_ finishing attack, a nearby ally can heal using a free recovery and can roll a save against each save ends effect affecting it.
+Once per full recovery when you use the _lotus dreams the world_ finishing attack, a nearby ally can heal using a free recovery and can roll a save against each save ends effect affecting it.
 
 ---
 
@@ -2557,4 +2557,4 @@ _Miss (PUNCH):_ The target takes damage equal to your level.
 
 ##### Epic Feat
 
-One battle per day, choose a monk talent you don't ordinarily possess. This battle, you have that talent.
+One battle per full recovery, choose a monk talent you don't ordinarily possess. This battle, you have that talent.

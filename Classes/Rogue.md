@@ -240,7 +240,7 @@ You no longer have disadvantage to intimidate.
 
 #### Epic Feat
 
-You have mastered the switch from innocent to scary. Once per day, you can create a fear aura like a monster of your level, for a number of rounds equal to your Charisma modifier.
+You have mastered the switch from innocent to scary. Once per full recovery, you can create a fear aura like a monster of your level, for a number of rounds equal to your Charisma modifier.
 
 ---
 
@@ -336,7 +336,7 @@ Enemies on ranged attacks trigger the “shooting into melee” reroll on misses
 
 #### Champion Feat
 
-Once per day, the reroll automatically hits the enemy.
+Once per full recovery, the reroll automatically hits the enemy.
 
 #### Epic Feat
 
@@ -377,21 +377,21 @@ Your Sneak Attack damage is better than other rogues. Use the following Sneak At
 
 #### Adventurer Feat
 
-Once per day as a free action, you can add your Sneak Attack damage to any hit against one target that would not otherwise have qualified for the damage.
+Once per full recovery as a free action, you can add your Sneak Attack damage to any hit against one target that would not otherwise have qualified for the damage.
 
 #### Champion Feat
 
-Once per day, roll d20s for your Sneak Attack damage instead of d8s.
+Once per full recovery, roll d20s for your Sneak Attack damage instead of d8s.
 
 #### Epic Feat
 
-One battle per day, ignore the limitation that you can use Sneak Attack damage only once per round.
+One battle per full recovery, ignore the limitation that you can use Sneak Attack damage only once per round.
 
 ---
 
 ### Intrusion Expert
 
-You have an uncanny ability to get where you are not supposed to be. Once per day, you can slip, sneak, bumble, or bamboozle your way into a forbidden place such as a treasure vault, a cloister or an invitation-only festival. (If the GM decides that getting to the goal is especially difficult, they can rule this will cost a recovery, to represent exhaustion or small injuries.) If you used this talent to get into a place, you can generally also get out again, but it doesn’t help you get out of a place when you are confined. It’s for intrusion, not escape.
+You have an uncanny ability to get where you are not supposed to be. Once per full recovery, you can slip, sneak, bumble, or bamboozle your way into a forbidden place such as a treasure vault, a cloister or an invitation-only festival. (If the GM decides that getting to the goal is especially difficult, they can rule this will cost a recovery, to represent exhaustion or small injuries.) If you used this talent to get into a place, you can generally also get out again, but it doesn’t help you get out of a place when you are confined. It’s for intrusion, not escape.
 
 #### Adventurer Feat
 
@@ -585,11 +585,11 @@ On a miss, you can still use your move action normally (but still can't _shadow 
 
 #### Champion Feat
 
-Twice per day, you can reroll the rogue attack that follows your successful use of _shadow walk_.
+Twice per full recovery, you can reroll the rogue attack that follows your successful use of _shadow walk_.
 
 #### Epic Feat
 
-Twice per day, you can reappear from your _shadow walk_ in a nearby location you wouldn't have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
+Twice per full recovery, you can reappear from your _shadow walk_ in a nearby location you wouldn't have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
 
 ---
 
@@ -613,7 +613,7 @@ When you are intercepted by an enemy while you move, make a Dexterity + Level at
 
 ### Smooth Talk
 
-Once per day, convince your GM with an amazing line of patter while you are using social skills to speak or interact with NPCs associated with a particular relationship. If the GM is convinced by your patter, roll a normal save (11+). If you succeed, for the rest of the day you can function as if you have a 2-point positive relationship with the relationship who seems to be in play. Thanks to your amazing gift of gab, for a short time, it's more or less true. (Note that these points replace any points you normally have with the relationship rather than adding to them.)
+Once per full recovery, convince your GM with an amazing line of patter while you are using social skills to speak or interact with NPCs associated with a particular relationship. If the GM is convinced by your patter, roll a normal save (11+). If you succeed, for the rest of the full recovery you can function as if you have a 2-point positive relationship with the relationship who seems to be in play. Thanks to your amazing gift of gab, for a short time, it's more or less true. (Note that these points replace any points you normally have with the relationship rather than adding to them.)
 
 Failure on the Smooth Talk save generally arouses suspicions.
 
@@ -667,11 +667,11 @@ Regardless of your level, you gain the bonus power _thief's strike_ in addition 
 
 #### Champion Feat
 
-Once per day, you can deal full damage with _thief's strike_ instead of half damage.
+Once per full recovery, you can deal full damage with _thief's strike_ instead of half damage.
 
 #### Epic Feat
 
-Twice per level, you can steal something with a successful _thief's strike_ that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone's hope, a memory. The theft won't be permanent. Every day, roll a hard save to determine whether you can keep what you stole for that day. Also, you can never steal the same thing twice.
+Twice per level, you can steal something with a successful _thief's strike_ that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone's hope, a memory. The theft won't be permanent. Every full recovery, roll a hard save to determine whether you can keep what you stole for that full recovery. Also, you can never steal the same thing twice.
 
 ---
 
@@ -685,7 +685,7 @@ You ignore the penalty for disengaging from more than one enemy at a time.
 
 #### Champion Feat
 
-One battle per day as a free action, you can declare that you're a tumbling fool and automatically succeed on your first disengage check each turn.
+One battle per full recovery as a free action, you can declare that you're a tumbling fool and automatically succeed on your first disengage check each turn.
 
 #### Epic Feat
 
@@ -1021,7 +1021,7 @@ The power also triggers on a ranged attack.
 
 #### Epic Feat
 
-Once per day, you can use roll with it to take damage equal to the attacker's level instead of half damage.
+Once per full recovery, you can use roll with it to take damage equal to the attacker's level instead of half damage.
 
 ---
 
@@ -1390,11 +1390,11 @@ Once per battle, you can perform a dirty trick to inflict the confused, stuck, o
 
 #### Champion Feat
 
-Once per day, you can perform a dirty trick to inflict the stunned condition.
+Once per full recovery, you can perform a dirty trick to inflict the stunned condition.
 
 #### Epic Feat
 
-Once per day, you can perform a dirty trick to inflict the helpless condition.
+Once per full recovery, you can perform a dirty trick to inflict the helpless condition.
 
 ---
 
@@ -1870,7 +1870,7 @@ Shadow
 
 **Target:** An object, a doorway, or a section of the floor or wall
 
-**Effect:** You enchant the target area, so that the next person or creature to touch it springs the trap and is targeted by the following attack. You can set a condition to include or exclude targets, such as “anyone but me,” “anything larger than a cat,” or “any orc.” The trap lasts for up to one day.
+**Effect:** You enchant the target area, so that the next person or creature to touch it springs the trap and is targeted by the following attack. You can set a condition to include or exclude targets, such as “anyone but me,” “anything larger than a cat,” or “any orc.” The trap lasts for up to one full recovery.
 
 **Attack:** Dexterity + Level vs. PD
 

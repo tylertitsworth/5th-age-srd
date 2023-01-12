@@ -175,7 +175,7 @@ You don't die from damage until your negative hit points equal your maximum hit 
 
 #### Epic Feat
 
-One battle per day, you can choose to succeed with death saves on an 11+ instead of a 16+.
+One battle per full recovery, you can choose to succeed with death saves on an 11+ instead of a 16+.
 
 ---
 
@@ -187,7 +187,7 @@ You have advantage (roll twice and take the better result) on skill checks regar
 
 #### Adventurer Feat
 
-Once per day, when you cast a necromancer spell, narrate how you studied the spell in a flashback. You have advantage on the first attack roll with the spell.
+Once per full recovery, when you cast a necromancer spell, narrate how you studied the spell in a flashback. You have advantage on the first attack roll with the spell.
 
 #### Champion Feat
 
@@ -195,7 +195,7 @@ If you invest a feat into a necromancer spell, you also gain the benefits of any
 
 #### Epic Feat
 
-Once per day, you can cast a necromantic ritual by sacrificing a living creature instead of expending a spell.
+Once per full recovery, you can cast a necromantic ritual by sacrificing a living creature instead of expending a spell.
 
 ---
 
@@ -233,7 +233,7 @@ Your soliloquized spell is now a recharge 16+ after battle instead of 18+.
 
 #### Epic Feat
 
-Once per day, you can hog the spotlight when using Cackling Soliloquist. When you do, you heal using a free recovery and steal the escalation die, keeping it all to yourself. Until the end of your next turn, you are the only creature—PC, NPC, or monster—that can use the escalation die, _and_ you treat the escalation die as if it were an 8. At the end of your next turn, return the escalation die to the table, one point higher than it was when you seized it.
+Once per full recovery, you can hog the spotlight when using Cackling Soliloquist. When you do, you heal using a free recovery and steal the escalation die, keeping it all to yourself. Until the end of your next turn, you are the only creature—PC, NPC, or monster—that can use the escalation die, _and_ you treat the escalation die as if it were an 8. At the end of your next turn, return the escalation die to the table, one point higher than it was when you seized it.
 
 ---
 
@@ -262,12 +262,12 @@ You gain a second bonus wizard spell, but this one can be of your level or lower
 
 When you have relationship advantages you're waiting to use during a session, you can interpret them as interactions/public discussions with the spirits of the recent or ancient dead in the area, providing information you require (and possibly, when there's a complication, also providing that information to your enemies or otherwise getting you into some type of trouble).
 
-_**Séance:**_ Similarly, once per day while you're not in battle, you can perform a short rite (1–2 minutes) to call upon a spirit of the dead that's related to a random relationship other than a necromantic relationship. The spirit will speak to you, relaying information helpfully, or under protest if it's related to a relationship that considers you an enemy or with which you have a negative relationship.
+_**Séance:**_ Similarly, once per full recovery while you're not in battle, you can perform a short rite (1–2 minutes) to call upon a spirit of the dead that's related to a random relationship other than a necromantic relationship. The spirit will speak to you, relaying information helpfully, or under protest if it's related to a relationship that considers you an enemy or with which you have a negative relationship.
 
 You can't always rely on the dead to speak the truth, or to know what they are talking about. Whenever you use the séance power above, the GM secretly rolls a d20 before the discussion. On a 3+, the spirit knows what it is talking about. On a 1–2, the information is outdated, sabotaged, or just erroneous.
 >Note that this roll is only used for séances, not for spirits you talk to thanks to relationship advantages mentioned above.
 
-At 5th level you can use séance two times per day. At 8th level you can use it three times per day.
+At 5th level you can use séance two times per full recovery. At 8th level you can use it three times per full recovery.
 
 #### Adventurer Feat
 
@@ -544,7 +544,7 @@ You gain a +1 bonus to hit with necromancer spells against enemies you are engag
 
 Increase your base PD to 11 and your base hit points to 7 + Con.
 
-Once per day per Dexterity modifier (minimum 1), you can perform a bizarre freak show stunt with your body. Bend it in unnatural ways, pierce it, cough up bugs, maybe even detach and reattach a limb. If you stare into the disgusted faces of your fellow players, you are doing it right. This does not require a skill check, unless the GM decides to require one, such as for a particularly artistic execution.
+Once per full recovery per Dexterity modifier (minimum 1), you can perform a bizarre freak show stunt with your body. Bend it in unnatural ways, pierce it, cough up bugs, maybe even detach and reattach a limb. If you stare into the disgusted faces of your fellow players, you are doing it right. This does not require a skill check, unless the GM decides to require one, such as for a particularly artistic execution.
 
 #### Adventurer Feat
 
@@ -568,7 +568,7 @@ Close-quarters Spell
 
 Full Recovery
 
-**Effect:** You transform into a small, winged, bat-like creature with glowing red eyes. In bat form, you can fly, locate objects via echolocation, hunt insects, and sleep upside down, but you can’t really fight. Your small size and erratic movement makes you harder to hit (+2 AC), but if you take any damage, you revert back to your normal form. Otherwise, you can stay in bat form for up to a full day, or change back as a standard action any time. You cannot cast spells in bat form.
+**Effect:** You transform into a small, winged, bat-like creature with glowing red eyes. In bat form, you can fly, locate objects via echolocation, hunt insects, and sleep upside down, but you can’t really fight. Your small size and erratic movement makes you harder to hit (+2 AC), but if you take any damage, you revert back to your normal form. Otherwise, you can stay in bat form for up to a full full recovery, or change back as a standard action any time. You cannot cast spells in bat form.
 
 #### Champion Feat
 
@@ -1460,9 +1460,9 @@ Ranged Spell
 
 Variable
 
-_Special:_ You can use this spell 1d3 times each day (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
+_Special:_ You can use this spell 1d3 times each full recovery (roll during a full heal-up when you take it). Each time you use the spell, you must wait 1d6 hours before casting it again.
 
-**Target:** One corpse you are touching that has been dead less than a day.
+**Target:** One corpse you are touching that has been dead less than a full recovery.
 >Note that creatures that were undead for a longer period before they were killed are not legal targets.
 
 **Effect:** You can ask the corpse a number of yes/no questions that the leftover fragments of personality/spirit within the corpse will attempt to answer truthfully using the information it had when it died. The magic uses the caster's knowledge of language so no translation is needed. The first question is free. The second question requires a DC 15 necromancy skill check using Intelligence if the corpse is "friendly," and Charisma if the corpse is not. Increase the DC by +5 for each subsequent question after the second. If you're using this spell during battle, each question and answer requires a round.
@@ -1471,7 +1471,7 @@ _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up
 
 | Higher Level | Effect |
 | --- | --- |
-| 5th | You can now cast this spell 1d4 times per day, targeting corpses or even just heads that have been dead up to a week. |
+| 5th | You can now cast this spell 1d4 times per full recovery, targeting corpses or even just heads that have been dead up to a week. |
 | 7th | Questions can now be phrased to receive three-word answers, targeting corpses/heads that have been dead up to a month. |
 | 9th | Questions can now be phrased to receive one to two sentence answers, targeting corpses/heads or skeletal remains of almost any age. |
 
