@@ -758,7 +758,7 @@ This increased specialization comes at a cost, however, by limiting your overall
 
 #### Adventurer Feat
 
-You can When casting a rituals based on a spells of your bloodline, with you have advantage on the skill check.
+When casting a rituals based on a spells of your bloodline, with you have advantage on the skill check.
 
 #### Champion Feat
 
