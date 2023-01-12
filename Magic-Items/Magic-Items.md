@@ -95,7 +95,7 @@ If you’re attacking from ambush, you get a +5 bonus to your attack roll.
 
 #### Enchanter’s Arrow
 
-A glass arrow forged in silver fire, with a glimmer of that flame still within. When you hit an enemy with an attack using this ammunition, the target is vulnerable to daily arcane spells until the end of the battle.
+A glass arrow forged in silver fire, with a glimmer of that flame still within. When you hit an enemy with an attack using this ammunition, the target is vulnerable to full recovery arcane spells until the end of the battle.
 
 ---
 
@@ -659,7 +659,7 @@ _Recharge 11+:_ Until the end of the battle, double the armor’s default AC bon
 
 #### Idiographic Robe
 
-_Recharge 16+:_ This silk robe’s lining is embroidered with spells. When a nearby enemy hits you with a spell attack, that enemy rerolls the attack with a –2 penalty. If the attack hits, one of your daily spells recharges.
+_Recharge 16+:_ This silk robe’s lining is embroidered with spells. When a nearby enemy hits you with a spell attack, that enemy rerolls the attack with a –2 penalty. If the attack hits, one of your full recovery spells recharges.
 
 **Quirk:** Haughty.
 
@@ -721,7 +721,7 @@ This armor magically changes its coloration and blends with the vegetation. Whil
 
 #### Mage’s Leather
 
-_Recharge 16+:_ This armor isn’t made from a wizard’s hide, but can save a magician’s skin sometimes. When you cast a daily spell, teleport somewhere nearby you can see (champion: recharge 11+; epic: recharge 6+).
+_Recharge 16+:_ This armor isn’t made from a wizard’s hide, but can save a magician’s skin sometimes. When you cast a full recovery spell, teleport somewhere nearby you can see (champion: recharge 11+; epic: recharge 6+).
 
 **Quirk:** Twitchy.
 
@@ -791,7 +791,7 @@ You gain a +1 bonus to all defenses while at maximum hit points.
 
 Quick action
 
-Daily
+Full Recovery
 
 If you are staggered, you regain an expended power as if you had taken a quick rest. You automatically regain a once-per-battle power, but a recharge power requires a successful recharge roll. You can regain a species power, class power, or magic item power this way.
 
@@ -1553,7 +1553,7 @@ _Recharge 11+:_ The power of the lizardfolk shamans who wove this kilt flows thr
 
 Quick Action
 
-_Recharge 11+:_ Talismans and fetishes of ancient magic hang from this kilt. Sometimes, when the chaotic forces align, the wearer can channel cosmic energy to fuel works of great spellcasting. Of course, there’s also a chance that those chaotic forces can rip the wearer’s soul to shreds. When you cast a spell or use an item, you may activate the kilt and roll a d6. If the result is less than the escalation die, then the recharge roll for that power drops by 5 (so, an item that’s recharge 11+ becomes recharge 6+). Daily spells affected by this item become recharge 16+.
+_Recharge 11+:_ Talismans and fetishes of ancient magic hang from this kilt. Sometimes, when the chaotic forces align, the wearer can channel cosmic energy to fuel works of great spellcasting. Of course, there’s also a chance that those chaotic forces can rip the wearer’s soul to shreds. When you cast a spell or use an item, you may activate the kilt and roll a d6. If the result is less than the escalation die, then the recharge roll for that power drops by 5 (so, an item that’s recharge 11+ becomes recharge 6+). Full Recovery spells affected by this item become recharge 16+.
 
 If you roll equal to or higher than the escalation die, then you take damage equal to your level multiplied by the value of the escalation die.
 
@@ -1966,7 +1966,7 @@ _Recharge 16+:_ A heavy book, bound in demon skin. When you use the power, 1d3 r
 
 1/Day
 
-This tome details the secret history of certain magic items. Expend a recharge or daily spell to recharge a magic item power.
+This tome details the secret history of certain magic items. Expend a recharge or full recovery spell to recharge a magic item power.
 
 **Quirk:** Treasure aficionado.
 
@@ -2044,7 +2044,7 @@ Be warned, though – if the fallen ally is healed and returns to the fray, it t
 
 #### Manual of the Numinous Realms
 
-_Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum, and illustrated with strange diagrams that move on their own, the manual describes the interplay of elemental forces and spiritual currents that underlie the illusion we call reality. By manipulating these fundamental levers of reality, you may accomplish great feats of magic. When you miss all targets with a daily spell, you give up that spell’s miss effect (if any) and cast another daily spell as a free action.
+_Recharge 11+:_ Bound in orichalchum, written in silver ink on the finest vellum, and illustrated with strange diagrams that move on their own, the manual describes the interplay of elemental forces and spiritual currents that underlie the illusion we call reality. By manipulating these fundamental levers of reality, you may accomplish great feats of magic. When you miss all targets with a full recovery spell, you give up that spell’s miss effect (if any) and cast another full recovery spell as a free action.
 
 **Quirk:** Fears unlikely consequences and improbable coincidences. If only you fools could see how all things are interconnected, you too would fear the calling of the birds in the trees when the wind is from the west and there’s a woman in a red shawl nearby!
 
@@ -2888,7 +2888,7 @@ Standard Action
 
 1/Day
 
-You can cast the wizard cantrip [spark](../Classes/Wizard.md#spark) at-will. When you use the daily power, spend a recovery to cast the wizard spell [fireball](../Classes/Wizard.md#fireball) at 5th level (epic: 7th level), using Wisdom or Charisma for the attack roll if you wish. Quirk: Finds fire fascinating.
+You can cast the wizard cantrip [spark](../Classes/Wizard.md#spark) at-will. When you use the full recovery power, spend a recovery to cast the wizard spell [fireball](../Classes/Wizard.md#fireball) at 5th level (epic: 7th level), using Wisdom or Charisma for the attack roll if you wish. Quirk: Finds fire fascinating.
 
 ---
 
@@ -2896,7 +2896,7 @@ You can cast the wizard cantrip [spark](../Classes/Wizard.md#spark) at-will. Whe
 
 1/Day
 
-Spend a recovery to regain an expended daily spell or recharge spell. If it’s a recharge spell, make a recharge roll for it. If you succeed, you regain the spent recovery, and you still regain the spell if you fail.
+Spend a recovery to regain an expended full recovery spell or recharge spell. If it’s a recharge spell, make a recharge roll for it. If you succeed, you regain the spent recovery, and you still regain the spell if you fail.
 
 **Quirk:** Covets knowledge.
 
@@ -3086,7 +3086,7 @@ The cloth of this scratchy grey cloak matches the color of the surrounding rock,
 
 #### Chasuble of Fell Might
 
-This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a daily spell against a target vulnerable to radiant damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
+This item’s cloth is woven from the hair of enslaved spellcasters. When you cast a full recovery spell against a target vulnerable to radiant damage, the target is also vulnerable to your spell attack, and takes triple damage if you score a critical hit against it.
 
 **Quirk:** Collects trophies from the dead.
 
@@ -3177,7 +3177,7 @@ _Recharge 16+:_ When an enemy scores a critical hit against you, it must reroll 
 
 #### Hame of the Tunnel Panther
 
-Daily
+Full Recovery
 
 Once per full heal-up, while wearing this cloak, you may send forth your mind as the shadow of a tunnel panther. In this trance, your mind roams around the surrounding area, and you wake knowing the answer to one of the following questions (GM’s choice!) (champion: 2 questions; epic: 3 questions):
 
@@ -3369,7 +3369,7 @@ _Recharge 11+:_ You may activate this cloak in response to being targeted by any
 
 1/Day
 
-You make saves against the stuck condition at the beginning of your turn as well as at the end (even if the condition isn’t a save ends effect). When you use the daily power, block a doorway or similar-sized opening with a web as though you were casting the [hold portal](../Character-Rules/Rituals.md#hold-portal) ritual.
+You make saves against the stuck condition at the beginning of your turn as well as at the end (even if the condition isn’t a save ends effect). When you use the full recovery power, block a doorway or similar-sized opening with a web as though you were casting the [hold portal](../Character-Rules/Rituals.md#hold-portal) ritual.
 
 **Quirk:** Loves traps and ambushes.
 
@@ -3849,7 +3849,7 @@ _Recharge 16+:_ These heavy metal gauntlets bear complex runes of negation. When
 
 1/Day
 
-These gloves feature sapphire-encrusted metal plates. When you miss with a daily spell that has a miss effect, the spell instead has no effect and you regain it at the end of the battle.
+These gloves feature sapphire-encrusted metal plates. When you miss with a full recovery spell that has a miss effect, the spell instead has no effect and you regain it at the end of the battle.
 
 **Quirk:** Dismissive of non-magic users.
 
@@ -4359,7 +4359,7 @@ Learn the defenses, HP, vulnerabilities, and resistances of a nearby creature; O
 
 1/Day
 
-You gain resist poison 16+, and a +2 bonus to skill checks to climb and to saves against being stuck. You can also speak the secret language of spiders, though whether they have anything interesting to say is up to the GM. When you use the daily power, you can use the druid’s Nature Talking class feature power, but only with spiders.
+You gain resist poison 16+, and a +2 bonus to skill checks to climb and to saves against being stuck. You can also speak the secret language of spiders, though whether they have anything interesting to say is up to the GM. When you use the full recovery power, you can use the druid’s Nature Talking class feature power, but only with spiders.
 
 **Quirk:** Arachnophile.
 
@@ -4501,7 +4501,7 @@ When any devil first sees your horned crown, you must make a free attack using y
 
 #### Crown of the Mighty Strike
 
-_Recharge 16+:_ This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next daily attack power this battle as a quick action.
+_Recharge 16+:_ This slim but elegant crown wants to share your glory and thus needs you to be glorious. It continually presses you to take bold actions. If the escalation die is 3+, use your next full recovery attack power this battle as a quick action.
 
 **Quirk:** Likely to make bold statements or undertake bold actions, especially by reflex.
 
@@ -4775,7 +4775,7 @@ _Recharge 6+:_ Once per battle, you may attempt to curse a nearby enemy with you
 
 #### Periapt of Faith
 
-_Recharge 16+:_ Only clerics may use this item. This small pebble on a simple silver chain holds an inextinguishable spark of faith, and meditating on it can renew the spirits of those who are broken and exhausted. If you have no daily spells and no domain invocations remaining at the start of a battle, you may use this item to immediately regain one daily spell.
+_Recharge 16+:_ Only clerics may use this item. This small pebble on a simple silver chain holds an inextinguishable spark of faith, and meditating on it can renew the spirits of those who are broken and exhausted. If you have no full recovery spells and no domain invocations remaining at the start of a battle, you may use this item to immediately regain one full recovery spell.
 
 _Champion:_ You can instead choose to regain one domain invocation; epic: recharge 11+.
 
@@ -4821,7 +4821,7 @@ Quick Action
 
 1/Day
 
-You can command the jewels of this necklace to detach and float around you (a free action), shedding enough light to illuminate a dungeon corridor or forest clearing. When you use the daily power, you can direct the lights to strobe quickly, dazing one nearby enemy until the end of its next turn.
+You can command the jewels of this necklace to detach and float around you (a free action), shedding enough light to illuminate a dungeon corridor or forest clearing. When you use the full recovery power, you can direct the lights to strobe quickly, dazing one nearby enemy until the end of its next turn.
 
 **Quirk:** Pride, the kind that goes before a fall.
 
@@ -5221,7 +5221,7 @@ Quick Action
 
 1/Day
 
-Made of dragonbone, this ring is always warm to the touch. Cast the wizard cantrips [light](../Classes/Wizard.md#light-standard-duration) and [spark](../Classes/Wizard.md#spark) at-will. When you use the daily power, a nearby enemy is dazed until the end of its next turn as you create a flaring burst of fire next to it.
+Made of dragonbone, this ring is always warm to the touch. Cast the wizard cantrips [light](../Classes/Wizard.md#light-standard-duration) and [spark](../Classes/Wizard.md#spark) at-will. When you use the full recovery power, a nearby enemy is dazed until the end of its next turn as you create a flaring burst of fire next to it.
 
 **Quirk:** Believes fire is a tool to be used.
 
@@ -5658,7 +5658,7 @@ This magical implement also counts as a heavy melee weapon. You can count one al
 
 1/Day
 
-One of these scepters is said to have belonged to an elven monarch who had a vexing jester in their court. You are immune to accidentally looking foolish, even if others try to make you look so (for example, when others would fall into mud from a drop, you land gracefully with your hair un-mussed). The power of the item doesn’t protect you from any sort of attack, however. When you use the daily power, until your next initiative roll or until your next full heal-up, roll twice and take the best result for skill checks where you have an opportunity to ‘look impressive.’
+One of these scepters is said to have belonged to an elven monarch who had a vexing jester in their court. You are immune to accidentally looking foolish, even if others try to make you look so (for example, when others would fall into mud from a drop, you land gracefully with your hair un-mussed). The power of the item doesn’t protect you from any sort of attack, however. When you use the full recovery power, until your next initiative roll or until your next full heal-up, roll twice and take the best result for skill checks where you have an opportunity to ‘look impressive.’
 
 **Quirk:** Conceited, like a cat.
 
@@ -5724,7 +5724,7 @@ Quick Action
 
 1/Level
 
-Spells cast through this implement work as normal, but their effects look more impressive to others. Cast one of your daily spells or recharge spells. If you miss any target with the spell, this power recharges during your next full heal-up.
+Spells cast through this implement work as normal, but their effects look more impressive to others. Cast one of your full recovery spells or recharge spells. If you miss any target with the spell, this power recharges during your next full heal-up.
 
 **Quirk:** Uses magic needlessly.
 
@@ -6175,7 +6175,7 @@ Attack and damage with an arcane or divine spell or attack: +2 (champion); +3 (e
 
 1/Day
 
-When you first attune this staff, choose a type of terrain (see the druid terrain caster from 13 True Ways for terrain types). While in that terrain, when you heal using a recovery, heal 2d12 additional hit points (epic: +3d12). When you use the daily power, until the end of the battle, all land-based locations in the battle become a terrain type of your choice. In addition, once per level you can make the terrain change permanent.
+When you first attune this staff, choose a type of terrain (see the druid terrain caster from 13 True Ways for terrain types). While in that terrain, when you heal using a recovery, heal 2d12 additional hit points (epic: +3d12). When you use the full recovery power, until the end of the battle, all land-based locations in the battle become a terrain type of your choice. In addition, once per level you can make the terrain change permanent.
 
 **Quirk:** Tastes the ground—or a similar act—when entering new terrain.
 
@@ -6426,7 +6426,7 @@ Quick Action
 
 1/Day
 
-When you drop a nonmook enemy to 0 hp, or drop the last mook in a mob, cast one of your unexpended daily or recharge spells at a level two levels lower than you (so a 5th or 6th level druid would cast a 3rd level spell; a 7th or 8th level wizard would cast a 5th level spell; and so on). Casting the lower-level spell doesn’t expend the daily or recharge spell.
+When you drop a nonmook enemy to 0 hp, or drop the last mook in a mob, cast one of your unexpended full recovery or recharge spells at a level two levels lower than you (so a 5th or 6th level druid would cast a 3rd level spell; a 7th or 8th level wizard would cast a 5th level spell; and so on). Casting the lower-level spell doesn’t expend the full recovery or recharge spell.
 
 **Quirk:** Celebrates harvests (of all kinds).
 
@@ -6576,7 +6576,7 @@ Attack and damage with a divine spell or attack: +1 (adventurer); +2 (champion).
 
 ### Battle Flags
 
-When you roll initiative and use a battle flag's daily power, choose whether you are wearing the flag, or if you plant it in the ground. Your choice determines which power you can use that battle.
+When you roll initiative and use a battle flag's full recovery power, choose whether you are wearing the flag, or if you plant it in the ground. Your choice determines which power you can use that battle.
 
 >_Note:_ If you plant the flag, you get the benefit of its default bonus only while it is nearby.
 
@@ -6600,7 +6600,7 @@ You don’t have to thank the same ancestors each time – you could start off b
 
 Quick Action
 
-_Recharge 11+:_ When you miss all targets with a daily attack spell, immediately make a basic attack or at-will attack.
+_Recharge 11+:_ When you miss all targets with a full recovery attack spell, immediately make a basic attack or at-will attack.
 
 **Quirk:** Acts like they know things they don’t.
 
@@ -6636,7 +6636,7 @@ When an enemy uses an action on its turn before attacking you, add the symbol’
 
 #### Chosen One, Sign of the
 
-When you cast your last divine daily spell, roll a save. If you succeed, you don't expend the spell.
+When you cast your last divine full recovery spell, roll a save. If you succeed, you don't expend the spell.
 
 **Quirk:** Obsessed with fortune telling, oracles, signs, etc.
 
@@ -6766,9 +6766,9 @@ _Recharge 11+:_ This broach has a fork-like pin. When you or a nearby ally roll 
 
 #### Gathered Power, Symbol of
 
-Daily
+Full Recovery
 
-When you use this symbol during a quick rest, you regain an expended daily adventurer-level spell (1st or 3rd level, in practice) (champion: champion-level spell, 5th or 7th).
+When you use this symbol during a quick rest, you regain an expended full recovery adventurer-level spell (1st or 3rd level, in practice) (champion: champion-level spell, 5th or 7th).
 
 **Quirk:** Has one-track mind.
 
@@ -6784,7 +6784,7 @@ _Recharge 6+ after use:_ Gain a bonus to miss damage equal to twice your level a
 
 #### Godlike Glory, Holy Symbol of
 
-When you cast a daily spell, you gain 2d4 temporary hit points (champion: 4d6 temp hp, epic: 7d10 temp hp).
+When you cast a full recovery spell, you gain 2d4 temporary hit points (champion: 4d6 temp hp, epic: 7d10 temp hp).
 
 **Quirk:** Dispenses pithy observations.
 
@@ -6854,7 +6854,7 @@ Your crit range for attacks made using this implement expands by 2 if at least t
 
 #### Light, Symbol of
 
-_Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a daily divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less (champion: 100 hit points or less; epic: 250 hit points or less). This daze lasts until the end of the enemy’s next turn.
+_Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a full recovery divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less (champion: 100 hit points or less; epic: 250 hit points or less). This daze lasts until the end of the enemy’s next turn.
 
 **Quirk:** Scared of the dark.
 
@@ -6872,7 +6872,7 @@ Cast the bard spell [charm person](../Classes/Bard.md#charm-person) at your leve
 
 #### Munificence, Symbol of
 
-_Recharge 11+:_ When you or an ally miss every target with a daily attack power, you and each nearby ally gain temporary hit points equal to your level.
+_Recharge 11+:_ When you or an ally miss every target with a full recovery attack power, you and each nearby ally gain temporary hit points equal to your level.
 
 **Quirk:** Very generous.
 
@@ -6898,7 +6898,7 @@ _Recharge 16+:_ When you roll a death save or last gasp save, you regain an expe
 
 1/Day
 
-When you miss every target with a daily spell cast through this symbol, you instead hit every target, and a random ally that casts spells (including you) loses their next standard action and expends (without effect) a random daily spell of at least the same level as the triggering spell.
+When you miss every target with a full recovery spell cast through this symbol, you instead hit every target, and a random ally that casts spells (including you) loses their next standard action and expends (without effect) a random full recovery spell of at least the same level as the triggering spell.
 
 **Quirk:** Values privacy.
 
@@ -6988,7 +6988,7 @@ _Recharge 11+:_ For the rest of the battle, all your attacks deal 5 extra damage
 
 1/Day
 
-When an ally misses every target with a daily attack that targets more than one enemy, after this battle and until your next full heal-up, you can repeat the attack against a single target as if your ally was the one attacking.
+When an ally misses every target with a full recovery attack that targets more than one enemy, after this battle and until your next full heal-up, you can repeat the attack against a single target as if your ally was the one attacking.
 
 **Quirk:** Likes shiny things.
 
@@ -7046,7 +7046,7 @@ This symbol glows with an inner light like sunshine. Cast the cleric spell [caus
 
 1/Day
 
-When an ally successfully recharges a spell, you gain a daily use of that spell until your next full heal-up, using your normal casting ability score for that spell.
+When an ally successfully recharges a spell, you gain a full recovery use of that spell until your next full heal-up, using your normal casting ability score for that spell.
 
 **Quirk:** Envious of friends and enemies.
 
@@ -7054,7 +7054,7 @@ When an ally successfully recharges a spell, you gain a daily use of that spell 
 
 #### The Gods and Goddesses, Gem of
 
-_Recharge 6+:_ When you cast a daily divine spell on an ally, that ally also heals 10 hit points.
+_Recharge 6+:_ When you cast a full recovery divine spell on an ally, that ally also heals 10 hit points.
 
 **Quirk:** Insists on courtesy even in situations where none should be required.
 
@@ -7134,7 +7134,7 @@ _Plant:_ When you or an ally nearby the flag miss all targets with an attack, tw
 
 1/Day
 
-When you cast a daily spell, gain flight until the end of the battle.
+When you cast a full recovery spell, gain flight until the end of the battle.
 
 **Quirk:** Annoyed by taller people.
 
@@ -7178,7 +7178,7 @@ This rune-covered bronze dagger also works as a wand. When you cast an arcane at
 
 #### Corrected Devastation
 
-_Recharge 16+:_ Activate this wand immediately after rolling damage for a daily spell that hit. That spell never happened and is not expended. Gain a free action to cast an at-will spell instead. Everyone on the battlefield is somewhat alarmed by the fact that the blazing ball of fire suddenly vanished, but that’s wizards for you.
+_Recharge 16+:_ Activate this wand immediately after rolling damage for a full recovery spell that hit. That spell never happened and is not expended. Gain a free action to cast an at-will spell instead. Everyone on the battlefield is somewhat alarmed by the fact that the blazing ball of fire suddenly vanished, but that’s wizards for you.
 
 **Quirk:** Prone to sudden bursts of rage over trivial problems.
 
@@ -7230,7 +7230,7 @@ You can use this item’s powers only while helpless (including asleep) or stunn
 
 #### Elderwood
 
-You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—can require several hours if not days, including time spent and the requirement of expending a daily spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
+You can reshape trees, bushes and other plants to your will, parting vegetation at-will or growing a ladder over the course of a scene, with a skill check. Truly substantial effects—such as building bridges or defensible walls—can require several hours if not days, including time spent and the requirement of expending a full recovery spell (any spell is fine, as the magic of the staff converts the power to the reshaping of trees and bushes).
 
 **Quirk:** Doesn’t like stone architecture.
 
@@ -8002,7 +8002,7 @@ _Recharge 16+:_ You gain a +1 attack bonus and deal +1d4 damage with this attack
 
 Melee Weapon
 
-The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your daily spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss (champion: 2d4; epic: 2d8).
+The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your full recovery spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss (champion: 2d4; epic: 2d8).
 
 **Quirk:** Fear of storms, earthquakes, and other destructive natural phenomena.
 
@@ -8806,7 +8806,7 @@ Divine Investment
 
 1/Day
 
-As a free action, manifest a holy weapon or implement that deals radiant damage. When you score a critical hit with the weapon or implement and use the daily power, deal triple damage instead of double damage.
+As a free action, manifest a holy weapon or implement that deals radiant damage. When you score a critical hit with the weapon or implement and use the full recovery power, deal triple damage instead of double damage.
 
 ---
 
@@ -9968,7 +9968,7 @@ _Curse:_ The next time one of your allies is hit, that ally must roll a save. If
 
 ##### Tome of Misfortune
 
-Book with an embossed face inside its cover. _1/day:_ Regain one expended daily spell that you have cast. When you cast the recovered spell, roll a d6. 1–3: The book chooses the targets for the spell and can consider you and your allies as enemies, or your enemies as allies. 4–6: You choose targets normally.
+Book with an embossed face inside its cover. _1/day:_ Regain one expended full recovery spell that you have cast. When you cast the recovered spell, roll a d6. 1–3: The book chooses the targets for the spell and can consider you and your allies as enemies, or your enemies as allies. 4–6: You choose targets normally.
 
 ---
 
@@ -10018,7 +10018,7 @@ Mental Defense: +2 (adventurer); +3 (champion); +5 (epic).
 
 You rally as a quick action, and the recovery you spend is free.
 
-_Curse:_ While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s daily power, etc.
+_Curse:_ While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s full recovery power, etc.
 
 **Quirk:** Speaks in simplistic, crowd-pleasing banter and refers to self in the third person (“Can you taste what The Boulder is brewing?” or “Thuug smash little man!”).
 
@@ -10166,7 +10166,7 @@ Wondrous Item
 
 Your body swells in places and a bunch of tiny orc-things pop forth from you at the start of your next turn as if you had cast the necromancer spell summon undead (13TW, page 86) at your level, except the orcs are humanoids instead of undead. You also gain a +4 bonus to any social skill checks involving orcs and related creatures (like half-orcs, goblins, ogres, etc.).
 
-_Curse:_ When an enemy scores a critical hit against you, the curse’s power activates even if it’s expended and it doesn’t count as the daily use of the power, but the orc-things you spawn are hostile and attack your allies—and you if you try to stop them.
+_Curse:_ When an enemy scores a critical hit against you, the curse’s power activates even if it’s expended and it doesn’t count as the full recovery use of the power, but the orc-things you spawn are hostile and attack your allies—and you if you try to stop them.
 
 **Quirk:** When you would run into derro, kobolds, troglodytes, or other humanoid monsters, you tend to run into orcs.
 
@@ -10186,7 +10186,7 @@ _Always:_ You can't move faster than the chest, and the chest is slow. You trave
 
 1/Day
 
-This talking skull gives advice, most of it good. Use the power during a short rest; you gain one of your expended daily spells of your level or lower.
+This talking skull gives advice, most of it good. Use the power during a short rest; you gain one of your expended full recovery spells of your level or lower.
 
 _Curse:_ The skull knows a lot of obscure facts and longforgotten lore, and gives very good advice—until it sees its chance to betray you to further its own goals.
 
@@ -10328,7 +10328,7 @@ You deal +5 damage with missed attacks, but all of your defenses take a –3 pen
 
 When placed in your empty eye socket, this undead eye allows you to see what others can’t. Until the end of the battle or scene, you have x-ray-style vision in addition to normal vision, allowing you to see through up to two inches of metal if you are next to it, and through other things like the flesh of creatures (to see bones), contents of pouches, wooden doors, etc.; you can see invisible objects and creatures; and you can see through illusions as the true form of things are revealed to you. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
 
-_Curse:_ While using the Eye’s daily power, Vecna knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
+_Curse:_ While using the Eye’s full recovery power, Vecna knows your exact location and can see all that you can see, even if you close your eye or wear an eyepatch. Once you put the eye in, it can’t be removed until you are dead.
 
 **Quirk:** Desires to seek out and attune to the hand.
 
@@ -10340,6 +10340,6 @@ _Curse:_ While using the Eye’s daily power, Vecna knows your exact location an
 
 When placed upon an arm-stump, the withered hand grafts itself on. Make a basic attack or at-will attack against a target with fewer hit points than you (you’re aware of which enemies are), targeting PD if your attack would normally target AC. If you hit with the attack, it’s a critical hit. You also gain a +1 bonus to attack and damage with all attacks that stacks with other magic items.
 
-_Curse:_ After you use the Hand’s daily power, Vecna takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
+_Curse:_ After you use the Hand’s full recovery power, Vecna takes control of your body and you are confused (hard save ends 16+). You are aware during his domination of you.
 
 **Quirk:** Desires to seek out and attune to the eye.

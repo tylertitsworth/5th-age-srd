@@ -544,11 +544,11 @@ For each recharge power that you used in the last battle, roll a d20 to see if y
 
 ---
 
-### Full Heal-ups
+### Full Recovery
 
-After approximately four battles, characters earn a full heal-up, though the exact number is determined by the GM. Tougher battle can mean more frequent heal-ups, and vice versa.
+After approximately four battles, characters earn a full recovery, though the exact number is determined by the GM. Tougher battle can mean more frequent full recoveries, and vice versa.
 
-After a full heal-up, your hit points reset to full. You regain any recoveries you've used. All expended powers are regained or recharged. ("Daily" powers are actually "per heal-up.")
+After a full recovery, your hit points reset to full. You regain any recoveries you've used. All expended powers are regained or recharged.
 
 If the party is short of a heal-up but is too beat up to press on, they can retreat and take a full heal-up, which entails a campaign loss. (See [Flee](#flee).)
 

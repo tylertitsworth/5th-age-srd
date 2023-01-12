@@ -615,7 +615,7 @@ Increase your WEAPON damage dice by one step with your chosen weapons.
 
 ### Bottoms Up
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any miss
 
@@ -633,7 +633,7 @@ You can pour a potion down a nearby unconscious ally’s throat instead.
 
 ### Brace for It
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any miss
 
@@ -651,7 +651,7 @@ _Brace for it_ works against any number of critical hits before your next turn.
 
 ### Carve an Opening
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -665,7 +665,7 @@ The crit range bonus from carve an opening is +2 instead of +1.
 
 ### Cover Shot
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any natural odd miss
 
@@ -679,7 +679,7 @@ You can trigger this maneuver on any natural odd roll.
 
 ### Cunning Feint
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural odd miss
 
@@ -701,7 +701,7 @@ The bonus damage is now equal to your INT or WIS, plus double the escalation die
 
 ### Deadly Assault
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any natural even hit
 
@@ -719,7 +719,7 @@ _Deadly assault_ now also triggers on a natural 17+.
 
 ### Defensive Fighting
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+; if you fight with a shield, also any natural even roll
 
@@ -741,7 +741,7 @@ You also gain the bonus to Mental Defense.
 
 ### Flanking Strike
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 _Special:_ At least one ally must be engaged with the same enemy.
 
@@ -757,7 +757,7 @@ Your ally can make a disengage check.
 
 ### Grim Intent
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even miss
 
@@ -767,7 +767,7 @@ Flexible melee attack
 
 ### Heavy Blows
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even miss
 
@@ -785,7 +785,7 @@ The bonus instead equals double the escalation die with a one-handed weapon, or 
 
 ### Minor Cleave
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even roll
 
@@ -803,7 +803,7 @@ Add your level to the damage.
 
 ### Pommel Bash
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural odd miss
 
@@ -821,7 +821,7 @@ The target is instead confused for 1 turn, then dazed for 1 turn (no save for ei
 
 ### Precision Attack
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit with a natural 16+
 
@@ -835,7 +835,7 @@ You can now use _precision attack_ with a ranged attack.
 
 ### Shift Weight
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be wielding a two-handed weapon.
 
@@ -847,7 +847,7 @@ _Special:_ You must be wielding a two-handed weapon.
 
 ### Second Shot
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Natural 16+
 
@@ -863,7 +863,7 @@ The _second shot_ attack penalty is –2 instead.
 
 ### Shield Bash
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be using a shield.
 
@@ -883,7 +883,7 @@ Once per battle, you can also daze the target (save ends) of your shield bash at
 
 ### Strengthen Resolve
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -897,7 +897,7 @@ Increase the bonus to +2, and the maximum to +6.
 
 ### Sucker Punch
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be making an unarmed attack.
 
@@ -913,7 +913,7 @@ If the escalation die is 5+, the target is also dazed until the end of your next
 
 ### Two-Weapon Pressure
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be using a weapon in each hand.
 
@@ -931,7 +931,7 @@ The bonus increases to +4.
 
 ### Calm the Mind
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -945,7 +945,7 @@ You also gain resist psychic 14+.
 
 ### Clothesline
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be making an unarmed attack.
 
@@ -961,7 +961,7 @@ If the escalation die is 5+, kick the target on the ground for extra damage equa
 
 ### Dive for Cover
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 _Special:_ You cannot use this maneuver when engaged with an enemy.
 
@@ -985,7 +985,7 @@ You can move to far away range as a quick action.
 
 ### Get a Read
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -999,7 +999,7 @@ On a natural 16+ on the skill check, you get the answer to a second question.
 
 ### Get Clear
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ When you use this maneuver, you lose your next move action, whether on this turn or on the next.
 
@@ -1019,7 +1019,7 @@ The affected ally may instead immediately move to any far away location but must
 
 ### Hack & Slash
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You can use this maneuver only once per round.
 
@@ -1031,7 +1031,7 @@ _Special:_ You can use this maneuver only once per round.
 
 ### Left You An Opening
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even miss, when the escalation die is 2+
 
@@ -1049,7 +1049,7 @@ The affected ally also gains an extra weapon die to their next damage roll again
 
 ### Make 'em Flinch
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any natural even miss
 
@@ -1059,7 +1059,7 @@ Flexible ranged attack
 
 ### Punish Them
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You can use this maneuver only when you make an opportunity attack.
 
@@ -1083,7 +1083,7 @@ The target is now weakened (save ends) instead of dazed.
 
 ### Steady Now
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even miss
 
@@ -1097,7 +1097,7 @@ The temporary hit points increase to double your Constitution modifier.
 
 ### Strong Guard
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be using a shield.
 
@@ -1159,7 +1159,7 @@ You can use this maneuver at-will.
 
 ### Wounding Shot
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any hit with a natural 16+
 
@@ -1175,7 +1175,7 @@ You can now trigger wounding shot with a natural even hit, and ending the ongoin
 
 ### A Dozen Cuts
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even hit
 
@@ -1205,7 +1205,7 @@ After you stand up, you may make a free basic melee attack against all nearby en
 
 ### Breaching Strike
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any natural even roll
 
@@ -1238,7 +1238,7 @@ The first missed roll does not incur the attack penalty.
 
 ### Hero's Skill
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Any natural even miss
 
@@ -1256,7 +1256,7 @@ The damage is no longer halved on a hit after using _hero's skill_.
 
 ### Impaling Shot
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any natural odd hit
 
@@ -1270,7 +1270,7 @@ This attack targets PD rather than AC, and the save difficulty to negate the stu
 
 ### Mark the Weak Spot
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Natural 16+
 
@@ -1284,7 +1284,7 @@ On a natural 18+, the effect is “save ends”.
 
 ### Off-Hand Parry
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be wielding two weapons.
 
@@ -1296,7 +1296,7 @@ _Special:_ You must be wielding two weapons.
 
 ### Reckless Swing
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be wielding a two-handed weapon.
 
@@ -1312,7 +1312,7 @@ On an even miss, deal extra damage equal to your Dexterity modifier.
 
 ### Skullrattler
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any natural odd hit
 
@@ -1330,7 +1330,7 @@ You now deal your full basic attack damage when using this maneuver.
 
 ### Staredown
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd miss
 
@@ -1340,7 +1340,7 @@ Flexible melee attack
 
 ### Sword Master's Anticipation
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must have the Skilled Intercept talent to use this maneuver.
 
@@ -1354,7 +1354,7 @@ _Special:_ You must have the Skilled Intercept talent to use this maneuver.
 
 ### Heroic Sacrifice
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be staggered in order to use this maneuver.
 
@@ -1370,7 +1370,7 @@ Your target is stuck until it makes a hard save (16+), but you are also stuck an
 
 ### Never Surrender
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural even roll
 
@@ -1384,7 +1384,7 @@ You gain a +2 bonus to the save.
 
 ### Rain of Missiles
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Any natural even hit, when the escalation die is 2+
 
@@ -1414,7 +1414,7 @@ If your natural attack roll is higher than the natural attack roll that triggere
 
 ### Reckless Stance
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any natural odd hit
 
@@ -1428,7 +1428,7 @@ Also gain a +2 bonus to the attack roll with your next attack.
 
 ### Spinning Charge
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must have moved before the attack.
 
@@ -1460,7 +1460,7 @@ If you are wielding a shield, you can also grant the bonus to an adjacent ally.
 
 ### Sword of Destiny
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 20
 
@@ -1500,7 +1500,7 @@ _Special:_ You must be wielding a two-handed weapon
 
 ### Combat Mastery
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You can use this maneuver only once per battle.
 
@@ -1516,7 +1516,7 @@ _Combat mastery_ now also triggers on any natural even hit.
 
 ### Hail of Arrows
 
-Flexible ranged attack
+Flexible Ranged Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -1544,7 +1544,7 @@ The bonus also applies to PD.
 
 ### Mark for Death
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -1554,7 +1554,7 @@ Flexible melee or ranged attack
 
 ### Set 'em Up
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit with a natural 16+
 
@@ -1568,7 +1568,7 @@ The crit range bonus from _set 'em up_ now also applies to any ally who attacks 
 
 ### Skullbash
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You must be wielding a two-handed weapon.
 
@@ -1580,7 +1580,7 @@ _Special:_ You must be wielding a two-handed weapon.
 
 ### True Mastery
 
-Flexible melee or ranged attack
+Flexible melee or Ranged Attack
 
 **Triggering Roll:** Natural 20
 

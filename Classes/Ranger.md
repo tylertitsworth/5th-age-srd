@@ -661,7 +661,7 @@ Choose a second non-humanoid monster type as a favored enemy.
 
 ### Fey Queen's Enchantments
 
-Choose one daily or recharge spell of your level or lower from the sorcerer class. You can cast this spell as if you were a sorcerer (though you can't gather power).
+Choose one full recovery or recharge spell of your level or lower from the sorcerer class. You can cast this spell as if you were a sorcerer (though you can't gather power).
 
 #### Adventurer Feat
 
@@ -797,7 +797,7 @@ Once per battle, gain advantage on an attack against an enemy that you engaged t
 
 ### Ranger ex Cathedral
 
-Choose one daily or recharge spell of your level or lower from the cleric class. You can cast this spell as if you were a cleric. You can change your chosen spell each time you take a full heal-up.
+Choose one full recovery or recharge spell of your level or lower from the cleric class. You can cast this spell as if you were a cleric. You can change your chosen spell each time you take a full heal-up.
 
 #### Adventurer Feat
 
@@ -1001,7 +1001,7 @@ The Unseelie Curse penalty applies to defenses as well.
 
 ### Ways of the Land
 
-You gain a spell slot from the druid’s Circle of the Lands, you don’t need to prepare a spell in advance. When you decide to cast a spell, choose one from the list of the terrain(s) you are currently in, at your level or lower. If the spell is an at-will or once-per-battle spell, you regain your spell slot at the end of the battle or scene. If the spell is a daily spell, you regain the spell slot at your next full heal-up.
+You gain a spell slot from the druid’s Circle of the Lands, you don’t need to prepare a spell in advance. When you decide to cast a spell, choose one from the list of the terrain(s) you are currently in, at your level or lower. If the spell is an at-will or once-per-battle spell, you regain your spell slot at the end of the battle or scene. If the spell is a full recovery spell, you regain the spell slot at your next full heal-up.
 
 In addition, once per day per point of Wisdom modifier, you can commune with the spirits of nature to gain advantage on a skill check related to the surrounding terrain. For example, beast spirits can help you track game, river spirits can point to a source of freshwater, and earth spirits can make climbing easier.
 

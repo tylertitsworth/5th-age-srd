@@ -153,7 +153,7 @@ You can generate the effect of any 1st or 3rd level battle cry you know as a sta
 
 ### Spells
 
-Bards use arcane spells that function like those of other spell-casting classes. Some spells are daily, some recharge, and others are at-will.
+Bards use arcane spells that function like those of other spell-casting classes. Some spells are full recovery, some recharge, and others are at-will.
 
 Unlike most character classes, bards use two different ability scores for their attacks. Their melee and ranged weapon attacks use Strength or Dexterity, while their spells use Charisma.
 
@@ -253,7 +253,7 @@ While underground or within a stone building, you can sustain a bardic song for 
 
 #### Champion Feat
 
-While underground or within a stone building, any daily bard song or spell becomes recharge 16+ for you.
+While underground or within a stone building, any full recovery bard song or spell becomes recharge 16+ for you.
 
 #### Epic Feat
 
@@ -361,7 +361,7 @@ You can use Silver Tongue twice per session.
 
 #### Can't Touch This!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
@@ -383,7 +383,7 @@ Increase the bonus to +3.
 
 #### Like This!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+
 
@@ -405,7 +405,7 @@ The damage bonus is double your Charisma bonus.
 
 #### Move It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
@@ -430,7 +430,7 @@ An engaged ally you target with this battle cry can pop free from one enemy as a
 
 #### Pull It Together!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 11+; use only twice per battle
 
@@ -452,7 +452,7 @@ You can use _pull it together_ three times per battle; the extra healing is now 
 
 #### Stay Strong!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+
 
@@ -474,7 +474,7 @@ Bonus increases to +4.
 
 #### We Need You!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -498,7 +498,7 @@ If the escalation die is 3+, two nearby conscious allies (instead of one) can ea
 
 #### Don't Call It a Comeback
 
-Ranged song
+Ranged Song
 
 Recharge 11+ after battle
 
@@ -529,7 +529,7 @@ The bonuses persist for the rest of the battle.
 
 #### Song of Heroes
 
-Bardic song
+Bardic Song
 
 Recharge 11+ after battle
 
@@ -550,9 +550,9 @@ Quick action each turn; 11+ to sustain
 
 #### Song of Spilt Blood
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 6+ to sustain
 
@@ -573,7 +573,7 @@ Quick action each turn; 6+ to sustain
 
 #### Battle Chant
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -608,7 +608,7 @@ One battle per day, your _battle chant_ damage dice become d10s.
 
 #### Befuddle
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+ after battle
 
@@ -643,9 +643,9 @@ On a hit, the confusion effect is now save ends.
 
 #### Charm Person
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 40 hp or fewer
 
@@ -668,7 +668,7 @@ _Special:_ On a miss, the spell is not detectible by most others unless you miss
 
 #### Cutting Words
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -691,9 +691,9 @@ At-will
 
 #### Drinking Buddies
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the scene, you gain a 1d6 bonus to skill checks against NPCs who have shared a drink with you.
 
@@ -705,9 +705,9 @@ Also grant the bonus to all nearby allies.
 
 ##### Enchant Instrument
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -736,7 +736,7 @@ Gain advantage on the first spell attack roll you make with the enchanted instru
 
 #### Power Chord
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -771,9 +771,9 @@ Attack 1d4 nearby enemies.
 
 #### Soundburst
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies in a group
 
@@ -796,7 +796,7 @@ On a natural even hit, the dazed effect is now save ends.
 
 ##### Champion Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
 ##### Epic Feat
 
@@ -810,7 +810,7 @@ You can now target 1d4 + 1 enemies in a group with the spell.
 
 #### Hang Tough
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd roll
 
@@ -832,7 +832,7 @@ You can choose yourself instead of an ally as the target of the battle cry.
 
 #### It's All Yours
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even miss
 
@@ -854,7 +854,7 @@ The damage bonus increases to +3d12.
 
 #### Take Heart
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
@@ -866,7 +866,7 @@ Flexible melee attack
 
 #### Ode to Heroism
 
-Bardic song
+Bardic Song
 
 Recharge 16+ after battle
 
@@ -888,9 +888,9 @@ You and all nearby allies are immune to the fear aura until the end of the battl
 
 #### Song of Aid
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 11+ to sustain
 
@@ -928,9 +928,9 @@ Quick Action each turn 11+ to sustain
 
 #### Song of Clashing Swords
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -946,9 +946,9 @@ On the final verse, enemies are also vulnerable to your allies’ next melee att
 
 #### Song of Thunder
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 11+ to sustain
 
@@ -1010,7 +1010,7 @@ The enemy is stunned (save ends) instead of dazed.
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You rouse the crew of a ship to work in unison. The difficulty of all seafaring-related checks for the scene is lowered by 5.
 
@@ -1020,7 +1020,7 @@ Daily
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** a Nearby creature
 
@@ -1040,7 +1040,7 @@ The target also takes a -2 penalty to melee attack rolls. If you target an ally,
 
 #### Vicious Mockery
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+ after battle
 
@@ -1074,9 +1074,9 @@ A natural even miss does not expend the spell.
 
 #### Wild Heal
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** Two random nearby allies. Choose the targets randomly from all nearby allies (including you) who are damaged.
 
@@ -1090,7 +1090,7 @@ Daily
 
 ##### Adventurer Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
 ##### Champion Feat
 
@@ -1108,7 +1108,7 @@ The recoveries the targets use are now free.
 
 #### Fear the Dark!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -1122,7 +1122,7 @@ The attack above is a free action.
 
 #### Push It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
@@ -1140,7 +1140,7 @@ This battle cry also affects you, but you can’t use it to trigger Push It! nex
 
 #### Shift Formation!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
@@ -1158,7 +1158,7 @@ This battle cry also affects far away allies and you.
 
 #### Stop Messing Around!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -1172,7 +1172,7 @@ If no ally misses an attack roll before the end of your next turn, increase the 
 
 #### Stay True
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 3+; otherwise natural 20
 
@@ -1182,7 +1182,7 @@ Flexible melee attack
 
 #### That’s the Sound of Victory!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -1196,7 +1196,7 @@ Add your Charisma modifier to the roll.
 
 #### Time to Dance!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 5, 6, 7, 8
 
@@ -1210,7 +1210,7 @@ A second nearby ally can also pop free and engage the target.
 
 #### Victory Is Ours
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 5+; otherwise natural 20
 
@@ -1249,9 +1249,9 @@ Quick action each turn; 11+ to sustain
 
 #### Song of Magic
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -1268,9 +1268,9 @@ Quick action each turn; 16+ to sustain
 
 #### Song of the Mockingbird
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 6+ to sustain
 
@@ -1292,7 +1292,7 @@ Increase the save penalty to -4.
 
 #### Arrow of Verse
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -1321,9 +1321,9 @@ Bonus dice and miss dice are now d12s.
 
 #### Discombobulate
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 100 hp or fewer
 
@@ -1342,9 +1342,9 @@ Daily
 
 #### Glamour Shield
 
-Close-quarter spell
+Close-quarter Spell
 
-Daily
+Full Recovery
 
 Quick Action
 
@@ -1375,9 +1375,9 @@ On a natural even miss, you take half damage from the target’s attacks until t
 
 #### Symphony of Pain
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1408,7 +1408,7 @@ You animate nearby objects that are not nailed down to create a tornado of flyin
 
 Close-quarters
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies, or 2d4 if cast recklessly
 
@@ -1439,7 +1439,7 @@ The spell is now recharge 16+.
 
 #### Cover Me!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1455,7 +1455,7 @@ The ally can use any standard action ranged attack.
 
 #### I Meant to Do That!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1471,7 +1471,7 @@ If the second attack roll is a miss, gain a +2 bonus to all defenses until the e
 
 #### Screw This!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 1
 
@@ -1481,7 +1481,7 @@ Flexible melee attack
 
 #### They Fall Before Us
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You can use this battle cry only on your turn.
 
@@ -1497,7 +1497,7 @@ The battle cry can now trigger on a natural 19+.
 
 #### Welcome to my Nightmare!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -1513,9 +1513,9 @@ Flexible melee attack
 
 #### Dancing Blade
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action; 6+ to sustain
 
@@ -1531,9 +1531,9 @@ With the final verse, If the natural roll of that attack was even, make another 
 
 #### Manic Cacophony
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 16+ to sustain
 
@@ -1555,9 +1555,9 @@ This song is now 11+ to sustain.
 
 #### Song of Blood & Legends
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 16+ to sustain
 
@@ -1573,9 +1573,9 @@ Standard action each turn; 16+ to sustain
 
 #### Song of Eternal Harmony
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action; 6+ to sustain
 
@@ -1591,9 +1591,9 @@ Quick action; 6+ to sustain
 
 #### Song of Victory
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -1611,9 +1611,9 @@ Quick action each turn; 16+ to sustain
 
 #### Dissonant Scream
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1635,9 +1635,9 @@ This spell becomes a close-quarters spell targeting all nearby creatures.
 
 #### Otherwordly Voice
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You
 
@@ -1649,7 +1649,7 @@ This spell allows you to achieve a feat with your voice that would normally requ
 
 #### The Overworld Two-Step
 
-Close-quarters spell
+Close-quarters Spell
 
 Quick action to cast
 
@@ -1673,9 +1673,9 @@ You can now also swap the positions of far-away allies you can see, up to a maxi
 
 #### Fight the Good Fight!
 
-Flexible melee attack
+Flexible Melee Attack
 
-Daily
+Full Recovery
 
 **Triggering Roll:** Natural 16+
 
@@ -1689,7 +1689,7 @@ Roll a second d20 (without making an attack) and trigger a second battle cry bas
 
 #### I've Got Another One for You!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1701,7 +1701,7 @@ Once per battle
 
 #### Never Gonna Give You Up!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1717,7 +1717,7 @@ You can set the escalation die to 4 if you wish.
 
 #### Regroup!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
@@ -1731,7 +1731,7 @@ You can set the escalation die to 4 if you wish.
 
 #### Snap Out of It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
@@ -1745,11 +1745,11 @@ The battle cry can affect you instead of an ally if you wish.
 
 #### The Time Is Now
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 19+
 
-**Effect:** Choose one nearby ally. That ally can expend a recovery to regain a daily power or spell.
+**Effect:** Choose one nearby ally. That ally can expend a recovery to regain a full recovery power or spell.
 
 ##### Epic Feat
 
@@ -1761,9 +1761,9 @@ The battle cry can now trigger on natural 18+.
 
 #### Song of Destinies
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 11+ to sustain
 
@@ -1775,7 +1775,7 @@ Quick action each turn; 11+ to sustain
 
 #### Song of Sacrifice
 
-Bardic song
+Bardic Song
 
 Quick action each turn; 6+ sustain
 
@@ -1787,7 +1787,7 @@ Quick action each turn; 6+ sustain
 
 #### Wail of the Banshee
 
-Bardic song
+Bardic Song
 
 Standard action each turn; 16+ to sustain
 
@@ -1811,9 +1811,9 @@ When you make the attack, also deal 5 x the escalation die damage to all nearby 
 
 #### Dance to My Tune
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 300 hit points or fewer
 
@@ -1831,12 +1831,12 @@ On a natural even miss, your domination attempt remains undetected.
 
 #### Inspire Legends
 
-Close-quarters spell
+Close-quarters Spell
 
 _Special:_ Escalation die must be 4+.
 
-Daily
+Full Recovery
 
 **Targets:** You and all nearby allies
 
-**Effect:** Each target can roll a d20 for each of its expended daily, recharge, and per battle powers and spells other than inspire legends. If the roll is 11+, the character regains the use of that power or spell.
+**Effect:** Each target can roll a d20 for each of its expended full recovery, recharge, and per battle powers and spells other than inspire legends. If the roll is 11+, the character regains the use of that power or spell.

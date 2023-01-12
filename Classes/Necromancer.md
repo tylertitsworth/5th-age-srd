@@ -221,7 +221,7 @@ You now heal your Charisma modifier x3 + twice your level.
 
 ### Cackling Soliloquist
 
-If you spend your move action, your quick action, _and_ your standard action casting a daily spell that ordinarily only requires a standard action—while screaming grandiloquently, cackling maniacally, or megalomaniacally describing the grandeur of your plans and the futility of your enemies' resistance—the daily spell is recharge 18+ after battle instead of daily, and you can invent a slight improvement to the spell, especially if it's partly story-oriented, that provides an extra benefit determined by the GM or by you (with GM approval).
+If you spend your move action, your quick action, _and_ your standard action casting a full recovery spell that ordinarily only requires a standard action—while screaming grandiloquently, cackling maniacally, or megalomaniacally describing the grandeur of your plans and the futility of your enemies' resistance—the full recovery spell is recharge 18+ after battle instead of full recovery, and you can invent a slight improvement to the spell, especially if it's partly story-oriented, that provides an extra benefit determined by the GM or by you (with GM approval).
 
 #### Adventurer Feat
 
@@ -510,7 +510,7 @@ You gain _resist poison 16+_ and _resist necrotic 16+_.
 
 #### Champion Feat
 
-The spells _zombie form_, _ghoul form_, _ghost form_, and _vampiric form_ all function as recharge 16+ after battle spells for you, though you still memorize them as daily spells.
+The spells _zombie form_, _ghoul form_, _ghost form_, and _vampiric form_ all function as recharge 16+ after battle spells for you, though you still memorize them as full recovery spells.
 
 #### Epic Feat
 
@@ -556,7 +556,7 @@ You can expend one use of your stunt as an interrupt action to reduce the damage
 
 #### Epic Feat
 
-Gain three extra daily uses of your stunt.
+Gain three extra full recovery uses of your stunt.
 
 ---
 
@@ -564,9 +564,9 @@ Gain three extra daily uses of your stunt.
 
 ### Bat Form
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You transform into a small, winged, bat-like creature with glowing red eyes. In bat form, you can fly, locate objects via echolocation, hunt insects, and sleep upside down, but you can’t really fight. Your small size and erratic movement makes you harder to hit (+2 AC), but if you take any damage, you revert back to your normal form. Otherwise, you can stay in bat form for up to a full day, or change back as a standard action any time. You cannot cast spells in bat form.
 
@@ -578,7 +578,7 @@ You can transform one ally per spell level into a bat.
 
 ### Channel Life
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -617,7 +617,7 @@ On a miss, the spell now deals half damage to the target, but there is still no 
 
 ### Chant of Endings
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -650,7 +650,7 @@ While the escalation die is 4+,you can now target two nearby enemies with the fe
 
 ### Chill Touch
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -681,7 +681,7 @@ Deal 15 damage to all other enemies you are engaged with.
 
 ### Command Undead
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -714,7 +714,7 @@ The target now adds the escalation die to its attacks while confused by this spe
 
 ### Death's Gauntlet
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -751,7 +751,7 @@ The spell can also target MD instead of PD.
 
 ### Death's Memory
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 17+
 
@@ -765,7 +765,7 @@ The spell is now Recharge 13+.
 
 ### Minor Drain
 
-Ranged spell
+Ranged Spell
 
 Anti-Cyclic (cast once per battle OR at-will when the escalation die is odd)
 
@@ -800,9 +800,9 @@ Increase the damage dice to d8s.
 
 ### Sense Death
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** For the next 1d6 hours, you have a heightened awareness of the presence of death around you. You have advantage on skill checks to sense the presence of undead creatures and lingering spirits of the deceased. You also sense nearby dangers that have killed someone in the past, such as the deadly traps that protect an ancient tomb.
 
@@ -814,7 +814,7 @@ You can cast the spell on a nearby ally.
 
 ### Spectral Hand
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+
 
@@ -838,9 +838,9 @@ You can move the hand as a free action on your turn.
 
 ### Summon Undead (1st level+)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a mob of 1d3 + 1 crumbling skeleton mooks or 1d3 + 1 bone archers, as per the summoning rules. These skeletons fight for you until the end of the battle or until they drop to 0 hp, whichever comes first.
 
@@ -979,9 +979,9 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 ### Terror
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 50 hp or fewer
 
@@ -1014,7 +1014,7 @@ The target also takes the miss damage each time it fails a save against the effe
 
 ### Thirsting Blades
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1068,9 +1068,9 @@ Deal ongoing damage on a natural 15+.
 
 ### Unholy Blast
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1105,9 +1105,9 @@ The spell now targets two nearby enemies, but you can't attack the same target t
 
 ### Zombie Form
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You can only cast this spell outside of battle; it requires 2d4 rounds to cast.
 
@@ -1152,7 +1152,7 @@ Increase the extra damage to d10s.
 
 ### Blood Donation
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1164,9 +1164,9 @@ Quick action
 
 ### Bone Armor
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, you gain a +1 bonus to AC. Once per round, when you reduce a non-mook enemy below zero hit points, or the last of a group of mooks, increase the armor bonus by +1. The maximum bonus from this spell is +4.
 
@@ -1186,11 +1186,11 @@ Also gain the bonus to PD.
 
 ### Bone Spear
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
-Chain spell
+Chain Spell
 
 **Target:** One nearby creature
 
@@ -1220,9 +1220,9 @@ Deal 1d8 extra damage on the first attack (8th level: 2d8).
 
 ### Brittle Bones
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1248,9 +1248,9 @@ The spell is now Recharge 17+ after battle.
 
 ### Circle of Death
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You can't cast this spell unless the escalation die is 3+.
 
@@ -1276,7 +1276,7 @@ _Special:_ You can't cast this spell unless the escalation die is 3+.
 
 ### Deathrattle
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1304,9 +1304,9 @@ On an even hit, the target is weakened instead. On an odd hit, target 1d4 nearby
 
 ### Ghoul Form
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one willing nearby ally
 
@@ -1324,7 +1324,7 @@ The target also only gains half the normal amount from healing effects, no matte
 
 ### Ghoul Touch
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1352,9 +1352,9 @@ After the stun ends, the target is hampered until the end of its next turn.
 
 ### Negative Energy Shield
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You
 
@@ -1370,7 +1370,7 @@ Daily
 
 ### Orb of Unlife
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1396,9 +1396,9 @@ Deal extra damage equal to twice the amount of sacrificed hit points.
 
 ### Ray of Enfeeblement
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 96 hp or fewer
 
@@ -1456,7 +1456,7 @@ You can cast this spell as an interrupt when an enemy is making an attack agains
 
 ### Speak with Dead
 
-Ranged spell
+Ranged Spell
 
 Variable
 
@@ -1479,9 +1479,9 @@ _Special:_ You can use this spell 1d3 times each day (roll during a full heal-up
 
 ### Summon Flesh Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon one flesh golem, as per the [summoning rules](../Character-Rules/Summoning.md). The golem fights for you until the end of the battle, or until it drops to 0 hp, whichever comes first. As you cast the spell at higher levels, you can summon higher level versions.
 
@@ -1511,9 +1511,9 @@ For each additional level tier, add this bonus to the stats found in the table b
 
 ### Summon Horror (3rd level+)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a ghoul, as per the summoning rules. The summoned ghoul fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
 
@@ -1553,9 +1553,9 @@ As you cast the spell at higher levels, the creature you summon varies, as shown
 
 ### The Bones Beneath
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby mook (and hence, its mob)
 
@@ -1607,7 +1607,7 @@ This isn't a summoning spell, so the mooks created by this spell don't count as 
 
 ### Visions of Grief
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 13+ after the scene
 
@@ -1619,9 +1619,9 @@ Recharge 13+ after the scene
 
 ### Wave of Decay
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Choose a nearby enemy. It takes 2d6 necrotic damage for each point on the escalation die. (For example, if the escalation die is 2 when you cast the spell, you'll deal 4d6 necrotic damage to the target.)
 
@@ -1649,7 +1649,7 @@ The spell no longer ends when you use it to drop an enemy to 0 hit points; it no
 
 ### Aura of Forbiddance
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 17+ after battle
 
@@ -1671,9 +1671,9 @@ You can cast this spell as a free action when you roll initiative.
 
 ### Bone Wall
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a barrier of piled-up bones across the battlefield that lasts until the end of the battle. The barrier is tall enough to reach a 10-foot-high ceiling and block a 20-foot-wide corridor. It takes a move action and a normal difficulty skill check to climb to the top of the barrier. It is possible to shoot through the barrier with disadvantage on the attack roll.
 
@@ -1687,9 +1687,9 @@ You can use your own spells through the barrier without disadvantage.
 
 ### Corpse Explosion
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily; Interrupt action
+Full Recovery; Interrupt action
 
 **Trigger:** A nearby non-mook creature, or the last of a group of mooks, dies
 
@@ -1711,9 +1711,9 @@ When casting this spell recklessly, target a number of creatures equal to the d6
 
 ### Dark Conduit
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1756,7 +1756,7 @@ The target is also vulnerable to your attacks (save ends both).
 
 ### Death's Call
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -1781,9 +1781,9 @@ If your choice was wrong, you don't expend the spell and can cast it later this 
 
 ### Rotting Curse
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1802,9 +1802,9 @@ Daily
 
 ### Spirit Shield
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1820,9 +1820,9 @@ The target makes a save (11+). On a success, the recovery is free.
 
 ### Summon Wraith (5th level+)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a wraith, as per the summoning rules. This wraith fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
 
@@ -1863,9 +1863,9 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 
 ### Vampiric Touch
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One enemy you are engaged with
 
@@ -1887,9 +1887,9 @@ Increase your recovery dice to d12s for this spell.
 
 ### You Know What to Do
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One or more nearby enemies with 90 hp or fewer, up to a maximum number of targets equal to the escalation die
 
@@ -1918,7 +1918,7 @@ Increase the hit point threshold of targets by 40 hp.
 
 ### Blood Command
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1946,9 +1946,9 @@ Increase your recovery dice to d12s for this spell.
 
 ### Blood Tithe
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One enemy
 
@@ -1966,9 +1966,9 @@ At the end of its turn, the target has to decide whether it wants to save agains
 
 ### Bone Prison
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1986,9 +1986,9 @@ You can target 1d3 enemies in a group with this spell, but that also targets all
 
 ### Cone of Corruption
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies in a group, and any of your allies engaged with those enemies
 
@@ -2008,9 +2008,9 @@ Daily
 
 ### Desperate Vengeance
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 _Special:_ When you cast this spell, add one failed death save to the number you failed this battle. For each ally willing to do the same, increase the number of targets by one.
 
@@ -2030,9 +2030,9 @@ _Special:_ When you cast this spell, add one failed death save to the number you
 
 ### Feigned Defeat
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -2046,9 +2046,9 @@ Quick action to cast
 
 ### Ghost Form
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You
 
@@ -2072,9 +2072,9 @@ You can now target up to two nearby willing allies (including you).
 
 ### Hails from the Grave
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies in a group
 
@@ -2096,9 +2096,9 @@ Deal 3d8 psychic damage to 1d3 other nearby enemies.
 
 ### One Foot in the Grave
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You, any undead you have summoned, and up to 4 nearby allies teleport to a crypt or graveyard that you have visited before. Any living creatures traveling with you must succeed at a save or lose a recovery (if they have any). You can teleport up to one mile per point of Intelligence modifier.
 
@@ -2114,9 +2114,9 @@ You can teleport twice as many creatures OR you can teleport living beings witho
 
 ### Scythe of the Reaper
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** A random nearby enemy
 
@@ -2138,9 +2138,9 @@ If the escalation die is 3+, you can cast this spell as a free action, even when
 
 ### Soulbound Return
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** A dead ally
 
@@ -2154,9 +2154,9 @@ If the resurrected ally is killed again, they can only be brought back as a mind
 
 ### Summon Blood Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon one blood golem, as per the [summoning rules](../Character-Rules/Summoning.md). The golem fights for you until the end of the battle, or until it drops to 0 hp, whichever comes first. As you cast the spell at higher levels, you can summon higher level versions.
 
@@ -2181,9 +2181,9 @@ Daily
 
 ### Angel of Death
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2197,9 +2197,9 @@ If the enemy is staggered, deal 40 ongoing damage instead and the save is a hard
 
 ### Blood Vortex
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ If you have 50 hit points or less, you can cast Blood Vortex at-will.
 
@@ -2215,9 +2215,9 @@ _Special:_ If you have 50 hit points or less, you can cast Blood Vortex at-will.
 
 ### Creeping Madness
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, poisonous fumes from the deepest recesses of the Underworld pour onto the battlefield. At the start of their turn, each enemy on the battlefield takes 30 poison damage (save for half). Allies must succeed at an easy save (6+) or take 10 poison damage.
 
@@ -2231,9 +2231,9 @@ Increase the damage against enemies who fail their save by 5 times the escalatio
 
 ### Finger of Death
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 240 hp or fewer
 
@@ -2249,7 +2249,7 @@ _**Epic Feat:**_ You can now target an enemy with 320 hp or fewer.
 
 ### Return Stronger Than Ever Before
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 17+
 
@@ -2267,9 +2267,9 @@ Heal twice the amount of hit points on a save.
 
 ### Siphon Ultimate Power
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Ask one nearby ally per point of escalation die if they are willing to support your casting of the spell. For each willing ally, you gain an extra standard action this turn, and you can use one of their spells or powers. If that power is not at-will, it is expended. You can replace any ability score in the power’s description with Intelligence. You only gain the spell or power itself, no other abilities or bonuses that are not part of the description, unless they are required for it to work.
 
@@ -2279,9 +2279,9 @@ After casting this spell, you take a -1 penalty to all attacks and defenses for 
 
 ### Summon Dracolich
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a dracolich, as per the [summoning rules](../Character-Rules/Summoning.md). The creature fights for you until the end of the battle or until it drops to 0 hp, whichever comes first.
 
@@ -2298,9 +2298,9 @@ Daily
 
 ### The Last of the Wine
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One or more nearby enemies, up to a maximum number of targets equal to the escalation die
 
@@ -2316,9 +2316,9 @@ _Special:_ After you cast this spell, you drop to 0 hit points and can't use the
 
 ### Vampiric Form
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, or until you drop to –40 hit points, you heal 6d10 + triple your Charisma modifier hit points at the start of each of your turns. In addition, as long as this spell is in effect, you can make the following attack as a free action against each nearby enemy that misses you with an attack with a natural roll of 1–5.
 

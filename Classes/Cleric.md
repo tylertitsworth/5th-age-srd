@@ -126,7 +126,7 @@ There are certain abilities specific to the cleric that can affect their powers:
 
 ### Heal
 
-Close-quarters spell
+Close-quarters Spell
 
 _Special:_ You can use this spell twice per battle.
 
@@ -300,9 +300,9 @@ You gain a +2 bonus to all defenses against attacks by undead.
 
 #### Epic Feat
 
-The invocation also affects your allies' daily spells.
+The invocation also affects your allies' full recovery spells.
 
-**Invocation of Sun/Anti-Undead:** When you cast a daily cleric spell this battle, roll a d6. If you roll less than or equal to the escalation die, you regain the use of that daily spell after the battle.
+**Invocation of Sun/Anti-Undead:** When you cast a full recovery cleric spell this battle, roll a d6. If you roll less than or equal to the escalation die, you regain the use of that full recovery spell after the battle.
 
 ---
 
@@ -348,9 +348,9 @@ Allies now also get a damage bonus against such enemies equal to double your Cha
 
 ### Bless
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -371,9 +371,9 @@ Quick action to cast
 
 ### Cure Wounds
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -382,7 +382,7 @@ Quick action to cast
 | Higher Level | Effect |
 | --- | --- |
 | 3rd | The target can also roll a save against each save ends effect. |
-| 5th | This spell is now recharge 16+ after battle instead of daily. |
+| 5th | This spell is now recharge 16+ after battle instead of full recovery. |
 | 7th | The target can heal using two free recoveries instead of one. |
 | 9th | This spell is now recharge 11+ instead. |
 
@@ -390,9 +390,9 @@ Quick action to cast
 
 ### Hammer of Faith
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, your basic melee attacks use d12s as their base weapon damage dice.
 
@@ -407,7 +407,7 @@ Daily
 
 ### Javelin of Faith
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -442,9 +442,9 @@ If your natural attack roll is an 18+, make the attack a second time against a d
 
 ### Shield of Faith
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -465,7 +465,7 @@ Quick action to cast
 
 ### Spirits of the Righteous
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -492,9 +492,9 @@ You also gain the bonus to AC until the end of your next turn on a hit.
 
 ### Turn Undead
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby undead creatures, each with 55 hp or fewer.
 
@@ -517,7 +517,7 @@ Daily
 
 #### Adventurer Feat
 
-You can expend your daily use of _turn undead_ to gain an additional use of _heal_ in one battle.
+You can expend your full recovery use of _turn undead_ to gain an additional use of _heal_ in one battle.
 
 #### Champion Feat
 
@@ -531,9 +531,9 @@ Increase the targeting limit by 100 hp.
 
 ### Vigilant Light
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick Action to Cast out of Combat
 
@@ -554,9 +554,9 @@ _Special:_ While this spell is active, your head is crowned by a corona of scint
 
 ### Cause Fear
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 75 hp or fewer
 
@@ -576,7 +576,7 @@ Daily
 
 ### Combat Boon
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -600,9 +600,9 @@ One nearby conscious ally can roll a save even if your attack misses.
 
 ### Divine Endurance
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -622,9 +622,9 @@ Quick action to cast
 
 ### Judgment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** All nearby staggered enemies
 
@@ -646,15 +646,15 @@ The spell now deals half damage on a miss.
 
 #### Epic Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
 ---
 
 ### Mighty Healing
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -676,9 +676,9 @@ This spell is now a close-quarters spell.
 
 ### Strength of the Gods
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -700,9 +700,9 @@ Quick action to cast
 
 ### Crisis of Faith
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -719,7 +719,7 @@ Quick action to cast
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You can cast this spell for power or for broad effect.
 
@@ -750,9 +750,9 @@ You can now move the ongoing damage effect to any nearby enemy as a quick action
 
 ### Sanctuary
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Choose yourself or a nearby ally. Enemies with 100 hp or fewer cannot attack the chosen target until that creature attacks or the escalation die reaches 6+.
 
@@ -765,9 +765,9 @@ Daily
 
 ### Sphere of Radiance
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You or one nearby ally can heal using a free recovery. Then make the following attack.
 
@@ -790,9 +790,9 @@ Daily
 
 ### Circle of Protection
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -804,7 +804,7 @@ Quick action to cast
 
 #### Epic Feat
 
-The spell is now (recharge 16+) after battle instead of daily.
+The spell is now (recharge 16+) after battle instead of full recovery.
 
 ---
 
@@ -824,7 +824,7 @@ Divine intervention cannot bring back the dead, at least not permanently. It mig
 
 _Limited Use:_ Like resurrection, this spell takes its toll on you. The first time you cast it, you can cast it quickly, with a single standard action.
 
-The second time you cast it, it costs you half your hit points and half your daily powers/spells. You’re also permanently marked or changed in some way—you might gain some divine feature, be branded with your god’s holy symbol, or maybe you’ll just be left twisted and broken by the powers you just channeled.
+The second time you cast it, it costs you half your hit points and half your full recovery powers/spells. You’re also permanently marked or changed in some way—you might gain some divine feature, be branded with your god’s holy symbol, or maybe you’ll just be left twisted and broken by the powers you just channeled.
 
 The third time you cast it, you permanently lose access to the domain(s) used to shape the intervention, and you’re left with no spells and only a few hit points. Oh, and every enemy of your deity suddenly knows exactly where you are.
 
@@ -840,7 +840,7 @@ The fifth time you cast this spell, you burn out your soul and are annihilated. 
 
 ### Resurrection
 
-Ranged spell
+Ranged Spell
 
 _Special:_ You can cast this spell only once per level, and a limited number of times in your life. You must have most of the corpse available to cast the spell. There's no time limit on resurrecting a dead PC, so long as you have the corpse.
 
@@ -848,7 +848,7 @@ _Special:_ You can cast this spell only once per level, and a limited number of 
 
 **Limited Casting:** The first time in your life that you use the spell, you can cast it with a single standard action. Using the spell removes one of your spell slots until you gain a level. (You get one less spell per full heal-up.) The person you are resurrecting comes back at roughly half strength, e.g. expending half their recoveries, being dazed (save ends), and, for each ability, having a 50% chance that it is expended.
 
-The second time in your life you cast the spell, it takes at least three or four rounds and costs you roughly half your hit points and daily powers/spells. The person you are resurrecting comes back at something like one-quarter strength.
+The second time in your life you cast the spell, it takes at least three or four rounds and costs you roughly half your hit points and full recovery powers/spells. The person you are resurrecting comes back at something like one-quarter strength.
 
 The third time you cast the spell it has to be as a ritual. The spell chews you up and leaves you with only a few hit points, then gnaws at the person you have resurrected, who takes days to recover well enough to qualify as an adventurer or combatant.
 
@@ -868,9 +868,9 @@ The fifth time you resurrect someone, that's the end of your story and you die. 
 
 ### Overworld Travel
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 _Special:_ You must cast this spell outdoors. It enables you and a group of nearby allies to travel to most any location in the world that you can name.
 
@@ -882,9 +882,9 @@ The destination can be in the overworld or in the land. It can't be in the under
 
 ### Prayer for Readiness
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Targets:** Up to 5 allies
 

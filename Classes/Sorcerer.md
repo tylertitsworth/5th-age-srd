@@ -720,7 +720,7 @@ Gain another relationship point with a relationship associated with one of your 
 
 ### Chameleon
 
-When you cast a sorcerer daily spell on yourself, the spell becomes recharge 16+ after battle. When you cast a spell with a recharge roll on yourself, reduce the target number for the roll by 4.
+When you cast a sorcerer full recovery spell on yourself, the spell becomes recharge 16+ after battle. When you cast a spell with a recharge roll on yourself, reduce the target number for the roll by 4.
 
 #### Adventurer Feat
 
@@ -752,7 +752,7 @@ One battle per day, gain resist dragon attack 16+ (all attacks made by dragons; 
 
 ### Exclusive Blood
 
-You gain a bonus bloodline spell slot, which you can use to spontaneously cast spells from your bloodline. You don’t choose the spell to cast in that slot after a full heal-up. Instead, you can use it to cast any spell from your bloodline, at the highest level you can cast. If the spell is a daily spell, the slot is expended until the next full heal-up (although in case of a breath spell, you still recharge it during the battle normally). If the spell has a recharge roll after battle, and you succeed on the roll, you regain the spell slot instead of the individual spell. If the spell is once per battle, you also regain the slot after the battle. In case of an at-will spell, you can cast it at-will that battle, and then regain the slot after the battle.
+You gain a bonus bloodline spell slot, which you can use to spontaneously cast spells from your bloodline. You don’t choose the spell to cast in that slot after a full heal-up. Instead, you can use it to cast any spell from your bloodline, at the highest level you can cast. If the spell is a full recovery spell, the slot is expended until the next full heal-up (although in case of a breath spell, you still recharge it during the battle normally). If the spell has a recharge roll after battle, and you succeed on the roll, you regain the spell slot instead of the individual spell. If the spell is once per battle, you also regain the slot after the battle. In case of an at-will spell, you can cast it at-will that battle, and then regain the slot after the battle.
 
 This increased specialization comes at a cost, however, by limiting your overall spell choice. Choose two bloodlines in addition to your own bloodline. You can only cast sorcerer spells of these three bloodlines, as well as any spells gained through your Spell Access class feature. If a spell belongs to multiple bloodlines, you can cast it if you have access to one of them.
 
@@ -953,9 +953,9 @@ If you put out one of your eyes and cut off one of your hands, you gain a +1 bon
 
 ### Alter Self
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -980,9 +980,9 @@ The spell also changes the appearance of clothing and equipment.
 
 ### Angelic Dictum
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Celestial
 
@@ -1009,7 +1009,7 @@ If you don’t attack on your turn, the target’s next save against this spell 
 
 ### Archon's Trumpet
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1040,9 +1040,9 @@ On a natural even roll, hit or miss, deal extra damage equal to your Wisdom modi
 
 ### Attune Weapon
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1058,7 +1058,7 @@ _Arcane (or not listed):_ The weapon can fly to make a ranged attack and return 
 
 _Celestial:_ The weapon deals radiant damage and ignores damage resistance of undead enemies.
 
-_Draconic:_ Each time you cast a daily breath weapon spell this battle, the weapon gains extra damage on a hit equal to the spell level.
+_Draconic:_ Each time you cast a full recovery breath weapon spell this battle, the weapon gains extra damage on a hit equal to the spell level.
 
 _Fey:_ When you land a natural even hit with this weapon, you gain a +2 bonus to your next spell attack against the target.
 
@@ -1077,9 +1077,9 @@ If the attuned weapon is already a true magic item of the highest tier you can e
 
 ### Breath of the Brass
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -1110,7 +1110,7 @@ If you fail your roll to recharge Breath of the Brass at the start of your turn,
 
 Brass Babble
 
-Close-quarters spell
+Close-quarters Spell
 
 Quick action
 
@@ -1126,9 +1126,9 @@ Draconic
 
 ### Breath of the White
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d2 nearby enemies in a group; breath weapon
 
@@ -1151,7 +1151,7 @@ _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of 
 
 ### Burning Hands
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1184,7 +1184,7 @@ You can now target each enemy engaged with you with your _burning hands_ spell i
 
 ### Celestial Resistance
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -1204,9 +1204,9 @@ Celestial
 
 ### Chameleon Skin
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Fey / Umbral
 
@@ -1222,7 +1222,7 @@ The effect lasts until you cast another spell on yourself, or until your next fu
 
 ### Chaos Bolt
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -1255,9 +1255,9 @@ If you are a champion-tier sorcerer, roll any sorcerer benefit gained with this 
 
 ### Darkness
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Umbral
 
@@ -1271,7 +1271,7 @@ Umbral
 
 ### Decrepit Eyes
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -1293,7 +1293,7 @@ Hit or miss, deal necrotic damage equal to your level.
 
 ### Dragon Orb
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1322,7 +1322,7 @@ If you have cast a breath weapon spell this battle, deal half damage on a miss.
 
 ### Elemental Sorcery
 
-Ranged spell
+Ranged Spell
 
 At-wil
 
@@ -1360,7 +1360,7 @@ You can use this spell in combat, but it creates more of a distraction than real
 
 ### Fey Glamour
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1393,9 +1393,9 @@ If the target is already dazed, treat an odd hit as an even hit instead.
 
 ### Fey Path
 
-Close-quarter spell
+Close-quarter Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -1405,9 +1405,9 @@ Fey
 
 ### Fireworks
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -1443,11 +1443,11 @@ Roll twice on the empower effects table and gain both.
 
 ### Force Boomerang
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
-Chain spell
+Chain Spell
 
 Arcane
 
@@ -1478,7 +1478,7 @@ _Chain Spell:_ Each time your natural attack roll is even, you can attack a diff
 
 ### Friends
 
-Close-quarter spell
+Close-quarter Spell
 
 Recharge 16+
 
@@ -1500,11 +1500,11 @@ You can see disguised and invisible creatures while the spell is active.
 
 ### Lightning Fork
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
-**Target:** One nearby enemy; chain spell
+**Target:** One nearby enemy; chain Spell
 
 **Attack:** Charisma + Level vs. PD
 
@@ -1537,7 +1537,7 @@ _Chain Spell:_ Each time you make a natural even attack roll, you can attack a d
 
 ### Orb of Wrath
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1572,7 +1572,7 @@ You can cast this spell without provoking opportunity attacks.
 
 ### Resist Energy
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -1595,7 +1595,7 @@ You can target an additional creature with the spell.
 
 ### Scorching Ray
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -1630,7 +1630,7 @@ You don't take the –2 penalty for attacking a far away enemy with the spell.
 
 ### Shadow Bolt
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1665,7 +1665,7 @@ On a natural 19+, the duration of the MD / PD penalty is “save ends.”
 
 ### Skullfire
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1698,7 +1698,7 @@ Deal half damage on a miss against staggered enemies.
 
 ### Sorcerer's Shield
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+
 
@@ -1734,7 +1734,7 @@ The bonus starts at +2.
 
 ### Thunderwave
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1767,7 +1767,7 @@ Add a third damage die.
 
 ### Wild Surge
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1813,9 +1813,9 @@ If the escalation die is 4+, target two random nearby creatures with this spell.
 
 ### Beast Form
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -1865,9 +1865,9 @@ You can expend a sorcerer point to cast a spell while in beast form.
 
 ### Breath of the Bronze
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -1897,9 +1897,9 @@ If you fail to recharge Breath of the Bronze at the start of your turn, gain a +
 
 ### Breath of the Green
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies in a group; breath weapon
 
@@ -1921,7 +1921,7 @@ _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of 
 
 ### Burning Whip
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1947,7 +1947,7 @@ _Natural even hit:_ You grab the target until the end of your next turn (it has 
 
 ### Chaos Pulse
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -1971,9 +1971,9 @@ At-Will
 
 ### Choke Hold
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Umbral
 
@@ -2001,9 +2001,9 @@ On a hit, you can pull the target to engage you.
 
 ### Cloak of Lightning
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2017,9 +2017,9 @@ Arcane
 
 ### Conviction
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Free action
 
@@ -2037,9 +2037,9 @@ Add your Wisdom modifier to the reroll.
 
 ### Dragon's Leap
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -2051,7 +2051,7 @@ Quick action to cast
 | --- | --- |
 | 5th | You can now fly until the end of your next turn. |
 | 7th | You can now fly twice as fast as you normally move on the ground. You also gain a +5 bonus to disengage checks. |
-| 9th | The spell is now recharge 16+ after battle instead of daily. |
+| 9th | The spell is now recharge 16+ after battle instead of full recovery. |
 
 _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
 
@@ -2059,7 +2059,7 @@ _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of 
 
 ### Echoing Thunder
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -2085,7 +2085,7 @@ The spell's aftershock damage is now also doubled when echoing thunder is empowe
 
 ### Energy Charge
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -2119,9 +2119,9 @@ You can roll for random energy twice and choose the result you like.
 
 ### False Life
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2145,7 +2145,7 @@ Choose a nearby ally. Whenever you gain temporary hit points from this spell, th
 
 ### Flash Freeze
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -2179,7 +2179,7 @@ On a natural even hit, the target is weakened (-4 to attacks and defenses) until
 
 ### Flowery Kiss
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+
 
@@ -2211,9 +2211,9 @@ You gain a +2 bonus to attack against enemies you are engaged with.
 
 ### Pierce Resistance
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Arcane
 
@@ -2237,9 +2237,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Protected Perimeter
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Celestial
 
@@ -2267,7 +2267,7 @@ The save against the stuck effect is now a hard save (16+).
 
 ### Sinner's Pyre
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -2293,7 +2293,7 @@ Increase the damage dice to d10s.
 
 ### Wild Spark
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -2325,7 +2325,7 @@ You can target a far away enemy at a -2 penalty to the attack roll.
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby ally or enemy
 
@@ -2348,7 +2348,7 @@ _targeting ally:_
 
 | Higher Level | Effect |
 | --- | --- |
-| 7th | Instead of a free action basic melee attack, the ally gains a bonus standard action, but cannot use that action on a daily power. |
+| 7th | Instead of a free action basic melee attack, the ally gains a bonus standard action, but cannot use that action on a full recovery power. |
 | 9th | The ally gains a bonus standard action, no strings or requirements. |
 
 _Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use breath of the beast that turn If you wish.
@@ -2357,9 +2357,9 @@ _Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of 
 
 ### Breath of the Black
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy; breath weapon
 
@@ -2384,9 +2384,9 @@ _Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of 
 
 ### Breath of the Copper
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -2419,9 +2419,9 @@ _Out-think:_ As a free action when an enemy rolls a natural even hit against you
 
 ### Breath of the Purple
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -2450,9 +2450,9 @@ When you succeed on a roll to recharge this spell during a battle, distracting i
 
 ### Chain Immolation
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Chain Spell
 
@@ -2485,9 +2485,9 @@ When an enemy dies from the ongoing damage, make another attack with this spell 
 
 ### Faerie Door
 
-Close-quarter spell
+Close-quarter Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -2501,9 +2501,9 @@ Only you (or targets designated by you) can see the door.
 
 ### Fey Curse
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -2528,9 +2528,9 @@ _Natural Odd Miss:_ Psychic damage equal to your level
 
 ### Flash of Radiance
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Free Action
 
@@ -2557,9 +2557,9 @@ _Natural even hit:_ The target has disadvantage on their next attack roll.
 
 ### Leech Magic
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Arcane / Fey / Umbral
 
@@ -2585,7 +2585,7 @@ If the target is a spellcaster, or a creature with magic abilities, you gain a +
 
 ### Merry Go-Round
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -2607,9 +2607,9 @@ Fey
 
 ### Nasty to Nice
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Celestial
 
@@ -2638,9 +2638,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Ooze Form
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -2663,11 +2663,11 @@ When you Gather Power while in Ooze form, deal double damage with your first una
 
 ### Rolling Thunderball
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
-Chain spell
+Chain Spell
 
 Any bloodline
 
@@ -2694,9 +2694,9 @@ You have a +1 bonus to attack against far away enemies.
 
 ### Scare
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Free action
 
@@ -2725,9 +2725,9 @@ This spell is now Recharge 16+ after battle.
 
 ### The Elven Shadows
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ Once you cast this spell in a battle, you can cast it at-will for the rest of that battle.
 
@@ -2752,11 +2752,11 @@ Once per battle, the teleport from a hit with _the elven shadows_ can be to a fa
 
 ### Three Dooms
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
-**Target:** One nearby enemy; chain spell
+**Target:** One nearby enemy; chain Spell
 
 **Attack:** Charisma + Level vs. PD
 
@@ -2776,9 +2776,9 @@ _Chain Spell:_ Each time you make a natural even attack roll, you can attack a d
 
 ### Unearthly Glamour
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You gain a +5 bonus to all Charisma skill checks for the next five minutes. If you fail a Charisma skill check during this time, however, anyone you were attempting to convince or influence with the check is freaked out or disgusted by the supernatural glamour attached to you and has extremely negative reactions to you.
 
@@ -2791,11 +2791,11 @@ Daily
 
 ### Wave of Anguish
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
-Chain spell
+Chain Spell
 
 Umbral
 
@@ -2824,9 +2824,9 @@ You can cast this spell without provoking opportunity attacks.
 
 ### All-Consuming Inferno
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -2854,11 +2854,11 @@ When you empower this spell, gain advantage on the first attack roll.
 
 ### Breath of the Blue
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Target:** One nearby enemy; breath spell
+**Target:** One nearby enemy; breath Spell
 
 **Attack:** Charisma + Level vs. PD
 
@@ -2880,9 +2880,9 @@ _Breath Spell:_ For the rest of the battle, roll a d20 at the start of each of y
 
 ### Breath of the Silver
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -2914,9 +2914,9 @@ _Evasive Turn:_ As a free action when an attack targets you, you can force the a
 
 ### Celestial Censure
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Celestial
 
@@ -2936,9 +2936,9 @@ Celestial
 
 ### Draconic Gift
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2971,9 +2971,9 @@ Gain the ability for both d10 rolls.
 
 ### Elemental Form
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Arcane
 
@@ -3001,9 +3001,9 @@ You can stay transformed for up to 1d6 hours.
 
 ### Entomb
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Interrupt Action
 
@@ -3017,9 +3017,9 @@ Celestial / Umbral
 
 ### Memento Mori
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3041,9 +3041,9 @@ Choose one ally who can still use the escalation die while you have stolen it.
 
 ### Pixie Dust
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -3071,9 +3071,9 @@ _Natural Odd Miss:_ The next time you roll an odd miss this battle, reroll it.
 
 ### Reflecting Barrier
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Arcane
 
@@ -3089,9 +3089,9 @@ Also reflect the first attack with a natural even roll that falls within the ran
 
 ### Shadow Form
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Umbral
 
@@ -3111,9 +3111,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Sorcerous Wings
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3131,9 +3131,9 @@ Celestial / Fey / Draconic
 
 ### Stolen Faces
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Free action to cast, before initiative is rolled
 
@@ -3153,9 +3153,9 @@ You can't steal species powers you already possess.
 
 ### Touch of Corruption
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -3179,9 +3179,9 @@ The spell can now target a nearby enemy you are not engaged with.
 
 ### Touch of Evil
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -3208,9 +3208,9 @@ Roll a d8 to see which power you gain:
 
 ### Untamed Sorcery
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -3235,11 +3235,11 @@ Any bloodline
 
 ### Wild Polymorph
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-Chain spell
+Chain Spell
 
 Any bloodline
 
@@ -3276,9 +3276,9 @@ Double the hit point range you can affect as “save ends.“
 
 ### Black Blade of Disaster
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Umbral
 
@@ -3292,9 +3292,9 @@ You can hurl the blade to make ranged attacks against nearby enemies.
 
 ### Breath of the Golden
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -3322,9 +3322,9 @@ _Indomitability:_ As a free action, cancel all effects and conditions on you, in
 
 ### Breath of the Red
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Breath weapon
 
@@ -3348,11 +3348,11 @@ _Breath weapon:_ For the rest of the battle, roll a d20 at the start of each of 
 
 ### Breath of the Void
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Target:** One nearby enemy; breath spell
+**Target:** One nearby enemy; breath Spell
 
 **Attack:** Charisma + Level vs. MD
 
@@ -3366,11 +3366,11 @@ _Breath Spell_: For the rest of the battle, roll a d20 at the start of each of y
 
 ### Calling the Blood
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relationship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a daily spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
+**Effect:** Randomly select a relationship (preferably a sorcerous one). You gain some surprising or bizarre magical effect associated with the power of that relationship to assist you. The effect is entirely up to the GM, though the immediate impact of the spell should always be favorable for you. The long-term consequences of randomly invoking the power of a relationship that may be an enemy might not be favorable for you, and should be played for narrative interest by the GM, particularly if the impact of the spell was huge for you. Since this is a full recovery spell, sizeable impact is fine, but don't award any extra effect for empowered casting, especially since the spell can be cast effectively out of combat.
 
 #### Epic Feat
 
@@ -3380,9 +3380,9 @@ Randomly choose twice, then choose the single result you prefer.
 
 ### Celestial Apotheosis
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3392,7 +3392,7 @@ _Special:_ You must have the celestial bloodline to cast this spell.
 
 **Target:** You
 
-**Effect:** Until the end of the battle or for the next five minutes, you can fly. You roll saves at the start of your turn instead of at the end, and you have advantage on them. You are immune to fear. When you cast a daily sorcerer spell, you or a nearby ally can heal using a recovery.
+**Effect:** Until the end of the battle or for the next five minutes, you can fly. You roll saves at the start of your turn instead of at the end, and you have advantage on them. You are immune to fear. When you cast a full recovery sorcerer spell, you or a nearby ally can heal using a recovery.
 
 #### Epic Feat
 
@@ -3402,9 +3402,9 @@ When you cast this spell, gain temporary hit points equal to your maximum hit po
 
 ### Draconic Apotheosis
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Shapechange
 
@@ -3428,9 +3428,9 @@ When you cast a breath weapon spell, you also gain 10 temporary hit points.
 
 ### Infernal Apotheosis
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3438,7 +3438,7 @@ Any bloodline
 
 _Special:_ This spell requires the infernal bloodline.
 
-**Effect:** Until the end of the battle, you can fly. You project a fear aura that affects nearby mooks (-4 to attacks and they can’t use the escalation die). When you cast a daily sorcerer spell, enemies have disadvantage on any saves against it. When you successfully save against an effect imposed on you by an enemy, deal 20 fire damage to that enemy.
+**Effect:** Until the end of the battle, you can fly. You project a fear aura that affects nearby mooks (-4 to attacks and they can’t use the escalation die). When you cast a full recovery sorcerer spell, enemies have disadvantage on any saves against it. When you successfully save against an effect imposed on you by an enemy, deal 20 fire damage to that enemy.
 
 #### Epic Feat
 
@@ -3448,9 +3448,9 @@ When you cast a spell that deals fire or poison damage, the damage dice become e
 
 ### Prey of the Wild Hunt
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Fey
 
@@ -3472,9 +3472,9 @@ _Natural Odd Miss:_ 30 poison damage
 
 ### Silver Flame
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -3494,9 +3494,9 @@ As you might expect, if you roll a failure that also invokes a relationship-rela
 
 ### Spell Barrage
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Arcane
 
@@ -3512,9 +3512,9 @@ If the escalation die is 6+, you can cast three sorcerer at-will spells as a sin
 
 ### Twilight Travel
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Any bloodline
 
@@ -3536,9 +3536,9 @@ You can take one ally per Charisma modifier with you.
 
 ### Void Rift
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Umbral
 
@@ -3560,11 +3560,11 @@ The first (chosen) target is sucked into a pocket dimension on any even hit.
 
 ### Unleash Hell
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-Chain spell
+Chain Spell
 
 Any bloodline
 

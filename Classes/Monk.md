@@ -143,7 +143,7 @@ When you use an element of a form, you gain an AC bonus until the start of your 
 
 ### Ki
 
-You gain a number of _ki_ points each day equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a daily resource. When you take a full heal-up, you regain all your ki points. You don't regain ki during a quick rest.
+You gain a number of _ki_ points each day equal to 1 + your Wisdom modifier. You can spend ki to modify the natural result of one of your attack rolls. Ki is a full recovery resource. When you take a full heal-up, you regain all your ki points. You don't regain ki during a quick rest.
 
 After rolling an attack, you can spend 1 point of ki as a free action to change your attack's _natural_ result by 1, unless that result is a natural 1. The change can be +1 or -1. Spending ki is a free action, but you can only spend 1 point of ki each turn.
 
@@ -643,7 +643,7 @@ At 6th level, you gain an additional monk class talent. You can choose to take a
 
 ### Acolyte of Death
 
-Choose a necromancer spell of your level or lower as a bonus power. You can choose any spell except summoning spells and spells granted by talents. You can switch the spell after each full heal-up. If the spell is an at-will attack spell, you can cast it in place of a flow attack. If the spell is a limited use attack spell, you can cast it in place of a finishing attack, at the frequency you can normally cast it (such as daily). Use your Wisdom as the ability score that determines attack and damage with the spell.
+Choose a necromancer spell of your level or lower as a bonus power. You can choose any spell except summoning spells and spells granted by talents. You can switch the spell after each full heal-up. If the spell is an at-will attack spell, you can cast it in place of a flow attack. If the spell is a limited use attack spell, you can cast it in place of a finishing attack, at the frequency you can normally cast it (such as full recovery). Use your Wisdom as the ability score that determines attack and damage with the spell.
 
 #### Champion Feat
 

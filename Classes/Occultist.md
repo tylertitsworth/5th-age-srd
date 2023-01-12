@@ -171,7 +171,7 @@ _Karmic rebuke_ requires a quick action instead of an interrupt action. It's des
 
 #### Karmic Rebuke
 
-Close-quarters spell
+Close-quarters Spell
 
 **At-Will**
 Quick action to cast
@@ -245,7 +245,7 @@ You gain the Martial Rebuke power, which you can use instead of Karmic Rebuke to
 
 #### Martial Rebuke
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -373,7 +373,7 @@ You gain the Karmic Cure power, which you can use instead of Karmic Rebuke to ex
 
 #### Karmic Cure
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -456,7 +456,7 @@ Once per battle, gain a once-per-battle psion spell instead. In addition, you ca
 
 #### Champion Feat
 
-Once per day, gain a daily psion spell instead.
+Once per day, gain a full recovery psion spell instead.
 
 #### Epic Feat
 
@@ -494,7 +494,7 @@ You can guard a nearby ally instead of yourself (you don't have to see that ally
 
 #### Champion Feat
 
-Your Stance of Necessity uses are now recharge 16+ instead of daily.
+Your Stance of Necessity uses are now recharge 16+ instead of full recovery.
 
 #### Epic Feat
 
@@ -602,7 +602,7 @@ You gain the Fangs of the Horned Serpent power, which you can use to expend focu
 
 #### Fangs of the Horned Serpent
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -665,9 +665,9 @@ You gain the Event Horizon power, which you can use to expend focus on your turn
 
 #### Event Horizon
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -707,7 +707,7 @@ Increase the transcendence skill to 7.
 
 ### Auramancy
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after scene
 
@@ -723,7 +723,7 @@ When you have this spell, you have a hunch when you are in the presence of avery
 
 ### Better Yet, Here
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -762,7 +762,7 @@ When the triggering ally scores a critical hit with the attack, you don't expend
 
 ### Bitter Lessons
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -793,7 +793,7 @@ Expend Focus
 
 ### Brilliant Comeback
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -830,7 +830,7 @@ The target of the triggering ally's attack is vulnerable to that attack.
 
 ### Deja Vu
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after the battle / scene
 
@@ -854,7 +854,7 @@ The spell is now Recharge 6+.
 
 ### Inevitable Fall
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -889,7 +889,7 @@ The save to end the ongoing damage, hit or miss, is hard (16+).
 
 ### Mirific Miss
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -926,7 +926,7 @@ On a natural 5, 10, 15, or 20 on your attack roll, your ally can reroll the atta
 
 ### Moment of Karma
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -969,7 +969,7 @@ Add triple your Wisdom modifier to your miss damage.
 
 ### Momentous Distraction
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1008,7 +1008,7 @@ Reroll the disengage checks on an even miss with the attack.
 
 ### Parallax Aegis
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1047,7 +1047,7 @@ Retain focus on 1-10.
 
 ### Rampant Reverberation
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1075,7 +1075,7 @@ You no longer take damage on a miss.
 
 ### Sanguine Echo
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1102,9 +1102,9 @@ Nearby allies that you didn’t target with the effect can heal hit points equal
 
 ### Secrets Revealed
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** A piece of writing or code
 
@@ -1118,7 +1118,7 @@ The spell can now make faded or erased writing visible.
 
 ### Timely Mistake
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1163,7 +1163,7 @@ When you miss with this spell but retain your focus with the roll, the target ta
 
 ### Blood for Blood
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1205,7 +1205,7 @@ Your retain focus range with this spell is now 1–15.
 
 ### Cromulent Embiggening
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1227,7 +1227,7 @@ You now retain focus on 1-10.
 
 ### Diversion of Pain
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1263,7 +1263,7 @@ The new target gains _resist damage 18+_ against the triggering attack.
 
 ### Fortune Smiles
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1295,7 +1295,7 @@ When you cast this spell, choose a second nearby ally. It can roll a save agains
 
 ### Karmic Flip
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1329,7 +1329,7 @@ You can now target any nearby enemy of your choice with this spell.
 
 ### Primordial Acidification
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1367,7 +1367,7 @@ If you cast this spell while the escalation die is 5+, deal 3d6 extra ongoing da
 
 ### Strike of the Last Breath
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1401,7 +1401,7 @@ The target can make an at-will attack instead of a basic attack.
 
 ### Surging Escutcheon
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1423,7 +1423,7 @@ While the halo is active, the ally also heals damage equal to the spell level wh
 
 ### The Unknown Unknowns
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 
@@ -1447,9 +1447,9 @@ If the reroll is an odd miss, add an unexpected beneficial effect. Maybe the tra
 
 ### Astral Projection
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Your conscious self leaves your body, and you project an image of yourself and your voice in a distant location. You perceive the surroundings of the target location, and the projected image mimics your movements, but you can’t interact with the environment.
 
@@ -1459,7 +1459,7 @@ To project yourself to a specific location, you must have some connection to it.
 
 ### Attack of the Clone
 
-Close-quarters spell
+Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -1477,7 +1477,7 @@ Expend focus
 
 ### Authorized Override
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1528,7 +1528,7 @@ When casting the spell, gain a temporary 5-point background that you can use to 
 
 ### Call of Doom
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1555,7 +1555,7 @@ _Special:_ You can cast this spell without having your focus. If the trigger is 
 
 ### Crooked Step
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1586,7 +1586,7 @@ When this spell makes the triggering enemy miss with an attack, that enemy takes
 
 ### Fateful Confrontation
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1620,7 +1620,7 @@ The spell is now recharge 11+ after battle instead.
 
 ### Shotting Fireworks
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1653,7 +1653,7 @@ Make four attacks.
 
 ### Stifle
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1688,7 +1688,7 @@ Increase the triggering hit point threshold by 50.
 
 ### Temporal Splice
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1700,7 +1700,7 @@ Quick action
 
 ### Waking Ward
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1725,7 +1725,7 @@ Also target a second nearby ally, for half the amount of temporary hit points.
 
 ### Arcane Cataclysm
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 
@@ -1753,7 +1753,7 @@ Retain focus on any roll if the triggering spell was a critical hit.
 
 ### Arcane Loop
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1761,7 +1761,7 @@ Interrupt action to cast
 
 Expend Focus
 
-**Trigger:** A nearby ally casts a daily or recharge spell of 7th level or lower.
+**Trigger:** A nearby ally casts a full recovery or recharge spell of 7th level or lower.
 
 **Effect:** The triggering ally doesn't expend that spell.
 
@@ -1783,7 +1783,7 @@ Your retain focus range with this spell is now 1–15.
 
 ### Army of Me
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1797,7 +1797,7 @@ Each living clone increases the retain focus range of your spells by 1.
 
 ### Liberating Blow
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1823,7 +1823,7 @@ The target's disengage check is successful whether or not the attack hits.
 
 ### Pocket Labyrinth Dimension
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1853,9 +1853,9 @@ Attack the lower defense of PD or MD with this spell.
 
 ### Butterfly Effect
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a colorful butterfly that flaps its wings once. This sets a chain of connected events in motion. You determine the general outcome of each event (“Snow is falling on Dragon Peak”), but not the details. The connection does not have to be obvious, as your magic works in mysterious ways. Each step in the chain takes up to a full day to resolve. After each event, roll a d20. If the roll is equal to the number of events caused by the spell, or lower, the spell ends. You cannot end the spell voluntarily — a high enough roll always causes the next event.
 
@@ -1865,7 +1865,7 @@ However, the spell does not end on a roll of natural 1. On a natural 1, the spel
 
 ### Hasten Fate
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1887,7 +1887,7 @@ The spell now triggers when the escalation die is 2–5.
 
 ### Rewind the Skeins
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per level
 
@@ -1905,7 +1905,7 @@ Take it back five minutes.
 
 ### Temporal Anomaly
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 

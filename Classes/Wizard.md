@@ -167,7 +167,7 @@ You can master a ritual in half the required time.
 
 ### Specialist Advantage
 
-Daily spells of your chosen school become recharge 16+ after battle. They still count as daily spells for abilities that trigger off daily spells.
+Full Recovery spells of your chosen school become recharge 16+ after battle. They still count as full recovery spells for abilities that trigger off full recovery spells.
 
 #### Champion Feat
 
@@ -341,7 +341,7 @@ Choose three of the following class talents.
 
 ### Abjurer
 
-Whenever you cast a daily wizard spell, you gain a +4 AC bonus until the end of your next turn.
+Whenever you cast a full recovery wizard spell, you gain a +4 AC bonus until the end of your next turn.
 
 #### Adventurer Feat
 
@@ -349,7 +349,7 @@ The bonus also applies to your Physical Defense.
 
 #### Champion Feat
 
-You gain 2d12 temporary hit points each time you cast a daily spell.
+You gain 2d12 temporary hit points each time you cast a full recovery spell.
 
 #### Epic Feat
 
@@ -519,7 +519,7 @@ After each full heal-up, roll on the table below.
 | --- | --- |
 | 1 | A blood sacrifice strengthens your body over your mind. You gain one less wizard spell this time. However, you gain a +2 bonus to PD and roll d8s for recovery dice until the next full heal-up. |
 | 2 | You bond with a protective spirit. Gain a +1 bonus to saves until your next full heal-up. |
-| 3 | You bond with an earth spirit. Gain a daily terrain caster spell from the terrain you are currently in. |
+| 3 | You bond with an earth spirit. Gain a full recovery terrain caster spell from the terrain you are currently in. |
 | 4 | You bond with a life spirit. The first time you are reduced below zero hit points before your next full heal-up, immediately heal using a free recovery. |
 | 5 | You have an out-of-body experience. Immediately gain the incremental advance you would gain at the end of the session. (This does not allow you to level up yet). |
 | 6 | You have a prophetic dream about an upcoming conflict. For one battle before the next full heal-up, set the escalation die to 1 at the start of your first turn. |
@@ -548,13 +548,13 @@ Your study of the highest orders of magic gives you options that lesser wizards 
 
 #### Memorization
 
-When you pick your spells, you can choose any daily wizard spell twice (instead of once). This doesn't apply to spells that start as recharge spells. For example, at 7th level when you have five 7th level spells and four 5th level spells, you could choose fireball twice as a 7th level spell, or once as a 7th level spell and once as a 5th level spell. (Your 3rd level spell slot can't be used for fireball because fireball starts as a 5th level spell.)
+When you pick your spells, you can choose any full recovery wizard spell twice (instead of once). This doesn't apply to spells that start as recharge spells. For example, at 7th level when you have five 7th level spells and four 5th level spells, you could choose fireball twice as a 7th level spell, or once as a 7th level spell and once as a 5th level spell. (Your 3rd level spell slot can't be used for fireball because fireball starts as a 5th level spell.)
 
 ---
 
 #### Counter-magic
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -669,7 +669,7 @@ When you kill an enemy with a spell, siphon off some of their life. Gain a +1 bo
 
 ### Polysyllabic Verbalizations
 
-Rename each of your daily and recharge spells. Think up the most over-the-top and extravagant names you can muster. Since these alternate spells are so lengthy, they take an additional quick action to cast. While the regular effects of the spells are the same as the more common versions, they have a small bonus effect appropriate to the situation.
+Rename each of your full recovery and recharge spells. Think up the most over-the-top and extravagant names you can muster. Since these alternate spells are so lengthy, they take an additional quick action to cast. While the regular effects of the spells are the same as the more common versions, they have a small bonus effect appropriate to the situation.
 
 The bonus effect is determined by the GM, or by a collaboration between the GM and the player. It should add to the storytelling power of the situation.
 
@@ -998,9 +998,9 @@ Triple the number of cantrips your know.
 
 ### Acid Arrow
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby or far away creature
 
@@ -1021,7 +1021,7 @@ Daily
 
 ### Acid Splash
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1056,9 +1056,9 @@ You can now cast this spell without provoking opportunity attacks.
 
 ### Animate Armor
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -1105,9 +1105,9 @@ The armor golem now has golem immunities. It can’t be dazed, weakened, confuse
 
 ### Blur
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one nearby ally
 
@@ -1124,9 +1124,9 @@ Daily
 
 ### Charm Person
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 40 hp or fewer
 
@@ -1149,9 +1149,9 @@ _Special:_ On a miss, the spell is not detectible by most others unless you miss
 
 ### Chromatic Orb
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -1194,7 +1194,7 @@ You have advantage on the attack roll with this spell.
 
 ### Color Spray
 
-Close-quarters spell
+Close-quarters Spell
 
 Cyclic (cast once per battle OR at-will when the escalation die is even)
 
@@ -1227,7 +1227,7 @@ The spell now targets 1d4 + 1 nearby enemies in a group.
 
 ### Eldritch Incantation
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1256,7 +1256,7 @@ You can cast this spell as a close-quarters spell.
 
 ### Elemental Triad
 
-Ranged spell
+Ranged Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -1293,9 +1293,9 @@ On a miss, deal half damage instead.
 
 ### Enlarge Person
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -1315,7 +1315,7 @@ Transmutation
 
 ### Enlarge/Shrink Object
 
-Ranged spell
+Ranged Spell
 
 Move action to cast
 
@@ -1344,7 +1344,7 @@ Either way, the creature has to make a save (11+) or drop the affected item when
 
 ### Expeditious Retreat
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -1364,7 +1364,7 @@ Until the end of your next turn, you gain a bonus to all defenses equal to the e
 
 ### Firebolt
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1395,9 +1395,9 @@ If you expend the spell, you can recharge it on a 16+ after the battle.
 
 ### Fog Cloud
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Cloud
 
@@ -1423,7 +1423,7 @@ You can now target 1d4+2 enemies.
 
 ### Hostile Probe
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1456,7 +1456,7 @@ You can share the reveal with your allies, which gives the target disadvantage o
 
 ### Ice Knife
 
-Ranged spell
+Ranged Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -1487,9 +1487,9 @@ For the extra damage on even hit, increase the number of targets to 1d4 and the 
 
 ### Mage Armor
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1518,7 +1518,7 @@ If you cast this spell out of battle, it lasts for three battles.
 
 ### Magic Missile
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -1551,9 +1551,9 @@ The 7th and 9th level versions of the spell now use d8s as damage dice.
 
 ### Magic Weapon
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1584,9 +1584,9 @@ The wielder can hurl the weapon to make a ranged attack against a nearby enemy w
 
 ### Mirror Image
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -1615,9 +1615,9 @@ On a natural odd miss, the duplicate is no longer destroyed.
 
 ### Phantasmal Force
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -1651,7 +1651,7 @@ When you hit a mook with this spell, you affect the entire group.
 
 ### Phantom Lance
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1688,7 +1688,7 @@ You can attack far away enemies at a -2 penalty to the attack roll.
 
 ### Ray of Contortion
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1723,7 +1723,7 @@ Constructs and undead are vulnerable to this spell.
 
 ### Ray of Frost
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -1758,9 +1758,9 @@ When you cast the spell you can change the damage type to lightning or necrotic.
 
 ### Reduce Person
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -1778,7 +1778,7 @@ Transmutation
 
 ### Resist Magic
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -1802,9 +1802,9 @@ You can target an additional creature with the spell.
 
 ### Summon Mana Spirit
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -1843,7 +1843,7 @@ The mana spirit can use Magic Missile as an interrupt action after it is attacke
 
 ### Shield
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 
@@ -1874,7 +1874,7 @@ Hit or miss, you take only half damage from any attack you use shield against.
 
 ### Shocking Grasp
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1909,9 +1909,9 @@ The damage dice of the spell increase to d8s.
 
 ### Tasha's Hideous Laughter
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -1927,9 +1927,9 @@ Enchantment
 
 ### Threat Assessment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -1941,7 +1941,7 @@ Divination
 
 ### True Strike
 
-Close-quarters spell
+Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -1957,9 +1957,9 @@ Divination
 
 ### Break Enchantment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -1979,9 +1979,9 @@ You can target one specific effect, rather than all of them.
 
 ### Circle of Warding
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -1999,9 +1999,9 @@ At the start of each of your turns, roll 1d20. If the roll is equal to the escal
 
 ### Clay Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2034,9 +2034,9 @@ Your clay golem regenerates a number of hit points equal to its level at the sta
 
 ### Confusion
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 100 hp or fewer
 
@@ -2068,7 +2068,7 @@ The save against confused is now a difficult save (16+).
 
 ### Crescendo
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -2092,9 +2092,9 @@ _Special:_ You can choose more than one target for this spell, but you take a �
 
 ### Critical Scope
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2112,9 +2112,9 @@ Divination
 
 ### Elemental Absorption
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -2136,9 +2136,9 @@ You can choose to create two shields for two different elements; each absorbs ha
 
 ### Enchanted Conduit
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2166,9 +2166,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Explosive Runes
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -2194,7 +2194,7 @@ The runes have 1d4+1 charges, and they last for up to a month.
 
 ### Fire/Ice Shield
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -2224,9 +2224,9 @@ The spell is now Recharge 11+.
 
 ### Flame Arrow
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Enchantment / Conjuration
 
@@ -2268,9 +2268,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Flaming Sphere
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2302,9 +2302,9 @@ You can attack recklessly with this spell. Attack 1d3 enemies with one quick act
 
 ### Force Salvo
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Targets: One or more nearby or far away enemies (see below)
 
@@ -2336,9 +2336,9 @@ Increase the number of bolts by 1.
 
 ### Foresee Peril
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -2350,9 +2350,9 @@ Divination
 
 ### Harden Metal
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2366,9 +2366,9 @@ Transmutation
 
 ### Luck
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2391,9 +2391,9 @@ When you cast the spell, roll 1d6. If the result is equal to the escalation die 
 
 ### Hold Monster
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 60 hp or fewer
 
@@ -2425,9 +2425,9 @@ Increase the limit by +50 hp.
 
 ### Lightning Bolt
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Targets:** 1d3 + 1 nearby enemies in a group or in a (rough) line
 
@@ -2455,9 +2455,9 @@ A natural even hit now deals 20 ongoing lightning damage (hard save ends, 16+).
 
 ### Painful Memory
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -2485,9 +2485,9 @@ Stun the target on a natural 16+.
 
 ### Phantom Soldiers
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -2511,9 +2511,9 @@ Illusion
 
 ### Protection from Arrows
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -2537,9 +2537,9 @@ You can target yourself and 1d3 nearby allies with this spell.
 
 ### Reanimate Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2553,7 +2553,7 @@ _Special:_ When you cast this spell during a quick rest, you can expend a recove
 
 ### Rebuke
 
-Ranged spell
+Ranged Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -2585,15 +2585,15 @@ When you roll a natural even miss against the target, you daze it until the end 
 
 ### Shadow Evocation
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
 **Effect:** Choose a spell of the Evocation school of the same level as this spell or lower. You cast that spell, with the following changes:
 
-- It’s a daily spell.
+- It’s a full recovery spell.
 - The spell targets the enemy’s MD.
 - All damage dice are reduced by one step (d6 to d4 and so on).
 - All damage is psychic damage.
@@ -2602,9 +2602,9 @@ Illusion
 
 ### Sleep
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** Before making the attack, roll 3d20 + 45 to determine the maximum number of hit points of enemies you can target with the spell. The spell can affect multiple enemies. You must target nearby enemies with the current lowest hit points first, and you don't get to choose the exact targets (except in the case of ties). If adding a creature would exceed the spell's hit point maximum, that enemy can't be a target.
 
@@ -2624,9 +2624,9 @@ Daily
 
 ### Slow
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -2662,9 +2662,9 @@ The target is also weakened.
 
 ### Snowball Swarm
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ When you cast this spell, you can choose to cast it recklessly.
 
@@ -2702,9 +2702,9 @@ Affected targets must make a normal save (11+) or be helpless until the start of
 
 ### Stinking Cloud
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Cloud
 
@@ -2734,7 +2734,7 @@ A target that suffers the hit effect a second time is now weakened instead. A ta
 
 ### Suggestion
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+
 
@@ -2752,9 +2752,9 @@ Enchantment
 
 ### Teleport Shield
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Always: For the rest of the battle, once per round when an enemy moves to engage you, you can make the following attack against it as a free action before it has the chance to attack in melee.
 
@@ -2780,9 +2780,9 @@ You can now teleport the enemy somewhere far away that you can see; other restri
 
 ### Web
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2822,9 +2822,9 @@ The web is now populated by spiders that deal 10 poison damage to any enemy caug
 
 ### Acid Rain
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies in a group
 
@@ -2851,9 +2851,9 @@ Increase the number of targets to 1d4 + 1 instead of 1d4.
 
 ### Acid Trap
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2880,9 +2880,9 @@ The trap resets to trigger a second time after 1d4 turns.
 
 ### Baleful Polymorph
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -2911,9 +2911,9 @@ You can target three instead of two creatures with the lower hit point total.
 
 ### Bigby's Hand
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -2942,9 +2942,9 @@ Attacks by the hand deal +1d8 damage; +2d8 at 8th level.
 
 ### Cone of Cold
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -2973,9 +2973,9 @@ The spell is now Recharge 16+ after battle.
 
 ### Contingency
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -2997,9 +2997,9 @@ You can now set a target other than you for the contingency, such as “the enem
 
 ### Crushing Despair
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -3015,9 +3015,9 @@ Enchantment
 
 ### Denial
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies in a group
 
@@ -3044,11 +3044,11 @@ Increase the number of targets to 1d4 + 1.
 
 ### Dimension Door
 
-Close-quarters spell
+Close-quarters Spell
 
 Move action to cast
 
-Daily
+Full Recovery
 
 **Target:** You
 
@@ -3063,9 +3063,9 @@ Daily
 
 ### Enlarge/Shrink Creature
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1 nearby ally or enemy
 
@@ -3090,9 +3090,9 @@ When the spell wears off, any hit points gained from being enlarged are lost, al
 
 ### Fantastic Beast
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -3132,9 +3132,9 @@ Choose three abilities instead.
 
 ### Fireball
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ When you cast this spell, you can choose to cast it recklessly.
 
@@ -3165,9 +3165,9 @@ Increase the number of targets to 1d3 + 1 instead of 1d3.
 
 ### Heroism
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -3179,9 +3179,9 @@ Enchantment
 
 ### Hypnotic Pattern
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -3206,9 +3206,9 @@ Enemies who successfully save against this spell are still dazed until the end o
 
 ### Incendiary Cloud
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Cloud
 
@@ -3237,9 +3237,9 @@ The check to sustain the cloud is now an easy save (6+).
 
 ### Invisibility
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one nearby ally
 
@@ -3256,9 +3256,9 @@ High Arcana: The duration out of combat is 1 hour instead.
 
 ### Phantasmal Killer
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -3289,9 +3289,9 @@ The target adds the escalation die to its attack roll.
 
 ### Precognitive Ward
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -3307,9 +3307,9 @@ Add the escalation die to the d20 roll.
 
 ### Protection from Normal Weapons
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -3329,9 +3329,9 @@ You can target yourself and 1d3 nearby allies with this spell.
 
 ### Rock Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -3369,7 +3369,7 @@ The stone golem cannot be intercepted by creatures that aren’t large or bigger
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -3391,9 +3391,9 @@ The enclosed creature can push against the sphere’s walls and roll around with
 
 ### Sanctum
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -3405,9 +3405,9 @@ Wizards often use a ritual of this spell to protect their studies and towers aga
 
 ### Telepathic Bond
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -3423,9 +3423,9 @@ If two targets of the spell are engaged with the same enemy, they gain a +2 bonu
 
 ### Tenser's Transformation
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -3443,9 +3443,9 @@ You can cast spells while transformed, but at a -2 penalty to the attack roll.
 
 ### Titan's Fist
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One or more enemies engaged with you (but see below)
 
@@ -3476,9 +3476,9 @@ Choose one target you hit with this spell. The titan’s fist flings them to a f
 
 ### Anti-Magic Shell
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -3496,9 +3496,9 @@ You can target enemies with the spell. To attach the zone to an unwilling target
 
 ### Arcane Sword
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -3524,9 +3524,9 @@ You can take a few minutes before a battle to prepare the spell, which allows yo
 
 ### Blink
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one nearby ally
 
@@ -3542,9 +3542,9 @@ Whenever the target uses a move action, there is a 50% chance that it can telepo
 
 ### Cloudkill
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Cloud
 
@@ -3572,9 +3572,9 @@ You can now target far away enemies.
 
 ### Delayed Fireblast
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -3598,7 +3598,7 @@ _Reckless miss:_ Allies engaged with the target take one quarter of the damage.
 
 ### Elemental Parry
 
-Close-quarters spell
+Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -3622,9 +3622,9 @@ Increase the extra damage to 1d4 per spell level.
 
 ### Flashback
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3638,9 +3638,9 @@ Divination
 
 ### Flesh to Stone
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -3660,9 +3660,9 @@ Transmutation
 
 ### Flight
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one nearby ally
 
@@ -3676,9 +3676,9 @@ Daily
 
 ### Gem Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -3707,9 +3707,9 @@ _Special:_ You can only cast this spell outside of battle; it requires 2d4 minut
 
 ### Haste
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or one nearby ally
 
@@ -3725,9 +3725,9 @@ In addition, at the start of each of the target's turns this battle, if the esca
 
 ### Invisibility Purge
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Targets: Any nearby enemies who are invisible, whether you know they are there or not
 
@@ -3745,9 +3745,9 @@ Targets: Any nearby enemies who are invisible, whether you know they are there o
 
 ### Mind Blank
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -3767,9 +3767,9 @@ You can target yourself and 1d3 allies with the spell.
 
 ### Mislead
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -3781,9 +3781,9 @@ Illusion
 
 ### Opaque Freezing Sphere
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -3815,9 +3815,9 @@ On a natural 16+ attack roll, the primary target is weakened until the end of yo
 
 ### Otto's Irresistible Dance
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -3841,7 +3841,7 @@ On a miss, the next attack against the target has advantage.
 
 ### Overcome Resistance
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -3857,9 +3857,9 @@ Recharge 16+ after battle
 
 ### Power Word Stun
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -3883,9 +3883,9 @@ If the target has 300 hp or fewer, the save is a hard save (16+).
 
 ### Reverse Gravity
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ When you cast this spell, you can choose to cast it recklessly.
 
@@ -3907,9 +3907,9 @@ _Reckless miss:_ Your allies engaged with the target take one-fourth damage.
 
 ### Simulacrum
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -3930,9 +3930,9 @@ Illusion
 
 ### Slow
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -3952,9 +3952,9 @@ In addition, at the start of each of the target’s turns this battle, if the es
 
 ### Symbol
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -4012,7 +4012,7 @@ The effect skips nearby enemies with more hit points than the hp threshold if el
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You and several allies (the adventuring party, more or less) next to you can travel backwards in time. Your control over this temporal shift is limited—you pick your destination age, and then fight a number of battles equal to the number of ages travelled. Your opponents in these battles may be Eternals. You may take a quick rest between fights, but if you take a full heal-up or a campaign loss when fighting your way back in time, you’ll arrive in an unfamiliar place and time in your destination age. If you endure, you get to pick roughly when and where you’ll arrive.
 
@@ -4030,9 +4030,9 @@ You can only travel back to a specific age once per level. Trying to repeat the 
 
 ### Transfer Enchantment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You or an ally you are next to must be suffering from a condition caused by an enemy for you to cast this spell.
 
@@ -4052,9 +4052,9 @@ _Special:_ You or an ally you are next to must be suffering from a condition cau
 
 ### Wall of Force
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -4072,9 +4072,9 @@ When damage is dealt directly to the wall, divide the damage of that attack by 1
 
 ### Disintegrate
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -4094,9 +4094,9 @@ You can now target a far away creature with the spell.
 
 ### Dominate Monster
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -4114,9 +4114,9 @@ You can target a group of mooks as a single target.
 
 ### Feeblemind
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -4136,9 +4136,9 @@ The target can only save against the spell effect when the escalation die is eve
 
 ### Foresight
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Divination
 
@@ -4150,9 +4150,9 @@ Divination
 
 ### Imprisonment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -4168,9 +4168,9 @@ Abjuration
 
 ### Magma Golem
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -4194,9 +4194,9 @@ When the magma golem engages an enemy, it deals 25 fire damage to them.
 
 ### Maze
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Conjuration
 
@@ -4216,9 +4216,9 @@ Enemies now need four successes to escape the maze (three if their MD is higher 
 
 ### Meteor Swarm
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You summon a meteor swarm. If you're underground, you get the ur-dark stalactite equivalent! Nothing more happens this round, but roll 1d3 + 1 to determine how many meteors you have summoned.
 
@@ -4242,9 +4242,9 @@ Each meteor now deals 5d4 x 10 damage.
 
 ### Power Word Kill
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Enchantment
 
@@ -4264,9 +4264,9 @@ On a natural 5 or less on the save, increase the ongoing damage by 100.
 
 ### Prismatic Barriers
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You
 
@@ -4290,9 +4290,9 @@ You can expand the barriers to hold 1d2 allies who can enter and exit them just 
 
 ### Prismatic Spray
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Evocation
 
@@ -4319,9 +4319,9 @@ Evocation
 
 ### Suppress Magic
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Abjuration
 
@@ -4331,9 +4331,9 @@ Abjuration
 
 ### Teleport
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You and up to 4 allies next to you can teleport to any location in the world, underworld, or overworld that you have previously visited.
 
@@ -4349,9 +4349,9 @@ Your allies don't need to be next to you before you cast the spell, just nearby.
 
 ### Time Stop
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Transmutation
 
@@ -4363,9 +4363,9 @@ Transmutation
 
 ### Twisted Nightmare
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Illusion
 
@@ -4385,9 +4385,9 @@ If you hit the target with this spell, you gain a +2 bonus to attacks against it
 
 ### Wish
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Conjuration
 

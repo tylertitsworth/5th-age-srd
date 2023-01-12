@@ -551,7 +551,7 @@ Your ability to spot fake identities has evolved to a supernatural level. You ha
 
 ### Shadow Adept
 
-Once per battle or scene, you can use an expended power with the Shadow keyword a second time. If you choose a daily Shadow power, you cannot use this talent again until the next full heal-up.
+Once per battle or scene, you can use an expended power with the Shadow keyword a second time. If you choose a full recovery Shadow power, you cannot use this talent again until the next full heal-up.
 
 #### Adventurer Feat
 
@@ -729,7 +729,7 @@ The target is now weakened instead.
 
 ### Clothesline
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -949,7 +949,7 @@ You can use _flying blade_ with any ranged weapon.
 
 ### Grave Under Pressure
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -999,7 +999,7 @@ You can use this power as a ranged attack.
 
 ### Roll With It
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1027,11 +1027,11 @@ Once per day, you can use roll with it to take damage equal to the attacker's le
 
 ### Shadow Glove
 
-Close-quarters power
+Close-quarters Power
 
 Quick action
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1047,7 +1047,7 @@ You can attack with the hand as a quick action once per battle.
 
 ### Shadow Poison
 
-Close-quarters power
+Close-quarters Power
 
 Free action
 
@@ -1080,9 +1080,9 @@ Add another 2d10 damage.
 
 ### Shadow Stalker
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1096,7 +1096,7 @@ You can hear what the shadow hears, and you can close your eyes to see what it s
 
 ### Stay Sharp
 
-Momentum power
+Momentum Power
 
 At-will (once per round)
 
@@ -1116,9 +1116,9 @@ Add your Charisma modifier to the save roll.
 
 ### Stifled Sounds
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1244,7 +1244,7 @@ If you spend a quick action to survey the target before using this power, increa
 
 ### Black Veil
 
-Momentum power
+Momentum Power
 
 Once per battle
 
@@ -1298,7 +1298,7 @@ You can now use _bleeding strike_ against enemies taking ongoing damage.
 
 ### Cheeky Distraction
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -1342,7 +1342,7 @@ This power ignores any penalty to attack you may have, such as from the dazed co
 
 ### Deflection
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1488,9 +1488,9 @@ You can make ranged attacks with this power, though misses simply leave the obje
 
 ### Mask of the Masses
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1546,7 +1546,7 @@ Miss (Second Target): Damage equal to your level.
 
 ### Star Mantle
 
-Close-quarters power
+Close-quarters Power
 
 Once per battle
 
@@ -1610,9 +1610,9 @@ You can throw three blades, drawing the third one as part of the attack action.
 
 ### Bullseye
 
-Melee OR ranged attack
+Melee OR Ranged Attack
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1730,7 +1730,7 @@ Adventurer Feat Gain a +4 bonus to your critical threat range against mooks with
 
 ### Guileful Twist
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1770,7 +1770,7 @@ If your natural attack was even, your enemy is also in excruciating pain, suffer
 
 ### Harmless Misdirection
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1786,7 +1786,7 @@ requires momentum
 
 ### Hip Shot
 
-Momentum power
+Momentum Power
 
 Ranged attack
 
@@ -1814,7 +1814,7 @@ You can deal Sneak Attack damage with this power, even if the target is not enga
 
 _Special:_ You must be fighting with two weapons and wielding one-handed weapon in your off-hand.
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1826,7 +1826,7 @@ _Special:_ You must be using a hand crossbow or other small ranged weapon.
 
 #### Champion Feat
 
-Knife drop is now usable once per combat rather than daily.
+Knife drop is now usable once per combat rather than full recovery.
 
 #### Epic Feat
 
@@ -1836,11 +1836,11 @@ The target enemy also suffers ongoing damage equal to double the escalation die 
 
 ### Really Sneaky Attack
 
-Momentum power
+Momentum Power
 
 Melee attack
 
-Daily
+Full Recovery
 
 Interrupt action
 
@@ -1862,9 +1862,9 @@ This power is now Recharge 11+.
 
 ### Shadow Trap
 
-Ranged power
+Ranged Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1895,7 +1895,7 @@ The save against the effect is a hard save (16+).
 
 ### Spiky Bastard
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1913,7 +1913,7 @@ If the escalation die is 3+, the damage increases to 15 instead of 10.
 
 ### Swift Dodge
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1937,9 +1937,9 @@ The attack reroll takes a –2 penalty.
 
 ### Thoughtsteal
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1981,7 +1981,7 @@ Once a turn, you can get the extra standard action when this attack drops a mook
 
 Ranged attack
 
-Daily
+Full Recovery
 
 **Target:** A group of mooks
 
@@ -1999,7 +1999,7 @@ Kill 2d4 mooks.
 
 ### Backhand Spin
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -2019,7 +2019,7 @@ If the reroll is also a miss, you gain a +4 bonus to AC until the end of your ne
 
 ### Be Prepared
 
-Daily
+Full Recovery
 
 Move action
 
@@ -2039,7 +2039,7 @@ If the enemy misses you with its next attack, you can make a basic attack (melee
 
 ### Meat Shield
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -2061,7 +2061,7 @@ If your skill roll is a natural 16+, you deal Sneak Attack damage to the new tar
 
 Melee attack
 
-Daily
+Full Recovery
 
 **Target:** One enemy
 
@@ -2083,11 +2083,11 @@ If your affected ally scores a crit on the targeted enemy before this power’s 
 
 ### Perfect Execution
 
-Momentum power
+Momentum Power
 
 Melee attack
 
-Daily
+Full Recovery
 
 requires momentum
 
@@ -2133,7 +2133,7 @@ The hamper or daze condition lasts until the enemy succeeds at a save (11+).
 
 ### Shadow Fusion
 
-Close-quarters power
+Close-quarters Power
 
 Once per battle
 
@@ -2153,9 +2153,9 @@ Reduce the damage you take from attacks against the target by twice your Charism
 
 ### Shadow Rift
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2171,9 +2171,9 @@ Enemy attacks that target your PD target your AC instead.
 
 ### Shadow Twin
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2189,7 +2189,7 @@ When an enemy makes an attack against you, you can spend your momentum (before y
 
 ### Smoke Bomb
 
-Quick action; Daily
+Quick action; Full Recovery
 
 Target: You
 
@@ -2197,7 +2197,7 @@ Special: This power relies on some esoteric alchemical knowledge you’ve picked
 
 Effect: Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
 
-Champion Feat Smoke bomb is no longer daily; it’s recharge 16+ after battle.
+Champion Feat Smoke bomb is no longer full recovery; it’s recharge 16+ after battle.
 
 Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
 
@@ -2205,7 +2205,7 @@ Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit 
 
 ### Swift Riposte
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -2253,7 +2253,7 @@ Deal triple damage on a critical hit.
 
 ### Death's Twin
 
-Momentum power
+Momentum Power
 
 At-Will
 
@@ -2293,7 +2293,7 @@ Once you’ve popped them free, the affected ally can move as an interrupt actio
 
 Melee attack
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -2315,7 +2315,7 @@ You can use your Sneak Attack against any target that is staggered.
 
 Melee attack
 
-Daily
+Full Recovery
 
 **Target:** One enemy
 
@@ -2355,9 +2355,9 @@ Double the damage bonus from the escalation die.
 
 ### Shadow Garrotte
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Free Action
 
@@ -2377,7 +2377,7 @@ Shadow
 
 ### True Targeting
 
-Momentum power
+Momentum Power
 
 At-Will
 

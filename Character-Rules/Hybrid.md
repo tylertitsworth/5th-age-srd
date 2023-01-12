@@ -291,7 +291,7 @@ Two battles per day, avoid all attack penalties for wearing heavy armor from a c
 
 ## Psion Hybrid
 
-You lag one level behind in the three central columns of the Psion Level Progression table: daily spells, once-per-battle spells, and spell level.
+You lag one level behind in the three central columns of the Psion Level Progression table: full recovery spells, once-per-battle spells, and spell level.
 
 Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. One your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
 

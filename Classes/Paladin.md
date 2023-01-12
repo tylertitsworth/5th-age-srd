@@ -464,7 +464,7 @@ Gain a flexible attack from the [Warrior Druid list](./Druid.md#circle-of-war-ta
 
 #### Adventurer Feat
 
-Choose one terrain from the druid’s Terrain Caster talent, and gain a daily spell of your level or lower from its list. You can switch Wisdom for Charisma in the spell’s description. You don’t need to be in the terrain to cast it.
+Choose one terrain from the druid’s Terrain Caster talent, and gain a full recovery spell of your level or lower from its list. You can switch Wisdom for Charisma in the spell’s description. You don’t need to be in the terrain to cast it.
 
 #### Champion Feat
 
@@ -472,7 +472,7 @@ You can cast the Wild Heal spell from the Wild Healer talent twice per day.
 
 #### Epic Feat
 
-Choose either a second flexible attack, a second daily spell from the same terrain, OR a third daily use of Wild Heal.
+Choose either a second flexible attack, a second full recovery spell from the same terrain, OR a third full recovery use of Wild Heal.
 
 #### Nature’s Smite
 
@@ -524,7 +524,7 @@ As a quick action, you may expend a use of Smite Evil to bless an ally’s attac
 
 #### Decree of Anathema
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 

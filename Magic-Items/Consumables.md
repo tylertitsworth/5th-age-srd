@@ -174,7 +174,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | --- | --- |
 | 01–20 | +1 additional attack bonus if spell has only one target |
 | 21–40 | Implement gains an energy damage type such as fire, necrotic, etc., and deals +1d4 damage (champion: +2d6; epic: +5d6) |
-| 41–60 | +1 additional attack bonus with daily spells |
+| 41–60 | +1 additional attack bonus with full recovery spells |
 | 61–80 | +1 additional attack bonus if spell has more than one target |
 | 81–100 | Reroll one missed attack roll with implement |
 
@@ -324,7 +324,7 @@ You know how it is—a trader buys a load of potions and gets an oddball thrown 
 | 6 | Roll your next d20 roll twice and use either result. |
 | 7 | Heal using a free recovery. |
 | 8 | Recharge an expended recharge power or magic item power, or regain an expended racial power. |
-| 9 | Regain an expended per battle or daily power (or two recoveries if you have no daily spell or power to regain). |
+| 9 | Regain an expended per battle or full recovery power (or two recoveries if you have no full recovery spell or power to regain). |
 | 10 | Roll again twice and keep either or both results. |
 
 **Cost:** 50 gp, champion: 100 gp; epic: 200 gp.

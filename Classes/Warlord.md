@@ -641,7 +641,7 @@ Interrupt action
 
 **Cost:** 1 command point
 
-**Target:** One nearby ally who made a melee attack
+**Target:** One nearby ally who made a Melee Attack
 
 **Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at 5th level and trice at 8th, to a different enemy they are also engaged with.
 
@@ -1040,7 +1040,7 @@ Interrupt action
 
 **Cost:** 2 command points
 
-**Target:** One nearby ally who hit with a melee attack
+**Target:** One nearby ally who hit with a Melee Attack
 
 **Effect:** The ally also deals 5, 10 at 5th level, and 20 at 8th level, ongoing damage.
 

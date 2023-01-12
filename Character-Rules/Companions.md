@@ -207,11 +207,11 @@ Animal companion feats are designed so that they do not build on each other. Unl
 
 ## Animal Companion Spells
 
-As an Animal Companion adept, you gain a number of spells to help your animal companion—or another's—fight better. You don't have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of daily spells you get. Once you cast a particular daily spell, no matter its level, you can't cast it again until you take your next full heal-up.
+As an Animal Companion adept, you gain a number of spells to help your animal companion—or another's—fight better. You don't have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of full recovery spells you get. Once you cast a particular full recovery spell, no matter its level, you can't cast it again until you take your next full heal-up.
 
 Animal Companion spells are not available to Animal Companion initiates.
 
-| **Level** | **Hybrid Level** | **Daily Spells** | **Spells are Cast At** |
+| **Level** | **Hybrid Level** | **Full Recovery Spells** | **Spells are Cast At** |
 | --- | --- | --- | --- |
 | 1 | 1, 2 | 1 | 1st level |
 | 2 | 3 | 2 | 1st level |
@@ -230,7 +230,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 **Target:** One animal companion you touch
 
@@ -248,7 +248,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -267,7 +267,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -290,7 +290,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -308,7 +308,7 @@ Daily
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -331,7 +331,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 _Special:_ You must spend a recovery to cast this spell.
 
@@ -350,7 +350,7 @@ _Special:_ You must spend a recovery to cast this spell.
 
 Ranged spell
 
-Daily
+Full Recovery
 
 Interrupt action
 
@@ -368,7 +368,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -384,7 +384,7 @@ Daily
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -398,7 +398,7 @@ Quick action
 
 Ranged spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -414,7 +414,7 @@ Ranged spell
 
 Free action to cast
 
-Daily
+Full Recovery
 
 **Special Trigger:** You drop to 0 hp or below while your animal companion is nearby and still above 0 hp.
 
