@@ -946,7 +946,7 @@ Full Recovery
 | 5 | The attack hits the attacker. |
 | 6 | The attacker is vulnerable to your attacks until the end of the battle. |
 | 7 | The attacker takes psychic damage equal to your level. |
-| 8 | The attacker takes 5 (5th level: 10; 8th level: 20) ongoing fire damage. |
+| 8 | The attacker takes 5, 10 at champion tier, and 20 at epic tier. ongoing fire damage. |
 | 9 | The attacker is weakened until the end of their next turn. |
 | 10 | A nearby enemy is dazed (distracted by a swarm of butterflies) until the end of its next turn. |
 | 11 | You are dazed until the end of your next turn. |

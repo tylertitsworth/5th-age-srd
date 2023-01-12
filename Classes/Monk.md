@@ -1272,7 +1272,7 @@ Melee attack
 
 **Hit:** JAB + Strength + 1d6 per level damage
 
-**Miss:** 1d6 damage (5th level: 2d6; 8th level: 3d6)
+**Miss:** 1d6 damage, 2d6 at champion tier, and 3d6 at epic tier.
 
 ---
 
@@ -1286,7 +1286,7 @@ Melee attack
 
 **Hit:** PUNCH + Strength damage
 
-**Miss:** 1d6 damage (5th level: 2d6; 8th level: 3d6)
+**Miss:** 1d6 damage, 2d6 at champion tier, and 3d6 at epic tier.
 
 ---
 
@@ -1298,7 +1298,7 @@ Melee attack
 
 **Hit:** KICK + Strength damage
 
-**Miss:** 1d6 damage (5th level: 2d6; 8th level: 3d6)
+**Miss:** 1d6 damage, 2d6 at champion tier, and 3d6 at epic tier.
 
 **Always:** Make two follow-up attacks against the same target.
 
@@ -1352,7 +1352,7 @@ Melee attack
 
 **Hit:** The target can choose to either take no damage, pop free and retreat to a far away location, OR take double KICK + Strength damage.
 
-**Miss:** 1d8 damage (5th level: 2d8; 8th level: 3d8)
+**Miss:** 1d8 damage, 2d8 at champion tier, and 3d8 at epic tier.
 
 ---
 
