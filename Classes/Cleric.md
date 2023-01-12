@@ -292,7 +292,7 @@ Every attack you make deals radiant damage instead of other types of damage unle
 
 #### Adventurer Feat
 
-If your attack already deals radiant damage, it gains the following bonus damage—adventurer tier: +1 damage; champion tier: +2 damage; epic tier: +3 damage.
+If your attack already deals radiant damage, it gains the following bonus damage—adventurer tier: +1 damage, +2 damage at champion tier, and +3 damage at epic tier.
 
 #### Champion Feat
 

@@ -59,7 +59,7 @@ You deal +1d6 damage on a hit. Any allies who make ranged attacks at the same ta
 
 #### Briarfoot
 
-A thicket of thorny bushes grows around the target of this ammunition, or around the area where the ammunition strikes. Hit or miss, the target and each creature engaged with it, or next to it, takes 3 damage from the thorns the next time those creatures move (including popping free) without teleporting (champion: 6 damage; epic: 9 damage).
+A thicket of thorny bushes grows around the target of this ammunition, or around the area where the ammunition strikes. Hit or miss, the target and each creature engaged with it, or next to it, takes 3 damage from the thorns the next time those creatures move (including popping free) without teleporting, 6 damage at champion tier, and 9 damage at epic tier.
 
 ---
 
@@ -107,13 +107,13 @@ This ammunition has been enchanted with one of the following types of energy: ac
 
 #### Explosive
 
-Hit or miss, this projectile does 1d6 damage to any one other foe near to the original target (champion: 2d6 to two other enemies; epic: 3d6 to three other enemies).
+Hit or miss, this projectile does 1d6 damage to any one other foe near to the original target, 2d6 to two other enemies at champion tier, and 3d6 to three other enemies at epic tier.
 
 ---
 
 #### Flintfire Bolt
 
-When you attack using this bolt and the natural roll is equal to or less than the escalation die, the target takes ongoing fire damage equal to twice the attack roll (champion: triple the roll; epic: five times the roll).
+When you attack using this bolt and the natural roll is equal to or less than the escalation die, the target takes ongoing fire damage equal to twice the attack roll, triple the roll at champion tier, and five times the roll at epic tier.
 
 ---
 
@@ -143,7 +143,7 @@ If you miss with this arrow, you become invisible until the end of your next tur
 
 #### Judgment
 
-When you hit an enemy with this ammunition, you receive a brief moment of insight into the foe. You might see something they’ve done recently, or learn why they’re in this battle, or glimpse something of their plans. You may then choose to either add another +1d6 radiant damage onto the attack (champion: +2d6; epic: +4d6) or deal your miss damage instead of your hit damage.
+When you hit an enemy with this ammunition, you receive a brief moment of insight into the foe. You might see something they’ve done recently, or learn why they’re in this battle, or glimpse something of their plans. You may then choose to either add another +1d6 radiant damage onto the attack, +2d6 at champion tier, and +4d6 at epic tier or deal your miss damage instead of your hit damage.
 
 ---
 
@@ -155,7 +155,7 @@ When you make an attack with this ammunition, the crit range of that attack expa
 
 #### Lethal Strike
 
-You deal +1d10 damage on a hit (champion: +2d10; epic: +4d10).
+You deal +1d10 damage on a hit, +2d10 at champion tier, and +4d10 at epic tier.
 
 ---
 
@@ -239,13 +239,13 @@ This magical arrow burrows through even the thickest scales and toughest muscles
 
 #### Seeking
 
-You deal +4 damage on a miss (champion: +10; epic: +25).
+You deal +4 damage on a miss, +10 at champion tier, and +25 at epic tier.
 
 ---
 
 #### Shifting
 
-In addition to its usual damage, this arrow inflicts 1d6 fire, lightning or acid damage, chosen when fired (champion: +2d6 damage; epic: +3d6 damage).
+In addition to its usual damage, this arrow inflicts 1d6 fire, lightning or acid damage, chosen when fired, +2d6 damage at champion tier, and +3d6 damage at epic tier.
 
 ---
 
@@ -289,7 +289,7 @@ Once per battle, if you’ve got elven grace, and you get an extra standard acti
 
 #### Twin
 
-When you attack with twin ammunition, a second projectile materializes out of the first and targets the same or a different enemy. Make a free action basic ranged attack for it with a +8 attack bonus instead of your normal bonus (champion: +12; epic: +16).
+When you attack with twin ammunition, a second projectile materializes out of the first and targets the same or a different enemy. Make a free action basic ranged attack for it with a +8 attack bonus instead of your normal bonus, +12 at champion tier, and +16 at epic tier.
 
 ---
 
@@ -405,7 +405,7 @@ Heavy Armor
 
 Quick Action
 
-_Recharge 11+:_ You may activate blazing beacon armor when you hit an enemy with a melee attack. While active, the armor’s bonus to AC increases by 1. It increases again by +1 if you hit again, to a maximum of +2 (champion: +3; epic: +5). However, if you miss or are hit by an attack, the armor deactivates and the added bonus is lost. When active, the armor glows with a burning holy light whose brightness is proportional to the bonus to AC, making you the most obvious target on the battlefield.
+_Recharge 11+:_ You may activate blazing beacon armor when you hit an enemy with a melee attack. While active, the armor’s bonus to AC increases by 1. It increases again by +1 if you hit again, to a maximum of +2, +3 at champion tier, and +5 at epic tier. However, if you miss or are hit by an attack, the armor deactivates and the added bonus is lost. When active, the armor glows with a burning holy light whose brightness is proportional to the bonus to AC, making you the most obvious target on the battlefield.
 
 **Quirk:** Foolhardy.
 
@@ -593,7 +593,7 @@ As if the antennae on the helmet didn’t give it away, this armor was made by (
 
 Light Armor
 
-Add the armor’s magic bonus to the total hit points restored when you receive healing from any source (champion: bonus x2; epic: bonus x4).
+Add the armor’s magic bonus to the total hit points restored when you receive healing from any source, bonus x2 at champion tier, and bonus x4 at epic tier.
 
 **Quirk:** Wild and raucous.
 
@@ -721,7 +721,7 @@ This armor magically changes its coloration and blends with the vegetation. Whil
 
 #### Mage’s Leather
 
-_Recharge 16+:_ This armor isn’t made from a wizard’s hide, but can save a magician’s skin sometimes. When you cast a full recovery spell, teleport somewhere nearby you can see (champion: recharge 11+; epic: recharge 6+).
+_Recharge 16+:_ This armor isn’t made from a wizard’s hide, but can save a magician’s skin sometimes. When you cast a full recovery spell, teleport somewhere nearby you can see, recharge 11+ at champion tier, and recharge 6+ at epic tier.
 
 **Quirk:** Twitchy.
 
@@ -889,7 +889,7 @@ This ‘armor’ consists of magical brands and scars that strengthen your flesh
 
 Heavy Armor
 
-It’s harder for you to be teleported if you don’t want to be moved. If an enemy’s spell or power teleports you in battle, you may defer being moved for one round (champion: a number of rounds equal to the escalation die, +1; epic: you’re not going anywhere). The teleport effect kicks in at the end of your turn when the deferment runs out.
+It’s harder for you to be teleported if you don’t want to be moved. If an enemy’s spell or power teleports you in battle, you may defer being moved for one round, a number of rounds equal to the escalation die, +1 at champion tier, and you’re not going anywhere at epic tier. The teleport effect kicks in at the end of your turn when the deferment runs out.
 
 **Quirk:** Seizes on a trivial point and won’t let go.
 
@@ -961,7 +961,7 @@ _Recharge 16+:_ When an enemy crits you in melee, you may immediately take an op
 
 Heavy Armor
 
-Raise your critical hit threshold by 1 (champion: by 2; epic: by 3). Your critical hit threshold can’t go above 20, but this armor ameliorates the effects of vulnerability and other conditions that make you more likely to suffer critical hits.
+Raise your critical hit threshold by 1, by 2 at champion tier, and by 3 at epic tier. Your critical hit threshold can’t go above 20, but this armor ameliorates the effects of vulnerability and other conditions that make you more likely to suffer critical hits.
 
 **Quirk:** Praises the craftsmanship and superiority of dwarven goods at every opportunity.
 
@@ -1447,7 +1447,7 @@ When wearing this girdle, people keep mistaking you for somebody else. Usually, 
 
 #### Girdle of Gigantic Strength
 
-This wide belt is decorated with runes worn smooth by time. You gain a +2 bonus to Strength skill checks (champion: +4; epic: +6).
+This wide belt is decorated with runes worn smooth by time. You gain a +2 bonus to Strength skill checks, +4 at champion tier, and +6 at epic tier.
 
 **Quirk:** Needlessly loud.
 
@@ -1465,7 +1465,7 @@ Refuse, and at the worst possible moment, the belt will take back the health it�
 
 #### Girdle of Resurgent Justice
 
-_Recharge 11+:_ When you rally, one nearby ally heals hit points equal to twice the number of recoveries you have left (champion: two nearby allies; epic: three nearby allies).
+_Recharge 11+:_ When you rally, one nearby ally heals hit points equal to twice the number of recoveries you have left, two nearby allies at champion tier, and three nearby allies at epic tier.
 
 **Quirk:** Over-indulges.
 
@@ -1505,7 +1505,7 @@ _Recharge 11+:_ Until the end of your next turn, the first 5 points of necrotic 
 
 #### Glorious Rally
 
-When you rally, you gain 4 temporary hit points that last until the end of your next turn (champion: 10 temp hp; epic: 25 temp hp).
+When you rally, you gain 4 temporary hit points that last until the end of your next turn, 10 temp hp at champion tier, and 25 temp hp at epic tier.
 
 ---
 
@@ -1527,7 +1527,7 @@ _Recharge 11+:_ You can use a recovery to prevent all damage from an attack (inc
 
 #### Hungry Scabbard
 
-A weapon drawn from this swordbelt inflicts an extra 1d8 damage with your first hit each battle (champion: +2d8; epic: +4d8). However, if you don’t kill something that bleeds in the fight, the weapon still demands its thirst be sated; lose a recovery after the fight if you fail to slay a creature, or if you’re fighting things that don’t have blood.
+A weapon drawn from this swordbelt inflicts an extra 1d8 damage with your first hit each battle, +2d8 at champion tier, and +4d8 at epic tier. However, if you don’t kill something that bleeds in the fight, the weapon still demands its thirst be sated; lose a recovery after the fight if you fail to slay a creature, or if you’re fighting things that don’t have blood.
 
 **Quirk:** Unwholesome taste for red meat.
 
@@ -1767,7 +1767,7 @@ This book is a record of (so far) unpunished injustices. When you read this book
 
 #### Book of Light
 
-Reading this book gives you a connection to higher powers. When you heal using a recovery, you shine with an inner light and either heal extra hit points equal to the escalation die (champion: twice the escalation die; epic: three times the escalation die) OR deal that much radiant damage to each enemy engaged with you.
+Reading this book gives you a connection to higher powers. When you heal using a recovery, you shine with an inner light and either heal extra hit points equal to the escalation die, twice the escalation die at champion tier, and three times the escalation die at epic tier OR deal that much radiant damage to each enemy engaged with you.
 
 **Quirk:** Always calm.
 
@@ -1839,7 +1839,7 @@ This isn’t just a book – if you’ve got a copy of the herbal compendium, th
 
 #### Hymnal of Echoes
 
-This book contains songs written in a secret divine language. When you have read the book and attuned to it, you gain one 1st level bard song (champion: 3rd level; epic: 7th level) that you cast using your best ability instead of Charisma. Rereading the book during a full heal-up lets you switch songs. If you are a bard, the song is an extra song in addition to the ones that you normally know.
+This book contains songs written in a secret divine language. When you have read the book and attuned to it, you gain one 1st level bard song, 3rd level at champion tier, and 7th level at epic tier that you cast using your best ability instead of Charisma. Rereading the book during a full heal-up lets you switch songs. If you are a bard, the song is an extra song in addition to the ones that you normally know.
 
 **Quirk:** Sometimes starts accidentally speaking the divine language instead of their own.
 
@@ -1901,11 +1901,11 @@ Make a recharge roll for a recharge power you expended this turn (including a ma
 
 _Recharge 6+:_ When you make a melee attack based on Dexterity, Intelligence, or Wisdom, evoke a special ability of your choice. Pick the ability from one of the following options after seeing whether the attack is a hit.
 
-- Deal +1d6 damage on a hit (champion: +2d8; epic: +4d10).
-- Deal +1d4 damage on a miss (champion: +2d6; epic: +4d8).
+- Deal +1d6 damage on a hit, +2d8 at champion tier, and +4d10 at epic tier.
+- Deal +1d4 damage on a miss, +2d6 at champion tier, and +4d8 at epic tier.
 - Gain a +1 bonus to all defenses until the end of your next turn.
 - Pop free from one enemy.
-- Gain 1d10 temporary hit points (champion: 3d8; epic: 8d8).
+- Gain 1d10 temporary hit points, 3d8 at champion tier, and 8d8 at epic tier.
 - Roll a save against an ongoing save ends effect.
 
 Quirk: Always in constant motion, or swaying gently when still.
@@ -1974,7 +1974,7 @@ This tome details the secret history of certain magic items. Expend a recharge o
 
 #### Tome of the Divinities and their Deeds
 
-_Recharge 16+:_ When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total (champion: +2d8 hp; epic: +4d10 hp).
+_Recharge 16+:_ When you cast a divine spell, heal using a recovery and add +1d6 hit points to the total, +2d8 hp at champion tier, and +4d10 hp at epic tier.
 
 **Quirk:** Sees the hands of the gods operating subtly through the natural and social world, and makes others aware of it.
 
@@ -2144,7 +2144,7 @@ You gain a +4 bonus to skill checks to walk quietly.
 
 #### Boots of Ferocious Charge
 
-Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss (champion: +2d8; epic: +4d10).
+Whenever you move to engage a foe first and then make a melee attack against it during the same turn, you deal +1d6 damage, hit or miss, +2d8 at champion tier, and +4d10 at epic tier.
 
 **Quirk:** You like to start fights as much as you like to finish them.
 
@@ -2228,7 +2228,7 @@ As long as you don’t stop moving, you can walk on water. You start sinking aft
 
 Move Action
 
-_Recharge 11+:_ The lion-fur that lines these boots conceals magical bone claws that sprout from their ankles. You may leap upon a foe of equal or greater size while wearing these boots; when you do so, the claws dig in and keep you attached to that enemy. The enemy has a -2 penalty to attempts to disengage or pop you free, and if the enemy does disengage by any means, your boots inflict 1d10 damage on it automatically (champion: 2d10; epic: 4d10).
+_Recharge 11+:_ The lion-fur that lines these boots conceals magical bone claws that sprout from their ankles. You may leap upon a foe of equal or greater size while wearing these boots; when you do so, the claws dig in and keep you attached to that enemy. The enemy has a -2 penalty to attempts to disengage or pop you free, and if the enemy does disengage by any means, your boots inflict 1d10 damage on it automatically, 2d10 at champion tier, and 4d10 at epic tier.
 
 **Quirk:** Likes high places and elevated positions.
 
@@ -2244,7 +2244,7 @@ Once per battle, the wearer of these boots may make a tremendous leap, effective
 
 #### Dead Man’s Boots
 
-_Recharge 11+:_ If you’re knocked unconscious or otherwise rendered helpless or incapacitated while wearing these boots, then you get to pick a nearby enemy and make a +10 attack vs. MD against that foe (champion: +15; epic: +20). If you hit, that foe takes a fancy to your boots and tries to loot them from your unconscious body at the earliest possible opportunity. The enemy won’t take absurd risks to get the boots, but might choose to go after your boots rather than pressing the attack against the rest of the party. You’ll probably occupy your target for at least one round.
+_Recharge 11+:_ If you’re knocked unconscious or otherwise rendered helpless or incapacitated while wearing these boots, then you get to pick a nearby enemy and make a +10 attack vs. MD against that foe, +15 at champion tier, and +20 at epic tier. If you hit, that foe takes a fancy to your boots and tries to loot them from your unconscious body at the earliest possible opportunity. The enemy won’t take absurd risks to get the boots, but might choose to go after your boots rather than pressing the attack against the rest of the party. You’ll probably occupy your target for at least one round.
 
 The magic of the boots works best against greedy humanoids. Targeting a foe that wouldn’t normally wear boots or care about fashion means a penalty on your attack (GM: -4 sound good to you?). Targeting the sort of foe for whom looting the bodies is second nature gives a bonus to the attack (so, using the boots on goblins, kobolds, bandits, thieves, ghouls or adventurers is worth +4 or so).
 
@@ -2274,7 +2274,7 @@ _Recharge 6+:_ When you stomp in these shoes it sounds like the footsteps of som
 
 #### Dwarven Doomsteppers
 
-You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
+You gain a +2 bonus to miss damage with melee attacks, +4 at champion tier, and +6 at epic tier.
 
 **Quirk:** Tromps and stomps loudly.
 
@@ -2282,7 +2282,7 @@ You gain a +2 bonus to miss damage with melee attacks (champion: +4; epic: +6).
 
 #### Face-Stomping Boots
 
-_Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may automatically inflict 5 damage on them immediately (champion: 10 damage; epic: 25 damage). You don’t have to be the one who staggered them to trigger this item.
+_Recharge 6+:_ When a foe you’re engaged with becomes staggered, you may automatically inflict 5 damage on them immediately, 10 damage at champion tier, and 25 damage at epic tier. You don’t have to be the one who staggered them to trigger this item.
 
 **Quirk:** Hates bugs and other things that crawl.
 
@@ -2300,7 +2300,7 @@ _Recharge 16+ after use:_ When an enemy attacks you and deals fire damage, telep
 
 #### Footpads of the Footpad
 
-_Recharge 16+:_ When activated, the wearer of these boots can fly! You can soar to the height of, oh, about half an inch, maybe. And only over solid ground. The virtue is that you don’t leave footprints, set off pressure plates, and have a much easier job balancing on thin or precarious surfaces like a ledge or narrow branch, gaining a +5 (champion: +10; epic: +15) bonus to such skill tests. The magic of the boots lasts only a few minutes.
+_Recharge 16+:_ When activated, the wearer of these boots can fly! You can soar to the height of, oh, about half an inch, maybe. And only over solid ground. The virtue is that you don’t leave footprints, set off pressure plates, and have a much easier job balancing on thin or precarious surfaces like a ledge or narrow branch, gaining a +5, +10 at champion tier, and +15 at epic tier bonus to such skill tests. The magic of the boots lasts only a few minutes.
 
 **Quirk:** Shady. You ooze criminality. People look at you and think “now there goes a shady, suspicious cutthroat who might rob me.”
 
@@ -2350,7 +2350,7 @@ _Recharge 16+:_ When you disengage from one or more enemies, one enemy that you 
 
 #### Iron-Shod Boots
 
-_Recharge 6+:_ When someone intercepts you, stomp on them for 1d8 damage (champion: 2d10; epic: 4d12). If this damage kills your foe, you can keep moving as if you hadn’t been intercepted.
+_Recharge 6+:_ When someone intercepts you, stomp on them for 1d8 damage, 2d10 at champion tier, and 4d12 at epic tier. If this damage kills your foe, you can keep moving as if you hadn’t been intercepted.
 
 **Quirk:** Runs roughshod over other people’s feelings.
 
@@ -2674,7 +2674,7 @@ _Recharge 11+:_ The outside of these bracers is inscribed with prayers and spins
 
 #### Seven-Prayer Wrappings
 
-_Recharge 16+:_ Until the end of the battle, your attacks deal radiant damage, and once per round an enemy you hit with an attack takes 2d6 extra radiant damage (champion: 3d10 damage; epic: 4d12 damage).
+_Recharge 16+:_ Until the end of the battle, your attacks deal radiant damage, and once per round an enemy you hit with an attack takes 2d6 extra radiant damage, 3d10 damage at champion tier, and 4d12 damage at epic tier.
 
 **Quirk**: Uses phrases that piously invoke the gods.
 
@@ -2838,7 +2838,7 @@ Spend a recovery to allow a nearby ally to heal using two free recoveries.
 
 1/Day
 
-Spend a recovery to reroll a recharge roll for a spell. If the reroll fails, start the next battle with 15 temporary hit points (champion: 30 temp hp; epic: 50 temp hp).
+Spend a recovery to reroll a recharge roll for a spell. If the reroll fails, start the next battle with 15 temporary hit points, 30 temp hp at champion tier, and 50 temp hp at epic tier.
 
 **Quirk:** Collects trophies.
 
@@ -3114,10 +3114,10 @@ _Recharge 11+:_ Demons are hard to kill. That means it’s hard for them to die.
 
 | d6 | Effect |
 | --- | --- |
-| 1 | +4 temporary hit points (champion: +10; epic: +25) |
-| 2 | Resist Fire 6+ (champion: 11+; epic: 16+) |
+| 1 | +4 temporary hit points, +10 at champion tier, and +25 at epic tier |
+| 2 | Resist Fire 6+, 11+ at champion tier, and 16+ at epic tier |
 | 3 | True Seeing – you are immune to invisibility and see through any illusions |
-| 4 | Demonic speed – once per battle at the start of your turn, roll a d8. If the result is equal to or lower than the escalation die, you get to take an extra standard action this round (champion: d6; epic: d4) |
+| 4 | Demonic speed – once per battle at the start of your turn, roll a d8. If the result is equal to or lower than the escalation die, you get to take an extra standard action this round, d6 at champion tier, and d4 at epic tier |
 | 5 | If a nearby demon teleports, you may choose to teleport with it. You arrive engaged with the demon. |
 | 6 | +1 to all attacks against demons
 
@@ -3161,7 +3161,7 @@ Add +4 to checks to hide in natural surroundings.
 
 #### Evasion
 
-_Recharge 6+:_ When you take damage from an opportunity attack, take 20 less damage from it (champion: 40; epic: 100)
+_Recharge 6+:_ When you take damage from an opportunity attack, take 20 less damage from it, 40 at champion tier, and 100 at epic tier
 
 **Quirk:** You can't answer a question directly even if you want to.
 
@@ -3179,7 +3179,7 @@ _Recharge 16+:_ When an enemy scores a critical hit against you, it must reroll 
 
 Full Recovery
 
-Once per full heal-up, while wearing this cloak, you may send forth your mind as the shadow of a tunnel panther. In this trance, your mind roams around the surrounding area, and you wake knowing the answer to one of the following questions (GM’s choice!) (champion: 2 questions; epic: 3 questions):
+Once per full heal-up, while wearing this cloak, you may send forth your mind as the shadow of a tunnel panther. In this trance, your mind roams around the surrounding area, and you wake knowing the answer to one of the following questions (GM’s choice!), 2 questions at champion tier, and 3 questions at epic tier:
 
 - What is the biggest monster in the area?
 - Where is a foe that we encountered signs of earlier?
@@ -3214,7 +3214,7 @@ _Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around y
 
 #### Living Cloak
 
-This scarlet cloak won’t let you unknowingly walk into danger. When you fall far enough to be hurt or move into an area and trigger a trap, roll a hard save (16+). If you succeed, the cloak animates and keeps you from falling or drags you away from harm (champion: normal save; epic: easy save).
+This scarlet cloak won’t let you unknowingly walk into danger. When you fall far enough to be hurt or move into an area and trigger a trap, roll a hard save (16+). If you succeed, the cloak animates and keeps you from falling or drags you away from harm, normal save at champion tier, and easy save at epic tier.
 
 **Quirk:** Misinterprets harmless situations as dangerous.
 
@@ -3222,7 +3222,7 @@ This scarlet cloak won’t let you unknowingly walk into danger. When you fall f
 
 #### Mantle of Divine Grace
 
-_Recharge 6+:_ Negates 15 points of necrotic damage you would otherwise suffer from an attack (champion: 30 damage; epic: 60 damage).
+_Recharge 6+:_ Negates 15 points of necrotic damage you would otherwise suffer from an attack, 30 damage at champion tier, and 60 damage at epic tier.
 
 **Quirk:** Innocent and unworldly.
 
@@ -3267,7 +3267,7 @@ Dwarven historians weave ornate cloaks of this sort from silver wire and rams-ha
 
 #### Mantle of Mists
 
-_Recharge 16+:_ This hooded mantle is woven from fog. Until the end of the battle, attacks against you have a 20% miss chance (champion: 25%; epic: 30%).
+_Recharge 16+:_ This hooded mantle is woven from fog. Until the end of the battle, attacks against you have a 20% miss chance, 25% at champion tier, and 30% at epic tier.
 
 **Quirk:** Overly sneaky.
 
@@ -3309,7 +3309,7 @@ The eyes inscribed on this coat’s many brass buttons sometimes blink. You gain
 
 #### Pale Mantle of Suffering
 
-This cloak is usually pale white, but becomes redder and darker as its power grows. You heal 2 hit points (champion: 4; epic: 10) whenever an enemy suffers ongoing damage caused by one of your attacks. Rumors that certain Drow nobles wear pale mantles that are so blooddrenched they appear black as night are quite accurate.
+This cloak is usually pale white, but becomes redder and darker as its power grows. You heal 2 hit points, 4 at champion tier, and 10 at epic tier whenever an enemy suffers ongoing damage caused by one of your attacks. Rumors that certain Drow nobles wear pale mantles that are so blooddrenched they appear black as night are quite accurate.
 
 **Quirk:** Delights in the suffering of others.
 
@@ -3335,7 +3335,7 @@ _Recharge 16+ after use:_ Gain flight until the start of your next turn. You wil
 
 Quick action
 
-_Recharge 16+:_ You heal using a recovery and add +4 hp to the total (champion: +10 hp; epic: +25 hp).
+_Recharge 16+:_ You heal using a recovery and add +4 hp to the total, +10 hp at champion tier, and +25 hp at epic tier.
 
 **Quirk:** You grow small extra appendages that slowly wither away over days or weeks.
 
@@ -3385,7 +3385,7 @@ _Recharge 16+:_ The magic in this dark cape allows you to teleport to any nearby
 
 #### Stalwart
 
-_Recharge 16+:_ When an attack against your Physical Defense hits, make the attacker reroll the attack and use a PD of 15 instead (champion: 20; epic: 25).
+_Recharge 16+:_ When an attack against your Physical Defense hits, make the attacker reroll the attack and use a PD of 15 instead, 20 at champion tier, and 25 at epic tier.
 
 **Quirk:** Always the last to retreat or avoid danger.
 
@@ -3557,7 +3557,7 @@ None.
 
 #### Ambidexterity
 
-_Recharge 11+:_ When you roll a natural 16+ with your first melee attack during your turn while wielding a weapon in your off-hand, make a melee attack with the weapon in your off-hand as a free action, using +10 as your attack bonus (champion: +15; epic: +20).
+_Recharge 11+:_ When you roll a natural 16+ with your first melee attack during your turn while wielding a weapon in your off-hand, make a melee attack with the weapon in your off-hand as a free action, using +10 as your attack bonus, +15 at champion tier, and +20 at epic tier.
 
 **Quirk:** Writes with both hands at the same time on different parts of the page. It freaks people out.
 
@@ -3573,7 +3573,7 @@ These gloves improve your ability to contact, detect, and distinguish supernatur
 
 #### Archer's Gauntlets
 
-_Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus (champion: +15; epic: +20).
+_Recharge 16+:_ When you miss with a ranged weapon attack, reroll it using +10 as your attack bonus, +15 at champion tier, and +20 at epic tier.
 
 **Quirk:** You're quiet. Too quiet. Say something.
 
@@ -3619,7 +3619,7 @@ _Recharge 11+:_ This elaborate steel gauntlet is made to resemble the claw of a 
 
 #### Dragon-Rider’s Gloves
 
-_Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, polearms – anything that qualifies for reach tricks) for the rest of the battle, as long as you’re mounted on a steed of some sort (champion: +2d8; epic: +4d10).
+_Recharge 11+:_ You do +1d8 damage with long-hafted weapons (spears, lances, polearms – anything that qualifies for reach tricks) for the rest of the battle, as long as you’re mounted on a steed of some sort, +2d8 at champion tier, and +4d10 at epic tier.
 
 **Quirk:** Condescending.
 
@@ -3637,7 +3637,7 @@ You summon forth a pair of golden axes. Until the end of the battle, you can att
 
 #### Gauntlets of Clobbering
 
-_Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of the battle (champion: +2d8; epic: +4d10).
+_Recharge 16+:_ You deal +1d8 damage with two-handed weapons until the end of the battle, +2d8 at champion tier, and +4d10 at epic tier.
 
 **Quirk:** Clobber first, talk later.
 
@@ -3661,7 +3661,7 @@ _Recharge 6+:_ When you hit an enemy with a melee attack, you momentarily disrup
 
 #### Gauntlets of Swift Striking
 
-_Recharge 6+:_ Increase your initiative by +2d6 for this round only (champion: by 13; epic: you’re going first this round no matter what.)
+_Recharge 6+:_ Increase your initiative by +2d6 for this round only, by 13 at champion tier, and you’re going first this round no matter what. at epic tier
 
 **Quirk:** You already assumed the quirk for this item was ‘jumps to conclusions’, right?
 
@@ -3693,7 +3693,7 @@ You gain a +2 bonus to last gasp saves, and when you hold ruined or aged items t
 
 #### Gloves of Glimpsed Sorrow
 
-_Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+_Recharge 11+:_ Should anyone else touch your gloved hand, they receive a momentary psychic flash of some terrible tragedy, usually inspired by whatever is currently uppermost in their minds, or whatever they fear most deeply. The victim is aware that this is a just a passing vision, and does not mistake it for reality unless they are already prone to such misapprehensions. In addition, when you attack one or more enemies, you may activate the gloves to deal an extra +1d10 psychic damage to one target of the attack, +2d10 at champion tier, and +5d10 at epic tier.
 
 **Quirk:** You know that a terrible tragedy, worse than anything you or anyone else could ever imagine, will instantly befall the world if you ever remove these gloves.
 
@@ -3709,7 +3709,7 @@ _Recharge 11+:_ When you roll damage dice for an attack that deals cold damage, 
 
 #### Gloves of Mind Rot
 
-_Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack (champion: +2d10; epic: +5d10).
+_Recharge 6+:_ When you hit one or more foes with an arcane spell attack, deal +1d10 psychic damage to one target of the attack, +2d10 at champion tier, and +5d10 at epic tier.
 
 **Quirk:** The texture of your skin seems wrong to everyone else, but you know it's all in their minds and often explain that to them.
 
@@ -3823,7 +3823,7 @@ While you wear these fine silk gloves, you can play any musical instrument witho
 
 #### Poisoned Silk
 
-Your first hit with a melee or ranged weapon attack each battle deals +1d8 poison damage (champion: +2d8; epic: +3d8). However, if your first attack in the battle is a miss, you also take poison damage equal to your level.
+Your first hit with a melee or ranged weapon attack each battle deals +1d8 poison damage, +2d8 at champion tier, and +3d8 at epic tier. However, if your first attack in the battle is a miss, you also take poison damage equal to your level.
 
 **Quirk:** Craves rare spices.
 
@@ -3865,7 +3865,7 @@ _Recharge 11+:_ The fingertips of these elbow-length gloves are made of rare met
 
 #### Steel Fist of the Crusader
 
-_Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship point you have with a divine heroic figure (champion: d8; epic: d12).
+_Recharge 6+:_ When you hit a demon with an attack, you may roll an extra d6 for damage for every positive relationship point you have with a divine heroic figure, d8 at champion tier, and d12 at epic tier.
 
 **Quirk:** Becomes increasingly paranoid about demons.
 
@@ -4079,7 +4079,7 @@ You can command plants to talk aloud or sing, as per the druid’s [Nature Talki
 
 #### Crown of Ice
 
-When you roll a natural even hit with an attack that targets MD, deal +1d4 cold damage with that attack (champion: +2d4; epic: +2d8).
+When you roll a natural even hit with an attack that targets MD, deal +1d4 cold damage with that attack, +2d4 at champion tier, and +2d8 at epic tier.
 
 **Quirk:** Cold-hearted.
 
@@ -4129,7 +4129,7 @@ _Recharge 6+:_ This painted mask animates and blends with your face. When you fa
 
 #### Gems of Elemental Magic
 
-These gemstones float above your head like a crown. When you cast a spell that deals cold, fire, thunder, or lightning damage, you gain damage resistance 14+ to that damage type (champion: 16+; epic: 18+) until an attack beats that resistance, or end of battle.
+These gemstones float above your head like a crown. When you cast a spell that deals cold, fire, thunder, or lightning damage, you gain damage resistance 14+ to that damage type, 16+ at champion tier, and 18+ at epic tier until an attack beats that resistance, or end of battle.
 
 **Quirk:** Haughty demeanor when dealing with non-wizards.
 
@@ -4149,7 +4149,7 @@ Protective druidic blessings tie the birds to your life force; as long as you’
 
 Quick Action
 
-_Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered (champion: x2 value; epic: 5x value).
+_Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered, x2 value at champion tier, and 5x value at epic tier.
 
 **Quirk:** Weeps silently when in battle.
 
@@ -4197,7 +4197,7 @@ _Recharge 16+:_ When an attack that targets Mental Defense hits you, cancel the 
 
 #### Helm of Psychic Retribution
 
-_Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defense, deal 10 psychic damage to that enemy (champion: 25 damage; epic: 60 damage).
+_Recharge 16+:_ When an enemy misses you with an attack that targets Mental Defense, deal 10 psychic damage to that enemy, 25 damage at champion tier, and 60 damage at epic tier.
 
 **Quirk:** Stares into space often.
 
@@ -4231,7 +4231,7 @@ _Recharge 6+:_ When casting a divine spell, you may use your Strength modifier i
 
 #### Helm of the Ram
 
-_Recharge 6+:_ Add +2d6 damage to your miss damage against a single target (champion: +4d8; epic: +4d12).
+_Recharge 6+:_ Add +2d6 damage to your miss damage against a single target, +4d8 at champion tier, and +4d12 at epic tier.
 
 **Quirk:** Pounds fist into palm repeatedly while talking.
 
@@ -4551,7 +4551,7 @@ _Recharge 6+:_ You gain 20 temporary hit points (champion 50, epic 100) if you a
 
 #### Bearclaw
 
-_Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10 temporary hit points (champion: 25 temporary hp; epic: 50 temporary hp).
+_Recharge 11+:_ When you hit with a melee attack while you're staggered, gain 10 temporary hit points, 25 temporary hp at champion tier, and 50 temporary hp at epic tier.
 
 **Quirk:** Swaggers even when overmatched.
 
@@ -4645,7 +4645,7 @@ The stones in the necklace breathe, ever so slightly. You gain a +5 bonus to dea
 
 Standard Action
 
-_Recharge 11+:_ 1d3 nearby undead creatures, each with 55 hp or fewer, are automatically dazed until the end of your next turn (champion: 150 hp or fewer; epic: 240 hp or fewer). For the rest of the battle, those undead you targeted with this effect have a +1 bonus to their attacks on you.
+_Recharge 11+:_ 1d3 nearby undead creatures, each with 55 hp or fewer, are automatically dazed until the end of your next turn, 150 hp or fewer at champion tier, and 240 hp or fewer at epic tier. For the rest of the battle, those undead you targeted with this effect have a +1 bonus to their attacks on you.
 
 **Quirk:** Restless sleep.
 
@@ -4921,7 +4921,7 @@ _Recharge 11+:_ When you reduce a nearby non-mook enemy (or the last mook of a m
 
 Quick Action
 
-_Recharge 16+:_ One nearby undead creature (including you if you are undead) heals 10 hit points (champion: 20 hp; epic: 30 hp).
+_Recharge 16+:_ One nearby undead creature (including you if you are undead) heals 10 hit points, 20 hp at champion tier, and 30 hp at epic tier.
 
 **Quirk:** Living flesh disgusts you.
 
@@ -4955,7 +4955,7 @@ _Recharge 11+:_ When you fail to disengage, you turn into a small harmless anima
 
 Standard Action
 
-_Recharge 16+:_ Create a surface of mystic darkness under or next to 1d3 nearby enemies in a group and each creature engaged with them (possibly including you and your allies). Each creature targeted is stuck (easy save ends, 6+) as dark tentacles extend from the surface and grab them (champion: the tentacles ignore you; epic: the tentacles also ignore your allies). Each creature targeted takes a –5 penalty to disengage checks until the end of the battle.
+_Recharge 16+:_ Create a surface of mystic darkness under or next to 1d3 nearby enemies in a group and each creature engaged with them (possibly including you and your allies). Each creature targeted is stuck (easy save ends, 6+) as dark tentacles extend from the surface and grab them, the tentacles ignore you at champion tier, and the tentacles also ignore your allies at epic tier. Each creature targeted takes a –5 penalty to disengage checks until the end of the battle.
 
 **Quirk:** Fear of the darkness.
 
@@ -5193,7 +5193,7 @@ _Recharge 6+:_ Use the rogue’s [Shadow Walk](../Classes/Rogue.md#shadow-walk) 
 
 #### Defense
 
-_Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage (champion: prevent 20; epic: prevent 40).
+_Recharge 6+:_ When you take damage from an attack, prevent 10 of that damage, prevent 20 at champion tier, and prevent 40 at epic tier.
 
 **Quirk:** Stubborn.
 
@@ -5263,7 +5263,7 @@ _Recharge 6+ after use:_ Draw a nearby small unattended metal item to you, or pu
 
 #### Iron Grip
 
-When you make a skill check involving climbing, holding something, or otherwise using your hands to grip things, you can use +10 as your bonus in place of your normal bonus (level + ability mod + skill; other magic item bonuses still count) (champion: +15; epic: +20).
+When you make a skill check involving climbing, holding something, or otherwise using your hands to grip things, you can use +10 as your bonus in place of your normal bonus (level + ability mod + skill; other magic item bonuses still count), +15 at champion tier, and +20 at epic tier.
 
 **Quirk:** Loves to arm wrestle, thumb wrestle, drum fingers on tables, etc.
 
@@ -5309,7 +5309,7 @@ This ring is made of many twisted bands of different materials. Pass your hand o
 
 Quick Action
 
-_Recharge 6+:_ When one side in a battle flees, specify a target on the opposing side to yours. When you next encounter that foe, you automatically inflict 1d8 (champion: 2d8; epic: 4d10) psychic damage on that enemy at the start of combat.
+_Recharge 6+:_ When one side in a battle flees, specify a target on the opposing side to yours. When you next encounter that foe, you automatically inflict 1d8, 2d8 at champion tier, and 4d10 at epic tier psychic damage on that enemy at the start of combat.
 
 **Quirk:** Sore loser.
 
@@ -5349,7 +5349,7 @@ _Recharge 11+:_ This ring allows you to subtly influence the choices made by you
 
 #### Protection
 
-_Recharge 11+:_ Gain a +2 bonus to your AC until the start of your next turn (champion: PD too; epic: also MD).
+_Recharge 11+:_ Gain a +2 bonus to your AC until the start of your next turn, PD too at champion tier, and also MD at epic tier.
 
 **Quirk:** Touchy and defensive.
 
@@ -5359,7 +5359,7 @@ _Recharge 11+:_ Gain a +2 bonus to your AC until the start of your next turn (ch
 
 1/Battle
 
-When you make an attack, that attack deals radiant damage, and one target of the attack takes 1d8 extra damage, hit or miss (champion: 2d10 damage; epic: 3d10 damage). You can also always use the ring to remove dirt and filth from yourself, from food, and from other objects (but it doesn’t protect against any attack or condition).
+When you make an attack, that attack deals radiant damage, and one target of the attack takes 1d8 extra damage, hit or miss, 2d10 damage at champion tier, and 3d10 damage). You can also always use the ring to remove dirt and filth from yourself, from food, and from other objects (but it doesn’t protect against any attack or condition at epic tier.
 
 **Quirk:** Fastidious.
 
@@ -5437,7 +5437,7 @@ Second, the magic only works on demons and undead. Other creatures can open the 
 
 #### Sheriff’s Ring of Knocking
 
-_Recharge 6+:_ This ring was owned by a famously unpopular tax collector. As a move action, make a skill check to break, knock down, or damage a non-magical object you are next to. Use a +10 bonus to your roll instead of your ability modifier + level + skill bonus (champion: +15; epic: +20).
+_Recharge 6+:_ This ring was owned by a famously unpopular tax collector. As a move action, make a skill check to break, knock down, or damage a non-magical object you are next to. Use a +10 bonus to your roll instead of your ability modifier + level + skill bonus, +15 at champion tier, and +20 at epic tier.
 
 **Quirk:** Executes duties without compassion.
 
@@ -5632,7 +5632,7 @@ _Recharge 6+:_ This scepter summons a harmless magical humanoid who faithfully s
 
 1/Level
 
-Cast one of the following wizard spells against a target that is a dragon or draconic creature: [charm person](../Classes/Wizard.md#charm-person), [hold monster](../Classes/Wizard.md#hold-monster), or [sleep](../Classes/Wizard.md#sleep). You cast the chosen spell at your level using your best ability for the attack roll, except you double the hp threshold (champion: triple the hp threshold; epic: quadruple the hp threshold). On a miss, regain this power after your next full heal-up in addition to any normal miss effects that are part of the spell. Quirk: Enjoys the company of dragons.
+Cast one of the following wizard spells against a target that is a dragon or draconic creature: [charm person](../Classes/Wizard.md#charm-person), [hold monster](../Classes/Wizard.md#hold-monster), or [sleep](../Classes/Wizard.md#sleep). You cast the chosen spell at your level using your best ability for the attack roll, except you double the hp threshold, triple the hp threshold at champion tier, and quadruple the hp threshold at epic tier. On a miss, regain this power after your next full heal-up in addition to any normal miss effects that are part of the spell. Quirk: Enjoys the company of dragons.
 
 ---
 
@@ -5692,7 +5692,7 @@ _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You ca
 
 1/Day
 
-Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll (champion: 5th level; epic: 9th level). In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp; epic: 266 hp), targeting creatures with the lowest hit points first.
+Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll, 5th level; epic: 9th level). In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp at champion tier, and 266 hp at epic tier, targeting creatures with the lowest hit points first.
 
 **Quirk:** Bossy.
 
@@ -5734,7 +5734,7 @@ Spells cast through this implement work as normal, but their effects look more i
 
 1/Day
 
-When you cast a summoning spell, you also summon some goblin mooks (or other lowly creatures that fit your character’s flavor) as if you had cast the necromancer spell [summon undead](../Classes/Necromancer.md#summon-undead-1st-level) as a 1st level spell (champion: 5th level; epic: 9th level), except you summon 1 fewer mook (so 1d3) and the mooks are humanoid goblins (or whatever) instead of undead.
+When you cast a summoning spell, you also summon some goblin mooks (or other lowly creatures that fit your character’s flavor) as if you had cast the necromancer spell [summon undead](../Classes/Necromancer.md#summon-undead-1st-level) as a 1st level spell, 5th level at champion tier, and 9th level), except you summon 1 fewer mook (so 1d3) and the mooks are humanoid goblins (or whatever at epic tier instead of undead.
 
 **Quirk:** Maternal monster.
 
@@ -5864,7 +5864,7 @@ _Recharge 11+:_ This shield has demons imprisoned within it. Pick an area of the
 
 #### Discus Shield
 
-This shield also acts as a +1 throwing weapon that returns to you after the attack (champion: +2; epic: +3).
+This shield also acts as a +1 throwing weapon that returns to you after the attack, +2 at champion tier, and +3 at epic tier.
 
 **Quirk:** Eager to discuss your opinions.
 
@@ -5898,7 +5898,7 @@ When you are targeted by an attack that also targets one or more of your allies,
 
 #### Drakefanged
 
-_Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enemies. When an enemy engaged with you misses you with a melee attack, make a basic melee attack against the enemy as a free action, with a +2 attack bonus per tier of the shield (adventurer: +2, champion: +4, epic: +6). On a hit, the attack deals 2d6 damage; on a miss, it deals 2 damage (champion: 4d8 damage, or 5 on a miss; epic: 8d10 damage, or 12 on miss).
+_Recharge 11+:_ This spiked shield sports a massive dragon fang that wounds enemies. When an enemy engaged with you misses you with a melee attack, make a basic melee attack against the enemy as a free action, with a +2 attack bonus per tier of the shield (adventurer: +2, champion: +4, epic: +6). On a hit, the attack deals 2d6 damage; on a miss, it deals 2 damage, 4d8 damage, or 5 on a miss at champion tier, and 8d10 damage, or 12 on miss at epic tier.
 
 **Quirk:** Compares everything to dragons or to draconic things, and judges actions by how they stack up to draconic expectations.
 
@@ -5926,7 +5926,7 @@ _Recharge 11+:_ The surface of this mirrored round shield flows like quicksilver
 
 #### Forge-Hot
 
-_Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy (champion: 10 ongoing; epic: 15 ongoing).
+_Recharge 6+:_ When an attacker misses you with an odd roll, you inflict 5 ongoing fire damage on that enemy, 10 ongoing at champion tier, and 15 ongoing at epic tier.
 
 **Quirk:** Always uncomfortably chilly, even in the hottest conditions.
 
@@ -5966,15 +5966,15 @@ Quick Action
 
 _Recharge 16+:_ Your shield bears the heraldic symbol of your family (or that of some other noble knight, if you looted this shield in a dungeon). Either way, you may invoke the aid of that symbol, causing a spirit animal to manifest on the battlefield. This spirit remains until the end of the battle (or until you disgrace your family, causing it to leave in disgust). The benefit provided by the spirit depends on what it is, but here are some ideas.
 
-- Boar: +1d4 damage if you hit someone in the same round you move to engage them (champion: +2d4; epic: +4d6)
-- Eagle: +1 damage to ranged attacks, hit or miss (champion: +3; epic: +6)
-- Dog: Enemies engaged with you have an additional -1 penalty to disengage check. (champion: -2; epic: -3)
-- Unicorn: You may rally a second time in a battle without rolling (champion: once per battle, you can rally on behalf of a nearby ally; you spend the standard action and the recovery, they get the healing; epic: twice per battle)
+- Boar: +1d4 damage if you hit someone in the same round you move to engage them, +2d4 at champion tier, and +4d6 at epic tier
+- Eagle: +1 damage to ranged attacks, hit or miss, +3 at champion tier, and +6 at epic tier
+- Dog: Enemies engaged with you have an additional -1 penalty to disengage check., -2 at champion tier, and -3 at epic tier
+- Unicorn: You may rally a second time in a battle without rolling, once per battle, you can rally on behalf of a nearby ally; you spend the standard action and the recovery, they get the healing at champion tier, and twice per battle at epic tier
 - Griffon: Once per battle, when you inflict a critical hit on a foe, you may immediately make a basic attack on a different enemy as a free action. (Champion: twice per battle; epic: three times per battle).
-- Lion: Once per battle, you can roar. You cause fear as though you were a monster with a fear aura until the start of your next turn (champion: you count as being one level higher for the purposes of determining your fear threshold; epic: two levels higher).
-- Wolf: +1d6 damage on opportunity attacks (champion: +2d6; epic: +4d8)
-- Dragon: Once per battle, when you inflict a critical hit on an enemy, you immediately deal 1d6 fire damage to all other engaged enemies (champion: 2d6; epic: 4d8)
-- Snake: Once per battle, when you hit an enemy engaged with you, you may add 5 ongoing poison damage to the damage roll (champion: 10 ongoing; epic: 15 ongoing)
+- Lion: Once per battle, you can roar. You cause fear as though you were a monster with a fear aura until the start of your next turn, you count as being one level higher for the purposes of determining your fear threshold at champion tier, and two levels higher at epic tier.
+- Wolf: +1d6 damage on opportunity attacks, +2d6 at champion tier, and +4d8 at epic tier
+- Dragon: Once per battle, when you inflict a critical hit on an enemy, you immediately deal 1d6 fire damage to all other engaged enemies, 2d6 at champion tier, and 4d8 at epic tier
+- Snake: Once per battle, when you hit an enemy engaged with you, you may add 5 ongoing poison damage to the damage roll, 10 ongoing at champion tier, and 15 ongoing at epic tier
 
 **Quirk:** Family honor is everything.
 
@@ -6012,7 +6012,7 @@ While you are hiding with allies close by, this shield produces a magical glamor
 
 #### Peace
 
-In combat, regain hit points equal to the value of the escalation die at the start of every round (champion: twice the escalation die’s value; epic: three times the value). This stops as soon as you make an attack or otherwise inflict any damage on an enemy.
+In combat, regain hit points equal to the value of the escalation die at the start of every round, twice the escalation die’s value at champion tier, and three times the value at epic tier. This stops as soon as you make an attack or otherwise inflict any damage on an enemy.
 
 **Quirk:** Always thinks the worst of people.
 
@@ -6115,7 +6115,7 @@ _Recharge 6+:_ Until the end of your next turn, you and anyone engaged with you 
 
 #### Warleader’s Shield
 
-Nominate two allies at the start of battle. Their maximum (and current) hit points are raised by 2 (champion: 5; epic: 13) until the end of the battle.
+Nominate two allies at the start of battle. Their maximum (and current) hit points are raised by 2, 5 at champion tier, and 13 at epic tier until the end of the battle.
 
 **Quirk:** Considers possessions to be held in common among members of the party.
 
@@ -6810,7 +6810,7 @@ _Plant:_ Until the end of the battle, when you or an ally nearby the flag score 
 
 1/Day
 
-Cause a plant to grow 1d4 berries that function as heroic-tier healing potions (champion: champion tier; epic: epic tier). The berries last until your next full healup, then rot.
+Cause a plant to grow 1d4 berries that function as heroic-tier healing potions, champion tier at champion tier, and epic tier at epic tier. The berries last until your next full healup, then rot.
 
 **Quirk:** Enjoys fermented drinks.
 
@@ -6846,7 +6846,7 @@ When you cast a spell using this implement, count a natural 1 attack roll as a n
 
 #### Iconoclast’s Relic
 
-Your crit range for attacks made using this implement expands by 2 if at least two of the following conditions are true about the target: it’s stronger than a standard monster; it’s higher level than you (champion: at least 2 levels higher; epic: at least 3 levels higher); and/or it’s either a dragon or a humanoid.
+Your crit range for attacks made using this implement expands by 2 if at least two of the following conditions are true about the target: it’s stronger than a standard monster; it’s higher level than you, at least 2 levels higher at champion tier, and at least 3 levels higher at epic tier; and/or it’s either a dragon or a humanoid.
 
 **Quirk:** Has subversive thoughts.
 
@@ -6854,7 +6854,7 @@ Your crit range for attacks made using this implement expands by 2 if at least t
 
 #### Light, Symbol of
 
-_Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a full recovery divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less (champion: 100 hit points or less; epic: 250 hit points or less). This daze lasts until the end of the enemy’s next turn.
+_Recharge 6+:_ When you cast a divine spell, your symbol flares with bright light for a moment, starkly illuminating your surroundings. When you cast a full recovery divine spell, that light is bright enough to daze one enemy engaged with you who has 50 hit points or less, 100 hit points or less at champion tier, and 250 hit points or less at epic tier. This daze lasts until the end of the enemy’s next turn.
 
 **Quirk:** Scared of the dark.
 
@@ -7204,7 +7204,7 @@ When you make an attack against a plant using this wand, gain a +2 bonus to the 
 
 Quick Action
 
-_Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the wand, you must nominate an enemy on the battlefield. Your next attack on that enemy inflicts 1d4 extra necrotic damage for each round since you nominated the foe (champion: make those d6s; epic: d8s). So, if you mark a foe for death in the first round of combat, but then don’t attack that foe for five rounds, your attack on that enemy will benefit from 5 extra dice of necrotic damage, hit or miss.
+_Recharge 11+:_ This ghastly wand resembles a bony finger. When you activate the wand, you must nominate an enemy on the battlefield. Your next attack on that enemy inflicts 1d4 extra necrotic damage for each round since you nominated the foe, make those d6s at champion tier, and d8s at epic tier. So, if you mark a foe for death in the first round of combat, but then don’t attack that foe for five rounds, your attack on that enemy will benefit from 5 extra dice of necrotic damage, hit or miss.
 
 **Quirk:** Enjoys watching others struggle or run.
 
@@ -7222,7 +7222,7 @@ In addition to providing the usual bonus to arcane spells and damage, this wand 
 
 2/Level
 
-You can use this item’s powers only while helpless (including asleep) or stunned. Against an enemy, cast the wizard spell [sleep](../Classes/Wizard.md#sleep) at 3rd level (champion: 7th level; epic: 9th level), using Charisma or Wisdom to cast the spell. With a friendly creature anywhere in the world that you know, for a battle or scene you can communicate in a dream: a sleeping creature experiences this as their own dream, while to a waking one you show up as a vision only they can see.
+You can use this item’s powers only while helpless (including asleep) or stunned. Against an enemy, cast the wizard spell [sleep](../Classes/Wizard.md#sleep) at 3rd level, 7th level at champion tier, and 9th level at epic tier, using Charisma or Wisdom to cast the spell. With a friendly creature anywhere in the world that you know, for a battle or scene you can communicate in a dream: a sleeping creature experiences this as their own dream, while to a waking one you show up as a vision only they can see.
 
 **Quirk:** Daydreamer.
 
@@ -7458,7 +7458,7 @@ Attacks and damage when using the weapon: +1 (adventurer); +2 (champion); +3 (ep
 
 Melee Weapon
 
-You deal +2d6 damage with your first attack each battle using this weapon (champion: +4d6; epic: +4d12).
+You deal +2d6 damage with your first attack each battle using this weapon, +4d6 at champion tier, and +4d12 at epic tier.
 
 **Quirk:** Blurts out obscenities. (For decorum's sake, use euphemisms when speaking in character.)
 
@@ -7468,7 +7468,7 @@ You deal +2d6 damage with your first attack each battle using this weapon (champ
 
 Melee Weapon
 
-_Recharge 11+:_ For the rest of the battle, or until it misses with an attack, this weapon may make basic attacks on its own in any turn in which you don’t use it to make an attack. It uses a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy. The sword doesn’t benefit from the escalation die. Remember, you can only attune to one magic weapon at a time – if you have an animated sword, you may not use another magic melee weapon.
+_Recharge 11+:_ For the rest of the battle, or until it misses with an attack, this weapon may make basic attacks on its own in any turn in which you don’t use it to make an attack. It uses a +5 as its attack bonus, +10 at champion tier, and +15 at epic tier. This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy. The sword doesn’t benefit from the escalation die. Remember, you can only attune to one magic weapon at a time – if you have an animated sword, you may not use another magic melee weapon.
 
 **Quirk:** Loves to delegate.
 
@@ -7558,7 +7558,7 @@ When you miss with a basic melee attack or at-will melee attack using this weapo
 
 #### Boiling Blood
 
-_Recharge 11+:_ When you miss a melee attack with this weapon, your next melee attack with this weapon deals +2d4 fire damage (champion: +3d6; epic: +4d8), hit or miss.
+_Recharge 11+:_ When you miss a melee attack with this weapon, your next melee attack with this weapon deals +2d4 fire damage, +3d6 at champion tier, and +4d8 at epic tier, hit or miss.
 
 **Quirk:** Where there’s a whip there’s a way.
 
@@ -7604,7 +7604,7 @@ Bow
 
 1/Battle
 
-Attacks made using this weapon deal fire damage on a natural odd roll and radiant on a natural even roll. When you use the power, the target of an attack made using this bow takes 1d8 extra damage (champion: 2d10 extra damage; epic: 3d10 extra damage), hit or miss.
+Attacks made using this weapon deal fire damage on a natural odd roll and radiant on a natural even roll. When you use the power, the target of an attack made using this bow takes 1d8 extra damage, 2d10 extra damage at champion tier, and 3d10 extra damage at epic tier, hit or miss.
 
 **Quirk:** Proud.
 
@@ -7616,7 +7616,7 @@ Two-handed Melee Weapon
 
 _Recharge 11+:_
 
-Before making an attack with this weapon, designate it as a "pain" attack. On a hit with that attack, one target takes 10 extra damage. On a miss, you take 10 damage (champion: 25 damage; epic: 60 damage).
+Before making an attack with this weapon, designate it as a "pain" attack. On a hit with that attack, one target takes 10 extra damage. On a miss, you take 10 damage, 25 damage at champion tier, and 60 damage at epic tier.
 
 **Quirk:** Fond of gambling.
 
@@ -7638,7 +7638,7 @@ Perform a [reach trick](../Character-Rules/Feats.md#reach-tricks).
 
 Ranged weapon
 
-_Recharge 6+:_ When the escalation die is 3+ and you hit with an attack using this weapon, the target takes 10 extra damage (champion: 25 damage; epic: 60 damage).
+_Recharge 6+:_ When the escalation die is 3+ and you hit with an attack using this weapon, the target takes 10 extra damage, 25 damage at champion tier, and 60 damage at epic tier.
 
 **Quirk:** Can't stop checking the weapon and its ammunition.
 
@@ -7648,7 +7648,7 @@ _Recharge 6+:_ When the escalation die is 3+ and you hit with an attack using th
 
 Any weapon
 
-_Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it (champion: 40 hp/10 ongoing damage; epic: 80 hp/20 ongoing damage).
+_Recharge 11+:_ When damage from this weapon leaves an enemy with 20 hit points or fewer, you deal 5 ongoing damage to it, 40 hp/10 ongoing damage at champion tier, and 80 hp/20 ongoing damage at epic tier.
 
 **Quirk:** Tortures flies.
 
@@ -7678,7 +7678,7 @@ _Recharge 16+:_ When you hit with this weapon, the target is surrounded by a cli
 
 Melee Weapon
 
-When you make an attack with this weapon and the target has fewer than 5 hp (champion: fewer than 15 hp; epic: fewer than 25 hp) after the attack, the target drops to 0 hp.
+When you make an attack with this weapon and the target has fewer than 5 hp, fewer than 15 hp at champion tier, and fewer than 25 hp at epic tier after the attack, the target drops to 0 hp.
 
 **Quirk:** Laughs at own jokes, the crueler the joke the bigger the laugh.
 
@@ -7860,7 +7860,7 @@ When you hit with an opportunity attack using this weapon, the target is weakene
 
 Melee Weapon
 
-While the escalation die is 3+, you deal +1d8 damage whenever you hit with this weapon (champion: +2d8; epic: +4d8).
+While the escalation die is 3+, you deal +1d8 damage whenever you hit with this weapon, +2d8 at champion tier, and +4d8 at epic tier.
 
 **Quirk:** Favors iron and steel, seeing little beauty in gold or gems.
 
@@ -7882,7 +7882,7 @@ In combat, whenever you attack with a harmonious weapon, note the natural roll. 
 
 Any Weapon
 
-When you hit with an attack using this weapon, if that enemy is the most dangerous foe in the battle (or tied for most dangerous, GM's assessment), you deal +1d4 per tier damage to it (champion: +1d8 per tier; epic: +1d10 per tier).
+When you hit with an attack using this weapon, if that enemy is the most dangerous foe in the battle (or tied for most dangerous, GM's assessment), you deal +1d4 per tier damage to it, +1d8 per tier at champion tier, and +1d10 per tier at epic tier.
 
 **Quirk:** Challenges others to improvised contests.
 
@@ -7892,7 +7892,7 @@ When you hit with an attack using this weapon, if that enemy is the most dangero
 
 Any Weapon
 
-_Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus (champion: +10; epic: +15). This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
+_Recharge 16+:_ An unquiet spirit haunts your weapon. At the end of your turn, if you did not make an attack, the ghost may make a basic attack using the weapon as a free action, using a +5 as its attack bonus, +10 at champion tier, and +15 at epic tier. This basic attack may not trigger flexible attacks; treat it as if an ally was attacking an enemy, and it doesn’t benefit from the escalation die.
 
 **Quirk:** It’s a talkative ghost. Or maybe it just screams in your ear all the time. Either way, you’re the only one who can see or hear it.
 
@@ -7982,7 +7982,7 @@ If you’re attacking an enemy 3 or more levels higher than you, you deal +1d8 d
 
 Any Weapon
 
-When you hit with this weapon, you can deal +1d10 damage to that enemy (champion: +2d10; epic: +4d10). If you do, you also take that extra damage.
+When you hit with this weapon, you can deal +1d10 damage to that enemy, +2d10 at champion tier, and +4d10 at epic tier. If you do, you also take that extra damage.
 
 **Quirk:** Bites nails, or a similar darker habit.
 
@@ -7992,7 +7992,7 @@ When you hit with this weapon, you can deal +1d10 damage to that enemy (champion
 
 Melee Weapon
 
-_Recharge 16+:_ You gain a +1 attack bonus and deal +1d4 damage with this attack for each different fighter maneuver you have used in this battle (champion: +1d8 instead of +1d4; epic: +2d6 instead of +1d8).
+_Recharge 16+:_ You gain a +1 attack bonus and deal +1d4 damage with this attack for each different fighter maneuver you have used in this battle, +1d8 instead of +1d4 at champion tier, and +2d6 instead of +1d8 at epic tier.
 
 **Quirk:** Flips randomly between ruthless efficiency and dreamy optimism.
 
@@ -8002,7 +8002,7 @@ _Recharge 16+:_ You gain a +1 attack bonus and deal +1d4 damage with this attack
 
 Melee Weapon
 
-The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your full recovery spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss (champion: 2d4; epic: 2d8).
+The metal of this weapon was quenched in tears; its look depends on who those tears came from. You can apply this weapon’s default bonuses to arcane spells as though the weapon were an implement. While you are engaged with one or more enemies with fewer hit points than you, your full recovery spell attacks against that enemy or those enemies deal 1d4 extra damage, hit or miss, 2d4 at champion tier, and 2d8 at epic tier.
 
 **Quirk:** Fear of storms, earthquakes, and other destructive natural phenomena.
 
@@ -8094,7 +8094,7 @@ Two-handed Melee Weapon
 
 Move Action
 
-You deal +1d8 damage with your next melee attack with this weapon that hits this turn (champion: +2d8; epic: +4d8). If you miss, you take that damage instead.
+You deal +1d8 damage with your next melee attack with this weapon that hits this turn, +2d8 at champion tier, and +4d8 at epic tier. If you miss, you take that damage instead.
 
 **Quirk:** Tends to break things.
 
@@ -8142,7 +8142,7 @@ When a devil, dragon, giant, humanoid, or spirit hits you with an attack, you le
 
 Melee Weapon
 
-_Recharge 6+:_ When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn (champion: +5; epic: +6).
+_Recharge 6+:_ When you make a basic attack with this weapon, gain a +4 bonus to all defenses until the end of your next turn, +5 at champion tier, and +6 at epic tier.
 
 **Quirk:** Has urges to watch over the helpless or innocent.
 
@@ -8182,7 +8182,7 @@ _Recharge 6+:_ When you are intercepted, the intercepting enemy takes damage equ
 
 Melee Weapon
 
-When you drop a mook with this weapon, heal 3 hp (champion: 7 hp; epic: 12 hp).
+When you drop a mook with this weapon, heal 3 hp, 7 hp at champion tier, and 12 hp at epic tier.
 
 **Quirk:** Cares for their ‘harvest’ after their death.
 
@@ -8214,7 +8214,7 @@ Hammer
 
 1/Day
 
-Until the end of the battle, the first time each round a nearby enemy makes a natural odd d20 roll, that enemy takes 1d6 psychic damage (champion: 2d8 psychic damage; epic: 2d12 psychic damage).
+Until the end of the battle, the first time each round a nearby enemy makes a natural odd d20 roll, that enemy takes 1d6 psychic damage, 2d8 psychic damage at champion tier, and 2d12 psychic damage at epic tier.
 
 **Quirk:** Argues about inconsequential matters.
 
@@ -8244,7 +8244,7 @@ When you attack constructs and elementals with this weapon, target PD instead of
 
 Melee Weapon
 
-When an enemy scores a critical hit against you, immediately roll to regain one expended recharge power, including magic items (champion: against you or a nearby ally; epic: as champion, and roll twice for the recharge power and take the best result).
+When an enemy scores a critical hit against you, immediately roll to regain one expended recharge power, including magic items, against you or a nearby ally at champion tier, and as champion, and roll twice for the recharge power and take the best result at epic tier.
 
 **Quirk:** Fascination with personal glory.
 
@@ -8460,7 +8460,7 @@ You always know who the ‘biggest baddest’ enemy is (the GM will let you know
 
 Melee Weapon
 
-When you hit with this weapon, deal +1d6 damage to that enemy if you are the only one engaged with it (champion: +2d6; epic: +4d6).
+When you hit with this weapon, deal +1d6 damage to that enemy if you are the only one engaged with it, +2d6 at champion tier, and +4d6 at epic tier.
 
 **Quirk:** Tells their name (their real one) to everyone.
 
@@ -8482,7 +8482,7 @@ Trident
 
 2/Day
 
-Your attacks with this weapon deal poison damage. When you score a critical hit with this weapon, the target takes 5 ongoing poison damage (champion: 10 ongoing; epic: 20 ongoing).
+Your attacks with this weapon deal poison damage. When you score a critical hit with this weapon, the target takes 5 ongoing poison damage, 10 ongoing at champion tier, and 20 ongoing at epic tier.
 
 **Quirk:** Wary of poisoned drinks.
 
@@ -8850,7 +8850,7 @@ Gain a new 2-point background called humanoid hunter.
 
 Standard Action
 
-_Recharge 11+:_ The walls of this leather bag creak and stretch as it struggles the storm trapped inside. You may loosen the drawstring of the bag to let out a bolt of lighting. This counts as casting a ranged spell. The bolt attacks using your Dexterity + Level vs. PD, targets up to three nearby enemies in a roughly straight line, and inflicts 2d6 lightning damage (champion: 4d6; epic: 10d6). If you roll a natural 1, roll a d20. On another natural 1, you let the storm out, as detailed below.
+_Recharge 11+:_ The walls of this leather bag creak and stretch as it struggles the storm trapped inside. You may loosen the drawstring of the bag to let out a bolt of lighting. This counts as casting a ranged spell. The bolt attacks using your Dexterity + Level vs. PD, targets up to three nearby enemies in a roughly straight line, and inflicts 2d6 lightning damage, 4d6 at champion tier, and 10d6 at epic tier. If you roll a natural 1, roll a d20. On another natural 1, you let the storm out, as detailed below.
 
 Alternatively, you may open the bag entirely and let the storm free. This destroys the bag of storms, but unleashes a titanic, once-acentury storm on the region, centered on you. The effects of the storm are more story-based than anything else, but the ghastly weather conditions make any sort of fighting almost impossible. All anyone can do is seek shelter from the howling winds, crashing thunder and torrential rain. Any sort of ranged attacks, flight, spellcasting or travel is ill-advised for the next several hours.
 
@@ -8920,7 +8920,7 @@ When an attack misses your PD, your attacks deal at least half damage on a miss 
 
 #### Charging-Boar Leg Tattoo
 
-When you move to engage an enemy and miss it with an attack during the same turn, deal extra miss damage equal to the escalation die to that enemy (champion: twice the escalation die; epic: three times the escalation die).
+When you move to engage an enemy and miss it with an attack during the same turn, deal extra miss damage equal to the escalation die to that enemy, twice the escalation die at champion tier, and three times the escalation die at epic tier.
 
 **Quirk:** Argumentative.
 
@@ -8936,7 +8936,7 @@ This multicolored powder glows and sparkles at your command, dancing in a magica
 
 #### Crossed-Axes Waist Tattoo
 
-The first time you become staggered each battle, the next enemy you hit before the end of the battle takes +1d8 thunder damage (champion: +2d8 thunder damage; epic: +3d10 thunder damage).
+The first time you become staggered each battle, the next enemy you hit before the end of the battle takes +1d8 thunder damage, +2d8 thunder damage at champion tier, and +3d10 thunder damage at epic tier.
 
 **Quirk:** Sees kindness as weakness.
 
@@ -9237,7 +9237,7 @@ When you engage an enemy or an enemy engages you, that enemy takes fire damage e
 
 #### Snuffling-Hog Back Tattoo
 
-When an attack misses your PD, gain temporary hit points equal to the number of mooks you have killed since your last full heal-up (champion: twice the number of mooks; epic: three times the number of mooks).
+When an attack misses your PD, gain temporary hit points equal to the number of mooks you have killed since your last full heal-up, twice the number of mooks at champion tier, and three times the number of mooks at epic tier.
 
 **Quirk:** Willing to eat anything.
 
@@ -9245,7 +9245,7 @@ When an attack misses your PD, gain temporary hit points equal to the number of 
 
 #### Snuffling-Hog Leg Tattoo
 
-When an enemy fails to disengage from you, gain temporary hit points equal to its disengage check roll (champion: twice the roll; epic: three times the roll).
+When an enemy fails to disengage from you, gain temporary hit points equal to its disengage check roll, twice the roll at champion tier, and three times the roll at epic tier.
 
 **Quirk:** Willing to eat anything.
 
@@ -9277,7 +9277,7 @@ Gain _resist damage 16+_ against environmental damage and traps.
 
 #### Stomping-Behemoth Leg Tattoo
 
-When you disengage or pop free from an enemy, that enemy takes thunder damage equal to the escalation die (champion: twice the escalation die; epic: three times the escalation die).
+When you disengage or pop free from an enemy, that enemy takes thunder damage equal to the escalation die, twice the escalation die at champion tier, and three times the escalation die at epic tier.
 
 **Quirk:** Unheeding of ‘minor irritations’.
 
@@ -9710,7 +9710,7 @@ Helm
 
 This insectile segmented helm is lined with ganglia that link with your brain.
 
-_Always:_ +1 MD (adventurer); +2 MD (champion); +MD (epic). _Chuulish recharge:_ You gain _resist psychic 12+_ until the end of the battle (champion: _resist psychic 16+_; epic: _resist psychic 18+_).
+_Always:_ +1 MD (adventurer); +2 MD (champion); +MD (epic). _Chuulish recharge:_ You gain _resist psychic 12+_ until the end of the battle, _resist psychic 16+_ at champion tier, and _resist psychic 18+_ at epic tier.
 
 **Quirk:** Bone-ridged holes in skull.
 
@@ -9732,7 +9732,7 @@ _Always:_ +1 AC (adventurer); +2 AC (champion); +3 AC (epic). _Chuulish recharge
 
 Gloves
 
-These claw-covered tentacles normally reside under the skin of the forearm, completely concealed. _Chuulish recharge:_ Choose an enemy engaged with you. Until the end of the battle, whenever that enemy tries to disengage from you or pop free from you, it must first succeed at an easy save (champion: normal save; epic: hard save).
+These claw-covered tentacles normally reside under the skin of the forearm, completely concealed. _Chuulish recharge:_ Choose an enemy engaged with you. Until the end of the battle, whenever that enemy tries to disengage from you or pop free from you, it must first succeed at an easy save, normal save at champion tier, and hard save at epic tier.
 
 **Quirk:** Tentacles writhe in and out of the skin unexpectedly.
 
@@ -9742,7 +9742,7 @@ These claw-covered tentacles normally reside under the skin of the forearm, comp
 
 Gloves
 
-A lobster-clawed gauntlet that fits over your forearm. The eyes at the fleshy joints blink unnervingly. _Chuulish recharge:_ Reroll a missed melee attack with a +1 attack bonus (champion: +2; epic: +3).
+A lobster-clawed gauntlet that fits over your forearm. The eyes at the fleshy joints blink unnervingly. _Chuulish recharge:_ Reroll a missed melee attack with a +1 attack bonus, +2 at champion tier, and +3 at epic tier.
 
 **Quirk:** The claw flexes and snaps reflexively when wearer is excited.
 
@@ -9814,7 +9814,7 @@ Belt
 
 The pulsating band of chuul-flesh inside a bony cage sits on your lower back, exchanging blood and injecting substances into your organs.
 
-_Always:_ Increase your maximum hp by +4 (champion: +10 hp; epic: +25 hp). Whenever you take ongoing damage, reduce that damage by your level.
+_Always:_ Increase your maximum hp by +4, +10 hp at champion tier, and +25 hp at epic tier. Whenever you take ongoing damage, reduce that damage by your level.
 
 **Quirk:** Odd gait from reconfigured pelvis.
 
@@ -9826,7 +9826,7 @@ Boots
 
 A carapace covers each of your legs and has an unblinking armored eye on the knee. Unfolding blade-like appendages whip out at those engaged with you.
 
-_Always:_ When you make an opportunity attack, the target takes +1d6 extra damage on a hit (champion: +2d8; epic: +4d10).
+_Always:_ When you make an opportunity attack, the target takes +1d6 extra damage on a hit, +2d8 at champion tier, and +4d10 at epic tier.
 
 **Quirk:** A billow-like lung inside each greave makes a breathing sound.
 
@@ -9852,7 +9852,7 @@ Cloak/Mantle
 
 Insectile wings hide in slits under the always itching skin of your back.
 
-_Always:_ +1 PD (adventurer); +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ As a standard action, you can fly clumsily for one round (champion: 1d3 + 1 rounds; epic: 2d4 rounds).
+_Always:_ +1 PD (adventurer); +2 PD (champion); +3 PD (epic). _Chuulish recharge:_ As a standard action, you can fly clumsily for one round, 1d3 + 1 rounds at champion tier, and 2d4 rounds at epic tier.
 
 **Quirk:** Insectile mouthparts grow at the back of the throat and squiggle out when wearer talks excitedly.
 
@@ -10018,7 +10018,7 @@ Mental Defense: +2 (adventurer); +3 (champion); +5 (epic).
 
 You rally as a quick action, and the recovery you spend is free.
 
-_Curse:_ While in battle against enemies that are at least double-strength/large or are higher level than you (champion: at least two levels higher than you; epic: at least three levels higher), you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s full recovery power, etc.
+_Curse:_ While in battle against enemies that are at least double-strength/large or are higher level than you, at least two levels higher than you at champion tier, and at least three levels higher at epic tier, you can’t use limiteduse powers until the escalation die is 2+. Note, limited-use powers include powers, spells, talents, features, magic item powers including this item’s full recovery power, etc.
 
 **Quirk:** Speaks in simplistic, crowd-pleasing banter and refers to self in the third person (“Can you taste what The Boulder is brewing?” or “Thuug smash little man!”).
 
@@ -10062,7 +10062,7 @@ _Always:_ Bonus to attacks and damage: +2 (adventurer). In addition, when you mi
 
 ##### Blade of Unerring Panache
 
-When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic: 25 hp).
+When you attack with this weapon and miss, you lose 4 hp, 10 hp at champion tier, and 25 hp at epic tier.
 
 **Quirk:** Tells the same stories over and over.
 
@@ -10072,7 +10072,7 @@ When you attack with this weapon and miss, you lose 4 hp (champion: 10 hp; epic:
 
 One-Handed
 
-When you roll a critical hit with this weapon, deal 2d4 extra fire damage after the crit damage has been rolled (champion: extra 6d4 damage; epic: extra 10d4 damage).
+When you roll a critical hit with this weapon, deal 2d4 extra fire damage after the crit damage has been rolled, extra 6d4 damage at champion tier, and extra 10d4 damage at epic tier.
 
 _Curse:_ When you roll a natural 1 or a critical hit against an enemy that resists fire with this weapon, you take double the extra fire damage instead of applying it to the target.
 
@@ -10092,7 +10092,7 @@ _Curse:_ When you roll a natural 1 on an attack with this weapon, the attack hit
 
 ##### Hellforged
 
-Each battle while staggered, when you first take damage that has a type (acid, cold, fire, etc.), you deal +1d6 damage of that type with weapon attacks for the rest of the battle (champion: +2d6; epic: +3d6).
+Each battle while staggered, when you first take damage that has a type (acid, cold, fire, etc.), you deal +1d6 damage of that type with weapon attacks for the rest of the battle, +2d6 at champion tier, and +3d6 at epic tier.
 
 _Curse:_ When you roll a natural 1 (on any d20 roll), you take double the weapon’s extra damage.
 
@@ -10114,9 +10114,9 @@ _Curse:_ If you roll a natural 1 or 2 when attacking with this bow, the attack a
 
 ##### Soul-drinking
 
-_Recharge 11+:_ The first time each battle you hit with an attack using this weapon, you gain 1d10 + 2 temporary hit points (champion: 2d10 + 2; epic: 4d10 + 2).
+_Recharge 11+:_ The first time each battle you hit with an attack using this weapon, you gain 1d10 + 2 temporary hit points, 2d10 + 2 at champion tier, and 4d10 + 2 at epic tier.
 
-_Curse:_ The first time each battle each of your allies heals using a recovery, that ally heals 8 fewer hit points (champion: 13 hp; epic: 24 hp).
+_Curse:_ The first time each battle each of your allies heals using a recovery, that ally heals 8 fewer hit points, 13 hp at champion tier, and 24 hp at epic tier.
 
 **Quirk:** Very pale complexion.
 
@@ -10150,7 +10150,7 @@ Attack and damage with arcane spells or attacks: +2 (adventurer); +3 (champion).
 
 ##### Bloodless Mage
 
-When you attack using this wand, you lose 1 hp (champion: 3 hp; epic: 6 hp).
+When you attack using this wand, you lose 1 hp, 3 hp at champion tier, and 6 hp at epic tier.
 
 **Quirk:** Laughs turn hollow or spectral.
 

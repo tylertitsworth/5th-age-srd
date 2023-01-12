@@ -479,7 +479,7 @@ At-Will
 
 **Hit:** WEAPON + Dexterity damage.
 
-_Natural Even Hit:_ The target takes ongoing poison damage equal to your Constution modifier (save ends) (champion: ongoing poison damage is now double your Constitution modifier; epic: triple).
+_Natural Even Hit:_ The target takes ongoing poison damage equal to your Constution modifier (save ends), ongoing poison damage is now double your Constitution modifier at champion tier, and triple at epic tier.
 
 _Miss:_ Damage equal to your level.
 

@@ -163,9 +163,9 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | **Roll** | **Effect** |
 | --- | --- |
 | 01–20 | +4 bonus to opportunity attacks |
-| 21–40 | Weapon gains an energy damage type such as fire, cold, etc., and deals +1d4 damage (champion: +2d6; epic: +5d6) |
+| 21–40 | Weapon gains an energy damage type such as fire, cold, etc., and deals +1d4 damage, +2d6 at champion tier, and +5d6 at epic tier |
 | 41–60 | +4 attack bonus on first round of combat |
-| 61–80 | Weapon deals +1d10 damage while escalation die is 3+ (champion: +4d6; epic: +3d20) |
+| 61–80 | Weapon deals +1d10 damage while escalation die is 3+, +4d6 at champion tier, and +3d20 at epic tier |
 | 81–100 | Reroll one missed attack roll with weapon |
 
 ### Random Rune Effect on Spellcasting Implement
@@ -173,7 +173,7 @@ Runes function exactly like magical oils, but in addition to the expected +1/+2/
 | **Roll** | **Effect** |
 | --- | --- |
 | 01–20 | +1 additional attack bonus if spell has only one target |
-| 21–40 | Implement gains an energy damage type such as fire, necrotic, etc., and deals +1d4 damage (champion: +2d6; epic: +5d6) |
+| 21–40 | Implement gains an energy damage type such as fire, necrotic, etc., and deals +1d4 damage, +2d6 at champion tier, and +5d6 at epic tier |
 | 41–60 | +1 additional attack bonus with full recovery spells |
 | 61–80 | +1 additional attack bonus if spell has more than one target |
 | 81–100 | Reroll one missed attack roll with implement |
@@ -204,7 +204,7 @@ These shoes have one good dance in them, but boy what a dance. The shoes only wo
 
 For a scene, you gain a +5 bonus to heroic-tier skill checks involving dancing, before bursting into flames once you stop dancing, taking your level times the amount shown below in fire damage as the shoes burn up. Higher-tier shoes are more expensive.
 
-The first time you use them in combat, until the end of the battle, you can pop free from each enemy engaged with you as a move action (once per round). If you don’t pop free from enemies or move normally during your turn, you take 1d4 fire damage (champion: 2d8 fire damage; epic: 4d10 fire damage). The shoes turn to ash at the end of the battle.
+The first time you use them in combat, until the end of the battle, you can pop free from each enemy engaged with you as a move action (once per round). If you don’t pop free from enemies or move normally during your turn, you take 1d4 fire damage, 2d8 fire damage at champion tier, and 4d10 fire damage at epic tier. The shoes turn to ash at the end of the battle.
 
 **Cost:** 50 gp; champion 100 gp; epic: 200 gp.
 
@@ -214,7 +214,7 @@ The first time you use them in combat, until the end of the battle, you can pop 
 
 Standard Action
 
-Taken from graves of those that died due to dark sorcery, this dust sends beasts, dragons, giants, and humanoids into a slumber. Cast the wizard spell [sleep](../Classes/Wizard.md#sleep) at 3rd level as a close attack using an attack of +7 vs. PD (champion: 5th level spell, +13 vs. PD; epic: 9th level spell, +18 vs. PD) against a single creature engaged with you. If you roll a natural 1 on the attack roll, you are hit by the attack.
+Taken from graves of those that died due to dark sorcery, this dust sends beasts, dragons, giants, and humanoids into a slumber. Cast the wizard spell [sleep](../Classes/Wizard.md#sleep) at 3rd level as a close attack using an attack of +7 vs. PD, 5th level spell, +13 vs. PD at champion tier, and 9th level spell, +18 vs. PD at epic tier against a single creature engaged with you. If you roll a natural 1 on the attack roll, you are hit by the attack.
 
 **Cost:** 200 gp; champion: 400 gp; epic: 800 gp.
 
@@ -266,7 +266,7 @@ This alchemically enhanced chalk stick glows in the dark, making it useful for m
 
 Standard Action
 
-When this pouch of sand is thrown onto soil or gravel, the ground temporarily becomes knee-deep quicksand around it. Cast the wizard spell [hold monster](../Classes/Wizard.md#hold-monster) at 3rd level as a close attack using +7 vs. PD (champion: 5th level spell, +13 vs. PD; epic: 9th level spell, +18 vs. PD) against a normal-sized non-flying creature engaged with you. If you roll a natural 1 when attacking with the sand, you are hit by the attack.
+When this pouch of sand is thrown onto soil or gravel, the ground temporarily becomes knee-deep quicksand around it. Cast the wizard spell [hold monster](../Classes/Wizard.md#hold-monster) at 3rd level as a close attack using +7 vs. PD, 5th level spell, +13 vs. PD at champion tier, and 9th level spell, +18 vs. PD at epic tier against a normal-sized non-flying creature engaged with you. If you roll a natural 1 when attacking with the sand, you are hit by the attack.
 
 **Cost:** 200 gp; champion: 400 gp; epic: 800 gp.
 
@@ -296,7 +296,7 @@ Alchemists often produce strange fumes and unstable admixtures while trying to c
 
 Standard Action
 
-These magical disguises are used by thieves and assassins. Each one lasts for 1d3 + 1 uses. When used, you cast the wizard utility spell [change self](../Character-Rules/Rituals.md#change-self) at 3rd level (champion: 5th level; epic: 7th level). Afterward, the mask takes on your appearance.
+These magical disguises are used by thieves and assassins. Each one lasts for 1d3 + 1 uses. When used, you cast the wizard utility spell [change self](../Character-Rules/Rituals.md#change-self) at 3rd level, 5th level at champion tier, and 7th level at epic tier. Afterward, the mask takes on your appearance.
 
 **Cost:** 150 gp; champion: 250 gp; epic: 350 gp.
 
@@ -341,7 +341,7 @@ This potion doesn’t really swap tongues, it just seems that way, and lasts for
 
 ### Power-Stone
 
-These dwarf-made semi-precious gemstones hold reserves of magical energy. When mounted to a weapon, the power-stone grants a +1 bonus to attacks and damage with that weapon (champion: +2; epic: +3). When mounted to armor the power-stone grants a +1 bonus to AC (champion: +2; epic: +3). When you score a critical hit with a stone-mounted weapon, or when an attack against AC crits you, the power-stone cracks as you lose its bonus and take 5 force damage (champion: 15 force damage; epic: 35 force damage).
+These dwarf-made semi-precious gemstones hold reserves of magical energy. When mounted to a weapon, the power-stone grants a +1 bonus to attacks and damage with that weapon, +2; epic: +3). When mounted to armor the power-stone grants a +1 bonus to AC (champion: +2; epic: +3). When you score a critical hit with a stone-mounted weapon, or when an attack against AC crits you, the power-stone cracks as you lose its bonus and take 5 force damage (champion: 15 force damage at champion tier, and 35 force damage at epic tier.
 
 **Cost:** 300 gp; champion: 600 gp; epic: 1200 gp.
 
@@ -383,7 +383,7 @@ This expensive alchemically-created rope is stretchy and elastic. It will hold w
 
 ### Tangle-Rope
 
-A short length of weighted, enchanted rope. As a quick action, cast the wizard spell [hold monster](../Classes/Wizard.md#hold-monster) at 3rd level using +7 vs. PD (champion: 5th level spell, +13 vs. PD; epic: 9th level spell, +18 vs. PD) against a single normal-sized nearby creature.
+A short length of weighted, enchanted rope. As a quick action, cast the wizard spell [hold monster](../Classes/Wizard.md#hold-monster) at 3rd level using +7 vs. PD, 5th level spell, +13 vs. PD at champion tier, and 9th level spell, +18 vs. PD at epic tier against a single normal-sized nearby creature.
 
 **Cost:** 300 gp; champion: 600 gp; epic: 1200 gp.
 
