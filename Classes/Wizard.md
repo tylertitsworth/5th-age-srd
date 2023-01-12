@@ -625,7 +625,7 @@ Increase the damage dice of your once-per-battle unarmed attack to d20s.
 
 ### Necroblast
 
-Once per full recovery, before you cast a spell, you may declare it to be a necroblast. The spell’s damage type becomes negative energy damage in addition to its usual type. If any non-undead nonmooks are destroyed by the spell, they become undead under your control.
+Once per full recovery, before you cast a spell, you may declare it to be a necroblast. The spell’s damage type becomes necrotic damage in addition to its usual type. If any non-undead nonmooks are destroyed by the spell, they become undead under your control.
 
 In battle, these undead creatures crumble at the end of their next turn, or if they are hit by any other attack, but may make a move and a basic attack under your control. The creatures are considered weakened (–4 to attacks and defenses).
 

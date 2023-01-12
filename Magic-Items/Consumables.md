@@ -114,7 +114,7 @@ Bonuses from oils don't stack with magic items' inherent bonuses. Use the higher
 
 ### Elemental
 
-Elemental oil doesn’t give a bonus to attacks or damage, but causes the weapon to deal a particular type of energy damage (fire, cold, lightning, acid, poison, holy, negative energy, force, thunder and the like). Elemental oil only works on weapons, not on implements or armor.
+Elemental oil doesn’t give a bonus to attacks or damage, but causes the weapon to deal a particular type of energy damage (fire, cold, lightning, acid, poison, radiant, necrotic, force, thunder and the like). Elemental oil only works on weapons, not on implements or armor.
 
 **Costs** 150gp per vial.
 

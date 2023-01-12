@@ -534,7 +534,7 @@ Recharge 11+ after battle
 
 **Hit:** 2d6 + Charisma psychic damage, and the target becomes vulnerable to radiant until the end of the battle.
 
-_Miss:_ Psychic damage equal to your level, and the target becomes vulnerable to holy until the end of your next turn.
+_Miss:_ Psychic damage equal to your level, and the target becomes vulnerable to radiant until the end of your next turn.
 
 | Higher Level | Effect |
 | --- | --- |

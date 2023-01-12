@@ -539,7 +539,7 @@ Quick Action to Cast out of Combat
 
 _Special:_ While this spell is active, your head is crowned by a corona of scintillating light that spins and spits tiny beams of illumination. This pretty much makes it impossible for you to hide, though an invisibility spell might work, with difficulty.
 
-**Effect:** You gain an initiative bonus equal to your Wisdom modifier, and +1d6 holy damage to the first close-range or melee attack you hit with in battle. Hitting dispels the corona.
+**Effect:** You gain an initiative bonus equal to your Wisdom modifier, and +1d6 radiant damage to the first close-range or melee attack you hit with in battle. Hitting dispels the corona.
 
 | Higher Level | Effect |
 | --- | --- |

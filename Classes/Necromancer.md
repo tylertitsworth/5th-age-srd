@@ -364,7 +364,7 @@ All 6s you roll with relationship dice count as 5s. You gain another extra necro
 
 ### Redeemer
 
-Undead you summon release holy energy bursts as they drop to 0 hp, dealing a small amount of damage to each enemy engaged with them.
+Undead you summon release radiant energy bursts as they drop to 0 hp, dealing a small amount of damage to each enemy engaged with them.
 
 Mooks you summon deal radiant damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
 
