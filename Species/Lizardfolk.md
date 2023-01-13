@@ -6,7 +6,7 @@
 
 ### Adventurer Feat
 
-Once per day when grabbed or stuck, you can spend a recovery (regaining no hp) and end that condition on yourself.
+Once per full recovery when grabbed or stuck, you can spend a recovery (regaining no hp) and end that condition on yourself.
 
 ### Epic Feat
 
@@ -34,6 +34,6 @@ _Special:_ You can make a number of attacks equal to the escalation die, but may
 
 **Hit:** 1d8 x level damage.
 
-##### Champion Feat
+###### Champion Feat
 
 You may replace one of your frenzy attacks with an at-will or basic attack.

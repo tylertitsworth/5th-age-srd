@@ -1,3 +1,6 @@
+---
+layout: doc
+---
 # Building Battles
 
 For adventure tier, levels 1-4, start with one enemy creature of the party's level per PC. At champion tier, levels 5-7, start with one enemy creature per PC, with each creature being one level higher than the PCs. At epic tier, levels 8–10, the monsters should weigh in at two levels above the PCs if they appear in equal numbers.

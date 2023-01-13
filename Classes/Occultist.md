@@ -58,9 +58,9 @@ The occultist start with 25gp.
 | **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 5 | — | 3 | 3 | — | — |  | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 5 | — | — | 7 | — | — |  | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 5 | — | — | 4 | 4 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 6 | — | — | — | 9 | — |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 6 | — | — | — | 4 | 5 |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6 | — | — | — | — | 10 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 6 | — | — | — | 9 | — |  | 4 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 6 | — | — | — | 4 | 5 |  | 4 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6 | — | — | — | — | 10 | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
@@ -68,15 +68,16 @@ The occultist start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
 
-| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Intelligence or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod |
+| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
 | **Talents** | 4 (see [level progression chart](#level-progression)) |
@@ -138,7 +139,7 @@ Once per battle when a healing effect would be applied to you, you can roll a sa
 
 #### Epic Feat
 
-Increase your total recoveries by 1. Once per day as a free action when a natural attack roll of 17 or less hits you, you take only half damage from that attack instead.
+Increase your total recoveries by 1. Once per full recovery as a free action when a natural attack roll of 17 or less hits you, you take only half damage from that attack instead.
 
 ---
 
@@ -170,10 +171,12 @@ _Karmic rebuke_ requires a quick action instead of an interrupt action. It's des
 
 #### Karmic Rebuke
 
-Close-quarters spell
+Close-quarters Spell
 
 **At-Will**
-Quick action to cast; expend focus
+Quick action to cast
+
+Expend Focus
 
 **Target:** One nearby enemy
 
@@ -202,15 +205,15 @@ Like a standard spellcaster, you choose the spells you will be able to cast afte
 
 #### Adventurer Feat
 
-Once per day, you can automatically succeed on a recharge roll that's 6+ (but not 11+ or 16+).
+Once per full recovery, you can automatically succeed on a recharge roll that's 6+ (but not 11+ or 16+).
 
 #### Champion Feat
 
-Once per day when you recharge a spell (usually during a quick rest), you can make a recharge roll for a recharge spell even if you haven't expended that spell (allowing you to have an additional use of that spell available).
+Once per full recovery when you recharge a spell (usually during a quick rest), you can make a recharge roll for a recharge spell even if you haven't expended that spell (allowing you to have an additional use of that spell available).
 
 #### Epic Feat
 
-Once per day, you can automatically succeed on a recharge roll.
+Once per full recovery, you can automatically succeed on a recharge roll.
 
 ---
 
@@ -240,11 +243,9 @@ Once per battle, when you are missed by an attack, the attacker takes the miss e
 
 You gain the Martial Rebuke power, which you can use instead of Karmic Rebuke to expend your focus on your turn.
 
----
-
 #### Martial Rebuke
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -294,7 +295,7 @@ Choose a damage type, such as physical weapons or fire. You are vulnerable to th
 
 #### Adventurer Feat
 
-Gain a 3-point background related to the prophecy.
+Gain a 3-point skill related to the prophecy.
 
 #### Champion Feat
 
@@ -312,7 +313,7 @@ You can use an edged melee weapon without an attack penalty. You can use Intelli
 
 #### Adventurer Feat
 
-Twice per day when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
+Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
 
 #### Champion Feat
 
@@ -320,7 +321,7 @@ While you have your focus, you gain a +4 bonus to opportunity attacks.
 
 #### Epic Feat
 
-Once per day when you hit an enemy with _karmic rebuke_, you can make a basic melee attack as a free action.
+Once per full recovery when you hit an enemy with _karmic rebuke_, you can make a basic melee attack as a free action.
 
 ---
 
@@ -328,7 +329,7 @@ Once per day when you hit an enemy with _karmic rebuke_, you can make a basic me
 
 _Special:_ You cannot take this talent if you have taken the Icon Envoy talent.
 
-You have three fewer relationship points than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to allocate relationship points, you get an advantage as though you have 3 points with any one occult relationship you choose. Like any other character, you can gain occult relationship points through extraordinary story events. Remember, just because a occult relationship is out to kill you doesn't mean you have negative relationship points. Points represent the utility of a connection in the story not its strength. If you encounter occult relationships other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
+You have three fewer relationship points than normal (i.e. none at adventurer tier, one at champion tier, and two at epic tier). Instead, when all the characters get to allocate relationship points, you get an advantage as though you have 3 points with any one occult relationship you choose. Like any other character, you can gain occult relationship points through extraordinary story events. Remember, just because an occult relationship is out to kill you doesn't mean you have negative relationship points. Points represent the utility of a connection in the story not its strength. If you encounter occult relationships other than the standard ones, you can probably talk the GM into letting you align your soul to them, but expect it to cost you.
 
 #### Adventurer Feat
 
@@ -372,7 +373,7 @@ You gain the Karmic Cure power, which you can use instead of Karmic Rebuke to ex
 
 #### Karmic Cure
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -416,7 +417,7 @@ While you have focus, you have a +1 bonus to all defenses.
 
 ### Otherworld Shadow
 
-A shadow self haunts and lurks near you most of the time, sometimes an actual shadow on a wall, but other times only a presence sensed just over your shoulder. Once per day as an interrupt action, negate all damage and effects from an enemy's attacks against you that turn as your shadow absorbs them. Using this talent's power means you avoid damage from a monster's multiple attacks if it has them. It also works against multiple attacks from mooks in the same mob working on the same initiative count, but not attacks from multiple non-mook monsters.
+A shadow self haunts and lurks near you most of the time, sometimes an actual shadow on a wall, but other times only a presence sensed just over your shoulder. Once per full recovery as an interrupt action, negate all damage and effects from an enemy's attacks against you that turn as your shadow absorbs them. Using this talent's power means you avoid damage from a monster's multiple attacks if it has them. It also works against multiple attacks from mooks in the same mob working on the same initiative count, but not attacks from multiple non-mook monsters.
 
 #### Adventurer Feat
 
@@ -424,11 +425,11 @@ Your shadow grants you greater personal resilience: increase your total recoveri
 
 #### Champion Feat
 
-Once per day as a free action, you can end all ongoing damage affecting you as you pass off the damage to your shadow.
+Once per full recovery as a free action, you can end all ongoing damage affecting you as you pass off the damage to your shadow.
 
 #### Epic Feat
 
-Once per day as a free action, you gain a _fear aura_ that affects each enemy attacking you or engaged with you. The hit point threshold for the fear effect is the standard value for a monster five levels above you. Allies are not subject to the fear effect unless they cast a spell that targets you or otherwise interact with you directly in some way. Even in this case, that ally can spend a move action to be immune to your shadow's _fear aura_ for one round.
+Once per full recovery as a free action, you gain a _fear aura_ that affects each enemy attacking you or engaged with you. The hit point threshold for the fear effect is the standard value for a monster five levels above you. Allies are not subject to the fear effect unless they cast a spell that targets you or otherwise interact with you directly in some way. Even in this case, that ally can spend a move action to be immune to your shadow's _fear aura_ for one round.
 
 | **PC Level** | **Fear Threshold HP (Level + 5)** |
 | --- | --- |
@@ -455,7 +456,7 @@ Once per battle, gain a once-per-battle psion spell instead. In addition, you ca
 
 #### Champion Feat
 
-Once per day, gain a daily psion spell instead.
+Once per full recovery, gain a full recovery psion spell instead.
 
 #### Epic Feat
 
@@ -485,7 +486,7 @@ While you have focus, you ignore the resistances of any enemy you attack with a 
 
 ### Stance of Necessity
 
-Twice per day as a quick action, you can gain a +4 bonus to all defenses. The protection lasts until the end of the battle and is in effect while you do NOT have your focus. The bonus also ends when an attack hits you while you don't have your focus.
+Twice per full recovery as a quick action, you can gain a +4 bonus to all defenses. The protection lasts until the end of the battle and is in effect while you do NOT have your focus. The bonus also ends when an attack hits you while you don't have your focus.
 
 #### Adventurer Feat
 
@@ -493,7 +494,7 @@ You can guard a nearby ally instead of yourself (you don't have to see that ally
 
 #### Champion Feat
 
-Your Stance of Necessity uses are now recharge 16+ instead of daily.
+Your Stance of Necessity uses are now recharge 16+ instead of full recovery.
 
 #### Epic Feat
 
@@ -515,7 +516,7 @@ You can also make a _karmic rebuke_ attack as a free action when you roll a natu
 
 #### Epic Feat
 
-One battle per day as a free action, you can enhance your _karmic__rebuke_. When you enhance it, enemies are vulnerable (crit range expands by 2) to your _karmic rebuke_ attacks until the end of the battle or until you score a critical hit with the attack.
+One battle per full recovery as a free action, you can enhance your _karmic__rebuke_. When you enhance it, enemies are vulnerable (crit range expands by 2) to your _karmic rebuke_ attacks until the end of the battle or until you score a critical hit with the attack.
 
 ---
 
@@ -545,7 +546,7 @@ If you have the Blade of Castigation talent, you can trigger the maneuver with M
 
 #### Adventurer Feat
 
-Choose a fighter talent that can be used once per battle. You can use this talent once per day, but you must expend your focus to do so.
+Choose a fighter talent that can be used once per battle. You can use this talent once per full recovery, but you must expend your focus to do so.
 
 #### Champion Feat
 
@@ -589,7 +590,7 @@ Whenever you roll extra damage dice from exploding dice, also deal the extra dam
 
 #### Epic Feat
 
-Once per day, attack one nearby enemy per Intelligence modifier with an occultist spell that only has one target.
+Once per full recovery, attack one nearby enemy per Intelligence modifier with an occultist spell that only has one target.
 
 ---
 
@@ -601,7 +602,7 @@ You gain the Fangs of the Horned Serpent power, which you can use to expend focu
 
 #### Fangs of the Horned Serpent
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -664,9 +665,9 @@ You gain the Event Horizon power, which you can use to expend focus on your turn
 
 #### Event Horizon
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -690,7 +691,7 @@ On a natural 18+, the stun effect is “save ends.”
 
 ---
 
-### Transcendence
+### Transcendence (8th Level+)
 
 You gain 5-point skill towards a transcendence skills. This skill represent your connection to a shared universal conscience. If you close your eyes for a few seconds, you can merge with the font of all knowledge and dig up even the most remote and obscure insight that is beyond mere mortal comprehension.
 
@@ -706,7 +707,7 @@ Increase the transcendence skill to 7.
 
 ### Auramancy
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after scene
 
@@ -722,11 +723,13 @@ When you have this spell, you have a hunch when you are in the presence of avery
 
 ### Better Yet, Here
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies hits a nearby enemy with an attack.
 
@@ -759,11 +762,13 @@ When the triggering ally scores a critical hit with the attack, you don't expend
 
 ### Bitter Lessons
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy misses with an attack.
 
@@ -788,11 +793,13 @@ Interrupt action to cast; expend focus
 
 ### Brilliant Comeback
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally uses a recovery.
 
@@ -823,13 +830,13 @@ The target of the triggering ally's attack is vulnerable to that attack.
 
 ### Deja Vu
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after the battle / scene
 
 Interrupt action
 
-expend focus
+Expend Focus
 
 _Special:_ You can cast this spell out of combat. In that case, it doesn’t require, expend, or retain focus.
 
@@ -847,11 +854,13 @@ The spell is now Recharge 6+.
 
 ### Inevitable Fall
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies attacks a nearby enemy and misses.
 
@@ -880,7 +889,7 @@ The save to end the ongoing damage, hit or miss, is hard (16+).
 
 ### Mirific Miss
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -917,11 +926,13 @@ On a natural 5, 10, 15, or 20 on your attack roll, your ally can reroll the atta
 
 ### Moment of Karma
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy hits you with an attack.
 
@@ -958,7 +969,7 @@ Add triple your Wisdom modifier to your miss damage.
 
 ### Momentous Distraction
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -997,7 +1008,7 @@ Reroll the disengage checks on an even miss with the attack.
 
 ### Parallax Aegis
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1036,7 +1047,7 @@ Retain focus on 1-10.
 
 ### Rampant Reverberation
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1064,7 +1075,7 @@ You no longer take damage on a miss.
 
 ### Sanguine Echo
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1091,9 +1102,9 @@ Nearby allies that you didn’t target with the effect can heal hit points equal
 
 ### Secrets Revealed
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** A piece of writing or code
 
@@ -1107,11 +1118,13 @@ The spell can now make faded or erased writing visible.
 
 ### Timely Mistake
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy hits you or an ally with a natural odd attack roll.
 
@@ -1150,11 +1163,13 @@ When you miss with this spell but retain your focus with the roll, the target ta
 
 ### Blood for Blood
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** One of your allies is staggered by a nearby enemy's attack.
 
@@ -1190,7 +1205,7 @@ Your retain focus range with this spell is now 1–15.
 
 ### Cromulent Embiggening
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1212,11 +1227,13 @@ You now retain focus on 1-10.
 
 ### Diversion of Pain
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby enemy of 5th level or lower hits one of your allies with an attack that could have targeted you or a different ally.
 
@@ -1246,11 +1263,13 @@ The new target gains _resist damage 18+_ against the triggering attack.
 
 ### Fortune Smiles
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally fails a save against an effect created by a level 1–4 enemy.
 
@@ -1276,13 +1295,13 @@ When you cast this spell, choose a second nearby ally. It can roll a save agains
 
 ### Karmic Flip
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
 Interrupt action to cast
 
-expend focus
+Expend Focus
 
 **Trigger:** A nearby ally makes an attack roll against an enemy.
 
@@ -1310,7 +1329,7 @@ You can now target any nearby enemy of your choice with this spell.
 
 ### Primordial Acidification
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1348,11 +1367,13 @@ If you cast this spell while the escalation die is 5+, deal 3d6 extra ongoing da
 
 ### Strike of the Last Breath
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally drops to 0 hp or below from the attack of an enemy engaged with it **.**
 
@@ -1380,7 +1401,7 @@ The target can make an at-will attack instead of a basic attack.
 
 ### Surging Escutcheon
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1402,7 +1423,7 @@ While the halo is active, the ally also heals damage equal to the spell level wh
 
 ### The Unknown Unknowns
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 
@@ -1426,9 +1447,9 @@ If the reroll is an odd miss, add an unexpected beneficial effect. Maybe the tra
 
 ### Astral Projection
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Your conscious self leaves your body, and you project an image of yourself and your voice in a distant location. You perceive the surroundings of the target location, and the projected image mimics your movements, but you can’t interact with the environment.
 
@@ -1438,7 +1459,7 @@ To project yourself to a specific location, you must have some connection to it.
 
 ### Attack of the Clone
 
-Close-quarters spell
+Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
@@ -1456,7 +1477,7 @@ Expend focus
 
 ### Authorized Override
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1507,7 +1528,7 @@ When casting the spell, gain a temporary 5-point background that you can use to 
 
 ### Call of Doom
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -1534,11 +1555,13 @@ _Special:_ You can cast this spell without having your focus. If the trigger is 
 
 ### Crooked Step
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** An enemy with 100 hp or fewer moves to engage one of your allies and attacks.
 
@@ -1563,11 +1586,13 @@ When this spell makes the triggering enemy miss with an attack, that enemy takes
 
 ### Fateful Confrontation
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby unengaged enemy ends its turn.
 
@@ -1595,7 +1620,7 @@ The spell is now recharge 11+ after battle instead.
 
 ### Shotting Fireworks
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1628,11 +1653,13 @@ Make four attacks.
 
 ### Stifle
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** An enemy with 70 hp or fewer fails a disengage check or is targeted with an opportunity attack.
 
@@ -1661,7 +1688,7 @@ Increase the triggering hit point threshold by 50.
 
 ### Temporal Splice
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
@@ -1673,7 +1700,7 @@ Quick action
 
 ### Waking Ward
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1698,7 +1725,7 @@ Also target a second nearby ally, for half the amount of temporary hit points.
 
 ### Arcane Cataclysm
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 11+ after battle
 
@@ -1726,13 +1753,15 @@ Retain focus on any roll if the triggering spell was a critical hit.
 
 ### Arcane Loop
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
 
-**Trigger:** A nearby ally casts a daily or recharge spell of 7th level or lower.
+Expend Focus
+
+**Trigger:** A nearby ally casts a full recovery or recharge spell of 7th level or lower.
 
 **Effect:** The triggering ally doesn't expend that spell.
 
@@ -1754,7 +1783,7 @@ Your retain focus range with this spell is now 1–15.
 
 ### Army of Me
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1768,11 +1797,13 @@ Each living clone increases the retain focus range of your spells by 1.
 
 ### Liberating Blow
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A nearby ally fails a disengage check.
 
@@ -1792,7 +1823,7 @@ The target's disengage check is successful whether or not the attack hits.
 
 ### Pocket Labyrinth Dimension
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 
@@ -1822,11 +1853,11 @@ Attack the lower defense of PD or MD with this spell.
 
 ### Butterfly Effect
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a colorful butterfly that flaps its wings once. This sets a chain of connected events in motion. You determine the general outcome of each event (“Snow is falling on Dragon Peak”), but not the details. The connection does not have to be obvious, as your magic works in mysterious ways. Each step in the chain takes up to a full day to resolve. After each event, roll a d20. If the roll is equal to the number of events caused by the spell, or lower, the spell ends. You cannot end the spell voluntarily — a high enough roll always causes the next event.
+**Effect:** You summon a colorful butterfly that flaps its wings once. This sets a chain of connected events in motion. You determine the general outcome of each event (“Snow is falling on Dragon Peak”), but not the details. The connection does not have to be obvious, as your magic works in mysterious ways. Each step in the chain takes up to a full full recovery to resolve. After each event, roll a d20. If the roll is equal to the number of events caused by the spell, or lower, the spell ends. You cannot end the spell voluntarily — a high enough roll always causes the next event.
 
 However, the spell does not end on a roll of natural 1. On a natural 1, the spell spins out of control, and you reroll the die. From that point on, you still describe the event, but there is some catastrophic twist, and each subsequent 1 only makes it worse. These unforeseen consequences are described by other players, starting with the person on your left.
 
@@ -1834,11 +1865,13 @@ However, the spell does not end on a roll of natural 1. On a natural 1, the spel
 
 ### Hasten Fate
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast; expend focus
+Interrupt action to cast
+
+Expend Focus
 
 **Trigger:** A non-mook enemy drops to 0 hp while the escalation die is 3, 4, or 5.
 
@@ -1854,7 +1887,7 @@ The spell now triggers when the escalation die is 2–5.
 
 ### Rewind the Skeins
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per level
 
@@ -1872,7 +1905,7 @@ Take it back five minutes.
 
 ### Temporal Anomaly
 
-Close-quarters spell
+Close-quarters Spell
 
 Recharge 16+ after battle
 

@@ -56,9 +56,9 @@ Clerics start with 25gp.
 | **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | — | 2 | 4 | — | — | — | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | — | 1 | 6 | — | — | — | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | — | — | 2 | 5 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | — | — | 1 | 7 | — | — | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | — | — | — | 2 | 6 | — | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | — | — | — | 1 | 8 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | — | — | 1 | 7 | — | — | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | — | — | — | 2 | 6 | — | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | — | — | — | 1 | 8 | +1 to 3 abilities | 4 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -66,16 +66,17 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 14 + middle mod of Con/Dex/Wis + Level |
 | **Armor Class (shield and heavy armor)** | 15 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod |
+| **Recoveries** | 7 |
+| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -119,13 +120,13 @@ There are certain abilities specific to the cleric that can affect their powers:
 - _Cast for power_ and _cast for broad effect:_ The spell can be used one of two ways—either as a more powerful effect on one target (power) or as a weaker effect on multiple targets (broad). Spells cast for power cannot target the caster. Spells cast for broad effect can.
 - _Free recovery_: The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
 - _Heal using a recovery_: The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
-- _Invocation_: A quick action that offers advantages in battle. It can be made once a day. More than one cleric in a party cannot use the same invocation during a battle.
+- _Invocation_: A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
 
 ---
 
 ### Heal
 
-Close-quarters spell
+Close-quarters Spell
 
 _Special:_ You can use this spell twice per battle.
 
@@ -157,7 +158,7 @@ Clerics can cast divine [rituals](../General-Rules/Rituals.md).
 
 ## Class Talents
 
-Choose three cleric talents/domains. Each talent/domain provides an ability that can be improved by feats. It also provides an invocation you can use as a quick action once per day, per battle, per party.
+Choose three cleric talents/domains. Each talent/domain provides an ability that can be improved by feats. It also provides an invocation you can use as a quick action once per full recovery, per battle, per party.
 
 ### Domain: Healing
 
@@ -209,7 +210,7 @@ You gain 4 additional skill points that must be used somehow in relation to know
 
 #### Adventurer Feat
 
-Once per day, you can change one of your skill checks involving knowledge to a natural 20 instead. Interpret the word "knowledge" as loosely as your GM allows. GMs, be generous.
+Once per full recovery, you can change one of your skill checks involving knowledge to a natural 20 instead. Interpret the word "knowledge" as loosely as your GM allows. GMs, be generous.
 
 #### Champion Feat
 
@@ -217,7 +218,7 @@ You now roll a d4 for the invocation, not a d6.
 
 #### Epic Feat
 
-You gain a different positive relationship point each day with a random deific relationship, purely because the deity has realized you know something they need to know. It changes every day and it might contradict your usual deific relationships.
+You gain a different positive relationship point each full recovery with a random deific relationship, purely because the deity has realized you know something they need to know. It changes every full recovery and it might contradict your usual deific relationships.
 
 ---
 
@@ -279,7 +280,7 @@ You can use d8s instead of d4s for the bonus damage dice.
 
 #### Epic Feat
 
-Once per day, you can use d20s instead of d8s for the bonus damage dice.
+Once per full recovery, you can use d20s instead of d8s for the bonus damage dice.
 
 **Invocation of Strength:** This battle, you and your nearby allies deal triple damage instead of double damage on critical hits with melee attacks.
 
@@ -287,11 +288,11 @@ Once per day, you can use d20s instead of d8s for the bonus damage dice.
 
 ### Domain: Sun/Anti-Undead
 
-Every attack you make deals holy damage instead of other types of damage unless you choose otherwise for a specific attack.
+Every attack you make deals radiant damage instead of other types of damage unless you choose otherwise for a specific attack.
 
 #### Adventurer Feat
 
-If your attack already deals holy damage, it gains the following bonus damage—adventurer tier: +1 damage; champion tier: +2 damage; epic tier: +3 damage.
+If your attack already deals radiant damage, it gains the following bonus damage—+1 damage at adventurer tier, +2 damage at champion tier, and +3 damage at epic tier.
 
 #### Champion Feat
 
@@ -299,9 +300,9 @@ You gain a +2 bonus to all defenses against attacks by undead.
 
 #### Epic Feat
 
-The invocation also affects your allies' daily spells.
+The invocation also affects your allies' full recovery spells.
 
-**Invocation of Sun/Anti-Undead:** When you cast a daily cleric spell this battle, roll a d6. If you roll less than or equal to the escalation die, you regain the use of that daily spell after the battle.
+**Invocation of Sun/Anti-Undead:** When you cast a full recovery cleric spell this battle, roll a d6. If you roll less than or equal to the escalation die, you regain the use of that full recovery spell after the battle.
 
 ---
 
@@ -347,9 +348,9 @@ Allies now also get a damage bonus against such enemies equal to double your Cha
 
 ### Bless
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -370,9 +371,9 @@ Quick action to cast
 
 ### Cure Wounds
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -381,7 +382,7 @@ Quick action to cast
 | Higher Level | Effect |
 | --- | --- |
 | 3rd | The target can also roll a save against each save ends effect. |
-| 5th | This spell is now recharge 16+ after battle instead of daily. |
+| 5th | This spell is now recharge 16+ after battle instead of full recovery. |
 | 7th | The target can heal using two free recoveries instead of one. |
 | 9th | This spell is now recharge 11+ instead. |
 
@@ -389,9 +390,9 @@ Quick action to cast
 
 ### Hammer of Faith
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, your basic melee attacks use d12s as their base weapon damage dice.
 
@@ -406,7 +407,7 @@ Daily
 
 ### Javelin of Faith
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -414,7 +415,7 @@ At-Will
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom holy damage.
+**Hit:** 1d6 + Wisdom radiant damage.
 
 **Miss:** Damage equal to your level.
 
@@ -441,9 +442,9 @@ If your natural attack roll is an 18+, make the attack a second time against a d
 
 ### Shield of Faith
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -464,7 +465,7 @@ Quick action to cast
 
 ### Spirits of the Righteous
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -472,7 +473,7 @@ Once per battle
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 4d6 + Wisdom holy damage, and your nearby ally with the fewest hit points gains a +4 bonus to AC until the end of your next turn.
+**Hit:** 4d6 + Wisdom radiant damage, and your nearby ally with the fewest hit points gains a +4 bonus to AC until the end of your next turn.
 
 **Miss:** Your nearby ally with the fewest hit points gains a +2 bonus to AC until the end of your next turn.
 
@@ -491,9 +492,9 @@ You also gain the bonus to AC until the end of your next turn on a hit.
 
 ### Turn Undead
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby undead creatures, each with 55 hp or fewer.
 
@@ -501,11 +502,11 @@ Daily
 
 **Hit:** The target is dazed until end of your next turn.
 
-**Hit by 4+:** 1d10 x your level holy damage, and the target is dazed until end of your next turn.
+**Hit by 4+:** 1d10 x your level radiant damage, and the target is dazed until end of your next turn.
 
-**Hit by 8+:** Against non-mooks, holy damage equal to half the target's maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level holy damage.
+**Hit by 8+:** Against non-mooks, radiant damage equal to half the target's maximum hit points, and the target is dazed (save ends). Against mooks, the +8 result now deals 4d10 x your level radiant damage.
 
-**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level holy damage
+**Hit by 12+ or Natural 20:** Against non-mooks, the target is destroyed. Against mooks, the +12 result now deals 4d20 x your level radiant damage
 
 | Higher Level | Effect |
 | --- | --- |
@@ -516,7 +517,7 @@ Daily
 
 #### Adventurer Feat
 
-You can expend your daily use of _turn undead_ to gain an additional use of _heal_ in one battle.
+You can expend your full recovery use of _turn undead_ to gain an additional use of _heal_ in one battle.
 
 #### Champion Feat
 
@@ -528,13 +529,34 @@ Increase the targeting limit by 100 hp.
 
 ---
 
+### Vigilant Light
+
+Close-quarters Spell
+
+Full Recovery
+
+Quick Action to Cast out of Combat
+
+_Special:_ While this spell is active, your head is crowned by a corona of scintillating light that spins and spits tiny beams of illumination. This pretty much makes it impossible for you to hide, though an invisibility spell might work, with difficulty.
+
+**Effect:** You gain an initiative bonus equal to your Wisdom modifier, and +1d6 radiant damage to the first close-range or melee attack you hit with in battle. Hitting dispels the corona.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | Spell is now recharge 11+; bonus damage increases to +3d6. |
+| 5th | Spell also affects ranged attacks; bonus damage increases to +5d6. |
+| 7th | Your first attack gains a +2 attack bonus; damage bonus of first hit increases to +7d6. |
+| 9th | Damage bonus increases to +9d6 and applies to your first two attacks in the battle. |
+
+---
+
 ## 3rd Level Spells
 
 ### Cause Fear
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 75 hp or fewer
 
@@ -554,7 +576,7 @@ Daily
 
 ### Combat Boon
 
-Close-quarters spell
+Close-quarters Spell
 
 At-Will
 
@@ -578,9 +600,9 @@ One nearby conscious ally can roll a save even if your attack misses.
 
 ### Divine Endurance
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -600,17 +622,17 @@ Quick action to cast
 
 ### Judgment
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** All nearby staggered enemies
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 5d10 + Wisdom holy damage.
+**Hit:** 5d10 + Wisdom radiant damage.
 
-**Miss:** Holy damage equal to your level.
+**Miss:** Radiant damage equal to your level.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -624,15 +646,15 @@ The spell now deals half damage on a miss.
 
 #### Epic Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
 ---
 
 ### Mighty Healing
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -654,9 +676,9 @@ This spell is now a close-quarters spell.
 
 ### Strength of the Gods
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -678,13 +700,13 @@ Quick action to cast
 
 ### Crisis of Faith
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
-**Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes holy damage equal to double your level.
+**Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes radiant damage equal to double your level.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -693,11 +715,44 @@ Quick action to cast
 
 ---
 
+### Light of Revelation
+
+Ranged Spell
+
+Full Recovery
+
+_Special:_ You can cast this spell for power or for broad effect.
+
+**Target:** (cast for power) One nearby enemy, or (cast for broad effect) up to three nearby enemies.
+
+**Attack:** Wisdom + Level vs. MD
+
+**Hit:** If cast for power, deal 6d10 + Wisdom radiant damage, and 10 ongoing radiant damage (save ends). You may immediately ask the enemy a brief question and unless the enemy has been dropped to 0 hit points, it is compelled to give a truthful answer in response (no more than one or two words, usually.) You may ask another question whenever the target fails a saving throw against the ongoing radiant damage.
+
+If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the tareget (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
+
+_Miss:_ If cast for power, you may ask one question; the target takes half damage if they answer truthfully, and full damage if they lie or refuse to answer. If cast for broad effect, the target takes half damage but no other effect.
+
+| Higher Level | Effect |
+| --- | --- |
+| 7th | 9d10/6d10 and 15 ongoing radiant damage |
+| 9th | 12d10/9d10 and 20 ongoing radiant damage |
+
+#### Champion Feat
+
+When cast at a single target, you may choose to waive the ongoing damage effect. If you do so, the save to remove the ongoing compulsion to answer questions becomes hard (16+).
+
+#### Epic Feat
+
+You can now move the ongoing damage effect to any nearby enemy as a quick action once per round.
+
+---
+
 ### Sanctuary
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Choose yourself or a nearby ally. Enemies with 100 hp or fewer cannot attack the chosen target until that creature attacks or the escalation die reaches 6+.
 
@@ -710,9 +765,9 @@ Daily
 
 ### Sphere of Radiance
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You or one nearby ally can heal using a free recovery. Then make the following attack.
 
@@ -720,7 +775,7 @@ Daily
 
 **Attack:** Wisdom + Level vs. MD
 
-**Hit:** 7d8 + Charisma holy damage.
+**Hit:** 7d8 + Charisma radiant damage.
 
 **Miss:** Half damage.
 
@@ -735,9 +790,9 @@ Daily
 
 ### Circle of Protection
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -749,13 +804,43 @@ Quick action to cast
 
 #### Epic Feat
 
-The spell is now (recharge 16+) after battle instead of daily.
+The spell is now (recharge 16+) after battle instead of full recovery.
+
+---
+
+### Divine Intervention
+
+Ranged Spell
+
+_Special:_ You can cast this spell only once per level. You’ll also have to keep track of how many times you cast this spell in your life.
+
+**Effect:** When you cast this spell, roll 1d6 for each cleric domain you have, one domain at a time. (You’ll want to start with the domain you’re most interested in accessing.) If you get a 5 or a 6, then your deity intervenes through that domain, and something miraculous and astounding happens based on that domain; don’t roll for your other domains. A 5 means the miracle comes with a price, drawback or some other repercussion; a 6 means that your deity is able to intercede cleanly, without upsetting the balance of the cosmos.
+
+If none of your rolls get a 5 or 6, then you’ve got two choices. Option one is to substitute another cleric spell of the same level for this spell—it doesn’t have to be one you’ve got prepared— and cast that spell instead. This still counts as one of your lifetime uses of divine intervention. Option two is to drop the divine intervention—nothing happens and the spell and the action used to cast it is lost, but it doesn’t count towards your lifetime casting total.
+
+The form and scope of the divine intervention is up to you and the GM. The gods don’t usually intervene to smack down bad guys—the intervention is more likely to get you out of a no-win situation, or give you some key clue or advantage to turn the tables on your opponents. Divine interventions can also help with natural disasters and non-combat threats—if you need to stop a volcanic eruption or cure a whole city of plague, this is the spell for you. The effects are always connected to the domain you invoke.
+
+Divine intervention cannot bring back the dead, at least not permanently. It might let a soul out of the afterlife for one fight.
+
+_Limited Use:_ Like resurrection, this spell takes its toll on you. The first time you cast it, you can cast it quickly, with a single standard action.
+
+The second time you cast it, it costs you half your hit points and half your full recovery powers/spells. You’re also permanently marked or changed in some way—you might gain some divine feature, be branded with your god’s holy symbol, or maybe you’ll just be left twisted and broken by the powers you just channeled.
+
+The third time you cast it, you permanently lose access to the domain(s) used to shape the intervention, and you’re left with no spells and only a few hit points. Oh, and every enemy of your deity suddenly knows exactly where you are.
+
+The fourth time you cast it, not only do you lose access to that domain, but so do all the other clerics of your god. Restoring that connection requires an epic quest. Again, you lose all your remaining spells and are knocked down to a few hit points, and you advertise your location and weakness to every foe.
+
+The fifth time you cast this spell, you burn out your soul and are annihilated. Mortals aren’t meant to channel the power of the gods like this.
+
+| Higher Level | Effect |
+| --- | --- |
+| 9th | You get an intervention-with-strings on a 3-4 (instead of a 5) and a repercussionfree intervention on a 5-6 (instead of a 6). |
 
 ---
 
 ### Resurrection
 
-Ranged spell
+Ranged Spell
 
 _Special:_ You can cast this spell only once per level, and a limited number of times in your life. You must have most of the corpse available to cast the spell. There's no time limit on resurrecting a dead PC, so long as you have the corpse.
 
@@ -763,7 +848,7 @@ _Special:_ You can cast this spell only once per level, and a limited number of 
 
 **Limited Casting:** The first time in your life that you use the spell, you can cast it with a single standard action. Using the spell removes one of your spell slots until you gain a level. (You get one less spell per full heal-up.) The person you are resurrecting comes back at roughly half strength, e.g. expending half their recoveries, being dazed (save ends), and, for each ability, having a 50% chance that it is expended.
 
-The second time in your life you cast the spell, it takes at least three or four rounds and costs you roughly half your hit points and daily powers/spells. The person you are resurrecting comes back at something like one-quarter strength.
+The second time in your life you cast the spell, it takes at least three or four rounds and costs you roughly half your hit points and full recovery powers/spells. The person you are resurrecting comes back at something like one-quarter strength.
 
 The third time you cast the spell it has to be as a ritual. The spell chews you up and leaves you with only a few hit points, then gnaws at the person you have resurrected, who takes days to recover well enough to qualify as an adventurer or combatant.
 
@@ -783,13 +868,13 @@ The fifth time you resurrect someone, that's the end of your story and you die. 
 
 ### Overworld Travel
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 _Special:_ You must cast this spell outdoors. It enables you and a group of nearby allies to travel to most any location in the world that you can name.
 
-Travel takes between an hour and a day, depending on distance and the amount of effort the exerted.
+Travel takes between an hour and a full recovery, depending on distance and the amount of effort the exerted.
 
 The destination can be in the overworld or in the land. It can't be in the underworld.
 
@@ -797,9 +882,9 @@ The destination can be in the overworld or in the land. It can't be in the under
 
 ### Prayer for Readiness
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Targets:** Up to 5 allies
 

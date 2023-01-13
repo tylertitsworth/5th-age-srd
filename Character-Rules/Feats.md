@@ -36,8 +36,6 @@ These are general feats available to any character. A character can't take a spe
 
 Add a total of 2 points to skills you already have, or choose 2 points of new skills that make sense for your character. You still can't go over the 5-point-per-skill maximum.
 
----
-
 #### Champion Tier
 
 Add a total of 3 points to skills you already have, or choose 3 points of new skills that make sense for your character. You still can't go over the 5-point-per-skill maximum.
@@ -56,6 +54,18 @@ Add a total of 2 points to skills you already have, or choose 2 points of new sk
 
 Gain a +4 bonus to Initiative checks.
 
+`OR`
+
+#### Champion Tier
+
+Gain a +5 bonus to Initiative checks.
+
+`OR`
+
+#### Epic Tier
+
+Gain a +6 bonus to Initiative checks.
+
 ---
 
 ### Linguist
@@ -65,8 +75,6 @@ Gain a +4 bonus to Initiative checks.
 This feat allows you to speak enough of the standard humanoid languages to comprehend enough of what most other humanoids are saying or screaming during battle. You are not fluent in all these languages, no one will mistake you for a native speaker, and your vocabulary is adventurer-centric (heavy on words connected to danger rather than philosophy or emotions).
 
 You can also read enough to get by in all these languages.
-
----
 
 #### Champion Tier
 
@@ -108,7 +116,7 @@ You can cast any spells you know as rituals. Classes that are already ritual cas
 
 #### Adventurer Tier
 
-Twice per day, you can add the escalation die to one of your skill checks. Choose after you roll the check.
+Twice per full recovery, you can add the escalation die to one of your skill checks. Choose after you roll the check.
 
 ---
 
@@ -116,7 +124,7 @@ Twice per day, you can add the escalation die to one of your skill checks. Choos
 
 #### Adventurer Tier
 
-When you roll recovery dice, reroll one of the dice and use the higher result. At 5th level, reroll two of the dice. At 8th level, reroll three.
+When you roll recovery dice, add +3 to the result. At 5th level, add +6 instead. At 8th level, add +12 instead.
 
 ---
 
@@ -124,7 +132,7 @@ When you roll recovery dice, reroll one of the dice and use the higher result. A
 
 #### Adventurer Tier
 
-You get additional hit points equal to half your baseline class hit points (rounded down). At 5th level, the total hp bonus increases to your baseline hp value. At 8th level, the total hp bonus increases to double your baseline hp value.
+You get additional hit points equal your baseline class hit points (rounded down). At 5th level, the total hp bonus increases to double your baseline hp value. At 8th level, the total hp bonus increases to triple your baseline hp value.
 
 ---
 
@@ -161,8 +169,6 @@ Everybody has a price, and you know it intuitively. Before making a skill check 
 #### Adventurer Tier
 
 Once per battle, you can move to engage a nearby enemy as part of a melee attack. When you do, enemies other than the target of your attack have advantage on attack rolls against you until the start of your next turn.
-
----
 
 #### Champion Tier
 
@@ -244,7 +250,7 @@ You gain a +1 bonus to recharge rolls for recharge after battle powers.
 
 #### Adventurer Tier
 
-You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item from any chakra (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At 5th level, upgrade the item to champion tier, and at 8th level, to epic tier.
+You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At 5th level, upgrade the item to champion tier, and at 8th level, to epic tier.
 
 ---
 
@@ -309,8 +315,6 @@ When you succeed on a skill check to interact with an NPC, your allies gain a +3
 #### Adventurer Tier
 
 You gain a +1 bonus to disengage checks.
-
----
 
 #### Champion Tier
 
@@ -386,7 +390,7 @@ When you kill a non-mook enemy, you gain temporary hit points equal to the enemy
 
 #### Adventurer Tier
 
-Choose a magic item chakra that your class normally can’t use as an implement. For example, if your bard casts their spells through dancing, you might pick boots. You can use that type of item as a spellcasting implement, i.e. you gain a +1 bonus to attack and damage with your spells per tier. You can still only get that bonus from one implement at a time.
+Choose a magic item type that your class normally can’t use as an implement. For example, if your bard casts their spells through dancing, you might pick boots. You can use that type of item as a spellcasting implement, i.e. you gain a +1 bonus to attack and damage with your spells per tier. You can still only get that bonus from one implement at a time.
 
 ---
 

@@ -56,9 +56,9 @@ Bards start with 25gp.
 | **Level 5** | (7 + CON mod) x 8 | 4 adv; 1 champ | 3, up to 5th level | — | 3 | 2 | — | — |  | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x 10 | 4 adv; 2 champ | 4, up to 5th level | — | — | 5 | — | — |  | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x 12 | 4 adv; 3 champ | 4, up to 7th level | — | — | 3 | 3 | — | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 5, up to 7th level | — | — | — | 6 | — |  | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 5, up to 9th level | — | — | — | 4 | 3 |  | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 6, up to 9th level | — | — | — | — | 7 | +1 to 3 abilities | 4 x ability modifier |
 
 Although not listed on the table, this class gets three talents. It does not gain more at higher levels
 
@@ -68,15 +68,16 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Dexterity or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Dexterity or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod |
+| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -152,7 +153,7 @@ You can generate the effect of any 1st or 3rd level battle cry you know as a sta
 
 ### Spells
 
-Bards use arcane spells that function like those of other spell-casting classes. Some spells are daily, some recharge, and others are at-will.
+Bards use arcane spells that function like those of other spell-casting classes. Some spells are full recovery, some recharge, and others are at-will.
 
 Unlike most character classes, bards use two different ability scores for their attacks. Their melee and ranged weapon attacks use Strength or Dexterity, while their spells use Charisma.
 
@@ -182,13 +183,13 @@ Increase the PD bonus to +2.
 
 ### Balladeer
 
-At each level, including 1st level, you may learn a great ballad of your choice. Each day you can sing one of these songs to give you a more positive relationship with a relationship that you would not ordinarily have.
+At each level, including 1st level, you may learn a great ballad of your choice. Each full recovery you can sing one of these songs to give you a more positive relationship with a relationship that you would not ordinarily have.
 
 Song choices for the great ballad are up to the role-player.
 
 It takes at least a few rounds to sing a great ballad, so ideally it happens outside of combat. As you sing the ballad, it's an opportunity to tell the GM what's special about the story you are telling.
 
-Make a Charisma skill check using your performance. If you succeed, you gain 2 points with a relationship for the rest of the day (until the next full heal-up). The DC depends on the environment:
+Make a Charisma skill check using your performance. If you succeed, you gain 2 points with a relationship for the rest of the full recovery (until the next full heal-up). The DC depends on the environment:
 
 **DC 15:** Adventurer environment
 
@@ -206,7 +207,7 @@ The first time you use your ballad-created relationship, any 5s you roll become 
 
 #### Champion Feat
 
-You can sing two great songs a day. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the day.
+You can sing two great songs a full recovery. You can't sing positively about a relationship that you've already sung about as an enemy earlier in the full recovery.
 
 #### Epic Feat
 
@@ -228,7 +229,7 @@ Increase the number of battle cries you know by one. The bonus battle cry can be
 
 #### Adventurer Feat
 
-One battle per day, you can use your battle cries to help yourself.
+One battle per full recovery, you can use your battle cries to help yourself.
 
 #### Champion Feat
 
@@ -252,7 +253,7 @@ While underground or within a stone building, you can sustain a bardic song for 
 
 #### Champion Feat
 
-While underground or within a stone building, any daily bard song or spell becomes recharge 16+ for you.
+While underground or within a stone building, any full recovery bard song or spell becomes recharge 16+ for you.
 
 #### Epic Feat
 
@@ -299,6 +300,10 @@ If you choose a spell from the sorcerer class, you also gain the sorcerer's _dan
 #### Champion Feat
 
 Choose a second spell-casting class. Choose another spell from that class as well.
+
+#### Champion Feat
+
+Once per battle, when you cast a spell obtained with Jack of Spells, you may use a move action to teleport to a spot adjacent to a target of that spell.
 
 #### Epic Feat
 
@@ -350,55 +355,57 @@ You can use Silver Tongue twice per session.
 
 ---
 
-## 1st Level Battle Cries
+## 1st Level
 
-### Can't Touch This!
+### Battle Cries
 
-Flexible melee attack
+#### Can't Touch This!
+
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
 **Effect:** You gain a +1 bonus to AC and PD until the end of your next turn.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You also take no damage or effects from missed attacks until the end of your next turn.
 
-#### Champion Feat
+##### Champion Feat
 
 Increase the bonus to +2.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the bonus to +3.
 
 ---
 
-### Like This!
+#### Like This!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+
 
 **Effect:** Give a nearby ally a damage bonus equal to your Charisma bonus (minimum +1) until the end of your next turn.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Nearby allies can immediately make a save against save-ends effects that began with an attack that targeted their MD.
 
-#### Champion Feat
+##### Champion Feat
 
 All nearby allies gain the damage bonus.
 
-#### Epic Feat
+##### Epic Feat
 
 The damage bonus is double your Charisma bonus.
 
 ---
 
-### Move It!
+#### Move It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
@@ -407,91 +414,91 @@ Flexible melee attack
 - One of your unengaged allies can move as a free action
 - One of your engaged allies can make a disengage check as a free action.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The disengage check gains a +2 bonus.
 
-#### Champion Feat
+##### Champion Feat
 
 The bonus increases to +5.
 
-#### Epic Feat
+##### Epic Feat
 
 An engaged ally you target with this battle cry can pop free from one enemy as a free action before making the disengage check.
 
 ---
 
-### Pull It Together!
+#### Pull It Together!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 11+; use only twice per battle
 
 **Effect:** One nearby ally can heal using a recovery.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The target adds +1d4 healing per point on the escalation die.
 
-#### Champion Feat
+##### Champion Feat
 
 The attack can now also trigger on any natural even roll; the extra healing is now +1d6 per point.
 
-#### Epic Feat
+##### Epic Feat
 
 You can use _pull it together_ three times per battle; the extra healing is now +1d10 per point.
 
 ---
 
-### Stay Strong!
+#### Stay Strong!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+
 
 **Effect:** Give a nearby ally a +2 bonus to AC until the start of your next turn.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Bonus also applies to PD.
 
-#### Champion Feat
+##### Champion Feat
 
 Bonus also applies to MD.
 
-#### Epic Feat
+##### Epic Feat
 
 Bonus increases to +4.
 
 ---
 
-### We Need You!
+#### We Need You!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
 **Effect:** A nearby conscious ally can roll a save against a save ends effect.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The save gains a +1 bonus.
 
-#### Champion Feat
+##### Champion Feat
 
 The bonus increases to +2.
 
-#### Epic Feat
+##### Epic Feat
 
 If the escalation die is 3+, two nearby conscious allies (instead of one) can each roll a save (with bonuses).
 
 ---
 
-## 1st Level Songs
+### Songs
 
-### Don't Call It a Comeback
+#### Don't Call It a Comeback
 
-Ranged song
+Ranged Song
 
 Recharge 11+ after battle
 
@@ -506,23 +513,23 @@ Recharge 11+ after battle
 | 7th | The bonus increases to +4 |
 | 9th | The bonus increases to +5 |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can use this spell on yourself.
 
-#### Champion Feat
+##### Champion Feat
 
 The attack bonus also applies to the saving throw.
 
-#### Epic Feat
+##### Epic Feat
 
 The bonuses persist for the rest of the battle.
 
 ---
 
-### Song of Heroes
+#### Song of Heroes
 
-Bardic song
+Bardic Song
 
 Recharge 11+ after battle
 
@@ -541,11 +548,11 @@ Quick action each turn; 11+ to sustain
 
 ---
 
-### Song of Spilt Blood
+#### Song of Spilt Blood
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 6+ to sustain
 
@@ -562,11 +569,11 @@ Quick action each turn; 6+ to sustain
 
 ---
 
-## 1st Level Spells
+### Spells
 
-### Battle Chant
+#### Battle Chant
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -585,23 +592,23 @@ _Special:_ When you use _battle chant_, you can choose any battle cry effect you
 | 7th | 6d4 damage. |
 | 9th | 10d4 damage. |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Your _battle chant_ damage dice are now d6s instead of d4s.
 
-#### Champion Feat
+##### Champion Feat
 
-Once per day, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
+Once per full recovery, you can expend one of your recoveries to reroll a _battle chant_ attack roll.
 
-#### Epic Feat
+##### Epic Feat
 
-One battle per day, your _battle chant_ damage dice become d10s.
+One battle per full recovery, your _battle chant_ damage dice become d10s.
 
 ---
 
-### Befuddle
+#### Befuddle
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+ after battle
 
@@ -620,25 +627,25 @@ Recharge 11+ after battle
 | 7th | Target with 160 hp or fewer. |
 | 9th | Target with 266 hp or fewer. |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Recharge check is now 6+.
 
-#### Champion Feat
+##### Champion Feat
 
 The target of the spell doesn't have to be nearby, just in line of sight.
 
-#### Epic Feat
+##### Epic Feat
 
 On a hit, the confusion effect is now save ends.
 
 ---
 
-### Charm Person
+#### Charm Person
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 40 hp or fewer
 
@@ -659,9 +666,9 @@ _Special:_ On a miss, the spell is not detectible by most others unless you miss
 
 ---
 
-### Cutting Words
+#### Cutting Words
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -682,25 +689,25 @@ At-will
 
 ---
 
-### Drinking Buddies
+#### Drinking Buddies
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the scene, you gain a 1d6 bonus to skill checks against NPCs who have shared a drink with you.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 Also grant the bonus to all nearby allies.
 
 ---
 
-#### Enchant Instrument
+##### Enchant Instrument
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -713,23 +720,23 @@ Quick action
 | 5th | Increase the bonuses to +2 |
 | 9th | Increase the bonuses to +3 |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The spell becomes recharge 11+
 
-#### Champion Feat
+##### Champion Feat
 
 Enemies take a penalty to saves against your spells equal to the enchantment bonus.
 
-#### Epic Feat
+##### Epic Feat
 
 Gain advantage on the first spell attack roll you make with the enchanted instrument.
 
 ---
 
-### Power Chord
+#### Power Chord
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -748,25 +755,25 @@ Once per battle
 | 7th | 4d12 damage |
 | 9th | 6d12 damage |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 If you currently have a bard song active, gain a +1 bonus to the attack roll.
 
-#### Champion Feat
+##### Champion Feat
 
 On a natural even hit, grant advantage to a second nearby ally. The ally does not need to be engaged with the target.
 
-#### Epic Feat
+##### Epic Feat
 
 Attack 1d4 nearby enemies.
 
 ---
 
-### Soundburst
+#### Soundburst
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies in a group
 
@@ -783,69 +790,71 @@ Daily
 | 7th | 2d6 x 10 damage. |
 | 9th | 3d6 x 10 damage. |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 On a natural even hit, the dazed effect is now save ends.
 
-#### Champion Feat
+##### Champion Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
-#### Epic Feat
+##### Epic Feat
 
 You can now target 1d4 + 1 enemies in a group with the spell.
 
 ---
 
-## 3rd Level Battle Cries
+## 3rd Level
 
-### Hang Tough
+### Battle Cries
 
-Flexible melee attack
+#### Hang Tough
+
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd roll
 
 **Effect:** Give a nearby ally temporary hit points equal to your Charisma modifier.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 If the ally is staggered, double the temporary hit points.
 
-#### Champion Feat
+##### Champion Feat
 
 Add your level to the temporary hit points given (add before any doubling).
 
-#### Epic Feat
+##### Epic Feat
 
 You can choose yourself instead of an ally as the target of the battle cry.
 
 ---
 
-### It's All Yours
+#### It's All Yours
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even miss
 
 **Effect:** This battle, your next ally to attack the target you missed gains a +2 attack bonus with that attack.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 That ally's attack also deals +1d6 damage.
 
-#### Champion Feat
+##### Champion Feat
 
 The damage bonus increases to +3d6.
 
-#### Epic Feat
+##### Epic Feat
 
 The damage bonus increases to +3d12.
 
 ---
 
-### Take Heart
+#### Take Heart
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
@@ -853,11 +862,11 @@ Flexible melee attack
 
 ---
 
-## 3rd Level Songs
+### Songs
 
-### Ode to Heroism
+#### Ode to Heroism
 
-Bardic song
+Bardic Song
 
 Recharge 16+ after battle
 
@@ -867,21 +876,21 @@ Quick action each turn; 11+ to sustain
 
 **Final Verse:** You and all nearby allies can save against a save-ends effect imposed by the target.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can choose two enemies for the song’s effects.
 
-#### Champion Feat
+##### Champion Feat
 
 You and all nearby allies are immune to the fear aura until the end of the battle, even after the song ends.
 
 ---
 
-### Song of Aid
+#### Song of Aid
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 11+ to sustain
 
@@ -897,7 +906,7 @@ Quick action each turn; 11+ to sustain
 
 ---
 
-### Song of Allegro
+#### Song of Allegro
 
 Bardic Song
 
@@ -917,11 +926,11 @@ Quick Action each turn 11+ to sustain
 
 ---
 
-### Song of Clashing Swords
+#### Song of Clashing Swords
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -929,17 +938,17 @@ Quick action each turn; 16+ to sustain
 
 **Final Verse:** Nearby allies have advantage on their next melee attack roll.
 
-#### Champion Feat
+##### Champion Feat
 
 On the final verse, enemies are also vulnerable to your allies’ next melee attack.
 
 ---
 
-### Song of Thunder
+#### Song of Thunder
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 11+ to sustain
 
@@ -959,19 +968,19 @@ Standard action each turn; 11+ to sustain
 | 7th | 9d8 damage. |
 | 9th | 10d12 damage. |
 
-#### Champion Feat
+##### Champion Feat
 
 The number of targets increases to 2d4.
 
-#### Epic Feat
+##### Epic Feat
 
 Two of the targets can now be far away instead of nearby.
 
 ---
 
-## 3rd Level Spells
+### Spells
 
-### Dazed and Confused
+#### Dazed and Confused
 
 Ranged Spell
 
@@ -983,35 +992,35 @@ Recharge 11+
 
 **Miss:** --
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 You can target a far away enemy, but if you do, the saving throw is 6+.
 
-#### Champion Feat
+##### Champion Feat
 
 This spell doesn’t provoke opportunity attacks from the target.
 
-#### Epic Feat
+##### Epic Feat
 
 The enemy is stunned (save ends) instead of dazed.
 
 ---
 
-### High Tide Sea Shanty
+#### High Tide Sea Shanty
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You rouse the crew of a ship to work in unison. The difficulty of all seafaring-related checks for the scene is lowered by 5.
 
 ---
 
-### Incite Rage
+#### Incite Rage
 
 Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** a Nearby creature
 
@@ -1023,15 +1032,15 @@ Daily
 
 _Special:_ When you target an ally with this spell, you don’t require an attack roll, and the target can choose to remain under the effect, without saving against it.
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 The target also takes a -2 penalty to melee attack rolls. If you target an ally, they gain a +2 bonus instead.
 
 ---
 
-### Vicious Mockery
+#### Vicious Mockery
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+ after battle
 
@@ -1049,25 +1058,25 @@ Recharge 11+ after battle
 | 7th | 10d8 damage. |
 | 9th | 2d8 x 10 damage. |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
 On a hit, the effect that damages the target when it misses is now save ends.
 
-#### Champion Feat
+##### Champion Feat
 
 Recharge check is now 6+.
 
-#### Epic Feat
+##### Epic Feat
 
 A natural even miss does not expend the spell.
 
 ---
 
-### Wild Heal
+#### Wild Heal
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** Two random nearby allies. Choose the targets randomly from all nearby allies (including you) who are damaged.
 
@@ -1079,89 +1088,91 @@ Daily
 | 7th | Add +15 hp to the recovery. |
 | 9th | Add +25 hp to the recovery. |
 
-#### Adventurer Feat
+##### Adventurer Feat
 
-The spell is now recharge 16+ after battle instead of daily.
+The spell is now recharge 16+ after battle instead of full recovery.
 
-#### Champion Feat
+##### Champion Feat
 
 Add a third random target.
 
-#### Epic Feat
+##### Epic Feat
 
 The recoveries the targets use are now free.
 
 ---
 
-## 5th Level Battle Cries
+## 5th Level
 
-### Fear the Dark!
+### Battle Cries
 
-Flexible melee attack
+#### Fear the Dark!
+
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
 **Effect:** Mark the target. At the start of any turn this battle, if the target is hiding or has moved to a far away location, you can end the mark and make a melee attack against the target as a standard action as if you were engaged with it. The attack targets MD and deals psychic damage.
 
-#### Champion Feat
+##### Champion Feat
 
 The attack above is a free action.
 
 ---
 
-### Push It!
+#### Push It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
 **Effect:** Until the end of your next turn, your nearby allies can treat any attack roll as even for the purposes of triggers and flexible attacks.
 
-#### Champion Feat
+##### Champion Feat
 
 Your allies can add +1 to their attack roll if it was naturally odd to begin with.
 
-#### Epic Feat
+##### Epic Feat
 
 This battle cry also affects you, but you can’t use it to trigger Push It! next turn.
 
 ---
 
-### Shift Formation!
+#### Shift Formation!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
 **Effect:** Until the end of your next turn, your nearby allies automatically succeed on disengage checks and can intercept enemies even if they’re engaged (doing so pops them free).
 
-#### Champion Feat
+##### Champion Feat
 
 The stuck condition ends for nearby allies, and they pop free from any enemies who’ve grabbed them.
 
-#### Epic Feat
+##### Epic Feat
 
 This battle cry also affects far away allies and you.
 
 ---
 
-### Stop Messing Around!
+#### Stop Messing Around!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
 **Effect:** The next ally who misses an attack before the end of your next turn can reroll it once.
 
-#### Champion Feat
+##### Champion Feat
 
 If no ally misses an attack roll before the end of your next turn, increase the escalation die by 1.
 
 ---
 
-### Stay True
+#### Stay True
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 3+; otherwise natural 20
 
@@ -1169,9 +1180,9 @@ Flexible melee attack
 
 ---
 
-### That’s the Sound of Victory!
+#### That’s the Sound of Victory!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -1183,41 +1194,41 @@ Add your Charisma modifier to the roll.
 
 ---
 
-### Time to Dance!
+#### Time to Dance!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 5, 6, 7, 8
 
 **Effect:** You pop free from the target, and a nearby ally pops free from all enemies and engages the target.
 
-#### Champion Feat
+##### Champion Feat
 
 A second nearby ally can also pop free and engage the target.
 
 ---
 
-### Victory Is Ours
+#### Victory Is Ours
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 16+ if the escalation die is 5+; otherwise natural 20
 
 **Effect:** A nearby ally can heal using a recovery, and three nearby allies gain a +3d6 damage bonus to their next damage roll this battle.
 
-#### Champion Feat
+##### Champion Feat
 
 The battle cry can now trigger when the escalation die is 3+ instead of 5+.
 
-#### Epic Feat
+##### Epic Feat
 
 The damage bonus is now +3d12.
 
 ---
 
-## 5th Level Songs
+### Songs
 
-### Song of Careless Refrain
+#### Song of Careless Refrain
 
 Bardic Song
 
@@ -1236,11 +1247,11 @@ Quick action each turn; 11+ to sustain
 
 ---
 
-### Song of Magic
+#### Song of Magic
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -1255,11 +1266,11 @@ Quick action each turn; 16+ to sustain
 
 ---
 
-### Song of the Mockingbird
+#### Song of the Mockingbird
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 6+ to sustain
 
@@ -1267,21 +1278,21 @@ Quick action each turn; 6+ to sustain
 
 **Final Verse:** The effect ends immediately. Deal 1d6 psychic damage per level to a nearby enemy.
 
-#### Champion Feat
+##### Champion Feat
 
 Enemies who fail a save are also dazed (-4 to attacks) until the end of their next turn.
 
-#### Epic Feat
+##### Epic Feat
 
 Increase the save penalty to -4.
 
 ---
 
-## 5th Level Spells
+### Spells
 
-### Arrow of Verse
+#### Arrow of Verse
 
-Ranged spell
+Ranged Spell
 
 Recharge 16+ after battle
 
@@ -1298,21 +1309,21 @@ Recharge 16+ after battle
 | 7th | 10d10 damage. |
 | 9th | 2d10 x 10 damage. |
 
-#### Champion Feat
+##### Champion Feat
 
 Recharge check is now 11+.
 
-#### Epic Feat
+##### Epic Feat
 
 Bonus dice and miss dice are now d12s.
 
 ---
 
-### Discombobulate
+#### Discombobulate
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby creature with 100 hp or fewer
 
@@ -1329,11 +1340,11 @@ Daily
 
 ---
 
-### Glamour Shield
+#### Glamour Shield
 
-Close-quarter spell
+Close-quarter Spell
 
-Daily
+Full Recovery
 
 Quick Action
 
@@ -1352,21 +1363,21 @@ _Natural Odd Hit:_ 5d6 + Charisma damage, and the target is dazed until the end 
 | 7th | 7d6 damage |
 | 9th | 10d6 damage |
 
-#### Champion Feat
+##### Champion Feat
 
 You can place the shield on a nearby ally instead.
 
-#### Epic Feat
+##### Epic Feat
 
 On a natural even miss, you take half damage from the target’s attacks until the end of the turn.
 
 ---
 
-### Symphony of Pain
+#### Symphony of Pain
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1381,23 +1392,23 @@ Daily
 | 7th | 25 ongoing psychic damage. |
 | 9th | 40 ongoing psychic damage. |
 
-#### Champion Feat
+##### Champion Feat
 
 If the target is staggered, you gain a +2 bonus to the attack.
 
-#### Epic Feat
+##### Epic Feat
 
 The save is now a hard save.
 
 ---
 
-### Chaos & Mayhem
+#### Chaos & Mayhem
 
 You animate nearby objects that are not nailed down to create a tornado of flying hazards that strike at anyone who is not taking cover immediately.
 
 Close-quarters
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies, or 2d4 if cast recklessly
 
@@ -1416,17 +1427,19 @@ _Reckless miss:_ 10 damage to all allies engaged with the target
 | 7th | 2d4 x 10 damage; 15 damage on a reckless miss |
 | 9th | 2d8 x 10 damage; 20 damage on a reckless miss |
 
-#### Champion Feat
+##### Champion Feat
 
 The spell is now recharge 16+.
 
 ---
 
-## 7th Level Battle Cries
+## 7th Level
 
-### Cover Me!
+### Battle Cries
 
-Flexible melee attack
+#### Cover Me!
+
+Flexible Melee Attack
 
 Once per battle
 
@@ -1434,15 +1447,15 @@ Once per battle
 
 **Effect:** A nearby ally can make a ranged basic attack against the target, and you pop free.
 
-#### Epic Feat
+##### Epic Feat
 
 The ally can use any standard action ranged attack.
 
 ---
 
-### I Meant to Do That!
+#### I Meant to Do That!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1450,15 +1463,15 @@ Once per battle
 
 **Effect:** Reroll the attack with a +2 bonus.
 
-#### Epic Feat
+##### Epic Feat
 
 If the second attack roll is a miss, gain a +2 bonus to all defenses until the end of your next turn.
 
 ---
 
-### Screw This!
+#### Screw This!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 1
 
@@ -1466,9 +1479,9 @@ Flexible melee attack
 
 ---
 
-### They Fall Before Us
+#### They Fall Before Us
 
-Flexible melee attack
+Flexible Melee Attack
 
 _Special:_ You can use this battle cry only on your turn.
 
@@ -1476,15 +1489,15 @@ _Special:_ You can use this battle cry only on your turn.
 
 **Effect:** A nearby ally can make a basic attack as a free action.
 
-#### Epic Feat
+##### Epic Feat
 
 The battle cry can now trigger on a natural 19+.
 
 ---
 
-### Welcome to my Nightmare!
+#### Welcome to my Nightmare!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -1496,13 +1509,13 @@ Flexible melee attack
 
 ---
 
-## 7th Level Songs
+### Songs
 
-### Dancing Blade
+#### Dancing Blade
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action; 6+ to sustain
 
@@ -1510,17 +1523,17 @@ Quick action; 6+ to sustain
 
 **Final Verse:** The weapon flies out to make another melee attack.
 
-#### Champion Feat
+##### Champion Feat
 
 With the final verse, If the natural roll of that attack was even, make another attack against a different nearby enemy. Keep attacking until you have run out of targets, or until an attack roll is odd.
 
 ---
 
-### Manic Cacophony
+#### Manic Cacophony
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 16+ to sustain
 
@@ -1534,17 +1547,17 @@ Standard action each turn; 16+ to sustain
 
 **Final Verse:** Make the attack against 2d4 nearby enemies, or attack one enemy with a +4 bonus and no hit point limit.
 
-#### Champion Feat
+##### Champion Feat
 
 This song is now 11+ to sustain.
 
 ---
 
-### Song of Blood & Legends
+#### Song of Blood & Legends
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Standard action each turn; 16+ to sustain
 
@@ -1558,11 +1571,11 @@ Standard action each turn; 16+ to sustain
 
 ---
 
-### Song of Eternal Harmony
+#### Song of Eternal Harmony
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action; 6+ to sustain
 
@@ -1576,11 +1589,11 @@ Quick action; 6+ to sustain
 
 ---
 
-### Song of Victory
+#### Song of Victory
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 16+ to sustain
 
@@ -1594,13 +1607,13 @@ Quick action each turn; 16+ to sustain
 
 ---
 
-## 7th Level Spells
+### Spells
 
-### Dissonant Scream
+#### Dissonant Scream
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1614,29 +1627,29 @@ Daily
 | --- | --- |
 | 9th | 4d4 x 10 damage, and 30 ongoing damage; 30 ongoing damage on a miss |
 
-#### Epic Feat
+##### Epic Feat
 
 This spell becomes a close-quarters spell targeting all nearby creatures.
 
 ---
 
-### Otherwordly Voice
+#### Otherwordly Voice
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You
 
-**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Elf Queen or a smile to the face of an Archdevil.
+**Effect:** Until the rest of the scene, your voice becomes as soothing as a bath in the springs of Elysium, or as cutting as the sharpest knife. It can fill the arena of Axis and still be heard in the outskirts of the city, or carry across the planes to whisper in the ears of a god. It can bring a tear to the cheek of the Raven Queen or a smile to the face of an Archdevil.
 
 This spell allows you to achieve a feat with your voice that would normally require a ridiculously hard skill check at epic tier (DC 35).
 
 ---
 
-### The Overworld Two-Step
+#### The Overworld Two-Step
 
-Close-quarters spell
+Close-quarters Spell
 
 Quick action to cast
 
@@ -1644,37 +1657,39 @@ Recharge 16+ after battle
 
 **Effect:** You can swap your position and the positions of all your nearby allies, even if you can't see them when you cast the spell. Each position presently occupied by you or an ally must end up occupied after the swap, but otherwise you can swap freely.
 
-#### Champion Feat
+##### Champion Feat
 
 Recharge check is now 11+.
 
-#### Epic Feat
+##### Epic Feat
 
 You can now also swap the positions of far-away allies you can see, up to a maximum of 9 creatures.
 
 ---
 
-## 9th Level Battle Cries
+## 9th Level
 
-### Fight the Good Fight!
+### Battle Cries
 
-Flexible melee attack
+#### Fight the Good Fight!
 
-Daily
+Flexible Melee Attack
+
+Full Recovery
 
 **Triggering Roll:** Natural 16+
 
 **Effect:** Increase the escalation die by 1.
 
-#### Epic Feat
+##### Epic Feat
 
 Roll a second d20 (without making an attack) and trigger a second battle cry based on that roll.
 
 ---
 
-### I've Got Another One for You!
+#### I've Got Another One for You!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1684,9 +1699,9 @@ Once per battle
 
 ---
 
-### Never Gonna Give You Up!
+#### Never Gonna Give You Up!
 
-Flexible melee attack
+Flexible Melee Attack
 
 Once per battle
 
@@ -1694,15 +1709,15 @@ Once per battle
 
 **Effect:** Every ally that is currently at 10 hit points or less, including dying and stabilized allies, can spend a recovery to heal and heals the maximum amount.
 
-#### Epic Feat
+##### Epic Feat
 
 You can set the escalation die to 4 if you wish.
 
 ---
 
-### Regroup!
+#### Regroup!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Any hit
 
@@ -1714,41 +1729,41 @@ You can set the escalation die to 4 if you wish.
 
 ---
 
-### Snap Out of It!
+#### Snap Out of It!
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural even roll
 
 **Effect:** A nearby ally loses one of the following conditions: confused, dazed, fear, hampered, stunned, vulnerable, and weakened.
 
-#### Epic Feat
+##### Epic Feat
 
 The battle cry can affect you instead of an ally if you wish.
 
 ---
 
-### The Time Is Now
+#### The Time Is Now
 
-Flexible melee attack
+Flexible Melee Attack
 
 **Triggering Roll:** Natural 19+
 
-**Effect:** Choose one nearby ally. That ally can expend a recovery to regain a daily power or spell.
+**Effect:** Choose one nearby ally. That ally can expend a recovery to regain a full recovery power or spell.
 
-#### Epic Feat
+##### Epic Feat
 
 The battle cry can now trigger on natural 18+.
 
 ---
 
-## 9th Level Songs
+### Songs
 
-### Song of Destinies
+#### Song of Destinies
 
-Bardic song
+Bardic Song
 
-Daily
+Full Recovery
 
 Quick action each turn; 11+ to sustain
 
@@ -1758,9 +1773,9 @@ Quick action each turn; 11+ to sustain
 
 ---
 
-### Song of Sacrifice
+#### Song of Sacrifice
 
-Bardic song
+Bardic Song
 
 Quick action each turn; 6+ sustain
 
@@ -1770,9 +1785,9 @@ Quick action each turn; 6+ sustain
 
 ---
 
-### Wail of the Banshee
+#### Wail of the Banshee
 
-Bardic song
+Bardic Song
 
 Standard action each turn; 16+ to sustain
 
@@ -1786,19 +1801,19 @@ Standard action each turn; 16+ to sustain
 
 **Final Verse:** Repeat the attack. On a hit, if the target currently has 300 hp or fewer, it starts making last gasp saves (16+). It dies after the fourth failed save.
 
-#### Epic Feat
+##### Epic Feat
 
-When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target. If you have a positive icon relationship with the Lich King, you gain this feat for free.
+When you make the attack, also deal 5 x the escalation die damage to all nearby enemies that you don’t target.
 
 ---
 
-## 9th Level Spells
+### Spells
 
-### Dance to My Tune
+#### Dance to My Tune
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy with 300 hit points or fewer
 
@@ -1808,20 +1823,20 @@ Daily
 
 **Miss:** The target notices your attempt to intrude into its mind.
 
-#### Epic Feat
+##### Epic Feat
 
 On a natural even miss, your domination attempt remains undetected.
 
 ---
 
-### Inspire Legends
+#### Inspire Legends
 
-Close-quarters spell
+Close-quarters Spell
 
 _Special:_ Escalation die must be 4+.
 
-Daily
+Full Recovery
 
 **Targets:** You and all nearby allies
 
-**Effect:** Each target can roll a d20 for each of its expended daily, recharge, and per battle powers and spells other than inspire legends. If the roll is 11+, the character regains the use of that power or spell.
+**Effect:** Each target can roll a d20 for each of its expended full recovery, recharge, and per battle powers and spells other than inspire legends. If the roll is 11+, the character regains the use of that power or spell.

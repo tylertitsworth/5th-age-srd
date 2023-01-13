@@ -8,7 +8,7 @@
 
 #### Gore
 
-Once per day you can add 1d6 damage per level to a successful melee attack.
+Once per full recovery you can add 1d6 damage per level to a successful melee attack.
 
 ##### Champion Feat
 

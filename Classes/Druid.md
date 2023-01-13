@@ -58,26 +58,27 @@ Druids start with 25gp.
 | **Level 5** | (6 + CON mod) x 8 | 4 adv; 1 champ | 2 | 4 | 6 | 5th | | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x 10 | 4 adv; 2 champ | 2 | 5 | 7 | 5th | | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x 12 | 4 adv; 3 champ | 3 | 5 | 7 | 7th |+1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 | 6 | 8 | 7th | | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (6 + CON mod) x 16 | 4 adv; 3 champ; 1 epic | 3 | 6 | 8 | 7th | | 4 x ability modifier |
+| **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 4 x ability modifier |
+| **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 4 x ability modifier |
 
 ## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength, Dexterity, or Wisdom (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength, Dexterity, or Wisdom (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | (probably) 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod |
+| **Recoveries** | 8 |
+| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 (4 at 5th level; 5 at 8th level) |
-| **Talents** | 3 |
+| **Talents** | 4 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -118,9 +119,11 @@ As a druid, you choose whether you want to use Strength or Dexterity as the abil
 
 You never suffer from natural weather-related cold, heat, or exposure. You can go longer than most people without eating or drinking, but only a couple days longer.
 
+### Nature Talking
+
 You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Circle of the Moon or Circle of the Fang talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Terrain Caster talent.
 
-### Adventurer Feat
+#### Adventurer Feat
 
 You can talk with plants and animals pretty much as often you like, and you gain a +5 bonus to any skill checks involved.
 
@@ -154,7 +157,7 @@ This circle harnesses the destructive phase of the cycle of life. Droughts, plag
 
 However, there is a darker element to it, a destructive force that is outside of nature, a breaking of the cycle. It is a powerful, tempting magic, and blighters are always at risk of drawing more power from their surroundings than intended, leaving wounds that may never heal.
 
-In the same way that the Lich King represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
+In the same way that a lich represents halting the cycle and clinging to life by unnatural means, some blighters seek to end life as it is, to create an eternally lifeless darkness.
 
 ### Circle of Decay Talents
 
@@ -182,7 +185,7 @@ You have a permanent fear aura that affects beast and plant creatures. If any su
 
 ##### Blighted Stench (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -235,7 +238,7 @@ Increase the bonus from the adventurer-tier feat to +2.
 
 ##### Bug Bites (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -282,7 +285,7 @@ You gain resist poison 16+.
 
 Beast aspect
 
-Daily (Moon adept: Recharge 16+)
+Full Recovery (Moon adept: Recharge 16+)
 
 Quick action
 
@@ -302,7 +305,7 @@ As an initiate, gain the adept effect. As an adept, increase the poison damage t
 
 #### Defiling
 
-When you cast a blighter daily spell, that spell becomes recharge 18+ after battle.
+When you cast a blighter full recovery spell, that spell becomes recharge 18+ after battle.
 
 You also gain the Defiling Touch at-will spell as a bonus spell.
 
@@ -322,7 +325,7 @@ All creatures except undead and constructs are vulnerable to your blighter spell
 
 ##### Defiling Touch (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -330,7 +333,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom negative energy damage. Immediately make a recharge roll for a blight druid spell that is “Recharge after battle”.
+**Hit:** 1d8 + Wisdom necrotic damage. Immediately make a recharge roll for a blight druid spell that is “Recharge after battle”.
 
 **Miss:** Damage equal to your level
 
@@ -347,7 +350,7 @@ At-will
 
 Hasten the process of decay by drawing life from that which still lives.
 
-Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, negative energy damage to a nearby enemy.
+Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, necrotic damage to a nearby enemy.
 
 You also gain the Leeching Fingers at-will spell as a bonus spell.
 
@@ -363,7 +366,7 @@ When you hit a target with a blighter spell that is not an at-will spell, the ta
 
 ##### Leeching Fingers (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -371,7 +374,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d8 + Wisdom negative energy damage. Heal hit points equal to your level.
+**Hit:** 1d8 + Wisdom necrotic damage. Heal hit points equal to your level.
 
 **Miss:** Damage equal to your level
 
@@ -394,13 +397,13 @@ You choose the spells you can cast at full heal-up. The number of spells you gai
 
 #### Shrivel (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** The target is weakened and takes 10 ongoing negative energy damage (save ends both).
+**Hit:** The target is weakened and takes 10 ongoing necrotic damage (save ends both).
 
 **Miss:** Damage equal to your level
 
@@ -415,9 +418,9 @@ Daily
 
 #### Summon Atrocity (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a 0-level stirge (Bestiary p. 197) with 18 hp. This spell follows the summoning rules. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
@@ -432,11 +435,11 @@ Daily
 
 #### Summon Giant Bug (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a giant bug from the Hell Mother summoning list (13th Age Glorantha p. 158). You can choose any of the giant bugs of your level or lower. You summon these bugs as a superior creature according to the Summoning rules on page XX. The bug remains until the end of the battle, or until it is reduced to zero hit points.
+**Effect:** You summon a giant bug from the Hell Mother summoning list (13th Age Glorantha p. 158). You can choose any of the giant bugs of your level or lower. You summon these bugs as a superior creature according to the [Summoning rules](../Character-Rules/Summoning.md). The bug remains until the end of the battle, or until it is reduced to zero hit points.
 
 ##### Adventurer Feat
 
@@ -446,9 +449,9 @@ Once per level, you can summon a giant spider from the Hell Mother list instead.
 
 #### Thorned Whip (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -463,9 +466,9 @@ Quick action
 
 #### Creeping Thorn Ivy (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies
 
@@ -487,7 +490,7 @@ Daily
 
 #### Decrepit Mind (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -509,9 +512,9 @@ Once per battle
 
 #### Wave of Despair (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy; treat a group of mooks as a single target.
 
@@ -535,15 +538,15 @@ _Despair:_ When an enemy rolls a natural 1-3 on their save against this spell, t
 
 #### Contagion (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 15 ongoing negative energy damage (hard save 16+). If the target’s hit points fall below 60, it starts making last gasp saves (hard save 16+ ends both). When the target fails a save, repeat the attack as a free action against a different nearby enemy. If a target fails the 4th save, it dies. Targets that have successfully saved against the spell are immune to it.
+**Hit:** 15 ongoing necrotic damage (hard save 16+). If the target’s hit points fall below 60, it starts making last gasp saves (hard save 16+ ends both). When the target fails a save, repeat the attack as a free action against a different nearby enemy. If a target fails the 4th save, it dies. Targets that have successfully saved against the spell are immune to it.
 
 **Miss:** 10 damage
 
@@ -556,9 +559,9 @@ Daily
 
 #### Locust Swarm (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -568,9 +571,9 @@ Quick action
 
 #### Summon Ooze (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a large 3rd-level ochre jelly with 80 hp. This spell follows the summoning rules in 13 True Ways (p. 11). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
@@ -583,9 +586,9 @@ Daily
 
 #### Thorn Cage (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies
 
@@ -606,9 +609,9 @@ _Thorn cage:_ When the target makes an attack, it takes 20 poison damage.
 
 #### Aura of Decay (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a zone of decay in the nearby area, where enemies take a penalty to saving throws equal to the escalation die. Enemies can avoid the penalty by moving out of the zone. The zone persists until the end of the battle, or until you are knocked unconscious.
 
@@ -616,9 +619,9 @@ Daily
 
 #### Horrid Wilting (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 + 1 nearby enemies
 
@@ -626,7 +629,7 @@ _Special:_ Against plant type creatures and water elementals, gain a +2 bonus to
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d12 x 10 + Wisdom negative energy damage
+**Hit:** 1d12 x 10 + Wisdom necrotic damage
 
 **Miss:** The target takes half damage, and you deal 3d8 damage to all allies engaged with it.
 
@@ -638,9 +641,9 @@ _Special:_ Against plant type creatures and water elementals, gain a +2 bonus to
 
 #### Wall of Thorns (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a thorny wall of a few hundred feet that you can use to fence off an area until the end of the battle or scene. You and your allies can pass through the wall unharmed. Enemies can create a hole in the wall by dealing 100 damage to it, but they take 15 poison damage from thorns when using a melee weapon against it. The wall takes half damage from ranged attacks.
 
@@ -652,11 +655,11 @@ Daily
 
 #### Anti-Life Shell (9th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Effect:** Pop free from all enemies. Until the end of the battle, you create a perimeter around yourself that repels ordinary living creatures. Nearby enemies can try to engage you as a move action, but they must succeed at a normal save to push through the barrier. On a success, they engage you, but take 50 negative energy damage. On a failure, they take no damage, but the engage fails.
+**Effect:** Pop free from all enemies. Until the end of the battle, you create a perimeter around yourself that repels ordinary living creatures. Nearby enemies can try to engage you as a move action, but they must succeed at a normal save to push through the barrier. On a success, they engage you, but take 50 necrotic damage. On a failure, they take no damage, but the engage fails.
 
 _Special:_ Non-living creatures, such as constructs and undead, ignore the effect of this spell.
 
@@ -664,9 +667,9 @@ _Special:_ Non-living creatures, such as constructs and undead, ignore the effec
 
 #### Creeping Doom (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy OR 1d4 + 1 nearby enemies
 
@@ -692,7 +695,7 @@ If you have any of the Ranger talents in the following list, you share their ben
 
 #### Champion Feat
 
-Your daily animal companion spells are Recharge 18+ after battle.
+Your full recovery animal companion spells are Recharge 18+ after battle.
 
 ---
 
@@ -856,7 +859,7 @@ Your companion has a +1 bonus to attack against staggered enemies.
 
 #### Spirit Companion
 
-As a spirit creature, your companion deals either negative energy or holy damage. You can call it to manifest at your side as a quick action (if it is available this battle). In addition, it gains a number of abilities from the list below, depending on your level of mastery in the circle. Choose one as an initiate, two as an adept and three as a master.
+As a spirit creature, your companion deals either necrotic or radiant damage. You can call it to manifest at your side as a quick action (if it is available this battle). In addition, it gains a number of abilities from the list below, depending on your level of mastery in the circle. Choose one as an initiate, two as an adept and three as a master.
 
 - It gains resist physical damage 12+.
 - The first time in a battle when your companion is reduced below 0 hp by an attack, it can make a hard save (16+) to negate the damage of that attack.
@@ -884,9 +887,9 @@ Gain an additional ability.
 
 ##### Spirit Ward
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -898,9 +901,9 @@ _Special:_ The escalation die must be 2+ to cast this spell.
 
 ##### Creepy Howl
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -973,7 +976,7 @@ Once per battle, as a quick action, you can get the sorcerer Fey bloodline’s F
 
 ##### Epic Feat
 
-While in the fey realms, your druid daily spells, including swapped in spells, are recharge 18+ after battle.
+While in the fey realms, your druid full recovery spells, including swapped in spells, are recharge 18+ after battle.
 
 ---
 
@@ -1015,7 +1018,7 @@ You can expend a recovery to flee from a combat alone, without suffering a campa
 
 ##### Glimpse from the Dark (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1060,7 +1063,7 @@ You can cast fey druid spells while in scout and beast form.
 
 Beast aspect
 
-Daily (Moon adept: Recharge 16+)
+Full Recovery (Moon adept: Recharge 16+)
 
 Quick action
 
@@ -1084,7 +1087,7 @@ You gain Bloodsoaked Violence as a bonus druid flexible attack.
 
 ##### Adventurer Feat
 
-When you score a critical hit with an attack or spell, the target also takes 5 ongoing damage (5th level: 10 ongoing; 8th level: 20 ongoing).
+When you score a critical hit with an attack or spell, the target also takes 5 ongoing damage, 10 ongoing at champion tier, and 20 ongoing at epic tier..
 
 ##### Champion Feat
 
@@ -1098,7 +1101,7 @@ Enemies under the fear effect are also vulnerable to your attacks.
 
 ##### Bloodsoaked Violence
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -1151,7 +1154,7 @@ For each talent that you spend on the Circle of Feysong, you learn one cantrip f
 
 ##### Faerie Lights
 
-Ranged spell
+Ranged Spell
 
 Recharge 11+
 
@@ -1163,7 +1166,7 @@ Quick action
 
 ##### Feycraft
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1175,7 +1178,7 @@ Quick action
 
 ##### Feysight
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -1187,7 +1190,7 @@ Quick action
 
 ##### Little Helpers
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1199,7 +1202,7 @@ Quick action
 
 ##### Prank
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1213,9 +1216,9 @@ Quick action
 
 ##### Beauty of the Sidhe
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1244,9 +1247,9 @@ The target also gains a +1 bonus to Charisma-based attack rolls.
 
 ##### Faerie Fire (Feysong version)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1267,9 +1270,9 @@ Daily
 
 ##### Nose of the Leprechaun
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1284,9 +1287,9 @@ Quick action
 
 ##### Satyr’s Pipes
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1303,7 +1306,7 @@ Quick action
 
 Close-quarters spells
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1315,23 +1318,13 @@ You can disguise a number of creatures equal to your Charisma modifier.
 
 ---
 
-##### Unicorn Mount
-
-Ranged spell
-
-Daily
-
-**Effect:** You summon a unicorn mount (see 13th Age Monthly, Mounted Combat, page 10) for one hour per spell level, which you can ride into battle according to the mounted combat rules. The unicorn can take two mounted combat actions per battle, which require a quick action but no mounted combat check.
-
----
-
 #### 3rd Level Fey Spells
 
 ##### Fool’s Gold
 
-Close-quarter spell
+Close-quarter Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create an illusionary pile of treasure nearby, which lasts 1d6 minutes. The spell’s magic is entirely fueled by the greed of the target looking at it. Where an old hermit only sees a few rusted coppers, a red dragon will see a massive hoard of coins and gems. The objects seem real to all senses, even touch, but vanish if they are taken out of the nearby area.
 
@@ -1353,9 +1346,9 @@ The GM should adjust the target‘s MD and the save difficulty according to how 
 
 ##### Master of the Hunt
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1370,9 +1363,9 @@ Quick action
 
 ##### Scion of Winter
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1388,11 +1381,11 @@ Quick action
 
 ##### Summon Fauns and Pixies
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a 2nd-level Faun Troubadour (30 hp) or a 3rd-level Pixie Warrior (16 hp). This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
+**Effect:** You summon a 2nd-level Faun Troubadour (30 hp) or a 3rd-level Pixie Warrior (16 hp). This spell follows the [Summoning rules](../Character-Rules/Summoning.md). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials.
 
 For a faun, if your PD is higher than your MD, the summoned one follows the Path of the Sword, otherwise the Path of the Song.
 
@@ -1407,9 +1400,9 @@ For a faun, if your PD is higher than your MD, the summoned one follows the Path
 
 ##### Aura of Nobility
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1423,9 +1416,9 @@ Quick action
 
 ##### Dreamspeaker
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** A person you know, regardless of their location
 
@@ -1435,9 +1428,9 @@ Daily
 
 ##### Mocking Invisibility
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle or scene, you hide your location from onlookers by messing with their minds. You’re not strictly invisible, you just always appear as something that could have been in the area but wasn’t there before, like another tree in the forest, a rock in a cave or a suit of armor in the knight’s hall. When you make noise, that noise is scrambled into something else, like birds chirping or temple bells.
 
@@ -1447,9 +1440,9 @@ The effect ends when you take a flashy action, such as making an attack or casti
 
 ##### Sidhe Knight Protector
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1461,9 +1454,9 @@ Quick action
 
 ##### Dark Whispers
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, make the following attack once at the start of your turn as a free action.
 
@@ -1483,9 +1476,9 @@ Daily
 
 ##### Pixie Wings
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1499,11 +1492,11 @@ You no longer suffer an attack penalty, although you are still vulnerable.
 
 ##### Summon Great Hound
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the summoning rules on page XX. Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
+**Effect:** You summon a 5th-level Great Hound with 120 hp. This spell follows the [Summoning rules](../Character-Rules/Summoning.md). Summoned creatures have the stats as listed, except for reduced hit points. They don’t have any nastier specials. Choose the name of the creature (Barghest, Grim or Warg) when you summon it. It fights alongside you until the end of the battle, or until it is reduced to below zero hit points.
 
 ###### Adventurer Feat
 
@@ -1513,9 +1506,9 @@ The Great Hound can stay with you until your next full heal-up (or guard over yo
 
 ##### Unseelie Nightmare
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1535,9 +1528,9 @@ Instead of rolling the d6, you can now choose the effect that didn’t activate 
 
 ##### Cruel Mistress
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1547,9 +1540,9 @@ Quick action
 
 ##### The Queen’s Graces
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1586,7 +1579,7 @@ In addition, some spells are in the Any Terrain category and can be cast anywher
 
 ### Circle of the Land Spellcasting
 
-You don’t prepare spells after a full heal-up as a land druid. Instead, you can use your spell slots to cast any daily spell of the terrain you are currently in. The number of spell slots is determined by the unified spell progression table at the start of this chapter. You always cast terrain spells at the highest level you have access to.
+You don’t prepare spells after a full heal-up as a land druid. Instead, you can use your spell slots to cast any full recovery spell of the terrain you are currently in. The number of spell slots is determined by the unified spell progression table at the start of this chapter. You always cast terrain spells at the highest level you have access to.
 
 This circle also gives access to at-will and once-per battle spells.
 
@@ -1610,7 +1603,7 @@ _Koru behemoth:_ Unstoppable. Gain a +1 bonus to saves.
 
 _Mountains:_ Your mind is clear. Gain +1 to MD.
 
-_Plains, overworld:_ Sunrays. When you make an attack, you can change its damage type to holy.
+_Plains, overworld:_ Sunrays. When you make an attack, you can change its damage type to radiant.
 
 _Ruins:_ All things end. Staggered enemies are vulnerable to your attacks.
 
@@ -1630,7 +1623,7 @@ Once per battle or scene, you can use your bond with the land’s spirits as a q
 
 ##### Epic Feat
 
-For one battle per day, you can grant the boon to all nearby allies until the end of the battle as a quick action.
+For one battle per full recovery, you can grant the boon to all nearby allies until the end of the battle as a quick action.
 
 ---
 
@@ -1660,7 +1653,7 @@ While in the terrain you attuned to with this talent, you have advantage on skil
 
 ##### Champion Feat
 
-When you take a full heal-up in the terrain you attuned to with this talent, you can cast one daily spell of that terrain for free before your next full heal-up.
+When you take a full heal-up in the terrain you attuned to with this talent, you can cast one full recovery spell of that terrain for free before your next full heal-up.
 
 ---
 
@@ -1686,9 +1679,9 @@ You can cast the spells below regardless of the terrain you are in.
 
 ##### Pass Without a Trace (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You and one ally per spell level
 
@@ -1698,9 +1691,9 @@ Daily
 
 ##### Terrain Augury (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You close your eyes and concentrate on the surrounding terrain for a few hundred feet. You gain a basic understanding of the landscape and special features, enough to create a rough map. You can also ask one specific question per Wisdom modifier, such as the closest source of freshwater, the presence of metals or gems, the most dangerous creature, or how close the surface is.
 
@@ -1715,9 +1708,9 @@ After casting the spell, reduce the difficulty of skill checks to navigate the a
 
 ##### Create Shelter (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a small, secure place where you and a small group of travelers can find shelter and rest. The nature of the shelter depends on the terrain you are in, and can be anything from a small hut of living bushes and trees to an igloo. While the shelter blends in with the surroundings, you need a skill check to disguise it well enough to throw off any pursuers who are actively looking for you.
 
@@ -1725,9 +1718,9 @@ Daily
 
 ##### Dangers and Perils (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** For one hour per spell level, you gain an intuitive grasp of the surrounding terrain, any natural dangers in it and any unnatural additions. Mechanically, you gain the Rogue’s Trap Sense class feature.
 
@@ -1741,9 +1734,9 @@ Daily
 
 ##### Shape the Path (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a path as you walk through the terrain. Ice shapes to form bridges, the underbrush opens to clear a path, and swamp solidifies to provide a safe surface to step on. The spell lasts for up to two hours per spell level, although the terrain returns to normal a few minutes after you pass.
 
@@ -1755,9 +1748,9 @@ Daily
 
 ##### Control Weather (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** The nearby area in up to a mile radius
 
@@ -1767,21 +1760,21 @@ Daily
 
 ##### Terraform (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** The nearby area in up to a mile radius
 
-**Effect:** You gradually change the surrounding terrain into a different type, for up to a day. With a few minutes of concentration, you can create an island in the ocean, grow a forest underneath the earth, or turn fertile land into desert. The longer you are able to concentrate on the spell, the larger the area, and the more extreme, unusual and destructive the change can be.
+**Effect:** You gradually change the surrounding terrain into a different type, for up to a full recovery. With a few minutes of concentration, you can create an island in the ocean, grow a forest underneath the earth, or turn fertile land into desert. The longer you are able to concentrate on the spell, the larger the area, and the more extreme, unusual and destructive the change can be.
 
 ---
 
 ##### Terrain Teleport (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You and up to 4 allies next to you can teleport to any location in the world that is a similar terrain as the one you are currently in, or attuned to. You can only teleport into natural terrain, not into towns or buildings.
 
@@ -1797,7 +1790,7 @@ You gain the Ancient Trap spell below.
 
 ##### Ancient Trap (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -1826,11 +1819,11 @@ Any natural odd roll: You can use this attack again after your next turn.
 
 ##### Summon Cave Creatures (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a swarm of bats with 20 hp, according to the summoning rules on page XX. The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
+**Effect:** You summon a swarm of bats with 20 hp, according to the [Summoning rules](../Character-Rules/Summoning.md). The bats remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entries, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -1843,9 +1836,9 @@ Daily
 
 ##### Suffocate (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1866,9 +1859,9 @@ _Natural 16+:_ The save is a hard save (16+)
 
 ##### Create Cavern (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a near-natural cavern in the underground or a cliff side. You can create an entrance that you and your allies can open and close with a touch. The cavern disappears after 24 hours, pushing out any items or creatures that are currently in it.
 
@@ -1876,9 +1869,9 @@ Daily
 
 ##### False Corridor (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies in a group
 
@@ -1910,7 +1903,7 @@ You can survive without food and water for days on end.
 
 ##### Desiccate (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -1933,7 +1926,7 @@ At-will
 
 ##### Dehydration (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -1960,9 +1953,9 @@ The save against the ongoing damage is a hard save (16+).
 
 ##### Fata Morgana (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create the phantasmal image of an object in the distance, which lasts for about 5 minutes per spell level. Onlookers must succeed at a saving throw to discern that the image isn’t real. For creatures with a higher MD than PD, the save is easy (6+). If it’s the same, the save is normal (11+), and if PD is higher, the save is hard (16+).
 
@@ -1972,11 +1965,11 @@ Choose whether you want the object to be desirable or scary. If the image is des
 
 ##### Summon Desert Dwellers (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a giant scorpion with 15 hp (CB 206), according to the summoning rules on page XX. The scorpion remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a giant scorpion with 15 hp (CB 206), according to the [Summoning rules](../Character-Rules/Summoning.md). The scorpion remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2003,7 +1996,7 @@ AC 18, PD 17, MD 12, HP 30
 
 ##### Heatstroke (3rd Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2025,9 +2018,9 @@ Once per battle
 
 ##### Sandstorm (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a sandstorm in the target area, large enough to fill a room or hallway. Within the area, perception skill checks and ranged attacks have disadvantage. Moving creatures cannot be intercepted. Flying creatures must succeed at a save at the start of their turn, or they lose their actions for the turn. It takes a successful hard save or skill check and a move action to leave the area.
 
@@ -2045,9 +2038,9 @@ The storm remains until the end of the battle, until you are knocked unconscious
 
 ##### Flickering Air (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Enemies take a penalty to attacks against you and all nearby allies equal to the escalation die. The effect ends when the escalation die is 5 or higher.
 
@@ -2055,9 +2048,9 @@ Daily
 
 ##### Sand Dervish (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** You transform into whirling sand and fly to a nearby location. On the way, make the following attack.
 
@@ -2078,9 +2071,9 @@ Daily
 
 ##### Quicksand (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies in a group
 
@@ -2098,19 +2091,19 @@ Daily
 
 ##### Sand Dune (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** Sand starts slowly building up around a target area that you can see, and grows into a massive sand dune over the next hour. The dune is high enough to bury a barn or a two-storey building. The sand dissipates with the wind over the next day. While the sand is too slow to bury those quick enough to run away from it, it can seal tunnel passages or slow pursuers, especially on horseback.
+**Effect:** Sand starts slowly building up around a target area that you can see, and grows into a massive sand dune over the next hour. The dune is high enough to bury a barn or a two-storey building. The sand dissipates with the wind over the next full recovery. While the sand is too slow to bury those quick enough to run away from it, it can seal tunnel passages or slow pursuers, especially on horseback.
 
 ---
 
 ##### Desert Wind (9th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the end of the battle, you can make the following attack as a quick action once per turn.
 
@@ -2138,7 +2131,7 @@ When you use a recovery to heal, you also gain a +1 bonus to AC until the end of
 
 ##### Soothing Forest (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2159,7 +2152,7 @@ Quick action
 
 ##### Ripping Vines (1st Level)
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -2184,9 +2177,9 @@ At-Will
 
 ##### Ironwood Enchantment (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** A wooden weapon, a wooden shield, or arrows in a quiver
 
@@ -2207,11 +2200,11 @@ _Arrows:_ Root growth. On a natural even hit, the target is stuck until the end 
 
 ##### Summon Forest Friends (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a wolf with 19 hp (CB 207), according to the summoning rules on page XX. The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a wolf with 19 hp (CB 207), according to the [Summoning rules](../Character-Rules/Summoning.md). The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2224,9 +2217,9 @@ Daily
 
 ##### Tree Shape (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or a nearby, willing ally
 
@@ -2238,9 +2231,9 @@ If you use the tree shape as a disguise, make a skill check. Creatures with MD e
 
 ##### Lashing Roots (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, you can make the following attack once per turn as a quick action.
 
@@ -2276,7 +2269,7 @@ Gain resist demon attacks 12+. Increase to 14+ when attuned to a hell hole.
 
 ##### Fiendish Retribution (Terrain Feat Spell)
 
-Close-quarters spell
+Close-quarters Spell
 
 At-will
 
@@ -2299,7 +2292,7 @@ At-will
 
 ##### Wrath of the Abyss (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2326,11 +2319,11 @@ _Natural even miss:_ Half damage
 
 ##### Summon Hellhole Horrors (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a fungaloid creeper (B 83, 20 hp), according to the summoning rules on page XX. The creeper remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a fungaloid creeper (B 83, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The creeper remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2343,9 +2336,9 @@ Daily
 
 ##### Consume (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -2359,9 +2352,9 @@ Daily
 
 ##### Desperate Frenzy (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2380,9 +2373,9 @@ Quick action
 
 ##### Fiend Skin (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2398,9 +2391,9 @@ Quick action
 
 ##### Goat-Foot Step (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Deal 6d6 + Wisdom fire damage to all enemies you are engaged with, then teleport to a nearby or far away location.
 
@@ -2413,9 +2406,9 @@ Daily
 
 ##### Infernal Gift (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** You or a nearby ally
 
@@ -2437,7 +2430,7 @@ You gain the Ice Shards spell below.
 
 ###### Ice Shards (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -2462,7 +2455,7 @@ _Natural odd miss:_ You take your level in cold damage.
 
 ##### Hail Hail
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -2487,11 +2480,11 @@ At-Will
 
 ##### Summon Icy Ally (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a tundra wolf (as wolf, CB 207, 20 hp), according to the summoning rules on page XX. The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a tundra wolf (as wolf, CB 207, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The wolf remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2504,9 +2497,9 @@ Daily
 
 ##### Winter Fur (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** You and two nearby allies
 
@@ -2522,9 +2515,9 @@ Daily
 
 ##### Winter Solstice (7th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Effect:** Decrease the escalation die by 1. You and all nearby allies can spend a recovery and gain five extra hit points per point of your Wisdom modifier. If you have the Wild Healer talent, the recoveries are free.
 
@@ -2532,9 +2525,9 @@ Daily
 
 ##### Icy Tomb (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** A nearby enemy with 250 hit points or less
 
@@ -2558,7 +2551,7 @@ You gain the Swatch of Destruction spell below.
 
 ##### Swath of Destruction (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2581,11 +2574,11 @@ Once per battle
 
 ##### Memory of the Koru (5th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
-**Effect:** You dig into the memory of the Koru to receive visions of places along its path. Note that a Koru will only pass any place once per year, so the image you receive will always be the same season. It will not show specific events, unless they happened right before the Koru’s eyes and were impressive enough to be noticed by a walking landmass. The longer you concentrate on this spell, the further back in history you can go. In an hour, you can span a century, and in a full day of concentration, you will be able to cover an entire age. If you are planning to scry into past ages, make sure you give yourself enough time for uninterrupted meditation. You can take breaks to eat or sleep, but strenuous activity like combat will throw your mind off and you need to start again.
+**Effect:** You dig into the memory of the Koru to receive visions of places along its path. Note that a Koru will only pass any place once per year, so the image you receive will always be the same season. It will not show specific events, unless they happened right before the Koru’s eyes and were impressive enough to be noticed by a walking landmass. The longer you concentrate on this spell, the further back in history you can go. In an hour, you can span a century, and in a full full recovery of concentration, you will be able to cover an entire age. If you are planning to scry into past ages, make sure you give yourself enough time for uninterrupted meditation. You can take breaks to eat or sleep, but strenuous activity like combat will throw your mind off and you need to start again.
 
 ---
 
@@ -2603,7 +2596,7 @@ You gain the Rockslide spell below.
 
 ##### Earthen Grasp (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2630,7 +2623,7 @@ When you hit a group of mooks with this spell, treat them as one target for the 
 
 ##### Rockslide (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -2655,9 +2648,9 @@ _Reckless miss:_ Your allies engaged with the target take damage equal to twice 
 
 ##### Earth Strength
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -2680,9 +2673,9 @@ _Staggered target:_ The target can heal using a recovery.
 
 ##### Summon Mountain Monster (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon an archer stirge (B 197, 15 hp) or cobbler stirge (20 hp). The stirge remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
@@ -2697,9 +2690,9 @@ Daily
 
 ##### Summon Earth Elemental (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a 3rd level small earth elemental (17 hp).
 
@@ -2713,9 +2706,9 @@ Daily
 
 ##### Thin Air (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies
 
@@ -2736,9 +2729,9 @@ _Thin air:_ The target takes damage equal to its level whenever it takes an acti
 
 ##### Immovable Mountain (9th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2750,9 +2743,9 @@ Quick action
 
 ##### Wall of Stone (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a more or less impenetrable wall of stone that's pretty big. You can't drop it on top of enemies or bend it after creating it, but it can form natural flowing shapes like a river of stone that's at most 40 feet high, 120 feet long, and 10 feet thick. If you're straining to come up with nasty ways to use the wall, you're breaking the spirit of the spell, since it's just supposed to be a stone wall that blocks most other creatures' movements.
 
@@ -2776,7 +2769,7 @@ You can breathe under water for one hour per point of Constitution modifier (min
 
 ##### Tidal Wave (Terrain Feat Spell)
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -2799,7 +2792,7 @@ Once per battle
 
 ##### Deeper Waters (1st Level)
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -2822,9 +2815,9 @@ At-Will
 
 ##### Sea Legs (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2836,9 +2829,9 @@ Quick action
 
 ##### Slippery Surface (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Until the end of the battle, small water spirits dance on the ground and cause enemies to either slip or freeze in place. All nearby enemies have disadvantage on disengage checks. On an odd failure, the enemy is stuck until the start of their next turn. On an even failure, the enemy slides to the intended location, but takes a -2 penalty to their next attack from lack of balance. Flying enemies are immune to the effect.
 
@@ -2850,11 +2843,11 @@ Daily
 
 ##### Summon Sea Scallywags (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon 1d3 razor shark mooks (B 187, 5 hp), according to the summoning rules on page XX. The creatures remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entry, except for reduced hit points and no nastier specials.
+**Effect:** You summon 1d3 razor shark mooks (B 187, 5 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The creatures remain until the end of the battle, or until they are reduced to zero hit points. They have the stats listed in their creature entry, except for reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -2867,9 +2860,9 @@ Daily
 
 ##### Water Breathing (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action to cast
 
@@ -2886,9 +2879,9 @@ Quick action to cast
 
 ##### Smooth Sailing (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You calm the seas around the ship you are on. Until the end of the scene, the sea is calm and a strong but steady wind pushes the ship in the direction you are planning to sail.
 
@@ -2896,9 +2889,9 @@ Daily
 
 ##### Summon Water Elemental (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a 3rd level small water elemental (18 hp).
 
@@ -2912,9 +2905,9 @@ Daily
 
 ##### Visions of Drowning (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -2935,9 +2928,9 @@ _Natural 18+:_ The target takes double ongoing damage and starts making last gas
 
 ##### Endless Swarm of Fish (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You must be under water to cast this spell.
 
@@ -2947,9 +2940,9 @@ _Special:_ You must be under water to cast this spell.
 
 ##### Maelstrom (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 _Special:_ You must be at sea to cast this spell.
 
@@ -2961,9 +2954,9 @@ The ship you are on is immune to the effect. PCs steering other ships can make a
 
 ##### Tsunami (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** A giant wave crashes across the battlefield taking all creatures with it that aren’t tied down or flying.
 
@@ -2981,7 +2974,7 @@ You gain the Flash of Lightning spell below.
 
 ##### Flash of Lightning (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3010,9 +3003,9 @@ You can cast this spell as an interrupt action. If you do, only target one nearb
 
 ##### Gust (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -3035,7 +3028,7 @@ Daily
 
 ##### Sleet Storm (1st Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3060,11 +3053,11 @@ _Second Miss:_ —
 
 ##### Summon Plains Peon (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a badger (B2 55, 20 hp), according to the summoning rules on page XX. The badger remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a badger (B2 55, 20 hp), according to the [Summoning rules](../Character-Rules/Summoning.md). The badger remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3077,9 +3070,9 @@ Daily
 
 ##### Plain Sight (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Remove all effects that hinder vision from the battlefield, such as fog or invisibility. Until the end of the battle, you and all nearby allies can target far away enemies with ranged attacks that target nearby enemies.
 
@@ -3087,9 +3080,9 @@ Daily
 
 ##### Summon Air Elemental (3rd level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a 3rd level small air elemental (20 hp).
 
@@ -3103,9 +3096,9 @@ Daily
 
 ##### Whirlwind (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** All enemies you are engaged with
 
@@ -3127,9 +3120,9 @@ Daily
 
 ##### Lightning Strikes (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby or far away enemy
 
@@ -3149,9 +3142,9 @@ Daily
 
 ##### Tornado (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d4 nearby enemies
 
@@ -3179,7 +3172,7 @@ You gain the Demoralizing Dread spell below.
 
 ###### Demoralizing Dread (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -3204,9 +3197,9 @@ _Natural even hit:_ The target is dazed until the end of your next turn. If it m
 
 ##### Stones Tell Stories (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You learn bits and pieces about the history of the place you are in, before it fell to ruins. Until your next full heal-up, you have a temporary 5-point History skill check bonus about the place.
 
@@ -3214,11 +3207,11 @@ Daily
 
 ##### Summon Ruins Rascals (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
-**Effect:** You summon a rat swarm, according to the summoning rules on page XX. The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
+**Effect:** You summon a rat swarm, according to the [Summoning rules](../Character-Rules/Summoning.md). The rat swarm remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3231,9 +3224,9 @@ Daily
 
 ##### Structural Collapse (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You cause a nearby structure to fall apart. Its main use is to change the terrain in some favorable way, such as to create a breach in a wall to squeeze through, to destroy a bridge or collapse a tunnel to hinder pursuers etc. While this can harm creatures caught in the effect, the spell is usually too slow for combat use and allows targets to dodge it easily. (GMs can use 1d8 per level as a rough damage guidance if necessary.)
 
@@ -3241,9 +3234,9 @@ Daily
 
 ##### Downfall (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies
 
@@ -3257,9 +3250,9 @@ Daily
 
 ##### Lifeless Decay (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies. This spell can only target enemies that are not alive, such as constructs and undead.
 
@@ -3285,7 +3278,7 @@ You gain the Foul Evaporation spell below.
 
 ##### Foul Evaporation (Terrain Feat Spell)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3310,9 +3303,9 @@ _Natural even hit:_ 5 ongoing poison damage
 
 ##### Sinkhole Trap (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Interrupt action
 
@@ -3339,9 +3332,9 @@ Trigger: A nearby enemy hits you with an attack (but not a critical hit).
 
 ##### Summon Swamp Creature (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a venomous snake (B2 55, 15 hp), according to the summoning rules. The snake remains until the end of the battle, or until it is reduced to zero hit points. It has the stats listed in its creature entry, except reduced hit points and no nastier specials.
 
@@ -3356,7 +3349,7 @@ Daily
 
 ##### Refreshing Waters (3rd Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3370,9 +3363,9 @@ Quick action
 
 ##### Will O‘Wisps (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You create a group of floating lights that hypnotize creatures and cause them to follow. This can lure them into traps, ambushes, or natural hazards. Creatures who see the wisps must succeed at a save to avoid the effect. The save is normal difficulty (11+) if a creature’s MD is higher than their PD, otherwise it is hard (16+). In battle, saves are made at the end of a creature’s turn as usual. Out of battle, a creature can make a save every minute or so. Once a creature saves, the spell no longer affects it. The wisps stay for about ten minutes per spell level.
 
@@ -3380,9 +3373,9 @@ Daily
 
 ##### Fog Bank (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** Each creature in the battle, including you
 
@@ -3396,9 +3389,9 @@ Daily
 
 ##### Swallow (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3424,7 +3417,7 @@ Gain resist fire 16+.
 
 ##### Avenging Flame (Terrain Feat Spell)
 
-Close-quarters spell
+Close-quarters Spell
 
 Once per battle
 
@@ -3455,7 +3448,7 @@ You can use this spell against far away enemies.
 
 ##### Flame Spear (1st Level)
 
-Ranged spell
+Ranged Spell
 
 At-Will
 
@@ -3478,9 +3471,9 @@ At-Will
 
 ##### Flame Blade (3rd Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3495,9 +3488,9 @@ Quick action
 
 ##### Summon Fire Elemental (3rd Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a 3rd level small fire elemental (21 hp).
 
@@ -3511,9 +3504,9 @@ Daily
 
 ##### Flame Seeds (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Targets:** 1d3 + 1 nearby enemies
 
@@ -3532,9 +3525,9 @@ Daily
 
 ##### Lava Flow (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You cover the nearby battlefield with streams of lava. Any combatant taking a move action must succeed at a normal difficulty skill check (DC 25; enemies roll a save) to avoid stepping into the lava, taking 20 fire damage (allies take half damage). Whenever the escalation die is increased by 1, make the following attack as a free action.
 
@@ -3554,9 +3547,9 @@ Daily
 
 ##### Magma Boulder (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** You summon a giant boulder of molten lava, that you roll around the battlefield and into your enemies. Once per round, you can make the following attack as a quick action.
 
@@ -3590,7 +3583,7 @@ Whenever you grant yourself or an ally the use of a recovery to heal, add your W
 
 ##### Adventurer Feat
 
-You gain an extra daily use of the Regeneration spell for each Circle of Life talent you have. This use does not expend a spell slot.
+You gain an extra full recovery use of the Regeneration spell for each Circle of Life talent you have. This use does not expend a spell slot.
 
 ##### Champion Feat
 
@@ -3608,7 +3601,7 @@ You gain the Gaia’s Light at-will spell as a bonus spell. It does not use one 
 
 ##### Gaia’s Light
 
-Ranged spell
+Ranged Spell
 
 At-will
 
@@ -3616,7 +3609,7 @@ At-will
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom holy damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
+**Hit:** 1d6 + Wisdom radiant damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
 
 **Miss:** Damage equal to your level
 
@@ -3661,7 +3654,7 @@ You gain the Cleric’s Resurrection spell as a bonus spell. You are subject to 
 
 #### Revitalize
 
-When you target an ally with a daily druid spell from any circle, they gain a +2 bonus to their next attack roll. If the spell targets more than one ally, choose one of the targets.
+When you target an ally with a full recovery druid spell from any circle, they gain a +2 bonus to their next attack roll. If the spell targets more than one ally, choose one of the targets.
 
 ##### Adventurer Feat
 
@@ -3681,11 +3674,11 @@ You grant the benefit to all allies targeted by the spell, instead of just one.
 
 As a healer druid, you don’t need to prepare spells. You have a number of spell slots, and you cast your spells from these slots.
 
-If the spell you cast is a daily spell, the spell is expended. If you cast a once-per-battle spell, you regain the spell slot after the battle, and you can cast either the same spell again in that slot, or any other spell, including a daily spell.
+If the spell you cast is a full recovery spell, the spell is expended. If you cast a once-per-battle spell, you regain the spell slot after the battle, and you can cast either the same spell again in that slot, or any other spell, including a full recovery spell.
 
 #### Cycle of Life and Death (1st Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3705,7 +3698,7 @@ On a miss, the healing target can choose to spend a recovery to heal half the am
 
 #### Embrace of the Earth Mother (1st Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3721,7 +3714,7 @@ _A staggered ally:_ Gain a free recovery, but heal half the amount.
 
 _An unconscious ally:_ Gain a +5 bonus to their next death save.
 
-_An enemy:_ Holy damage equal to twice the level of the enemy.
+_An enemy:_ Radiant damage equal to twice the level of the enemy.
 
 ##### Adventurer Feat
 
@@ -3731,13 +3724,13 @@ A staggered ally heals the full amount of the recovery. Deal three times their l
 
 #### Goodberries (1st Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 Quick action
 
-_Special:_ You can cast this spell multiple times per day, if you have the spell slots available.
+_Special:_ You can cast this spell multiple times per full recovery, if you have the spell slots available.
 
 **Effect:** You enchant 1d3 berries with the effect of an adventurer-tier healing potion. It’s a quick action to eat a berry, and it allows the user to spend a recovery to heal and regain 1d8 extra hit points. The berries last until the end of the next full heal-up.
 
@@ -3754,15 +3747,15 @@ The berries also end ongoing poison damage.
 
 #### Life Balance (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** 1d3 nearby enemies that are not staggered
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 2d8 + Wisdom holy damage, and a nearby staggered ally heals hit points equal to half the amount.
+**Hit:** 2d8 + Wisdom radiant damage, and a nearby staggered ally heals hit points equal to half the amount.
 
 **Miss:** Damage equal to your level, and a nearby staggered ally heals hit points equal to your level.
 
@@ -3781,9 +3774,9 @@ On a natural even hit, the ally heals the full amount.
 
 #### Life Shroud (1st Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3806,7 +3799,7 @@ Target 1d4+1 nearby allies.
 
 #### Life Prevails (3rd Level)
 
-Ranged spell
+Ranged Spell
 
 Once-per-battle
 
@@ -3814,7 +3807,7 @@ Once-per-battle
 
 **Attack:**: Wisdom + Level vs. PD
 
-**Hit:** 3d10 + Wisdom ongoing holy damage
+**Hit:** 3d10 + Wisdom ongoing radiant damage
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3826,7 +3819,7 @@ Once-per-battle
 
 #### Raise Spirits (3rd Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3844,9 +3837,9 @@ The target also has advantage on saves.
 
 #### Gaia’s Embrace (5th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -3862,7 +3855,7 @@ The target can reroll natural 1s and 2s on its recovery rolls.
 
 #### Life Shell (5th Level)
 
-Ranged spell
+Ranged Spell
 
 Once per battle
 
@@ -3870,12 +3863,12 @@ Quick action
 
 **Target:** You or a nearby ally
 
-**Effect:** The target spends a recovery, and gains temporary hit points equal to the recovery roll +10 instead of healing. Undead creatures, demons and devils engaged with the target take 10 holy damage.
+**Effect:** The target spends a recovery, and gains temporary hit points equal to the recovery roll +10 instead of healing. Undead creatures, demons and devils engaged with the target take 10 radiant damage.
 
 | Higher Level | Effect |
 | --- | --- |
-| 7th | +15 temporary hit points; 15 holy damage |
-| 9th | +25 temporary hit points; 25 holy damage |
+| 7th | +15 temporary hit points; 15 radiant damage |
+| 9th | +25 temporary hit points; 25 radiant damage |
 
 ##### Adventurer Feat
 
@@ -3885,9 +3878,9 @@ If the escalation die is 2+, you can target an additional target with this spell
 
 #### Healing Circle (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Target:** One nearby ally per point of escalation die (including you)
 
@@ -3897,9 +3890,9 @@ Daily
 
 #### Revitalized Spirits (7th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 **Effect:** Increase the escalation die by 1. Each nearby ally rolls a d6. If the result is lower than the escalation die, the ally can immediately make a basic melee or ranged attack as a free action.
 
@@ -3907,9 +3900,9 @@ Daily
 
 #### Life Geas (9th Level)
 
-Close-quarters spell
+Close-quarters Spell
 
-Daily
+Full Recovery
 
 **Target:** One deceased creature
 
@@ -3921,15 +3914,15 @@ This spell has to be cast as a ritual (even if you don’t have Ritual Casting).
 
 #### Waters of Life (9th Level)
 
-Ranged spell
+Ranged Spell
 
-Daily
+Full Recovery
 
 Quick action
 
 **Target:** A nearby unconscious ally
 
-**Effect:** Reset the target’s number of failed death saves to zero. They can spend a recovery to heal. Until the end of the battle, the target has resist poison and negative energy 12+. If you are a life adept, increase the resistances to 14+. As a master, increase to 16+.
+**Effect:** Reset the target’s number of failed death saves to zero. They can spend a recovery to heal. Until the end of the battle, the target has resist poison and necrotic 12+. If you are a life adept, increase the resistances to 14+. As a master, increase to 16+.
 
 ##### Epic Feat
 
@@ -4017,7 +4010,7 @@ You gain a number of beast aspects that you can activate while in Beast Form. Th
 
 You can only have one beast aspect active at a time. Activating a beast aspect ends any other beast aspect you have active.
 
-_Initiate:_ Beast aspects are daily powers for you. When activating an aspect, you gain the initiate effect.
+_Initiate:_ Beast aspects are full recovery powers for you. When activating an aspect, you gain the initiate effect.
 
 _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activating an aspect, you gain the adept effect.
 
@@ -4025,7 +4018,7 @@ _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activati
 
 #### Combat reconnaissance
 
-Once per day (5th level: twice; 8th level: three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
+Once per full recovery, twice at champion tier, and three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic at epic tier. to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
 
 _Failure:_ Nothing came of your scouting.
 
@@ -4070,7 +4063,7 @@ Free action
 _Special:_ To use this talent, you must be in beast form, and you must have at least one beast aspect active.
 Trigger: You take damage.
 
-**Effect:** You end an active beast aspect power and then take only 1d6 damage (5th level: 3d6; 8th level: 6d6) from the triggering attack. You still suffer any other effects of the attack (including ongoing damage).
+**Effect:** You end an active beast aspect power and then take only 1d6 damage, 3d6 at champion tier, and 6d6) from the triggering attack. You still suffer any other effects of the attack (including ongoing damage at epic tier..
 
 ##### Adventurer Feat
 
@@ -4096,7 +4089,7 @@ Allies you target with an aspect also gain temporary hit points equal to your Wi
 
 ##### Champion Feat
 
-Once per day, when activating a beast aspect, you can grant the benefit to both yourself and one ally.
+Once per full recovery, when activating a beast aspect, you can grant the benefit to both yourself and one ally.
 
 ##### Epic Feat
 
@@ -4152,7 +4145,7 @@ _**Appearances:**_ The names of the aspects are a guide to what you might look l
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4178,7 +4171,7 @@ Your melee attacks attack the lower of AC and PD.
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4196,7 +4189,7 @@ Adepts also gain a +2 AC bonus while using this aspect.
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _bear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4204,7 +4197,7 @@ Until the first time it recharges each day, _bear aspect_ is recharge 11+ instea
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4252,7 +4245,7 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4278,7 +4271,7 @@ Increase the AC and PD bonus to +3.
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4354,7 +4347,7 @@ If the target has 150 hp (10th level: 250 hp) or less after taking damage, the h
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4368,7 +4361,7 @@ Quick action
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4386,7 +4379,7 @@ Adept effect bonuses are now d4s instead of d3s.
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _mantis aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4394,7 +4387,7 @@ Until the first time it recharges each day, _mantis aspect_ is recharge 11+ inst
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4412,7 +4405,7 @@ While you are in this aspect, your critical hits with melee attacks deal triple 
 
 ##### Epic Feat
 
-Until the first time it recharges each day, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4420,7 +4413,7 @@ Until the first time it recharges each day, _owlbear aspect_ is recharge 11+ ins
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4460,7 +4453,7 @@ Enemies cannot force you to pop free from them.
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4478,7 +4471,7 @@ When you move and then attack an enemy you were not engaged with at the start of
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _tiger aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ---
 
@@ -4548,7 +4541,7 @@ Gain three bonus recovery dice when you reduce an enemy below 0 hp and use a rec
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4577,7 +4570,7 @@ These aspects can only be taken at 5th level or higher, and only if you are an a
 
 Beast aspect
 
-Daily, or recharge 16+ for adepts
+Full Recovery, or recharge 16+ for adepts
 
 Quick action
 
@@ -4603,7 +4596,7 @@ You can use the damage bonus against an enemy that started the battle with more 
 
 ###### Epic Feat
 
-Until the first time it recharges each day, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
+Until the first time it recharges each full recovery, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
 ##### Adventurer Feat
 
@@ -4729,7 +4722,7 @@ You must choose which flexible attacks you know. The number of flexible attacks 
 
 ##### Evasive Instinct
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -4743,7 +4736,7 @@ If you trigger this maneuver when the escalation die is even, it’s not expende
 
 ##### Feral Bite
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural even hit
 
@@ -4766,7 +4759,7 @@ Add your Constitution modifier to the extra damage, twice at 5th level and thric
 
 ##### Flying Sparks
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -4780,7 +4773,7 @@ Enemies also take the damage if they pop free or teleport away.
 
 ##### Nauseating Touch
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -4794,7 +4787,7 @@ You can use this flexible attack at-will.
 
 ##### Pack Strike
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural even roll
 
@@ -4808,7 +4801,7 @@ _Champion:_ Your animal companion takes no attack penalty.
 
 ##### Nature’s Vigor
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
@@ -4822,7 +4815,7 @@ A nearby ally heals half the amount. If you are a Circle of Life druid, all near
 
 ##### Pixie Dance
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -4836,7 +4829,7 @@ Also gain a +2 bonus to AC and PD until the end of your next turn.
 
 ##### Wilting Steel
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural 18+
 
@@ -4852,7 +4845,7 @@ You can trigger this attack on a natural 16+.
 
 ##### Icy Grasp
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural 18+
 
@@ -4866,7 +4859,7 @@ If you trigger this maneuver on a natural 20, the freezing effect is “save end
 
 ##### Pixie Punch
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural even roll
 
@@ -4880,7 +4873,7 @@ If you are a Feysong druid, it is also unable to trigger any ability that trigge
 
 ##### Striding Strike
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
@@ -4896,7 +4889,7 @@ Heal 5 extra hit points per point of escalation die.
 
 ##### Faerie Timeslip
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural 20
 
@@ -4906,7 +4899,7 @@ Flexible once-per-battle melee attack
 
 ##### Pounce
 
-Flexible once-per-battle melee attack
+Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural even hit
 

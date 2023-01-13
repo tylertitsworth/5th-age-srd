@@ -56,9 +56,9 @@ Rogues start with 25gp.
 | **Level 5** | (6 + CON mod) x **8** | 4 adv; 1 champ | 6 | 5th level |  | 2 x ability modifier |
 | **Level 6** | (6 + CON mod) x **10** | 4 adv; 2 champ | 7 | 5th level |  | 2 x ability modifier |
 | **Level 7** | (6 + CON mod) x **12** | 4 adv; 3 champ | 7 | 7th level | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (6 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 8 | 7th level |  | 3 x ability modifier |
-| **Level 9** | (6 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 8 | 9th level |  | 3 x ability modifier |
-| **Level 10** | (6 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 9 | 9th level | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (6 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 8 | 7th level |  | 4 x ability modifier |
+| **Level 9** | (6 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 8 | 9th level |  | 4 x ability modifier |
+| **Level 10** | (6 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 9 | 9th level | +1 to 3 abilities | 4 x ability modifier |
 
 >Note: Although not listed on the table, this class gets three talents. It does not gain more at higher levels.
 
@@ -68,15 +68,16 @@ Rogues start with 25gp.
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Dexterity or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Dexterity or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 12 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod |
+| **Recoveries** | 10 |
+| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -239,7 +240,7 @@ You no longer have disadvantage to intimidate.
 
 #### Epic Feat
 
-You have mastered the switch from innocent to scary. Once per day, you can create a fear aura like a monster of your level, for a number of rounds equal to your Charisma modifier.
+You have mastered the switch from innocent to scary. Once per full recovery, you can create a fear aura like a monster of your level, for a number of rounds equal to your Charisma modifier.
 
 ---
 
@@ -335,7 +336,7 @@ Enemies on ranged attacks trigger the “shooting into melee” reroll on misses
 
 #### Champion Feat
 
-Once per day, the reroll automatically hits the enemy.
+Once per full recovery, the reroll automatically hits the enemy.
 
 #### Epic Feat
 
@@ -376,21 +377,21 @@ Your Sneak Attack damage is better than other rogues. Use the following Sneak At
 
 #### Adventurer Feat
 
-Once per day as a free action, you can add your Sneak Attack damage to any hit against one target that would not otherwise have qualified for the damage.
+Once per full recovery as a free action, you can add your Sneak Attack damage to any hit against one target that would not otherwise have qualified for the damage.
 
 #### Champion Feat
 
-Once per day, roll d20s for your Sneak Attack damage instead of d8s.
+Once per full recovery, roll d20s for your Sneak Attack damage instead of d8s.
 
 #### Epic Feat
 
-One battle per day, ignore the limitation that you can use Sneak Attack damage only once per round.
+One battle per full recovery, ignore the limitation that you can use Sneak Attack damage only once per round.
 
 ---
 
 ### Intrusion Expert
 
-You have an uncanny ability to get where you are not supposed to be. Once per day, you can slip, sneak, bumble, or bamboozle your way into a forbidden place such as a treasure vault, a cloister or an invitation-only festival. (If the GM decides that getting to the goal is especially difficult, they can rule this will cost a recovery, to represent exhaustion or small injuries.) If you used this talent to get into a place, you can generally also get out again, but it doesn’t help you get out of a place when you are confined. It’s for intrusion, not escape.
+You have an uncanny ability to get where you are not supposed to be. Once per full recovery, you can slip, sneak, bumble, or bamboozle your way into a forbidden place such as a treasure vault, a cloister or an invitation-only festival. (If the GM decides that getting to the goal is especially difficult, they can rule this will cost a recovery, to represent exhaustion or small injuries.) If you used this talent to get into a place, you can generally also get out again, but it doesn’t help you get out of a place when you are confined. It’s for intrusion, not escape.
 
 #### Adventurer Feat
 
@@ -462,6 +463,36 @@ If you manage to surprise the target at the start of a battle, and you are the o
 
 ---
 
+### Poison Master
+
+You gain the venomous strike bonus power. You also gain a +2 bonus to saves against ongoing poison damage.
+
+#### Venomous Strike
+
+Melee Attack
+
+At-Will
+
+**Target:** One enemy who is not suffering ongoing poison damage.
+
+**Attack:** Dexterity + level vs AC
+
+**Hit:** WEAPON + Dexterity damage.
+
+_Natural Even Hit:_ The target takes ongoing poison damage equal to your Constution modifier (save ends), ongoing poison damage is now double your Constitution modifier at champion tier, and triple at epic tier.
+
+_Miss:_ Damage equal to your level.
+
+##### Adventurer Feat
+
+You can spend your momentum to use this attack against a creature that is already suffering ongoing poison damage. If you do so, you inflict ongoing poison damage on a successful hit, regardless of whether it’s odd or even.
+
+##### Champion Feat
+
+If an enemy you’re engaged makes a successful saving throw against your ongoing damage, you may spend your momentum to make a venomous strike attack as an interrupt action.
+
+---
+
 ### Ready to Roll
 
 You start each battle with momentum.
@@ -520,7 +551,7 @@ Your ability to spot fake identities has evolved to a supernatural level. You ha
 
 ### Shadow Adept
 
-Once per battle or scene, you can use an expended power with the Shadow keyword a second time. If you choose a daily Shadow power, you cannot use this talent again until the next full heal-up.
+Once per battle or scene, you can use an expended power with the Shadow keyword a second time. If you choose a full recovery Shadow power, you cannot use this talent again until the next full heal-up.
 
 #### Adventurer Feat
 
@@ -554,11 +585,11 @@ On a miss, you can still use your move action normally (but still can't _shadow 
 
 #### Champion Feat
 
-Twice per day, you can reroll the rogue attack that follows your successful use of _shadow walk_.
+Twice per full recovery, you can reroll the rogue attack that follows your successful use of _shadow walk_.
 
 #### Epic Feat
 
-Twice per day, you can reappear from your _shadow walk_ in a nearby location you wouldn't have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
+Twice per full recovery, you can reappear from your _shadow walk_ in a nearby location you wouldn't have been able to reach unimpeded physically, for instance, on the other side of a portcullis or door, or high up a wall.
 
 ---
 
@@ -582,7 +613,7 @@ When you are intercepted by an enemy while you move, make a Dexterity + Level at
 
 ### Smooth Talk
 
-Once per day, convince your GM with an amazing line of patter while you are using social skills to speak or interact with NPCs associated with a particular relationship. If the GM is convinced by your patter, roll a normal save (11+). If you succeed, for the rest of the day you can function as if you have a 2-point positive relationship with the relationship who seems to be in play. Thanks to your amazing gift of gab, for a short time, it's more or less true. (Note that these points replace any points you normally have with the relationship rather than adding to them.)
+Once per full recovery, convince your GM with an amazing line of patter while you are using social skills to speak or interact with NPCs associated with a particular relationship. If the GM is convinced by your patter, roll a normal save (11+). If you succeed, for the rest of the full recovery you can function as if you have a 2-point positive relationship with the relationship who seems to be in play. Thanks to your amazing gift of gab, for a short time, it's more or less true. (Note that these points replace any points you normally have with the relationship rather than adding to them.)
 
 Failure on the Smooth Talk save generally arouses suspicions.
 
@@ -636,11 +667,11 @@ Regardless of your level, you gain the bonus power _thief's strike_ in addition 
 
 #### Champion Feat
 
-Once per day, you can deal full damage with _thief's strike_ instead of half damage.
+Once per full recovery, you can deal full damage with _thief's strike_ instead of half damage.
 
 #### Epic Feat
 
-Twice per level, you can steal something with a successful _thief's strike_ that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone's hope, a memory. The theft won't be permanent. Every day, roll a hard save to determine whether you can keep what you stole for that day. Also, you can never steal the same thing twice.
+Twice per level, you can steal something with a successful _thief's strike_ that you would not be able to steal ordinarily, but that would require a bit of magic, e.g. a dream, a spell, someone's hope, a memory. The theft won't be permanent. Every full recovery, roll a hard save to determine whether you can keep what you stole for that full recovery. Also, you can never steal the same thing twice.
 
 ---
 
@@ -654,7 +685,7 @@ You ignore the penalty for disengaging from more than one enemy at a time.
 
 #### Champion Feat
 
-One battle per day as a free action, you can declare that you're a tumbling fool and automatically succeed on your first disengage check each turn.
+One battle per full recovery as a free action, you can declare that you're a tumbling fool and automatically succeed on your first disengage check each turn.
 
 #### Epic Feat
 
@@ -698,7 +729,7 @@ The target is now weakened instead.
 
 ### Clothesline
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -918,7 +949,7 @@ You can use _flying blade_ with any ranged weapon.
 
 ### Grave Under Pressure
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -968,7 +999,7 @@ You can use this power as a ranged attack.
 
 ### Roll With It
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -990,23 +1021,23 @@ The power also triggers on a ranged attack.
 
 #### Epic Feat
 
-Once per day, you can use roll with it to take damage equal to the attacker's level instead of half damage.
+Once per full recovery, you can use roll with it to take damage equal to the attacker's level instead of half damage.
 
 ---
 
 ### Shadow Glove
 
-Close-quarters power
+Close-quarters Power
 
 Quick action
 
-Daily
+Full Recovery
 
 Quick action
 
 Shadow
 
-**Effect:** You summon a gloved, floating hand of shadow matter. As a quick action, you can order the hand to carry and manipulate objects or extinguish torches. As a standard action, it can choke or punch people. It uses your Dexterity for attack and damage, has a d4 damage die, and deals negative energy damage. The hand stays until the end of the battle or scene. The hand has your defenses, and hit points equal to twice your level. It ignores any damage except force and holy damage.
+**Effect:** You summon a gloved, floating hand of shadow matter. As a quick action, you can order the hand to carry and manipulate objects or extinguish torches. As a standard action, it can choke or punch people. It uses your Dexterity for attack and damage, has a d4 damage die, and deals necrotic damage. The hand stays until the end of the battle or scene. The hand has your defenses, and hit points equal to twice your level. It ignores any damage except force and radiant damage.
 
 #### Champion Feat
 
@@ -1016,7 +1047,7 @@ You can attack with the hand as a quick action once per battle.
 
 ### Shadow Poison
 
-Close-quarters power
+Close-quarters Power
 
 Free action
 
@@ -1049,9 +1080,9 @@ Add another 2d10 damage.
 
 ### Shadow Stalker
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1065,7 +1096,7 @@ You can hear what the shadow hears, and you can close your eyes to see what it s
 
 ### Stay Sharp
 
-Momentum power
+Momentum Power
 
 At-will (once per round)
 
@@ -1085,9 +1116,9 @@ Add your Charisma modifier to the save roll.
 
 ### Stifled Sounds
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1213,7 +1244,7 @@ If you spend a quick action to survey the target before using this power, increa
 
 ### Black Veil
 
-Momentum power
+Momentum Power
 
 Once per battle
 
@@ -1229,7 +1260,7 @@ requires momentum
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** Negative energy damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
+**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
 
 #### Adventurer Feat
 
@@ -1267,7 +1298,7 @@ You can now use _bleeding strike_ against enemies taking ongoing damage.
 
 ### Cheeky Distraction
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -1311,7 +1342,7 @@ This power ignores any penalty to attack you may have, such as from the dazed co
 
 ### Deflection
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1359,11 +1390,11 @@ Once per battle, you can perform a dirty trick to inflict the confused, stuck, o
 
 #### Champion Feat
 
-Once per day, you can perform a dirty trick to inflict the stunned condition.
+Once per full recovery, you can perform a dirty trick to inflict the stunned condition.
 
 #### Epic Feat
 
-Once per day, you can perform a dirty trick to inflict the helpless condition.
+Once per full recovery, you can perform a dirty trick to inflict the helpless condition.
 
 ---
 
@@ -1457,9 +1488,9 @@ You can make ranged attacks with this power, though misses simply leave the obje
 
 ### Mask of the Masses
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1515,7 +1546,7 @@ Miss (Second Target): Damage equal to your level.
 
 ### Star Mantle
 
-Close-quarters power
+Close-quarters Power
 
 Once per battle
 
@@ -1579,9 +1610,9 @@ You can throw three blades, drawing the third one as part of the attack action.
 
 ### Bullseye
 
-Melee OR ranged attack
+Melee OR Ranged Attack
 
-Daily
+Full Recovery
 
 **Target:** One nearby enemy
 
@@ -1658,7 +1689,7 @@ Shadow
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** WEAPON + Dexterity damage and 10 ongoing negative energy damage
+**Hit:** WEAPON + Dexterity damage and 10 ongoing necrotic damage
 
 **Miss:** Half damage
 
@@ -1699,7 +1730,7 @@ Adventurer Feat Gain a +4 bonus to your critical threat range against mooks with
 
 ### Guileful Twist
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1739,7 +1770,7 @@ If your natural attack was even, your enemy is also in excruciating pain, suffer
 
 ### Harmless Misdirection
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1755,7 +1786,7 @@ requires momentum
 
 ### Hip Shot
 
-Momentum power
+Momentum Power
 
 Ranged attack
 
@@ -1783,7 +1814,7 @@ You can deal Sneak Attack damage with this power, even if the target is not enga
 
 _Special:_ You must be fighting with two weapons and wielding one-handed weapon in your off-hand.
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1795,7 +1826,7 @@ _Special:_ You must be using a hand crossbow or other small ranged weapon.
 
 #### Champion Feat
 
-Knife drop is now usable once per combat rather than daily.
+Knife drop is now usable once per combat rather than full recovery.
 
 #### Epic Feat
 
@@ -1805,11 +1836,11 @@ The target enemy also suffers ongoing damage equal to double the escalation die 
 
 ### Really Sneaky Attack
 
-Momentum power
+Momentum Power
 
 Melee attack
 
-Daily
+Full Recovery
 
 Interrupt action
 
@@ -1831,19 +1862,19 @@ This power is now Recharge 11+.
 
 ### Shadow Trap
 
-Ranged power
+Ranged Power
 
-Daily
+Full Recovery
 
 Shadow
 
 **Target:** An object, a doorway, or a section of the floor or wall
 
-**Effect:** You enchant the target area, so that the next person or creature to touch it springs the trap and is targeted by the following attack. You can set a condition to include or exclude targets, such as “anyone but me,” “anything larger than a cat,” or “any orc.” The trap lasts for up to one day.
+**Effect:** You enchant the target area, so that the next person or creature to touch it springs the trap and is targeted by the following attack. You can set a condition to include or exclude targets, such as “anyone but me,” “anything larger than a cat,” or “any orc.” The trap lasts for up to one full recovery.
 
 **Attack:** Dexterity + Level vs. PD
 
-**Hit:** 15 ongoing negative energy damage and the target is stuck (save ends both).
+**Hit:** 15 ongoing necrotic damage and the target is stuck (save ends both).
 
 **Miss:** —
 
@@ -1864,7 +1895,7 @@ The save against the effect is a hard save (16+).
 
 ### Spiky Bastard
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -1882,7 +1913,7 @@ If the escalation die is 3+, the damage increases to 15 instead of 10.
 
 ### Swift Dodge
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -1906,9 +1937,9 @@ The attack reroll takes a –2 penalty.
 
 ### Thoughtsteal
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -1950,7 +1981,7 @@ Once a turn, you can get the extra standard action when this attack drops a mook
 
 Ranged attack
 
-Daily
+Full Recovery
 
 **Target:** A group of mooks
 
@@ -1968,7 +1999,7 @@ Kill 2d4 mooks.
 
 ### Backhand Spin
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -1988,7 +2019,7 @@ If the reroll is also a miss, you gain a +4 bonus to AC until the end of your ne
 
 ### Be Prepared
 
-Daily
+Full Recovery
 
 Move action
 
@@ -2008,7 +2039,7 @@ If the enemy misses you with its next attack, you can make a basic attack (melee
 
 ### Meat Shield
 
-Momentum power
+Momentum Power
 
 At-will
 
@@ -2030,7 +2061,7 @@ If your skill roll is a natural 16+, you deal Sneak Attack damage to the new tar
 
 Melee attack
 
-Daily
+Full Recovery
 
 **Target:** One enemy
 
@@ -2052,11 +2083,11 @@ If your affected ally scores a crit on the targeted enemy before this power’s 
 
 ### Perfect Execution
 
-Momentum power
+Momentum Power
 
 Melee attack
 
-Daily
+Full Recovery
 
 requires momentum
 
@@ -2102,7 +2133,7 @@ The hamper or daze condition lasts until the enemy succeeds at a save (11+).
 
 ### Shadow Fusion
 
-Close-quarters power
+Close-quarters Power
 
 Once per battle
 
@@ -2122,9 +2153,9 @@ Reduce the damage you take from attacks against the target by twice your Charism
 
 ### Shadow Rift
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2140,9 +2171,9 @@ Enemy attacks that target your PD target your AC instead.
 
 ### Shadow Twin
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -2158,7 +2189,7 @@ When an enemy makes an attack against you, you can spend your momentum (before y
 
 ### Smoke Bomb
 
-Quick action; Daily
+Quick action; Full Recovery
 
 Target: You
 
@@ -2166,7 +2197,7 @@ Special: This power relies on some esoteric alchemical knowledge you’ve picked
 
 Effect: Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
 
-Champion Feat Smoke bomb is no longer daily; it’s recharge 16+ after battle.
+Champion Feat Smoke bomb is no longer full recovery; it’s recharge 16+ after battle.
 
 Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
 
@@ -2174,7 +2205,7 @@ Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit 
 
 ### Swift Riposte
 
-Momentum power
+Momentum Power
 
 At-Will (once per round)
 
@@ -2222,7 +2253,7 @@ Deal triple damage on a critical hit.
 
 ### Death's Twin
 
-Momentum power
+Momentum Power
 
 At-Will
 
@@ -2262,7 +2293,7 @@ Once you’ve popped them free, the affected ally can move as an interrupt actio
 
 Melee attack
 
-Daily
+Full Recovery
 
 Shadow
 
@@ -2284,13 +2315,13 @@ You can use your Sneak Attack against any target that is staggered.
 
 Melee attack
 
-Daily
+Full Recovery
 
 **Target:** One enemy
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** WEAPON + Dexterity damage. If the target has 250 hit points or less left after the attack, it starts making last gasp saves (16+; see Core Book p. 200). After the fourth failed save, it dies. If the target has more than 250 hit points, you can choose to either deal 100 extra damage or cause the target to lose its next standard action.
+**Hit:** WEAPON + Dexterity damage. If the target has 250 hit points or less left after the attack, it starts making last gasp saves of 16+. After the fourth failed save, it dies. If the target has more than 250 hit points, you can choose to either deal 100 extra damage or cause the target to lose its next standard action.
 
 **Miss:** You have advantage on your next attack against the target.
 
@@ -2324,9 +2355,9 @@ Double the damage bonus from the escalation die.
 
 ### Shadow Garrotte
 
-Close-quarters power
+Close-quarters Power
 
-Daily
+Full Recovery
 
 Free Action
 
@@ -2338,7 +2369,7 @@ Shadow
 
 **Attack:** Dexterity OR Charisma + Level vs. PD
 
-**Hit:** 50 ongoing negative energy damage, and the target is hampered (save ends).
+**Hit:** 50 ongoing necrotic damage, and the target is hampered (save ends).
 
 **Miss:** You regain this power at the end of your next turn.
 
@@ -2346,7 +2377,7 @@ Shadow
 
 ### True Targeting
 
-Momentum power
+Momentum Power
 
 At-Will
 

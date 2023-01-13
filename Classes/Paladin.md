@@ -56,24 +56,25 @@ Paladins start with 25gp.
 | **Level 5** | (8 + CON mod) x **8** | 4 adv; 1 champ | 4 |  | 2 x ability modifier |
 | **Level 6** | (8 + CON mod) x **10** | 4 adv; 2 champ | 4 |  | 2 x ability modifier |
 | **Level 7** | (8 + CON mod) x **12** | 4 adv; 3 champ | 4 | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (8 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 5 |  | 3 x ability modifier |
-| **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 3 x ability modifier |
-| **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (8 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 5 |  | 4 x ability modifier |
+| **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 4 x ability modifier |
+| **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 4 x ability modifier |
 
 ## Stats
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
-| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (heavy armor)** | 16 + middle mod of Con/Dex/Wis + Level |
 | **Armor Class (shield and heavy armor)** | 17 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
-| **Recoveries** | 8 |
-| **Recovery Dice** | (1d10 x Level) + Con mod |
+| **Recoveries** | 7 |
+| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 (see [level progression chart](#level-progression)) |
@@ -117,7 +118,7 @@ All paladins have the Smite Evil class feature.
 
 Close-quarters power
 
-Once per battle, plus once per day per Charisma modifier
+Once per battle, plus once per full recovery per Charisma modifier
 
 Free Action
 
@@ -132,9 +133,13 @@ Free Action
 
 #### Adventurer Feat
 
-Gain an additional use of Smite Evil per day.
+Gain an additional use of Smite Evil per full recovery.
 
 #### Champion Feat
+
+Your Smite attacks become uninterruptible. Enemies cannot trigger interrupt actions against your smite attacks.
+
+---
 
 #### True Smite
 
@@ -166,7 +171,7 @@ Increase your total number of recoveries by 1.
 
 #### Champion Feat
 
-Once per day, you can use Bastion twice in the same battle.
+Once per full recovery, you can use Bastion twice in the same battle.
 
 #### Epic Feat
 
@@ -192,7 +197,7 @@ You can use your Charisma as the attack ability for cleric spells you can cast.
 
 #### Champion Feat
 
-You can now cast the cleric class feature _heal_ spell twice per day.
+You can now cast the cleric class feature _heal_ spell twice per full recovery.
 
 #### Epic Feat
 
@@ -288,7 +293,7 @@ Also deal the smite extra damage and heal hit points equal to that amount on a m
 
 ##### Death Rune
 
-**Effect:** Increase your critical threat range with Paladin melee attacks by 1, and they deal negative energy damage. When you drop a non-mook enemy to zero hp, deal negative energy damage equal to your Smite bonus damage to another nearby enemy.
+**Effect:** Increase your critical threat range with Paladin melee attacks by 1, and they deal necrotic damage. When you drop a non-mook enemy to zero hp, deal necrotic damage equal to your Smite bonus damage to another nearby enemy.
 
 ###### Epic Feat
 
@@ -338,7 +343,7 @@ If the target of your smite power is already stuck or vulnerable to cold, it is 
 
 _Special:_ You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
 
-Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per day.
+Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per full recovery.
 
 If the domain you choose is designed to help cleric spells and attacks, reinterpret the talent to help your paladin powers. You can use the domain's feats if you wish; reinterpret them similarly if necessary.
 
@@ -368,7 +373,7 @@ Gain a +1 bonus to all defenses against devils and demons.
 
 #### Smite of Interdiction
 
-On a hit, the target takes ongoing holy damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
+On a hit, the target takes ongoing radiant damage equal to twice your level. If the target is a demon or devil, it is also hampered (save ends both).
 
 ##### Champion Feat
 
@@ -415,7 +420,7 @@ In battle, when you are staggered the first time, roll 1d4 and gain a Crusader�
 
 #### Champion Feat
 
-For one battle per day, gain the Crusader’s Boon at the start of your first turn.
+For one battle per full recovery, gain the Crusader’s Boon at the start of your first turn.
 
 #### Epic Feat
 
@@ -459,15 +464,15 @@ Gain a flexible attack from the [Warrior Druid list](./Druid.md#circle-of-war-ta
 
 #### Adventurer Feat
 
-Choose one terrain from the druid’s Terrain Caster talent, and gain a daily spell of your level or lower from its list. You can switch Wisdom for Charisma in the spell’s description. You don’t need to be in the terrain to cast it.
+Choose one terrain from the druid’s Terrain Caster talent, and gain a full recovery spell of your level or lower from its list. You can switch Wisdom for Charisma in the spell’s description. You don’t need to be in the terrain to cast it.
 
 #### Champion Feat
 
-You can cast the Wild Heal spell from the Wild Healer talent twice per day.
+You can cast the Wild Heal spell from the Wild Healer talent twice per full recovery.
 
 #### Epic Feat
 
-Choose either a second flexible attack, a second daily spell from the same terrain, OR a third daily use of Wild Heal.
+Choose either a second flexible attack, a second full recovery spell from the same terrain, OR a third full recovery use of Wild Heal.
 
 #### Nature’s Smite
 
@@ -487,7 +492,7 @@ You gain a bonus to magic item power recharge rolls equal to your Charisma modif
 
 #### Champion Feat
 
-Once per day, you can concentrate on a known, named artifact to gain insight into its lore or a vision of its location.
+Once per full recovery, you can concentrate on a known, named artifact to gain insight into its lore or a vision of its location.
 
 #### Epic Feat
 
@@ -496,6 +501,47 @@ Increase the damage reduction to your level + 5.
 #### Hammering Smite
 
 Reroll all natural 1s and 2s on the damage dice with your Smite Evil. This applies to all damage dice, not just the extra damage.
+
+---
+
+### Holy Strike
+
+Your Smite Evil attacks now deal radiant damage. You gain decree of anathema as a spell of your level or lower.
+
+This spell is now part of your powers.
+
+#### Adventurer Feat
+
+When you use Smite Evil, until the end of your next turn, your basic melee attacks deal radiant damage.
+
+#### Champion Feat
+
+When you hit an enemy with an attack, they are vulnerable to radiant until the end of your next turn.
+
+#### Epic Feat
+
+As a quick action, you may expend a use of Smite Evil to bless an ally’s attack. That attack is now considered radiant.
+
+#### Decree of Anathema
+
+Close-quarters Spell
+
+Recharge 11+ after battle
+
+**Target:** 1d4 nearby creatures.
+
+**Attack:** Charisma + level vs. MD
+
+**Hit:** 2d6 + Charisma psychic damage, and the target becomes vulnerable to radiant until the end of the battle.
+
+_Miss:_ Psychic damage equal to your level, and the target becomes vulnerable to radiant until the end of your next turn.
+
+| Higher Level | Effect |
+| --- | --- |
+| 3rd | 4d6 psychic damage |
+| 5th | 6d6 psychic damage |
+| 7th | 8d6 psychic damage |
+| 9th | 11d6 psychic damage |
 
 ---
 
@@ -549,7 +595,7 @@ On a natural 16+ with Smite Evil, the hampered effect is now “save ends.”
 
 ### Lay on Hands
 
-Twice per day as a quick action, you can heal yourself or an ally next to you with a touch. You spend the recovery while the recipient heals as if they had spent the recovery.
+Twice per full recovery as a quick action, you can heal yourself or an ally next to you with a touch. You spend the recovery while the recipient heals as if they had spent the recovery.
 
 #### Adventurer Feat
 
@@ -561,7 +607,7 @@ Lay on Hands healing uses a free recovery instead of one of your own.
 
 #### Epic Feat
 
-You can now use Lay on Hands four times per day instead of two.
+You can now use Lay on Hands four times per full recovery instead of two.
 
 #### Healing Smite
 
@@ -631,7 +677,7 @@ Enemies you challenge are vulnerable to your attacks.
 
 #### Exalted Challenge
 
-If you use the talent to challenge the target with your Smite Evil attack, the target takes holy damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
+If you use the talent to challenge the target with your Smite Evil attack, the target takes radiant damage equal to your Smite Evil bonus damage whenever it attacks one of your allies.
 
 ##### Adventurer Feat
 
@@ -647,11 +693,11 @@ Your nearby allies gain a +1 bonus to all saves.
 
 #### Adventurer Feat
 
-Once per day, you can reroll your relationship advantages check with a heroic or ambiguous relationship.
+Once per full recovery, you can reroll your relationship advantages check with a heroic or ambiguous relationship.
 
 #### Champion Feat
 
-All of your melee and ranged attacks deal holy damage.
+All of your melee and ranged attacks deal radiant damage.
 
 #### Epic Feat
 
@@ -697,7 +743,7 @@ When one of your Smite Evil attacks drops a non-mook enemy to 0 hp, that use of 
 
 #### Adventurer Feat
 
-Once per day, you can reroll your relationship advantages check with a villainous or ambiguous relationship.
+Once per full recovery, you can reroll your relationship advantages check with a villainous or ambiguous relationship.
 
 #### Champion Feat
 
@@ -713,7 +759,7 @@ On a hit, the target has disadvantage on their next attack roll against you.
 
 ##### Adventurer Feat
 
-If the target misses with its next attack, it takes ongoing negative energy damage equal to three times your level.
+If the target misses with its next attack, it takes ongoing necrotic damage equal to three times your level.
 
 ---
 
@@ -753,7 +799,7 @@ Increase your smite damage dice by 1d12, and halve the hit point loss.
 
 #### Cleansing Touch (5th Level+)
 
-Once per day per Charisma modifier, you can touch an adjacent ally (or yourself) as a quick action to end a condition they are under. You can end the condition regardless of whether it requires a save or not.
+Once per full recovery per Charisma modifier, you can touch an adjacent ally (or yourself) as a quick action to end a condition they are under. You can end the condition regardless of whether it requires a save or not.
 
 #### Champion Feat
 
@@ -789,7 +835,7 @@ You gain a +1 bonus to melee attack rolls.
 
 #### Champion Feat
 
-For one battle per day, grant all nearby allies a +1 bonus to melee attack rolls.
+For one battle per full recovery, grant all nearby allies a +1 bonus to melee attack rolls.
 
 #### Guiding Smite
 
@@ -799,7 +845,7 @@ On a hit, the target is vulnerable to your allies’ attacks until the start of 
 
 ### Celestial Wings (8th Level+)
 
-Once per day, you can summon glowing wings of celestial origin on your back, to allow you to fly until the end of the battle or scene.
+Once per full recovery, you can summon glowing wings of celestial origin on your back, to allow you to fly until the end of the battle or scene.
 
 #### Winged Smite
 
@@ -813,7 +859,7 @@ The wings granted by your smite power last until the end of your next turn.
 
 ### Chosen of Darkness (8th Level+)
 
-If an enemy targets you with an attack, that enemy takes negative energy damage equal to 10 + your Charisma modifier. The enemy with the most hit points on the battlefield is immune to the effect.
+If an enemy targets you with an attack, that enemy takes necrotic damage equal to 10 + your Charisma modifier. The enemy with the most hit points on the battlefield is immune to the effect.
 
 #### Cleaving Smite
 
@@ -841,7 +887,7 @@ Once per round, when the escalation die is even, you can make a melee basic atta
 
 #### Epic Feat
 
-Once per day, move yourself to the start of the initiative order at the start of a round, after the escalation die is increased.
+Once per full recovery, move yourself to the start of the initiative order at the start of a round, after the escalation die is increased.
 
 #### Zealous Smite
 

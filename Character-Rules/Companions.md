@@ -107,7 +107,7 @@ Advantage: On a natural attack roll of 18+, your companion does 1d6 per level ex
 
 **Acts:** Before druid / ranger
 
-Advantage: The companion gains resist negative energy 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
+Advantage: The companion gains resist necrotic 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
 
 ## Shocker Lizard
 
@@ -119,7 +119,7 @@ Advantage: The first time your companion hits an enemy in a battle, it deals 1d1
 
 **Acts:** After druid / ranger
 
-Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to holy damage.
+Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to radiant damage.
 
 ### Champion Feat
 
@@ -189,14 +189,14 @@ Animal companion feats are designed so that they do not build on each other. Unl
 
 ## Adventurer Feats
 
-- Once per day, your animal companion can attack twice in a round with a standard action.
+- Once per full recovery, your animal companion can attack twice in a round with a standard action.
 - Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
-- Once per day, reroll one of your animal companion's missed attack rolls.
+- Once per full recovery, reroll one of your animal companion's missed attack rolls.
 - Your animal companion adds the escalation die to its attacks.
 
 ## Champion Feats
 
-- Once per day, your animal companion can force an enemy to reroll an attack that hit it.
+- Once per full recovery, your animal companion can force an enemy to reroll an attack that hit it.
 - Your Lethal Hunter talent also applies to your animal companion.
 - Increase your animal companion's Physical Defense and Mental Defense by +1.
 
@@ -207,11 +207,11 @@ Animal companion feats are designed so that they do not build on each other. Unl
 
 ## Animal Companion Spells
 
-As an Animal Companion adept, you gain a number of spells to help your animal companion—or another's—fight better. You don't have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of daily spells you get. Once you cast a particular daily spell, no matter its level, you can't cast it again until you take your next full heal-up.
+As an Animal Companion adept, you gain a number of spells to help your animal companion—or another's—fight better. You don't have to choose the spells you know ahead of time. You can cast any spell of your level or lower, limited only by the number of full recovery spells you get. Once you cast a particular full recovery spell, no matter its level, you can't cast it again until you take your next full heal-up.
 
 Animal Companion spells are not available to Animal Companion initiates.
 
-| **Level** | **Hybrid Level** | **Daily Spells** | **Spells are Cast At** |
+| **Level** | **Hybrid Level** | **Full Recovery Spells** | **Spells are Cast At** |
 | --- | --- | --- | --- |
 | 1 | 1, 2 | 1 | 1st level |
 | 2 | 3 | 2 | 1st level |
@@ -230,7 +230,7 @@ Animal Companion spells are not available to Animal Companion initiates.
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 **Target:** One animal companion you touch
 
@@ -248,7 +248,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -267,7 +267,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -290,7 +290,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -308,7 +308,7 @@ Daily
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -331,7 +331,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 _Special:_ You must spend a recovery to cast this spell.
 
@@ -350,7 +350,7 @@ _Special:_ You must spend a recovery to cast this spell.
 
 Ranged spell
 
-Daily
+Full Recovery
 
 Interrupt action
 
@@ -368,7 +368,7 @@ Ranged spell
 
 Quick action to cast
 
-Daily
+Full Recovery
 
 **Target:** One nearby animal companion
 
@@ -384,7 +384,7 @@ Daily
 
 Close-quarters spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -398,7 +398,7 @@ Quick action
 
 Ranged spell
 
-Daily
+Full Recovery
 
 Quick action
 
@@ -414,7 +414,7 @@ Ranged spell
 
 Free action to cast
 
-Daily
+Full Recovery
 
 **Special Trigger:** You drop to 0 hp or below while your animal companion is nearby and still above 0 hp.
 

@@ -27,7 +27,7 @@ Calculate the ability modifier subtracting 10 from the ability score, halving th
 
 At 5th level, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
 
-At 8th level, triple the ability score modifier.
+At 8th level, quadruple the ability score modifier.
 
 Spells indicate a specific number of dice to roll for damage. Weapon attacks work differently.
 
@@ -49,11 +49,11 @@ Different monsters and characters may be resistant or vulnerable to various type
 - Cold
 - Fire
 - Force
-- Holy
 - Lightning
-- Negative energy
+- Necrotic
 - Poison
 - Psychic
+- Radiant
 - Thunder (sonic energy)
 
 ---
@@ -164,9 +164,17 @@ The escalation die represents a bonus to attacks as the fight goes on.
 
 At the start of the second round, the GM sets the escalation die at 1. Each PC gains a bonus to attack rolls equal to the current value on the escalation die. Each round, the escalation die advances by +1, to a maximum of +6.
 
-Monsters and NPCs do not add the escalation die bonus to their attacks
+Most Monsters and NPCs do not add the escalation die bonus to their attacks.
 
-If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
+Some conditions can be applied to the escalation die:
+
+- If the opposition consists of nothing but mooks (of less than or equal to the player's level), and the number of mooks is less than 3x the number of player characters, the escalation die will not activate.
+- If the PCs, as a group, failed a skill challenge pause the escalation die.
+- If the foes receive reinforcements, pause, reduce, or reset the escalation die.
+- If a player character falls unconscious, the escalation die pauses.
+- If a player character dies, the escalation die is reduced by 1.
+- After the escalation die has been at its maximum for a number of rounds equal to its maximum (i.e. 6 rounds at +6), it reduces by one per round, every round, regardless of circumstances, until it has reached zero. Once at zero, the escalation die can activate once again.
+- If the GM judges that the characters are avoiding conflict rather than bringing the fight to the bad guys, the escalation die doesn't advance. If combat virtually ceases, the escalation die resets to 0.
 
 ---
 
@@ -197,6 +205,8 @@ In certain circumstances, characters can intercept foes moving past them, make o
 ### Position
 
 A creature's position amounts to two things: the creature's whereabouts, and who it's contending with in melee.
+
+<img src="https://user-images.githubusercontent.com/43555799/211723030-aed15878-697c-4491-a11e-aa44fb943282.jpg" alt="13thAge-PositionalTracker" width="100%" align="middle" />
 
 ---
 
@@ -250,7 +260,7 @@ By default, characters in a battle are free. They can move freely, use ranged at
 
 #### Engaged
 
-Characters are engaged when they are in melee with foes. Engaged creatures can use melee attacks and close-quarter spells against the creatures they engage. They can use ranged attacks but doing so draws opportunity attacks from the enemies that are engaging them that they don't attack, as does moving away from the enemies they're engaged with.
+Characters are engaged when they are in melee with foes. Engaged creatures can use melee attacks and close-quarter spells against the creatures they engage. They can use ranged attacks but doing so draws opportunity attacks from the enemies that are engaging them, as does moving away from the enemies they're engaged with.
 
 Unengaged creatures have no particular limits on how they move. They can't use melee attacks until engaged.
 
@@ -282,7 +292,9 @@ When a creature gets to make an opportunity attack, it can make a basic melee at
 
 #### Intercepting
 
-If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are. The GM rules on what counts as moving "past" a defending character or enemy.
+If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are as an interrupt action. The GM rules on what counts as moving "past" a defending character or enemy.
+
+Only one creature can intercept a single enemy moving past them at a time.
 
 ---
 
@@ -318,9 +330,9 @@ Then roll initiative for the side that got ambushed and play normal combat round
 
 ---
 
-##### Dicey Moves
+##### Stunts
 
-If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check against the ability score that the action is going to use. Specify whether a background will help. The DC depends on the current environment and the dice tell the tale.
+If it's questionable whether a character could execute a particularly interesting move during combat, make a skill check. The DC depends on the current environment and the dice tell the tale.
 
 ---
 
@@ -372,7 +384,7 @@ When you use an attack, you declare which attack you are using and pick its targ
 
 #### Ranged Attacks
 
-Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you that you don't target with the attack.
+Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you.
 
 ---
 
@@ -462,9 +474,9 @@ Every creature has hit points. You slay enemies (or occasionally knock them out)
 
 ### Recoveries
 
-Each PC starts the adventure with 8 or 9 recoveries, a stat that represents the PC's ability to heal or bounce back from damage. Many healing spells and potions require you to use up a recovery. So does rallying during a battle.
+Each PC starts the adventure with 7-10 recoveries, a stat that represents the PC's ability to heal or bounce back from damage. Many healing spells and potions require you to use up a recovery. So does rallying during a battle.
 
-When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use.
+When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use. At 7th level PCs get to roll [more](../Classes/README.md#recovery-dice-progression) recovery dice.
 
 At 5th level, double the bonus you get from your Con modifier. At 8th level, triple it.
 
@@ -532,11 +544,11 @@ For each recharge power that you used in the last battle, roll a d20 to see if y
 
 ---
 
-### Full Heal-ups
+### Full Recovery
 
-After approximately four battles, characters earn a full heal-up, though the exact number is determined by the GM. Tougher battle can mean more frequent heal-ups, and vice versa.
+After approximately four battles, characters earn a full recovery, though the exact number is determined by the GM. Tougher battle can mean more frequent full recoveries, and vice versa.
 
-After a full heal-up, your hit points reset to full. You regain any recoveries you've used. All expended powers are regained or recharged. ("Daily" powers are actually "per heal-up.")
+After a full recovery, your hit points reset to full. You regain any recoveries you've used. All expended powers are regained or recharged.
 
 If the party is short of a heal-up but is too beat up to press on, they can retreat and take a full heal-up, which entails a campaign loss. (See [Flee](#flee).)
 
@@ -548,7 +560,7 @@ The universal combat modifier is +2 when you have advantageous circumstances. Si
 
 ### Shooting into Melee
 
-When using a ranged attack to target an enemy that is engaged with one or more of your allies and you fumble (roll a 1), reroll that attack considering the engaged ally as the target. If there are multiple allies, the GM rules which ally is the target.
+When using a ranged attack to target an enemy that is engaged with one or more of your allies, or using a close-quarters attack to target an enemy you are not engaged with that is engaged with one or more of your allies, a fumble (a natural 1) means that you hit one of those allies for half damage. If you have more than one ally engaged with the target, choose randomly.
 
 ---
 
@@ -612,7 +624,7 @@ You suffer a –4 penalty to defenses and can't take any actions.
 
 #### Vulnerable
 
-Attacks against you have their crit range expanded by 2 (normally 18+).
+The first time an attack you are vulnerable to misses you each turn, the attacker can reroll the attack once. You don’t get to reroll every attack against a creature that’s vulnerable to your attacks, just the first missed attack each turn.
 
 ---
 
@@ -644,7 +656,7 @@ Grabbed creatures can't make opportunity attacks. That also applies if the creat
 
 Grabbed creatures can't use ranged attacks, although melee and close attacks are fine.
 
-The creature grabbing you gets a +4 attack bonus against you.
+When the creature grabbing you starts its turn it deals half the normal damage it deals damage equal to half the normal damage it deals with the attack that damaged and grabbed you. This damage is dealt in addition to the monster's normal actions and attacks.
 
 ---
 

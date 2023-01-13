@@ -129,7 +129,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 
 | **Item** | **Price** |
 | --- | --- |
-| Road rations (1 day) | 5 sp |
+| Road rations (1 full recovery) | 5 sp |
 | Meal, common | 1 sp |
 | Meal, good | 3 sp |
 | Meal, excellent | 8 sp |
@@ -140,7 +140,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Wine, poor (bottle) | 4 cp |
 | Wine, good (bottle) | 1 sp |
 | Wine, Elven (bottle) | 1–5 gp |
-| Inn (per person per day) |
+| Inn (per person per full recovery) |
  |
 | Poor, common room | 1–3 sp |
 | Good, shared room | 8–14 sp |
@@ -158,7 +158,7 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Donkey/pack mule | 10 gp |
 | Horse, riding | 20 gp |
 | Horse, battle trained | 80 gp |
-| Feed for mount (per day) | 2–4 cp |
+| Feed for mount (per full recovery) | 2–4 cp |
 
 ---
 

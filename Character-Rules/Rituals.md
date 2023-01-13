@@ -305,7 +305,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Market/Component Cost:** 150 gp**/**30 gp
 
-**Effect:** You send a barrage of small, colorful explosions into the sky. The explosions blossom into whatever color or shape you choose for 1 minute. At the end of each minute of the ritual's duration, you can choose a new color and shape. At night, the lights are visible within a 10-mile radius. During the day, the lights are visible within a 1-mile radius.
+**Effect:** You send a barrage of small, colorful explosions into the sky. The explosions blossom into whatever color or shape you choose for 1 minute. At the end of each minute of the ritual's duration, you can choose a new color and shape. At night, the lights are visible within a 10-mile radius. During the full recovery, the lights are visible within a 1-mile radius.
 
 ---
 
@@ -395,7 +395,7 @@ _Focus_: A ceramic hand. The person who holds this focus is empowered to command
 
 **Market/Component Cost:** 150 gp**/**30 gp, plus a focus worth 300 gp
 
-**Effect:** For the ritual's duration, you and up to eight allies who heard the whole performance of the ritual can travel farther than normal. For the purpose of determining how far you and the allies can travel in an hour or a day, treat the group's speed as the slowest member's speed + 2.
+**Effect:** For the ritual's duration, you and up to eight allies who heard the whole performance of the ritual can travel farther than normal. For the purpose of determining how far you and the allies can travel in an hour or a full recovery, treat the group's speed as the slowest member's speed + 2.
 
 _Focus_: A musical instrument you play as part of performing the ritual.
 
@@ -910,7 +910,7 @@ If you know that your subject is suffering from multiple diseases, you must choo
 
 | Survival Skill Check Result | Duration |
 | --------------------- | -------- |
-| 9 or lower | 1 day |
+| 9 or lower | 1 full recovery |
 | 10-14 | 3 days |
 | 15-19 | 1 week |
 | 20 or higher | 2 weeks |
@@ -1015,7 +1015,7 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 | -------------------- | -------- |
 | 9 or lower | 1 hour |
 | 10-19 | 8 hours |
-| 20 or 29 | 1 day |
+| 20 or 29 | 1 full recovery |
 | 30 or higher | 1 week |
 
 ---
@@ -1653,7 +1653,7 @@ If you spend 4 hours and four times the component costs to perform this ritual, 
 
 | Arcana Skill Check Result | Duration |
 | ------------------------- | -------- |
-| 9 or lower | 1 day |
+| 9 or lower | 1 full recovery |
 | 10-19 | 1 week |
 | 20-29 | 1 month |
 | 30 or higher | 1 year |
@@ -1866,7 +1866,7 @@ In addition, once the ritual is complete, the reordained character becomes vague
 
 **Skill Check:** Creatures that attempt to use a power associated with defiling (one that has defile, defiling, or defiler in the name) within the warded area must succeed on an Arcana skill check against a DC equal to the result of the Nature skill check you make when performing this ritual. A creature that fails this check spends the action necessary to use the power but does not expend the power.
 
-At the end of the ward's duration, you can spend a recovery to extend the ward for an additional 24 hours, even if you are not near the ward's area. If the ritual's effect is sustained in this way without interruption for a year and a day, the effect becomes permanent.
+At the end of the ward's duration, you can spend a recovery to extend the ward for an additional 24 hours, even if you are not near the ward's area. If the ritual's effect is sustained in this way without interruption for a year and a full recovery, the effect becomes permanent.
 
 ---
 
@@ -2094,7 +2094,7 @@ The imprisoning object you takes on a faint resemblance to the subject. Knots in
 
 #### Anthem of Unity
 
-**Casting Time/Duration:** 10 minutes**/**1 day
+**Casting Time/Duration:** 10 minutes**/**1 full recovery
 
 **Market/Component Cost:** 1,000 gp**/**200 gp, plus a focus worth 3,000 gp
 
@@ -2109,7 +2109,7 @@ The crowd must not be hostile to you and must be able to see and hear you for th
 | 9 or lower | The listeners perform an action that lasts up to 1 hour and that benefits them in at least some small way. |
 | 10-19 | The listeners perform a task that lasts up to 1 hour and that poses no risk or reward to them. |
 | 20-29 | The listeners perform a task that lasts up to 6 hours and that poses a mild risk but at least some benefit to them. |
-| 30 or higher | The listeners perform a task that lasts up to 1 day and that poses a mild risk without any benefit to them. |
+| 30 or higher | The listeners perform a task that lasts up to 1 full recovery and that poses a mild risk without any benefit to them. |
 
 The number of individuals affected extends to anyone who witnesses the entire performance, so the larger the venue, the more people you can affect.
 
@@ -2125,7 +2125,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** You create a teleportation circle with a unique sequence of magic sigils, which you and other ritual casters can uses a location marker for rituals such as [Linked Portal](#linked-portal) and [Planar Portal](#planar-portal). The teleportation circle does not transport creatures anywhere on its own—it merely enables other travel rituals.
 
-The teleportation circle lasts for 24 hours, but the ritual caster can extend the duration by spending a recovery every 24 hours to sustain it. The caster does not need to see or even be on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a day, the teleportation circle becomes permanent.
+The teleportation circle lasts for 24 hours, but the ritual caster can extend the duration by spending a recovery every 24 hours to sustain it. The caster does not need to see or even be on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a full recovery, the teleportation circle becomes permanent.
 
 ---
 
@@ -2179,12 +2179,12 @@ To determine the extent of your authority over the subject, you engage in a spec
 
 | Number of Successes | Effect |
 | ------------------- | ------ |
-| 0 or 1 | The creature has authority over you and can issue one command that you must obey, a task that requires up to a day of effort. |
+| 0 or 1 | The creature has authority over you and can issue one command that you must obey, a task that requires up to a full recovery of effort. |
 | 2 or 3 | You have immediate authority over the creature. You can command the creature to perform one task that takes no more than 5 minutes. |
-| 4 or 5 | You have moderate authority over the creature. You can command the creature to perform a task that requires up to a day of effort. |
+| 4 or 5 | You have moderate authority over the creature. You can command the creature to perform a task that requires up to a full recovery of effort. |
 | 6 or 7 | You have significant authority over the creature. You can command the creature to perform a task that requires up to a week of effort. |
 | 8 or 9 | You have great authority over the creature. You can command the creature to perform a task that requires up to a month of effort. |
-| 10 | You have ultimate authority over the creature. You can command the creature to perform a task that requires up to a year and a day of effort. |
+| 10 | You have ultimate authority over the creature. You can command the creature to perform a task that requires up to a year and a full recovery of effort. |
 
 When the specified task is completed, the ritual is discharged, and the creature (or you) is released from service. You can request any kind of service that does not compel the subject to obey multiple commands, force the subject to engage in combat, or ensure the subject's death. (The subject can engage in combat to achieve a task if it wishes, but combat cannot be required.) If the task is impossible, such as commanding a creature that cannot fly to soar into the sky, the creature can ignore the command.
 
@@ -2246,7 +2246,7 @@ Greater heroes accrue greater fatigue and require more effort to recuperate. At 
 | 20-29 | Very Distant |
 | 30 or higher | Anywhere on this plane |
 
-The warding effect lasts for 24 hours, but the ritual caster (not any assistants) can extend this duration by expending a recovery every 24 hours to sustain it. The caster does not need to be in the same area or even on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a day, the effect becomes permanent.
+The warding effect lasts for 24 hours, but the ritual caster (not any assistants) can extend this duration by expending a recovery every 24 hours to sustain it. The caster does not need to be in the same area or even on the same plane to sustain the effect. If the ritual's effect is sustained without interruption for a year and a full recovery, the effect becomes permanent.
 
 ---
 
@@ -2361,7 +2361,7 @@ _Focus_: Prayer beads, a holy book, or some other item of religious significance
 | ------------------------- | -------- |
 | 14 or lower | 3 hours |
 | 15-24 | 8 hours |
-| 25 or higher | 1 day |
+| 25 or higher | 1 full recovery |
 
 ---
 
@@ -2442,7 +2442,7 @@ The guidance from the entity of fate is accurate, but great heroes are capable o
 
 #### Shift Mote
 
-**Casting Time/Duration:** 1 hour**/**1 day
+**Casting Time/Duration:** 1 hour**/**1 full recovery
 
 **Market/Component Cost:** 7,500 gp**/**1,800 gp and 5 recoveries
 

@@ -56,23 +56,24 @@ Warlords start with 25gp.
 | **Level 5** | (7 + CON mod) x **8** | 4 adv; 1 champ | 4 | 7 | 5th level |  | 2 x ability modifier |
 | **Level 6** | (7 + CON mod) x **10** | 4 adv; 2 champ | 4 | 8 | 5th level |  | 2 x ability modifier |
 | **Level 7** | (7 + CON mod) x **12** | 4 adv; 3 champ | 4 | 8 | 7th level | +1 to 3 abilities | 2 x ability modifier |
-| **Level 8** | (7 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 4 | 9 | 7th level |  | 3 x ability modifier |
-| **Level 9** | (7 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 4 | 9 | 9th level |  | 3 x ability modifier |
-| **Level 10** | (7 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 4 | 10 | 9th level | +1 to 3 abilities | 3 x ability modifier |
+| **Level 8** | (7 + CON mod) x **16** | 4 adv; 3 champ; 1 epic | 4 | 9 | 7th level |  | 4 x ability modifier |
+| **Level 9** | (7 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 4 | 9 | 9th level |  | 4 x ability modifier |
+| **Level 10** | (7 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 4 | 10 | 9th level | +1 to 3 abilities | 4 x ability modifier |
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
 ## Stats
 
-| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
+| <!-- --> | <!-- --> |
 | --- | --- |
+| **Ability Bonus** | +2 Strength or Charisma (different from species bonus) |
 | **Initiative** | Dex mod + Level |
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
 | **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod |
+| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
 | **Talents** | 3 (see [level progression chart](#level-progression)) |
@@ -136,7 +137,7 @@ When you make a melee attack during your turn and miss with a natural even roll,
 
 #### Epic Feat
 
-Twice per day when you hit with a melee attack, you can gain additional command points equal to double your Strength modifier.
+Twice per full recovery when you hit with a melee attack, you can gain additional command points equal to double your Strength modifier.
 
 ---
 
@@ -148,7 +149,7 @@ Standard action
 
 #### Adventurer Feat
 
-Once per day, add your Charisma modifier to the number of command points you gain when you use this action.
+Once per full recovery, add your Charisma modifier to the number of command points you gain when you use this action.
 
 #### Champion Feat
 
@@ -194,11 +195,11 @@ When an enemy misses you with a melee attack and rolls a natural 1 or 2, you gai
 
 #### Champion Feat
 
-Once per day as a free action when you are hit by an attack that targets AC, you can take half damage from that attack instead.
+Once per full recovery as a free action when you are hit by an attack that targets AC, you can take half damage from that attack instead.
 
 #### Epic Feat
 
-Once per day as a free action, you can gain a bonus to AC equal to the _current_ escalation die until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.) This bonus can't be higher than the number of relationship points you have with warrior or leader relationship you have in your game.
+Once per full recovery as a free action, you can gain a bonus to AC equal to the _current_ escalation die until the end of the battle. (The AC bonus increases or decreases as the escalation die increases or decreases.) This bonus can't be higher than the number of relationship points you have with warrior or leader relationship you have in your game.
 
 ---
 
@@ -310,7 +311,7 @@ Once per battle, you can use a command on a far away ally.
 
 #### Epic Feat
 
-Once per day when you use this talent to grant an ally a bonus to a d20 roll, you can also allow that ally to reroll that roll once as a free action.
+Once per full recovery when you use this talent to grant an ally a bonus to a d20 roll, you can also allow that ally to reroll that roll once as a free action.
 
 ---
 
@@ -342,11 +343,11 @@ You gain 1 command point whenever you roll a natural 19 or 20 with a melee attac
 
 #### Champion Feat
 
-Twice per day as a free action (once per turn), you can reroll one of your melee attack rolls.
+Twice per full recovery as a free action (once per turn), you can reroll one of your melee attack rolls.
 
 #### Epic Feat
 
-Twice per day as free action (once per turn) when you hit with a melee attack, you can deal 1d10 extra damage to the target for each positive relationship point you have with warrior or leader in your game.
+Twice per full recovery as free action (once per turn) when you hit with a melee attack, you can deal 1d10 extra damage to the target for each positive relationship point you have with warrior or leader in your game.
 
 ---
 
@@ -374,7 +375,7 @@ Once per battle when an enemy scores a critical hit against you or a nearby ally
 
 #### Adventurer Feat
 
-Once per day, you can use this talent twice in the same battle.
+Once per full recovery, you can use this talent twice in the same battle.
 
 #### Champion Feat
 
@@ -442,7 +443,7 @@ When you roll a die to find out how many allies one of your commands or tactics 
 
 #### Epic Feat
 
-Once per day as a free action, you can gain a number of command points equal to your Intelligence modifier.
+Once per full recovery as a free action, you can gain a number of command points equal to your Intelligence modifier.
 
 ---
 
@@ -460,7 +461,7 @@ You gain 2 command points instead of 1 when you drop a non-mook enemy to 0 hp.
 
 #### Epic Feat
 
-Once per day as a quick action, you can gain command points equal to the number of relationship points you have with the any one relationship associated with battle or victory.
+Once per full recovery as a quick action, you can gain command points equal to the number of relationship points you have with the any one relationship associated with battle or victory.
 
 ---
 
@@ -468,7 +469,7 @@ Once per day as a quick action, you can gain command points equal to the number 
 
 You rely on perception, intuition, and common sense as a warlord instead of charismatic presence. Any time an element of the warlord class refers to Charisma, you can replace that element with a reference to Wisdom.
 
-In addition, one battle per day, you can reroll your initiative if you don't like the first result. You must take the re-rolled result.
+In addition, one battle per full recovery, you can reroll your initiative if you don't like the first result. You must take the re-rolled result.
 
 #### Adventurer Feat
 
@@ -476,11 +477,11 @@ You gain 1 additional skill point related to military history, strategy, command
 
 #### Champion Feat
 
-Once per day after a battle, you can gain a bonus to all recharge rolls you make for your expended tactics equal to your Wisdom modifier.
+Once per full recovery after a battle, you can gain a bonus to all recharge rolls you make for your expended tactics equal to your Wisdom modifier.
 
 #### Epic Feat
 
-Once per day as a free action, you can choose a tactic you don't normally possess and use it as if you did (you don't get any feats associated with it).
+Once per full recovery as a free action, you can choose a tactic you don't normally possess and use it as if you did (you don't get any feats associated with it).
 
 ---
 
@@ -640,7 +641,7 @@ Interrupt action
 
 **Cost:** 1 command point
 
-**Target:** One nearby ally who made a melee attack
+**Target:** One nearby ally who made a Melee Attack
 
 **Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at 5th level and trice at 8th, to a different enemy they are also engaged with.
 
@@ -1039,7 +1040,7 @@ Interrupt action
 
 **Cost:** 2 command points
 
-**Target:** One nearby ally who hit with a melee attack
+**Target:** One nearby ally who hit with a Melee Attack
 
 **Effect:** The ally also deals 5, 10 at 5th level, and 20 at 8th level, ongoing damage.
 

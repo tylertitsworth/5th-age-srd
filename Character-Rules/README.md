@@ -133,7 +133,7 @@ Your character's relationship with people, organizations, and entities gives you
 
 At 1st level, each character gets 3 relationship points.
 
-The number of points you invest in a relationship doesn't necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It's not necessarily about how well the they know you or how strong they feel about you. Instead, the points reflect the amount of sacrifices they will make to accommodate, sponsor, and/or worship you.
+The number of points you invest in a relationship doesn't necessarily correlate with the closeness of the connection or the strength of the relationship. It does correlate with the utility of the relationship. It's not necessarily about how well they know you or how strong they feel about you. Instead, the points reflect the amount of sacrifices they will make to accommodate, sponsor, and/or worship you.
 
 ---
 
@@ -176,7 +176,7 @@ Each character has a number of points to allocate to a set of skills. These are 
 
 ### Assigning Skill Points
 
-Each character gets skill points at certain levels, plus any extra that your class awards. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
+Each character gets skill points based on what their class awards, some class features and talents award additional skill points. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
 
 | Level | Skill Points |
 | ----- | ------------ |
@@ -194,9 +194,7 @@ Most skill checks require you to equal or beat a Difficulty Class (DC), set by t
 
 To make a skill check, use this formula:
 
----
-
-#### _D20 + relevant ability modifier + level + relevant skill points_ _Vs._ _DC set by the environment_
+_D20 + relevant ability modifier + level + relevant skill points_ _Vs._ _DC set by the environment_
 
 You can't apply multiple skills to the same check; the skill with the highest (or tied for highest) bonus applies.
 
