@@ -1,0 +1,151 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: black;
+  background-color: white;
+}
+a {
+  color: cyan;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+h2 {
+  font-size: 2em;
+  font-weight: normal;
+  margin-block-start: 0.17em;
+  margin-block-end: 0.17em;
+}
+h3 {
+  font-size: 1.67em;
+  font-weight: normal;
+  margin-block-start: 0.33em;
+  margin-block-end: 0.33em;
+}
+h4 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+h5 {
+  font-size: 1.33em;
+  font-weight: normal;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+}
+h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.17em;
+  font-weight: normal;
+  margin-block-start: 1.17em;
+  margin-block-end: 1.17em;
+}
+p {
+  margin-bottom: 1em;
+}
+ul, ol {
+  margin-top: 0;
+}
+table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  -webkit-overflow-scrolling: touch;
+}
+table th {
+  font-weight: bold;
+}
+table th, table td {
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+}
+dl {
+  padding: 0;
+}
+dl dt {
+  padding: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+dl dd {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 1rem 0;
+  background-color: black;
+  border: 0;
+}
+
+.main-wrapper {
+    background-color: white; }
+  
+  .page-header {
+    display: none; }
+  
+  .site-footer {
+    display: none; }
+  
+  #sidebar {
+    display: none; }
+  
+  .click-here-to-print-chosen-cards {
+    display: none; }
+  
+  #content-wrapper {
+    color: black;
+    display: block; }
+    #content-wrapper h1 {
+      color: black; }
+    #content-wrapper h2 {
+      color: black; }
+    #content-wrapper h3 {
+      color: black; }
+    #content-wrapper h4 {
+      color: black; }
+    #content-wrapper h5 {
+      color: black; }
+    #content-wrapper h6 {
+      color: black; }
+    #content-wrapper div {
+      float: left;
+      visibility: hidden;
+      break-inside: avoid;
+      border: dashed;
+      font-size: 8px;
+      height: 100%;
+      justify-content: center;
+      line-height: 1.5;
+      margin: 10px;
+      overflow: auto;
+      padding: 0.05in;
+      top: 0px;
+      visibility: visible;
+      min-width: 2.25in;
+      min-height: 3.5in;
+      max-width: 2.25in;
+      max-height: 3.5in; }
+      #content-wrapper div h1 {
+        font-size: 10px; }
+      #content-wrapper div hr {
+        display: none; }
+      #content-wrapper div table {
+        display: none; }
+  

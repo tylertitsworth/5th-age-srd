@@ -55,17 +55,21 @@
       h1 { font-size: 10px; }
       hr { display: none; }
       table { display: none; }
+      .powerContent{
+        height: 100%;
+        font-size: 8px;
+        overflow: auto;
+      }
       float: left;
       visibility: hidden;
       break-inside: avoid;
       border: dashed;
-      font-size: 8px;
       height: auto;
       justify-content: center;
       line-height: 1.5;
-      margin: 20px;
-      overflow: hidden;
+      margin: 15px;
       padding: 0.05in;
+      overflow: hidden;
       // position: absolute;
       top: 0px;
       visibility: visible;
