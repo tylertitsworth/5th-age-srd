@@ -60,9 +60,7 @@ Paladins start with 25gp.
 | **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 4 x ability modifier |
 | **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 4 x ability modifier |
 
-## Stats at First Level
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

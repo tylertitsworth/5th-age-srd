@@ -64,7 +64,7 @@ Psions start with 25gp.
 
 >Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-## Stats at First Level
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

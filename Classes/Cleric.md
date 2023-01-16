@@ -64,7 +64,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats at First Level
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

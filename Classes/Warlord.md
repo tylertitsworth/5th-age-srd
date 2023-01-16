@@ -62,7 +62,7 @@ Warlords start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats at First Level
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

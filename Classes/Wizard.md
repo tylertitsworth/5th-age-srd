@@ -66,9 +66,7 @@ Wizards start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats at First Level
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

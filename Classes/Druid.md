@@ -62,9 +62,7 @@ Druids start with 25gp.
 | **Level 9** | (6 + CON mod) x 20 | 4 adv; 3 champ; 2 epic | 3 | 6 | 9 | 9th | | 4 x ability modifier |
 | **Level 10** | (6 + CON mod) x 24 | 4 adv; 3 champ; 3 epic | 4 | 7 | 10 | 9th | +1 to 3 abilities | 4 x ability modifier |
 
-## Stats at First Level
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -699,7 +697,7 @@ Your full recovery animal companion spells are Recharge 18+ after battle.
 
 ---
 
-#### Stats at First Level & Levels
+#### Stats at 1st Level & Progression
 
 _Initiate:_ Your animal companion is one level below your class level. It is not always present—whenever your animal companion participates in a battle, it won’t be available for the following battle, and only be back for the battle after that. You don’t gain animal companion spells.
 

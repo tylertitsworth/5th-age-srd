@@ -66,9 +66,7 @@ Although not listed on the table, this class gets three talents. It does not get
 
 >\*You don't subtract the modifier from your base hp value if you have a negative Constitution modifier.
 
-## Stats at First Level
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |

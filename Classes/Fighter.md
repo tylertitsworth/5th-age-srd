@@ -64,9 +64,7 @@ Fighters start with 25gp.
 
 Fighter weapon attack maneuvers deal damage based on the fighter's level. You also don't have to keep track of upgrading a 1st level maneuver into a 3rd level maneuver, because all the maneuvers function at your level. You can change which maneuvers you know and have ready whenever you gain a level.
 
-## Stats at First Level
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
