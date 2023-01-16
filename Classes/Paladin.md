@@ -60,7 +60,7 @@ Paladins start with 25gp.
 | **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 4 x ability modifier |
 | **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 4 x ability modifier |
 
-## Stats
+## Stats at First Level
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -72,12 +72,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 17 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (8 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks

@@ -64,7 +64,7 @@ Fighters start with 25gp.
 
 Fighter weapon attack maneuvers deal damage based on the fighter's level. You also don't have to keep track of upgrading a 1st level maneuver into a 3rd level maneuver, because all the maneuvers function at your level. You can change which maneuvers you know and have ready whenever you gain a level.
 
-## Stats
+## Stats at First Level
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -76,12 +76,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 16 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (8 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 | **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 

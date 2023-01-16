@@ -66,7 +66,7 @@ Although not listed on the table, this class gets three talents. It does not get
 
 >\*You don't subtract the modifier from your base hp value if you have a negative Constitution modifier.
 
-## Stats
+## Stats at First Level
 
 Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
 
@@ -77,11 +77,11 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d4 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d4 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
+| **Relationships** | 3 points |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 

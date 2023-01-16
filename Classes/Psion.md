@@ -64,7 +64,7 @@ Psions start with 25gp.
 
 >Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-## Stats
+## Stats at First Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -73,11 +73,11 @@ Psions start with 25gp.
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 9 |
-| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
+| **Relationships** | 3 points |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 

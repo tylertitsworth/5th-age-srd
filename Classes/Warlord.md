@@ -62,7 +62,7 @@ Warlords start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
+## Stats at First Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -71,12 +71,12 @@ Warlords start with 25gp.
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d8 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Relationships** | 3 points |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
