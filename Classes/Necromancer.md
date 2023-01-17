@@ -816,7 +816,7 @@ Close-quarters Spell
 
 Recharge 11+
 
-Quick action
+Quick Action
 
 **Effect:** Create a floating hand of spectral matter that lasts until the end of the battle. The hand can engage a nearby enemy when you create it, and you can move it to a different enemy as a quick action. Through the hand, you can target this enemy with any of your spells, regardless of the spell’s normal range. The spell does not provoke opportunity attacks. The hand has your defenses, and hit points equal to twice the spell level. It ignores any damage except force and radiant damage.
 
@@ -1154,7 +1154,7 @@ Close-quarters Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Effect:** One nearby willing ally can spend a recovery and make a recovery roll, except you gain the healing. If no nearby ally is willing, deal 1 point of damage to all nearby creatures and you heal hit points equal to your level.
 
@@ -1222,7 +1222,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** One nearby enemy
 
@@ -1278,7 +1278,7 @@ Close-quarters Spell
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** You are reduced below zero hit points by an attack.
 
@@ -1651,7 +1651,7 @@ Close-quarters Spell
 
 Recharge 17+ after battle
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of your next turn, enemies must succeed at a hard save (16+) to engage or attack you. If they fail, they take psychic damage equal to your Charisma modifier, twice at 5th level, and thrice at 8th, they are struck by fear (-4 to attack, can’t use the escalation die) and can’t engage you until the end of your next turn. Enemies who successfully saved against the effect are immune to the spell until the end of the battle.
 
@@ -1713,7 +1713,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A nearby ally
 
@@ -1758,7 +1758,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** Choose a creature you can see in the battle. If that creature is the next creature to drop to 0 hp, you heal using a recovery.
 
@@ -1804,7 +1804,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You or a nearby ally
 
@@ -1844,7 +1844,7 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 | **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 10 necrotic damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **17** **33** |
 | | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
 | | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
-| | _Flight_: The wraith hovers and zooms about. | | |
+| | _Flight:_ The wraith hovers and zooms about. | | |
 | | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even radiant damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 #### Summoned Greater Wraith
@@ -1854,7 +1854,7 @@ When you cast _summon wraith_ while the escalation die is 3+, you summon three w
 | **Spoiler** **Undead** | **C: Spiraling assault +10 vs. PD (1d3 nearby enemies)—** 15 necrotic damage, and after the attack the wraith teleports to and engages with one target it hit | **MD** **HP** | **19** **47** |
 | | _Natural 16+:_ The target is also weakened until the end of its next turn. | | |
 | | _Limited use:_ The wraith can use _spiraling assault_ only when the escalation die is even. | | |
-| | _Flight_: The wraith hovers and zooms about. | | |
+| | _Flight:_ The wraith hovers and zooms about. | | |
 | | _Ghostly:_ This creature has _resist damage 16+_ to all damage (yes, even radiant damage) except force damage, which damages it normally. A wraith can move through solid objects, but it can't end its movement inside them. | | |
 
 ---
@@ -2032,7 +2032,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You lose 10d8 hit points that can't be prevented in any way. At the start of your next turn, you heal using 3 free recoveries. If you are at 0 hp or below, or even dead, you return to life at 0 hp before healing.
 
@@ -2183,7 +2183,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You grow black raven wings that allow you to fly until the end of the battle. The first time you hit an enemy with an attack each turn, that enemy also takes 25 ongoing necrotic damage.
 

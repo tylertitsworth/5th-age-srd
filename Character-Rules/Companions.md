@@ -246,7 +246,7 @@ Full Recovery
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -265,7 +265,7 @@ Full Recovery
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -288,7 +288,7 @@ Full Recovery
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -310,7 +310,7 @@ Close-quarters spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** One nearby animal companion
 
@@ -329,7 +329,7 @@ Quick action
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -352,7 +352,7 @@ Ranged spell
 
 Full Recovery
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** An enemy targets you with a melee attack
 
@@ -366,7 +366,7 @@ Interrupt action
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -386,7 +386,7 @@ Close-quarters spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** Your current animal companion, regardless of where it is
 
@@ -400,7 +400,7 @@ Ranged spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A nearby animal companion
 
@@ -412,7 +412,7 @@ Quick action
 
 Ranged spell
 
-Free action to cast
+Free Action to cast
 
 Full Recovery
 

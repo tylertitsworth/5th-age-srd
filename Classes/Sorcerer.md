@@ -1042,7 +1042,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -1110,7 +1110,7 @@ Brass Babble
 
 Close-quarters Spell
 
-Quick action
+Quick Action
 
 Draconic
 
@@ -1143,7 +1143,7 @@ Full Recovery
 | 7th | 6d12 damage. |
 | 9th | 10d12 damage. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
 
 ---
 
@@ -1700,7 +1700,7 @@ Close-quarters Spell
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -1913,7 +1913,7 @@ Full Recovery
 | 7th | 35 + Charisma ongoing poison damage; 15 ongoing on a miss. |
 | 9th | 50 + Charisma ongoing poison damage; 25 ongoing on a miss. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
 
 ---
 
@@ -2003,7 +2003,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Arcane
 
@@ -2019,7 +2019,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Free action
+Free Action
 
 Celestial
 
@@ -2039,7 +2039,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Target:** You; breath weapon
 
@@ -2051,7 +2051,7 @@ Quick action to cast
 | 7th | You can now fly twice as fast as you normally move on the ground. You also gain a +5 bonus to disengage checks. |
 | 9th | The spell is now recharge 16+ after battle instead of full recovery. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
 
 ---
 
@@ -2121,7 +2121,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial / Umbral
 
@@ -2147,7 +2147,7 @@ Close-quarters Spell
 
 Once per battle
 
-Free action
+Free Action
 
 Arcane
 
@@ -2376,7 +2376,7 @@ Full Recovery
 
 Double the spell's ongoing damage on a miss.
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the black_ that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the black_ that turn if you wish.
 
 ---
 
@@ -2587,7 +2587,7 @@ Close-quarters Spell
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 Fey
 
@@ -2696,7 +2696,7 @@ Ranged Spell
 
 Full Recovery
 
-Free action
+Free Action
 
 Umbral
 
@@ -2938,7 +2938,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Draconic
 
@@ -3019,7 +3019,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Umbral
 
@@ -3113,7 +3113,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial / Fey / Draconic
 
@@ -3133,7 +3133,7 @@ Ranged Spell
 
 Full Recovery
 
-Free action to cast, before initiative is rolled
+Free Action to cast, before initiative is rolled
 
 **Targets:** 1d4 + 1 nearby allies
 
@@ -3181,7 +3181,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 _Special:_ If you are fighting one or more demons, roll an easy save (6+) at the start of each of your turns. Failure means that you are confused that turn.
 
@@ -3358,7 +3358,7 @@ Full Recovery
 
 **Miss:** Half damage.
 
-_Breath Spell_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the void_ this turn if you wish.
+_Breath Spell:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the void_ this turn if you wish.
 
 ---
 
@@ -3382,7 +3382,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial
 
@@ -3430,7 +3430,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -3474,7 +3474,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** Roll a performance check related to a sorcerous heroic relationship that you have.
 

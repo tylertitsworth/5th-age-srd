@@ -172,7 +172,7 @@ _Karmic rebuke_ requires a quick action instead of an interrupt action. It's des
 Close-quarters Spell
 
 **At-Will**
-Quick action to cast
+Quick Action to cast
 
 Expend Focus
 
@@ -247,7 +247,7 @@ Close-quarters Spell
 
 At-will
 
-Quick action
+Quick Action
 
 expends focus
 
@@ -375,7 +375,7 @@ Close-quarters Spell
 
 At-will
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -604,7 +604,7 @@ Close-quarters Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -667,7 +667,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -725,7 +725,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -764,7 +764,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -795,7 +795,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -832,7 +832,7 @@ Close-quarters Spell
 
 Recharge 16+ after the battle / scene
 
-Interrupt action
+Interrupt Action
 
 Expend Focus
 
@@ -856,7 +856,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -891,7 +891,7 @@ Close-quarters Spell
 
 At-will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend focus
 
@@ -928,7 +928,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -971,7 +971,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1010,7 +1010,7 @@ Close-quarters Spell
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1049,7 +1049,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1077,7 +1077,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1120,7 +1120,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1165,7 +1165,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1207,7 +1207,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1229,7 +1229,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1265,7 +1265,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1297,7 +1297,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1331,7 +1331,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1369,7 +1369,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1403,7 +1403,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1425,7 +1425,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1461,7 +1461,7 @@ Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1479,7 +1479,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend focus
 
@@ -1530,7 +1530,7 @@ Close-quarters Spell
 
 At-Will
 
-Free action to cast
+Free Action to cast
 
 **Trigger:** You drop to 0 hp or below or roll a death save.
 
@@ -1557,7 +1557,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1588,7 +1588,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1622,7 +1622,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1655,7 +1655,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1690,7 +1690,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Quick action
+Quick Action
 
 **Effect:** This battle, you can take a second interrupt action between your turns. When you do, you lose the standard action on your next turn.
 
@@ -1702,7 +1702,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Quick action
+Quick Action
 
 **Target:** A nearby ally
 
@@ -1727,7 +1727,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1755,7 +1755,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1799,7 +1799,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1825,7 +1825,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1867,7 +1867,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1889,7 +1889,7 @@ Close-quarters Spell
 
 Once per level
 
-Standard action to cast; you can only cast this spell out of battle
+Standard Action to cast; you can only cast this spell out of battle
 
 **Trigger:** You realize that the last two minutes of out of battle roleplay or existence have gone horribly wrong and you want to rewind and try to redirect reality in a manner that you wish.
 
@@ -1907,7 +1907,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 

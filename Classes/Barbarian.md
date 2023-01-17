@@ -671,7 +671,7 @@ When you activate Fury of the North Wind, enemies engaged with you must succeed 
 
 ### Might of the Demigod
 
-_Special_: You can only choose this talent as a single-class barbarian.
+_Special:_ You can only choose this talent as a single-class barbarian.
 
 Increase your Strength and Constitution scores by 4.
 

@@ -387,7 +387,7 @@ Oh, you also become vulnerable to radiant attacks. And if you die while animated
 
 If you don’t already have a relationship with a prominent lich, you soon will.
 
-**Quirk**: Hungers for the life force of living beings.
+**Quirk:** Hungers for the life force of living beings.
 
 ---
 
@@ -789,7 +789,7 @@ You gain a +1 bonus to all defenses while at maximum hit points.
 
 #### Perseverance
 
-Quick action
+Quick Action
 
 Full Recovery
 
@@ -2466,7 +2466,7 @@ _Recharge 11+:_ These long sock-like boots let you leave animal footprints inste
 
 #### Wise Eyelet Boots
 
-Quick action
+Quick Action
 
 _Recharge 16+:_ If you were the last creature to take its turn this round, you pop free from all enemies.
 
@@ -2550,7 +2550,7 @@ _Recharge 11+:_ You can fly for the next 1d3 rounds.
 
 #### Boots of the Demon Prince
 
-Standard action
+Standard Action
 
 _Recharge 11+:_ Activate these blood-red boots, and you open a one-way portal to the infernal realms at your feet. You become stuck until the end of your next turn. At the end of your next turn, assuming you’re still conscious, you and anyone engaged with you sinks into the portal and arrives... well, maybe in the nearest hellhole, or in the Abyss, or somewhere even worse.
 
@@ -2676,7 +2676,7 @@ _Recharge 11+:_ The outside of these bracers is inscribed with prayers and spins
 
 _Recharge 16+:_ Until the end of the battle, your attacks deal radiant damage, and once per round an enemy you hit with an attack takes 2d6 extra radiant damage, 3d10 damage at champion tier, and 4d12 damage at epic tier.
 
-**Quirk**: Uses phrases that piously invoke the gods.
+**Quirk:** Uses phrases that piously invoke the gods.
 
 ---
 
@@ -3204,7 +3204,7 @@ The metal threads in this cloak make it hard to cut. A critical hit against you 
 
 #### Invisibility
 
-Standard action
+Standard Action
 
 _Recharge 16+:_ You become invisible. As you’ve got to hold the cloak around you to maintain the invisibility, you can’t take standard actions while invisible, which means (mostly) no spellcasting or attacking. You can drop the invisibility at the end of any turn; you become visible immediately, and can act normally on your next turn.
 
@@ -3333,7 +3333,7 @@ _Recharge 16+ after use:_ Gain flight until the start of your next turn. You wil
 
 #### Recovery
 
-Quick action
+Quick Action
 
 _Recharge 16+:_ You heal using a recovery and add +4 hp to the total, +10 hp at champion tier, and +25 hp at epic tier.
 
@@ -5157,7 +5157,7 @@ If you are humanoid you are instead considered undead when it would benefit you,
 
 #### Cheap Shot
 
-Quick action
+Quick Action
 
 _Recharge 11+:_ One enemy you're engaged with takes damage equal to your normal melee miss damage.
 
@@ -5375,7 +5375,7 @@ _Recharge 6+:_ When you miss with an attack that has a miss effect harmful to th
 
 #### Relentless Strike
 
-Standard action
+Standard Action
 
 _Recharge 16+:_ Make a basic attack ignoring any effects that give you an attack penalty, prevent you from attacking, keep you from taking actions, or force you to reroll the attack. You can also use this ring's power while you're stunned, even though you couldn't normally take an action.
 
@@ -6524,7 +6524,7 @@ _Recharge 16+:_ The flickering viridian glow from this staff leaps to an emerald
 
 #### Imperium
 
-Standard action
+Standard Action
 
 _Recharge 16+:_ The power of this golden staff can only be invoked by a spellcaster who has a positive or conflicted relationship with any ruling relationship. When you use this power, you can use the power of any other magic item you have touched since your last full heal-up, but you can only use each such individual item power once ever.
 
@@ -6662,7 +6662,7 @@ If one of your spells would daze an undead creature, that creature becomes confu
 
 #### Divine Harmony, Knot of
 
-Standard action
+Standard Action
 
 _Recharge 16+:_ When you use this knot, you can serve in a priestly function for nearly any god or ritual. You can use this power to meet a free-form challenge, at the GM's discretion.
 
@@ -7238,7 +7238,7 @@ You can reshape trees, bushes and other plants to your will, parting vegetation 
 
 #### Flaring
 
-Quick action
+Quick Action
 
 _Recharge 11+:_ When the escalation die is 5+, cast one of your arcane spells. That spell will miss on any natural odd roll.
 

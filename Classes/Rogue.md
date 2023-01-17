@@ -731,7 +731,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -759,7 +759,7 @@ Close-quarters attack
 
 Once per battle
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -951,7 +951,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1001,7 +1001,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1027,11 +1027,11 @@ Once per full recovery, you can use roll with it to take damage equal to the att
 
 Close-quarters Power
 
-Quick action
+Quick Action
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -1047,11 +1047,11 @@ You can attack with the hand as a quick action once per battle.
 
 Close-quarters Power
 
-Free action
+Free Action
 
 Once per battle
 
-Free action
+Free Action
 
 Shadow
 
@@ -1098,7 +1098,7 @@ Momentum Power
 
 At-will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1246,7 +1246,7 @@ Momentum Power
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 Shadow
 
@@ -1300,7 +1300,7 @@ Momentum Power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1344,7 +1344,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -1402,7 +1402,7 @@ Melee attack
 
 At-will
 
-Standard action on your turn
+Standard Action on your turn
 
 expends momentum
 
@@ -1548,7 +1548,7 @@ Close-quarters Power
 
 Once per battle
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -1772,7 +1772,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1790,7 +1790,7 @@ Ranged attack
 
 Once per battle
 
-Quick action
+Quick Action
 
 you must spend your momentum
 
@@ -1814,7 +1814,7 @@ _Special:_ You must be fighting with two weapons and wielding one-handed weapon 
 
 Full Recovery
 
-Quick action
+Quick Action
 
 _Special:_ You must be using a hand crossbow or other small ranged weapon.
 
@@ -1840,7 +1840,7 @@ Melee attack
 
 Full Recovery
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -1895,7 +1895,7 @@ The save against the effect is a hard save (16+).
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You go all-out to hurt anyone who tries to get a piece of you. For the rest of the battle, while you're conscious, using at least one bladed weapon, and are not staggered or stunned, you deal 10 damage to each enemy that makes a melee attack against you and rolls a natural odd attack roll. The damage hits the enemy before their attack damages you.
 
@@ -1915,7 +1915,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -2019,7 +2019,7 @@ If the reroll is also a miss, you gain a +4 bonus to AC until the end of your ne
 
 Full Recovery
 
-Move action
+Move Action
 
 **Target:** One nearby enemy
 
@@ -2041,7 +2041,7 @@ Momentum Power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -2111,7 +2111,7 @@ Melee attack
 
 At-will (Once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -2135,7 +2135,7 @@ Close-quarters Power
 
 Once per battle
 
-Free action
+Free Action
 
 Shadow
 
@@ -2155,7 +2155,7 @@ Close-quarters Power
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -2173,7 +2173,7 @@ Close-quarters Power
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -2187,7 +2187,7 @@ When an enemy makes an attack against you, you can spend your momentum (before y
 
 ### Smoke Bomb
 
-Quick action; Full Recovery
+Quick Action; Full Recovery
 
 Target: You
 
@@ -2207,7 +2207,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -2255,7 +2255,7 @@ Momentum Power
 
 At-Will
 
-Standard action on your turn
+Standard Action on your turn
 
 you must spend your momentum
 
@@ -2273,7 +2273,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Move action on your turn
+Move Action on your turn
 
 requires momentum
 
@@ -2379,7 +2379,7 @@ Momentum Power
 
 At-Will
 
-Interrupt action OR free action on your turn
+Interrupt Action OR free action on your turn
 
 you must spend your momentum
 

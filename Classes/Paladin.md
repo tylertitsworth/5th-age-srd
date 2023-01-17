@@ -261,7 +261,7 @@ Close quarters power
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** Gain the rune benefit of either the Blood, Death, or Frost rune until the end of the battle. You can only have one rune active at a time — using a different rune ends the current one. When you Smite Evil, you can use the active rune‘s smite power.
 

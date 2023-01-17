@@ -291,7 +291,7 @@ Close-quarters power
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, if the escalation die is 1+, your JAB, PUNCH and KICK attacks deal fire damage, and you deal 1d4 extra damage on a hit.
 
@@ -331,7 +331,7 @@ Melee attack
 
 At-Will (once per round), when the escalation die is 3+
 
-Quick action
+Quick Action
 
 **Target:** One enemy
 
@@ -369,7 +369,7 @@ Close-quarters power
 
 Once per battle
 
-Free action
+Free Action
 
 **Trigger:** You hit with an unarmed melee attack.
 
@@ -437,7 +437,7 @@ You no longer take opportunity attacks when you make ranged attacks while engage
 
 #### Ki Power
 
-_Wind from Heaven_: You can spend 1 point of ki to regain your Heaven's Arrow power when it's expended.
+_Wind from Heaven:_ You can spend 1 point of ki to regain your Heaven's Arrow power when it's expended.
 
 ##### Adventurer Feat
 
@@ -559,7 +559,7 @@ The first time you die after taking this feat, you are resurrected at a place of
 
 #### Ki Power
 
-_Imperial Phoenix Flare_: Once per full recovery when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
+_Imperial Phoenix Flare:_ Once per full recovery when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
 
 ##### Adventurer Feat
 
@@ -667,7 +667,7 @@ Close-quarters power
 
 Once per battle
 
-Free action
+Free Action
 
 **Trigger:** You hit an enemy with an unarmed melee attack.
 
@@ -984,7 +984,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage
 
-**Cycle bonus**: You take a -2 penalty to AC, but all JAB, PUNCH and KICK damage dice are exploding dice (including this attack).
+**Cycle bonus:** You take a -2 penalty to AC, but all JAB, PUNCH and KICK damage dice are exploding dice (including this attack).
 
 **Miss:** Damage equal to your level. You can spend a ki point to gain the cycle bonus.
 

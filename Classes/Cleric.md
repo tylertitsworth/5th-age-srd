@@ -118,9 +118,9 @@ All clerics have the Ritual Magic class feature. They also receive a bonus spell
 There are certain abilities specific to the cleric that can affect their powers:
 
 - _Cast for power_ and _cast for broad effect:_ The spell can be used one of two ways—either as a more powerful effect on one target (power) or as a weaker effect on multiple targets (broad). Spells cast for power cannot target the caster. Spells cast for broad effect can.
-- _Free recovery_: The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
-- _Heal using a recovery_: The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
-- _Invocation_: A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
+- _Free recovery:_ The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
+- _Heal using a recovery:_ The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
+- _Invocation:_ A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
 
 ---
 
@@ -130,7 +130,7 @@ Close-quarters Spell
 
 _Special:_ You can use this spell twice per battle.
 
-Quick action to cast (1/round)
+Quick Action to cast (1/round)
 
 **Target:** You or one ally you are next to
 
@@ -352,7 +352,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -375,7 +375,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You or a nearby ally can heal using a free recovery.
 
@@ -446,7 +446,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -604,7 +604,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -680,7 +680,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -704,7 +704,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes radiant damage equal to double your level.
 
@@ -794,7 +794,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** Choose a defense: AC, PD, or MD. For the rest of the battle while you are conscious, you and each ally near you gains a +1 bonus to that defense. Each enemy that misses you or one of your nearby allies with an attack against the defense you chose is hampered until the end of its next turn.
 

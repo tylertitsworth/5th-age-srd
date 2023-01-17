@@ -1095,7 +1095,7 @@ Close-quarters power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** Your Oath of Vengeance target disengages or moves away from you.
 
@@ -1207,7 +1207,7 @@ Close-quarter power
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** You are hit by an attack
 

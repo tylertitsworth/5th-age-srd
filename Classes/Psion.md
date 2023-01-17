@@ -241,11 +241,11 @@ When your random affinity choice indicates an attack affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: You gain _flight_ until the end of your next turn. |
+| **1** | _Air:_ You gain _flight_ until the end of your next turn. |
 | **2** | _Earth:_ Until the end of your next turn, each enemy that misses you with a melee attack is stuck until the end of its next turn. |
-| **3** | _Fire_: Until the end of your next turn, you can pop free from staggered enemies as a quick action. |
-| **4** | _Water_: You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier |
-| **5** | _Metal_: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
+| **3** | _Fire:_ Until the end of your next turn, you can pop free from staggered enemies as a quick action. |
+| **4** | _Water:_ You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier |
+| **5** | _Metal:_ Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
 | **6** | _Void:_ During your next turn, you can use a move action to teleport to a nearby location you can see. |
 
 ##### Adventurer Feat
@@ -270,11 +270,11 @@ When your random affinity choice indicates a defense affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: Once before the end of your next turn, you can heal using a recovery as a quick action. |
+| **1** | _Air:_ Once before the end of your next turn, you can heal using a recovery as a quick action. |
 | **2** | _Earth:_ You gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **3** | _Fire_: Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **4** | _Water_: Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **5** | _Metal_: Until the end of your next turn, you gain a +2 bonus to AC. |
+| **3** | _Fire:_ Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
+| **4** | _Water:_ Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
+| **5** | _Metal:_ Until the end of your next turn, you gain a +2 bonus to AC. |
 | **6** | _Void:_ Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack. |
 
 ##### Adventurer Feat
@@ -299,11 +299,11 @@ When your random affinity choice indicates an iconic affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: Randomly determine two relationship associations for the affinity you'll cast instead of one. Choose one of those associations to use for that affinity. |
+| **1** | _Air:_ Randomly determine two relationship associations for the affinity you'll cast instead of one. Choose one of those associations to use for that affinity. |
 | **2** | _Earth:_ Until the end of your next turn, you gain a bonus to PD and MD equal to your Intelligence modifier. |
-| **3** | _Fire_: Until the end of your next turn, you gain the once-per-battle species power of a random nearby ally; ignore this benefit if it duplicates your own species power or if it doesn't make sense during the battle (human, for example). |
+| **3** | _Fire:_ Until the end of your next turn, you gain the once-per-battle species power of a random nearby ally; ignore this benefit if it duplicates your own species power or if it doesn't make sense during the battle (human, for example). |
 | **4** | _Water_:Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier. |
-| **5** | _Metal_: Until the end of your next turn, critical hits scored against you only count as normal hits. |
+| **5** | _Metal:_ Until the end of your next turn, critical hits scored against you only count as normal hits. |
 | **6** | _Void:_ When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
 
 ##### Adventurer Feat
@@ -370,17 +370,17 @@ Your pet won’t join you in a fight, and it can’t be targeted by affinities o
 
 Also choose one ability for your pet from the list below:
 
-- _Axiomatic_: Once per full recovery, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
-- _Detector_: It can smell magic by scent.
-- _Flight_: It can fly.
-- _Healer_: Once per full recovery, it can grant someone the use of a recovery to heal by touch.
-- _Innate Magic_: Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
-- _Mundane Aura_: It appears fully natural and resists any divination magic cast on it.
-- _Negator_: It can use its anti-magic ability twice per full recovery.
-- _Shapechanger_: It can take any shape it likes, as long as it stays roughly cat-sized.
-- _Shield_: Once per full recovery, it can force an enemy to reroll an attack against you with a d12.
-- _Shy_: It can turn invisible at-will.
-- _Talkative_: Your pet can talk. Each session, determine its personality with the Personality table
+- _Axiomatic:_ Once per full recovery, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
+- _Detector:_ It can smell magic by scent.
+- _Flight:_ It can fly.
+- _Healer:_ Once per full recovery, it can grant someone the use of a recovery to heal by touch.
+- _Innate Magic:_ Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
+- _Mundane Aura:_ It appears fully natural and resists any divination magic cast on it.
+- _Negator:_ It can use its anti-magic ability twice per full recovery.
+- _Shapechanger:_ It can take any shape it likes, as long as it stays roughly cat-sized.
+- _Shield:_ Once per full recovery, it can force an enemy to reroll an attack against you with a d12.
+- _Shy:_ It can turn invisible at-will.
+- _Talkative:_ Your pet can talk. Each session, determine its personality with the Personality table
 
 | d6 | Personality |
 | --- | --- |
@@ -453,7 +453,7 @@ When you would roll to determine your next affinity, you can choose to gain the 
 
 If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
 
-_Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion full recovery affinity.
+_Special:_ If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion full recovery affinity.
 
 ---
 
@@ -684,7 +684,7 @@ Close-quarters Affinity
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** One melee weapon you are wielding
 

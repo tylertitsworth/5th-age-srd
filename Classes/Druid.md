@@ -189,7 +189,7 @@ At-will
 
 **Target:** Up to two nearby enemies in a group
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d4 + Wisdom poison damage
 
@@ -242,7 +242,7 @@ At-will
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d4 + Wisdom ongoing poison damage
 
@@ -281,11 +281,11 @@ You gain resist poison 16+.
 
 ##### Festering Maggots Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery (Moon adept: Recharge 16+)
 
-Quick action
+Quick Action
 
 _Initiate Effect:_ When you are hit by an attack, you can transform the part of your body that was hit into a swarm of bugs as an interrupt action to take only half damage. However, it takes a while to regain your full strength after this, and you have disadvantage on all attack rolls until the end of your next turn.
 
@@ -329,7 +329,7 @@ At-will
 
 **Target:** One enemy you are engaged with
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d8 + Wisdom necrotic damage. Immediately make a recharge roll for a blight druid spell that is “Recharge after battle”.
 
@@ -370,7 +370,7 @@ At-will
 
 **Target:** One enemy you are engaged with
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d8 + Wisdom necrotic damage. Heal hit points equal to your level.
 
@@ -399,7 +399,7 @@ Ranged Spell
 
 Full Recovery
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target is weakened and takes 10 ongoing necrotic damage (save ends both).
 
@@ -451,7 +451,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You summon a light one-handed weapon (d6 damage die) in the form of a long, black, thorny vine until the end of the battle. The whip allows you to make melee attacks against nearby enemies without engaging them. You can use your Wisdom modifier for attack and damage. All damage it deals is poison damage. It gains a +1 bonus to attack and damage like a true magic item. On a natural 20, you can let go of the whip to hamper the enemy and deal ongoing damage equal to 5 times the spell level (save ends both).
 
@@ -470,7 +470,7 @@ Full Recovery
 
 **Target:** 1d4 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target is stuck and takes 10 ongoing poison damage (save ends both).
 
@@ -494,7 +494,7 @@ Once per battle
 
 **Target:** All enemies you are engaged with OR 1d3 nearby enemies in a group
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** 4d8 + Wisdom psychic damage, and the target is vulnerable to attacks until the end of your next turn.
 
@@ -518,7 +518,7 @@ Full Recovery
 
 _Special:_ When casting the spell, you can choose to reduce the escalation die by 1. If you do, target 1d4+1 nearby enemies instead.
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** 3d10 + Wisdom psychic damage, and the target is hit by despair (hard save 16+ ends).
 
@@ -542,7 +542,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 15 ongoing necrotic damage (hard save 16+). If the target’s hit points fall below 60, it starts making last gasp saves (hard save 16+ ends both). When the target fails a save, repeat the attack as a free action against a different nearby enemy. If a target fails the 4th save, it dies. Targets that have successfully saved against the spell are immune to it.
 
@@ -561,7 +561,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Insects swarm across the nearby area. Outside of combat, they ravage the surrounding nature and destroy crops. When cast in battle, at the start of each of your turns, nearby enemies must succeed at a save or take twice your level in poison damage and take a -2 penalty to attacks and defenses until the start of their next turn. The effect lasts until the end of the battle, or until you are knocked unconscious.
 
@@ -590,7 +590,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target is caught in the thorn cage (save ends).
 
@@ -625,7 +625,7 @@ Full Recovery
 
 _Special:_ Against plant type creatures and water elementals, gain a +2 bonus to your critical threat range with this spell.
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d12 x 10 + Wisdom necrotic damage
 
@@ -671,7 +671,7 @@ Full Recovery
 
 **Target:** One nearby enemy OR 1d4 + 1 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 4d8 x 10 damage against a single target, or 2d8 x 10 damage against multiple targets.
 
@@ -725,11 +725,11 @@ Close-quarters power
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + level vs. PD
+**Attack:** Wisdom + level vs. PD
 
 _Natural even hit:_ The target is hampered until the end of your next turn.
 
@@ -889,7 +889,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 _Special:_ The escalation die must be 2+ to cast this spell.
 
@@ -903,13 +903,13 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 _Special:_ The escalation die must be 2+ to cast this spell.
 
 **Target:** All nearby enemies with fewer current hp than your companion’s maximum hp
 
-**Attack:**: Wisdom + Level vs. the highest MD among the targets
+**Attack:** Wisdom + Level vs. the highest MD among the targets
 
 **Hit:** All targets are affected by fear (-4 to attacks and can’t benefit from the escalation die; save ends).
 
@@ -1022,7 +1022,7 @@ At-will
 
 **Target:** One nearby enemy
 
-**Attack:**: Charisma + Level vs. MD
+**Attack:** Charisma + Level vs. MD
 
 _Natural Even Hit:_ 1d10 + Charisma psychic damage
 
@@ -1059,11 +1059,11 @@ You can cast fey druid spells while in scout and beast form.
 
 ##### Pooka Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery (Moon adept: Recharge 16+)
 
-Quick action
+Quick Action
 
 _Initiate Effect:_ When you activate this aspect, you become invisible. The invisibility lasts until the end of the battle or scene, or until you do something flashy, like attack or cast a spell.
 
@@ -1156,7 +1156,7 @@ Ranged Spell
 
 Recharge 11+
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle or scene, you fill the surrounding area with colorful lights that provide illumination, and prevent creatures from hiding or walking in shadows.
 
@@ -1168,7 +1168,7 @@ Ranged Spell
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** You create a small conjuration or transmutation effect. Grow flowers in your hair, summon a swarm of butterflies, polish a coin to make it shiny, etc. The effect ends at the end of the scene.
 
@@ -1180,7 +1180,7 @@ Close-quarters Spell
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** You see the world through the eyes of the fey. This allows you to see through fey illusions, including invisibility, find portals into the fey realms, and identify the shifting patterns that allow navigation in the feywilds.
 
@@ -1192,7 +1192,7 @@ Ranged Spell
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** You call on small animals and house spirits to complete a small menial task such as cleaning a room, washing dishes or sewing a dress. The helpers will work tirelessly for 1d6 x 10 minutes.
 
@@ -1204,7 +1204,7 @@ Ranged Spell
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** You create a small magical illusion or movement effect. With illusions, you can add music to your singing, make a fly buzz through the room, leave some smelly animal droppings or throw your voice through the room. With movement, you can tap someone on the shoulder, bind their shoelaces, or pick something from their pockets. The effect lasts as long as you concentrate on it.
 
@@ -1218,7 +1218,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You or a nearby ally
 
@@ -1251,7 +1251,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Charisma + Level vs. PD
+**Attack:** Charisma + Level vs. PD
 
 **Hit:** 3d6 + Charisma fire damage, and the target is vulnerable (hard save ends, 16+).
 
@@ -1272,7 +1272,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the scene, you have advantage on skill checks to locate treasures or gold in the nearby area, even if it’s hidden and there are no clues as to its location.
 
@@ -1289,7 +1289,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You have advantage on skill checks to perform music and dance until the end of the scene.
 
@@ -1306,7 +1306,7 @@ Close-quarters spells
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You create an illusion of a certain role, such as a servant, an old woman, or a prince. When you create the disguise, you must succeed at a Charisma-based skill check to convince onlookers that you belong where you currently are, as a maid, servant, butler or similar. The check is usually normal difficulty (DC 15 at adventurer tier), but if the role fits the surroundings, the GM can reduce the difficulty to easy. If the disguise is different from your normal body shape and size, increase the difficulty to hard.
 
@@ -1330,7 +1330,7 @@ When used in combat, make the following attack:
 
 **Target:** All nearby enemies (one attack roll per group)
 
-**Attack:**: Charisma + Level vs. MD
+**Attack:** Charisma + Level vs. MD
 
 **Hit:** The target is dazed (save ends).
 
@@ -1348,7 +1348,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle or scene, you and all nearby allies gain a +1 bonus to skill checks to track enemies. Enemies that have been successfully tracked are vulnerable to you and your allies’ attacks in the next battle.
 
@@ -1365,7 +1365,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, enemies engaged with you take a penalty to their disengage checks equal to your Charisma modifier. In addition, you gain resist cold 12+.
 
@@ -1402,7 +1402,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, you can end any effect you are subject to (except ongoing damage) as a quick action.
 
@@ -1442,7 +1442,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, at the end of your turn, choose an ally adjacent to you. Until the end of your next turn, you and the chosen ally take half damage from physical attacks when the enemy’s attack roll is a natural odd roll.
 
@@ -1460,7 +1460,7 @@ Full Recovery
 
 **Target:** One nearby enemy with 250 hp or fewer
 
-**Attack:**: Charisma + Level vs. MD
+**Attack:** Charisma + Level vs. MD
 
 **Hit:** Psychic damage equal to your level, and the target is confused until the end of your next turn.
 
@@ -1478,7 +1478,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, you can fly. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. If an attack against you is a natural 1, the attacker is dazed by the colors of your wings until the end of its next turn.
 
@@ -1508,7 +1508,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, at the end of your turn, roll a d6. If the result is odd, you emit a fear aura that affects all enemies with 70 hp or less (-4 to attacks and can’t benefit from the escalation die). On an even roll, remove yourself from the battlefield. You reappear in any nearby location at the start of your next turn.
 
@@ -1530,7 +1530,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, your spell and weapon attacks have a +4 bonus to their critical hit range. When you score a critical hit against a staggered target, it is frozen (-4 to defenses and can’t take actions) until the end of your next turn. If it is not staggered, it is dazed until the end of your next turn.
 
@@ -1542,7 +1542,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, at the start of each turn, grant a bonus action to one ally, of a type determined by a d6 roll on the table below.
 
@@ -1798,7 +1798,7 @@ Trigger: A nearby enemy takes a move action.
 
 **Target:** The triggering enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d6 + Wisdom damage
 
@@ -1840,7 +1840,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target is weakened and takes 25 ongoing damage (save ends both).
 
@@ -1873,7 +1873,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies in a group
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** You warp the terrain around the target to trap it in a corridor that circles around itself. The target is taken off the map until it succeeds at a hard save (16+).
 
@@ -1907,7 +1907,7 @@ At-will
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d6 + Wisdom damage. If the target is staggered, increase the damage dice to d10.
 
@@ -1930,7 +1930,7 @@ Once per battle
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 5 + Wisdom ongoing damage
 
@@ -2000,7 +2000,7 @@ Once per battle
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 5d6 + Wisdom damage. If the target is staggered, it is weakened until the end of your next turn.
 
@@ -2054,7 +2054,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d4 x 10 damage, and the target is dazed until the end of their next turn.
 
@@ -2075,7 +2075,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies in a group
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** If the target has 100 hit points or fewer, it starts making last gasp saves (16+). While making last gasp saves, the targets are stuck. On their fourth failed save, the target is swallowed by the ground. If the target has more hit points, it is hampered (save ends).
 
@@ -2107,7 +2107,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d4 x 10 + Wisdom fire damage
 
@@ -2133,7 +2133,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** One nearby ally per Wisdom modifier (which can include you)
 
@@ -2237,7 +2237,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 4d12 + Wisdom damage, and the roots grab the target. Grabbed targets take 25 damage at the start of their turn, until they disengage or pop free from the roots.
 
@@ -2273,7 +2273,7 @@ At-will
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d10 + Wisdom fire damage. If the target makes an attack against you before the end of its next turn, it takes 1d10 fire damage.
 
@@ -2296,7 +2296,7 @@ Once per battle
 
 **Target:** ALL enemies that have dealt damage to you this battle (keep track of this if you want to cast the spell).
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d10 + Wisdom fire damage
 
@@ -2340,7 +2340,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** Ongoing fire damage equal to 10 times the spell level. If the target saves against the effect, or if it dies, the spell doesn’t end. Instead, determine a new target randomly among all nearby or far away creatures. If the target is an enemy, that enemy now takes the ongoing damage of this spell. If it’s an ally, that ally takes half the damage, once, and the spell ends.
 
@@ -2354,7 +2354,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You or a nearby staggered ally
 
@@ -2375,7 +2375,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You or a nearby ally
 
@@ -2434,7 +2434,7 @@ At-will
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d6 + Wisdom cold damage
 
@@ -2529,7 +2529,7 @@ Full Recovery
 
 **Target:** A nearby enemy with 250 hit points or less
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target starts making last gasp saves (16+). After the fourth failed save, it is permanently encased in ice and frozen.
 
@@ -2555,7 +2555,7 @@ Once per battle
 
 **Target:** 1d3 nearby enemies in a line
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d6 + Wisdom damage. If the target is engaged, it pops free as it is pushed to the side. If the target is not engaged, increase the damage dice to d10.
 
@@ -2600,7 +2600,7 @@ Once per battle
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d8 + Wisdom damage, and the target is stuck (save ends).
 
@@ -2627,7 +2627,7 @@ Once per battle
 
 **Target:** 1d3 nearby enemies, or 1d3 + 2 when cast recklessly
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d4 + Wisdom damage, and the target has disadvantage on disengage checks until the end of your next turn as the fallen rocks hinder their movement.
 
@@ -2650,7 +2650,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Targets:** One nearby ally you choose and one other random nearby ally. Both targets must be touching the ground.
 
@@ -2710,7 +2710,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 5d6 + Wisdom damage, and the target suffers from thin air (save ends).
 
@@ -2731,7 +2731,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You or a willing nearby ally
 
@@ -2773,7 +2773,7 @@ Once per battle
 
 **Target:** One or more enemies engaged with you
 
-**Attack:**: Wisdom + Level vs. PD. You take a penalty to the attack roll equal to the number of targets.
+**Attack:** Wisdom + Level vs. PD. You take a penalty to the attack roll equal to the number of targets.
 
 **Hit:** 1d12 + Wisdom damage, and the target pops free from you
 
@@ -2817,7 +2817,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** You and one ally per spell level
 
@@ -2862,7 +2862,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can breathe underwater until the end of the battle, or for five minutes.
 
@@ -2909,7 +2909,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** 5d10 + Wisdom psychic damage and 20 ongoing psychic damage
 
@@ -2978,7 +2978,7 @@ Once per battle
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d8 + Wisdom lightning damage
 
@@ -3032,7 +3032,7 @@ Once per battle
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d8 + Wisdom damage, and the next attack against the target before the end of your next turn has advantage.
 
@@ -3100,7 +3100,7 @@ Full Recovery
 
 **Target:** All enemies you are engaged with
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 3d8 + Wisdom damage, and the target pops free from you.
 
@@ -3146,7 +3146,7 @@ Full Recovery
 
 **Target:** 1d4 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD; +2 against flying enemies
+**Attack:** Wisdom + Level vs. PD; +2 against flying enemies
 
 **Hit:** The target is lifted up and carried to a far away location. It takes 2d4 x 10 + Wisdom damage as it crashes to the ground.
 
@@ -3176,7 +3176,7 @@ At-will
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** 1d6 + Wisdom psychic damage
 
@@ -3238,7 +3238,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** The target takes the escalation die as a penalty to attack rolls instead of a bonus, even if it doesn't normally use the escalation die (save ends).
 
@@ -3254,7 +3254,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies. This spell can only target enemies that are not alive, such as constructs and undead.
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 10d6 + Wisdom damage and 30 ongoing damage. Deal double damage against staggered creatures.
 
@@ -3282,7 +3282,7 @@ Once per battle
 
 **Target:** 1d4 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d10 + Wisdom poison damage
 
@@ -3305,7 +3305,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Interrupt action
+Interrupt Action
 
 Trigger: A nearby enemy hits you with an attack (but not a critical hit).
 
@@ -3313,7 +3313,7 @@ Trigger: A nearby enemy hits you with an attack (but not a critical hit).
 
 **Target:** The attacker
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d12 + Wisdom poison damage
 
@@ -3351,7 +3351,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** You or one nearby ally
 
@@ -3391,11 +3391,11 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** 1d3 random nearby staggered enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** The target is swallowed by the ground and removed from the battlefield. At the end of every turn, the target can make a hard save (16+) if it’s normal sized, normal save (11+) if it’s large, or easy save (6+) if it’s huge. On a success, the target is spit out with half the hit points it had before. If the target fails its fourth save, it is permanently swallowed by the swamp.
 
@@ -3419,13 +3419,13 @@ Close-quarters Spell
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** You take damage from an attack by a nearby enemy.
 
 **Target:** The attacker
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d4 + Wisdom fire damage
 
@@ -3473,7 +3473,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** Create a red-hot flame in the palm of your hand that you can wield like a blade that lasts until the end of the battle. The blade is a one-handed melee weapon with a d8 damage die. You can wield it without penalty, and you can use your Wisdom modifier for attack and damage with it. If you already have the ability to use one-handed heavy melee weapons without penalty (such as from a warrior druid talent), you gain a +2 bonus to attack rolls with the blade. If you wield a holy symbol, the blade gains the symbol’s bonus to attack and damage.
 
@@ -3531,7 +3531,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 25 fire damage
 
@@ -3553,7 +3553,7 @@ Full Recovery
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d12 x 10 fire damage
 
@@ -3605,7 +3605,7 @@ At-will
 
 **Target:** A nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 1d6 + Wisdom radiant damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
 
@@ -3682,7 +3682,7 @@ Once per battle
 
 **Target:** One nearby enemy
 
-**Attack:**: Wisdom + Level vs. PD; you have advantage on the attack roll
+**Attack:** Wisdom + Level vs. PD; you have advantage on the attack roll
 
 **Hit:** You or a nearby ally can spend a recovery to heal. Deal poison damage to the target equal to the healed amount.
 
@@ -3700,7 +3700,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** One nearby creature per point of Wisdom modifier
 
@@ -3726,7 +3726,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 _Special:_ You can cast this spell multiple times per full recovery, if you have the spell slots available.
 
@@ -3751,7 +3751,7 @@ Full Recovery
 
 **Target:** 1d3 nearby enemies that are not staggered
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 2d8 + Wisdom radiant damage, and a nearby staggered ally heals hit points equal to half the amount.
 
@@ -3776,7 +3776,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** 1d4 nearby allies (including you)
 
@@ -3803,7 +3803,7 @@ Once-per-battle
 
 **Target:** One nearby undead creature, demon or devil
 
-**Attack:**: Wisdom + Level vs. PD
+**Attack:** Wisdom + Level vs. PD
 
 **Hit:** 3d10 + Wisdom ongoing radiant damage
 
@@ -3821,7 +3821,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** A nearby ally
 
@@ -3839,7 +3839,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A nearby ally
 
@@ -3857,7 +3857,7 @@ Ranged Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** You or a nearby ally
 
@@ -3916,7 +3916,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A nearby unconscious ally
 
@@ -3956,7 +3956,7 @@ In battle, you can use the Beast Form Shift power to assume the form of a deadly
 
 #### Beast Form Shift
 
-Quick action
+Quick Action
 
 At-will
 
@@ -3982,7 +3982,7 @@ Melee attack
 
 Once per battle
 
-**Attack:**: Strength OR Dexterity + Level vs. AC
+**Attack:** Strength OR Dexterity + Level vs. AC
 
 _Natural Even Hit:_ 1d10 damage per level + Strength or Dexterity damage
 
@@ -4056,7 +4056,7 @@ Close-quarters power
 
 Recharge 16+ after battle
 
-Free action
+Free Action
 
 _Special:_ To use this talent, you must be in beast form, and you must have at least one beast aspect active.
 Trigger: You take damage.
@@ -4125,11 +4125,11 @@ You can have three adventurer tier beast aspects active at the same time.
 
 #### Beast Aspects
 
-Beast aspects are powers you can use while in beast form to help you in battle. You must choose the aspects you know at each full heal-up. You can select any of the following aspects beginning at 1st level.
+Beast Aspects are powers you can use while in beast form to help you in battle. You must choose the aspects you know at each full heal-up. You can select any of the following aspects beginning at 1st level.
 
 Normally you can use only one beast aspect at a time and using another aspect ends the previous one. The _beast form attack_ feats change that for the Circle of the Moon adept.
 
-_**Beast aspect bonuses**_ **:** Many beast aspects provide bonuses to defenses or attacks. Circle of the Moon adepts can combine bonuses to the same stats from two aspects they are using simultaneously, an exception to the general rule that bonuses don't stack. For example, a Circle of the Moon adept using _bear aspect_ with its champion feat would have a +2 AC, and if the adept was also using _behemoth aspect_ with its champion feat, the total defensive bonuses for the adept would be +5 AC and +3 PD.
+_**Beast aspect bonuses:**_ Many beast aspects provide bonuses to defenses or attacks. Circle of the Moon adepts can combine bonuses to the same stats from two aspects they are using simultaneously, an exception to the general rule that bonuses don't stack. For example, a Circle of the Moon adept using _bear aspect_ with its champion feat would have a +2 AC, and if the adept was also using _behemoth aspect_ with its champion feat, the total defensive bonuses for the adept would be +5 AC and +3 PD.
 
 _**Effects:**_ Beast aspects only affect you while you are in beast form, which means that every aspect should be understood to read "while in beast form" for all its effects and powers.
 
@@ -4141,11 +4141,11 @@ _**Appearances:**_ The names of the aspects are a guide to what you might look l
 
 ##### Air Elemental Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate effect:_ Until the end of the battle, you gain resist non-spell damage 16+.
 
@@ -4167,11 +4167,11 @@ Your melee attacks attack the lower of AC and PD.
 
 ##### Bear Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** Until the end of the battle, while in beast form you gain a +2 bonus to attacks and damage against lower level enemies and mooks of any level (damage bonus increases to 2 + double your Strength or Dexterity modifier at 5th level; damage bonus increases to 2 + triple your Strength or Dexterity modifier at 8th level).
 
@@ -4193,11 +4193,11 @@ Until the first time it recharges each full recovery, _bear aspect_ is recharge 
 
 ##### Behemoth Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** You gain a +2 bonus to AC and PD.
 
@@ -4223,17 +4223,17 @@ The save that determines the adept's benefit(s) is now a normal save.
 
 ##### Blight Horror Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
 **Effect:** Until the end of the battle, when you hit with a melee attack, make the following follow-up attack against the target as a free action:
 
-**Attack:**: Wisdom + Level vs. MD
+**Attack:** Wisdom + Level vs. MD
 
 **Hit:** Psychic damage equal to your level, and the target is struck with fear (-4 to attacks and can’t use the escalation die, save ends). Enemies with a fear aura are immune to this.
 
@@ -4241,11 +4241,11 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 ##### Earth Elemental Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate effect:_ Until the end of the battle, you gain AC +1 and PD +1. Enemies can’t just move away from you (while triggering an opportunity attack). They must succeed at a disengage check.
 
@@ -4267,11 +4267,11 @@ Increase the AC and PD bonus to +3.
 
 ##### Fire Elemental Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate effect:_ Until the end of the battle, you gain resist fire 12+ and your melee attacks deal fire damage. On a natural even hit with a melee attack, you deal ongoing fire damage equal to twice your level.
 
@@ -4293,11 +4293,11 @@ Until the end of the battle, enemies that taking ongoing fire damage are vulnera
 
 ##### Firefox Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
@@ -4315,17 +4315,17 @@ If your quick action attack hits, you gain a +2 bonus to attack rolls against th
 
 ##### Giant Spider Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
 **Effect:** Until the end of the battle, you can climb vertical surfaces without requiring a skill check. When you hit an enemy with a melee attack, make the following follow-up attack against the target as a free action:
 
-**Attack:**: Strength OR Dexterity + Level vs. PD
+**Attack:** Strength OR Dexterity + Level vs. PD
 
 _Natural Even **Hit:_** The target is hampered until the end of your next turn.
 
@@ -4343,11 +4343,11 @@ If the target has 150 hp (10th level: 250 hp) or less after taking damage, the h
 
 ##### Leopard Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** Until the end of the battle, when an enemy misses you with a melee attack and rolls a natural 1–4, you gain an additional standard action during your next turn. You can only gain one additional standard action a turn this way. Powers like _elven grace_ or a command won't stack with this effect either.
 
@@ -4357,11 +4357,11 @@ Quick action
 
 ##### Mantis Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** Until the end of the battle, when an enemy engaged with you fails a disengage check, you can make an opportunity attack against it. In addition, your natural even beast form attack rolls that would normally deal damage equal to your level deal half damage instead.
 
@@ -4383,11 +4383,11 @@ Until the first time it recharges each full recovery, _mantis aspect_ is recharg
 
 ##### Owlbear Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate Effect:_ Until the end of the battle, your crit range with melee attacks expands by 2.
 
@@ -4409,11 +4409,11 @@ Until the first time it recharges each full recovery, _owlbear aspect_ is rechar
 
 ##### Porcupine Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate Effect:_ Until the end of the battle, deal poison damage equal to your Strength or Dexterity modifier, twice at 5th level and thrice at 8th level, against targets that make a melee attack against you. If you are grabbed or swallowed by the attack, deal double damage.
 
@@ -4427,11 +4427,11 @@ Add your level to the poison damage.
 
 ##### Rock Behemoth Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
@@ -4449,11 +4449,11 @@ Enemies cannot force you to pop free from them.
 
 ##### Tiger Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** Until the end of the battle, you gain the benefits of two-weapon fighting: if your attack roll is a natural 2, you can reroll the attack, but must use the reroll. In addition, the crit range of attacks you reroll this way expands by 4.
 
@@ -4475,11 +4475,11 @@ Until the first time it recharges each full recovery, _tiger aspect_ is recharge
 
 ##### Tigershark Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
@@ -4493,11 +4493,11 @@ You also have advantage against enemies taking ongoing damage.
 
 ##### Unicorn Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
@@ -4515,11 +4515,11 @@ If you score a critical hit with a beast form attack, a nearby ally can heal usi
 
 ##### Vulture Aspect
 
-Beast aspect
+Beast Aspect
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
@@ -4537,11 +4537,11 @@ Gain three bonus recovery dice when you reduce an enemy below 0 hp and use a rec
 
 ##### Water Elemental Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 _Initiate Effect:_ You can swim with the agility of a native water creature, and breathe under water. If you miss with a melee attack, heal hit points equal to your level.
 
@@ -4566,11 +4566,11 @@ These aspects can only be taken at 5th level or higher, and only if you are an a
 
 ###### Wolverine Aspect
 
-Beast aspect
+Beast Aspect
 
 Full Recovery, or recharge 16+ for adepts
 
-Quick action
+Quick Action
 
 **Initiate Effect:** Until the end of the battle, when your melee attacks hit an enemy that has more hit points than you, the target takes 1d6 extra damage from the hit.
 

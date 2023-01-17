@@ -143,7 +143,7 @@ Twice per full recovery when you hit with a melee attack, you can gain additiona
 
 ### Weigh the Odds
 
-Standard action
+Standard Action
 
 **Effect:** Gain 1d4 command points.
 
@@ -565,7 +565,7 @@ You can now use one that costs two for zero.
 
 ### Clear Your Mind!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -581,7 +581,7 @@ Reduce the cost to 1 command point.
 
 ### Duck!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -597,7 +597,7 @@ If the attack is a miss, the ally takes no miss damage.
 
 ### Get Out of There!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -621,7 +621,7 @@ When targets of this command are stuck, that condition ends on them.
 
 ### Lay Low!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -637,7 +637,7 @@ Decrease the cost to 1 command point.
 
 ### That One Too!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -657,7 +657,7 @@ The ally deals the damage to all enemies it is engaged with, except the target o
 
 ### Rally Now!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -683,7 +683,7 @@ The target of this command also gains a +2 bonus to all defenses until the end o
 
 ### Save Now!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -707,7 +707,7 @@ Whether or not the save succeeds, the target of your command heals hit points eq
 
 ### Try Again
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -731,7 +731,7 @@ You can use this command before an ally makes an attack roll for 3 command point
 
 ### You Set Them Up, I Finish!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 4 command points
 
@@ -755,7 +755,7 @@ Your attacks that benefit from the +2 attack bonus against that enemy also add t
 
 ### You're the Hero!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -777,7 +777,7 @@ The ally is immune to any fear aura until the end of the battle.
 
 ### Chess Master
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -791,7 +791,7 @@ If the escalation die is 4+, you can grant the move to two nearby allies.
 
 ### Basic Tactical Strike
 
-Quick action
+Quick Action
 
 **Recharge** 11+ after battle
 
@@ -815,7 +815,7 @@ The recharge roll is now 6+.
 
 ### Defensive Formation
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -831,7 +831,7 @@ If a target is hit by an enemy they are engaged with, reduce the damage by your 
 
 ### Enforce Clarity
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -855,7 +855,7 @@ The recharge roll is now6+.
 
 ### Inspiring Leadership
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -869,7 +869,7 @@ On a natural 16+ on the attack roll, grant the temporary hit points to a second 
 
 ### Just Stay Calm
 
-Quick action, when the escalation die is 2+
+Quick Action, when the escalation die is 2+
 
 **Recharge** 16+ after battle
 
@@ -891,7 +891,7 @@ When you use this tactic, you can spend an additional command point to avoid dec
 
 ### King's Castle
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -905,7 +905,7 @@ You can switch around the positions of three allies, and you can be one of the t
 
 ### Offensive Formation
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -921,7 +921,7 @@ If a target hits an enemy they are engaged with, increase the damage by your Cha
 
 ### Outmaneuver
 
-Quick action, once per round
+Quick Action, once per round
 
 Close-quarters attack
 
@@ -952,7 +952,7 @@ Once per battle as a free action when you hit with this tactic, the target also 
 
 ### Charge
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -976,7 +976,7 @@ This turn, if the target moves to attack an enemy you are also engaged with, tha
 
 ### Hang in There!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -996,7 +996,7 @@ You can spend an additional command point to grant the target a bonus recovery d
 
 ### Hit Harder
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1020,7 +1020,7 @@ You can also use this command as a free action (instead of as an interrupt actio
 
 ### Raise Shields!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1036,7 +1036,7 @@ The bonus is a +2 per nearby ally wielding a shield.
 
 ### Twist the blade!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -1052,7 +1052,7 @@ If the escalation die is 2+, this power costs only 1 command point.
 
 ### You Are A Precious Snowflake
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1066,7 +1066,7 @@ Interrupt action
 
 ### Choke Point
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1082,7 +1082,7 @@ You can target up to three nearby allies (including yourself).
 
 ### Expert Flanking
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1098,7 +1098,7 @@ The attack deals half damage on a miss.
 
 ### Finish This
 
-Quick action, when the escalation die is 4+
+Quick Action, when the escalation die is 4+
 
 **Recharge** 16+ after battle
 
@@ -1122,7 +1122,7 @@ You can now spend between 1 and 5 command points on the effect.
 
 ### Honor the Fallen
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -1138,7 +1138,7 @@ Gain two command points instead.
 
 ### Scramble
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1162,7 +1162,7 @@ Each target can also make a basic attack as a free action after taking the move 
 
 ### Swordwork
 
-Free action, when the escalation die is 4+
+Free Action, when the escalation die is 4+
 
 **Recharge** 16+ after battle
 
@@ -1186,7 +1186,7 @@ The recharge roll is now 11+.
 
 ### Target their Weak Points
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1204,7 +1204,7 @@ The enemy also takes extra damage from your allies' attacks equal to your level.
 
 ### Block It Out!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -1220,7 +1220,7 @@ If the attack targeted multiple allies (including you), you can grant the effect
 
 ### Great! Keep going!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -1236,7 +1236,7 @@ You can use this power as a free action (it no longer counts against your limit 
 
 ### Hit 'Em From Here
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1256,7 +1256,7 @@ The target ally's power, spell, or attack can now target multiple far away creat
 
 ### Keep Your Head Straight!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1272,7 +1272,7 @@ The ally adds your Charisma modifier as a bonus to the save.
 
 ### Strike Here
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 4 command points
 
@@ -1292,7 +1292,7 @@ If the extra standard action is an attack, the crit range of that attack expands
 
 ### We've Got Your Back
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 1 command point
 
@@ -1314,7 +1314,7 @@ Add hampered and stunned to the list of conditions the effect includes.
 
 ### Advanced Tactical Strike
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1334,7 +1334,7 @@ The recharge roll is now 11+.
 
 ### Buck Up
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1354,7 +1354,7 @@ One of the targets can also heal using a recovery.
 
 ### Determined Leadership
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1368,7 +1368,7 @@ On your first natural even miss with Fight from the Front this battle, reroll th
 
 ### Lead with Steel
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1382,7 +1382,7 @@ On a miss, regain this tactic.
 
 ### Mind Games
 
-Quick action
+Quick Action
 
 Once per battle
 
@@ -1398,7 +1398,7 @@ On a natural 18+, regain three times the amount you wagered.
 
 ### Chain of Commands
 
-Free action
+Free Action
 
 **Cost:** 1 command point
 
@@ -1410,7 +1410,7 @@ Free action
 
 ### Take Cover!
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -1426,7 +1426,7 @@ If the attack targeted two allies (including you), both allies take half damage.
 
 ### You Know What to Do
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 4 command points
 
@@ -1448,7 +1448,7 @@ The target also gains temporary hit points equal to 3d10 + triple your Charisma 
 
 ### Climactic Battle
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1466,7 +1466,7 @@ When the escalation die reaches 8, you gain 1d6 command points and can make rech
 
 ### Increase the Pressure
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1480,7 +1480,7 @@ Until the end of your next turn, enemies cannot use abilities that interact with
 
 ### Last Stand
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1494,7 +1494,7 @@ You also gain command points equal to your Charisma modifier.
 
 ### On Your Feet, Maggots
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1514,7 +1514,7 @@ This tactic now targets up to 1d4 + 1 allies.
 
 ### Saving Will
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1548,7 +1548,7 @@ Recharge 16+ after battle
 
 ### Natural Command
 
-Interrupt action
+Interrupt Action
 
 **Cost:** 2 command points
 
@@ -1564,7 +1564,7 @@ This command costs 1 command point instead of 2 while the escalation die is 3+.
 
 ### You'll Die When I Tell You to Die
 
-Interrupt action
+Interrupt Action
 
 **Cost:** Your remaining command points
 
@@ -1582,7 +1582,7 @@ If the target succeeds on its death save, it can take its turn normally as if it
 
 ### Focus Fire
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1598,7 +1598,7 @@ The attacks deal extra damage equal to your Intelligence or Charisma modifier on
 
 ### Force a Conclusion
 
-Free action
+Free Action
 
 **Recharge** 16+ after battle
 
@@ -1612,7 +1612,7 @@ You gain command points equal to the newly rolled escalation die value.
 
 ### Lead Through Hell
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 
@@ -1626,7 +1626,7 @@ The ally can add your Charisma modifier to the saving throw.
 
 ### Now, Not Later
 
-Free action
+Free Action
 
 **Recharge** 16+ after battle
 
@@ -1642,7 +1642,7 @@ The target gains a bonus to the recharge roll equal to your Charisma modifier.
 
 ### Supreme Tactical Strike
 
-Quick action
+Quick Action
 
 **Recharge** 16+ after battle
 
@@ -1658,7 +1658,7 @@ If the attack hits, it's a critical hit.
 
 ### Uncanny Intuition
 
-Quick action
+Quick Action
 
 Recharge 16+ after battle
 

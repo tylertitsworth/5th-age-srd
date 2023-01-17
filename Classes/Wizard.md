@@ -556,7 +556,7 @@ Close-quarters Spell
 
 Once per battle
 
-Free action to cast
+Free Action to cast
 
 **Trigger:** A nearby creature you can see casts a spell.
 
@@ -1315,7 +1315,7 @@ Transmutation
 
 Ranged Spell
 
-Move action to cast
+Move Action to cast
 
 Recharge: 11+ after battle, or after 10 minutes have passed if used out of combat
 
@@ -1346,7 +1346,7 @@ Close-quarters Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 Transmutation
 
@@ -1489,7 +1489,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Abjuration
 
@@ -1553,7 +1553,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -1588,7 +1588,7 @@ Full Recovery
 
 Illusion
 
-Quick action
+Quick Action
 
 **Target:** You
 
@@ -1845,7 +1845,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Free action to cast, when an attack hits your AC.
+Free Action to cast, when an attack hits your AC.
 
 **Effect:** The attacker must reroll the attack. You must accept the new result.
 
@@ -2094,7 +2094,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Divination
 
@@ -2138,7 +2138,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -2196,7 +2196,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Quick action
+Quick Action
 
 Evocation
 
@@ -2352,7 +2352,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Transmutation
 
@@ -2368,7 +2368,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -3044,7 +3044,7 @@ Increase the number of targets to 1d4 + 1.
 
 Close-quarters Spell
 
-Move action to cast
+Move Action to cast
 
 Full Recovery
 
@@ -3600,7 +3600,7 @@ Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
-Interrupt action
+Interrupt Action
 
 Abjuration
 
@@ -3624,7 +3624,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Divination
 
