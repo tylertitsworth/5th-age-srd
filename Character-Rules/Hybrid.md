@@ -293,7 +293,7 @@ Two battles per full recovery, avoid all attack penalties for wearing heavy armo
 
 You lag one level behind in the three central columns of the Psion Level Progression table: full recovery spells, once-per-battle spells, and spell level.
 
-Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. One your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
+Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. On your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
 
 If your psionic talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
