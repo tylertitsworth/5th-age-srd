@@ -348,7 +348,7 @@ At-will
 
 Hasten the process of decay by drawing life from that which still lives.
 
-Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at 5th level and thrice at 8th, necrotic damage to a nearby enemy.
+Whenever you cast a spell that grants you or an ally the use of a recovery to heal, increase the healing by your level, and deal your Wisdom modifier, twice at champion tier and thrice at epic tier, necrotic damage to a nearby enemy.
 
 You also gain the Leeching Fingers at-will spell as a bonus spell.
 
@@ -1371,7 +1371,7 @@ Quick Action
 
 | Higher Level | Effect |
 | --- | --- |
-| 3rd | At the start of your turn, deal cold damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to all enemies engaged with you. |
+| 3rd | At the start of your turn, deal cold damage equal to your Charisma modifier, twice at champion tier and thrice at epic tier, to all enemies engaged with you. |
 | 5th | resist cold 15+. |
 | 9th | resist cold 18+. |
 
@@ -2984,7 +2984,7 @@ Once per battle
 
 **Miss:** Damage equal to your level
 
-**Always:** Until the end of your next turn, deal thunder damage equal to your Strength + Dexterity modifier, twice at 5th level and thrice at 8th, to all enemies who engage you.
+**Always:** Until the end of your next turn, deal thunder damage equal to your Strength + Dexterity modifier, twice at champion tier and thrice at epic tier, to all enemies who engage you.
 
 | Higher Level | Effect |
 | --- | --- |
@@ -3577,7 +3577,7 @@ Druids of this circle are known as life druids or simply healers.
 
 #### Font of Life
 
-Whenever you grant yourself or an ally the use of a recovery to heal, add your Wisdom modifier to the amount healed, twice at 5th level and thrice at 8th level. In case of Regeneration, add the bonus before halving the amount.
+Whenever you grant yourself or an ally the use of a recovery to heal, add your Wisdom modifier to the amount healed, twice at champion tier and thrice at epic tier level. In case of Regeneration, add the bonus before halving the amount.
 
 ##### Adventurer Feat
 
@@ -3607,7 +3607,7 @@ At-will
 
 **Attack:** Wisdom + Level vs. PD
 
-**Hit:** 1d6 + Wisdom radiant damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th level.
+**Hit:** 1d6 + Wisdom radiant damage. A nearby conscious ally heals hit points equal to your Wisdom modifier, twice at champion tier and thrice at epic tier level.
 
 **Miss:** Damage equal to your level
 
@@ -4083,7 +4083,7 @@ When you activate a beast aspect, you can grant the benefit to a nearby ally ins
 
 ##### Adventurer Feat
 
-Allies you target with an aspect also gain temporary hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th.
+Allies you target with an aspect also gain temporary hit points equal to your Wisdom modifier, twice at champion tier and thrice at epic tier.
 
 ##### Champion Feat
 
@@ -4173,7 +4173,7 @@ Full Recovery, or recharge 16+ for adepts
 
 Quick Action
 
-**Initiate Effect:** Until the end of the battle, while in beast form you gain a +2 bonus to attacks and damage against lower level enemies and mooks of any level (damage bonus increases to 2 + double your Strength or Dexterity modifier at 5th level; damage bonus increases to 2 + triple your Strength or Dexterity modifier at 8th level).
+**Initiate Effect:** Until the end of the battle, while in beast form you gain a +2 bonus to attacks and damage against lower level enemies and mooks of any level. The damage bonus increases to 2 + double your Strength or Dexterity modifier at championer tier, and 2 + triple your Strength or Dexterity modifier at epic tier.
 
 **Adept Effect:** As the initiate effect, and when you first shift into this aspect, roll your recovery dice as if you were healing, but you instead gain that many temporary hit points. You don't spend a recovery.
 
@@ -4253,7 +4253,7 @@ _Adept effect:_ As the initiate effect, but AC +2 and PD +2. Staggered enemies a
 
 ##### Adventurer Feat
 
-If you spend a recovery to heal while in this aspect, gain a bonus recovery die (two at 5th level, three at 8th).
+If you spend a recovery to heal while in this aspect, gain a bonus recovery die. Gain two at champion tier and three at epic tier.
 
 ##### Champion Feat
 
@@ -4395,7 +4395,7 @@ _Adept Effect:_ As the initiate effect, and you gain a +1 bonus to melee attacks
 
 ##### Adventurer Feat
 
-When you score a critical hit, you heal hit points equal to your level + your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).
+When you score a critical hit, you heal hit points equal to your level + your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 ##### Champion Feat
 
@@ -4415,7 +4415,7 @@ Full Recovery, or recharge 16+ for adepts
 
 Quick Action
 
-_Initiate Effect:_ Until the end of the battle, deal poison damage equal to your Strength or Dexterity modifier, twice at 5th level and thrice at 8th level, against targets that make a melee attack against you. If you are grabbed or swallowed by the attack, deal double damage.
+_Initiate Effect:_ Until the end of the battle, deal poison damage equal to your Strength or Dexterity modifier, twice at champion tier and thrice at epic tier level, against targets that make a melee attack against you. If you are grabbed or swallowed by the attack, deal double damage.
 
 _Adept Effect:_ As the initiate effect, and once per round as a quick action, you can make a Dexterity + Level close-quarters attack against a nearby enemy that deals 1d6 per level poison damage.
 
@@ -4501,7 +4501,7 @@ Quick Action
 
 _Special:_ This aspect requires two slots. You must be a Moon adept or master to take it.
 
-**Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier, twice at 5th level and thrice at 8th, to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
+**Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier, twice at champion tier and thrice at epic tier, to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
 
 ##### Adventurer Feat
 
@@ -4559,10 +4559,11 @@ Until the end of the battle, you gain resist weapon damage 16+.
 
 Increase the adept effect bonus to +3 if you are in contact with a large body of water.
 
-Champion Tier Aspects (New)
-These aspects can only be taken at 5th level or higher, and only if you are an adept or master. They require two aspect slots.
-
 ---
+
+##### Champion Tier Aspects
+
+These aspects can only be taken at 5th level or higher, and only if you are an adept or master. They require two aspect slots.
 
 ###### Wolverine Aspect
 
@@ -4575,6 +4576,10 @@ Quick Action
 **Initiate Effect:** Until the end of the battle, when your melee attacks hit an enemy that has more hit points than you, the target takes 1d6 extra damage from the hit.
 
 **Adept Effect:** As the initiate effect, and you gain a +2 bonus to all defenses. You can also rally once this battle as a quick action instead of a standard action.
+
+##### Adventurer Feat
+
+Targets struck by the fear effect also have disadvantage on checks to disengage from you.
 
 ###### Adventurer Feat
 
@@ -4595,10 +4600,6 @@ You can use the damage bonus against an enemy that started the battle with more 
 ###### Epic Feat
 
 Until the first time it recharges each full recovery, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
-
-##### Adventurer Feat
-
-Targets struck by the fear effect also have disadvantage on checks to disengage from you.
 
 ##### Epic Feat
 
@@ -4676,7 +4677,7 @@ Your AC in light armor is 12 instead of 10 like most other druids, and you donâ€
 
 ##### Adventurer Feat
 
-When you use a recovery to heal, add your Wisdom modifier, twice at 5th level and thrice at 8th, to the amount of hp healed.
+When you use a recovery to heal, add your Wisdom modifier, twice at champion tier and thrice at epic tier, to the amount of hp healed.
 
 ##### Champion Feat
 
@@ -4749,7 +4750,7 @@ Flexible once-per-battle Melee Attack
 
 ###### Adventurer Feat
 
-Add your Constitution modifier to the extra damage, twice at 5th level and thrice at 8th.
+Add your Constitution modifier to the extra damage, twice at champion tier and thrice at epic tier.
 
 ---
 
@@ -4761,7 +4762,7 @@ Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
-**Effect:** Until the end of your next turn, enemies that engage you or disengage from you take lightning damage equal to your Wisdom modifier, twice at 5th level and thrice at 8th, plus level. If you have a Circle of the Elements talent, the effect lasts until the end of the battle.
+**Effect:** Until the end of your next turn, enemies that engage you or disengage from you take lightning damage equal to your Wisdom modifier, twice at champion tier and thrice at epic tier, plus level. If you have a Circle of the Elements talent, the effect lasts until the end of the battle.
 
 ###### Adventurer Feat
 
@@ -4803,7 +4804,7 @@ Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Natural odd hit
 
-**Effect:** You can heal using a recovery. Add twice your Wisdom modifier (x3 at 8th level) to the amount healed.
+**Effect:** You can heal using a recovery. Add twice your Wisdom modifier (thrice at 8th level) to the amount healed.
 
 ###### Adventurer Feat
 

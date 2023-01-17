@@ -201,7 +201,7 @@ Once per full recovery, you can cast a necromantic ritual by sacrificing a livin
 
 You have advantage on skill checks to sense the heartbeat of nearby living creatures.
 
-Once per battle, you can drink a cup of blood as a standard action to fuel your magic, similar to a sorcerer gathering power. Heal hit points equal to your Charisma modifier, twice at 5th level and thrice at 8th, + level. The next spell you cast this battle deals double damage. If that spell is a summoning spell, the creature you summon has advantage on its first attack, and that attack deals double damage.
+Once per battle, you can drink a cup of blood as a standard action to fuel your magic, similar to a sorcerer gathering power. Heal hit points equal to your Charisma modifier, twice at champion tier and thrice at epic tier, + level. The next spell you cast this battle deals double damage. If that spell is a summoning spell, the creature you summon has advantage on its first attack, and that attack deals double damage.
 
 #### Adventurer Feat
 
@@ -213,7 +213,7 @@ When you gather power, you can also save against a “save ends” effect.
 
 #### Epic Feat
 
-You now heal your Charisma modifier x3 + twice your level.
+You now heal your Charisma modifier thrice + twice your level.
 
 ---
 
@@ -223,7 +223,7 @@ If you spend your move action, your quick action, _and_ your standard action cas
 
 #### Adventurer Feat
 
-You gain temporary hit points equal to 1d6 + your level + Charisma modifier when you use Cackling Soliloquist, double your Charisma modifier at 5th level, and triple it at 8th level.
+You gain temporary hit points equal to 1d6 + your level + Charisma modifier when you use Cackling Soliloquist, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -265,7 +265,7 @@ _**Séance:**_ Similarly, once per full recovery while you're not in battle, you
 You can't always rely on the dead to speak the truth, or to know what they are talking about. Whenever you use the séance power above, the GM secretly rolls a d20 before the discussion. On a 3+, the spirit knows what it is talking about. On a 1–2, the information is outdated, sabotaged, or just erroneous.
 >Note that this roll is only used for séances, not for spirits you talk to thanks to relationship advantages mentioned above.
 
-At 5th level you can use séance two times per full recovery. At 8th level you can use it three times per full recovery.
+At champion tier you can use séance two times per full recovery. At epic tier you can use it three times per full recovery.
 
 #### Adventurer Feat
 
@@ -318,7 +318,7 @@ However, if an undead you summoned rolls a natural 1 on an attack, your control 
 
 #### Adventurer Feat
 
-On a critical hit, your summoned undead deal 1d6 extra damage (2d6 at 5th level; 3d6 at 8th).
+On a critical hit, your summoned undead deal 1d6 extra damage, 2d6 at champion tier, and 3d6 at epic tier.
 
 #### Champion Feat
 
@@ -364,9 +364,9 @@ All 6s you roll with relationship dice count as 5s. You gain another extra necro
 
 Undead you summon release radiant energy bursts as they drop to 0 hp, dealing a small amount of damage to each enemy engaged with them.
 
-Mooks you summon deal radiant damage equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
+Mooks you summon deal radiant damage equal to your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier.
 
-Non-mooks you summon deal radiant damage equal to your Charisma modifier x 1d4 (1d8 at 5th level; 2d6 at 8th level).
+Non-mooks you summon deal radiant damage equal to your Charisma modifier x 1d4, 1d8 at champion tier, and 2d6 at epic tier.
 
 In story terms, you're not likely to have a positive relationship with any necromantic deities if you take the Redeemer talent.
 
@@ -467,7 +467,7 @@ Like animal companion feats, skeletal minion feats don't build on each other. Yo
 ##### Champion Feats
 
 - Add a damage die of the same size to your skeletal minion's damage rolls (for example, 3d6 becomes 4d6).
-- Add double your Charisma modifier to your skeletal minion's hit points. At 8th level, add triple it.
+- Add double your Charisma modifier to your skeletal minion's hit points. At epic tier, add triple it.
 - Add a damage die of the same size to your skeletal minion's damage rolls (for example, 4d6 becomes 5d6, and this is cumulative with the champion feat).
 
 ##### Epic Feats
@@ -1653,7 +1653,7 @@ Recharge 17+ after battle
 
 Quick Action
 
-**Effect:** Until the end of your next turn, enemies must succeed at a hard save (16+) to engage or attack you. If they fail, they take psychic damage equal to your Charisma modifier, twice at 5th level, and thrice at 8th, they are struck by fear (-4 to attack, can’t use the escalation die) and can’t engage you until the end of your next turn. Enemies who successfully saved against the effect are immune to the spell until the end of the battle.
+**Effect:** Until the end of your next turn, enemies must succeed at a hard save (16+) to engage or attack you. If they fail, they take psychic damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier, they are struck by fear (-4 to attack, can’t use the escalation die) and can’t engage you until the end of your next turn. Enemies who successfully saved against the effect are immune to the spell until the end of the battle.
 
 After the end of your next turn, the spell effect continues, but the save is now a normal save (11+). The following turn, it is an easy save (6+), after which the spell ends.
 

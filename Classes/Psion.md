@@ -193,7 +193,7 @@ One battle per full recovery, each time you roll for a high weirdness effect, ro
 | **19** | All creatures leave colored trails behind them as they move, turning the battle scene into a strange glowing artwork. Images fade every ten seconds or so. |
 | **20** | Some minor detail of your appearance changes hair color, gaps between teeth, handedness, and so on. The change is permanent–ish. |
 | **21–22** | Grit, explosive dust, or other debris explodes into the air around you, dealing 1d4 damage per tier to each nearby creature. |
-| **23–24** | There's tension in the air, or the rumble of distant thunder, or a sense of impending disaster, and the next creature that misses with an attack this battle takes damage equal your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level). |
+| **23–24** | There's tension in the air, or the rumble of distant thunder, or a sense of impending disaster, and the next creature that misses with an attack this battle takes damage equal your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier. |
 | **25–26** | Quickly passing auras blur and shake across the battlefield, or cold winds whip through and grow warmer as they pass, or the lights flicker . . . and the creature that has taken the most damage in the battle gains temporary hit points equal to 10% of its maximum hit points. |
 | **27–28** | One random creature in the battle other than you teleports next to and is engaged by one of its random enemies other than you. |
 | **29–30** | (Global effect) Space seriously twists, affecting the affinities and ranged attacks of each creature in the battle creatures that are nearby count as if they were far away, and creatures that are far away count as if they are nearby. |
@@ -245,12 +245,12 @@ When your random affinity choice indicates an attack affinity, roll a d6 to dete
 | **2** | _Earth:_ Until the end of your next turn, each enemy that misses you with a melee attack is stuck until the end of its next turn. |
 | **3** | _Fire:_ Until the end of your next turn, you can pop free from staggered enemies as a quick action. |
 | **4** | _Water:_ You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier |
-| **5** | _Metal:_ Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
+| **5** | _Metal:_ Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier, double your Dexterity modifier at champion tier, and triple it at epic tier. |
 | **6** | _Void:_ During your next turn, you can use a move action to teleport to a nearby location you can see. |
 
 ##### Adventurer Feat
 
-When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level).
+When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier, double your Dexterity modifier at champion tier, and triple it at epic tier.
 
 ##### Champion Feat
 
@@ -271,9 +271,9 @@ When your random affinity choice indicates a defense affinity, roll a d6 to dete
 | **d6** | **Effect** |
 | --- | --- |
 | **1** | _Air:_ Once before the end of your next turn, you can heal using a recovery as a quick action. |
-| **2** | _Earth:_ You gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **3** | _Fire:_ Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **4** | _Water:_ Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
+| **2** | _Earth:_ You gain temporary hit points equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier. |
+| **3** | _Fire:_ Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier. |
+| **4** | _Water:_ Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing, double your Wisdom modifier at champion tier, and triple it at epic tier. |
 | **5** | _Metal:_ Until the end of your next turn, you gain a +2 bonus to AC. |
 | **6** | _Void:_ Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack. |
 
@@ -501,7 +501,7 @@ One battle per full recovery, you can gain the Cackling Soliloquist talent from 
 
 #### Champion Feat
 
-While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
+While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Epic Feat
 
@@ -577,7 +577,7 @@ Twice per full recovery, you can gather power as if you were a sorcerer in order
 
 #### Champion Feat
 
-While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage (double your Charisma modifier at 5th level; triple it at 8th level).
+While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Epic Feat
 
@@ -688,7 +688,7 @@ Quick Action
 
 **Target:** One melee weapon you are wielding
 
-**Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to a random nearby enemy.
+**Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at champion tier and thrice at epic tier, to a random nearby enemy.
 
 #### Adventurer Feat
 
@@ -1191,7 +1191,7 @@ At-Will
 
 ##### Adventurer Feat
 
-Add your Charisma modifier to the extra damage (double your Charisma modifier at 5th level; triple it at 8th level).
+Add your Charisma modifier to the extra damage, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 ##### Champion Feat
 

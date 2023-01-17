@@ -113,7 +113,7 @@ At-Will
 
 Choose three of the following class talents, or put two talents into Animal Companion, and one talent elsewhere.
 
-You get an additional ranger class talent at 5th level, and again at 8th level.
+You get an additional ranger class talent at champion tier, and again at epic tier.
 
 ### Animal Companion
 
@@ -328,7 +328,7 @@ Increase the extra damage to 1d6 per level.
 
 **Cost:** 1 charge
 
-**Effect:** On a hit, whenever the target takes an action before the end of your next turn, it takes cold damage equal to your level + Wisdom modifier (x2 at 5th level; x3 at 8th).
+**Effect:** On a hit, whenever the target takes an action before the end of your next turn, it takes cold damage equal to your level + Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ###### Adventurer Feat
 
@@ -1099,7 +1099,7 @@ Interrupt Action
 
 **Trigger:** Your Oath of Vengeance target disengages or moves away from you.
 
-**Effect:** Make a save. If your save is equal to the enemy’s disengage check or higher, you pursue the enemy and stay engaged while they move. Succeed or fail, you add twice your Wisdom modifier (x3 at 8th level) to damage if your next attack against the target is a hit.
+**Effect:** Make a save. If your save is equal to the enemy’s disengage check or higher, you pursue the enemy and stay engaged while they move. Succeed or fail, you add twice your Wisdom modifier (thrice at 8th level) to damage if your next attack against the target is a hit.
 
 ---
 
@@ -1167,7 +1167,7 @@ When an enemy engages you, you can make a melee basic attack against that enemy 
 
 #### Epic Feat
 
-Your Bladestorm attacks deal extra damage equal to your Wisdom modifier x3.
+Your Bladestorm attacks deal extra damage equal to your Wisdom modifier thrice.
 
 ---
 

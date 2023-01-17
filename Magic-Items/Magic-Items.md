@@ -593,7 +593,7 @@ As if the antennae on the helmet didn’t give it away, this armor was made by (
 
 Light Armor
 
-Add the armor’s magic bonus to the total hit points restored when you receive healing from any source, bonus x2 at champion tier, and bonus x4 at epic tier.
+Add the armor’s magic bonus to the total hit points restored when you receive healing from any source, bonus twice at champion tier, and bonus x4 at epic tier.
 
 **Quirk:** Wild and raucous.
 
@@ -4149,7 +4149,7 @@ Protective druidic blessings tie the birds to your life force; as long as you’
 
 Quick Action
 
-_Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered, x2 value at champion tier, and 5x value at epic tier.
+_Recharge 6+:_ When you heal using a recovery, add the escalation die’s value to the hp total recovered, twice value at champion tier, and 5x value at epic tier.
 
 **Quirk:** Weeps silently when in battle.
 
@@ -5692,7 +5692,7 @@ _Recharge 16+:_ This scepter produces a glowing axe-head on your command. You ca
 
 1/Day
 
-Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll, 5th level; epic: 9th level). In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp at champion tier, and 266 hp at epic tier, targeting creatures with the lowest hit points first.
+Cast charm person spell as a 1st level [bard](../Classes/Bard.md#charm-person)/[wizard](../Classes/Wizard.md#charm-person) spell using your best ability for the attack roll. Cast the spell at 5th level at champion tier and 9th level at epic tier. In addition, with this version of the charm person spell, you can target multiple creatures with less than 40 total hp (champion: 96 hp at champion tier, and 266 hp at epic tier, targeting creatures with the lowest hit points first.
 
 **Quirk:** Bossy.
 
@@ -5734,7 +5734,7 @@ Spells cast through this implement work as normal, but their effects look more i
 
 1/Day
 
-When you cast a summoning spell, you also summon some goblin mooks (or other lowly creatures that fit your character’s flavor) as if you had cast the necromancer spell [summon undead](../Classes/Necromancer.md#summon-undead-1st-level) as a 1st level spell, 5th level at champion tier, and 9th level), except you summon 1 fewer mook (so 1d3) and the mooks are humanoid goblins (or whatever at epic tier instead of undead.
+When you cast a summoning spell, you also summon some goblin mooks (or other lowly creatures that fit your character’s flavor) as if you had cast the necromancer spell [summon undead](../Classes/Necromancer.md#summon-undead-1st-level) as a 1st level spell. Cast the spell at 5th level at champion tier and 9th level at epic tier. You summon 1 fewer mook (so 1d3) and the mooks are humanoid goblins (or whatever at epic tier instead of undead.
 
 **Quirk:** Maternal monster.
 

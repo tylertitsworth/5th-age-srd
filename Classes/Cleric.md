@@ -428,7 +428,7 @@ At-Will
 
 #### Adventurer Feat
 
-The spell also deals +1d6 damage against an undamaged target. At 5th level that increases to +2d6 damage; at 8th level it increases to +4d6 damage.
+The spell also deals +1d6 damage against an undamaged target. At champion tier that increases to +2d6 damage; at 8th level it increases to +4d6 damage.
 
 #### Champion Feat
 

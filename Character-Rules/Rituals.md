@@ -2221,7 +2221,7 @@ Ten minutes after you finish performing the ritual, the oracle leaves, even if y
 
 **Effect:** You absorb the fatigue that you and your allies have suffered and cast it away. At the end of the ritual, you and your allies gain the benefits of an extended rest without spending any time resting. You cannot use this ritual if you could not normally begin an extended rest.
 
-Greater heroes accrue greater fatigue and require more effort to recuperate. At 8th level, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
+Greater heroes accrue greater fatigue and require more effort to recuperate. At epic tier, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
 
 ---
 

@@ -479,7 +479,7 @@ When you wield a two-handed weapon, use Strength instead of Dexterity for the at
 
 #### Ki Power
 
-_Soulblade:_ As a free action, spend a ki point to imbue a weapon you wield as a true magic item for a +1 bonus to attacks and damage, +2 at 5th level, and +3 at 8th until the end of the battle. On your next hit with it, deal one extra WEAPON die damage, twice at 5th level, and thrice at 8th.
+_Soulblade:_ As a free action, spend a ki point to imbue a weapon you wield as a true magic item for a +1 bonus to attacks and damage, +2 at champion tier, and +3 at epic tier until the end of the battle. On your next hit with it, deal one extra WEAPON die damage, twice at champion tier, and thrice at epic tier.
 
 ##### Adventurer Feat
 
@@ -547,7 +547,7 @@ _Yamiuchi:_ When you hit with a melee attack against an enemy that is also engag
 
 If you wish, any time an element of the monk class refers to Wisdom, you can replace that element with a reference to Charisma.
 
-In addition, while you're staggered, when you roll a natural even attack roll, you heal damage equal to your Strength modifier or your Wisdom modifier, double that modifier at 5th level, and triple it at 8th level.
+In addition, while you're staggered, when you roll a natural even attack roll, you heal damage equal to your Strength modifier or your Wisdom modifier, double that modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -700,7 +700,7 @@ If the spell is at-will, you can cast it in place of a flow attack. If the spell
 
 #### Ki Power
 
-_Gather the Flame:_You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
+_Gather the Flame:_You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At epic tier, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
 
 ---
 
@@ -894,7 +894,7 @@ Melee attack
 
 **Hit:** PUNCH + Strength damage.
 
-_Natural Even Hit:_ As a hit, plus each enemy engaged with you takes 1d6 damage (2d6 damage at 5th level; 4d6 damage at 8th level).
+_Natural Even Hit:_ As a hit, plus each enemy engaged with you takes 1d6 damage, 2d6 damage at champion tier, and 4d6 damage at epic tier.
 
 _Natural Even Miss:_ Half damage.
 
@@ -1051,7 +1051,7 @@ _Cycle bonus:_ You can spend a ki point as a free action to give the next attack
 
 ##### Adventurer Feat
 
-If an enemy misses you with a melee attack during this cycle, deal psychic damage equal to your Wisdom modifier, twice at 5th level, and thrice at 8th.
+If an enemy misses you with a melee attack during this cycle, deal psychic damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ---
 
@@ -1159,7 +1159,7 @@ Melee attack
 
 **Hit:** JAB + Strength fire damage
 
-_Cycle bonus:_ Whenever an enemy makes a melee attack against you, deal fire damage equal to your Wisdom modifier, twice at 5th level, and thrice x3 at 8th to the attacker.
+_Cycle bonus:_ Whenever an enemy makes a melee attack against you, deal fire damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier to the attacker.
 
 **Miss:** Damage equal to your level. You can spend a ki point to gain the cycle bonus.
 
@@ -1187,7 +1187,7 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC. If the target is taking ongoing fire damage, you have advantage on the attack roll.
 
-**Hit:** KICK + Strength fire damage. Deal fire damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) to 1d4 nearby enemies.
+**Hit:** KICK + Strength fire damage. Deal fire damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.to 1d4 nearby enemies.
 
 **Miss:** Damage equal to your level
 
@@ -1380,7 +1380,7 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** PUNCH + Wisdom damage. You or a nearby conscious ally can heal hit points equal to 1d4 + your Wisdom modifier (2d4 + Wis x2 at 5th level; 4d4 + Wis x3 at 8th).
+**Hit:** PUNCH + Wisdom damage. You or a nearby conscious ally can heal hit points equal to 1d4 + your Wisdom modifier. Increase the healing to 2d4 + Wis twice at champion tier, and 4d4 + Wis thrice at epic tier.
 
 **Miss:** The target takes a -2 penalty to attacks against you until the end of your next turn.
 
@@ -2065,7 +2065,7 @@ Melee attack
 
 _Cycle bonus:_ When you miss with an attack, deal extra cold damage equal to twice your Wisdom modifier, thrice at 8th level.
 
-**Miss:** Damage equal to your level + twice your Wisdom modifier (x3 at 8th level). You can spend a ki point to gain the cycle bonus.
+**Miss:** Damage equal to your level + twice your Wisdom modifier (thrice at 8th level). You can spend a ki point to gain the cycle bonus.
 
 ##### Champion Feat
 

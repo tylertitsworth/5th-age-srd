@@ -273,8 +273,8 @@ When you Gather Power, you gain the divine benefit below. Unlike other bloodline
 | **Escalation Die** | **Adventurer Tier Benefit** |
 | --- | --- |
 | None | Gain a +1 bonus to PD and MD until the start of your next turn.|
-| Odd | Deal radiant damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) + Level to one nearby enemy. |
-| Even | Heal hit points equal to Wisdom modifier, twice at 5th level, and thrice at 8th to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
+| Odd | Deal radiant damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.+ Level to one nearby enemy. |
+| Even | Heal hit points equal to Wisdom modifier, twice at champion tier, and thrice at epic tier to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
 
 ###### Adventurer Feat
 
@@ -316,7 +316,7 @@ You gain the following metamagic abilities.
 
 _Holy Spell (1 point):_ Change the spell’s damage to radiant damage.
 
-_Rejuvenating Spell (1 point):_ The target also gains temporary hit points equal to your Wisdom modifier, twice at 5th level, and thrice at 8th, plus twice the spell level
+_Rejuvenating Spell (1 point):_ The target also gains temporary hit points equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier, plus twice the spell level
 
 ---
 
@@ -607,7 +607,7 @@ You gain the following metamagic abilities.
 
 _Negative Spell (1 point):_ Change the spell’s damage type to necrotic damage.
 
-_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier (x2 at 5th level; x3 at 8th) + the spell level.
+_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier, twice at champion tier, and thrice at epic tier.+ the spell level.
 
 _Shadow Spell (1 point):_ Change the spell’s damage to psychic damage. The spell cannot be countered by abilities such as the blue dragon’s counter-spell.
 
@@ -868,7 +868,7 @@ You use your Constitution modifier instead of your Charisma modifier to determin
 
 #### Adventurer Feat
 
-When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At 5th level, add double your Charisma modifier; at 8th level, triple it.
+When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At champion tier, add double your Charisma modifier; at 8th level, triple it.
 
 #### Champion Feat
 
@@ -1032,7 +1032,7 @@ _Natural even hit:_ Grant a bonus equal to your Wisdom modifier to the next atta
 
 #### Adventurer Feat
 
-On a natural even roll, hit or miss, deal extra damage equal to your Wisdom modifier (2x at 5th level; x3 at 8th).
+On a natural even roll, hit or miss, deal extra damage equal to your Wisdom modifier, 2x at champion tier, and thrice at epic tier.
 
 ---
 
@@ -1653,7 +1653,7 @@ _Special:_ When casting the spell, choose whether you want to cast it against PD
 
 #### Adventurer Feat
 
-(PD) Increase the damage dice to d8s OR (MD) deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) on a miss.
+(PD) Increase the damage dice to d8s OR (MD) deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.on a miss.
 
 #### Champion Feat
 
@@ -1779,7 +1779,7 @@ When targeting an ally…
 
 | d4 | Effect |
 | --- | --- |
-| 1 | The target gains temporary hit points equal to your Charisma modifier (x2 at 5th level; x3 at 8th) + Level. |
+| 1 | The target gains temporary hit points equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.+ Level. |
 | 2 | The target gains a +2 bonus to PD and MD until the end of your next turn. |
 | 3 | The target teleports to switch location with another random nearby creature. |
 | 4 | You make the attack below against the enemy closest to it. |

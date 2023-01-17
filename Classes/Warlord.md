@@ -163,7 +163,7 @@ You now gain 1d6 command points instead of 1d4 when you use this action.
 
 ## Class Talents
 
-Choose three of the following class talents. You get an additional warlord talent at 5th level.
+Choose three of the following class talents. You get an additional warlord talent at champion tier.
 
 ### Ambassador
 
@@ -397,7 +397,7 @@ If the rogue power is a standard action melee attack you use on your turn, you g
 
 #### Adventurer Feat
 
-When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an even hit, deal 1d6 extra damage, 2d6 at 5th level, and 3d6 at 8th level.
+When you make a Fight from the Front melee attack against an enemy engaged with one or more of your allies, and the attack is an even hit, deal 1d6 extra damage, 2d6 at champion tier, and 3d6 at epic tier.
 
 #### Champion Feat
 
@@ -643,7 +643,7 @@ Interrupt Action
 
 **Target:** One nearby ally who made a Melee Attack
 
-**Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at 5th level and trice at 8th, to a different enemy they are also engaged with.
+**Effect:** The ally deals damage equal to your Charisma modifier + Level, twice charisma at champion tier and thrice at epic tier, to a different enemy they are also engaged with.
 
 #### Adventurer Feat
 
@@ -669,7 +669,7 @@ _Special:_ If you spend an additional command point on this command, you can tar
 
 #### Adventurer Feat
 
-The target also adds hit points equal to your Charisma modifier to the recovery. (Double your Charisma modifier at 5th level; triple it at 8th level.)
+The target also adds hit points equal to your Charisma modifier to the recovery. (Double your Charisma modifier at champion tier; triple it at epic tier.)
 
 #### Champion Feat
 
@@ -737,7 +737,7 @@ Interrupt Action
 
 **Target:** One nearby ally (on the ally's turn) that hits an enemy you can see with an attack this turn
 
-**Effect:** Add your Charisma modifier to the damage dealt by your ally (double your Charisma modifier at 5th level; triple it at 8th level). In addition, during your next turn, you gain a +2 attack bonus with melee attacks against the enemy that your ally hit.
+**Effect:** Add your Charisma modifier to the damage dealt by your ally, double your Charisma modifier at champion tier, and triple it at epic tier. In addition, during your next turn, you gain a +2 attack bonus with melee attacks against the enemy that your ally hit.
 
 #### Adventurer Feat
 
@@ -825,7 +825,7 @@ Once per battle
 
 #### Adventurer Feat
 
-If a target is hit by an enemy they are engaged with, reduce the damage by your Charisma modifier, twice at 5th level and thrice at 8th level.
+If a target is hit by an enemy they are engaged with, reduce the damage by your Charisma modifier, twice at champion tier and thrice at epic tier level.
 
 ---
 
@@ -859,7 +859,7 @@ Quick Action
 
 Recharge 16+ after battle
 
-**Effect:** Until the end of the battle, whenever you hit with your Fight from the Front melee attack, a nearby ally gains temporary hit points equal to your Charisma modifier, twice at 5th level and thrice at 8th level.
+**Effect:** Until the end of the battle, whenever you hit with your Fight from the Front melee attack, a nearby ally gains temporary hit points equal to your Charisma modifier, twice at champion tier and thrice at epic tier level.
 
 #### Adventurer Feat
 
@@ -915,7 +915,7 @@ Once per battle
 
 #### Adventurer Feat
 
-If a target hits an enemy they are engaged with, increase the damage by your Charisma modifier, twice at 5th level and thrice at 8th level.
+If a target hits an enemy they are engaged with, increase the damage by your Charisma modifier, twice at champion tier and thrice at epic tier level.
 
 ---
 
@@ -986,7 +986,7 @@ Interrupt Action
 
 #### Adventurer Feat
 
-The target adds your Charisma modifier to the hit points healed, twice at 5th level and thrice at 8th level.
+The target adds your Charisma modifier to the hit points healed, twice at champion tier and thrice at epic tier level.
 
 #### Champion Feat
 
@@ -1006,7 +1006,7 @@ Interrupt Action
 
 #### Adventurer Feat
 
-The target gains a bonus to the damage roll equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
+The target gains a bonus to the damage roll equal to your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -1042,7 +1042,7 @@ Interrupt Action
 
 **Target:** One nearby ally who hit with a Melee Attack
 
-**Effect:** The ally also deals 5, 10 at 5th level, and 20 at 8th level, ongoing damage.
+**Effect:** The ally also deals 5, 10 at champion tier, and 20 at epic tier, ongoing damage.
 
 #### Adventurer Feat
 

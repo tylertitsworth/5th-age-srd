@@ -184,7 +184,7 @@ Resolve the attack normally. Your target’s MD is reduced by half your level fo
 
 ## Adventurer Talents
 
-Choose three of the following adventurer-tier class talents. You also get an additional barbarian class talent at 5th level and again at 8th level.
+Choose three of the following adventurer-tier class talents. You also get an additional barbarian class talent at champion and epic tier.
 
 ### Barbaric Cleave
 
@@ -475,7 +475,7 @@ You can use Whirlwind anytime during your turn, not just as the first action.
 
 ## Champion Talents
 
-At 5th level, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
+At champion tier, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
 
 ### Awaken the Fury
 
@@ -623,7 +623,7 @@ The bonus increases to +1d6.
 
 ## Epic Talents
 
-At 8th level, you gain an additional barbarian class talent. Choose one of these epic-tier talents, or take another adventurer-tier or champion-tier talent instead.
+At epic tier, you gain an additional barbarian class talent. Choose one of these epic-tier talents, or take another adventurer-tier or champion-tier talent instead.
 
 ### Ancestral Warband
 

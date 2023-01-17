@@ -113,7 +113,7 @@ Advantage: The companion gains resist necrotic 12+, and a +2 bonus to skill chec
 
 **Acts:** Before druid / ranger
 
-Advantage: The first time your companion hits an enemy in a battle, it deals 1d10 extra lightning damage (2d10 at 5th level; 4d10 at 8th).
+Advantage: The first time your companion hits an enemy in a battle, it deals 1d10 extra lightning damage, 2d10 at champion tier, and 4d10 at epic tier.
 
 ## Skeletal Animal
 
@@ -296,10 +296,9 @@ Full Recovery
 
 **Effect:** If the target already adds the escalation die to its attacks, it gains a +2 attack bonus until the end of the battle. If not, it now adds the escalation die to its attacks until the end of the battle.
 
-5th level spell: The target's crit range expands by 2.
-
 | Higher Level | Effect |
 | --- | --- |
+| 5th | The target's crit range expands by 2. |
 | 9th | The target's crit range expands by a total of 4. |
 
 ---

@@ -217,7 +217,7 @@ Once per full recovery, you can automatically succeed on a recharge roll.
 
 ## Class Talents
 
-Choose four of the following class talents. You get an additional occultist class talent at 5th level, and again at 8th level.
+Choose four of the following class talents. You get an additional occultist class talent at champion tier, and again at epic tier.
 
 ### Air of Exuberance
 
@@ -225,7 +225,7 @@ You can replace Intelligence with Charisma when casting your occultist spells. Y
 
 #### Adventurer Feat
 
-Whenever you retain focus with an Occultist spell, you gain temporary hit points equal to your Charisma modifier, twice at 5th level, and thrice at 8th).
+Whenever you retain focus with an Occultist spell, you gain temporary hit points equal to your Charisma modifier, twice at champion tier, and thrice at epic tier).
 
 #### Champion Feat
 
@@ -311,7 +311,7 @@ You can use an edged melee weapon without an attack penalty. You can use Intelli
 
 #### Adventurer Feat
 
-Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
+Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -383,7 +383,7 @@ Expends focus
 
 ##### Adventurer Feat
 
-Add your Wisdom modifier to the amount healed, twice at 5th level, and thrice at 8th).
+Add your Wisdom modifier to the amount healed, twice at champion tier, and thrice at epic tier).
 
 ##### Champion Feat
 
@@ -562,7 +562,7 @@ When you cast a spell that targets Mental Defense and the target has a higher MD
 
 #### Adventurer Feat
 
-When you cast a spell that twists, you gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).
+When you cast a spell that twists, you gain temporary hit points equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -623,7 +623,7 @@ Expends focus
 
 ##### Champion Feat
 
-Hit or miss, deal lightning damage equal to your Wisdom modifier, twice at 5th level, and thrice at 8th level, to 1d4 nearby enemies.
+Hit or miss, deal lightning damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier, to 1d4 nearby enemies.
 
 ##### Epic Feat
 
@@ -814,7 +814,7 @@ Expend Focus
 
 #### Adventurer Feat
 
-The triggering ally adds hit points equal to your Wisdom modifier to the recovery (double your Wisdom modifier at 5th level; triple it at 8th level).
+The triggering ally adds hit points equal to your Wisdom modifier to the recovery, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -1094,7 +1094,7 @@ Expend focus
 
 #### Adventurer Feat
 
-Nearby allies that you didn’t target with the effect can heal hit points equal to your Wisdom modifier (x2 at 5th level; x3 at 8th).
+Nearby allies that you didn’t target with the effect can heal hit points equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ---
 

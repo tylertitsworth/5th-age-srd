@@ -379,7 +379,7 @@ You have advantage on saves against effects that were caused by magic items and 
 
 When you cast a spell that targets MD, choose one of the following benefits:
 
-- If the spell deals damage, deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) to each target you hit.
+- If the spell deals damage, deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.to each target you hit.
 - Increase the difficulty for the target’s first save against the spell by your Charisma modifier. (A natural roll of 18+ always saves, however.)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if the spell has one target, and twice your level if it has multiple targets.
 
@@ -609,7 +609,7 @@ When you cast a ranged spell, you don’t trigger attacks of opportunity from en
 
 #### Adventurer Feat
 
-When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier (x2 at 5th level; x3 at 8th) to it.
+When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier.to it.
 
 #### Champion Feat
 
@@ -774,7 +774,7 @@ When the escalation die is 1+ and you cast a spell that does your damage type da
 
 When you cast a spell that targets PD, choose one of the following benefits:
 
-- If the spell deals damage, deal extra damage equal to your Constitution modifier (x2 at 5th level; x3 at 8th) to each target you hit.
+- If the spell deals damage, deal extra damage equal to your Constitution modifier, twice at champion tier, and thrice at epic tier.to each target you hit.
 - Increase the DC for the target’s first save against the spell by your Constitution modifier. (A natural roll of 18+ always saves, however)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if it is one target, or twice your level in case of multiple targets.
 
@@ -2202,7 +2202,7 @@ Evocation
 
 _Special:_ Choose whether you want to create a fire shield or an ice shield when you cast the spell.
 
-**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier (x2 at 5th level; x3 at 8th) + Level to it.
+**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier, twice at champion tier, and thrice at epic tier.+ Level to it.
 
 **Effect (Ice Shield):** As above, but the shield deals cold damage and grants resistance to cold damage.
 

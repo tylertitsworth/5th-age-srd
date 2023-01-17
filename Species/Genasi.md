@@ -61,7 +61,7 @@ Gain resist lightning and thunder 16+.
 
 ### Advenutrer Feat
 
-When you succeed on a save to disengage, deal thunder damage to all enemies you disengage from equal to your Constitution or Intelligence modifier, twice at 5th level, and thrice at 8th.
+When you succeed on a save to disengage, deal thunder damage to all enemies you disengage from equal to your Constitution or Intelligence modifier, twice at champion tier, and thrice at epic tier.
 
 ---
 

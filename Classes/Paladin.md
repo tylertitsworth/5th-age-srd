@@ -153,7 +153,7 @@ Gain a +4 bonus to the attack roll with True Smite.
 
 Choose three of the following class talents.
 
-You get an additional paladin class talent at 5th level, and again at 8th level.
+You get an additional paladin class talent at champion tier, and again at epic tier.
 
 ---
 
@@ -339,7 +339,7 @@ If the target of your smite power is already stuck or vulnerable to cold, it is 
 
 ### Divine Domain
 
-_Special:_ You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
+_Special:_ You can choose Divine Domain a second time, if you wish, at champion tier or at epic tier.
 
 Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per full recovery.
 
@@ -411,8 +411,8 @@ Deal extra damage equal to the enemy's level
 
 In battle, when you are staggered the first time, roll 1d4 and gain a Crusader’s Boon from the table below. Each boon gives you a special interrupt action that you can use at-will until the end of the battle.
 
-- _Crusader’s Thorns:_ When an enemy makes a melee attack against you and the natural attack roll is lower than your Strength score, deal damage equal to your Strength modifier (x2 at 5th level; x3 at 8th).
-- _Crusader’s Heart:_ When an enemy makes an attack against you and the natural attack roll is lower than your Constitution score, reduce the damage by your Constitution modifier (x2 at 5th level; x3 at 8th) and immediately save against any “save ends” effects of that attack.
+- _Crusader’s Thorns:_ When an enemy makes a melee attack against you and the natural attack roll is lower than your Strength score, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier.
+- _Crusader’s Heart:_ When an enemy makes an attack against you and the natural attack roll is lower than your Constitution score, reduce the damage by your Constitution modifier, twice at champion tier, and thrice at epic tier.and immediately save against any “save ends” effects of that attack.
 - _Crusader’s Gaze:_ When an enemy makes an attack against you and the natural roll is lower than your Wisdom score, gain advantage on your next attack roll against the target.
 - _Crusader’s Defiance:_ When an enemy makes an  attack against you and the natural attack roll is lower than your Charisma score, the enemy is struck by fear (dazed and can’t use the escalation die) until the end of its next turn.
 
@@ -713,7 +713,7 @@ The save has a bonus to the roll equal to your Charisma modifier.
 
 ### Stormhammer
 
-When you hit with a melee attack, add lightning damage equal to your Constitution modifier, twice at 5th level, thrice at 8th).
+When you hit with a melee attack, add lightning damage equal to your Constitution modifier, twice at champion tier, thrice at epic tier).
 
 #### Adventurer Feat
 

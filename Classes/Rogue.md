@@ -553,7 +553,7 @@ Once per battle or scene, you can use an expended power with the Shadow keyword 
 
 #### Adventurer Feat
 
-When you use a Shadow power, gain temporary hit points equal to your level + Charisma modifier (x2 at 5th level; x3 at 8th). For powers with an ongoing effect, you only gain the temporary hit points when you activate it. (Shadow Walk is considered a Shadow power for this feat)
+When you use a Shadow power, gain temporary hit points equal to your level + Charisma modifier, twice at champion tier, and thrice at epic tier. For powers with an ongoing effect, you only gain the temporary hit points when you activate it. (Shadow Walk is considered a Shadow power for this feat)
 
 #### Champion Feat
 
@@ -1258,7 +1258,7 @@ requires momentum
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
+**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier, twice at champion tier, and thrice at epic tier.
 
 #### Adventurer Feat
 
@@ -1446,7 +1446,7 @@ Shadow
 
 #### Adventurer Feat
 
-Deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th).
+Deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.
 
 #### Champion Feat
 
@@ -2145,7 +2145,7 @@ Shadow
 
 #### Champion Feat
 
-Reduce the damage you take from attacks against the target by twice your Charisma modifier (x3 at 8th level).
+Reduce the damage you take from attacks against the target by twice your Charisma modifier (thrice at 8th level).
 
 ---
 

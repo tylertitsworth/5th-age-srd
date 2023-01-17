@@ -25,9 +25,9 @@ Damage totals for your attacks are calculated by adding one ability score modifi
 
 Calculate the ability modifier subtracting 10 from the ability score, halving the result, then rounding down.
 
-At 5th level, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
+At champion tier, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
 
-At 8th level, quadruple the ability score modifier.
+At epic tier, quadruple the ability score modifier.
 
 Spells indicate a specific number of dice to roll for damage. Weapon attacks work differently.
 
@@ -478,7 +478,7 @@ Each PC starts the adventure with 7-10 recoveries, a stat that represents the PC
 
 When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use. At 7th level PCs get to roll [more](../Classes/README.md#recovery-dice-progression) recovery dice.
 
-At 5th level, double the bonus you get from your Con modifier. At 8th level, triple it.
+At champion tier, double the bonus you get from your Con modifier. At epic tier, triple it.
 
 If you perform an action that requires a recovery but have none left, you get half the healing you would otherwise get and take a –1 penalty to all defenses and attack rolls until your next full heal-up. This penalty stacks for each recovery used that you don't possess.
 
