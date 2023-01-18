@@ -349,7 +349,7 @@ You can have only one _breath weapon_ spell active at a time. If you cast a diff
 
 Failing a death save cancels any _breath weapon_ spells you have active.
 
-##### Adventurer Feateapon 
+##### Adventurer Feat
 
 Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
 
@@ -882,7 +882,7 @@ Once per full recovery when you cast an empowered spell, each enemy engaged with
 
 ### Street Magic
 
-Gain a bonus sorcery point, and the following metamagic abilities (see the Metamagic and Sorcery Points class feature for details).
+Gain a bonus sorcery point, and the following metamagic abilities (see the [Metamagic and Sorcery Points](#metamagic) class feature for details).
 
 _Backstabbing Spell (1 point):_ Gain a +2 bonus to your critical threat range with the spell.
 
@@ -3196,11 +3196,11 @@ Roll a d8 to see which power you gain:
 | **1** | Resist energy 16+ | When an attack that deals energy damage targets you, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. |
 | **2** | Infernal battery | Until the end of the battle, you can use a quick action once each round to make recharge rolls for your expended recharge spells. Each time you do so, you take damage equal to half the natural result of your recharge roll. |
 | **3** | Backlash | The first time you are staggered this battle, the enemy who staggered you becomes confused (save ends). |
-| **4** | Spell frenzy | You enter a spell frenzy (see Infernal Heritage talent). If you were already in a spell frenzy, you now roll 3d20 for each attack and take damage equal to triple the target's level for each roll that misses. |
-| **5** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
-| **6** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
-| **7** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
-| **8** | Eye of the demon | Choose any two features you want. For the rest of this full recovery, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
+| **4** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
+| **5** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
+| **6** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
+| **7** | Eye of the demon | Choose any two features you want. For the rest of this full recovery, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
+| **8** | Reroll |
 
 ---
 

@@ -3966,7 +3966,7 @@ _Weapons:_ You cannot use normal weapons or shields, but you can attack using yo
 
 _Magic items:_ Your magic items stick with you and you get the benefit of their default bonuses, except weapons and shields. You can use bracers to improve your unarmed attacks, like a monk.
 
-_Spells:_ You cannot speak or cast spells while in beast form (but see the adventurer feat below).
+_Spells:_ You cannot speak or cast spells while in beast form.
 
 _Shifting back:_ You can return to humanoid form as a quick action.
 

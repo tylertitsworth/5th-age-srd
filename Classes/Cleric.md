@@ -729,7 +729,7 @@ _Special:_ You can cast this spell for power or for broad effect.
 
 **Hit:** If cast for power, deal 6d10 + Wisdom radiant damage, and 10 ongoing radiant damage (save ends). You may immediately ask the enemy a brief question and unless the enemy has been dropped to 0 hit points, it is compelled to give a truthful answer in response (no more than one or two words, usually.) You may ask another question whenever the target fails a saving throw against the ongoing radiant damage.
 
-If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the tareget (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
+If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the target (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
 
 _Miss:_ If cast for power, you may ask one question; the target takes half damage if they answer truthfully, and full damage if they lie or refuse to answer. If cast for broad effect, the target takes half damage but no other effect.
 
