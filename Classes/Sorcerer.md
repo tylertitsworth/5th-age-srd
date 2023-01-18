@@ -1398,7 +1398,7 @@ _Special:_ When you empower this spell, it doesn’t do double damage as usual. 
 | 3 | Enemies you hit are dazed (save ends) |
 | 4 | Deal ongoing fire damage equal to 10 times the spell level |
 | 5 | Deal full damage on a miss |
-| 6 | Repeat the attack at the start of your next turn as a free action; **Target:** 1d4+1 random nearby or far away enemies |
+| 6 | Repeat the attack at the start of your next turn as a free action; _Target: 1d4+1 random nearby or far away enemies_ |
 
 **Attack:** Charisma + Level vs. PD
 

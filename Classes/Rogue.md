@@ -2187,17 +2187,23 @@ When an enemy makes an attack against you, you can spend your momentum (before y
 
 ### Smoke Bomb
 
-Quick Action; Full Recovery
+Quick Action
 
-Target: You
+Full Recovery
 
-Special: This power relies on some esoteric alchemical knowledge you’ve picked up during your career as a rogue, so it relies on you having a few small vials of strange reagents secreted on your person. It’s also worth noting that this power is one of the few rogue powers that doesn’t include an attack, so if you take it, you’ll have one fewer power-based attack than others. In exchange, you’re getting an effect usually reserved for outright magic
+**Target:** You
 
-Effect: Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
+_Special:_ This power relies on some esoteric alchemical knowledge you’ve picked up during your career as a rogue, so it relies on you having a few small vials of strange reagents secreted on your person. It’s also worth noting that this power is one of the few rogue powers that doesn’t include an attack, so if you take it, you’ll have one fewer power-based attack than others. In exchange, you’re getting an effect usually reserved for outright magic
 
-Champion Feat Smoke bomb is no longer full recovery; it’s recharge 16+ after battle.
+**Effect:** Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
 
-Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
+#### Champion Feat
+
+Smoke bomb is no longer full recovery, and it’s recharge 16+ after battle.
+
+#### Epic Feat
+
+You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
 
 ---
 

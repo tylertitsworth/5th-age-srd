@@ -1889,7 +1889,9 @@ Close-quarters Spell
 
 Once per level
 
-Standard Action to cast; you can only cast this spell out of battle
+Standard Action to cast
+
+You can only cast this spell out of battle
 
 **Trigger:** You realize that the last two minutes of out of battle roleplay or existence have gone horribly wrong and you want to rewind and try to redirect reality in a manner that you wish.
 

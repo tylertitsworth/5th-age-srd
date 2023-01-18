@@ -1137,7 +1137,9 @@ Until the end of your next turn, you gain a +2 bonus on all defenses (AC, PD, an
 
 ### Tombstone
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 _Special:_ You must be making an unarmed attack.
 
@@ -1217,7 +1219,9 @@ Ignore the resistance of the target until the end of the battle.
 
 ### Brutal Blows
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 **Triggering Roll:** Any natural even hit
 
@@ -1444,7 +1448,9 @@ If the escalation die is 3+, the second _spinning charge_ attack deals full dama
 
 ### Tactical Defense Line
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 **Triggering Roll:** Any natural even roll
 
@@ -1486,7 +1492,9 @@ You can spend a recovery to heal, and you succeed at the save.
 
 ### Brute Force
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 _Special:_ You must be wielding a two-handed weapon
 
