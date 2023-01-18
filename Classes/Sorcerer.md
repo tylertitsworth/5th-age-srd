@@ -117,22 +117,6 @@ At-Will
 
 All sorcerers share three general class features: Access to Wizardry, Dancing Lights, and Gather Power. _Breath weapon_, _chain_, and _random energy_ are keywords used in sorcerer spells
 
-### Breath Weapon
-
-Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
-
-The _breath weapon_ power lasts for a single battle only.
-
-You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the [Chromatic Destroyer Heritage talent](#chromatic-destroyer-heritage) for the path to multiple _breath weapon_ spells.)
-
-Failing a death save cancels any _breath weapon_ spells you have active.
-
-#### Adventurer Feat
-
-Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
-
----
-
 ### Chain
 
 When you attack with a _chain_ spell and get a natural even roll, you can roll another attack against a different enemy within range. Keep on rolling attacks as long as you get even rolls and don't run out of new targets. Each enemy can be targeted only once.
@@ -352,6 +336,22 @@ _Special:_ If you have the Chromatic Destroyer Heritage or Metallic Protector He
 #### Adventurer Feat
 
 Use Charisma instead of Intelligence with your chosen wizard spells.
+
+---
+
+#### Breath Weapon
+
+Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
+
+The _breath weapon_ power lasts for a single battle only.
+
+You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the [Chromatic Destroyer Heritage talent](#chromatic-destroyer-heritage) for the path to multiple _breath weapon_ spells.)
+
+Failing a death save cancels any _breath weapon_ spells you have active.
+
+##### Adventurer Feateapon 
+
+Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
 
 ---
 
