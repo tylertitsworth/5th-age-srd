@@ -185,8 +185,6 @@ When you gather power, you gain a sorcery point (see the Metamagic and Sorcery P
 | 7th | Elemental Form and Reflecting Barrier |
 | 9th | Silver Flame, Spell Barrage, and Twilight Travel |
 
----
-
 ##### Arcane Familiars
 
 Arcane familiars choose two familiar abilities, as per the [Wizard’s Familiar talent](./Wizard.md#wizards-familiar).
@@ -225,8 +223,6 @@ Sorcerers with the arcane bloodline cast dancing lights.
 | 4 | Thunder |
 | 5 | Acid |
 | 6 | Force |
-
----
 
 #### Celestial Bloodline
 
@@ -280,8 +276,6 @@ Target two enemies / allies with the odd / even effect.
 | 7th | Celestial Censure, Entomb, and Sorcerous Wings |
 | 9th | Calling the Blood, Celestial Apotheosis, and Twilight Travel |
 
----
-
 ##### Celestial Familiars
 
 Celestial familiars are often animals from divine realms. They resemble animals from the prime material plane, but in a true, perfect sense. Their fur is shinier, and even if they don’t speak, they have a reserved wisdom to them that is unlike any mortal creature. Celestial familiars have two familiar abilities, which can be Celestial Ward, Healing Touch, or Radiant listed below, or the Alert, Flight, Scout, Tough, or Talkative abilities from the wizard list.
@@ -323,8 +317,6 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 3 | Thunder |
 | 4 | Radiant |
 
----
-
 #### Draconic Bloodline
 
 ##### Access to Wizardry
@@ -362,7 +354,7 @@ When you Gather Power, gain a draconic benefit as per the table below.
 | **d6** | **Adventurer Tier** | **Champion Tier** | **Epic Tier** |
 | --- | --- | --- | --- |
 | 1-2 | Gain a +1 bonus to AC until the start of your next turn. | Gain a +1 bonus to AC and PD until the start of your next turn. | Gain a +1 bonus to all defenses until the start of your next turn. |
-|3–4 | Deal damage equal to your level to all nearby staggered enemies. | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
+| 3–4 | Deal damage equal to your level to all nearby staggered enemies. | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
 | 5–6 | Deal damage equal to your level to one nearby enemy. | Deal damage equal to your level + Charisma modifier to one nearby enemy. | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy. |
 
 ###### Adventurer Feat
@@ -384,8 +376,6 @@ When you gather power, you also gain the ability to fly to a nearby location as 
 | 5th | Breath of the Black, Breath of the Copper, and Breath of the Purple |
 | 7th | Breath of the Blue, Breath of the Silver, Draconic Gift, and Sorcerous Wings |
 | 9th | Breath of the Golden, Breath of the Red, Breath of the Void, Draconic Apotheosis, and Silver Flame |
-
----
 
 ##### Draconic Familiars
 
@@ -427,8 +417,6 @@ Sorcerers with the Draconic bloodline can create small elemental effects with th
 | 2 | Fire |
 | 3 | Lightning |
 | 4 | Thunder |
-
----
 
 #### Fey Bloodline
 
@@ -479,8 +467,6 @@ The daze and MD penalty effects are “save ends.”
 | 7th | Pixie Dust, Sorcerous Wings, and Stolen Faces |
 | 9th | Prey of the Wild Hunt, Silver Flame, and Twilight Travel |
 
----
-
 ##### Fey Familiars
 
 If you have the Sorcerer’s Familiar talent, choose two abilities from the table as per the [Wizard’s Familiar](./Wizard.md#wizards-familiar). You also have the two additional options below.
@@ -513,8 +499,6 @@ If the target spell is a sorcerer spell with the fey keyword, or a bard spell, r
 | 2 | Psychic |
 | 3 | Force |
 | 4 | Thunder |
-
----
 
 #### Umbral Bloodline
 
@@ -553,8 +537,6 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 3 | Poison |
 | 4 | Psychic |
 
----
-
 ##### Umbral Benefit
 
 When you Gather Power, roll 1d6 on the table below.
@@ -584,8 +566,6 @@ Also gain the Umbral benefit as a free action the first time you are staggered i
 | 5th | Leech Magic, Scare, Three Dooms, and Wave of Anguish |
 | 7th | Entomb, Memento Mori, Shadow Form, Stolen Faces, and The Elven Shadows |
 | 9th | Black Blade of Disaster, Breath of the Void, Twilight Travel, and Void Rift |
-
----
 
 ##### Umbral Familiars
 
