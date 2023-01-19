@@ -115,12 +115,6 @@ At-Will
 
 ## Class Features
 
-### Barred School
-
-As a specialist wizard, choose one of the seven wizard schools Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, or Transmutation as your barred school. You cannot cast spells from that school.
-
----
-
 ### Cantrips
 
 Every wizard can cast a handful of cantrips each full recovery. You don't have to memorize or choose them beforehand, you just cast them on the fly.
@@ -163,33 +157,33 @@ You can master a ritual in half the required time.
 
 ---
 
-### Specialist Advantage
-
-Full Recovery spells of your chosen school become recharge 16+ after battle. They still count as full recovery spells for abilities that trigger off full recovery spells.
-
-#### Champion Feat
-
-Gain a +1 bonus to recharge rolls for spells of your school.
-
-#### Epic Feat
-
-The bonus to recharge rolls is now equal to your Intelligence modifier.
-
----
-
-### Specialist Spell Slot
-
-When you choose spells during a full heal-up, you can declare one (and only one) of your spell slots as your specialist school slot. You don’t choose a spell for that slot after the full heal-up, but at the time of casting the spell. You can choose any normal spell that belongs to your specialist school.
-
-If the spell you cast is a recharge spell, make a recharge roll at the end of the battle to regain the spell slot, not the particular spell. If the spell you cast is once per battle, cyclic, or at-will, you cast the spell normally during the battle, then regain the spell slot at the end of the battle.
-
----
-
 ### Wizard Schools
 
 The seven schools of magic are Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, and Transmutation. Choose one of the schools as your specialty.
 
 Necromancy is the forbidden 8th school, and is not featured, see [Necromancer](./Necromancer.md) instead.
+
+#### Barred School
+
+Choose one of the seven wizard schools Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, or Transmutation as your barred school. You cannot cast spells from that school.
+
+#### Specialist Advantage
+
+Full Recovery spells of your chosen school become recharge 16+ after battle. They still count as full recovery spells for abilities that trigger off full recovery spells.
+
+##### Champion Feat
+
+Gain a +1 bonus to recharge rolls for spells of your school.
+
+##### Epic Feat
+
+The bonus to recharge rolls is now equal to your Intelligence modifier.
+
+#### Specialist Spell Slot
+
+When you choose spells during a full heal-up, you can declare one (and only one) of your spell slots as your specialist school slot. You don’t choose a spell for that slot after the full heal-up, but at the time of casting the spell. You can choose any normal spell that belongs to your specialist school.
+
+If the spell you cast is a recharge spell, make a recharge roll at the end of the battle to regain the spell slot, not the particular spell. If the spell you cast is once per battle, cyclic, or at-will, you cast the spell normally during the battle, then regain the spell slot at the end of the battle.
 
 ---
 

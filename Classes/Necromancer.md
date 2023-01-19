@@ -115,8 +115,6 @@ At-Will
 
 ## Class Features
 
-All necromancers share the following class features.
-
 ### Arcane Implements
 
 As a character casting arcane magic, your best options for improving your spellcasting are wands and staffs.

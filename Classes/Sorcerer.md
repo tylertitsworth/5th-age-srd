@@ -115,8 +115,6 @@ At-Will
 
 ## Class Features
 
-All sorcerers share three general class features: Access to Wizardry, Dancing Lights, and Gather Power. _Breath weapon_, _chain_, and _random energy_ are keywords used in sorcerer spells
-
 ### Chain
 
 When you attack with a _chain_ spell and get a natural even roll, you can roll another attack against a different enemy within range. Keep on rolling attacks as long as you get even rolls and don't run out of new targets. Each enemy can be targeted only once.

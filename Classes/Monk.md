@@ -287,7 +287,7 @@ _Special:_ If you use Fire Fist in a battle, you can’t use any other Deadly Se
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
@@ -365,7 +365,7 @@ _Special:_ If you use Freezing Fist in a battle, you can’t use any other Deadl
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
@@ -663,7 +663,7 @@ _Special:_ If you use Death Touch in a battle, you can’t use any other Deadly 
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
@@ -2091,7 +2091,7 @@ Target: All enemies you are engaged with
 
 #### Finishing Attack (Avalanche Breath)
 
-Close-quarters power
+Close-Quarters Power
 
 **Target:** 1d3 nearby enemies
 
@@ -2459,7 +2459,7 @@ Melee attack
 
 #### Opening Attack (The Dragon Awakens)
 
-Close-quarters power
+Close-Quarters Power
 
 **Effect (cycle bonus):** For the current attack cycle, you change your shape into a humanoid-sized dragon. You can fly and you have resist fire 16+. Once per round, you can spend a ki point to make the following breath weapon attack as a quick action.
 

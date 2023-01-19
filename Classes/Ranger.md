@@ -1091,7 +1091,7 @@ _Egoist:_ When an enemy scores a critical hit against you, you gain a free use o
 
 #### Inescapable Wrath
 
-Close-quarters power
+Close-Quarters Power
 
 At-will
 
@@ -1105,7 +1105,7 @@ Interrupt Action
 
 #### Relentless Pursuit
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 

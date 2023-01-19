@@ -110,11 +110,11 @@ At-Will
 
 ## Class Features
 
-All paladins have the Smite Evil class feature.
+All paladins have the Smite Evil and True Smite class features.
 
 ### Smite Evil
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle, plus once per full recovery per Charisma modifier
 

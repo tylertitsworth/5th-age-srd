@@ -1510,7 +1510,7 @@ If you fail to retain focus with this spell, you can pop free from all enemies a
 
 ### Awe-Inspiring Presence
 
-Close-quarters power
+Close-Quarters Power
 
 Recharge 16+ after the scene
 

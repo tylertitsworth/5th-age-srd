@@ -110,9 +110,7 @@ At-Will
 
 ---
 
-## Class Feature
-
-All barbarians have the Barbarian Rage class feature.
+## Class Features
 
 ### Barbarian Rage
 
