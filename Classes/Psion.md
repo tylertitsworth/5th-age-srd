@@ -196,14 +196,14 @@ One battle per full recovery, each time you roll for a high weirdness effect, ro
 | **23–24** | There's tension in the air, or the rumble of distant thunder, or a sense of impending disaster, and the next creature that misses with an attack this battle takes damage equal your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier. |
 | **25–26** | Quickly passing auras blur and shake across the battlefield, or cold winds whip through and grow warmer as they pass, or the lights flicker . . . and the creature that has taken the most damage in the battle gains temporary hit points equal to 10% of its maximum hit points. |
 | **27–28** | One random creature in the battle other than you teleports next to and is engaged by one of its random enemies other than you. |
-| **29–30** | (Global effect) Space seriously twists, affecting the affinities and ranged attacks of each creature in the battle creatures that are nearby count as if they were far away, and creatures that are far away count as if they are nearby. |
+| **29–30** | _Global Effect:_ Space seriously twists, affecting the affinities and ranged attacks of each creature in the battle creatures that are nearby count as if they were far away, and creatures that are far away count as if they are nearby. |
 | **31–32** | The first affinity you cast this battle has effects (not damage) like an affinity two levels higher than it, if possible. |
-| **33–34** | (Global effect) All normal saves made by creatures in the battle are actually easy saves (6+). |
-| **35–36** | (Global effect) There's a blurring at the edge of all things. No creature can intercept another. Disengage attempts automatically succeed. |
-| **37–38** | (Global effect) The champions shall inherit the dirt! Until the end of your next turn, saves that fail count as if they succeed, and saves that succeed count as if they fail! |
+| **33–34** | _Global Effect:_ All normal saves made by creatures in the battle are actually easy saves (6+). |
+| **35–36** | _Global Effect:_ There's a blurring at the edge of all things. No creature can intercept another. Disengage attempts automatically succeed. |
+| **37–38** | _Global Effect:_ The champions shall inherit the dirt! Until the end of your next turn, saves that fail count as if they succeed, and saves that succeed count as if they fail! |
 | **39–40** | Roll the escalation die and use the new result. |
-| **41–42** | (Global effect) Each creature in the battle taking ongoing damage immediately takes that damage. Then all ongoing damage effects end. |
-| **43–44** | (Global effect) Each creature that makes an attack targeting PD targets MD instead. Attacks against MD target PD instead. |
+| **41–42** | _Global Effect:_ Each creature in the battle taking ongoing damage immediately takes that damage. Then all ongoing damage effects end. |
+| **43–44** | _Global Effect:_ Each creature that makes an attack targeting PD targets MD instead. Attacks against MD target PD instead. |
 | **45–46** | Your shadow detaches and flits around you. Until the weirdness ends, you gain a +2 attack bonus but take a –2 penalty to saves. Your personality may or may not be affected. It's up to you. |
 | **47–48** | Choose yourself or one ally with temporary hit points and double those temporary hit points. |
 | **49–50** | There's a large magical special effect of your choice (non-mechanical), and each creature in the battle ignores all resistances. |
@@ -447,9 +447,9 @@ When you would roll to determine your next affinity, you can choose to gain the 
 | --- | --- |
 | Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
 | Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
-| Iconic / Blood | Gain advantage on your next melee attack roll. |
-| Iconic / Light | Your melee attacks deal radiant damage, you deal half damage on a miss. |
-| Iconic / Twisted | Your melee attacks deal necrotic damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
+| Iconic - Blood | Gain advantage on your next melee attack roll. |
+| Iconic - Light | Your melee attacks deal radiant damage, you deal half damage on a miss. |
+| Iconic - Twisted | Your melee attacks deal necrotic damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
 
 If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
 
