@@ -352,15 +352,11 @@ When you use an attack, you declare which attack you are using and pick its targ
 
 Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you.
 
----
-
 #### Spell Attacks
 
 Most spells draw opportunity attacks from enemies engaged with you, even the enemies you target with the spell. Close-quarters spells are the exception; they don't draw opportunity attacks.
 
 Like weapon attacks, you add your level to the attack roll for spell attacks, plus any magical implement or other bonuses you might have.
-
----
 
 #### Target Hit Points
 
@@ -372,15 +368,11 @@ Some spells and effects target creatures with a certain number of hit points or 
 
 Every attack roll that is natural 20 is a crit ("critical hit") for double damage.
 
----
-
 #### Crit Effects
 
 Standard crits deal double damage and, at the GM's discretion, might entail some additional superior result.
 
 If you manage to double your crit damage (through the effect of a talent, power, spell or other source), triple it instead. If you manage to double your triple damage, bump it up to quadruple, and so on.
-
----
 
 #### Crit Range
 
