@@ -603,7 +603,7 @@ When you cast a ranged spell, you don’t trigger attacks of opportunity from en
 
 #### Adventurer Feat
 
-When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier.to it.
+When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier to it.
 
 #### Champion Feat
 
