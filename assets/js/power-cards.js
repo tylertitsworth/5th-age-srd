@@ -8,7 +8,7 @@ function checkFeats(siblingNode){
 
 function powerPrint() {
     //Get every checkbox
-    var checkedBoxes = document.querySelectorAll('input[name=toPrint]:checked');
+    var checkedBoxes = document.getElementsByClassName("printHighlight");
     //Clear the local storage so we don't get duplicate cards
     localStorage.clear()
     // Checkboxes will be hidden on next page, otherwise current page will lose checkboxes
@@ -17,7 +17,8 @@ function powerPrint() {
     var cards = ""
     for(var i = 0; i < checkedBoxes.length; i++){
         var currentNode = checkedBoxes[i].parentNode
-        currentNode.querySelector(".toPrintCheckbox").remove()
+        console.log(currentNode)
+        // currentNode.querySelector(".toPrintCheckbox").remove()
         var cardScript = '<div class = "powerCard">\n'
         var siblingNode = currentNode.nextElementSibling
 
@@ -34,46 +35,74 @@ function powerPrint() {
         cardScript += '\n</div>\n'
         cards += cardScript
 
-        console.log(cardScript)
+      //  console.log(cardScript)
 
         // console.log(currentNode.innerHTML)
     }
      localStorage.setItem("cardsToPrint", cards)
-     window.location.href = "../../Printing/README.html"
+     window.location.href = "../../assets/html/printing_identification.html"
+  // window.location.href = "../_includes/printing_identification.html"
      
 }
-function createButtons(){
-    
-    //If this is the printing page, I don't want to add checkmarks
-    var printingPage = document.getElementById("printPage")
-    if(printingPage){
+
+function highlightingListener(element){
+    if(checkFeats(element)){
         return
     }
+
+    if(element.firstElementChild.classList.contains("printHighlight")){
+        element.firstElementChild.classList.remove("printHighlight")
+    }
+    else{
+        element.firstElementChild.classList.add("printHighlight")
+    }
+    
+    return
+}
+
+function addPrintBehavior(){
+    
+    //Disable anchors in page, and insert new behavior
+    var anchors = document.getElementsByClassName("heading-anchor")
+    for(var i = 0; i < anchors.length; i++){
+        anchors[i].href = "javascript: void(0)"
+        // console.log(anchors[i].parentElement)
+        // console.log(anchors[i].parentNode)
+        anchors[i].parentElement.addEventListener("click", function(){
+            highlightingListener(this.parentElement)
+        })
+    }
+
+
+    // //If this is the printing page, I don't want to add checkmarks
+    // var printingPage = document.getElementById("printPage")
+    // if(printingPage){
+    //     return
+    // }
 
     // Get the wrapper that contains all of our class stuff
-    var wrapper = document.getElementById("content-wrapper")
-    if(!wrapper){
-        console.log("wrapper is null")
-        return
-    }
+    // var wrapper = document.getElementById("content-wrapper")
+    // if(!wrapper){
+    //     console.log("wrapper is null")
+    //     return
+    // }
 
-    //Go through each div in the class and add a print checkbox
-    //TODO: Remove check box from divs that should not be printed
-    var nodes = wrapper.getElementsByTagName("div");
-    for(var i = 0; i < nodes.length; i++){
-        if(nodes[i].firstElementChild.tagName == "H1" || nodes[i].firstElementChild.tagName == "H2" || nodes[i].classList.contains("") || checkFeats(nodes[i])){
-            continue
-        }
-        var checkbox = document.createElement('input')
-        checkbox.type = "checkbox"
-        checkbox.name = "toPrint"
-        checkbox.className ="toPrintCheckbox"
-        //Insert the checbox right after the heading
-        nodes[i].insertBefore(checkbox, nodes[i].children[1])
-    }
+    // //Go through each div in the class and add a print checkbox
+    // var nodes = wrapper.getElementsByTagName("div");
+    // for(var i = 0; i < nodes.length; i++){
+    //     if(nodes[i].firstElementChild.tagName == "H1" || nodes[i].firstElementChild.tagName == "H2" || nodes[i].classList.contains("") || checkFeats(nodes[i])){
+    //         continue
+    //     }
+    //     var checkbox = document.createElement('input')
+    //     checkbox.type = "checkbox"
+    //     checkbox.name = "toPrint"
+    //     checkbox.className ="toPrintCheckbox"
+    //     //Insert the checbox right after the heading
+    //     nodes[i].insertBefore(checkbox, nodes[i].children[1])
+    // }
 
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    createButtons()
+    addPrintBehavior()
   })

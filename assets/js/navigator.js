@@ -156,7 +156,7 @@ function jumpAnchor (e) {
   if (!elm) return
 
   // Do we need to do a fake scroll or not?
-  if (!needsScroll(elm)) return
+  //if (!needsScroll(elm)) return
 
   content.style.position = 'relative'
   contentScroll = Math.ceil(elm.getBoundingClientRect().top) + contentScroll
@@ -184,7 +184,7 @@ this.addEventListener('click', (e) => {
   let elm = e.target
   if (elm.nodeName === 'A') elm = document.getElementById(e.target.hash?.slice(1))
 
-  if (!needsScroll(elm)) resetContent()
+ // if (!needsScroll(elm)) resetContent()
   ignoreScroll = true
 })
 
