@@ -210,29 +210,17 @@ A creature's position amounts to two things: the creature's whereabouts, and who
 
 ---
 
-#### Whereabouts
+### Whereabouts
 
 Each creature has a general, relative position on the battlefield. Combat is dynamic and fluid, so miniatures can't really represent where a character "really is."
-
----
 
 #### Nearby
 
 Generally, all the heroes and their enemies in a battle are nearby. That means they can reach each other with a single move action.
 
----
-
 #### Behind
 
 If you're behind an unengaged ally, and an enemy moves past that ally to get to you, your ally has the option to move and intercept.
-
----
-
-#### Intercepting
-
-You intercept a creature when you move to stop an enemy attempting to rush past you to attack someone else. You must be near the enemy and the person that enemy is trying to reach.
-
----
 
 #### Far Away
 
@@ -240,23 +228,13 @@ Generally, the heroes and their enemies are nearby each other and you can use a 
 
 ---
 
-#### Engaged/Next to
-
-In a battle, each combatant is either engaged (locked in combat with one or more enemies) or unengaged (free). When two allies are engaged with the same enemy, they are considered next to each other.
-
----
-
 ### Movement and Melee
 
 The combat system cares about movement and position, but only in simple/approximate terms. It emphasizes where people are and who's fighting whom.
 
----
-
 #### Free
 
 By default, characters in a battle are free. They can move freely, use ranged attacks, engage in battle, etc. If they try to move past a free enemy, however, that foe usually has the option to intercept them.
-
----
 
 #### Engaged
 
@@ -288,15 +266,11 @@ Disengaging uses a move action. If you succeed, it's like getting popped free at
 
 When a creature gets to make an opportunity attack, it can make a basic melee attack against that foe as a free action during the turn of the creature that is provoking the opportunity attack. You can only use a basic melee attack.
 
----
-
 #### Intercepting
 
 If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are as an interrupt action. The GM rules on what counts as moving "past" a defending character or enemy.
 
 Only one creature can intercept a single enemy moving past them at a time.
-
----
 
 #### Targeting
 
@@ -306,19 +280,13 @@ A spell or area-style effect that targets multiple nearby enemies in a group can
 
 When a spell or power targets a nearby enemy, ally, or creature, you can't target yourself unless it is explicitly stated that you can also be a target.
 
----
-
 #### Special Cases
 
 Here are rules for special situations involving movement and melee.
 
----
-
 ##### Allies
 
 Powers and spells in various classes are written with the understanding that a character's allies are the other PCs in the party with a possible addition for an animal companion. NPCs don't count as allies for abilities that are counting the number of allies that meet certain conditions.
-
----
 
 ##### Ambushes and Surprise
 
@@ -327,8 +295,6 @@ In situations when one side ambushes or surprises the other, start by letting th
 Only two creatures get to act in the ambush round: the nominated ambusher and their highest initiative ally. The GM can choose whether to advance the escalation die after the surprise round.
 
 Then roll initiative for the side that got ambushed and play normal combat rounds.
-
----
 
 ##### Stunts
 
