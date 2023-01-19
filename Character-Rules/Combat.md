@@ -536,55 +536,37 @@ Once engaged in battle, attacks against invisible enemies have a 50% chance to m
 
 You can only be affected by the same condition once at a time. The worst one affects you and the lesser effects are ignored. Similarly, penalties from these conditions don't stack.
 
----
-
 #### Confused
 
 You can't make opportunity attacks or use your limited powers. Your next attack action will be a basic or at-will attack against any nearby ally, determined randomly.
-
----
 
 #### Dazed
 
 You take a –4 penalty to attacks.
 
----
-
 #### Fear
 
 Fear dazes you and prevents you from using the escalation die.
-
----
 
 #### Hampered
 
 You can only make basic attacks. You can still move normally.
 
----
-
 #### Helpless
 
 If you're unconscious or asleep, you're helpless. While helpless, you take a –4 penalty to all defenses and you can be the target of a coup de grace.
-
----
 
 #### Stuck
 
 You can't move, disengage, pop free, change your position, or let anyone else move you without teleporting.
 
----
-
 #### Stunned
 
 You suffer a –4 penalty to defenses and can't take any actions.
 
----
-
 #### Vulnerable
 
 The first time an attack you are vulnerable to misses you each turn, the attacker can reroll the attack once. You don’t get to reroll every attack against a creature that’s vulnerable to your attacks, just the first missed attack each turn.
-
----
 
 #### Weakened
 
