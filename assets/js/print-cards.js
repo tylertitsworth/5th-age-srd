@@ -24,7 +24,7 @@ function pruningHandler(card, wrapper){
 //TODO: Check if the next element is a heading, if so, push it as well
 //TODO: Add card numbers to each card
 //TODO: Add main card headings to each card
-//TODO: Add table support
+//TODO: TEST REALLY BIG TABLES, THEY FAIL
 //WHY IS THE LENGTH OF A STACK HALF THE ACTUAL SIZE OF THE STACK, JAVASCRIPT WHYYYYY
 //When I append something to something else, it actually removes from intial data structure
 //And appends to the new one, shrinking the data structure
@@ -94,6 +94,12 @@ function overflowHandling(cards){
           for(var j = 0; j < divsToMoveLength; j++){
             cardContainer.appendChild(divsToMove[j])
           }
+          //If the length is odd 
+          if(divsToMoveLength % 2){
+            var emptyDiv = document.createElement("div")
+            emptyDiv.classList.add("powerCard")
+            cardContainer.appendChild(emptyDiv)
+          }
           prunedCardArray.push(cardContainer)
           // var prunedCard = pruneCard(cards[i])
           // var wrapper = document.getElementById("content-wrapper");
@@ -117,6 +123,11 @@ function overflowHandling(cards){
           var cardContainer = document.createElement("div")
           var divToMove = wrapper.querySelector(".powerCard")
           cardContainer.appendChild(divToMove)
+
+          var emptyDiv = document.createElement("div")
+          emptyDiv.classList.add("powerCard")
+          cardContainer.appendChild(emptyDiv)
+          console.log(cardContainer.innerHTML)
           prunedCardArray.push(cardContainer)
         }
 
@@ -127,8 +138,11 @@ function overflowHandling(cards){
     for(var i = 0; i < prunedCardArrayLength; i++){
       var divsInContainer = prunedCardArray[i].querySelectorAll(".powerCard")
       var subContainerLength = divsInContainer.length
-      for(var j = 0; j < subContainerLength; j++){
+      for(var j = 0; j < subContainerLength; j+=2){
         wrapper.appendChild(divsInContainer[j])
+      }
+      for(var k = 1; k < subContainerLength; k+=2){
+        wrapper.appendChild(divsInContainer[k])
       }
     }
     console.log("checked for overflows")

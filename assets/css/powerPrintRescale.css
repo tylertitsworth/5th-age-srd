@@ -79,6 +79,8 @@ table {
   word-break: normal;
   word-break: keep-all;
   -webkit-overflow-scrolling: touch;
+  margin-left: auto;
+  margin-right: auto;
 }
 table th {
   font-weight: bold;
@@ -147,5 +149,5 @@ hr {
     #content-wrapper div hr {
       display: none; }
     #content-wrapper div table {
-      display: none; }
+      display: visible; }
   
