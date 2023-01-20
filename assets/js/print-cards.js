@@ -76,31 +76,31 @@ function newCard(overflowElements, overflowStackSize){
 function overflowHandling(cards){
    var intialLength = cards.length
    var wrapper = document.getElementById("content-wrapper");
-   var prunedCardArray = []
+   var prunedCardArray = document.createElement("div")
     console.log("WAT")
     console.log(cards)
-    for(var i = 0; i < intialLength; i++){
+    for(let i = 0; i < intialLength; i++){
       console.log("Card number " + i)
       wrapper.appendChild(cards[i])
         //console.log(cards[i].innerHTML)
       if(isOverflown(cards[i])){
           //console.log("OVERFLOW at ", i)
           pruningHandler(cards[i], wrapper)
-          var cardContainer = document.createElement("div")
+          // var cardContainer = document.createElement("div")
           var divsToMove = wrapper.querySelectorAll(".powerCard")
           var divsToMoveLength = divsToMove.length
           console.log("MOVING")
           console.log(divsToMove)
-          for(var j = 0; j < divsToMoveLength; j++){
-            cardContainer.appendChild(divsToMove[j])
+          for(let j = 0; j < divsToMoveLength; j++){
+            prunedCardArray.appendChild(divsToMove[j])
           }
           //If the length is odd 
           if(divsToMoveLength % 2){
             var emptyDiv = document.createElement("div")
             emptyDiv.classList.add("powerCard")
-            cardContainer.appendChild(emptyDiv)
+            prunedCardArray.appendChild(emptyDiv)
           }
-          prunedCardArray.push(cardContainer)
+          // prunedCardArray.push(cardContainer)
           // var prunedCard = pruneCard(cards[i])
           // var wrapper = document.getElementById("content-wrapper");
           // wrapper.appendChild(prunedCard)
@@ -120,30 +120,62 @@ function overflowHandling(cards){
         }
         else{
           console.log("only one card")
-          var cardContainer = document.createElement("div")
+          // var cardContainer = document.createElement("div")
           var divToMove = wrapper.querySelector(".powerCard")
-          cardContainer.appendChild(divToMove)
+          prunedCardArray.appendChild(divToMove)
 
           var emptyDiv = document.createElement("div")
           emptyDiv.classList.add("powerCard")
-          cardContainer.appendChild(emptyDiv)
-          console.log(cardContainer.innerHTML)
-          prunedCardArray.push(cardContainer)
+          prunedCardArray.appendChild(emptyDiv)
+          // console.log(cardContainer.innerHTML)
+          // prunedCardArray.push(cardContainer)
         }
 
     }
     console.log("Adding back to the wrapper")
     console.log(prunedCardArray)
-    var prunedCardArrayLength = prunedCardArray.length
-    for(var i = 0; i < prunedCardArrayLength; i++){
-      var divsInContainer = prunedCardArray[i].querySelectorAll(".powerCard")
-      var subContainerLength = divsInContainer.length
-      for(var j = 0; j < subContainerLength; j+=2){
-        wrapper.appendChild(divsInContainer[j])
-      }
-      for(var k = 1; k < subContainerLength; k+=2){
-        wrapper.appendChild(divsInContainer[k])
-      }
+    var divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
+    var divsInContainerLength = divsInContainer.length
+    console.log("Number of divs: ", divsInContainerLength)
+    while(divsInContainerLength % 3){
+      var emptyDiv = document.createElement("div")
+      emptyDiv.classList.add("powerCard")
+      prunedCardArray.appendChild(emptyDiv)
+      divsInContainerLength++
+    }
+
+    divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
+    divsInContainerLength = divsInContainer.length
+    console.log("Number of divs: ", divsInContainerLength)
+
+        // for(var j = 0; j < divsInContainerLength; j++){
+        // wrapper.appendChild(divsInContainer[j])
+        // }
+
+
+      var j = 0
+      var k = 1
+      while((j + k)/2 < divsInContainerLength){
+        var arrAInc = 0
+        var arrBInc = 0
+        for(; j < divsInContainerLength; j+=2){
+          if(arrAInc == 3){
+            break;
+          }
+          wrapper.appendChild(divsInContainer[j])
+          arrAInc++
+        }
+        for(; k < divsInContainerLength; k+=2){
+          if(arrBInc == 3){
+            break;
+          }
+          wrapper.appendChild(divsInContainer[k
+          ])
+          arrBInc++
+        }
+
+
+
     }
     console.log("checked for overflows")
 }
