@@ -1,4 +1,7 @@
 function checkFeats(siblingNode){
+    if(!siblingNode){
+        return false
+    }
     if(siblingNode.classList.contains("adventurer-feat") || siblingNode.classList.contains("champion-feat") || siblingNode.classList.contains("epic-feat")){
        return true
     }
@@ -40,7 +43,8 @@ function powerPrint() {
         // console.log(currentNode.innerHTML)
     }
      localStorage.setItem("cardsToPrint", cards)
-     window.location.href = "../../assets/html/printing_identification.html"
+     //window.location.href = "../../assets/html/printing_identification.html"
+     window.open("../assets/html/printing_identification.html", '_blank'); 
   // window.location.href = "../_includes/printing_identification.html"
      
 }
