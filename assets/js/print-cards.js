@@ -173,9 +173,6 @@ function overflowHandling(cards){
           ])
           arrBInc++
         }
-
-
-
     }
     console.log("checked for overflows")
 }
@@ -224,8 +221,9 @@ function printPage(){
    // sheet.setAttribute("href", "../assets/css/powerPrintRescale.css")
   //  var cards = document.getElementsByClassName("powerCard")
   //  overflowHandling(cards)
-  //  window.print()
+  window.print()
   console.log("Printing lmao")
+  window.close()
 }
 
 document.addEventListener("DOMContentLoaded", function() {
