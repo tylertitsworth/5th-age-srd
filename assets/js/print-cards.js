@@ -1,3 +1,24 @@
+//Taken from power-cards.js
+//TODO: Remember how to include a single function from another JS file
+function checkFeats(siblingNode){
+  if(!siblingNode){
+      return false
+  }
+  if(siblingNode.id.indexOf("adventurer-feat") > -1 || siblingNode.id.indexOf("champion-feat") > -1 || siblingNode.id.indexOf( "epic-feat") > -1){
+    console.log("ID: ", siblingNode.id)
+    return true
+  }
+
+  return false
+}
+
+function createEmptyDiv(){
+  var emptyDiv = document.createElement("div")
+  emptyDiv.classList.add("powerCard")
+  emptyDiv.classList.add("cardBack")
+  return emptyDiv
+}
+
 //https://stackoverflow.com/questions/9333379/check-if-an-elements-content-is-overflowing
 //NOTE: This only works if the element in question has overflow set to hidden!
 function isOverflown(element) {
@@ -10,18 +31,26 @@ function isOverflown(element) {
 //detect overflows, rework to add to dom temporaryily to change effects
 
 //Recursively calls itself to prune a card
-function pruningHandler(card, wrapper){
+function pruningHandler(card, wrapper,cardNumber){
   var processedCard = pruneCard(card)
+  insertCardNumber(processedCard, cardNumber)
   wrapper.appendChild(processedCard)
   if(isOverflown(processedCard)){
-    pruningHandler(processedCard, wrapper)
+    pruningHandler(processedCard, wrapper, cardNumber + 1)
   }
 
   return
 }
 
+function insertCardNumber(card, cardNumber){
+  
+  var paragraphNode = document.createElement("p")
+  paragraphNode.innerHTML = cardNumber
+  paragraphNode.classList.add("cardNumber")
+  card.insertBefore(paragraphNode, card.children[0])
+}
+
 //Prunes the card and returns the overflowing elements
-//TODO: Check if the next element is a heading, if so, push it as well
 //TODO: Add card numbers to each card
 //TODO: Add main card headings to each card
 //TODO: TEST REALLY BIG TABLES, THEY FAIL
@@ -29,17 +58,29 @@ function pruningHandler(card, wrapper){
 //When I append something to something else, it actually removes from intial data structure
 //And appends to the new one, shrinking the data structure
 //As I increment, the length of the list is decremented, resulting in the above behavior
+//Or it might be because if I use get elements by ____ I don't get a proper list of nodes
+//I've noticed that using query selector works better, I should use it more
 function pruneCard(card){
   var over = []
   var pushNumber = 0
   while(1){
-    pushNumber += 1
     over.push(card.lastElementChild.outerHTML)
     // console.log("Inner HTML")
     // console.log(card.lastElementChild.innerHTML)
     // console.log("Outer HTML")
     // console.log(card.lastElementChild.outerHTML)
     card.lastElementChild.remove()
+    pushNumber++
+    //Check if the next line is a heading
+    //If it is, we want to try and group it with it's text
+    //So push it too
+    // console.log(card.lastElementChild.outerHTML)
+    if(checkFeats(card.lastElementChild)){
+      over.push(card.lastElementChild.outerHTML)
+      console.log(card.lastElementChild.outerHTML)
+      card.lastElementChild.remove()
+      pushNumber++
+    }
     if(!isOverflown(card)){
       break
     }
@@ -77,28 +118,27 @@ function overflowHandling(cards){
    var intialLength = cards.length
    var wrapper = document.getElementById("content-wrapper");
    var prunedCardArray = document.createElement("div")
-    console.log("WAT")
+    // console.log("WAT")
     console.log(cards)
     for(let i = 0; i < intialLength; i++){
       console.log("Card number " + i)
+      insertCardNumber(cards[i], 1)
       wrapper.appendChild(cards[i])
         //console.log(cards[i].innerHTML)
       if(isOverflown(cards[i])){
           //console.log("OVERFLOW at ", i)
-          pruningHandler(cards[i], wrapper)
+          pruningHandler(cards[i], wrapper, 2)
           // var cardContainer = document.createElement("div")
           var divsToMove = wrapper.querySelectorAll(".powerCard")
           var divsToMoveLength = divsToMove.length
-          console.log("MOVING")
-          console.log(divsToMove)
+          // console.log("MOVING")
+          // console.log(divsToMove)
           for(let j = 0; j < divsToMoveLength; j++){
             prunedCardArray.appendChild(divsToMove[j])
           }
           //If the length is odd 
           if(divsToMoveLength % 2){
-            var emptyDiv = document.createElement("div")
-            emptyDiv.classList.add("powerCard")
-            prunedCardArray.appendChild(emptyDiv)
+            prunedCardArray.appendChild(createEmptyDiv())
           }
           // prunedCardArray.push(cardContainer)
           // var prunedCard = pruneCard(cards[i])
@@ -119,14 +159,12 @@ function overflowHandling(cards){
           // }
         }
         else{
-          console.log("only one card")
+          // console.log("only one card")
           // var cardContainer = document.createElement("div")
           var divToMove = wrapper.querySelector(".powerCard")
           prunedCardArray.appendChild(divToMove)
 
-          var emptyDiv = document.createElement("div")
-          emptyDiv.classList.add("powerCard")
-          prunedCardArray.appendChild(emptyDiv)
+          prunedCardArray.appendChild(createEmptyDiv())
           // console.log(cardContainer.innerHTML)
           // prunedCardArray.push(cardContainer)
         }
@@ -136,17 +174,15 @@ function overflowHandling(cards){
     console.log(prunedCardArray)
     var divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
     var divsInContainerLength = divsInContainer.length
-    console.log("Number of divs: ", divsInContainerLength)
+    // console.log("Number of divs: ", divsInContainerLength)
     while(divsInContainerLength % 3){
-      var emptyDiv = document.createElement("div")
-      emptyDiv.classList.add("powerCard")
-      prunedCardArray.appendChild(emptyDiv)
+      prunedCardArray.appendChild(createEmptyDiv())
       divsInContainerLength++
     }
 
     divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
     divsInContainerLength = divsInContainer.length
-    console.log("Number of divs: ", divsInContainerLength)
+    // console.log("Number of divs: ", divsInContainerLength)
 
         // for(var j = 0; j < divsInContainerLength; j++){
         // wrapper.appendChild(divsInContainer[j])
@@ -221,9 +257,9 @@ function printPage(){
    // sheet.setAttribute("href", "../assets/css/powerPrintRescale.css")
   //  var cards = document.getElementsByClassName("powerCard")
   //  overflowHandling(cards)
-  window.print()
+//  window.print()
   console.log("Printing lmao")
-  window.close()
+ // window.close()
 }
 
 document.addEventListener("DOMContentLoaded", function() {

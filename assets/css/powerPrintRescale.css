@@ -146,8 +146,21 @@ hr {
     min-height: 5in;
     max-width: 3in;
     max-height: 5in; }
+    #content-wrapper div .cardNumber{
+      font-size: 12px;
+      float: right;
+      position: relative;
+      bottom: 10px;
+      font-weight: bold;
+
+    }
+    #content-wrapper .cardBack {
+      visibility: hidden;
+    }
+    
     #content-wrapper div hr {
       display: none; }
     #content-wrapper div table {
       display: visible; }
+
   
