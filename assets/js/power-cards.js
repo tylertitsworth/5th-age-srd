@@ -4,11 +4,10 @@ function checkFeats(siblingNode){
         return false
     }
     if(siblingNode.classList.contains("adventurer-feat") || siblingNode.classList.contains("champion-feat") || siblingNode.classList.contains("epic-feat")){
-       return true
+        return true
     }
     return false
 }
-
 
 //Gathers all the highlighted text and sends them and the user to the print page
 function powerPrint() {
@@ -39,8 +38,8 @@ function powerPrint() {
         cards += cardScript
     }
 
-     localStorage.setItem("cardsToPrint", cards)
-     window.open("../assets/html/printing_identification.html", '_blank');     
+    localStorage.setItem("cardsToPrint", cards)
+    window.open("../assets/html/printing_identification.html", '_blank');     
 }
 
 //Highlights heading if clicked
@@ -78,4 +77,4 @@ function addPrintBehavior(){
 
 document.addEventListener("DOMContentLoaded", function() {
     addPrintBehavior()
-  })
+})
