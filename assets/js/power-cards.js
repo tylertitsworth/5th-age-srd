@@ -70,8 +70,11 @@ function addPrintBehavior(){
     var anchors = document.getElementsByClassName("heading-anchor")
     for(var i = 0; i < anchors.length; i++){
         anchors[i].href = "javascript: void(0)"
-        // console.log(anchors[i].parentElement)
-        // console.log(anchors[i].parentNode)
+        // console.log(anchors[i].parentNode.parentNode.innerHTML)
+        // console.log(anchors[i].parentNode.parentNode.childNodes.length)
+        if(anchors[i].parentElement.nextElementSibling.tagName === "DIV"){
+            continue
+        }
         anchors[i].parentElement.addEventListener("click", function(){
             highlightingListener(this.parentElement)
         })
