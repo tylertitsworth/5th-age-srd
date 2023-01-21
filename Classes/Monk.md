@@ -60,9 +60,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -71,12 +69,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | Armor Class (no/light armor) | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d8 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Relationships** | 3 points |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -289,11 +287,11 @@ _Special:_ If you use Fire Fist in a battle, you can’t use any other Deadly Se
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Effect:** Until the end of the battle, if the escalation die is 1+, your JAB, PUNCH and KICK attacks deal fire damage, and you deal 1d4 extra damage on a hit.
 
@@ -333,7 +331,7 @@ Melee attack
 
 At-Will (once per round), when the escalation die is 3+
 
-Quick action
+Quick Action
 
 **Target:** One enemy
 
@@ -367,11 +365,11 @@ _Special:_ If you use Freezing Fist in a battle, you can’t use any other Deadl
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
-Free action
+Free Action
 
 **Trigger:** You hit with an unarmed melee attack.
 
@@ -439,7 +437,7 @@ You no longer take opportunity attacks when you make ranged attacks while engage
 
 #### Ki Power
 
-_Wind from Heaven_: You can spend 1 point of ki to regain your Heaven's Arrow power when it's expended.
+_Wind from Heaven:_ You can spend 1 point of ki to regain your Heaven's Arrow power when it's expended.
 
 ##### Adventurer Feat
 
@@ -481,7 +479,7 @@ When you wield a two-handed weapon, use Strength instead of Dexterity for the at
 
 #### Ki Power
 
-_Soulblade:_ As a free action, spend a ki point to imbue a weapon you wield as a true magic item for a +1 bonus to attacks and damage, +2 at 5th level, and +3 at 8th until the end of the battle. On your next hit with it, deal one extra WEAPON die damage, twice at 5th level, and thrice at 8th.
+_Soulblade:_ As a free action, spend a ki point to imbue a weapon you wield as a true magic item for a +1 bonus to attacks and damage, +2 at champion tier, and +3 at epic tier until the end of the battle. On your next hit with it, deal one extra WEAPON die damage, twice at champion tier, and thrice at epic tier.
 
 ##### Adventurer Feat
 
@@ -549,7 +547,7 @@ _Yamiuchi:_ When you hit with a melee attack against an enemy that is also engag
 
 If you wish, any time an element of the monk class refers to Wisdom, you can replace that element with a reference to Charisma.
 
-In addition, while you're staggered, when you roll a natural even attack roll, you heal damage equal to your Strength modifier or your Wisdom modifier, double that modifier at 5th level, and triple it at 8th level.
+In addition, while you're staggered, when you roll a natural even attack roll, you heal damage equal to your Strength modifier or your Wisdom modifier, double that modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -561,7 +559,7 @@ The first time you die after taking this feat, you are resurrected at a place of
 
 #### Ki Power
 
-_Imperial Phoenix Flare_: Once per full recovery when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
+_Imperial Phoenix Flare:_ Once per full recovery when you are staggered, you can spend 1 point of ki to heal using a recovery. You heal half the hit points you roll for the recovery, and one enemy engaged with you of your choice takes the other half in fire damage.
 
 ##### Adventurer Feat
 
@@ -665,11 +663,11 @@ _Special:_ If you use Death Touch in a battle, you can’t use any other Deadly 
 
 You gain the following power:
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
-Free action
+Free Action
 
 **Trigger:** You hit an enemy with an unarmed melee attack.
 
@@ -702,7 +700,7 @@ If the spell is at-will, you can cast it in place of a flow attack. If the spell
 
 #### Ki Power
 
-_Gather the Flame:_You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At 8th level, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
+_Gather the Flame:_You can spend 1 point of ki when you cast your Disciple of the Hidden Flame spell to cast it as if you possessed the adventurer-tier and champion-tier feat for that spell, if any. At epic tier, treat the spell like you possessed the epic-tier feat for it, if any, when you spend the ki.
 
 ---
 
@@ -896,7 +894,7 @@ Melee attack
 
 **Hit:** PUNCH + Strength damage.
 
-_Natural Even Hit:_ As a hit, plus each enemy engaged with you takes 1d6 damage (2d6 damage at 5th level; 4d6 damage at 8th level).
+_Natural Even Hit:_ As a hit, plus each enemy engaged with you takes 1d6 damage, 2d6 damage at champion tier, and 4d6 damage at epic tier.
 
 _Natural Even Miss:_ Half damage.
 
@@ -986,7 +984,7 @@ Melee attack
 
 **Hit:** JAB + Strength damage
 
-**Cycle bonus**: You take a -2 penalty to AC, but all JAB, PUNCH and KICK damage dice are exploding dice (including this attack).
+**Cycle bonus:** You take a -2 penalty to AC, but all JAB, PUNCH and KICK damage dice are exploding dice (including this attack).
 
 **Miss:** Damage equal to your level. You can spend a ki point to gain the cycle bonus.
 
@@ -1053,7 +1051,7 @@ _Cycle bonus:_ You can spend a ki point as a free action to give the next attack
 
 ##### Adventurer Feat
 
-If an enemy misses you with a melee attack during this cycle, deal psychic damage equal to your Wisdom modifier, twice at 5th level, and thrice at 8th.
+If an enemy misses you with a melee attack during this cycle, deal psychic damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ---
 
@@ -1161,7 +1159,7 @@ Melee attack
 
 **Hit:** JAB + Strength fire damage
 
-_Cycle bonus:_ Whenever an enemy makes a melee attack against you, deal fire damage equal to your Wisdom modifier, twice at 5th level, and thrice x3 at 8th to the attacker.
+_Cycle bonus:_ Whenever an enemy makes a melee attack against you, deal fire damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier to the attacker.
 
 **Miss:** Damage equal to your level. You can spend a ki point to gain the cycle bonus.
 
@@ -1189,7 +1187,7 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC. If the target is taking ongoing fire damage, you have advantage on the attack roll.
 
-**Hit:** KICK + Strength fire damage. Deal fire damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) to 1d4 nearby enemies.
+**Hit:** KICK + Strength fire damage. Deal fire damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.to 1d4 nearby enemies.
 
 **Miss:** Damage equal to your level
 
@@ -1382,7 +1380,7 @@ Melee attack
 
 **Attack:** Dexterity + Level vs. AC
 
-**Hit:** PUNCH + Wisdom damage. You or a nearby conscious ally can heal hit points equal to 1d4 + your Wisdom modifier (2d4 + Wis x2 at 5th level; 4d4 + Wis x3 at 8th).
+**Hit:** PUNCH + Wisdom damage. You or a nearby conscious ally can heal hit points equal to 1d4 + your Wisdom modifier. Increase the healing to 2d4 + Wis twice at champion tier, and 4d4 + Wis thrice at epic tier.
 
 **Miss:** The target takes a -2 penalty to attacks against you until the end of your next turn.
 
@@ -2067,7 +2065,7 @@ Melee attack
 
 _Cycle bonus:_ When you miss with an attack, deal extra cold damage equal to twice your Wisdom modifier, thrice at 8th level.
 
-**Miss:** Damage equal to your level + twice your Wisdom modifier (x3 at 8th level). You can spend a ki point to gain the cycle bonus.
+**Miss:** Damage equal to your level + twice your Wisdom modifier (thrice at 8th level). You can spend a ki point to gain the cycle bonus.
 
 ##### Champion Feat
 
@@ -2093,7 +2091,7 @@ Target: All enemies you are engaged with
 
 #### Finishing Attack (Avalanche Breath)
 
-Close-quarters power
+Close-Quarters Power
 
 **Target:** 1d3 nearby enemies
 
@@ -2461,7 +2459,7 @@ Melee attack
 
 #### Opening Attack (The Dragon Awakens)
 
-Close-quarters power
+Close-Quarters Power
 
 **Effect (cycle bonus):** For the current attack cycle, you change your shape into a humanoid-sized dragon. You can fly and you have resist fire 16+. Once per round, you can spend a ki point to make the following breath weapon attack as a quick action.
 

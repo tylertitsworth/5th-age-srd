@@ -64,9 +64,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 (H): Indicates columns in which hybrid characters lag one level behind
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -75,9 +73,9 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d8 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d8 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -533,7 +531,9 @@ Bardic Song
 
 Recharge 11+ after battle
 
-Quick action each turn; 11+ to sustain
+Quick Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** You and your nearby allies gain a +1 attack bonus until the start of your next turn.
 
@@ -554,7 +554,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 6+ to sustain
+Quick Action each turn
+
+6+ to sustain
 
 **Opening & Sustained Effect:** Any attack against you takes a penalty equal to the number of your allies in the battle who have more hit points than you.
 
@@ -709,7 +711,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A musical instrument
 
@@ -870,7 +872,9 @@ Bardic Song
 
 Recharge 16+ after battle
 
-Quick action each turn; 11+ to sustain
+Quick Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** Choose an enemy. You and all nearby allies are immune to its fear aura (if any), and gain a +2 bonus to saves against any save ends effects it imposes.
 
@@ -892,7 +896,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 11+ to sustain
+Quick Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** You or a nearby ally gains 3d6 temporary hit points.
 
@@ -932,7 +938,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 16+ to sustain
+Quick Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** All nearby allies gain a +2 bonus to their AC against melee attacks.
 
@@ -950,7 +958,9 @@ Bardic Song
 
 Full Recovery
 
-Standard action each turn; 11+ to sustain
+Standard Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** Make the following attack against 1d4 + 1 nearby enemies.
 
@@ -1234,7 +1244,9 @@ Bardic Song
 
 Recharge 11+ after battle
 
-Quick action each turn; 11+ to sustain
+Quick Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** Choose a nearby ally to gain an extra move action during the next turn.
 
@@ -1253,7 +1265,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 16+ to sustain
+Quick Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** Until the start of your next turn, you and your nearby allies who cast spells that are normally expended by being cast can roll a d20 after casting the spell. On a 16+, the spell is not expended.
 
@@ -1272,7 +1286,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 6+ to sustain
+Quick Action each turn
+
+6+ to sustain
 
 **Opening & Sustained Effect:** All nearby enemies take a -2 penalty to their saves. If an enemy fails a save, it takes psychic damage equal to your level (but note that a natural 18+ on a save always succeeds).
 
@@ -1517,7 +1533,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action; 6+ to sustain
+Quick Action
+
+6+ to sustain
 
 **Opening & Sustained Effect:** A melee weapon you are holding flies out to make a melee attack on its own. Make a melee basic attack (no battle cries) against a nearby enemy.
 
@@ -1535,7 +1553,9 @@ Bardic Song
 
 Full Recovery
 
-Standard action each turn; 16+ to sustain
+Standard Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** Make the following against the 1d3 nearby enemies with the lowest hit point total.
 
@@ -1559,7 +1579,9 @@ Bardic Song
 
 Full Recovery
 
-Standard action each turn; 16+ to sustain
+Standard Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** Each nearby ally who hits at least one enemy with an attack during their turn can heal using a recovery.
 
@@ -1577,7 +1599,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action; 6+ to sustain
+Quick Action
+
+6+ to sustain
 
 **Opening & Sustained Effect:** Choose a nearby ally who made an attack last turn. You and your other nearby allies gain the damage type that the chosen ally used for your next attack.
 
@@ -1595,7 +1619,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 16+ to sustain
+Quick Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** Each nearby enemy that has fewer hit points than you is dazed until the end of your next turn.
 
@@ -1651,7 +1677,7 @@ This spell allows you to achieve a feat with your voice that would normally requ
 
 Close-quarters Spell
 
-Quick action to cast
+Quick Action to cast
 
 Recharge 16+ after battle
 
@@ -1765,7 +1791,9 @@ Bardic Song
 
 Full Recovery
 
-Quick action each turn; 11+ to sustain
+Quick Action each turn
+
+11+ to sustain
 
 **Opening & Sustained Effect:** Later this turn, you can add 1 to the natural result of one ally's d20 roll. Then, afterwards, you can subtract 1 from the natural result of an enemy's d20 roll.
 
@@ -1777,7 +1805,9 @@ Quick action each turn; 11+ to sustain
 
 Bardic Song
 
-Quick action each turn; 6+ sustain
+Quick Action each turn
+
+6+ sustain
 
 **Opening & Sustained Effect:** Spend a recovery and divide the healing among nearby allies as you wish. Every ally you heal can immediately makes a save (at whatever difficulty would otherwise apply) to end any condition (stunned, vulnerable, and so on) suffered. If an ally is afflicted with multiple conditions, save against each of them separately.
 
@@ -1789,7 +1819,9 @@ Quick action each turn; 6+ sustain
 
 Bardic Song
 
-Standard action each turn; 16+ to sustain
+Standard Action each turn
+
+16+ to sustain
 
 **Opening & Sustained Effect:** Make the following attack against a nearby enemy.
 

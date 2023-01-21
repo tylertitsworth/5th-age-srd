@@ -25,9 +25,9 @@ Damage totals for your attacks are calculated by adding one ability score modifi
 
 Calculate the ability modifier subtracting 10 from the ability score, halving the result, then rounding down.
 
-At 5th level, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
+At champion tier, double the ability score modifier before adding to the damage roll for all attacks. (Negative modifiers get are doubled too).
 
-At 8th level, quadruple the ability score modifier.
+At epic tier, quadruple the ability score modifier.
 
 Spells indicate a specific number of dice to roll for damage. Weapon attacks work differently.
 
@@ -210,29 +210,17 @@ A creature's position amounts to two things: the creature's whereabouts, and who
 
 ---
 
-#### Whereabouts
+### Whereabouts
 
 Each creature has a general, relative position on the battlefield. Combat is dynamic and fluid, so miniatures can't really represent where a character "really is."
-
----
 
 #### Nearby
 
 Generally, all the heroes and their enemies in a battle are nearby. That means they can reach each other with a single move action.
 
----
-
 #### Behind
 
 If you're behind an unengaged ally, and an enemy moves past that ally to get to you, your ally has the option to move and intercept.
-
----
-
-#### Intercepting
-
-You intercept a creature when you move to stop an enemy attempting to rush past you to attack someone else. You must be near the enemy and the person that enemy is trying to reach.
-
----
 
 #### Far Away
 
@@ -240,23 +228,13 @@ Generally, the heroes and their enemies are nearby each other and you can use a 
 
 ---
 
-#### Engaged/Next to
-
-In a battle, each combatant is either engaged (locked in combat with one or more enemies) or unengaged (free). When two allies are engaged with the same enemy, they are considered next to each other.
-
----
-
 ### Movement and Melee
 
 The combat system cares about movement and position, but only in simple/approximate terms. It emphasizes where people are and who's fighting whom.
 
----
-
 #### Free
 
 By default, characters in a battle are free. They can move freely, use ranged attacks, engage in battle, etc. If they try to move past a free enemy, however, that foe usually has the option to intercept them.
-
----
 
 #### Engaged
 
@@ -288,15 +266,11 @@ Disengaging uses a move action. If you succeed, it's like getting popped free at
 
 When a creature gets to make an opportunity attack, it can make a basic melee attack against that foe as a free action during the turn of the creature that is provoking the opportunity attack. You can only use a basic melee attack.
 
----
-
 #### Intercepting
 
 If you move past someone who is not already engaged, they have the option to engage you and make you stop where they are as an interrupt action. The GM rules on what counts as moving "past" a defending character or enemy.
 
 Only one creature can intercept a single enemy moving past them at a time.
-
----
 
 #### Targeting
 
@@ -306,19 +280,13 @@ A spell or area-style effect that targets multiple nearby enemies in a group can
 
 When a spell or power targets a nearby enemy, ally, or creature, you can't target yourself unless it is explicitly stated that you can also be a target.
 
----
-
 #### Special Cases
 
 Here are rules for special situations involving movement and melee.
 
----
-
 ##### Allies
 
 Powers and spells in various classes are written with the understanding that a character's allies are the other PCs in the party with a possible addition for an animal companion. NPCs don't count as allies for abilities that are counting the number of allies that meet certain conditions.
-
----
 
 ##### Ambushes and Surprise
 
@@ -327,8 +295,6 @@ In situations when one side ambushes or surprises the other, start by letting th
 Only two creatures get to act in the ambush round: the nominated ambusher and their highest initiative ally. The GM can choose whether to advance the escalation die after the surprise round.
 
 Then roll initiative for the side that got ambushed and play normal combat rounds.
-
----
 
 ##### Stunts
 
@@ -386,15 +352,11 @@ When you use an attack, you declare which attack you are using and pick its targ
 
 Any ranged attack (weapon, spell, power, ability, or whatever) draws opportunity attacks from enemies engaged with you.
 
----
-
 #### Spell Attacks
 
 Most spells draw opportunity attacks from enemies engaged with you, even the enemies you target with the spell. Close-quarters spells are the exception; they don't draw opportunity attacks.
 
 Like weapon attacks, you add your level to the attack roll for spell attacks, plus any magical implement or other bonuses you might have.
-
----
 
 #### Target Hit Points
 
@@ -406,15 +368,11 @@ Some spells and effects target creatures with a certain number of hit points or 
 
 Every attack roll that is natural 20 is a crit ("critical hit") for double damage.
 
----
-
 #### Crit Effects
 
 Standard crits deal double damage and, at the GM's discretion, might entail some additional superior result.
 
 If you manage to double your crit damage (through the effect of a talent, power, spell or other source), triple it instead. If you manage to double your triple damage, bump it up to quadruple, and so on.
-
----
 
 #### Crit Range
 
@@ -478,7 +436,7 @@ Each PC starts the adventure with 7-10 recoveries, a stat that represents the PC
 
 When you use a recovery, regain lost hit points by rolling recovery dice equal to your level and adding your Constitution modifier. Your class indicates which recovery die to use. At 7th level PCs get to roll [more](../Classes/README.md#recovery-dice-progression) recovery dice.
 
-At 5th level, double the bonus you get from your Con modifier. At 8th level, triple it.
+At champion tier, double the bonus you get from your Con modifier. At epic tier, triple it.
 
 If you perform an action that requires a recovery but have none left, you get half the healing you would otherwise get and take a –1 penalty to all defenses and attack rolls until your next full heal-up. This penalty stacks for each recovery used that you don't possess.
 
@@ -578,55 +536,37 @@ Once engaged in battle, attacks against invisible enemies have a 50% chance to m
 
 You can only be affected by the same condition once at a time. The worst one affects you and the lesser effects are ignored. Similarly, penalties from these conditions don't stack.
 
----
-
 #### Confused
 
 You can't make opportunity attacks or use your limited powers. Your next attack action will be a basic or at-will attack against any nearby ally, determined randomly.
-
----
 
 #### Dazed
 
 You take a –4 penalty to attacks.
 
----
-
 #### Fear
 
 Fear dazes you and prevents you from using the escalation die.
-
----
 
 #### Hampered
 
 You can only make basic attacks. You can still move normally.
 
----
-
 #### Helpless
 
 If you're unconscious or asleep, you're helpless. While helpless, you take a –4 penalty to all defenses and you can be the target of a coup de grace.
-
----
 
 #### Stuck
 
 You can't move, disengage, pop free, change your position, or let anyone else move you without teleporting.
 
----
-
 #### Stunned
 
 You suffer a –4 penalty to defenses and can't take any actions.
 
----
-
 #### Vulnerable
 
 The first time an attack you are vulnerable to misses you each turn, the attacker can reroll the attack once. You don’t get to reroll every attack against a creature that’s vulnerable to your attacks, just the first missed attack each turn.
-
----
 
 #### Weakened
 

@@ -261,7 +261,7 @@ You lag one level behind in the spells known columns of the Necromancer Level Pr
 
 You gain the focus required to use a serious occultist spell by using your standard action during your turn to set that up. But when you have your occultist focus, you don't get to use actions and powers and spells from other classes.
 
-You lag one level behind in the spells known columns of the Occultist Level Progression table. You also won't get the occultist's normal bonus talents at 5th level and 8th level, instead receiving them at 6th level and 9th level.
+You lag one level behind in the spells known columns of the Occultist Level Progression table. You also won't get the occultist's normal bonus talents at champion and epic tier, instead receiving them at 6th level and 9th level.
 
 ### Wider Focus
 
@@ -273,7 +273,7 @@ Once per battle, you can use a power, spell, or other effect from a different cl
 
 ## Paladin Hybrid
 
-You don't get the paladin's normal bonus talents at 5th and 8th level, instead receiving them at 6th level and 9th level.
+You don't get the paladin's normal bonus talents at champion tier and epic tier, instead receiving them at 6th level and 9th level.
 
 ### Armored in Life
 
@@ -293,7 +293,7 @@ Two battles per full recovery, avoid all attack penalties for wearing heavy armo
 
 You lag one level behind in the three central columns of the Psion Level Progression table: full recovery spells, once-per-battle spells, and spell level.
 
-Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. One your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
+Three of the six possible random options from your affinity list now correspond to your other class. When your class is chosen, any warp effects or high weirdness you've got going on from a previous psion turn end. On your next turn, you must use a standard action attack from your non-psion class, just as if you had chosen a psionic affinity from your standard three psionic types.
 
 If your psionic talents allow you to draft random spells from other classes (Stench of Necromancy, Touch of Wizardry, Trace of the Divine, and Whiff of Sorcery), those spells remain with the attack or defense slots you assigned them to as usual.
 
@@ -313,7 +313,7 @@ If you invested in high weirdness, your high weirdness effects don't stop when y
 
 ## Ranger Hybrid
 
-Like the paladin, your Level Progression table doesn't have many class-specific elements. You won't get the ranger's normal bonus talents at 5th and 8th level, instead receiving them at 6th level and 9th level.
+Like the paladin, your Level Progression table doesn't have many class-specific elements. You won't get the ranger's normal bonus talents at champion tier and epic tier, instead receiving them at 6th level and 9th level.
 
 Unless you've hybrid'ed with one of the other skilled weapon-using classes, your damage dice for the Double Melee Attack and Double Ranged Attack talents drop down another size (usually from d6s to d4s) as a hybrid ranger.
 

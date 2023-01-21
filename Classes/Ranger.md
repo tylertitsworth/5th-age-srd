@@ -62,9 +62,7 @@ Rangers start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -73,12 +71,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 14 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -115,7 +113,7 @@ At-Will
 
 Choose three of the following class talents, or put two talents into Animal Companion, and one talent elsewhere.
 
-You get an additional ranger class talent at 5th level, and again at 8th level.
+You get an additional ranger class talent at champion tier, and again at epic tier.
 
 ### Animal Companion
 
@@ -330,7 +328,7 @@ Increase the extra damage to 1d6 per level.
 
 **Cost:** 1 charge
 
-**Effect:** On a hit, whenever the target takes an action before the end of your next turn, it takes cold damage equal to your level + Wisdom modifier (x2 at 5th level; x3 at 8th).
+**Effect:** On a hit, whenever the target takes an action before the end of your next turn, it takes cold damage equal to your level + Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ###### Adventurer Feat
 
@@ -1093,21 +1091,21 @@ _Egoist:_ When an enemy scores a critical hit against you, you gain a free use o
 
 #### Inescapable Wrath
 
-Close-quarters power
+Close-Quarters Power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** Your Oath of Vengeance target disengages or moves away from you.
 
-**Effect:** Make a save. If your save is equal to the enemy’s disengage check or higher, you pursue the enemy and stay engaged while they move. Succeed or fail, you add twice your Wisdom modifier (x3 at 8th level) to damage if your next attack against the target is a hit.
+**Effect:** Make a save. If your save is equal to the enemy’s disengage check or higher, you pursue the enemy and stay engaged while they move. Succeed or fail, you add twice your Wisdom modifier (thrice at 8th level) to damage if your next attack against the target is a hit.
 
 ---
 
 #### Relentless Pursuit
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle
 
@@ -1169,7 +1167,7 @@ When an enemy engages you, you can make a melee basic attack against that enemy 
 
 #### Epic Feat
 
-Your Bladestorm attacks deal extra damage equal to your Wisdom modifier x3.
+Your Bladestorm attacks deal extra damage equal to your Wisdom modifier thrice.
 
 ---
 
@@ -1209,7 +1207,7 @@ Close-quarter power
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** You are hit by an attack
 

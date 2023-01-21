@@ -64,9 +64,7 @@ The occultist start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -75,12 +73,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, and Feats are level dependent
 | **Armor Class (no/light armor)** | 11 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
-| **Talents** | 4 (see [level progression chart](#level-progression)) |
+| **Relationships** | 3 points |
+| **Talents** | 4 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -174,7 +172,7 @@ _Karmic rebuke_ requires a quick action instead of an interrupt action. It's des
 Close-quarters Spell
 
 **At-Will**
-Quick action to cast
+Quick Action to cast
 
 Expend Focus
 
@@ -219,7 +217,7 @@ Once per full recovery, you can automatically succeed on a recharge roll.
 
 ## Class Talents
 
-Choose four of the following class talents. You get an additional occultist class talent at 5th level, and again at 8th level.
+Choose four of the following class talents. You get an additional occultist class talent at champion tier, and again at epic tier.
 
 ### Air of Exuberance
 
@@ -227,7 +225,7 @@ You can replace Intelligence with Charisma when casting your occultist spells. Y
 
 #### Adventurer Feat
 
-Whenever you retain focus with an Occultist spell, you gain temporary hit points equal to your Charisma modifier, twice at 5th level, and thrice at 8th).
+Whenever you retain focus with an Occultist spell, you gain temporary hit points equal to your Charisma modifier, twice at champion tier, and thrice at epic tier).
 
 #### Champion Feat
 
@@ -249,7 +247,7 @@ Close-quarters Spell
 
 At-will
 
-Quick action
+Quick Action
 
 expends focus
 
@@ -313,7 +311,7 @@ You can use an edged melee weapon without an attack penalty. You can use Intelli
 
 #### Adventurer Feat
 
-Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at 5th level, and triple it at 8th level.
+Twice per full recovery when an enemy engaged with you misses you with an attack, you can deal ongoing damage to it equal to your Wisdom modifier + Level as you give it a quick slice you're your weapon, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -377,7 +375,7 @@ Close-quarters Spell
 
 At-will
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -385,7 +383,7 @@ Expends focus
 
 ##### Adventurer Feat
 
-Add your Wisdom modifier to the amount healed, twice at 5th level, and thrice at 8th).
+Add your Wisdom modifier to the amount healed, twice at champion tier, and thrice at epic tier).
 
 ##### Champion Feat
 
@@ -564,7 +562,7 @@ When you cast a spell that targets Mental Defense and the target has a higher MD
 
 #### Adventurer Feat
 
-When you cast a spell that twists, you gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level).
+When you cast a spell that twists, you gain temporary hit points equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -606,7 +604,7 @@ Close-quarters Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -625,7 +623,7 @@ Expends focus
 
 ##### Champion Feat
 
-Hit or miss, deal lightning damage equal to your Wisdom modifier, twice at 5th level, and thrice at 8th level, to 1d4 nearby enemies.
+Hit or miss, deal lightning damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier, to 1d4 nearby enemies.
 
 ##### Epic Feat
 
@@ -669,7 +667,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Expends focus
 
@@ -727,7 +725,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -766,7 +764,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -797,7 +795,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -816,7 +814,7 @@ Expend Focus
 
 #### Adventurer Feat
 
-The triggering ally adds hit points equal to your Wisdom modifier to the recovery (double your Wisdom modifier at 5th level; triple it at 8th level).
+The triggering ally adds hit points equal to your Wisdom modifier to the recovery, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
 #### Champion Feat
 
@@ -834,7 +832,7 @@ Close-quarters Spell
 
 Recharge 16+ after the battle / scene
 
-Interrupt action
+Interrupt Action
 
 Expend Focus
 
@@ -858,7 +856,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -893,7 +891,7 @@ Close-quarters Spell
 
 At-will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend focus
 
@@ -930,7 +928,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -973,7 +971,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1012,7 +1010,7 @@ Close-quarters Spell
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1051,7 +1049,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1079,7 +1077,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1096,7 +1094,7 @@ Expend focus
 
 #### Adventurer Feat
 
-Nearby allies that you didn’t target with the effect can heal hit points equal to your Wisdom modifier (x2 at 5th level; x3 at 8th).
+Nearby allies that you didn’t target with the effect can heal hit points equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.
 
 ---
 
@@ -1122,7 +1120,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1167,7 +1165,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1209,7 +1207,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1231,7 +1229,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1267,7 +1265,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1299,7 +1297,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1333,7 +1331,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1371,7 +1369,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1405,7 +1403,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1427,7 +1425,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1463,7 +1461,7 @@ Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1481,7 +1479,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend focus
 
@@ -1512,7 +1510,7 @@ If you fail to retain focus with this spell, you can pop free from all enemies a
 
 ### Awe-Inspiring Presence
 
-Close-quarters power
+Close-Quarters Power
 
 Recharge 16+ after the scene
 
@@ -1532,7 +1530,7 @@ Close-quarters Spell
 
 At-Will
 
-Free action to cast
+Free Action to cast
 
 **Trigger:** You drop to 0 hp or below or roll a death save.
 
@@ -1559,7 +1557,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1590,7 +1588,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1624,7 +1622,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1657,7 +1655,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1692,7 +1690,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Quick action
+Quick Action
 
 **Effect:** This battle, you can take a second interrupt action between your turns. When you do, you lose the standard action on your next turn.
 
@@ -1704,7 +1702,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Quick action
+Quick Action
 
 **Target:** A nearby ally
 
@@ -1729,7 +1727,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1757,7 +1755,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1801,7 +1799,7 @@ Close-quarters Spell
 
 At-Will
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1827,7 +1825,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 
@@ -1869,7 +1867,7 @@ Close-quarters Spell
 
 Recharge 6+ after battle
 
-Interrupt action to cast
+Interrupt Action to cast
 
 Expend Focus
 
@@ -1891,7 +1889,9 @@ Close-quarters Spell
 
 Once per level
 
-Standard action to cast; you can only cast this spell out of battle
+Standard Action to cast
+
+You can only cast this spell out of battle
 
 **Trigger:** You realize that the last two minutes of out of battle roleplay or existence have gone horribly wrong and you want to rewind and try to redirect reality in a manner that you wish.
 
@@ -1909,7 +1909,7 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Interrupt action
+Interrupt Action
 
 Expend focus
 

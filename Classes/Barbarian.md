@@ -62,9 +62,7 @@ Barbarians start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -74,12 +72,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and light armor)** | 13 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d12 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d12 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -112,9 +110,7 @@ At-Will
 
 ---
 
-## Class Feature
-
-All barbarians have the Barbarian Rage class feature.
+## Class Features
 
 ### Barbarian Rage
 
@@ -186,7 +182,7 @@ Resolve the attack normally. Your target’s MD is reduced by half your level fo
 
 ## Adventurer Talents
 
-Choose three of the following adventurer-tier class talents. You also get an additional barbarian class talent at 5th level and again at 8th level.
+Choose three of the following adventurer-tier class talents. You also get an additional barbarian class talent at champion and epic tier.
 
 ### Barbaric Cleave
 
@@ -477,7 +473,7 @@ You can use Whirlwind anytime during your turn, not just as the first action.
 
 ## Champion Talents
 
-At 5th level, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
+At champion tier, you gain an additional barbarian class talent. Choose one of these champion-tier talents or take another adventurer-tier talent.
 
 ### Awaken the Fury
 
@@ -625,7 +621,7 @@ The bonus increases to +1d6.
 
 ## Epic Talents
 
-At 8th level, you gain an additional barbarian class talent. Choose one of these epic-tier talents, or take another adventurer-tier or champion-tier talent instead.
+At epic tier, you gain an additional barbarian class talent. Choose one of these epic-tier talents, or take another adventurer-tier or champion-tier talent instead.
 
 ### Ancestral Warband
 
@@ -673,7 +669,7 @@ When you activate Fury of the North Wind, enemies engaged with you must succeed 
 
 ### Might of the Demigod
 
-_Special_: You can only choose this talent as a single-class barbarian.
+_Special:_ You can only choose this talent as a single-class barbarian.
 
 Increase your Strength and Constitution scores by 4.
 

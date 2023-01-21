@@ -52,7 +52,7 @@ Unless a ritual specifies otherwise, up to four of your allies can help you perf
 - If the ritual requires spending recoveries or some other resource, willing allies can contribute those resources.
 - Your allies can assist with the skill check you make to complete a ritual, using the normal rules for cooperating on another character's skill check.
 
->_Note_: Certain rituals might allow unwilling participants to pay those costs as well, but such rituals involve sacrifices to malevolent gods or demon lords and are not found in the ritual books of most player characters.
+>_Note:_ Certain rituals might allow unwilling participants to pay those costs as well, but such rituals involve sacrifices to malevolent gods or demon lords and are not found in the ritual books of most player characters.
 
 ---
 
@@ -109,7 +109,7 @@ If a Tiny or larger creature enters the warded area without speaking the passwor
 
 The result of triggering the alarm depends on the type of alarm. When an audible alarm triggers, all creatures in the warded area that are capable of hearing can hear the ringing. If they are sleeping, the noise awakens them. When a mental alarm triggers, a mental ping alerts you of the intrusion and awakens you from sleep. In either case, the alarm informs you where the warded area was breached.
 
-_Focus_: While holding a tiny bell (5 gp), you use a fine silver wire (5 gp) to scribe runes on the warded area's perimeter.
+_Focus:_ While holding a tiny bell (5 gp), you use a fine silver wire (5 gp) to scribe runes on the warded area's perimeter.
 
 ---
 
@@ -199,7 +199,7 @@ The eyes never consider you an intruder. In addition, you can designate any numb
 
 The ritual's effects last for 24 hours or until you move far away from all the eyes.
 
-_Optional Focus_: You can extend the duration of this ritual indefinitely by using a focus of a small, jeweled eye made of silver and ruby, worth 100 gp. The ritual's effects last as long as the focus remains nearby of any of the eyes. You can hide or protect the ritual's focus in any way you like, as long as it remains nearby of the eyes.
+_Optional Focus:_ You can extend the duration of this ritual indefinitely by using a focus of a small, jeweled eye made of silver and ruby, worth 100 gp. The ritual's effects last as long as the focus remains nearby of any of the eyes. You can hide or protect the ritual's focus in any way you like, as long as it remains nearby of the eyes.
 
 ---
 
@@ -223,7 +223,7 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 **Effect:** For the ritual's duration, whenever you make a Persuasion check to lie or tell a false truth, you can roll twice and use either result. The ritual's effect automatically ends when you roll initiative.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -266,7 +266,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** Your performance makes your audience drowsy. Affected creatures are also considered distracted, which might allow an ally (or you, after you stop playing) to make Stealth checks to hide from them even without concealment.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 **Skill Check:** Your Arcana skill check result determines the penalty to Insight checks and Perception checks of each creature that can hear you other than you and your allies.
 
@@ -349,7 +349,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** You create an illusion of an object or a creature, or an effect such as fire. This illusion has only a visual aspect. A creature can use a quick action to make an Arcana skill check or a Perception skill check (DC 10 + your Arcana skill check modifier) when it sees the illusion. If the check succeeds, the creature discerns the illusory nature of the image. If a creature interacts with the illusion, the illusory nature of the image is immediately apparent, and the ritual is discharged.
 
-_Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the DC of the Arcana or Perception skill check to discern the illusion is 5 + your Arcana skill check modifier.
+_Ritual Scroll:_ You can perform this ritual as a standard action when you do so from a scroll. If you do, the DC of the Arcana or Perception skill check to discern the illusion is 5 + your Arcana skill check modifier.
 
 ---
 
@@ -385,7 +385,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 
 An unseen servant never tires. It cannot move far away from you. It does not occupy any space and cannot attack or be attacked. Each unseen servant you currently control doubles the component cost to create the next.
 
-_Focus_: A ceramic hand. The person who holds this focus is empowered to command any unseen servants summoned with it. If the focus is broken or not in anyone's possession for a minute or longer, all unseen servants bound to it disappear.
+_Focus:_ A ceramic hand. The person who holds this focus is empowered to command any unseen servants summoned with it. If the focus is broken or not in anyone's possession for a minute or longer, all unseen servants bound to it disappear.
 
 ---
 
@@ -397,7 +397,7 @@ _Focus_: A ceramic hand. The person who holds this focus is empowered to command
 
 **Effect:** For the ritual's duration, you and up to eight allies who heard the whole performance of the ritual can travel farther than normal. For the purpose of determining how far you and the allies can travel in an hour or a full recovery, treat the group's speed as the slowest member's speed + 2.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -469,7 +469,7 @@ Once you ask the question, the GM secretly rolls an Arcana skill check for you a
 - Nothing—neither a good nor a bad result.
 - Failed Check: As per “nothing” above. You can't tell if this “nothing” is due to a successful check or a failed check.
 
-_Focus_: You drop a set of marked sticks, bones, or similar tokens (worth 50 gp) to read the answer to your query in their arrangement.
+_Focus:_ You drop a set of marked sticks, bones, or similar tokens (worth 50 gp) to read the answer to your query in their arrangement.
 
 ---
 
@@ -628,11 +628,11 @@ An affected creature suffers no ill effects from ambient temperatures between �
 
 When you perform the ritual, you can allow for certain other creatures or types of creatures to pass through the door normally, ignoring the ward's effect. You can choose any or all (or non-e) of the following options:
 
-_Password_: You can set a verbal password. If uttered within 5 squares of the portal, the speaker can ignore the ward for the next minute.
+_Password:_ You can set a verbal password. If uttered within 5 squares of the portal, the speaker can ignore the ward for the next minute.
 
-_Individuals_: You can designate up to ten other specific individuals who can ignore the ward at all times.
+_Individuals:_ You can designate up to ten other specific individuals who can ignore the ward at all times.
 
-_Descriptions_: You can describe one or more categories of creatures who can ignore the ward at all times, using specific, observable characteristics such as species, type, size, or equipment carried or worn.
+_Descriptions:_ You can describe one or more categories of creatures who can ignore the ward at all times, using specific, observable characteristics such as species, type, size, or equipment carried or worn.
 
 The Arcane Lock remains until you dismiss it, the door is destroyed, or until the ward is defeated, such as by the Knock ritual or a successful Strength or Sleight of Hand check. Wherever you are, you instantly know if your Arcane Lock is defeated by one of these methods.
 
@@ -648,7 +648,7 @@ The Arcane Lock remains until you dismiss it, the door is destroyed, or until th
 
 **Effect:** You take on the appearance of a humanoid of your size. You can also alter the appearance of your clothing, armor, and equipment, all of which must remain present and maintain the same general shape. You retain your statistics in your new form. Creatures viewing or interacting with you can make an Insight check (DC 10 + your Arcana skill check modifier) to detect the deception.
 
-_Ritual Scroll_: You can perform this ritual as a standard action if you do so from a scroll. If you do so, the ritual costs you 1 additional recovery, and the DC to see through the deception is 5 + your Arcana skill check modifier.
+_Ritual Scroll:_ You can perform this ritual as a standard action if you do so from a scroll. If you do so, the ritual costs you 1 additional recovery, and the DC to see through the deception is 5 + your Arcana skill check modifier.
 
 ---
 
@@ -813,7 +813,7 @@ A steed created by this ritual lasts for 12 hours or until it takes any damage. 
 
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
-_Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
+_Ritual Scroll:_ You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
 
 ---
 
@@ -999,13 +999,13 @@ There are two drawbacks to using the ritual to aid your decisions.
 
 **Effect:** When you perform this ritual, choose a non-hostile Tiny natural beast, such as a cat, a fox, a fish, a mouse, or a sparrow. This animal must remain nearby you for the time necessary to perform the ritual. Once the ritual is complete, the animal regards you as a friend and performs simple tasks on your behalf. The tasks are limited to the options below, and assigning a task requires a standard action.
 
-_Fetch_: The animal retrieves a Tiny object of 10 pounds or less that you and it can see. If the animal is unable to carry the object due to the item's size or weight, the animal enlists the aid of other creatures of its kind to fulfill the task.
+_Fetch:_ The animal retrieves a Tiny object of 10 pounds or less that you and it can see. If the animal is unable to carry the object due to the item's size or weight, the animal enlists the aid of other creatures of its kind to fulfill the task.
 
-_Perform_: The animal performs a simple trick, such as rolling over or playing dead.
+_Perform:_ The animal performs a simple trick, such as rolling over or playing dead.
 
-_Seek_: The animal scouts ahead and examines an area for anything that's alive or animate. The animal cannot travel far away from you and uses your passive Perception skill check to determine if it notices hidden creatures in the area. When the animal returns, you learn from it whether a creature occupies the area. The animal cannot communicate any other information aside from the presence or absence of a creature.
+_Seek:_ The animal scouts ahead and examines an area for anything that's alive or animate. The animal cannot travel far away from you and uses your passive Perception skill check to determine if it notices hidden creatures in the area. When the animal returns, you learn from it whether a creature occupies the area. The animal cannot communicate any other information aside from the presence or absence of a creature.
 
-_Watch_: The animal remains in its current location and watches that area. When you assign the animal the task, you designate creatures that are allowed to enter the location. If a creature that you have not designated enters the location, the watching animal informs you by coming to you and making a noise. If you move far away from the area, the animal leaves its post and rejoins you.
+_Watch:_ The animal remains in its current location and watches that area. When you assign the animal the task, you designate creatures that are allowed to enter the location. If a creature that you have not designated enters the location, the watching animal informs you by coming to you and making a noise. If you move far away from the area, the animal leaves its post and rejoins you.
 
 Unless otherwise commanded, the animal accompanies you for the ritual's duration, perching on your shoulder, hiding in your pocket, or walking alongside you. The animal has AC 14, PD 12, and MD 12. The animal has 1 hit point, and a missed attack never damages the animal.
 
@@ -1068,7 +1068,7 @@ Unless otherwise commanded, the animal accompanies you for the ritual's duration
 
 You can instead focus the effect on one object of the proper composition. An object heavier than 50 pounds, larger than Medium, or more valuable than 250 gp is immune to this targeted effect.
 
-_Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
+_Ritual Scroll:_ You can perform this ritual as a standard action when you do so from a scroll. If you do, the ritual affects a smaller area, and the GM makes a saving throw for each object in the area. On a save, the object is unaffected. If you use the targeted effect, the target gains a +2 bonus to the saving throw.
 
 ---
 
@@ -1172,7 +1172,7 @@ Analyze Portal can also reveal the identity of the creature that created the por
 
 **Effect:** When performed upon a magic item, Aura Mask makes it appear non-magical when someone tries to use an Arcana skill check to detect magic. The ritual's effects last for 24 hours.
 
-_Optional Focus_: You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the Aura Mask remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five Aura Masks or False Auras on five separate items, as long as they are all close enough to the focus.
+_Optional Focus:_ You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the Aura Mask remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five Aura Masks or False Auras on five separate items, as long as they are all close enough to the focus.
 
 **Skill Check:** Your Arcana skill check result determines the DC for the Arcana skill check to see through your deception. The Arcana skill check DC to determine that an item is magical is the higher of the item's normal DC or the result of your Arcana skill check made as part of this ritual.
 
@@ -1188,7 +1188,7 @@ _Optional Focus_: You can extend the duration of this ritual indefinitely by lea
 
 When you finish performing the ritual, you can command the rod to detect only valuables within certain categories: metals, gems, other (art objects, maps, ritual components, and so on), or any combination of the above.
 
-_Focus_: A gold rod you use in the performance of the ritual.
+_Focus:_ A gold rod you use in the performance of the ritual.
 
 ---
 
@@ -1297,7 +1297,7 @@ This ritual can take you anywhere in the world, but it can't take you to other p
 
 If the target is already under this ritual's effect when the ritual is used upon the target again, the newer effect cancels the older one.
 
-_Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
+_Ritual Scroll:_ You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
 
 ---
 
@@ -1318,7 +1318,7 @@ _Ritual Scroll_: You can perform this ritual as a standard action when you do so
 | 20-29 | 10 minutes |
 | 30 or higher | 1 hour |
 
-_Focus_: A crystal plumb bob worth at least 100 gp, and a body part or personal object of the creature.
+_Focus:_ A crystal plumb bob worth at least 100 gp, and a body part or personal object of the creature.
 
 ---
 
@@ -1356,7 +1356,7 @@ The magic of a sealed portal can be detected with the Arcana skill. The level of
 
 **Effect:** Your performance nourishes up to ten Small or Medium creatures for the duration, as if they had enjoyed a great feast. The creatures also gain a +5 bonus to Endurance checks for the duration. You designate the affected creatures as part of performing the ritual, and they must hear all of it.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -1368,7 +1368,7 @@ _Focus_: A musical instrument you play as part of performing the ritual.
 
 **Effect:** For the ritual's duration, you and any ally who heard the whole performance of the ritual can roll twice and use either result when making Persuasion checks to influence anyone else who heard all of it.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -1414,7 +1414,7 @@ The ritual creates a scrying sensor—a shimmer in the air—that watchful creat
 
 Sufficiently powerful warding magic, such as the Forbiddance ritual, can block Wizard's Sight. If the location is warded in such a manner, you learn that as soon as you begin the ritual, so you can interrupt the ritual and not expend any components.
 
-_Focus_: A mirror or a crystal ball worth at least 200 gp. The focus conveys what you see and hear.
+_Focus:_ A mirror or a crystal ball worth at least 200 gp. The focus conveys what you see and hear.
 
 ---
 
@@ -1428,7 +1428,7 @@ _Focus_: A mirror or a crystal ball worth at least 200 gp. The focus conveys wha
 
 **Effect:** You and up to 8 allies that participate in the ritual appear ghostly and can interact with the Ethereal Plane. Subjects gain a +5 bonus to Stealth checks, and the group treats its tracks as if they had been obscured. The ritual's effects end if any of its subjects dismisses it as an action, takes a rest, attacks, or is hit by an attack.
 
-_Focus_: The graven heel bone of a deceased humanoid, set with jet and platinum.
+_Focus:_ The graven heel bone of a deceased humanoid, set with jet and platinum.
 
 ---
 
@@ -1452,7 +1452,7 @@ _Focus_: The graven heel bone of a deceased humanoid, set with jet and platinum.
 
 If the target is already under this ritual's effect when the ritual is used upon the target again, the newer effect cancels the older one.
 
-_Ritual Scroll_: You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
+_Ritual Scroll:_ You can perform this ritual as a standard action when you do so from a scroll. If you do, you reduce the damage the target takes by an amount equal to 5 + your Arcana skill check modifier.
 
 ---
 
@@ -1742,7 +1742,7 @@ The entrance to the demiplane appears as a subtle shimmer and has solid transpar
 
 Once the ritual ends, the demiplane disappears, and any creatures or objects in the demiplane appear in the nearest unoccupied space to the demiplane's former entrance. The ritual's focus appears where the demiplane's entrance was. The ritual caster can choose to end the ritual at any time.
 
-_Focus_: A silver rope worth at least 2,000 gp.
+_Focus:_ A silver rope worth at least 2,000 gp.
 
 ---
 
@@ -1766,7 +1766,7 @@ _Focus_: A silver rope worth at least 2,000 gp.
 
 **Effect:** When you perform this ritual at the beginning of an extended rest, you reduce the time needed for the extended rest by 2 hours for yourself and any allies who hear the performance. A character can benefit from this ritual only once during any 24-hour period.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -1912,7 +1912,7 @@ At the end of the ward's duration, you can spend a recovery to extend the ward f
 
 In addition, an eye of warning automatically detects any scrying sensor that appears or moves within 10 squares of it, treating the sensor as an intruder. Furthermore, the eye destroys the sensor immediately after warning you unless the creator of the scrying sensor succeeds on an Arcana skill check (DC 20 + your level). Wherever you are, you instantly know if the eye encounters a sensor. Each round the sensor remains nearby an eye, the eye attempts to destroy it again.
 
-_Optional Focus_: As with the Eye of Alarm ritual, you can extend the duration of this ritual indefinitely by keeping a focus in the vicinity. This ritual focus is a small, jeweled eye made of gold and ruby, worth 1,600 gp.
+_Optional Focus:_ As with the Eye of Alarm ritual, you can extend the duration of this ritual indefinitely by keeping a focus in the vicinity. This ritual focus is a small, jeweled eye made of gold and ruby, worth 1,600 gp.
 
 ---
 
@@ -2113,7 +2113,7 @@ The crowd must not be hostile to you and must be able to see and hear you for th
 
 The number of individuals affected extends to anyone who witnesses the entire performance, so the larger the venue, the more people you can affect.
 
-_Focus_: A musical instrument you play as part of performing the ritual.
+_Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
@@ -2141,7 +2141,7 @@ The teleportation circle lasts for 24 hours, but the ritual caster can extend th
 
 The ritual's effects last for 24 hours.
 
-_Optional Focus_: You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the False Aura remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five [Aura Masks](#aura-mask) or False Auras on five separate items, as long as they are all close enough to the focus.
+_Optional Focus:_ You can extend the duration of this ritual indefinitely by leaving the item near a small, jeweled eye of gold and ruby wrapped in a silken blindfold. The blindfolded eye is a focus worth 100 gp. As long as the item remains nearby the focus, the False Aura remains in effect. You can hide or protect the ritual's focus in any way you like, as long as it remains within range. A single focus can maintain up to five [Aura Masks](#aura-mask) or False Auras on five separate items, as long as they are all close enough to the focus.
 
 ---
 
@@ -2221,7 +2221,7 @@ Ten minutes after you finish performing the ritual, the oracle leaves, even if y
 
 **Effect:** You absorb the fatigue that you and your allies have suffered and cast it away. At the end of the ritual, you and your allies gain the benefits of an extended rest without spending any time resting. You cannot use this ritual if you could not normally begin an extended rest.
 
-Greater heroes accrue greater fatigue and require more effort to recuperate. At 8th level, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
+Greater heroes accrue greater fatigue and require more effort to recuperate. At epic tier, this ritual costs 4,500 gp to perform. At 10th level, this ritual costs 22,500 gp to perform.
 
 ---
 
@@ -2311,7 +2311,7 @@ At the ritual's conclusion, you name a location you have previously visited. The
 | 20-29 | 10 miles |
 | 30-39 | Nearby |
 
-_Focus_: A tuning fork made of a specific metal and tuned to the frequency of the object plane.
+_Focus:_ A tuning fork made of a specific metal and tuned to the frequency of the object plane.
 
 ---
 
@@ -2327,7 +2327,7 @@ _Focus_: A tuning fork made of a specific metal and tuned to the frequency of th
 
 Any effect or condition that prevents teleportation also prevents this ritual from functioning (but does not discharge it).
 
-_Focus_: Prayer beads, a holy book, or some other item of religious significance.
+_Focus:_ Prayer beads, a holy book, or some other item of religious significance.
 
 ---
 
@@ -2396,7 +2396,7 @@ Scrying creates a scrying sensor—a shimmer in the air—that watchful creature
 
 Sufficiently powerful warding magic, such as the [Forbiddance](#forbiddance) ritual, can block Scrying. If the subject's location is warded in such a manner, you learn that as soon as you begin the ritual, so you can interrupt the ritual and not expend any components.
 
-_Focus_: A mirror or a crystal ball worth at least 10,000 gp. The focus conveys what you see and hear.
+_Focus:_ A mirror or a crystal ball worth at least 10,000 gp. The focus conveys what you see and hear.
 
 ---
 
@@ -2468,7 +2468,7 @@ Those who know this ritual keep it carefully guarded, for the ritual has devasta
 
 An integral part of becoming a lich is creating a phylactery, a magical receptacle containing your life force. When you are reduced to 0 hit points or fewer, you and your possessions crumble to dust. Unless your phylactery is located and destroyed, your reappear in a space nearby to the phylactery after 1d10 days.
 
-_Focus_: You must construct your phylactery before the ritual can be performed. The phylactery, which takes 10 days to create, usually takes the form of a small trinket or piece of jewelry on which magical phrases have been transcribed in your blood. Your Phylactery is nearly indestructible.
+_Focus:_ You must construct your phylactery before the ritual can be performed. The phylactery, which takes 10 days to create, usually takes the form of a small trinket or piece of jewelry on which magical phrases have been transcribed in your blood. Your Phylactery is nearly indestructible.
 
 If your phylactery is destroyed, you can build a new one; the process takes 10 days and costs 5,000 gp.
 

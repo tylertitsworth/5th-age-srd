@@ -64,9 +64,7 @@ Rogues start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -75,9 +73,9 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 12 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 12 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 10 |
-| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -555,7 +553,7 @@ Once per battle or scene, you can use an expended power with the Shadow keyword 
 
 #### Adventurer Feat
 
-When you use a Shadow power, gain temporary hit points equal to your level + Charisma modifier (x2 at 5th level; x3 at 8th). For powers with an ongoing effect, you only gain the temporary hit points when you activate it. (Shadow Walk is considered a Shadow power for this feat)
+When you use a Shadow power, gain temporary hit points equal to your level + Charisma modifier, twice at champion tier, and thrice at epic tier. For powers with an ongoing effect, you only gain the temporary hit points when you activate it. (Shadow Walk is considered a Shadow power for this feat)
 
 #### Champion Feat
 
@@ -733,7 +731,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -761,7 +759,7 @@ Close-quarters attack
 
 Once per battle
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -953,7 +951,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1003,7 +1001,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1029,11 +1027,11 @@ Once per full recovery, you can use roll with it to take damage equal to the att
 
 Close-quarters Power
 
-Quick action
+Quick Action
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -1049,11 +1047,11 @@ You can attack with the hand as a quick action once per battle.
 
 Close-quarters Power
 
-Free action
+Free Action
 
 Once per battle
 
-Free action
+Free Action
 
 Shadow
 
@@ -1100,7 +1098,7 @@ Momentum Power
 
 At-will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1248,7 +1246,7 @@ Momentum Power
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 Shadow
 
@@ -1260,7 +1258,7 @@ requires momentum
 
 **Attack:** Charisma + Level vs. PD
 
-**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier (x2 at 5th level; x3 at 8th).
+**Hit:** Necrotic damage equal to the damage of the target’s attack, plus your Charisma modifier, twice at champion tier, and thrice at epic tier.
 
 #### Adventurer Feat
 
@@ -1302,7 +1300,7 @@ Momentum Power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1346,7 +1344,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -1404,7 +1402,7 @@ Melee attack
 
 At-will
 
-Standard action on your turn
+Standard Action on your turn
 
 expends momentum
 
@@ -1448,7 +1446,7 @@ Shadow
 
 #### Adventurer Feat
 
-Deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th).
+Deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.
 
 #### Champion Feat
 
@@ -1550,7 +1548,7 @@ Close-quarters Power
 
 Once per battle
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -1774,7 +1772,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -1792,7 +1790,7 @@ Ranged attack
 
 Once per battle
 
-Quick action
+Quick Action
 
 you must spend your momentum
 
@@ -1816,7 +1814,7 @@ _Special:_ You must be fighting with two weapons and wielding one-handed weapon 
 
 Full Recovery
 
-Quick action
+Quick Action
 
 _Special:_ You must be using a hand crossbow or other small ranged weapon.
 
@@ -1842,7 +1840,7 @@ Melee attack
 
 Full Recovery
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -1897,7 +1895,7 @@ The save against the effect is a hard save (16+).
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Effect:** You go all-out to hurt anyone who tries to get a piece of you. For the rest of the battle, while you're conscious, using at least one bladed weapon, and are not staggered or stunned, you deal 10 damage to each enemy that makes a melee attack against you and rolls a natural odd attack roll. The damage hits the enemy before their attack damages you.
 
@@ -1917,7 +1915,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -2021,7 +2019,7 @@ If the reroll is also a miss, you gain a +4 bonus to AC until the end of your ne
 
 Full Recovery
 
-Move action
+Move Action
 
 **Target:** One nearby enemy
 
@@ -2043,7 +2041,7 @@ Momentum Power
 
 At-will
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -2113,7 +2111,7 @@ Melee attack
 
 At-will (Once per round)
 
-Interrupt action
+Interrupt Action
 
 requires momentum
 
@@ -2137,7 +2135,7 @@ Close-quarters Power
 
 Once per battle
 
-Free action
+Free Action
 
 Shadow
 
@@ -2147,7 +2145,7 @@ Shadow
 
 #### Champion Feat
 
-Reduce the damage you take from attacks against the target by twice your Charisma modifier (x3 at 8th level).
+Reduce the damage you take from attacks against the target by twice your Charisma modifier (thrice at 8th level).
 
 ---
 
@@ -2157,7 +2155,7 @@ Close-quarters Power
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -2175,7 +2173,7 @@ Close-quarters Power
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Shadow
 
@@ -2189,17 +2187,23 @@ When an enemy makes an attack against you, you can spend your momentum (before y
 
 ### Smoke Bomb
 
-Quick action; Full Recovery
+Quick Action
 
-Target: You
+Full Recovery
 
-Special: This power relies on some esoteric alchemical knowledge you’ve picked up during your career as a rogue, so it relies on you having a few small vials of strange reagents secreted on your person. It’s also worth noting that this power is one of the few rogue powers that doesn’t include an attack, so if you take it, you’ll have one fewer power-based attack than others. In exchange, you’re getting an effect usually reserved for outright magic
+**Target:** You
 
-Effect: Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
+_Special:_ This power relies on some esoteric alchemical knowledge you’ve picked up during your career as a rogue, so it relies on you having a few small vials of strange reagents secreted on your person. It’s also worth noting that this power is one of the few rogue powers that doesn’t include an attack, so if you take it, you’ll have one fewer power-based attack than others. In exchange, you’re getting an effect usually reserved for outright magic
 
-Champion Feat Smoke bomb is no longer full recovery; it’s recharge 16+ after battle.
+**Effect:** Until the end of the battle (or five minutes out of combat if you don’t stray too far), you become invisible until you attack or move to a location that isn’t nearby. Others see the smoke, but only you can remain unseen within it.
 
-Epic Feat You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
+#### Champion Feat
+
+Smoke bomb is no longer full recovery, and it’s recharge 16+ after battle.
+
+#### Epic Feat
+
+You can hurl your smoke bomb at a nearby ally so they get the benefit instead of you.
 
 ---
 
@@ -2209,7 +2213,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Interrupt action
+Interrupt Action
 
 you must spend your momentum
 
@@ -2257,7 +2261,7 @@ Momentum Power
 
 At-Will
 
-Standard action on your turn
+Standard Action on your turn
 
 you must spend your momentum
 
@@ -2275,7 +2279,7 @@ Momentum Power
 
 At-Will (once per round)
 
-Move action on your turn
+Move Action on your turn
 
 requires momentum
 
@@ -2381,7 +2385,7 @@ Momentum Power
 
 At-Will
 
-Interrupt action OR free action on your turn
+Interrupt Action OR free action on your turn
 
 you must spend your momentum
 

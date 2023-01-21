@@ -64,9 +64,7 @@ Fighters start with 25gp.
 
 Fighter weapon attack maneuvers deal damage based on the fighter's level. You also don't have to keep track of upgrading a 1st level maneuver into a 3rd level maneuver, because all the maneuvers function at your level. You can change which maneuvers you know and have ready whenever you gain a level.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -76,12 +74,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 16 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (8 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 | **Ability Bonus** | +2 Strength or Constitution (different from species bonus) |
 
@@ -137,7 +135,7 @@ The penalty doesn't apply if you are stunned, grabbed, or otherwise incapable of
 
 #### Adventurer Feat
 
-Whenever an enemy fails to disengage from you, you also deal damage to that enemy equal to your Dexterity or Constitution modifier. At 5th level, damage is double the modifier. At 8th level, it's triple.
+Whenever an enemy fails to disengage from you, you also deal damage to that enemy equal to your Dexterity or Constitution modifier. At champion tier, damage is double the modifier. At epic tier, it's triple.
 
 #### Champion Feat
 
@@ -511,7 +509,7 @@ _Special:_ If you target a mook with this ability, it affects every member of th
 
 #### Adventurer Feat
 
-If the target of your Taunt attacks one of your allies while affected by this Talent, it takes psychic damage equal to your Charisma modifier. This damage is doubled at 5th level and tripled at 8th.
+If the target of your Taunt attacks one of your allies while affected by this Talent, it takes psychic damage equal to your Charisma modifier. This damage is doubled at champion tier and tripled at epic tier.
 
 #### Champion Feat
 
@@ -747,7 +745,7 @@ _Special:_ At least one ally must be engaged with the same enemy.
 
 **Triggering Roll:** Any natural even roll
 
-**Effect:** Deal extra damage equal to your Intelligence modifier (x2 at 5th level; x3 at 8th).
+**Effect:** Deal extra damage equal to your Intelligence modifier, twice at champion tier, and thrice at epic tier.
 
 #### Champion Feat
 
@@ -761,7 +759,7 @@ Flexible Melee Attack
 
 **Triggering Roll:** Any natural even miss
 
-**Effect:** The next time you would deal miss damage with a melee attack, add a WEAPON die to that damage. At 5th level, instead add 2 total WEAPON dice; at 8th level, instead add 3 total WEAPON dice.
+**Effect:** The next time you would deal miss damage with a melee attack, add a WEAPON die to that damage. At champion tier, instead add 2 total WEAPON dice; at 8th level, instead add 3 total WEAPON dice.
 
 ---
 
@@ -789,7 +787,7 @@ Flexible Melee Attack
 
 **Triggering Roll:** Any natural even roll
 
-**Effect:** Deal your Strength modifier in damage (x2 at 5th level; x3 at 8th) to a different enemy you are engaged with.
+**Effect:** Deal your Strength modifier in damage, twice at champion tier, and thrice at epic tier.to a different enemy you are engaged with.
 
 #### Adventurer Feat
 
@@ -825,7 +823,7 @@ Flexible Melee Attack
 
 **Triggering Roll:** Any hit with a natural 16+
 
-**Effect:** You gain a bonus to the damage roll equal to your Dexterity modifier. At 5th level, the damage bonus increases to double your Dexterity modifier; at 8th level the damage bonus increases to triple it.
+**Effect:** You gain a bonus to the damage roll equal to your Dexterity modifier. At champion tier, the damage bonus increases to double your Dexterity modifier; at 8th level the damage bonus increases to triple it.
 
 #### Adventurer Feat
 
@@ -903,7 +901,7 @@ _Special:_ You must be making an unarmed attack.
 
 **Triggering Roll:** Natural even hit
 
-**Effect:** Add your Constitution modifier (x2 at 5th level; x3 at 8th) to damage.
+**Effect:** Add your Constitution modifier, twice at champion tier, and thrice at epic tier.to damage.
 
 #### Adventurer Feat
 
@@ -1053,7 +1051,7 @@ Flexible Ranged Attack
 
 **Triggering Roll:** Any natural even miss
 
-**Effect:** Add the higher modifier from your Strength or Dexterity to the miss damage. At 5th level the damage bonus increases to double your chosen modifier; at 8th level the damage bonus increases to triple it.
+**Effect:** Add the higher modifier from your Strength or Dexterity to the miss damage. At champion tier the damage bonus increases to double your chosen modifier; at 8th level the damage bonus increases to triple it.
 
 ---
 
@@ -1139,7 +1137,9 @@ Until the end of your next turn, you gain a +2 bonus on all defenses (AC, PD, an
 
 ### Tombstone
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 _Special:_ You must be making an unarmed attack.
 
@@ -1149,7 +1149,7 @@ _Special:_ You must be making an unarmed attack.
 
 #### Adventurer Feat
 
-Add your Constitution modifier to the damage roll (x2 at 5th level; x3 at 8th).
+Add your Constitution modifier to the damage roll, twice at champion tier, and thrice at epic tier.
 
 #### Champion Feat
 
@@ -1219,7 +1219,9 @@ Ignore the resistance of the target until the end of the battle.
 
 ### Brutal Blows
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 **Triggering Roll:** Any natural even hit
 
@@ -1446,7 +1448,9 @@ If the escalation die is 3+, the second _spinning charge_ attack deals full dama
 
 ### Tactical Defense Line
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 **Triggering Roll:** Any natural even roll
 
@@ -1488,7 +1492,9 @@ You can spend a recovery to heal, and you succeed at the save.
 
 ### Brute Force
 
-Flexible melee attack; Once per battle
+Flexible melee Attack
+
+Once per battle
 
 _Special:_ You must be wielding a two-handed weapon
 

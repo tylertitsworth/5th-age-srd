@@ -60,9 +60,7 @@ Paladins start with 25gp.
 | **Level 9** | (8 + CON mod) x **20** | 4 adv; 3 champ; 2 epic | 5 |  | 4 x ability modifier |
 | **Level 10** | (8 + CON mod) x **24** | 4 adv; 3 champ; 3 epic | 5 | +1 to 3 abilities | 4 x ability modifier |
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -72,12 +70,12 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (shield and heavy armor)** | 17 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (8 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (8 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
-| **Talents** | 3 (see [level progression chart](#level-progression)) |
+| **Talents** | 3 |
 | **Feats** | 1 per Level |
 
 ## Basic Attacks
@@ -112,11 +110,11 @@ At-Will
 
 ## Class Features
 
-All paladins have the Smite Evil class feature.
+All paladins have the Smite Evil and True Smite class features.
 
 ### Smite Evil
 
-Close-quarters power
+Close-Quarters Power
 
 Once per battle, plus once per full recovery per Charisma modifier
 
@@ -155,7 +153,7 @@ Gain a +4 bonus to the attack roll with True Smite.
 
 Choose three of the following class talents.
 
-You get an additional paladin class talent at 5th level, and again at 8th level.
+You get an additional paladin class talent at champion tier, and again at epic tier.
 
 ---
 
@@ -251,7 +249,7 @@ You can choose a second necromancer spell, also at two levels lower than you cla
 
 **For hybrid Paladin / Necromancers with this talent, there is also this special feat:**
 
-#### Total Devotion (Adventurer Feat)
+#### Adventurer Feat
 
 Your Death Knight paladin talent is also considered a necromancer talent, which allows you to use its benefits with necromancer talents and spells.
 
@@ -263,7 +261,7 @@ Close quarters power
 
 At-will
 
-Quick action
+Quick Action
 
 **Effect:** Gain the rune benefit of either the Blood, Death, or Frost rune until the end of the battle. You can only have one rune active at a time — using a different rune ends the current one. When you Smite Evil, you can use the active rune‘s smite power.
 
@@ -341,7 +339,7 @@ If the target of your smite power is already stuck or vulnerable to cold, it is 
 
 ### Divine Domain
 
-_Special:_ You can choose Divine Domain a second time, if you wish, at 5th level or at 8th level.
+_Special:_ You can choose Divine Domain a second time, if you wish, at champion tier or at epic tier.
 
 Choose one of the domains listed in the cleric's class talent list. You gain all the domain's advantages, including the ability to use the domain's invocation once per full recovery.
 
@@ -413,8 +411,8 @@ Deal extra damage equal to the enemy's level
 
 In battle, when you are staggered the first time, roll 1d4 and gain a Crusader’s Boon from the table below. Each boon gives you a special interrupt action that you can use at-will until the end of the battle.
 
-- _Crusader’s Thorns:_ When an enemy makes a melee attack against you and the natural attack roll is lower than your Strength score, deal damage equal to your Strength modifier (x2 at 5th level; x3 at 8th).
-- _Crusader’s Heart:_ When an enemy makes an attack against you and the natural attack roll is lower than your Constitution score, reduce the damage by your Constitution modifier (x2 at 5th level; x3 at 8th) and immediately save against any “save ends” effects of that attack.
+- _Crusader’s Thorns:_ When an enemy makes a melee attack against you and the natural attack roll is lower than your Strength score, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier.
+- _Crusader’s Heart:_ When an enemy makes an attack against you and the natural attack roll is lower than your Constitution score, reduce the damage by your Constitution modifier, twice at champion tier, and thrice at epic tier.and immediately save against any “save ends” effects of that attack.
 - _Crusader’s Gaze:_ When an enemy makes an attack against you and the natural roll is lower than your Wisdom score, gain advantage on your next attack roll against the target.
 - _Crusader’s Defiance:_ When an enemy makes an  attack against you and the natural attack roll is lower than your Charisma score, the enemy is struck by fear (dazed and can’t use the escalation die) until the end of its next turn.
 
@@ -715,7 +713,7 @@ The save has a bonus to the roll equal to your Charisma modifier.
 
 ### Stormhammer
 
-When you hit with a melee attack, add lightning damage equal to your Constitution modifier, twice at 5th level, thrice at 8th).
+When you hit with a melee attack, add lightning damage equal to your Constitution modifier, twice at champion tier, thrice at epic tier).
 
 #### Adventurer Feat
 

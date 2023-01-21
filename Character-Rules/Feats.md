@@ -124,7 +124,7 @@ Twice per full recovery, you can add the escalation die to one of your skill che
 
 #### Adventurer Tier
 
-When you roll recovery dice, add +3 to the result. At 5th level, add +6 instead. At 8th level, add +12 instead.
+When you roll recovery dice, add +3 to the result. At champion tier, add +6 instead. At epic tier, add +12 instead.
 
 ---
 
@@ -132,7 +132,7 @@ When you roll recovery dice, add +3 to the result. At 5th level, add +6 instead.
 
 #### Adventurer Tier
 
-You get additional hit points equal your baseline class hit points (rounded down). At 5th level, the total hp bonus increases to double your baseline hp value. At 8th level, the total hp bonus increases to triple your baseline hp value.
+You get additional hit points equal your baseline class hit points (rounded down). At champion tier, the total hp bonus increases to double your baseline hp value. At epic tier, the total hp bonus increases to triple your baseline hp value.
 
 ---
 
@@ -250,7 +250,7 @@ You gain a +1 bonus to recharge rolls for recharge after battle powers.
 
 #### Adventurer Tier
 
-You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At 5th level, upgrade the item to champion tier, and at 8th level, to epic tier.
+You are the rightful owner of a magic item that has been passed down in your family (your religion, your martial tradition) from generation to generation. Choose an adventurer-level true magic item (with the GM’s approval). It does not count against your limit of magic items for quirk effects. At champion tier, upgrade the item to champion tier, and at 8th level, to epic tier.
 
 ---
 

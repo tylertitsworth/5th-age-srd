@@ -7,7 +7,7 @@ layout: doc
 
 ### Weapon Damage Progression
 
-For levels 1-6 PC weapon damage is calculated as a character deals 1 die of weapon damage per class level, plus their ability modifier (double the modifier at 5th level, and triple it at 8th level). For levels 7-10 see the table below.
+For levels 1-6 PC weapon damage is calculated as a character deals 1 die of weapon damage per class level, plus their ability modifier (double the modifier at champion tier, and triple it at epic tier). For levels 7-10 see the table below.
 
 | Level | WEAPON Dice |
 | --- | --- |

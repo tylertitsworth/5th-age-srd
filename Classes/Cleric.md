@@ -64,7 +64,7 @@ Although not listed on the table, this class gets three talents. It does not gai
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -74,9 +74,9 @@ Although not listed on the table, this class gets three talents. It does not gai
 | **Armor Class (shield and heavy armor)** | 15 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (7 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (7 + Con mod) x Level modifier |
 | **Recoveries** | 7 |
-| **Recovery Dice** | (1d10 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d10 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -118,9 +118,9 @@ All clerics have the Ritual Magic class feature. They also receive a bonus spell
 There are certain abilities specific to the cleric that can affect their powers:
 
 - _Cast for power_ and _cast for broad effect:_ The spell can be used one of two ways—either as a more powerful effect on one target (power) or as a weaker effect on multiple targets (broad). Spells cast for power cannot target the caster. Spells cast for broad effect can.
-- _Free recovery_: The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
-- _Heal using a recovery_: The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
-- _Invocation_: A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
+- _Free recovery:_ The cleric can recover hit points as if they were using a recovery (without actually spending the recovery).
+- _Heal using a recovery:_ The character targeted with a healing effect uses one of their recoveries and rolls their own recovery dice.
+- _Invocation:_ A quick action that offers advantages in battle. It can be made once a full recovery. More than one cleric in a party cannot use the same invocation during a battle.
 
 ---
 
@@ -130,7 +130,7 @@ Close-quarters Spell
 
 _Special:_ You can use this spell twice per battle.
 
-Quick action to cast (1/round)
+Quick Action to cast (1/round)
 
 **Target:** You or one ally you are next to
 
@@ -352,7 +352,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -375,7 +375,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You or a nearby ally can heal using a free recovery.
 
@@ -428,7 +428,7 @@ At-Will
 
 #### Adventurer Feat
 
-The spell also deals +1d6 damage against an undamaged target. At 5th level that increases to +2d6 damage; at 8th level it increases to +4d6 damage.
+The spell also deals +1d6 damage against an undamaged target. At champion tier that increases to +2d6 damage; at 8th level it increases to +4d6 damage.
 
 #### Champion Feat
 
@@ -446,7 +446,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -604,7 +604,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -680,7 +680,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** You can cast this spell for power or for broad effect.
 
@@ -704,7 +704,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** For the rest of this battle, all enemies near you with 100 hp or fewer take a penalty to their Mental Defense equal to your Charisma modifier. Whenever one of those enemies misses with an attack roll, it takes radiant damage equal to double your level.
 
@@ -729,7 +729,7 @@ _Special:_ You can cast this spell for power or for broad effect.
 
 **Hit:** If cast for power, deal 6d10 + Wisdom radiant damage, and 10 ongoing radiant damage (save ends). You may immediately ask the enemy a brief question and unless the enemy has been dropped to 0 hit points, it is compelled to give a truthful answer in response (no more than one or two words, usually.) You may ask another question whenever the target fails a saving throw against the ongoing radiant damage.
 
-If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the tareget (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
+If cast for broad effect, then a hit deals 4d10 + Wisdom radiant damage, and the target becomes visible until the end of the battle. You don't have to be able to see the target (they can be invisible or hidden), but you must guess they are present and specify their approximate area.
 
 _Miss:_ If cast for power, you may ask one question; the target takes half damage if they answer truthfully, and full damage if they lie or refuse to answer. If cast for broad effect, the target takes half damage but no other effect.
 
@@ -794,7 +794,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** Choose a defense: AC, PD, or MD. For the rest of the battle while you are conscious, you and each ally near you gains a +1 bonus to that defense. Each enemy that misses you or one of your nearby allies with an attack against the defense you chose is hampered until the end of its next turn.
 

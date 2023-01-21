@@ -139,11 +139,11 @@ The number of points you invest in a relationship doesn't necessarily correlate 
 
 ### Changing Relationships
 
-When your character achieves champion level (5th), you gain an extra relationship point. Use it to increase an existing relationship or gain a new relationship to match your character's story thus far. You can save the extra relationship point and decide to apply it later.
+When your character achieves champion tier, you gain an extra relationship point. Use it to increase an existing relationship or gain a new relationship to match your character's story thus far. You can save the extra relationship point and decide to apply it later.
 
-At 5th level, or any time thereafter, you can switch an existing relationship point from one to another, including to a new relationship. You owe the GM and other players an entertaining explanation of what this big change represents for your character personally, of course.
+At champion tier, or any time thereafter, you can switch an existing relationship point from one to another, including to a new relationship. You owe the GM and other players an entertaining explanation of what this big change represents for your character personally, of course.
 
-When you reach epic level (8th), you gain another relationship point, which you can use to increase an existing relationship by one, including up to 1 point over maximum. As at 5th level, if switching a relationship point from one to another makes sense for your 8th level character, go for it.
+When you reach epic tier, you gain another relationship point, which you can use to increase an existing relationship by one, including up to 1 point over maximum. As at champion tier, if switching a relationship point from one to another makes sense for your epic tier character, go for it.
 
 ---
 
@@ -176,7 +176,7 @@ Each character has a number of points to allocate to a set of skills. These are 
 
 ### Assigning Skill Points
 
-Each character gets skill points based on what their class awards, some class features and talents award additional skill points. Assign your skill points to as many skills as you want, up to your total points. You can assign a maximum of 5 points to a single skill (and minimum of 1).
+Each character gets skill points based on what their class awards, some class features and talents award additional skill points. Assign your skill points to as many skills as you want after first level. You can assign a maximum of 5 points to a single skill (and minimum of 1).
 
 | Level | Skill Points |
 | ----- | ------------ |

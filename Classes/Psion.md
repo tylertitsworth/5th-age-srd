@@ -64,7 +64,7 @@ Psions start with 25gp.
 
 >Note: Although not listed on the table, this class gets three talents. It does not get more at higher levels.
 
-## Stats
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -73,11 +73,11 @@ Psions start with 25gp.
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 11 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 9 |
-| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
-| **Relationships** | 3 points (4 at 5th level; 5 at 8th level) |
+| **Relationships** | 3 points |
 | **Talents** | 3 |
 | **Feats** | 1 per Level |
 
@@ -193,17 +193,17 @@ One battle per full recovery, each time you roll for a high weirdness effect, ro
 | **19** | All creatures leave colored trails behind them as they move, turning the battle scene into a strange glowing artwork. Images fade every ten seconds or so. |
 | **20** | Some minor detail of your appearance changes hair color, gaps between teeth, handedness, and so on. The change is permanent–ish. |
 | **21–22** | Grit, explosive dust, or other debris explodes into the air around you, dealing 1d4 damage per tier to each nearby creature. |
-| **23–24** | There's tension in the air, or the rumble of distant thunder, or a sense of impending disaster, and the next creature that misses with an attack this battle takes damage equal your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level). |
+| **23–24** | There's tension in the air, or the rumble of distant thunder, or a sense of impending disaster, and the next creature that misses with an attack this battle takes damage equal your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier. |
 | **25–26** | Quickly passing auras blur and shake across the battlefield, or cold winds whip through and grow warmer as they pass, or the lights flicker . . . and the creature that has taken the most damage in the battle gains temporary hit points equal to 10% of its maximum hit points. |
 | **27–28** | One random creature in the battle other than you teleports next to and is engaged by one of its random enemies other than you. |
-| **29–30** | (Global effect) Space seriously twists, affecting the affinities and ranged attacks of each creature in the battle creatures that are nearby count as if they were far away, and creatures that are far away count as if they are nearby. |
+| **29–30** | _Global Effect:_ Space seriously twists, affecting the affinities and ranged attacks of each creature in the battle creatures that are nearby count as if they were far away, and creatures that are far away count as if they are nearby. |
 | **31–32** | The first affinity you cast this battle has effects (not damage) like an affinity two levels higher than it, if possible. |
-| **33–34** | (Global effect) All normal saves made by creatures in the battle are actually easy saves (6+). |
-| **35–36** | (Global effect) There's a blurring at the edge of all things. No creature can intercept another. Disengage attempts automatically succeed. |
-| **37–38** | (Global effect) The champions shall inherit the dirt! Until the end of your next turn, saves that fail count as if they succeed, and saves that succeed count as if they fail! |
+| **33–34** | _Global Effect:_ All normal saves made by creatures in the battle are actually easy saves (6+). |
+| **35–36** | _Global Effect:_ There's a blurring at the edge of all things. No creature can intercept another. Disengage attempts automatically succeed. |
+| **37–38** | _Global Effect:_ The champions shall inherit the dirt! Until the end of your next turn, saves that fail count as if they succeed, and saves that succeed count as if they fail! |
 | **39–40** | Roll the escalation die and use the new result. |
-| **41–42** | (Global effect) Each creature in the battle taking ongoing damage immediately takes that damage. Then all ongoing damage effects end. |
-| **43–44** | (Global effect) Each creature that makes an attack targeting PD targets MD instead. Attacks against MD target PD instead. |
+| **41–42** | _Global Effect:_ Each creature in the battle taking ongoing damage immediately takes that damage. Then all ongoing damage effects end. |
+| **43–44** | _Global Effect:_ Each creature that makes an attack targeting PD targets MD instead. Attacks against MD target PD instead. |
 | **45–46** | Your shadow detaches and flits around you. Until the weirdness ends, you gain a +2 attack bonus but take a –2 penalty to saves. Your personality may or may not be affected. It's up to you. |
 | **47–48** | Choose yourself or one ally with temporary hit points and double those temporary hit points. |
 | **49–50** | There's a large magical special effect of your choice (non-mechanical), and each creature in the battle ignores all resistances. |
@@ -241,16 +241,16 @@ When your random affinity choice indicates an attack affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: You gain _flight_ until the end of your next turn. |
+| **1** | _Air:_ You gain _flight_ until the end of your next turn. |
 | **2** | _Earth:_ Until the end of your next turn, each enemy that misses you with a melee attack is stuck until the end of its next turn. |
-| **3** | _Fire_: Until the end of your next turn, you can pop free from staggered enemies as a quick action. |
-| **4** | _Water_: You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier |
-| **5** | _Metal_: Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level). |
+| **3** | _Fire:_ Until the end of your next turn, you can pop free from staggered enemies as a quick action. |
+| **4** | _Water:_ You gain a bonus to disengage checks until the end of your next turn equal to your Dexterity modifier |
+| **5** | _Metal:_ Until the end of your next turn, when an enemy disengages from you, it takes damage equal to your Dexterity modifier, double your Dexterity modifier at champion tier, and triple it at epic tier. |
 | **6** | _Void:_ During your next turn, you can use a move action to teleport to a nearby location you can see. |
 
 ##### Adventurer Feat
 
-When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier (double your Dexterity modifier at 5th level; triple it at 8th level).
+When you roll a successful disengage check, you gain temporary hit points equal to your Dexterity modifier, double your Dexterity modifier at champion tier, and triple it at epic tier.
 
 ##### Champion Feat
 
@@ -270,11 +270,11 @@ When your random affinity choice indicates a defense affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: Once before the end of your next turn, you can heal using a recovery as a quick action. |
-| **2** | _Earth:_ You gain temporary hit points equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **3** | _Fire_: Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **4** | _Water_: Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing (double your Wisdom modifier at 5th level; triple it at 8th level). |
-| **5** | _Metal_: Until the end of your next turn, you gain a +2 bonus to AC. |
+| **1** | _Air:_ Once before the end of your next turn, you can heal using a recovery as a quick action. |
+| **2** | _Earth:_ You gain temporary hit points equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier. |
+| **3** | _Fire:_ Until the end of your next turn, when an enemy moves to engage you, it takes fire damage equal to your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier. |
+| **4** | _Water:_ Until the end of your next turn, when you heal using a recovery, add hit points equal to your Wisdom modifier to that healing, double your Wisdom modifier at champion tier, and triple it at epic tier. |
+| **5** | _Metal:_ Until the end of your next turn, you gain a +2 bonus to AC. |
 | **6** | _Void:_ Until the end of your next turn, the first time an attack hits you, as a free action you can choose to lose hit points equal to your level to force the attacker to reroll the attack. |
 
 ##### Adventurer Feat
@@ -299,11 +299,11 @@ When your random affinity choice indicates an iconic affinity, roll a d6 to dete
 
 | **d6** | **Effect** |
 | --- | --- |
-| **1** | _Air_: Randomly determine two relationship associations for the affinity you'll cast instead of one. Choose one of those associations to use for that affinity. |
+| **1** | _Air:_ Randomly determine two relationship associations for the affinity you'll cast instead of one. Choose one of those associations to use for that affinity. |
 | **2** | _Earth:_ Until the end of your next turn, you gain a bonus to PD and MD equal to your Intelligence modifier. |
-| **3** | _Fire_: Until the end of your next turn, you gain the once-per-battle species power of a random nearby ally; ignore this benefit if it duplicates your own species power or if it doesn't make sense during the battle (human, for example). |
+| **3** | _Fire:_ Until the end of your next turn, you gain the once-per-battle species power of a random nearby ally; ignore this benefit if it duplicates your own species power or if it doesn't make sense during the battle (human, for example). |
 | **4** | _Water_:Until the end of your next turn, you gain a bonus to saves equal to your Intelligence modifier. |
-| **5** | _Metal_: Until the end of your next turn, critical hits scored against you only count as normal hits. |
+| **5** | _Metal:_ Until the end of your next turn, critical hits scored against you only count as normal hits. |
 | **6** | _Void:_ When you roll a natural 20 with an attack, the critical hit range of your attacks expands by 2 until the end of the battle (cumulative). |
 
 ##### Adventurer Feat
@@ -370,17 +370,17 @@ Your pet won’t join you in a fight, and it can’t be targeted by affinities o
 
 Also choose one ability for your pet from the list below:
 
-- _Axiomatic_: Once per full recovery, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
-- _Detector_: It can smell magic by scent.
-- _Flight_: It can fly.
-- _Healer_: Once per full recovery, it can grant someone the use of a recovery to heal by touch.
-- _Innate Magic_: Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
-- _Mundane Aura_: It appears fully natural and resists any divination magic cast on it.
-- _Negator_: It can use its anti-magic ability twice per full recovery.
-- _Shapechanger_: It can take any shape it likes, as long as it stays roughly cat-sized.
-- _Shield_: Once per full recovery, it can force an enemy to reroll an attack against you with a d12.
-- _Shy_: It can turn invisible at-will.
-- _Talkative_: Your pet can talk. Each session, determine its personality with the Personality table
+- _Axiomatic:_ Once per full recovery, when making a d20-based check, your pet can set the roll to 13 instead of rolling.
+- _Detector:_ It can smell magic by scent.
+- _Flight:_ It can fly.
+- _Healer:_ Once per full recovery, it can grant someone the use of a recovery to heal by touch.
+- _Innate Magic:_ Your pet knows three Wizard cantrips, and it can use one cantrip per scene.
+- _Mundane Aura:_ It appears fully natural and resists any divination magic cast on it.
+- _Negator:_ It can use its anti-magic ability twice per full recovery.
+- _Shapechanger:_ It can take any shape it likes, as long as it stays roughly cat-sized.
+- _Shield:_ Once per full recovery, it can force an enemy to reroll an attack against you with a d12.
+- _Shy:_ It can turn invisible at-will.
+- _Talkative:_ Your pet can talk. Each session, determine its personality with the Personality table
 
 | d6 | Personality |
 | --- | --- |
@@ -447,13 +447,13 @@ When you would roll to determine your next affinity, you can choose to gain the 
 | --- | --- |
 | Attack | Your melee attacks deal fire damage, and you deal 1d6 extra damage per level on a hit. |
 | Defense | If an enemy misses you with a melee attack, you can make a melee attack against them as an interrupt action. |
-| Iconic / Blood | Gain advantage on your next melee attack roll. |
-| Iconic / Light | Your melee attacks deal radiant damage, you deal half damage on a miss. |
-| Iconic / Twisted | Your melee attacks deal necrotic damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
+| Iconic - Blood | Gain advantage on your next melee attack roll. |
+| Iconic - Light | Your melee attacks deal radiant damage, you deal half damage on a miss. |
+| Iconic - Twisted | Your melee attacks deal necrotic damage, and if you hit, the target takes a 1d6 penalty to all defenses until the end of your next turn. |
 
 If you have a warp talent, you still get the talent’s effect even if you drop the affinity.
 
-_Special_: If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion full recovery affinity.
+_Special:_ If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion full recovery affinity.
 
 ---
 
@@ -501,7 +501,7 @@ One battle per full recovery, you can gain the Cackling Soliloquist talent from 
 
 #### Champion Feat
 
-While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier (double your Charisma modifier at 5th level; triple it at 8th level).
+While you have an _earth_ or _metal_ warp effect active, when an enemy in the battle drops to 0 hp, you gain temporary hit points equal to your Charisma modifier, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Epic Feat
 
@@ -577,7 +577,7 @@ Twice per full recovery, you can gather power as if you were a sorcerer in order
 
 #### Champion Feat
 
-While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage (double your Charisma modifier at 5th level; triple it at 8th level).
+While you have an _air_ or _fire_ warp effect active, add fire damage equal to your Charisma modifier to your miss damage, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 #### Epic Feat
 
@@ -684,11 +684,11 @@ Close-quarters Affinity
 
 Once per battle
 
-Quick action
+Quick Action
 
 **Target:** One melee weapon you are wielding
 
-**Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at 5th level and thrice at 8th, to a random nearby enemy.
+**Effect:** Until the end of the battle, when you miss with a melee attack with the weapon, deal damage equal to your Charisma modifier, twice at champion tier and thrice at epic tier, to a random nearby enemy.
 
 #### Adventurer Feat
 
@@ -1191,7 +1191,7 @@ At-Will
 
 ##### Adventurer Feat
 
-Add your Charisma modifier to the extra damage (double your Charisma modifier at 5th level; triple it at 8th level).
+Add your Charisma modifier to the extra damage, double your Charisma modifier at champion tier, and triple it at epic tier.
 
 ##### Champion Feat
 

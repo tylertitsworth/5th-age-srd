@@ -66,9 +66,7 @@ Sorcerers start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -77,9 +75,9 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 11 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 10 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 8 |
-| **Recovery Dice** | (1d6 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d6 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -116,24 +114,6 @@ At-Will
 ---
 
 ## Class Features
-
-All sorcerers share three general class features: Access to Wizardry, Dancing Lights, and Gather Power. _Breath weapon_, _chain_, and _random energy_ are keywords used in sorcerer spells
-
-### Breath Weapon
-
-Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
-
-The _breath weapon_ power lasts for a single battle only.
-
-You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the [Chromatic Destroyer Heritage talent](#chromatic-destroyer-heritage) for the path to multiple _breath weapon_ spells.)
-
-Failing a death save cancels any _breath weapon_ spells you have active.
-
-#### Adventurer Feat
-
-Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
-
----
 
 ### Chain
 
@@ -203,8 +183,6 @@ When you gather power, you gain a sorcery point (see the Metamagic and Sorcery P
 | 7th | Elemental Form and Reflecting Barrier |
 | 9th | Silver Flame, Spell Barrage, and Twilight Travel |
 
----
-
 ##### Arcane Familiars
 
 Arcane familiars choose two familiar abilities, as per the [Wizard’s Familiar talent](./Wizard.md#wizards-familiar).
@@ -244,8 +222,6 @@ Sorcerers with the arcane bloodline cast dancing lights.
 | 5 | Acid |
 | 6 | Force |
 
----
-
 #### Celestial Bloodline
 
 ##### Access to Divine Magic
@@ -275,8 +251,8 @@ When you Gather Power, you gain the divine benefit below. Unlike other bloodline
 | **Escalation Die** | **Adventurer Tier Benefit** |
 | --- | --- |
 | None | Gain a +1 bonus to PD and MD until the start of your next turn.|
-| Odd | Deal radiant damage equal to your Wisdom modifier (x2 at 5th level; x3 at 8th) + Level to one nearby enemy. |
-| Even | Heal hit points equal to Wisdom modifier, twice at 5th level, and thrice at 8th to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
+| Odd | Deal radiant damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.+ Level to one nearby enemy. |
+| Even | Heal hit points equal to Wisdom modifier, twice at champion tier, and thrice at epic tier to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
 
 ###### Adventurer Feat
 
@@ -298,8 +274,6 @@ Target two enemies / allies with the odd / even effect.
 | 7th | Celestial Censure, Entomb, and Sorcerous Wings |
 | 9th | Calling the Blood, Celestial Apotheosis, and Twilight Travel |
 
----
-
 ##### Celestial Familiars
 
 Celestial familiars are often animals from divine realms. They resemble animals from the prime material plane, but in a true, perfect sense. Their fur is shinier, and even if they don’t speak, they have a reserved wisdom to them that is unlike any mortal creature. Celestial familiars have two familiar abilities, which can be Celestial Ward, Healing Touch, or Radiant listed below, or the Alert, Flight, Scout, Tough, or Talkative abilities from the wizard list.
@@ -318,7 +292,7 @@ You gain the following metamagic abilities.
 
 _Holy Spell (1 point):_ Change the spell’s damage to radiant damage.
 
-_Rejuvenating Spell (1 point):_ The target also gains temporary hit points equal to your Wisdom modifier, twice at 5th level, and thrice at 8th, plus twice the spell level
+_Rejuvenating Spell (1 point):_ The target also gains temporary hit points equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier, plus twice the spell level
 
 ---
 
@@ -341,8 +315,6 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 3 | Thunder |
 | 4 | Radiant |
 
----
-
 #### Draconic Bloodline
 
 ##### Access to Wizardry
@@ -357,6 +329,22 @@ Use Charisma instead of Intelligence with your chosen wizard spells.
 
 ---
 
+#### Breath Weapon
+
+Spells with the _breath weapon_ keyword have a chance to be re-used during battle. Each _breath weapon_ spell lists the chance of re-using it (usually 16+). At the start of each round after you've cast the _breath weapon_ spell, make the re-use roll. Success indicates that you may re-use that spell as a standard action, but for that round only. If you fail the re-use roll, you don't have the option to re-use the spell, but you get another chance at the beginning of the next round.
+
+The _breath weapon_ power lasts for a single battle only.
+
+You can have only one _breath weapon_ spell active at a time. If you cast a different _breath weapon_ spell when you have an earlier spell active, the new spell cancels the earlier spell. (See the [Chromatic Destroyer Heritage talent](#chromatic-destroyer-heritage) for the path to multiple _breath weapon_ spells.)
+
+Failing a death save cancels any _breath weapon_ spells you have active.
+
+##### Adventurer Feat
+
+Failing a death save no longer cancels your _breath weapon_ spells. Keep rolling the entire battle.
+
+---
+
 ##### Draconic Benefit
 
 When you Gather Power, gain a draconic benefit as per the table below.
@@ -364,7 +352,7 @@ When you Gather Power, gain a draconic benefit as per the table below.
 | **d6** | **Adventurer Tier** | **Champion Tier** | **Epic Tier** |
 | --- | --- | --- | --- |
 | 1-2 | Gain a +1 bonus to AC until the start of your next turn. | Gain a +1 bonus to AC and PD until the start of your next turn. | Gain a +1 bonus to all defenses until the start of your next turn. |
-|3–4 | Deal damage equal to your level to all nearby staggered enemies. | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
+| 3–4 | Deal damage equal to your level to all nearby staggered enemies. | Deal damage equal to your level + your Charisma modifier to all nearby staggered enemies. | Deal damage equal to your level + twice your Charisma modifier to all nearby staggered enemies. |
 | 5–6 | Deal damage equal to your level to one nearby enemy. | Deal damage equal to your level + Charisma modifier to one nearby enemy. | Deal damage equal to your level + twice your Charisma modifier to one nearby enemy. |
 
 ###### Adventurer Feat
@@ -386,8 +374,6 @@ When you gather power, you also gain the ability to fly to a nearby location as 
 | 5th | Breath of the Black, Breath of the Copper, and Breath of the Purple |
 | 7th | Breath of the Blue, Breath of the Silver, Draconic Gift, and Sorcerous Wings |
 | 9th | Breath of the Golden, Breath of the Red, Breath of the Void, Draconic Apotheosis, and Silver Flame |
-
----
 
 ##### Draconic Familiars
 
@@ -429,8 +415,6 @@ Sorcerers with the Draconic bloodline can create small elemental effects with th
 | 2 | Fire |
 | 3 | Lightning |
 | 4 | Thunder |
-
----
 
 #### Fey Bloodline
 
@@ -481,8 +465,6 @@ The daze and MD penalty effects are “save ends.”
 | 7th | Pixie Dust, Sorcerous Wings, and Stolen Faces |
 | 9th | Prey of the Wild Hunt, Silver Flame, and Twilight Travel |
 
----
-
 ##### Fey Familiars
 
 If you have the Sorcerer’s Familiar talent, choose two abilities from the table as per the [Wizard’s Familiar](./Wizard.md#wizards-familiar). You also have the two additional options below.
@@ -515,8 +497,6 @@ If the target spell is a sorcerer spell with the fey keyword, or a bard spell, r
 | 2 | Psychic |
 | 3 | Force |
 | 4 | Thunder |
-
----
 
 #### Umbral Bloodline
 
@@ -555,8 +535,6 @@ The spell usually lasts at least an hour. You can cast it a number of times per 
 | 3 | Poison |
 | 4 | Psychic |
 
----
-
 ##### Umbral Benefit
 
 When you Gather Power, roll 1d6 on the table below.
@@ -587,8 +565,6 @@ Also gain the Umbral benefit as a free action the first time you are staggered i
 | 7th | Entomb, Memento Mori, Shadow Form, Stolen Faces, and The Elven Shadows |
 | 9th | Black Blade of Disaster, Breath of the Void, Twilight Travel, and Void Rift |
 
----
-
 ##### Umbral Familiars
 
 Your familiar is a creature associated with the dark arts, such as a cat, raven or a bat. Some are ghostly or skeletal in appearance. Your familiar has two abilities, which you can choose from Consume, Corrupting Touch, Ghost-sight or Insubstantial below, or Counter-bite, Flight, or Poisonous from the wizard list. If you choose a raven, it can also be Talkative.
@@ -609,7 +585,7 @@ You gain the following metamagic abilities.
 
 _Negative Spell (1 point):_ Change the spell’s damage type to necrotic damage.
 
-_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier (x2 at 5th level; x3 at 8th) + the spell level.
+_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier, twice at champion tier, and thrice at epic tier.+ the spell level.
 
 _Shadow Spell (1 point):_ Change the spell’s damage to psychic damage. The spell cannot be countered by abilities such as the blue dragon’s counter-spell.
 
@@ -870,7 +846,7 @@ You use your Constitution modifier instead of your Charisma modifier to determin
 
 #### Adventurer Feat
 
-When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At 5th level, add double your Charisma modifier; at 8th level, triple it.
+When you miss with a sorcerer spell against an enemy you are engaged with, add your Charisma modifier to the damage you deal. At champion tier, add double your Charisma modifier; at 8th level, triple it.
 
 #### Champion Feat
 
@@ -884,7 +860,7 @@ Once per full recovery when you cast an empowered spell, each enemy engaged with
 
 ### Street Magic
 
-Gain a bonus sorcery point, and the following metamagic abilities (see the Metamagic and Sorcery Points class feature for details).
+Gain a bonus sorcery point, and the following metamagic abilities (see the [Metamagic and Sorcery Points](#metamagic) class feature for details).
 
 _Backstabbing Spell (1 point):_ Gain a +2 bonus to your critical threat range with the spell.
 
@@ -1034,7 +1010,7 @@ _Natural even hit:_ Grant a bonus equal to your Wisdom modifier to the next atta
 
 #### Adventurer Feat
 
-On a natural even roll, hit or miss, deal extra damage equal to your Wisdom modifier (2x at 5th level; x3 at 8th).
+On a natural even roll, hit or miss, deal extra damage equal to your Wisdom modifier, 2x at champion tier, and thrice at epic tier.
 
 ---
 
@@ -1044,7 +1020,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -1112,7 +1088,7 @@ Brass Babble
 
 Close-quarters Spell
 
-Quick action
+Quick Action
 
 Draconic
 
@@ -1145,7 +1121,7 @@ Full Recovery
 | 7th | 6d12 damage. |
 | 9th | 10d12 damage. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns. On a 16+, you can use breath of the white dragon that turn if you wish.
 
 ---
 
@@ -1420,7 +1396,7 @@ _Special:_ When you empower this spell, it doesn’t do double damage as usual. 
 | 3 | Enemies you hit are dazed (save ends) |
 | 4 | Deal ongoing fire damage equal to 10 times the spell level |
 | 5 | Deal full damage on a miss |
-| 6 | Repeat the attack at the start of your next turn as a free action; **Target:** 1d4+1 random nearby or far away enemies |
+| 6 | Repeat the attack at the start of your next turn as a free action; _Target: 1d4+1 random nearby or far away enemies_ |
 
 **Attack:** Charisma + Level vs. PD
 
@@ -1655,7 +1631,7 @@ _Special:_ When casting the spell, choose whether you want to cast it against PD
 
 #### Adventurer Feat
 
-(PD) Increase the damage dice to d8s OR (MD) deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) on a miss.
+(PD) Increase the damage dice to d8s OR (MD) deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.on a miss.
 
 #### Champion Feat
 
@@ -1702,7 +1678,7 @@ Close-quarters Spell
 
 Recharge 16+
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -1781,7 +1757,7 @@ When targeting an ally…
 
 | d4 | Effect |
 | --- | --- |
-| 1 | The target gains temporary hit points equal to your Charisma modifier (x2 at 5th level; x3 at 8th) + Level. |
+| 1 | The target gains temporary hit points equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.+ Level. |
 | 2 | The target gains a +2 bonus to PD and MD until the end of your next turn. |
 | 3 | The target teleports to switch location with another random nearby creature. |
 | 4 | You make the attack below against the enemy closest to it. |
@@ -1915,7 +1891,7 @@ Full Recovery
 | 7th | 35 + Charisma ongoing poison damage; 15 ongoing on a miss. |
 | 9th | 50 + Charisma ongoing poison damage; 25 ongoing on a miss. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the green_ that turn if you wish.
 
 ---
 
@@ -2005,7 +1981,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Arcane
 
@@ -2021,7 +1997,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Free action
+Free Action
 
 Celestial
 
@@ -2041,7 +2017,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Target:** You; breath weapon
 
@@ -2053,7 +2029,7 @@ Quick action to cast
 | 7th | You can now fly twice as fast as you normally move on the ground. You also gain a +5 bonus to disengage checks. |
 | 9th | The spell is now recharge 16+ after battle instead of full recovery. |
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _dragon's leap_ this turn if you wish. (Yeah, we know it's not actually a breath weapon, but it works as part of the draconic sorcerer package.)
 
 ---
 
@@ -2123,7 +2099,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial / Umbral
 
@@ -2149,7 +2125,7 @@ Close-quarters Spell
 
 Once per battle
 
-Free action
+Free Action
 
 Arcane
 
@@ -2378,7 +2354,7 @@ Full Recovery
 
 Double the spell's ongoing damage on a miss.
 
-_Breath Weapon_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the black_ that turn if you wish.
+_Breath Weapon:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the black_ that turn if you wish.
 
 ---
 
@@ -2589,7 +2565,7 @@ Close-quarters Spell
 
 Once per battle
 
-Interrupt action
+Interrupt Action
 
 Fey
 
@@ -2698,7 +2674,7 @@ Ranged Spell
 
 Full Recovery
 
-Free action
+Free Action
 
 Umbral
 
@@ -2940,7 +2916,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Draconic
 
@@ -3021,7 +2997,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Umbral
 
@@ -3115,7 +3091,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial / Fey / Draconic
 
@@ -3135,7 +3111,7 @@ Ranged Spell
 
 Full Recovery
 
-Free action to cast, before initiative is rolled
+Free Action to cast, before initiative is rolled
 
 **Targets:** 1d4 + 1 nearby allies
 
@@ -3183,7 +3159,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 _Special:_ If you are fighting one or more demons, roll an easy save (6+) at the start of each of your turns. Failure means that you are confused that turn.
 
@@ -3198,11 +3174,11 @@ Roll a d8 to see which power you gain:
 | **1** | Resist energy 16+ | When an attack that deals energy damage targets you, the attacker must roll a natural 16+ on the attack roll or it only deals half damage. |
 | **2** | Infernal battery | Until the end of the battle, you can use a quick action once each round to make recharge rolls for your expended recharge spells. Each time you do so, you take damage equal to half the natural result of your recharge roll. |
 | **3** | Backlash | The first time you are staggered this battle, the enemy who staggered you becomes confused (save ends). |
-| **4** | Spell frenzy | You enter a spell frenzy (see Infernal Heritage talent). If you were already in a spell frenzy, you now roll 3d20 for each attack and take damage equal to triple the target's level for each roll that misses. |
-| **5** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
-| **6** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
-| **7** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
-| **8** | Eye of the demon | Choose any two features you want. For the rest of this full recovery, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
+| **4** | Fear aura | Enemies engaged with you that have fewer hit points than double your current hit points are dazed. They cannot use the escalation die. |
+| **5** | Teleport 1d3 + 1 times this battle | As a move action, you can teleport anywhere you can see nearby. |
+| **6** | Demonic speed | You can take an extra standard action each turn that the escalation die is even. You lose 2d10 hit points each time you use the extra action. |
+| **7** | Eye of the demon | Choose any two features you want. For the rest of this full recovery, all your relationships disappear and are replaced by an identical number of positive points with a villainous relationship (preferably one that is demonic). |
+| **8** | Reroll |
 
 ---
 
@@ -3360,7 +3336,7 @@ Full Recovery
 
 **Miss:** Half damage.
 
-_Breath Spell_: For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the void_ this turn if you wish.
+_Breath Spell:_ For the rest of the battle, roll a d20 at the start of each of your turns; on a 16+, you can use _breath of the void_ this turn if you wish.
 
 ---
 
@@ -3384,7 +3360,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Celestial
 
@@ -3432,7 +3408,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Any bloodline
 
@@ -3476,7 +3452,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action to cast
+Quick Action to cast
 
 **Effect:** Roll a performance check related to a sorcerous heroic relationship that you have.
 

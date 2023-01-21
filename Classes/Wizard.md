@@ -66,9 +66,7 @@ Wizards start with 25gp.
 
 (H): Indicates columns in which hybrid characters lag one level behind.
 
-## Stats
-
-Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are level dependent.
+## Stats at 1st Level
 
 | <!-- --> | <!-- --> |
 | --- | --- |
@@ -77,9 +75,9 @@ Initiative, AC, PD, MD, Hit Points, Recovery Dice, Feats, and some Talents are l
 | **Armor Class (light armor)** | 10 + middle mod of Con/Dex/Wis + Level |
 | **Physical Defense** | 10 + middle mod of Str/Con/Dex + Level |
 | **Mental Defense** | 12 + middle mod of Int/Wis/Cha + Level |
-| **Hit Points** | (6 + Con mod) x Level modifier (see [level progression chart](#level-progression)) |
+| **Hit Points** | (6 + Con mod) x Level modifier |
 | **Recoveries** | 10 |
-| **Recovery Dice** | (1d4 x Level) + Con mod (see [level progression chart](./README.md#recovery-dice-progression) at 7th level) |
+| **Recovery Dice** | (1d4 x Level) + Con mod |
 | **Skills** | 2, max 5 in any one skill |
 | **Relationships** | 3 points |
 | **Talents** | 3 |
@@ -116,12 +114,6 @@ At-Will
 ---
 
 ## Class Features
-
-### Barred School
-
-As a specialist wizard, choose one of the seven wizard schools Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, or Transmutation as your barred school. You cannot cast spells from that school.
-
----
 
 ### Cantrips
 
@@ -165,33 +157,33 @@ You can master a ritual in half the required time.
 
 ---
 
-### Specialist Advantage
-
-Full Recovery spells of your chosen school become recharge 16+ after battle. They still count as full recovery spells for abilities that trigger off full recovery spells.
-
-#### Champion Feat
-
-Gain a +1 bonus to recharge rolls for spells of your school.
-
-#### Epic Feat
-
-The bonus to recharge rolls is now equal to your Intelligence modifier.
-
----
-
-### Specialist Spell Slot
-
-When you choose spells during a full heal-up, you can declare one (and only one) of your spell slots as your specialist school slot. You don’t choose a spell for that slot after the full heal-up, but at the time of casting the spell. You can choose any normal spell that belongs to your specialist school.
-
-If the spell you cast is a recharge spell, make a recharge roll at the end of the battle to regain the spell slot, not the particular spell. If the spell you cast is once per battle, cyclic, or at-will, you cast the spell normally during the battle, then regain the spell slot at the end of the battle.
-
----
-
 ### Wizard Schools
 
 The seven schools of magic are Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, and Transmutation. Choose one of the schools as your specialty.
 
 Necromancy is the forbidden 8th school, and is not featured, see [Necromancer](./Necromancer.md) instead.
+
+#### Barred School
+
+Choose one of the seven wizard schools Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, or Transmutation as your barred school. You cannot cast spells from that school.
+
+#### Specialist Advantage
+
+Full Recovery spells of your chosen school become recharge 16+ after battle. They still count as full recovery spells for abilities that trigger off full recovery spells.
+
+##### Champion Feat
+
+Gain a +1 bonus to recharge rolls for spells of your school.
+
+##### Epic Feat
+
+The bonus to recharge rolls is now equal to your Intelligence modifier.
+
+#### Specialist Spell Slot
+
+When you choose spells during a full heal-up, you can declare one (and only one) of your spell slots as your specialist school slot. You don’t choose a spell for that slot after the full heal-up, but at the time of casting the spell. You can choose any normal spell that belongs to your specialist school.
+
+If the spell you cast is a recharge spell, make a recharge roll at the end of the battle to regain the spell slot, not the particular spell. If the spell you cast is once per battle, cyclic, or at-will, you cast the spell normally during the battle, then regain the spell slot at the end of the battle.
 
 ---
 
@@ -381,7 +373,7 @@ You have advantage on saves against effects that were caused by magic items and 
 
 When you cast a spell that targets MD, choose one of the following benefits:
 
-- If the spell deals damage, deal extra damage equal to your Charisma modifier (x2 at 5th level; x3 at 8th) to each target you hit.
+- If the spell deals damage, deal extra damage equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.to each target you hit.
 - Increase the difficulty for the target’s first save against the spell by your Charisma modifier. (A natural roll of 18+ always saves, however.)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if the spell has one target, and twice your level if it has multiple targets.
 
@@ -558,7 +550,7 @@ Close-quarters Spell
 
 Once per battle
 
-Free action to cast
+Free Action to cast
 
 **Trigger:** A nearby creature you can see casts a spell.
 
@@ -611,7 +603,7 @@ When you cast a ranged spell, you don’t trigger attacks of opportunity from en
 
 #### Adventurer Feat
 
-When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier (x2 at 5th level; x3 at 8th) to it.
+When you miss a spell attack against a target you are engaged with, deal damage equal to your Strength modifier, twice at champion tier, and thrice at epic tier to it.
 
 #### Champion Feat
 
@@ -776,7 +768,7 @@ When the escalation die is 1+ and you cast a spell that does your damage type da
 
 When you cast a spell that targets PD, choose one of the following benefits:
 
-- If the spell deals damage, deal extra damage equal to your Constitution modifier (x2 at 5th level; x3 at 8th) to each target you hit.
+- If the spell deals damage, deal extra damage equal to your Constitution modifier, twice at champion tier, and thrice at epic tier.to each target you hit.
 - Increase the DC for the target’s first save against the spell by your Constitution modifier. (A natural roll of 18+ always saves, however)
 - Increase the hit point limit for the creatures you can affect by 5 times your level if it is one target, or twice your level in case of multiple targets.
 
@@ -1317,7 +1309,7 @@ Transmutation
 
 Ranged Spell
 
-Move action to cast
+Move Action to cast
 
 Recharge: 11+ after battle, or after 10 minutes have passed if used out of combat
 
@@ -1348,7 +1340,7 @@ Close-quarters Spell
 
 Once per battle
 
-Quick action
+Quick Action
 
 Transmutation
 
@@ -1491,7 +1483,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Abjuration
 
@@ -1555,7 +1547,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -1590,7 +1582,7 @@ Full Recovery
 
 Illusion
 
-Quick action
+Quick Action
 
 **Target:** You
 
@@ -1847,7 +1839,7 @@ Close-quarters Spell
 
 Recharge 11+ after battle
 
-Free action to cast, when an attack hits your AC.
+Free Action to cast, when an attack hits your AC.
 
 **Effect:** The attacker must reroll the attack. You must accept the new result.
 
@@ -2096,7 +2088,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Divination
 
@@ -2140,7 +2132,7 @@ Close-quarters Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -2198,13 +2190,13 @@ Close-quarters Spell
 
 Recharge 16+ after battle
 
-Quick action
+Quick Action
 
 Evocation
 
 _Special:_ Choose whether you want to create a fire shield or an ice shield when you cast the spell.
 
-**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier (x2 at 5th level; x3 at 8th) + Level to it.
+**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier, twice at champion tier, and thrice at epic tier.+ Level to it.
 
 **Effect (Ice Shield):** As above, but the shield deals cold damage and grants resistance to cold damage.
 
@@ -2354,7 +2346,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Transmutation
 
@@ -2370,7 +2362,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Enchantment
 
@@ -3046,7 +3038,7 @@ Increase the number of targets to 1d4 + 1.
 
 Close-quarters Spell
 
-Move action to cast
+Move Action to cast
 
 Full Recovery
 
@@ -3602,7 +3594,7 @@ Close-quarters Spell
 
 Cyclic (once per battle OR at-will when the escalation die is even)
 
-Interrupt action
+Interrupt Action
 
 Abjuration
 
@@ -3626,7 +3618,7 @@ Ranged Spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 Divination
 

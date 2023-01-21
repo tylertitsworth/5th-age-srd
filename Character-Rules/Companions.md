@@ -49,7 +49,7 @@ Each type of animal companion is a little different.
 
 **Acts:** After druid / ranger
 
-Advantage: With a successful easy difficulty skill check (using your ability scores and backgrounds), your companion can disguise itself as a mundane plant. It is also vulnerable to fire.
+**Advantage:** With a successful easy difficulty skill check (using your ability scores and backgrounds), your companion can disguise itself as a mundane plant. It is also vulnerable to fire.
 
 ### Adventurer Feat
 
@@ -63,9 +63,11 @@ On a natural even hit with a melee attack, your companion gives enemies disadvan
 
 **Advantage:** The bear gains temporary hit points equal to its level each time it hits with an attack.
 
-## Champion Feat
+### Champion Feat
 
 The temporary hit points increase to double its level.
+
+---
 
 ## Boar (also Spiky Lizard)
 
@@ -73,29 +75,39 @@ The temporary hit points increase to double its level.
 
 **Advantage:** The boar gains a +1 attack bonus when it moves before its attack during the same turn.
 
+---
+
 ## Eagle (also Falcon, Hawk, Owl, Vulture)
 
 **Acts:** Before druid / ranger
 
 **Advantage:** It flies! Its melee damage die is dropped by one size (d6 at level 0).
 
+---
+
 ## Faerie Spirit
 
 **Acts:** Before druid / ranger
 
-Advantage: Once per battle, your companion can teleport to a nearby location it can see as a move action.
+**Advantage:** Once per battle, your companion can teleport to a nearby location it can see as a move action.
+
+---
 
 ## Giant Toad
 
 **Acts:** After druid / ranger
 
-Advantage: Your companion can use its tongue to make melee attacks against nearby enemies it is not engaged with. The attack deals normal damage, and on a natural even hit, the target is forced to pop free and engage the toad.
+**Advantage:** Your companion can use its tongue to make melee attacks against nearby enemies it is not engaged with. The attack deals normal damage, and on a natural even hit, the target is forced to pop free and engage the toad.
+
+---
 
 ## Hellcat (also Hellhound)
 
 **Acts:** Before druid / ranger
 
-Advantage: On a natural attack roll of 18+, your companion does 1d6 per level extra fire damage to the target.
+**Advantage:** On a natural attack roll of 18+, your companion does 1d6 per level extra fire damage to the target.
+
+---
 
 ## Panther (also Lion, Tiger)
 
@@ -103,23 +115,29 @@ Advantage: On a natural attack roll of 18+, your companion does 1d6 per level ex
 
 **Advantage:** The panther's crit range expands by 2 against enemies with lower initiative.
 
+---
+
 ## Shadow Beast
 
 **Acts:** Before druid / ranger
 
-Advantage: The companion gains resist necrotic 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
+**Advantage:** The companion gains resist necrotic 12+, and a +2 bonus to skill checks to hide in dimly lit areas.
+
+---
 
 ## Shocker Lizard
 
 **Acts:** Before druid / ranger
 
-Advantage: The first time your companion hits an enemy in a battle, it deals 1d10 extra lightning damage (2d10 at 5th level; 4d10 at 8th).
+**Advantage:** The first time your companion hits an enemy in a battle, it deals 1d10 extra lightning damage, 2d10 at champion tier, and 4d10 at epic tier.
+
+---
 
 ## Skeletal Animal
 
 **Acts:** After druid / ranger
 
-Advantage: Your companion gains resist weapons 12+, but it is also vulnerable to radiant damage.
+**Advantage:** Your companion gains resist weapons 12+, but it is also vulnerable to radiant damage.
 
 ### Champion Feat
 
@@ -131,7 +149,7 @@ Increase the resistance to 16+.
 
 **Acts:** After druid / ranger
 
-Advantage: Reduce all damage your animal companion takes by half your level (round up).
+**Advantage:** Reduce all damage your animal companion takes by half your level (round up).
 
 ### Adventurer Feat
 
@@ -145,25 +163,31 @@ Increase the damage reduction to equal to your level.
 
 **Advantage:** The snake also deals ongoing poison damage equal to twice your level on a natural attack roll of 18+.
 
-## Champion Feat
+### Champion Feat
 
 The ongoing damage is three times your level instead.
 
-## Epic Feat
+### Epic Feat
 
 The ongoing damage is four times your level instead.
+
+---
 
 ## Unicorn
 
 **Acts:** After druid / ranger
 
-Advantage: Once per battle, the unicorn can let an adjacent ally use a recovery to heal as a quick action.
+**Advantage:** Once per battle, the unicorn can let an adjacent ally use a recovery to heal as a quick action.
+
+---
 
 ## Wolf (also Big Dog, Coyote, Hyena, Jackal)
 
 **Acts:** After druid / ranger
 
 **Advantage:** The wolf gains a +1 attack bonus against enemies its master attacked the same turn, or against enemies engaged with its master.
+
+---
 
 ## Baseline Stats
 
@@ -187,20 +211,20 @@ Use the following stats as the baseline for your animal companion. Remember that
 
 Animal companion feats are designed so that they do not build on each other. Unlike other feats, you don't have to take animal companion feats progressively, one after the other as long as you qualify for the correct tier.
 
-## Adventurer Feats
+### Adventurer Feats
 
 - Once per full recovery, your animal companion can attack twice in a round with a standard action.
 - Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
 - Once per full recovery, reroll one of your animal companion's missed attack rolls.
 - Your animal companion adds the escalation die to its attacks.
 
-## Champion Feats
+### Champion Feats
 
 - Once per full recovery, your animal companion can force an enemy to reroll an attack that hit it.
 - Your Lethal Hunter talent also applies to your animal companion.
 - Increase your animal companion's Physical Defense and Mental Defense by +1.
 
-## Epic Feats
+### Epic Feats
 
 - Increase your animal companion's damage die by one size (for example, from d6s to d8s, or d8s to d10s).
 - Increase your animal companion's AC by +1.
@@ -224,9 +248,9 @@ Animal Companion spells are not available to Animal Companion initiates.
 | 9 | 10 | 4 | 9th level |
 | 10 | - | 4 | 9th level |
 
-## 1st Level Spells
+### 1st Level Spells
 
-### Borrow Senses
+#### Borrow Senses
 
 Close-quarters spell
 
@@ -242,11 +266,11 @@ Full Recovery
 
 ---
 
-### Pack Link
+#### Pack Link
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -261,11 +285,11 @@ Full Recovery
 
 ---
 
-### Vitality
+#### Vitality
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -282,13 +306,13 @@ Full Recovery
 
 ---
 
-## 3rd Level Spells
+### 3rd Level Spells
 
-### Magic Fang
+#### Magic Fang
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -296,21 +320,20 @@ Full Recovery
 
 **Effect:** If the target already adds the escalation die to its attacks, it gains a +2 attack bonus until the end of the battle. If not, it now adds the escalation die to its attacks until the end of the battle.
 
-5th level spell: The target's crit range expands by 2.
-
 | Higher Level | Effect |
 | --- | --- |
+| 5th | The target's crit range expands by 2. |
 | 9th | The target's crit range expands by a total of 4. |
 
 ---
 
-### Thicker Leather
+#### Thicker Leather
 
 Close-quarters spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** One nearby animal companion
 
@@ -323,13 +346,13 @@ Quick action
 
 ---
 
-## 5th Level Spells
+### 5th Level Spells
 
-### Armor of Shell & Spirits
+#### Armor of Shell & Spirits
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -346,13 +369,13 @@ _Special:_ You must spend a recovery to cast this spell.
 
 ---
 
-### Protective Pounce
+#### Protective Pounce
 
 Ranged spell
 
 Full Recovery
 
-Interrupt action
+Interrupt Action
 
 **Trigger:** An enemy targets you with a melee attack
 
@@ -360,13 +383,13 @@ Interrupt action
 
 **Effect:** Your companion pops free, engages the attacker and makes a melee attack against them. If the companion’s attack hits, your attacker has disadvantage on their attack roll.
 
-## 7th Level Spells
+### 7th Level Spells
 
-### Blood is Strong
+#### Blood is Strong
 
 Ranged spell
 
-Quick action to cast
+Quick Action to cast
 
 Full Recovery
 
@@ -380,27 +403,27 @@ Full Recovery
 
 ---
 
-### Call Companion
+#### Call Companion
 
 Close-quarters spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** Your current animal companion, regardless of where it is
 
 **Effect:** Your companion appears at your side.
 
-## 9th Level Spells
+### 9th Level Spells
 
-### Blink
+#### Blink
 
 Ranged spell
 
 Full Recovery
 
-Quick action
+Quick Action
 
 **Target:** A nearby animal companion
 
@@ -408,11 +431,11 @@ Quick action
 
 ---
 
-### Spirit Guardian
+#### Spirit Guardian
 
 Ranged spell
 
-Free action to cast
+Free Action to cast
 
 Full Recovery
 
