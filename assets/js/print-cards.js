@@ -68,13 +68,15 @@ function insertCardNumber(card, cardNumber){
 //can fit on one additional card, it will call itself again to prune overflow again
 function pruningHandler(card, wrapper, cardNumber){
   var processedCard = pruneCard(card)
+  cardNumber++
 
   insertCardNumber(processedCard, cardNumber)
   wrapper.appendChild(processedCard)
 
   if(isOverflown(processedCard)){
-    pruningHandler(processedCard, wrapper, cardNumber + 1)
+    cardNumber = pruningHandler(processedCard, wrapper, cardNumber)
   }
+  return cardNumber
 }
 
 //Prunes the card and returns a new card with the excess elements
@@ -139,14 +141,12 @@ function overflowHandling(cards){
       //Then take all of the cards out of the wrapper so we can test more cards
       if(isOverflown(cards[i])){
           var cardsWithTables = tableHandler(cards[i], wrapper)
-          var noPrune = 0
+          var cardNumber = 1
 
           if(isOverflown(cards[i])){
-            pruningHandler(cards[i], wrapper, 2)
+            cardNumber = pruningHandler(cards[i], wrapper, cardNumber)
           }
-          else{
-            noPrune = 1
-          }
+
 
           var divsToMove = wrapper.querySelectorAll(".powerCard")
           var divsToMoveLength = divsToMove.length
@@ -160,7 +160,7 @@ function overflowHandling(cards){
           //If we had any tables, we want to append them to the end
           if(cardsWithTablesLength){
             for(var b = 0; b < cardsWithTablesLength; b++){
-              insertCardNumber(cardsWithTables[b], divsToMoveLength + b - noPrune)
+              insertCardNumber(cardsWithTables[b], cardNumber + b + 1)
               prunedCardArray.appendChild(cardsWithTables[b])
             }
 
@@ -210,6 +210,8 @@ function overflowHandling(cards){
       var arrAInc = 0
       var arrBInc = 0
 
+      var centeringDiv = document.createElement("div")
+      centeringDiv.classList.add("centeringDiv")
       for(; j < divsInContainerLength; j+=2){
         if(arrAInc == 3){
           break;
@@ -220,6 +222,9 @@ function overflowHandling(cards){
         arrAInc++
       }
 
+
+      centeringDiv = document.createElement("div")
+      centeringDiv.classList.add("centeringDiv")
       for(; k < divsInContainerLength; k+=2){
         if(arrBInc == 3){
           break;
@@ -229,6 +234,7 @@ function overflowHandling(cards){
         wrapper.appendChild(divsInContainer[k])
         arrBInc++
       }
+
   }
 }
 //Adds the intial cards from localStorage to a div to convert from a string to nodes
