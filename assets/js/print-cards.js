@@ -152,7 +152,7 @@ function overflowHandling(cards){
           if(cardsWithTablesLength){
             var cardsWithTablesLength = cardsWithTables.length
             for(var b = 0; b < cardsWithTablesLength; b++){
-              insertCardNumber(cardsWithTables[b], divsToMoveLength + b + 1 - noPrune)
+              insertCardNumber(cardsWithTables[b], divsToMoveLength + b - noPrune)
               prunedCardArray.appendChild(cardsWithTables[b])
             }
             divsToMoveLength + cardsWithTablesLength
