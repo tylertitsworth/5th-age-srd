@@ -15,7 +15,7 @@ function checkFeats(siblingNode){
 function createEmptyDiv(){
   var emptyDiv = document.createElement("div")
   emptyDiv.classList.add("powerCard")
-  emptyDiv.classList.add("cardBack")
+  emptyDiv.classList.add("emptyCardBack")
   return emptyDiv
 }
 
@@ -101,16 +101,10 @@ function newCard(overflowElements, overflowStackSize){
   for(var i = 0; i < overflowStackSize; i++){
     cardScript += overflowElements.pop()
   }
-  // console.log("after pop")
-  // console.log(overflowElements)
-  // console.log("CardScript for new card ")
-  // console.log(cardScript)
+
   var card = document.createElement("div")
   card.classList.add("powerCard")
   card.innerHTML = cardScript
-  // console.log("Card Script is")
-  // console.log(cardScript)
-
   return card
 }
 
@@ -198,6 +192,7 @@ function overflowHandling(cards){
           if(arrAInc == 3){
             break;
           }
+          divsInContainer[j].classList.add("cardFront")
           wrapper.appendChild(divsInContainer[j])
           arrAInc++
         }
@@ -205,8 +200,8 @@ function overflowHandling(cards){
           if(arrBInc == 3){
             break;
           }
-          wrapper.appendChild(divsInContainer[k
-          ])
+          divsInContainer[k].classList.add("cardBack")
+          wrapper.appendChild(divsInContainer[k])
           arrBInc++
         }
     }
