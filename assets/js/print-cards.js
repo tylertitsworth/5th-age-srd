@@ -5,7 +5,6 @@ function checkFeats(siblingNode){
       return false
   }
   if(siblingNode.id.indexOf("adventurer-feat") > -1 || siblingNode.id.indexOf("champion-feat") > -1 || siblingNode.id.indexOf( "epic-feat") > -1){
-    console.log("ID: ", siblingNode.id)
     return true
   }
 
@@ -25,13 +24,36 @@ function isOverflown(element) {
     return element.scrollHeight > element.clientHeight || element.scrollWidth > element.clientWidth;
   }
 
+function tableHandler(card, wrapper){
+  var table = card.querySelectorAll("table")
+  var tableDivs = [] 
+  if(table){
+    let tableElementsLength = table.length
+    for(let i = 0; i < tableElementsLength; i++){
+      let tempDiv = document.createElement("div")
+      tempDiv.classList.add("powerCard")
+      tempDiv.appendChild(table[i])
+      wrapper.appendChild(tempDiv)
+
+      if(isOverflown(table[i])){
+        table[i].remove()
+        continue
+      }
+      tableDivs.push(tempDiv)
+    }
+  }
+
+
+  return tableDivs
+}
+
 //Recursively calls itself to prune a card, if a card has more overflow than
 //can fit on one additional card, it will call itself again to prune overflow again
 //Apparently this does not work because the card has to be visible on the dom to
 //detect overflows, rework to add to dom temporaryily to change effects
 
 //Recursively calls itself to prune a card
-function pruningHandler(card, wrapper,cardNumber){
+function pruningHandler(card, wrapper, cardNumber){
   var processedCard = pruneCard(card)
   insertCardNumber(processedCard, cardNumber)
   wrapper.appendChild(processedCard)
@@ -65,36 +87,28 @@ function pruneCard(card){
   var pushNumber = 0
   while(1){
     over.push(card.lastElementChild.outerHTML)
-    // console.log("Inner HTML")
-    // console.log(card.lastElementChild.innerHTML)
-    // console.log("Outer HTML")
-    // console.log(card.lastElementChild.outerHTML)
+
     card.lastElementChild.remove()
     pushNumber++
     //Check if the next line is a heading
     //If it is, we want to try and group it with it's text
     //So push it too
-    // console.log(card.lastElementChild.outerHTML)
     if(checkFeats(card.lastElementChild)){
       over.push(card.lastElementChild.outerHTML)
-      console.log(card.lastElementChild.outerHTML)
       card.lastElementChild.remove()
       pushNumber++
     }
     if(!isOverflown(card)){
       break
     }
-   // console.log(over)
   }
-  // console.log("PushNumber " + pushNumber)
   return newCard(over, pushNumber)
 
 }
 
 function newCard(overflowElements, overflowStackSize){
   var cardScript = ""
-  // console.log("overflow elements")
-  // console.log(overflowElements)
+
   //I can't use overflowElements.length because it returns the length
   // of the stack/2 rounded down, instead of the actual size
   //So I have to literally count how many pushes I made to pop them all off
@@ -112,45 +126,41 @@ function overflowHandling(cards){
    var intialLength = cards.length
    var wrapper = document.getElementById("content-wrapper");
    var prunedCardArray = document.createElement("div")
-    // console.log("WAT")
     console.log(cards)
     for(let i = 0; i < intialLength; i++){
       console.log("Card number " + i)
       insertCardNumber(cards[i], 1)
       wrapper.appendChild(cards[i])
-        //console.log(cards[i].innerHTML)
       if(isOverflown(cards[i])){
-          //console.log("OVERFLOW at ", i)
-          pruningHandler(cards[i], wrapper, 2)
-          // var cardContainer = document.createElement("div")
+          var cardsWithTables = tableHandler(cards[i], wrapper)
+          var noPrune = 0
+          if(isOverflown(cards[i])){
+            pruningHandler(cards[i], wrapper, 2)
+          }
+          else{
+            noPrune = 1
+          }
           var divsToMove = wrapper.querySelectorAll(".powerCard")
           var divsToMoveLength = divsToMove.length
-          // console.log("MOVING")
-          // console.log(divsToMove)
+
           for(let j = 0; j < divsToMoveLength; j++){
             prunedCardArray.appendChild(divsToMove[j])
+          }
+
+
+          var cardsWithTablesLength = cardsWithTables.length
+          if(cardsWithTablesLength){
+            var cardsWithTablesLength = cardsWithTables.length
+            for(var b = 0; b < cardsWithTablesLength; b++){
+              insertCardNumber(cardsWithTables[b], divsToMoveLength + b + 1 - noPrune)
+              prunedCardArray.appendChild(cardsWithTables[b])
+            }
+            divsToMoveLength + cardsWithTablesLength
           }
           //If the length is odd 
           if(divsToMoveLength % 2){
             prunedCardArray.appendChild(createEmptyDiv())
           }
-          // prunedCardArray.push(cardContainer)
-          // var prunedCard = pruneCard(cards[i])
-          // var wrapper = document.getElementById("content-wrapper");
-          // wrapper.appendChild(prunedCard)
-          // console.log("This is the cardstack")
-          // console.log(cardStack)
-          // console.log("First Card")
-          // console.log(cardStack[0])
-
-          // for(var j = 0; j < cardStack.length; j++){
-          //   var wrapper = document.getElementById("content-wrapper");
-
-          //   var poppedCard = cardStack.pop()
-          //   // console.log("Popped Card")
-          //   // console.log(poppedCard.innerHTML)
-          //   wrapper.appendChild(poppedCard)
-          // }
         }
         else{
           // console.log("only one card")
@@ -158,25 +168,39 @@ function overflowHandling(cards){
           var divToMove = wrapper.querySelector(".powerCard")
           prunedCardArray.appendChild(divToMove)
 
+          // var cardsWithTablesLength = cardsWithTables.length
+          // if(cardsWithTablesLength){
+          //   var cardsWithTablesLength = cardsWithTables.length
+          //   var b = 0
+          //   for(; b < cardsWithTablesLength; b++){
+          //     insertCardNumber(cardsWithTables[b], b + 1)
+          //     prunedCardArray.appendChild(cardsWithTables[b])
+          //   }
+          //   b += 1
+            
+          //   if (b % 2){
+          //     prunedCardArray.appendChild(createEmptyDiv())
+          //   }
+
+          // }
+          // else {
           prunedCardArray.appendChild(createEmptyDiv())
           // console.log(cardContainer.innerHTML)
           // prunedCardArray.push(cardContainer)
+          // }
         }
 
     }
     console.log("Adding back to the wrapper")
-    console.log(prunedCardArray)
     var divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
     var divsInContainerLength = divsInContainer.length
-    // console.log("Number of divs: ", divsInContainerLength)
-    while(divsInContainerLength % 3){
+    while(divsInContainerLength % 6){
       prunedCardArray.appendChild(createEmptyDiv())
       divsInContainerLength++
     }
 
     divsInContainer = prunedCardArray.querySelectorAll(".powerCard")
     divsInContainerLength = divsInContainer.length
-    // console.log("Number of divs: ", divsInContainerLength)
 
         // for(var j = 0; j < divsInContainerLength; j++){
         // wrapper.appendChild(divsInContainer[j])
@@ -223,28 +247,7 @@ function addCards(){
     //Why does querySelctorAll work and getElementsbyClassName not work
     //Apparently the results are returned as a Nodelist and not an array
     var powerDivs = tempDiv.querySelectorAll(".powerCard")
-    // console.log(powerDivs)
-    // console.log(powerDivs.length)
-    // //I'm running into the same issue, the length of the collection is incorrect
-    // var powerDivLength = powerDivs.length
-    // for(var i = 0; i < powerDivLength; i++){
-    //   // console.log("LENGTH:", powerDivs.length)
-    //   console.log(powerDivs[i].innerHTML)
-    //   wrapper.appendChild(powerDivs[i])
-    //   // console.log("Appending ", i)
-    // }
     overflowHandling(powerDivs)
-
-
-    //If I don't run the for loop directly after getting the Elements, the length is correct
-    //Maybe the script is running too fast?
-    // var i = 0
-    // while(!powerDivs[i]){
-    //   wrapper.appendChild(powerDivs[i])
-    //   i++
-    // }
-
-
 }
 
 function printPage(){
