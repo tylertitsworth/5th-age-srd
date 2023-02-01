@@ -123,9 +123,11 @@ Psions are not allowed to cast rituals.
 
 ### Psionics
 
-Psionics has three main categories of affinities: attack, defense, and iconic.
+Psionics has three main categories of affinities: attack, defense, and iconic. At the start of combat and at the end of each of your turns, roll the psionic affinities die to determine which category you'll cast from.
 
-You have a pool of 6 options, represented by a die. You can allocate Attack, Defense, and Iconic options equally between the numbers on a die. When you roll a number, you gain the associated affinity and you can't roll the number again until you have rolled all options numbers on the die. When you have exhausted every number, you reset.
+Your Psionic affinities die is comprised of 6 options without replacement until all of the options have been exhausted. You can allocate Attack, Defense, and Iconic options equally between the numbers on a die. When you roll a number, you gain the associated affinity.
+
+>_Note:_ "without replacement" means that if you would roll that option again, you instead reroll your psionic affinities die until you get a different option. Once you have exhausted all possible options you _reset_ and can roll all of the options again.
 
 If you would gain another affinity, you add that to your pool of options and increase the size of the die you would roll.
 
@@ -455,19 +457,13 @@ If you have a warp talent, you still get the talent’s effect even if you drop 
 
 _Special:_ If you are a hybrid psion, the psion side counts as a “skilled warrior” and no longer reduces your WEAPON damage die. However, you have one fewer psion full recovery affinity.
 
----
-
 #### Adventurer Feat
 
 Your recoveries use exploding dice (add one more die for each that comes up as maximum).
 
----
-
 #### Champion Feat
 
 Your AC in light armor is increased to 11, and in heavy armor to 13.
-
----
 
 #### Epic Feat
 
