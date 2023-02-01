@@ -121,6 +121,18 @@ When you attack with a _chain_ spell and get a natural even roll, you can roll a
 
 ---
 
+### Gather Power
+
+Once initiative has been rolled and a battle is underway, a sorcerer can spend a standard action to gather magical power, preparing themselves for casting a double-strength spell with their next standard action. Gathering power is loud and very noticeable. When a sorcerer gathers power, it does not count as casting a spell; you can gather power without taking opportunity attacks.
+
+After you have gathered power, you can use your next standard action to cast an empowered sorcerer spell. Empowered sorcerer spells deal double the damage of a normal sorcerer spell. This means that you double the damage results of the hit or a miss from the single spell. If you do not or are not able to use your next standard action to cast a sorcerer attack spell, you lose the power you’ve gathered. You can use another standard action to gather power again, but the spell you eventually cast will still only do double damage. If you’ve gathered power for a spell that deals ongoing damage, the ongoing damage is doubled the first time it is dealt, but not on subsequent rounds, if any.
+
+#### Champion Feat
+
+Once per battle when the escalation die is 4+, you can gather power as a quick action.
+
+---
+
 ### Metamagic
 
 A sorcerer’s magic is an innate ability, and they can intuitively control it as if they were moving a hand or a finger. Each bloodline has metamagic tricks to improve their spells. Arcane sorcerers are great at targeting their spells, whereas draconic sorcerers have a few extra tricks with their breath weapons, and so on.
