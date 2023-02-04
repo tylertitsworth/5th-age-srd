@@ -669,7 +669,7 @@ _Special:_ If you spend an additional command point on this command, you can tar
 
 #### Adventurer Feat
 
-The target also adds hit points equal to your Charisma modifier to the recovery. (Double your Charisma modifier at champion tier; triple it at epic tier.)
+The target also adds hit points equal to your Charisma modifier to the recovery. (Double your Charisma modifier at champion tier; triple it at epic tier)
 
 #### Champion Feat
 
