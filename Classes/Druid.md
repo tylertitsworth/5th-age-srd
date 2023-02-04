@@ -4010,7 +4010,7 @@ You can only have one beast aspect active at a time. Activating a beast aspect e
 
 _Initiate:_ Beast aspects are full recovery powers for you. When activating an aspect, you gain the initiate effect.
 
-_Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activating an aspect, you gain the adept effect.
+_Adept; Master:_ Your beast aspects are Recharge 16+ after battle. When activating an aspect, you gain the adept effect.
 
 ### Circle of the Moon Talents
 
@@ -4173,7 +4173,7 @@ Full Recovery, or recharge 16+ for adepts
 
 Quick Action
 
-**Initiate Effect:** Until the end of the battle, while in beast form you gain a +2 bonus to attacks and damage against lower level enemies and mooks of any level. The damage bonus increases to 2 + double your Strength or Dexterity modifier at championer tier, and 2 + triple your Strength or Dexterity modifier at epic tier.
+**Initiate Effect:** Until the end of the battle, while in beast form you gain a +2 bonus to attacks and damage against lower level enemies and mooks of any level. The damage bonus increases to 2 + double your Strength or Dexterity modifier at champion tier, and 2 + triple your Strength or Dexterity modifier at epic tier.
 
 **Adept Effect:** As the initiate effect, and when you first shift into this aspect, roll your recovery dice as if you were healing, but you instead gain that many temporary hit points. You don't spend a recovery.
 
