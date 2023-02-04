@@ -212,28 +212,34 @@ function overflowHandling(cards){
 
       var centeringDiv = document.createElement("div")
       centeringDiv.classList.add("centeringDiv")
+      centeringDiv.classList.add("frontDiv")
       for(; j < divsInContainerLength; j+=2){
         if(arrAInc == 3){
           break;
         }
 
         divsInContainer[j].classList.add("cardFront")
-        wrapper.appendChild(divsInContainer[j])
+        centeringDiv.appendChild(divsInContainer[j])
         arrAInc++
       }
+
+      wrapper.appendChild(centeringDiv)
 
 
       centeringDiv = document.createElement("div")
       centeringDiv.classList.add("centeringDiv")
+      centeringDiv.classList.add("backDiv")
       for(; k < divsInContainerLength; k+=2){
         if(arrBInc == 3){
           break;
         }
 
         divsInContainer[k].classList.add("cardBack")
-        wrapper.appendChild(divsInContainer[k])
+        centeringDiv.appendChild(divsInContainer[k])
         arrBInc++
       }
+
+      wrapper.appendChild(centeringDiv)
 
   }
 }
