@@ -1,9 +1,9 @@
 //Checks if the passed in element is a feat element
-function checkFeats(siblingNode){
-    if(!siblingNode){
+function checkFeats(siblingNode) {
+    if (!siblingNode) {
         return false
     }
-    if(siblingNode.classList.contains("adventurer-feat") || siblingNode.classList.contains("champion-feat") || siblingNode.classList.contains("epic-feat")){
+    if (siblingNode.classList.contains("adventurer-feat") || siblingNode.classList.contains("champion-feat") || siblingNode.classList.contains("epic-feat")) {
         return true
     }
     return false
@@ -19,14 +19,14 @@ function powerPrint() {
     //Gets every highlighted div, and converts them into power cards
     //They must be in string format in order to properly store them in localStorage
     var cards = ""
-    for(var i = 0; i < checkedBoxes.length; i++){
+    for (var i = 0; i < checkedBoxes.length; i++) {
         var currentNode = checkedBoxes[i].parentNode
         var cardScript = '<div class = "powerCard">\n'
         var siblingNode = currentNode.nextElementSibling
 
         cardScript += currentNode.innerHTML
-        while(1){
-            if(checkFeats(siblingNode)){
+        while (1) {
+            if (checkFeats(siblingNode)) {
                 cardScript += siblingNode.innerHTML
                 siblingNode = siblingNode.nextElementSibling
                 continue
@@ -39,42 +39,42 @@ function powerPrint() {
     }
 
     localStorage.setItem("cardsToPrint", cards)
-    window.open("../assets/html/printing_identification.html", '_blank');     
+    window.open("../assets/html/printing_identification.html", '_blank');
 }
 
 //Highlights heading if clicked
-function highlightingListener(element){
-    if(checkFeats(element)){
+function highlightingListener(element) {
+    if (checkFeats(element)) {
         return
     }
-    if(element.firstElementChild.classList.contains("printHighlight")){
+    if (element.firstElementChild.classList.contains("printHighlight")) {
         element.firstElementChild.classList.remove("printHighlight")
     }
-    else{
+    else {
         element.firstElementChild.classList.add("printHighlight")
     }
-    
+
     return
 }
 
 //Turns off hyperlinks in anchors to prevent accidental button presses
 //Navigation.js was almost untouched, because it only had to do with sidebar
 //needsScroll(elm) was commented out as it required the anchor functionality
-function addPrintBehavior(){
+function addPrintBehavior() {
     var anchors = document.getElementsByClassName("heading-anchor")
-    for(var i = 0; i < anchors.length; i++){
+    for (var i = 0; i < anchors.length; i++) {
         anchors[i].href = "javascript: void(0)"
         //Checks if next element is a div, and therefore this div had no content
         //Therefore it should not be highlightable
-        if(anchors[i].parentElement.nextElementSibling.tagName === "DIV"){
+        if (anchors[i].parentElement.nextElementSibling.tagName === "DIV") {
             continue
         }
-        anchors[i].parentElement.addEventListener("click", function(){
+        anchors[i].parentElement.addEventListener("click", function () {
             highlightingListener(this.parentElement)
         })
     }
 }
 
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     addPrintBehavior()
 })

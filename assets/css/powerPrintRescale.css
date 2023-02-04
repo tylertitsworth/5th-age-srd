@@ -1,8 +1,8 @@
 @page {
 	size: landscape;
 	margin-top: 1.5in;
-    margin-left: 0.165in;
-    margin-right: 0.145in;    
+	margin-left: 0.165in;
+	margin-right: 0.145in;
 }
 
 body {
@@ -159,7 +159,7 @@ hr {
 	border: red;
 }
 
-.powerCard{
+.powerCard {
 	break-inside: avoid;
 	visibility: visible;
 	font-size: 12px;

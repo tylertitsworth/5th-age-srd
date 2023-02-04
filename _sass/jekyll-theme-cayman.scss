@@ -31,36 +31,27 @@
 		background-color: white;
 	}
 
-	.page-header, .site-footer, #sidebar, .click-here-to-print-chosen-cards {
+	.page-header,
+	.site-footer,
+	#sidebar,
+	.click-here-to-print-chosen-cards {
 		display: none;
 	}
 
 	#content-wrapper {
 		color: black;
+		display: block;
 
-		h1, h2, h3, h4, h5, h6 {
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
 			color: black;
 		}
 
-		display: block;
-		// display: flex;
-		// flex-direction: row;
-		// flex-wrap: wrap;
-		// justify-content: flex-start;
-		// align-items: flex-start;
-		// align-content: flex-start;
-		// break-inside: avoid;
-
 		div {
-
-			h1 {
-				font-size: 10px;
-			}
-
-			hr, table {
-				display: none;
-			}
-
 			float: left;
 			visibility: hidden;
 			break-inside: avoid;
@@ -72,13 +63,21 @@
 			margin: 15px;
 			padding: 0.05in;
 			overflow: hidden;
-			// position: absolute;
 			top: 0px;
 			visibility: visible;
 			min-width: 2.25in;
 			min-height: 3.5in;
 			max-width: 2.25in;
 			max-height: 3.5in;
+
+			h1 {
+				font-size: 10px;
+			}
+
+			hr,
+			table {
+				display: none;
+			}
 		}
 	}
 }
