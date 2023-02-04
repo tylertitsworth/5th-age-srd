@@ -98,8 +98,6 @@ Although Armor Class, Physical Defense, and Mental Defense are based on a single
 
 ### Initiative
 
-Your Initiative bonus is a d20 check, not a static value.
-
 1. Start with your Dexterity modifier.
 2. Add +1 at 1st level (and increase by +1 at each additional class level).
 
