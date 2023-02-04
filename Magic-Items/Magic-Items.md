@@ -5359,7 +5359,7 @@ _Recharge 11+:_ Gain a +2 bonus to your AC until the start of your next turn, PD
 
 1/Battle
 
-When you make an attack, that attack deals radiant damage, and one target of the attack takes 1d8 extra damage, hit or miss, 2d10 damage at champion tier, and 3d10 damage). You can also always use the ring to remove dirt and filth from yourself, from food, and from other objects (but it doesn’t protect against any attack or condition at epic tier.
+When you make an attack, that attack deals radiant damage, and one target of the attack takes 1d8 extra damage, hit or miss, 2d10 damage at champion tier, and 3d10 damage). You can also always use the ring to remove dirt and filth from yourself, from food, and from other objects (but it doesn’t protect against any attack or condition at epic tier).
 
 **Quirk:** Fastidious.
 

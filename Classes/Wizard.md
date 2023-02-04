@@ -2196,7 +2196,7 @@ Evocation
 
 _Special:_ Choose whether you want to create a fire shield or an ice shield when you cast the spell.
 
-**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier, twice at champion tier, and thrice at epic tier.+ Level to it.
+**Effect (Fire Shield):** You create a burning barrier that you can wield like a shield (AC +1, no attack penalty). The shields grants resist fire 12+. When an enemy makes a melee attack against you, deal fire damage equal to your Intelligence modifier, twice at champion tier, and thrice at epic tier + Level to it.
 
 **Effect (Ice Shield):** As above, but the shield deals cold damage and grants resistance to cold damage.
 

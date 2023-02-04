@@ -263,7 +263,7 @@ When you Gather Power, you gain the divine benefit below. Unlike other bloodline
 | **Escalation Die** | **Adventurer Tier Benefit** |
 | --- | --- |
 | None | Gain a +1 bonus to PD and MD until the start of your next turn.|
-| Odd | Deal radiant damage equal to your Wisdom modifier, twice at champion tier, and thrice at epic tier.+ Level to one nearby enemy. |
+| Odd | Deal radiant damage equal to your Wisdom modifier (twice at champion tier, and thrice at epic tier) + Level to one nearby enemy. |
 | Even | Heal hit points equal to Wisdom modifier, twice at champion tier, and thrice at epic tier to a nearby staggered ally. If no nearby allies are staggered, gain a +1 bonus to AC until the end of your next turn. |
 
 ###### Adventurer Feat
@@ -597,7 +597,7 @@ You gain the following metamagic abilities.
 
 _Negative Spell (1 point):_ Change the spell’s damage type to necrotic damage.
 
-_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier, twice at champion tier, and thrice at epic tier.+ the spell level.
+_Leeching Spell (1 point):_ If the spell hits at least one enemy, heal hit points equal to your Constitution modifier (twice at champion tier, and thrice at epic tier) + the spell level.
 
 _Shadow Spell (1 point):_ Change the spell’s damage to psychic damage. The spell cannot be countered by abilities such as the blue dragon’s counter-spell.
 
@@ -1769,7 +1769,7 @@ When targeting an ally…
 
 | d4 | Effect |
 | --- | --- |
-| 1 | The target gains temporary hit points equal to your Charisma modifier, twice at champion tier, and thrice at epic tier.+ Level. |
+| 1 | The target gains temporary hit points equal to your Charisma modifier (twice at champion tier, and thrice at epic tier) + Level. |
 | 2 | The target gains a +2 bonus to PD and MD until the end of your next turn. |
 | 3 | The target teleports to switch location with another random nearby creature. |
 | 4 | You make the attack below against the enemy closest to it. |

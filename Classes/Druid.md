@@ -4016,7 +4016,7 @@ _Adept, Master:_ Your beast aspects are Recharge 16+ after battle. When activati
 
 #### Combat reconnaissance
 
-Once per full recovery, twice at champion tier, and three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic at epic tier. to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
+Once per full recovery, twice at champion tier, and three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic tier) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
 
 _Failure:_ Nothing came of your scouting.
 
@@ -4061,7 +4061,7 @@ Free Action
 _Special:_ To use this talent, you must be in beast form, and you must have at least one beast aspect active.
 Trigger: You take damage.
 
-**Effect:** You end an active beast aspect power and then take only 1d6 damage, 3d6 at champion tier, and 6d6) from the triggering attack. You still suffer any other effects of the attack (including ongoing damage at epic tier..
+**Effect:** You end an active beast aspect power and then take only 1d6 damage, 3d6 at champion tier, and 6d6) from the triggering attack. You still suffer any other effects of the attack (including ongoing damage at epic tier).
 
 ##### Adventurer Feat
 

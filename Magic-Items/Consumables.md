@@ -341,7 +341,7 @@ This potion doesn’t really swap tongues, it just seems that way, and lasts for
 
 ### Power-Stone
 
-These dwarf-made semi-precious gemstones hold reserves of magical energy. When mounted to a weapon, the power-stone grants a +1 bonus to attacks and damage with that weapon, +2; epic: +3). When mounted to armor the power-stone grants a +1 bonus to AC (champion: +2; epic: +3). When you score a critical hit with a stone-mounted weapon, or when an attack against AC crits you, the power-stone cracks as you lose its bonus and take 5 force damage (champion: 15 force damage at champion tier, and 35 force damage at epic tier.
+These dwarf-made semi-precious gemstones hold reserves of magical energy. When mounted to a weapon, the power-stone grants a +1 bonus to attacks and damage with that weapon, +2; epic: +3). When mounted to armor the power-stone grants a +1 bonus to AC (champion: +2; epic: +3). When you score a critical hit with a stone-mounted weapon, or when an attack against AC crits you, the power-stone cracks as you lose its bonus and take 5 force damage (champion: 15 force damage at champion tier, and 35 force damage at epic tier).
 
 **Cost:** 300 gp; champion: 600 gp; epic: 1200 gp.
 
