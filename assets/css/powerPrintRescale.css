@@ -1,6 +1,8 @@
 @page {
 	size: landscape;
-	margin: 10%
+	margin-top: 1.5in;
+    margin-left: 0.165in;
+    margin-right: 0.145in;    
 }
 
 body {
@@ -146,7 +148,6 @@ hr {
 	color: black;
 	display: block;
 	float: left;
-	position: absolute;
 }
 
 .centeringDiv {
@@ -154,34 +155,33 @@ hr {
 	break-inside: avoid;
 	page-break-after: always;
 	position: relative;
+	border: dashed;
+	border: red;
 }
 
 .powerCard{
 	break-inside: avoid;
 	visibility: visible;
-	border: dashed;
 	font-size: 12px;
 	height: 100%;
 	line-height: 1.5;
-	/* margin: auto; */
 	overflow: hidden;
-	padding: 0.19in;
+	padding: 0.15in;
+	margin: 0.1in;
 	visibility: visible;
 	min-width: 3in;
 	min-height: 5in;
 	max-width: 3in;
 	max-height: 5in;
-
-	margin: 0 auto;
 }
 
 .powerCard.cardBack {
 	float: right;
-	
 }
 
 .powerCard.cardFront {
 	float: left;
+	border: dashed;
 }
 
 #content-wrapper div .cardNumber {
