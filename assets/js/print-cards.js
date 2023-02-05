@@ -27,6 +27,7 @@ function isOverflown(element) {
 	return element.scrollHeight > element.clientHeight || element.scrollWidth > element.clientWidth;
 }
 
+
 //Rips the all tables from the card and adds them to their own card
 //If the card overflows, then the table is simply too big to fit on a card
 //All tables that fit are passed on as their own cards.
@@ -175,7 +176,16 @@ function overflowHandling(cards) {
 		}
 		//Only one card, remove it from wrapper and add the backside
 		else {
+			console.log("Should only be 2 of these")
 			var divToMove = wrapper.querySelector(".powerCard")
+
+			var table = divToMove.querySelectorAll("table")
+			console.log(table)
+			if (table[0]) {
+				if (isOverflown(table[0])) {
+					table[0].remove()
+				}
+			}
 
 			prunedCardArray.appendChild(divToMove)
 			prunedCardArray.appendChild(createEmptyDiv())
