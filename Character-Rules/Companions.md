@@ -211,23 +211,43 @@ Use the following stats as the baseline for your animal companion. Remember that
 
 Animal companion feats are designed so that they do not build on each other. Unlike other feats, you don't have to take animal companion feats progressively, one after the other as long as you qualify for the correct tier.
 
-### Adventurer Feats
+### Adventurer Feat
 
-- Once per full recovery, your animal companion can attack twice in a round with a standard action.
-- Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
-- Once per full recovery, reroll one of your animal companion's missed attack rolls.
-- Your animal companion adds the escalation die to its attacks.
+Once per full recovery, your animal companion can attack twice in a round with a standard action.
 
-### Champion Feats
+### Adventurer Feat
 
-- Once per full recovery, your animal companion can force an enemy to reroll an attack that hit it.
-- Your Lethal Hunter talent also applies to your animal companion.
-- Increase your animal companion's Physical Defense and Mental Defense by +1.
+Once per battle, your animal companion can turn a disengage success by an enemy it is engaged with into a failure.
 
-### Epic Feats
+### Adventurer Feat
 
-- Increase your animal companion's damage die by one size (for example, from d6s to d8s, or d8s to d10s).
-- Increase your animal companion's AC by +1.
+Once per full recovery, reroll one of your animal companion's missed attack rolls.
+
+### Adventurer Feat
+
+Your animal companion adds the escalation die to its attacks.
+
+### Champion Feat
+
+Once per full recovery, your animal companion can force an enemy to reroll an attack that hit it.
+
+### Champion Feat
+
+Your Lethal Hunter talent also applies to your animal companion.
+
+### Champion Feat
+
+Increase your animal companion's Physical Defense and Mental Defense by +1.
+
+### Epic Feat
+
+Increase your animal companion's damage die by one size (for example, from d6s to d8s, or d8s to d10s).
+
+### Epic Feat
+
+Increase your animal companion's AC by +1.
+
+---
 
 ## Animal Companion Spells
 

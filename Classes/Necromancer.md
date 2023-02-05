@@ -392,61 +392,61 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 ---
 
-#### Level 1
+#### Level 1 Skeletal Minion
 
 | Normal 1st level | **Attack +6 vs. AC--1d6 damage** | **AC** **PD**| **17** **15** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **11** **14** |
 
-#### Level 2
+#### Level 2 Skeletal Minion
 
 | Normal 2nd level | **Attack +7 vs. AC--1d8 damage** | **AC** **PD**| **18** **16** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **12** **18** |
 
-#### Level 3
+#### Level 3 Skeletal Minion
 
 | Normal 3th level | **Attack +9 vs. AC--1d12 damage** | **AC** **PD**| **19** **17** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **13** **22** |
 
-#### Level 4
+#### Level 4 Skeletal Minion
 
 | Normal 4th level | **Attack +10 vs. AC--12d6 damage** | **AC** **PD**| **21** **19** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **15** **27** |
 
-#### Level 5
+#### Level 5 Skeletal Minion
 
 | Normal 5th level | **Attack +11 vs. AC--12d8 damage** | **AC** **PD**| **22** **20** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **16** **36** |
 
-#### Level 6
+#### Level 6 Skeletal Minion
 
 | Normal 6th level | **Attack +13 vs. AC--13d6 damage** | **AC** **PD**| **23** **21** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **17** **45** |
 
-#### Level 7
+#### Level 7 Skeletal Minion
 
 | Normal 7th level | **Attack +14 vs. AC--13d8 damage** | **AC** **PD**| **25** **23** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **19** **54** |
 
-#### Level 8
+#### Level 8 Skeletal Minion
 
 | Normal 8th level | **Attack +15 vs. AC--14d6 damage** | **AC** **PD**| **26** **24** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **20** **72** |
 
-#### Level 9
+#### Level 9 Skeletal Minion
 
 | Normal 9th level | **Attack +17 vs. AC--14d8 damage** | **AC** **PD**| **27** **25** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **21** **90** |
 
-#### Level 10
+#### Level 10 Skeletal Minion
 
 | Normal 10th level | **Attack +18 vs. AC--15d6 damage** | **AC** **PD**| **28** **26** |
 | --- | --- | --- | --- |
@@ -456,21 +456,33 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 Like animal companion feats, skeletal minion feats don't build on each other. You don't have to take them in a particular order, as long as you qualify for the tier.
 
-##### Adventurer Feats
+##### Adventurer Feat
 
-- Your skeletal minion now adds the escalation die to its attack rolls.
-- When an enemy attempts to disengage from the skeletal minion, it takes a penalty to the check equal to the escalation die.
-- As a quick action, you can set your skeletal minion ablaze, or extinguish the blaze. While it's flaming, your skeleton minion's damage dice increase by one size, and it deals fire damage with its melee attacks, but it takes damage equal to your level each time its natural attack roll is odd.
+Your skeletal minion now adds the escalation die to its attack rolls.
 
-##### Champion Feats
+##### Adventurer Feat
 
-- Add a damage die of the same size to your skeletal minion's damage rolls (for example, 3d6 becomes 4d6).
-- Add double your Charisma modifier to your skeletal minion's hit points. At epic tier, add triple it.
-- Add a damage die of the same size to your skeletal minion's damage rolls (for example, 4d6 becomes 5d6, and this is cumulative with the champion feat).
+When an enemy attempts to disengage from the skeletal minion, it takes a penalty to the check equal to the escalation die.
 
-##### Epic Feats
+##### Adventurer Feat
 
-- Your skeletal minion gains a +2 bonus to all defenses.
+As a quick action, you can set your skeletal minion ablaze, or extinguish the blaze. While it's flaming, your skeleton minion's damage dice increase by one size, and it deals fire damage with its melee attacks, but it takes damage equal to your level each time its natural attack roll is odd.
+
+##### Champion Feat
+
+Add a damage die of the same size to your skeletal minion's damage rolls (for example, 3d6 becomes 4d6).
+
+##### Champion Feat
+
+Add double your Charisma modifier to your skeletal minion's hit points. At epic tier, add triple it.
+
+##### Champion Feat
+
+Add a damage die of the same size to your skeletal minion's damage rolls (for example, 4d6 becomes 5d6, and this is cumulative with the champion feat).
+
+##### Epic Feat
+
+Your skeletal minion gains a +2 bonus to all defenses.
 
 ---
 

@@ -11,6 +11,8 @@ layout: doc
 
 ### Earthsoul
 
+Earth
+
 #### Adventurer Feat
 
 When an enemy attack would force you to pop free or move, you can immediately roll a normal save (11+) to avoid the effect.
@@ -30,6 +32,8 @@ The next time you take damage after using the power, reduce it by twice your lev
 ---
 
 ### Firesoul
+
+Fire
 
 #### Adventurer Feat
 
@@ -55,6 +59,8 @@ Once per full recovery, deal the Burning Vengeance damage to 1d3 additional near
 
 ### Stormsoul
 
+Storm
+
 #### Adventurer Feat
 
 Gain resist lightning and thunder 16+.
@@ -78,6 +84,8 @@ If the escalation die is 2+, gain advantage on your d20 roll for Zephyr Step.
 ---
 
 ### Watersoul
+
+Water
 
 #### Adventurer Feat
 

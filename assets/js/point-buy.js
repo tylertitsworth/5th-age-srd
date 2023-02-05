@@ -1,10 +1,10 @@
 function middleVal(a, b, c) {
-   // x is positive if a is greater than b.
-   // x is negative if b is greater than a.
+    // x is positive if a is greater than b.
+    // x is negative if b is greater than a.
     x = a - b;
     y = b - c;
     z = a - c;
-   // Checking if b is middle (x and y both are positive)
+    // Checking if b is middle (x and y both are positive)
     if (x * y > 0) {
         return b;
     } else if (x * z > 0) {
@@ -62,7 +62,7 @@ function getTotal() {
     var modifierCha = abilityModifiers[totalCha];
 
     var totalCost = parseInt(costStr) + parseInt(costDex) + parseInt(costCon) + parseInt(costInt) + parseInt(costWis) + parseInt(costCha);
-    
+
     $('span#costStr').html(costStr);
     $('span#costDex').html(costDex);
     $('span#costCon').html(costCon);

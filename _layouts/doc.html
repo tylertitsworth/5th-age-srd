@@ -23,7 +23,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#15628e">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link id = "standardStyle" rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="https://tylertitsworth.github.io/5th-age-srd/favicon.png">
 </head>
 
@@ -37,7 +37,9 @@
     <br>
     {% if site.show_downloads %}
         <a href="{{ site.github.sheet_url }}" class="btn">Download Character Sheet</a>
+        <button type="button" class="btn power-button" onclick="powerPrint()">Print Highlighted Power Cards</button>
     {% endif %}
+
 </header>
 
   <aside id="sidebar">
@@ -65,6 +67,8 @@
   <script src="{{ '/assets/js/js_enabled.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   <script src="{{ '/assets/js/anchor_spy.js?v=' | append: site.github.build_revision | relative_url }}"></script>
   <script src="{{ '/assets/js/navigator.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+  <script src="../assets/js/power-cards.js"></script>
+
 </body>
 
 </html>
