@@ -63,6 +63,8 @@ These are guidelines for allowing PCs to change their chosen spells, powers, tal
 
 Talents are a core element of your character. If you're going to rearrange your talents, something extremely significant needs to have happened in your character's story, some personal transformation or revelation. It is a sign of character transformation, usually coinciding with shifts in relationships.
 
+Characters gain an additional talent at champion tier and epic tier.
+
 ---
 
 #### Spells

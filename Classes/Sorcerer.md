@@ -3414,26 +3414,6 @@ When you cast a breath weapon spell, you also gain 10 temporary hit points.
 
 ---
 
-### Infernal Apotheosis
-
-Close-quarters Spell
-
-Full Recovery
-
-Quick Action
-
-Any bloodline
-
-_Special:_ This spell requires the infernal bloodline.
-
-**Effect:** Until the end of the battle, you can fly. You project a fear aura that affects nearby mooks (-4 to attacks and they can’t use the escalation die). When you cast a full recovery sorcerer spell, enemies have disadvantage on any saves against it. When you successfully save against an effect imposed on you by an enemy, deal 20 fire damage to that enemy.
-
-#### Epic Feat
-
-When you cast a spell that deals fire or poison damage, the damage dice become exploding dice (roll an additional die for each die that shows the maximum result).
-
----
-
 ### Prey of the Wild Hunt
 
 Ranged Spell
