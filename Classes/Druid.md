@@ -111,7 +111,7 @@ At-Will
 
 ## Class Features
 
-Druids use divine implements, such as symbols and staffs, to improve their spellcasting. They can choose up to four talents to have many useful aptitudes, or they can specialize by putting two points into one talent (and the other into another talent). A druid who chooses three separate talents is an _initiate_ in each one. Investing two points into a single talent allows the druid to become _adept_ in that talent, thereby gaining more power at the expense of options, and an _initiate_ in another talent.
+Druids use divine implements, such as symbols and staffs, to improve their spellcasting. They can choose up to four talents to have many useful aptitudes, or they can specialize by putting two points into one talent (and the other into another talent). A druid who chooses four separate talents is an _initiate_ in each one. Investing two points into a single talent allows the druid to become _adept_ in that talent, thereby gaining more power at the expense of options, and an _initiate_ in another talent.
 
 As a druid, you choose whether you want to use Strength or Dexterity as the ability score you will use to determine attack and damage for your basic attacks. Choosing Strength as your melee attack ability score provides one significant benefit: your recovery dice become d10s instead of the d6s used by other druids. Choosing Dexterity as your melee attack ability score works well because Dexterity already boosts your initiative and ranged weapon attacks and might help your AC.
 

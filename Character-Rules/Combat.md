@@ -522,6 +522,12 @@ When using a ranged attack to target an enemy that is engaged with one or more o
 
 ---
 
+### Inspiration
+
+Sometimes a PC will do something so cool that it earns them inspiration, whether it be a clever plan, a lucky shot, or a heroic sacrifice. Inspiration is a special resource that can be used to gain a bonus on an attack roll or saving throw in combat. PCs can earn inspiration both in and out of combat and can have any number of inspiration points at a time. All inspiration expires at the end of the session unless it was gained at the end of the session in which case it ends at the end of the next game session.
+
+When gaining a full recovery a party of adventurers can choose to forgo the benefits of a full recovery and instead gain those benefits after the end of the next combat to gain an inspiration point instead.
+
 ### Invisibility
 
 Invisibility grants a big modifier to any stealth skill checks—at least +5 unless you're dealing with creatures who can detect you without sight.

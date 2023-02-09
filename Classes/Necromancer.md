@@ -191,7 +191,7 @@ If you invest a feat into a necromancer spell, you also gain the benefits of any
 
 #### Epic Feat
 
-Once per full recovery, you can cast a necromantic ritual by sacrificing a living creature instead of expending a spell.
+Once per full recovery, you can cast an arcane ritual by sacrificing a living creature in place of a focus. The ritual still requires components.
 
 ---
 
