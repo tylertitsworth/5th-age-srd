@@ -119,7 +119,7 @@ You never suffer from natural weather-related cold, heat, or exposure. You can g
 
 ### Nature Talking
 
-You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Circle of the Moon or Circle of the Fang talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Terrain Caster talent.
+You can also talk to plants and animals. If there is useful information to gain, roll a skill check that's appropriate for the tier. Talking to animals requires a hard DC, and plants usually require a ridiculously hard DC. A druid gains a +1 bonus when talking with animals for every talent spent on the Circle of the Moon or Circle of the Fang talents. A druid gains a +1 bonus when talking with plants for every talent spent on the Circle of the Land.
 
 #### Adventurer Feat
 
@@ -4876,7 +4876,11 @@ Flexible once-per-battle Melee Attack
 
 **Triggering Roll:** Any natural odd roll
 
-**Effect:** Teleport to a nearby location after making the attack. If you have the terrain caster talent, you can heal using a recovery.
+**Effect:** Teleport to a nearby location after making the attack. If you are a Circle of the Land initiate, you can heal using a recovery.
+
+###### Champion Feat
+
+If you are a Circle of the Land adept, you or an ally can heal using a recovery instead.
 
 ###### Epic Feat
 
