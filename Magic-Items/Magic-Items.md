@@ -8822,7 +8822,7 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 | --- | --- |
 | Acid | 8 ounces |
 | Basic Poison | 1/2 ounce |
-| Beer | 4 gallons | 
+| Beer | 4 gallons |
 | Honey | 1 gallon |
 | Mayonnaise | 2 gallons |
 | Oil | 1 quart |
@@ -9265,7 +9265,6 @@ If you tell the rope to knot, large knots appear at 1-foot intervals along the r
 
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
-
 ---
 
 #### Sack of Looting
@@ -9306,26 +9305,25 @@ When you engage an enemy or an enemy engages you, that enemy takes fire damage e
 
 Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
 
-***Carrying Soul Coins***. To hold a soul coin is to feel the soul bound within it — overcome with rage or fraught with despair.
+_**Carrying Soul Coins.**_ To hold a soul coin is to feel the soul bound within it — overcome with rage or fraught with despair.
 
 An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A nonevil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.
 
-***Using a Soul Coin***. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
+_**Using a Soul Coin**_. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
 
 *Drain Life*: You siphon away some of the soul's essence and gain 1d10 temporary hit points.
 
 *Query*: You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
-***Freeing a Soul.*** Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.
+_**Freeing a Soul.**_ Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.
 
 A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage except that which is dealt by a hellfire weapon (BG:DA, page 223) or an infernal war machine's furnace (BG:DA, page 217).
 
 Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
 
-***Hellish Currency.*** Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.
+_**Hellish Currency.**_ Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.
 
 *Soul coins* are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.
-
 
 ---
 
@@ -9417,19 +9415,18 @@ If your movement causes the barrier to come into contact with a solid object tha
 | 2 | 2 | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3 | 3 | Living matter can't pass through the barrier. | 
 | 4 | 4 | Spell effects can't pass through the barrier. |
-| 5 | 5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. | 
-| 6 | 0 | The barrier deactivates.
+| 5 | 5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
+| 6 | 0 | The barrier deactivates. |
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-| Spell or Item | Charges Lost | 
+| Spell or Item | Charges Lost |
 | ---| --- |
 | Disintegrate | 1d12 |
 | [Horn of Blasting](#horn-of-blasting) | 1d10 |
 | Passwall | 1d6 |
 | Prismatic Spray | 1d20 |
 | Wall of Fire | 1d4 |
-
 
 ---
 
@@ -9592,7 +9589,6 @@ You can use an action to close a portable hole by taking hold of the edges of th
 If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.
 
 Placing a portable hole inside an extradimensional space created by a [Bag of Holding](#bag-of-holding), [Heward's Handy Haversack](#hewards-handy-haversack), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
-
 
 ---
 
