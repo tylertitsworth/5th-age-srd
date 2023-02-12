@@ -19,18 +19,6 @@ Lower-level monsters count as fractions of an adventurer-level monster, and high
 | 3 levels higher | 4 levels higher | 5 levels higher | 3 | .6 | 6 | 8 |
 | 4 levels higher | 5 levels higher | 6 levels higher | 4 | .8 | 8 | |
 
-## Mooks
-
-At champion and epic tier, it takes 5 mooks to equal one standard creature. At first and second level, use 3 mooks as a standard creature if the mooks are the same level, an equivalent of .33. At third and fourth level, use up to four mooks per monster, or .25.
-
-## Large Monsters
-
-A large (or double-strength) monster counts as 2 standard monsters.
-
-## Huge Monsters
-
-A huge (or triple-strength) monster counts as 3 standard monsters.
-
 ## Monster Special Abilities
 
 When you use monsters with especially nasty special abilities, be aware of the increased threat that they represent and take that into account.
