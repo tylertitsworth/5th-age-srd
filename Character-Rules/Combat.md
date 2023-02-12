@@ -468,7 +468,7 @@ You also die when you reach negative hit points equal to half your maximum hit p
 
 If you're able to use one of your recoveries (or otherwise get healed) while you are dying, ignore your current negative hit points. Start from 0 and add the hit points you've regained.
 
-If one of your allies is unconscious and you don't have magic to heal them, you can still stabilize them to keep them from dying. Get next to them and make a DC 10 healing skill check using Wisdom as a standard action. Failure wastes your standard action, but doesn't hurt your friend. Success stabilizes your ally. If your stabilization check is 25+, you treat their wounds so quickly that it only takes a quick action; you can use your standard action normally that turn.
+If one of your allies is unconscious and you don't have magic to heal them, you can still stabilize them to keep them from dying. Get next to them and make a DC 10 survival skill check using Wisdom as a standard action. Failure wastes your standard action, but doesn't hurt your friend. Success stabilizes your ally. If your stabilization check is 25+, you treat their wounds so quickly that it only takes a quick action; you can use your standard action normally that turn.
 
 A stabilized character is still unconscious, rolling death saves on their turn, but failed death saves no longer take them a step closer to death. Ignore failed death saves while stabilized.
 
