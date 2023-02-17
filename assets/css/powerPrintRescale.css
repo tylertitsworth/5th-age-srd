@@ -168,7 +168,6 @@ hr {
 	overflow: hidden;
 	padding: 0.15in;
 	margin: 0.1in;
-	visibility: visible;
 	min-width: 3in;
 	min-height: 5in;
 	max-width: 3in;
@@ -192,8 +191,8 @@ hr {
 	font-weight: bold;
 }
 
-#content-wrapper .emptyCardBack {
-	visibility: visible;
+#content-wrapper .emptyCard {
+	visibility: hidden;
 }
 
 #content-wrapper div table {

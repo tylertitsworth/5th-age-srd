@@ -16,7 +16,7 @@ function createEmptyDiv() {
 	var emptyDiv = document.createElement("div")
 
 	emptyDiv.classList.add("powerCard")
-	emptyDiv.classList.add("emptyCardBack")
+	emptyDiv.classList.add("emptyCard")
 	return emptyDiv
 }
 
