@@ -1031,8 +1031,6 @@ Quick Action
 
 Full Recovery
 
-Quick Action
-
 Shadow
 
 **Effect:** You summon a gloved, floating hand of shadow matter. As a quick action, you can order the hand to carry and manipulate objects or extinguish torches. As a standard action, it can choke or punch people. It uses your Dexterity for attack and damage, has a d4 damage die, and deals necrotic damage. The hand stays until the end of the battle or scene. The hand has your defenses, and hit points equal to twice your level. It ignores any damage except force and radiant damage.
@@ -1050,8 +1048,6 @@ Close-quarters Power
 Free Action
 
 Once per battle
-
-Free Action
 
 Shadow
 
