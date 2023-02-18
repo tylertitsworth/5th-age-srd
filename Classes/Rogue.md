@@ -733,8 +733,6 @@ At-Will (once per round)
 
 Interrupt Action
 
-requires momentum
-
 **Trigger:** You intercept a creature.
 
 **Effect:** You can make a basic melee attack against the intercepted creature. If your roll is a hit on natural 18+, the target creature is also dazed until the end of its next turn.
@@ -953,8 +951,6 @@ At-Will (once per round)
 
 Interrupt Action
 
-requires momentum
-
 **Trigger:** You become engaged by two or more creatures.
 
 **Effect:** Add the escalation die to your AC until the end of your next turn; however, you lose the escalation die bonus to your attacks for that same duration.
@@ -1002,8 +998,6 @@ Momentum Power
 At-Will (once per round)
 
 Interrupt Action
-
-requires momentum
 
 **Trigger:** A melee attack that targets AC hits you.
 
@@ -1096,8 +1090,6 @@ At-will (once per round)
 
 Interrupt Action
 
-requires momentum
-
 **Trigger:** You are hit by an attack that imposes a “save ends” condition.
 
 **Effect:** Immediately roll a save against the condition.
@@ -1122,11 +1114,13 @@ Shadow
 
 ### Sure Cut
 
+Momentum Power
+
 Melee attack
 
 At-Will
 
-_Special:_ You must have momentum and be able to deal your Sneak Attack damage to the target if you hit.
+_Special:_ You must be able to deal your Sneak Attack damage to the target if you hit.
 
 **Target:** One enemy
 
@@ -1246,8 +1240,6 @@ Interrupt Action
 
 Shadow
 
-requires momentum
-
 **Trigger:** An enemy hits you with an attack.
 
 **Effect:** You take half damage from the attack, and make the following attack against the target.
@@ -1298,8 +1290,6 @@ At-will
 
 Interrupt Action
 
-requires momentum
-
 **Trigger:** An enemy you are engaged with makes an attack against you or an ally.
 
 **Attack:** Charisma + Level vs. MD
@@ -1342,7 +1332,7 @@ At-Will (once per round)
 
 Interrupt Action
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** A melee attack misses you.
 
@@ -1394,13 +1384,15 @@ Once per full recovery, you can perform a dirty trick to inflict the helpless co
 
 ### Disarming Strike
 
+Momentum Power
+
 Melee attack
 
 At-will
 
 Standard Action on your turn
 
-expends momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Attack:** Dexterity + Level vs. AC
 
@@ -1730,8 +1722,6 @@ At-Will (once per round)
 
 Interrupt
 
-requires momentum
-
 **Trigger:** You hit an enemy with a rogue power or basic attack (whether melee or ranged).
 
 **Effect:** Add your Charisma (or your Intelligence, if you have the Cunning talent) to your damage roll.
@@ -1770,8 +1760,6 @@ At-Will (once per round)
 
 Interrupt Action
 
-requires momentum
-
 **Trigger:** You miss with a melee attack while an ally is engaged with the target.
 
 **Effect:** You can pop free from the target, and the target can't attack you during its next turn as long as your ally remains engaged with it.
@@ -1788,9 +1776,7 @@ Once per battle
 
 Quick Action
 
-you must spend your momentum
-
-_Special:_ You must be using a hand crossbow or other small ranged weapon.
+_Special:_ You must be using a hand crossbow or other small ranged weapon. You spend your momentum when you use this power.
 
 **Attack:** Dexterity + Level vs. AC
 
@@ -1838,7 +1824,7 @@ Full Recovery
 
 Interrupt Action
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** Any
 
@@ -1912,8 +1898,6 @@ Momentum Power
 At-Will (once per round)
 
 Interrupt Action
-
-requires momentum
 
 **Trigger:** You are hit by an attack against AC.
 
@@ -1999,7 +1983,7 @@ At-will
 
 Free
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** You miss with a Rogue melee attack.
 
@@ -2039,7 +2023,7 @@ At-will
 
 Interrupt Action
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** An enemy targets you with a close-quarters or ranged attack.
 
@@ -2083,8 +2067,6 @@ Melee attack
 
 Full Recovery
 
-requires momentum
-
 **Effect:** 50 damage
 
 | Higher Level | Damage |
@@ -2108,8 +2090,6 @@ Melee attack
 At-will (Once per round)
 
 Interrupt Action
-
-requires momentum
 
 **Trigger:** An enemy moves to engage you.
 
@@ -2211,7 +2191,7 @@ At-Will (once per round)
 
 Interrupt Action
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** An enemy targets you with a melee attack.
 
@@ -2259,7 +2239,7 @@ At-Will
 
 Standard Action on your turn
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Effect:** You can make two basic attacks at any point during your turn, each against a different target. You only regain momentum if your second attack hits.
 
@@ -2276,8 +2256,6 @@ Momentum Power
 At-Will (once per round)
 
 Move Action on your turn
-
-requires momentum
 
 **Target:** One nearby enemy per point of Charisma modifier or escalation die (whichever is higher)
 
@@ -2383,7 +2361,7 @@ At-Will
 
 Interrupt Action OR free action on your turn
 
-you must spend your momentum
+_Special:_ You spend your momentum when you use this power.
 
 **Trigger:** An invisible or otherwise hidden enemy attacks you, or you try to attack an invisible or hidden enemy.
 
