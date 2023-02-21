@@ -8833,16 +8833,6 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 
 ---
 
-#### All-Purpose Tool
-
-1/Day, Standard Action
-
-This simple screwdriver can transform into a variety of tools; as a standard action, you can touch the item and transform it into any type of artisan's tool of your choice. Whatever form the tool takes, you are proficient with it. While holding this tool, you gain a bonus to your spell attack rolls. The bonus is determined by your adventurer tier. +1 (adventurer); +2  (champion); +3 (epic).
-
-As a standard action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as native class cantrip for you. Once this property is used, it can't be used again until the next dawn.
-
----
-
 #### Angel, Mark of the
 
 Divine Investment
@@ -9105,13 +9095,13 @@ When you die, you are reincarnated, returning to life in a different form to joi
 
 #### Glamerweave
 
-1/Day (Uncommon), Quick Action (Common and Uncommon)
+1/Day (Adventurer), Quick Action (Minor and Adventurer)
 
-Glamerweave is clothing imbued with harmless illusory magic. While wearing the common version of these clothes, you can use a quick action to create a moving illusory pattern within the cloth.
+Glamerweave is clothing imbued with harmless illusory magic. While wearing the minor version of these clothes, you can use a quick action to create a moving illusory pattern within the cloth.
 
-Uncommon glamerweave can have the pattern rise from the cloth. For example, a glamerweave gown might be wreathed in harmless, illusory flames, while a glamerweave hat might have illusory butterflies fluttering around it.
+Adventurer grade glamerweave can have the pattern rise from the cloth. For example, a glamerweave gown might be wreathed in harmless, illusory flames, while a glamerweave hat might have illusory butterflies fluttering around it.
 
-When you make a Charisma (Performance) or Charisma (Persuasion) check while wearing the uncommon version of glamerweave, you can roll a d4 and add the number rolled to the check. Once you use this property, it can't be used again until the next dawn.
+When you make a Charisma (Performance) or Charisma (Persuasion) check while wearing the adventurer version of glamerweave, you can roll a d4 and add the number rolled to the check. Once you use this property, it can't be used again until the next dawn.
 
 ---
 
@@ -9130,16 +9120,6 @@ You sing about something and it comes true, to your benefit. The effect should b
 _Recharge 6+:_ This wooden harp is of use only to bards. When you roll to sustain a song, you may keep the result of the d20 roll and use it for an attack this round.
 
 **Quirk:** Composes heroic ditties about the exploits of the rest of the party.
-
----
-
-#### Infernal Puzzle Box
-
-An infernal puzzle box is a cube-shaped container 5 to 6 inches on a side, composed of airtight, interlocking parts made from materials found in the Nine Hells. Most of these boxes are made of infernal iron, though some are carved from bone or horn. Infernal puzzle boxes are used to safeguard diabolical contracts signed between devils and mortals, even after the terms of these contracts are fulfilled. An empty infernal puzzle box weighs 3 pounds regardless of the materials used to fashion it.
-
-When an object small enough to fit inside an infernal puzzle box is placed in it, the container magically seals shut around the object, and no magic can force the box open. The sealed box becomes immune to all damage as well. Every infernal puzzle box is constructed with a unique means of opening it. The trick to solving the puzzle is always mundane, never magical. Once a creature figures out the trick or sequence of steps needed to open a particular infernal puzzle box, that creature can open the box as an action, allowing access to the box's contents.
-
-A creature that spends 1 hour holding an infernal puzzle box while trying to open it can make a DC 30 Intelligence (Investigation) check. If the check succeeds, the creature figures out the trick or sequence of steps needed to open the box. If the check fails by 5 or more, the box will make a 1d20 + 8 attack against the creature's MD, dealing 42 (12d6) psychic damage on hit,  or half as much damage on a miss.
 
 ---
 
