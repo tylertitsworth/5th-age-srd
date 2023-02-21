@@ -8810,11 +8810,26 @@ As a free action, manifest a holy weapon or implement that deals radiant damage.
 
 ---
 
-#### [Alchemy jug](http://dnd5e.wikidot.com/wondrous-items:alchemy-jug)
+#### Alchemy jug
 
----
+This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.
 
-#### [All-Purpose Tool](http://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
+You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.
+
+Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.
+
+| Liquid | Maximum Capacity |
+| --- | --- |
+| Acid | 8 ounces |
+| Basic Poison | 1/2 ounce |
+| Beer | 4 gallons |
+| Honey | 1 gallon |
+| Mayonnaise | 2 gallons |
+| Oil | 1 quart |
+| Vinegar | 2 gallons |
+| Fresh Water | 8 gallons |
+| Salt Water | 12 gallons |
+| Wine | 1 gallon |
 
 ---
 
@@ -8826,7 +8841,15 @@ _Recharge 6+:_ When you fall (or jump from a high place), you sprout ephemeral w
 
 ---
 
-#### [Bag of Holding](http://dnd5e.wikidot.com/wondrous-items:bag-of-holding)
+#### Bag of Holding
+
+Standard Action
+
+This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires an action.
+
+If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the Astral Plane. If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
+
+Placing a bag of holding inside an extradimensional space created by a [Heward's Handy Haversack](#hewards-handy-haversack), [Portable Hole](#portable-hole), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ---
 
@@ -8997,7 +9020,18 @@ Your unarmed attacks are considered magical and you gain a +1 to attack and dama
 
 ---
 
-#### [Elemental Gem](http://dnd5e.wikidot.com/wondrous-items:elemental-gem)
+#### Elemental Gem
+
+Standard Action
+
+This gem contains a mote of elemental energy. When you use a standard action to break the gem, an elemental is summoned as if you had cast the Conjure Elemental spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
+
+| Gem | Summoned Elemental |
+| --- | --- |
+| Blue sapphire | Air elemental |
+| Yellow diamond | Earth elemental |
+| Red corundum | Fire elemental |
+| Emerald | Water elemental |
 
 ---
 
@@ -9025,11 +9059,15 @@ These crystal lenses fit over the eyes. Once per full recovery you can use a sta
 
 ---
 
-#### [Eyes of Minute Seeing](http://dnd5e.wikidot.com/wondrous-items:eyes-of-minute-seeing)
+#### Eyes of Minute Seeing
+
+These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
 
 ---
 
-#### [Eyes of the Eagle](http://dnd5e.wikidot.com/wondrous-items:eyes-of-the-eagle)
+#### Eyes of the Eagle
+
+These crystal lenses fit over the eyes. While attuned and wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
 ---
 
@@ -9055,7 +9093,15 @@ When you die, you are reincarnated, returning to life in a different form to joi
 
 ---
 
-#### [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
+#### Glamerweave
+
+1/Day (Adventurer), Quick Action (Minor and Adventurer)
+
+Glamerweave is clothing imbued with harmless illusory magic. While wearing the minor version of these clothes, you can use a quick action to create a moving illusory pattern within the cloth.
+
+Adventurer grade glamerweave can have the pattern rise from the cloth. For example, a glamerweave gown might be wreathed in harmless, illusory flames, while a glamerweave hat might have illusory butterflies fluttering around it.
+
+When you make a Charisma (Performance) or Charisma (Persuasion) check while wearing the adventurer version of glamerweave, you can roll a d4 and add the number rolled to the check. Once you use this property, it can't be used again until the next dawn.
 
 ---
 
@@ -9074,10 +9120,6 @@ You sing about something and it comes true, to your benefit. The effect should b
 _Recharge 6+:_ This wooden harp is of use only to bards. When you roll to sustain a song, you may keep the result of the d20 roll and use it for an attack this round.
 
 **Quirk:** Composes heroic ditties about the exploits of the rest of the party.
-
----
-
-#### [Infernal Puzzle Box](http://dnd5e.wikidot.com/wondrous-items:infernal-puzzle-box)
 
 ---
 
@@ -9133,7 +9175,9 @@ A bottle of translucent glass, sealed with lead, with a ghastly face that peers 
 
 ---
 
-#### [Luckstone](http://dnd5e.wikidot.com/wondrous-items:luckstone)
+#### Luckstone
+
+While this polished agate is on your person, you gain a + 1 bonus to ability checks and saving throws.
 
 ---
 
@@ -9193,7 +9237,13 @@ You don’t take miss damage while engaged with two or more enemies.
 
 ---
 
-#### [Rope of Climbing](http://dnd5e.wikidot.com/wondrous-items:rope-of-climbing)
+#### Rope of Climbing
+
+This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use a standard action to speak the command word, the rope animates. As a quick action, you can command the other end to move toward a destination you choose. That end moves 10 feet on your turn when you first command it and 10 feet on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+
+If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants advantage on checks made to climb it.
+
+The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
 ---
 
@@ -9231,7 +9281,29 @@ When you engage an enemy or an enemy engages you, that enemy takes fire damage e
 
 ---
 
-#### [Soul Coin](http://dnd5e.wikidot.com/wondrous-items:soul-coin)
+#### Soul Coin
+
+Soul coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound, and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each soul coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.
+
+**Carrying Soul Coins.** To hold a soul coin is to feel the soul bound within it — overcome with rage or fraught with despair.
+
+An evil creature can carry as many soul coins as it wishes (up to its maximum weight allowance). A nonevil creature can carry a number of soul coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of soul coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws.
+
+**Using a Soul Coin**. A soul coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a soul coin and use it to do one of the following:
+
+_Drain Life_: You siphon away some of the soul's essence and gain 1d10 temporary hit points.
+
+_Query_: You telepathically ask the soul a question and receive a brief telepathic response. which you can understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
+
+**Freeing a Soul.** Casting a spell that removes a curse on a soul coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from soul coins typically emerge from the River Styx as lemure devils.
+
+A soul can also be freed by destroying the coin that contains it. A soul coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage except that which is dealt by a hellfire weapon (BG:DA, page 223) or an infernal war machine's furnace (BG:DA, page 217).
+
+Freeing a soul from a soul coin is considered a good act, even if the soul belongs to an evil creature.
+
+**Hellish Currency.** Soul coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling. and reward the faithful for services rendered.
+
+_Soul coins_ are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes.
 
 ---
 
@@ -9309,11 +9381,42 @@ The chime can be used ten times. After the tenth time, it cracks and becomes use
 
 ---
 
-#### [Cube of Force](http://dnd5e.wikidot.com/wondrous-items:cube-of-force)
+#### Cube of Force
+
+This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
+
+You can use a standard action to press one of the cube's faces, expending a number of charges based on the chosen face, as shown in the Cube of Force Faces table. Each face has a different effect. If the cube has insufficient charges remaining, nothing happens. Otherwise, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you use a standard action to press the cube's sixth face, or the cube runs out of charges. You can change the barrier's effect by pressing a different face of the cube and expending the requisite number of charges, resetting the duration.
+
+If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
+
+| Face | Charges | Effect |
+| --- | ---| --- |
+| 1 | 1 | Gases, wind, and fog can't pass through the barrier. |
+| 2 | 2 | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
+| 3 | 3 | Living matter can't pass through the barrier. |
+| 4 | 4 | Spell effects can't pass through the barrier. |
+| 5 | 5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
+| 6 | 0 | The barrier deactivates. |
+
+The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
+
+| Spell or Item | Charges Lost |
+| ---| --- |
+| Disintegrate | 1d12 |
+| [Horn of Blasting](#horn-of-blasting) | 1d10 |
+| Passwall | 1d6 |
+| Prismatic Spray | 1d20 |
+| Wall of Fire | 1d4 |
 
 ---
 
-#### [Dimensional Shackles](http://dnd5e.wikidot.com/wondrous-items:dimensional-shackles)
+#### Dimensional Shackles
+
+Standard Action
+
+You can use a standard action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing-through an interdimensional portal.
+
+You and any creature you designate when you use the shackles can use an action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength (Athletics) check. On a success, the creature breaks free and destroys the shackles.
 
 ---
 
@@ -9323,7 +9426,17 @@ Once per full recovery, as a standard action, you can speak the gem's command wo
 
 ---
 
-#### [Heward's Handy Haversack](http://dnd5e.wikidot.com/wondrous-items:hewards-handy-haversack)
+#### Heward's Handy Haversack
+
+Standard Action
+
+This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
+
+Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.
+
+The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
+
+Placing the haversack inside an extradimensional space created by a [Bag of Holding](#bag-of-holding), [Portable Hole](#portable-hole), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10-feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ---
 
@@ -9423,15 +9536,39 @@ Once the bands are used, they can't be used again until you gain a full recovery
 
 ---
 
-#### [Knave's Eye Patch](http://dnd5e.wikidot.com/wondrous-items:knaves-eye-patch)
+#### Knave's Eye Patch
+
+While wearing this eye patch, you gain these benefits:
+
+You have advantage on Wisdom (Perception) checks that rely on sight.
+
+If you have the Sunlight Sensitivity trait, you are unaffected by the trait.
+
+You are immune to magic that allows other creatures to read your thoughts or determine whether you are lying. Creatures can communicate telepathically with you only if you allow it.
 
 ---
 
-#### [Mirror of the Past](http://dnd5e.wikidot.com/wondrous-items:mirror-of-the-past)
+#### Mirror of the Past
+
+1/Day, Standard Action
+
+The holder of this platinum hand mirror can learn something about the history of a specific object or creature by taking a standard action to gaze into the mirror and think of the target. Instead of the holder's reflection, the mirror presents scenes from the target's past. Information conveyed is accurate, but it is random and cryptic, and presented in no particular order. Once it is activated, the mirror gives its information for 1 minute or less, then returns to normal. It can't be used again until the next dawn.
 
 ---
 
-#### [Portable Hole](http://dnd5e.wikidot.com/wondrous-items:portable-hole)
+#### Portable Hole
+
+Standard Action
+
+This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+
+You can use a standard action to unfold a portable hole and place it on or against a solid surface, whereupon the portable hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open portable hole can exit the hole by climbing out of it.
+
+You can use an action to close a portable hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
+
+If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.
+
+Placing a portable hole inside an extradimensional space created by a [Bag of Holding](#bag-of-holding), [Heward's Handy Haversack](#hewards-handy-haversack), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ---
 
@@ -9656,11 +9793,28 @@ Your Strength score increases by 2 while this pale blue rhomboid orbits your hea
 
 ---
 
-#### [Nightfall Pearl](http://dnd5e.wikidot.com/wondrous-items:nightfall-pearl)
+#### Nightfall Pearl
+
+1/Day
+
+Used to summon night, this 6-inch-diameter, jet-black orb is cold to the touch. You can spend 10 minutes to activate it, causing the area within 10 miles of it at the moment of activation to become night even if it is daytime. This night lasts for 24 hours, until you cancel it as an action, or until your attunement to the pearl ends. Once used, the pearl can't be used again for 24 hours.
 
 ---
 
-#### [Platinum Scarf](http://dnd5e.wikidot.com/wondrous-items:platinum-scarf)
+#### Platinum Scarf
+
+3/Day, Standard Action
+
+This scarf is made of sturdy cloth and covered in platinum-colored scales.
+As an action, you can pull a scale from the scarf and speak a command word. When you do so, choose one of the following effects:
+
+Breath of Life. The scale disappears, and you or a creature you touch regains 10d4 hit points.
+
+Platinum Shield. For 1 hour or until you dismiss it (no action required), the scale becomes a +1 shield, which you or another creature can use. A creature wielding the shield has immunity to radiant damage.
+
+Radiant Hammer. For 1 hour or until you dismiss it (no action required), the scale becomes a magic light hammer, which you or another creature can use. The weapon deals 2d4 radiant damage, instead of the bludgeoning damage normal for a light hammer. It deals an extra 2d4 radiant damage to chromatic dragons.
+
+Once three scales have been pulled from the scarf, no more scales can be removed until the next dawn, when all the missing scales grow back. If you pull off a scale but don’t speak a command word, it disappears after 1 minute.
 
 ---
 
