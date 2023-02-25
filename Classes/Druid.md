@@ -1899,7 +1899,7 @@ You can survive without food and water for days on end.
 
 ---
 
-##### Desiccate (Terrain Feat Spell)
+##### Dessicate (Terrain Feat Spell)
 
 Ranged Spell
 
@@ -2451,7 +2451,7 @@ _Natural odd miss:_ You take your level in cold damage.
 
 ---
 
-##### Hail Hail
+##### Hail Hail (1st Level)
 
 Ranged Spell
 
@@ -2644,7 +2644,7 @@ _Reckless miss:_ Your allies engaged with the target take damage equal to twice 
 
 ---
 
-##### Earth Strength
+##### Earth Strength (1st Level)
 
 Ranged Spell
 
