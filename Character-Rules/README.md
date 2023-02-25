@@ -198,6 +198,10 @@ You can't apply multiple skills to the same check; the skill with the highest (o
 
 ---
 
+### Aiding Others
+
+To help another character with their skill check describe how your character helps them and then roll against the same or similar DC. On a success reduce the DC difficulty tier by 1 for the skill check of the helped character.
+
 ### Natural 20s and Fumbles with Skill Checks
 
 When a PC rolls a natural 20 with a skill check, the GM should feel free to give that character much more success than the player expected.
