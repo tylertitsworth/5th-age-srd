@@ -160,6 +160,34 @@ function overflowHandling(cards) {
 
 			//If we had any tables, we want to append them to the end
 			if (cardsWithTablesLength) {
+				//If there is only one table, it might be small enough to fit on the last card in the prunedCard Array
+				if(cardsWithTablesLength == 1){
+					
+					//Make a test card, copy information from card to be printed
+					//Then take the card with the table, clone the table, and add the clone to the test card
+					//If its good, then replace the card and delete the table only card
+					//Else, continue as normal
+					var testCard = document.createElement("div")
+					testCard.classList.add("powerCard")
+					testCard.classList.add("testCard")
+					testCard.innerHTML = prunedCardArray[divsToMoveLength].outerHTML
+					var clonedTable = cardsWithTables[0].querySelector("table").cloneNode(true)
+					testCard.appendChild(clonedTable)
+					wrapper.appendChild(testCard)
+
+					//It's too big, just toss it out
+					if(isOverflown(testCard)){
+						testCard.remove()
+					//Table fits onto the card, so replace the tableless card with the new card
+					//We also don't need to go through the table adding process anymore
+					} else{
+						cardsWithTablesLength = 0
+						testCard.classList.remove("testCard")
+						prunedCardArray.pop()
+						prunedCardArray.appendChild(testCard)
+					}
+				}
+
 				for (var b = 0; b < cardsWithTablesLength; b++) {
 					insertCardNumber(cardsWithTables[b], cardNumber + b + 1)
 					prunedCardArray.appendChild(cardsWithTables[b])
