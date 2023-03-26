@@ -218,6 +218,6 @@ Outside of battle, when failure would tend to slow action down rather than move 
 
 ### Skill Advancement
 
-All your skill checks increase by 1 when you level up. If you want even better skill checks, take the Skilled feat.
+All your skill points increase by 1 when you level up, before you allocate new skill points. If you want even better skill checks, take the Skilled feat.
 
 If you just want to move around the bonuses you already have to show how your character is changing, you can move one skill point around among your current skill pool each time you gain a level, or swap the point into an entirely new skill, with the GM's permission.
