@@ -1879,7 +1879,7 @@ While attuned to this item, you gain a 2-point skill related to “knowing secre
 
 #### Scroll of Darkness
 
-This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is only a few pages long, but you find yourself reading it again and again, and each reading brings new insights into the nature of life and death. As long as you possess the scroll, you have a3-point skill related to knowledge of evil deific figures.
+This mind-blasting scroll reveals the secrets of the Dark Gods. The scroll is only a few pages long, but you find yourself reading it again and again, and each reading brings new insights into the nature of life and death. As long as you possess the scroll, you have a 3-point skill related to knowledge of evil deific figures.
 
 **Quirk:** Not so much a quirk as a health and safety warning – if this item takes over, then you’ll be sacrificing virgins on altars in no time.
 
