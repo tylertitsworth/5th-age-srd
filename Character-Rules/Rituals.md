@@ -1129,6 +1129,7 @@ Any food or water created but uneaten disappears at the end of the duration.
 **Market/Component Cost:** 250 gp**/**50 gp
 
 **Effect:** You open a magical portal in a tree adjacent to you, connecting it to a second tree that you can see. You and up to eight allies can move through the portal and emerge instantly from the second tree, and return by stepping into the second tree.
+
 **Skill Check:** The portal remains in place for a duration determined by your Nature skill check result, but only you and the designated allies can pass through the portal in either direction.
 
 | Nature Skill Check Result | Duration |
