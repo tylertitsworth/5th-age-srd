@@ -141,7 +141,6 @@ Characters start with armor, weapons, and standard traveling gear; prices are in
 | Wine, good (bottle) | 1 sp |
 | Wine, Elven (bottle) | 1–5 gp |
 | Inn (per person per full recovery) |
- |
 | Poor, common room | 1–3 sp |
 | Good, shared room | 8–14 sp |
 | Excellent, private room | 2–5 gp |
