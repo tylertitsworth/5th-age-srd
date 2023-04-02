@@ -676,7 +676,7 @@ _Ritual Scroll:_ You can perform this ritual as a standard action if you do so f
 
 **Market/Component Cost:** 250 gp**/**50 gp
 
-**Effect:** The ritual destroys a magic item of your tier or lower, and the item can be common, uncommon, or rare. The ritual returns an amount of residuum based on the item's rarity: 20 percent of a common item's gold piece value, 50 percent of an uncommon item's gold piece value, and 100 percent of a rare item's gold piece value.
+**Effect:** The ritual destroys a magic item of your tier or lower. The ritual returns an amount of residuum based on the item's rarity: 20 percent of a minor item's gold piece value and 50 percent of a major item's gold piece value.
 
 ---
 
