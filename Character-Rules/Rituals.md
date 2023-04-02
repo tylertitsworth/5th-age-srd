@@ -247,9 +247,9 @@ _Focus:_ A musical instrument you play as part of performing the ritual.
 
 **Effect:** When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
 
-**Skill Check:** Your Arcana or Religion check determines the length of time prior to the target's death that you experience.
+**Skill Check:** Your Arcana check determines the length of time prior to the target's death that you experience.
 
-| Arcana or Religion Check Result | Time Period |
+| Arcana Check Result | Time Period |
 | ------------------------------- | ----------- |
 | 9 or lower | 2 round |
 | 10-19 | 4 rounds |
@@ -441,9 +441,9 @@ _Focus:_ A musical instrument you play as part of performing the ritual.
 
 **Effect:** When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
 
-**Skill Check:** Your Arcana or Religion check determines the length of time prior to the target's death that you experience.
+**Skill Check:** Your Arcana check determines the length of time prior to the target's death that you experience.
 
-| Arcana or Religion Check Result | Time Period |
+| Arcana Check Result | Time Period |
 | ------------------------------- | ----------- |
 | 9 or lower | 2 round |
 | 10-19 | 4 rounds |
@@ -968,9 +968,9 @@ There are two drawbacks to using the ritual to aid your decisions.
 
 **Effect:** You ask the corpse of an intelligent creature questions and receive answers. The corpse knows what the creature knew in life, what has occurred near the corpse, and no more; the spirit has (usually) moved on to another plane and is not present in the body.
 
-**Skill Check:** Your Religion check result determines the number of questions you can ask.
+**Skill Check:** Your Arcana check result determines the number of questions you can ask.
 
-| Religion Check Result | Number of Questions |
+| Arcana Check Result | Number of Questions |
 | --------------------- | ------------------- |
 | 9 or lower | 0 |
 | 10-19 | 1 |
@@ -2176,7 +2176,7 @@ _Optional Focus:_ You can extend the duration of this ritual indefinitely by lea
 
 **Effect:** You command an immortal creature whose level does not exceed yours. The subject of this ritual must be able to see and hear you and must remain nearby you for the entire time necessary to perform the ritual. Because most creatures do not willingly submit to this ritual, you must usually make the creature helpless or restrain the creature by means of a Magic Circle ritual. Unless it is prevented from doing so, the creature can leave at any time. Finally, you must be able to communicate with the creature, or the ritual automatically fails.
 
-To determine the extent of your authority over the subject, you engage in a special skill challenge during the time it takes to perform the ritual. The DCs for the checks in this challenge are equal to twice the subject's level + 10. Arcana is the primary skill; each time you or an ally succeeds on a Arcana skill check in the challenge, you or an ally can use Persuasion, History, Arcana, or Intimidate for one subsequent skill check. Once you have amassed 3 failures or achieved 10 successes, the skill challenge ends. Consult the following table and apply the effect associated with the number of successes you achieved.
+To determine the extent of your authority over the subject, you engage in a special skill challenge during the time it takes to perform the ritual. The DCs for the checks in this challenge are equal to twice the subject's level + 10. Arcana is the primary skill; each time you or an ally succeeds on an Arcana skill check in the challenge, you or an ally can use Persuasion, History, Arcana, or Intimidate for one subsequent skill check. Once you have amassed 3 failures or achieved 10 successes, the skill challenge ends. Consult the following table and apply the effect associated with the number of successes you achieved.
 
 | Number of Successes | Effect |
 | ------------------- | ------ |
@@ -2199,9 +2199,9 @@ When the specified task is completed, the ritual is discharged, and the creature
 
 **Effect:** You coax forth an Oracle Eternal. Oracles have no tangible presence and no agendas; they exist only to observe events. This makes them unparalleled sources of information because they have the potential to have seen and heard everything, even information otherwise known to only one creature.
 
-**Skill Check:** Make a Religion check to determine how many questions you can ask an oracle before it vanishes.
+**Skill Check:** Make an Arcana check to determine how many questions you can ask an oracle before it vanishes.
 
-| Religion Skill Check Result | Number of Questions |
+| Arcana Skill Check Result | Number of Questions |
 | -------------------------- | ------------------- |
 | 9 or lower | 1 |
 | 10-19 | 2 |
