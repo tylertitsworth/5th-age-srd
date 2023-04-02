@@ -773,7 +773,7 @@ If you use this ritual successfully against a portal protected by Arcane Lock, y
 
 | Arcana Skill Check Result | Special Movement |
 | ------------------- | ---------------- |
-| 9 or lower | non-e |
+| 9 or lower | none |
 | 10-19 | Ignore uneven terrain |
 | 20-29 | Water Walk |
 | 30 or higher | Fly low to the ground |
