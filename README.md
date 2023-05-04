@@ -26,6 +26,7 @@ bundle exec jekyll serve --force-polling
   - [Gear](./Character-Rules/Gear.md)
   - [Hybrid](./Character-Rules/Hybrid.md)
   - [Relationships](./Character-Rules/Relationships.md)
+  - [Retainers](./Character-Rules/Retainers.md)
   - [Rituals](./Character-Rules/Rituals.md)
   - [Strongholds](./Character-Rules/Strongholds.md)
   - [Summoning](./Character-Rules/Summoning.md)
