@@ -22,7 +22,7 @@ After describing your retainer to your GM, they can generate stats for your reta
 | Immunities: Fire | Vulnerabilities: Cold |
 | Claw +9 vs. AC: | 5 damage |
 | Natural 18+: | Roll on the High Weirdness Table |
-| Fiery Claw +9 vs. PD: | 10 fire damage |
+| Fiery Claw +9 vs. PD: | 10 fire damage, and the target loses any resist fire damage abilities if they have them (hard dc save ends 16+). |
 | Limited Use (3/FR) |  |
 | HP 37 | AC 17 |
 | MD 15 | PD 11 |
