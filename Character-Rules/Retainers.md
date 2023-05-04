@@ -15,7 +15,7 @@ Retainers act on your intiative and get all the regular actions that PCs do.
 
 After describing your retainer to your GM, they can generate stats for your retainer, here's an example of *Icarus, the Black King*:
 
-| Icarus, the Black King | 1st Level | 
+| Icarus, the Black King | 1st Level |
 | --- | --- |
 | Medium | Retainer |
 | Humanoid |Initiative: +6 |
