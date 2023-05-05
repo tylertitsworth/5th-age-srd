@@ -3,7 +3,7 @@ layout: doc
 ---
 # Retainers
 
-Since your character is an adventurer, it's surprising that you have allies and less famous adventurers show up to help you out or even pledge their service. These are called retainers and they have similar rules to monsters, but with some exciting differences!
+Since your character is an adventurer, it's unsurprising that you have allies and less famous adventurers show up to help you out or even pledge their service. These are called retainers and they have similar rules to monsters, but with some exciting differences!
 
 Retainers are more narrow in scope, so rather than being a 'Barbarian' or a 'Wizard' they are a *Blood Shaman* or a *Abjurationist*. Retainers are cool, but not cooler than the main cast of characters and often are much simpler characters that can be sent to troubleshoot tasks and be an advisor for tough situations.
 
