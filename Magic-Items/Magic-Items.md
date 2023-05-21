@@ -2748,7 +2748,7 @@ These leather bracers are warm to the touch. When you score a critical hit, you 
 
 ## Chalice, Goblet, Grail (Implement)
 
-## Default Bonus
+### Default Bonus
 
 Attack and damage with an arcane or divine spell or attack: +1 (adventurer); +2 (champion); +3 (epic).
 
@@ -4697,7 +4697,7 @@ _Recharge 11+:_ As a quick action on their turn, a wounded ally you can see reco
 
 #### Necklace of Bones
 
-_Recharge 16+:_ When you would randomly determine an outcome in the game through a die roll or some other method (such as a chaos mage drawing stones), you can try again and take the result you prefer.
+_Recharge 16+:_ When you would randomly determine an outcome in the game through a die roll or some other method (such as a Psion's High Weirdness), you can try again and take the result you prefer.
 
 **Quirk:** Indecisive.
 
