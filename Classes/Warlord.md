@@ -1683,6 +1683,3 @@ Once per Full Recovery
 #### Epic Feat
 
 The ally returns to life with half their hit points.
-
-
-
