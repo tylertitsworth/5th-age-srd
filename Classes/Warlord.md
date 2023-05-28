@@ -793,7 +793,7 @@ If the escalation die is 4+, you can grant the move to two nearby allies.
 
 Quick Action
 
-**Recharge** 11+ after battle
+**Recharge:** 11+ after battle
 
 **Target:** One nearby ally
 
@@ -833,7 +833,7 @@ If a target is hit by an enemy they are engaged with, reduce the damage by your 
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Target:** One nearby ally
 
@@ -871,7 +871,7 @@ On a natural 16+ on the attack roll, grant the temporary hit points to a second 
 
 Quick Action, when the escalation die is 2+
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** Decrease the escalation die by 1. Then 1d3 of your nearby allies can heal using a recovery.
 
@@ -1100,7 +1100,7 @@ The attack deals half damage on a miss.
 
 Quick Action, when the escalation die is 4+
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 _Limited Use:_ You can only use this tactic when one enemy is left in the battle.
 
@@ -1140,7 +1140,7 @@ Gain two command points instead.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Targets:** You and 1d3 nearby allies
 
@@ -1164,7 +1164,7 @@ Each target can also make a basic attack as a free action after taking the move 
 
 Free Action, when the escalation die is 4+
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** You can make a basic melee attack as a quick action once each turn until the end of the battle.
 
@@ -1316,7 +1316,7 @@ Add hampered and stunned to the list of conditions the effect includes.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Target:** One nearby ally
 
@@ -1336,7 +1336,7 @@ The recharge roll is now 11+.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Targets:** You and 1d4 nearby allies
 
@@ -1450,7 +1450,7 @@ The target also gains temporary hit points equal to 3d10 + triple your Charisma 
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** Until the end of the battle, the escalation die becomes a d8 instead of a d6. Then roll a d20. If you roll 11+, increase the escalation die by 1.
 
@@ -1496,7 +1496,7 @@ You also gain command points equal to your Charisma modifier.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Targets:** Up to two allies who are staggered or at 0 hit points or below.
 
@@ -1516,7 +1516,7 @@ This tactic now targets up to 1d4 + 1 allies.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Target:** One nearby ally
 
@@ -1600,7 +1600,7 @@ The attacks deal extra damage equal to your Intelligence or Charisma modifier on
 
 Free Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** If the escalation die is 2+, roll the escalation die and use the new result.
 
@@ -1614,7 +1614,7 @@ You gain command points equal to the newly rolled escalation die value.
 
 Quick Action
 
-Recharge 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you use your Fight from the Front class feature, a nearby ally can make a save against a save-ends effect.
 
@@ -1628,7 +1628,7 @@ The ally can add your Charisma modifier to the saving throw.
 
 Free Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Target:** One nearby ally using a recharge power
 
@@ -1644,7 +1644,7 @@ The target gains a bonus to the recharge roll equal to your Charisma modifier.
 
 Quick Action
 
-**Recharge** 16+ after battle
+**Recharge:** 16+ after battle
 
 **Target:** One nearby ally
 
@@ -1660,10 +1660,29 @@ If the attack hits, it's a critical hit.
 
 Quick Action
 
-Recharge 16+ after battle
+**Recharge:** 16+ after battle
 
 **Effect:** Until the end of the battle, whenever you use your Fight from the Front or Weigh the Odds class feature, grant a nearby ally a bonus to their next attack roll equal to the number of command points you gained.
 
 #### Epic Feat
 
 If you only gained one or two command points, grant the bonus to two allies instead.
+
+---
+
+### Wakeup Call
+
+Standard Action
+
+Once per Full Recovery
+
+**Target:** One dead nearby ally that still has their soul
+
+**Effect:** The ally returns to life with 1 hit point.
+
+#### Epic Feat
+
+The ally returns to life with half their hit points.
+
+
+
