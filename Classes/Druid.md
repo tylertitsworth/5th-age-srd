@@ -3950,9 +3950,7 @@ Your temporary animal skill check roll is a 1d6 instead of 1d4 + 1, and count a 
 
 ### Beast Form
 
-In battle, you can use the Beast Form Shift power to assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or giant praying mantis. You also gain the Beast Claws once-per-battle power.
-
----
+In battle, you can use the Beast Form Shift power to assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or giant praying mantis. You also gain the Beast Claws once-per-battle power and Natural Attack at-will power. Note that the ability modifier damage that your _Natural Attack_ power deals scales with your [level progression](#level-progression). 
 
 #### Beast Form Shift
 
@@ -3962,7 +3960,7 @@ At-will
 
 **Effect:** You shift into beast form.
 
-_Weapons:_ You cannot use normal weapons or shields, but you can attack using your natural weapons such as claws and fangs as an unarmed attack without penalty, with a d6 damage die. You can use two-weapon fighting (reroll natural 2 on attack) with your natural weapons.
+_Weapons:_ You cannot use normal weapons or shields, but you can attack using your _Natural Attack_ power. You can use two-weapon fighting (reroll natural 2 on attack) with your _Natural Attack_ power.
 
 _Magic items:_ Your magic items stick with you and you get the benefit of their default bonuses, except weapons and shields. You can use bracers to improve your unarmed attacks, like a monk.
 
@@ -3970,9 +3968,33 @@ _Spells:_ You cannot speak or cast spells while in beast form.
 
 _Shifting back:_ You can return to humanoid form as a quick action.
 
+_Special:_ You can only use this power during your turn.
+
+_Adept:_ Your _Beast Form Shift_ power is a free action.
+
 ##### Adventurer Feat
 
 You can speak in a growling voice and cast spells while in beast form.
+
+---
+
+#### Natural Attack
+
+At-Will
+
+**Target:** One enemy
+
+**Attack:** Strength OR Dexterity + Level vs. AC
+
+**Hit:** 1d4 damage per level + Strength or Dexterity damage
+
+**Miss:** --
+
+_Special:_ You must be in beast form to use this power. If you have flexible attacks from the Circle of War, you can trigger them with the first attack roll, but not the second.
+
+_Adept:_ Your _Natural Attack_ power deals 1d6 damage per level.
+
+_Master:_ Your _Natural Attack_ power deals 1d8 damage per level.
 
 ---
 
@@ -3991,6 +4013,8 @@ _Natural Odd Hit:_ 1d6 damage per level + Strength or Dexterity damage
 **Miss:** Repeat the attack against the same or a different target. This second attack has no miss effect.
 
 _Special:_ You must be in beast form to use this power. If you have flexible attacks from the Circle of War, you can trigger them with the first attack roll, but not the second.
+
+ _Master:_ Your _Beast Claws_ power deals 1d12 damage per level on a natural even hit and 1d8 damage per level on a natural odd hit.
 
 ##### Adventurer Feat
 
