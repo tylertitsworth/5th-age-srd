@@ -3950,7 +3950,7 @@ Your temporary animal skill check roll is a 1d6 instead of 1d4 + 1, and count a 
 
 ### Beast Form
 
-In battle, you can use the Beast Form Shift power to assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or giant praying mantis. You also gain the Beast Claws once-per-battle power and Natural Attack at-will power. Note that the ability modifier damage that your _Natural Attack_ power deals scales with your [level progression](#level-progression). 
+In battle, you can use the Beast Form Shift power to assume the form of a deadly predator such as a wolf, panther, tiger, bear, wolverine, lion, or giant praying mantis. You also gain the Beast Claws once-per-battle power and Natural Attack at-will power. Note that the ability modifier damage that your _Natural Attack_ power deals scales with your [level progression](#level-progression).
 
 #### Beast Form Shift
 
