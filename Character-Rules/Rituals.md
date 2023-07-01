@@ -373,6 +373,13 @@ _Ritual Scroll:_ You can perform this ritual as a standard action when you do so
 
 **Skill Check:** Your Arcana skill check result determines the maximum load the disk can carry.
 
+| Arcana Check Result | Maximum Load |
+| ------------------- | ------------ |
+| 14 or lower | 250 lbs |
+| 15-24 | 500 lbs |
+| 25-34 | 1,000 lbs |
+| 35 or higher | 2,000 lbs |
+
 ---
 
 #### Unseen Servant
