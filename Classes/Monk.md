@@ -39,7 +39,7 @@ A monk usually fights with his hands and feet (JAB, PUNCH, and KICK), though if 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
 | **Small** | LEVELd4 dagger, star | LEVELd4 (-2 atk) hand crossbow | — |
-| **Light or Simple** | LEVELd6 javelin | 1d6 (-3 atk) light crossbow | LEVELd6 (-2 atk) shortbow |
+| **Light or Simple** | LEVELd6 javelin | LEVELd6 (-3 atk) light crossbow | LEVELd6 (-2 atk) shortbow |
 | **Heavy or Martial** | — | LEVELd8 (-4 atk) heavy crossbow | LEVELd8 (-3 atk) longbow |
 
 ## Level Progression

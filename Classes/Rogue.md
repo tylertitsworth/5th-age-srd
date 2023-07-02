@@ -41,7 +41,7 @@ Rogues start with 25gp.
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
 | **Small** | LEVELd4 dagger | LEVELd4 hand crossbow | — |
-| **Light or Simple** | LEVELd6 javelin, axe | 1d6 light crossbow | LEVELd6 shortbow |
+| **Light or Simple** | LEVELd6 javelin, axe | LEVELd6 light crossbow | LEVELd6 shortbow |
 | **Heavy or Martial** | — | LEVELd8 (–1 atk) heavy crossbow | LEVELd8 (-2 atk) longbow |
 
 ## Level Progression

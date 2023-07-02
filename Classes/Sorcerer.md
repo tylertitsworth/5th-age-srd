@@ -41,7 +41,7 @@ Sorcerers start with 25gp.
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
 | **Small** | LEVELd4 dagger | LEVELd4 hand crossbow | — |
-| **Light or Simple** | LEVELd6 javelin | 1d6 (–1 atk) light crossbow\* | LEVELd6 (-2 atk) shortbow\* |
+| **Light or Simple** | LEVELd6 javelin | LEVELd6 (–1 atk) light crossbow\* | LEVELd6 (-2 atk) shortbow\* |
 | **Heavy or Martial** | — | LEVELd8 (–3 atk) heavy crossbow\* | LEVELd8 (-4 atk) longbow\* |
 
 >\*A sorcerer needs one free hand to cast spells. As such, they suffer a penalty for using a two-handed weapon. (The penalty applies to spells also.)

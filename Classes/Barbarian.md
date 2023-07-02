@@ -41,7 +41,7 @@ Barbarians start with 25gp.
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
 | **Small** | LEVELd4 dagger | LEVELd4 (–5 atk) hand crossbow | — |
-| **Light or Simple** | LEVELd6 javelin, axe, spear | 1d6 (–5 atk) light crossbow | LEVELd6 shortbow |
+| **Light or Simple** | LEVELd6 javelin, axe, spear | LEVELd6 (–5 atk) light crossbow | LEVELd6 shortbow |
 | **Heavy or Martial** | — | LEVELd8 (–5 atk) heavy crossbow | LEVELd8 longbow |
 
 ## Level Progression
