@@ -32,17 +32,17 @@ Warlords start with 25gp.
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d6 club |
-| **Light or Simple** | 1d6 mace, shortsword | 1d8 spear |
-| **Heavy or Martial** | 1d8 (-2 atk) longsword, warhammer | 1d10 (–2 atk) greatsword |
+| **Small** | LEVELd4 dagger | LEVELd6 club |
+| **Light or Simple** | LEVELd6 mace, shortsword | LEVELd8 spear |
+| **Heavy or Martial** | LEVELd8 (-2 atk) longsword, warhammer | LEVELd10 (–2 atk) greatsword |
 
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
-| **Small** | 1d4 dagger, star | 1d4 hand crossbow | — |
-| **Light or Simple** | 1d6 javelin | 1d6 light crossbow | 1d6 shortbow |
-| **Heavy or Martial** | — | 1d8 (–2 atk) heavy crossbow | 1d8 (–2 atk) longbow |
+| **Small** | LEVELd4 dagger, star | LEVELd4 hand crossbow | — |
+| **Light or Simple** | LEVELd6 javelin | 1d6 light crossbow | LEVELd6 shortbow |
+| **Heavy or Martial** | — | LEVELd8 (–2 atk) heavy crossbow | LEVELd8 (–2 atk) longbow |
 
 ## Level Progression
 

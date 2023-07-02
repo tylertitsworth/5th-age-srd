@@ -34,17 +34,17 @@ The occultist start with 25gp.
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d6 club, staff |
-| **Light or Simple** | 1d6 (-2 atk) mace, shortsword | 1d8 (-2 atk) spear |
-| **Heavy or Martial** | 1d8 (-4 atk) longsword, warhammer | 1d10 (-4 atk) greatsword |
+| **Small** | LEVELd4 dagger | LEVELd6 club, staff |
+| **Light or Simple** | LEVELd6 (-2 atk) mace, shortsword | LEVELd8 (-2 atk) spear |
+| **Heavy or Martial** | LEVELd8 (-4 atk) longsword, warhammer | LEVELd10 (-4 atk) greatsword |
 
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
-| **Small** | 1d4 dagger, dart | 1d4 hand crossbow | — |
-| **Light or Simple** | 1d6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | 1d6 (-2 atk) shortbow |
-| **Heavy or Martial** | — | 1d8 (-4 atk) heavy crossbow | 1d8 (-5 atk) longbow |
+| **Small** | LEVELd4 dagger, dart | LEVELd4 hand crossbow | — |
+| **Light or Simple** | LEVELd6 (-2 atk) javelin | 1d6 (-1 atk) light crossbow | LEVELd6 (-2 atk) shortbow |
+| **Heavy or Martial** | — | LEVELd8 (-4 atk) heavy crossbow | LEVELd8 (-5 atk) longbow |
 
 ## Level Progression
 

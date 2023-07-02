@@ -32,17 +32,17 @@ Paladins start with 25gp.
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d6 club |
-| **Light or Simple** | 1d6 scimitar, shortsword | 1d8 spear |
-| **Heavy or Martial** | 1d8 longsword, battleaxe | 1d10 greatsword, halberd |
+| **Small** | LEVELd4 dagger | LEVELd6 club |
+| **Light or Simple** | LEVELd6 scimitar, shortsword | LEVELd8 spear |
+| **Heavy or Martial** | LEVELd8 longsword, battleaxe | LEVELd10 greatsword, halberd |
 
 ### Ranged Weapons
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d4 hand crossbow | — |
-| **Light or Simple** | 1d6 javelin, axe | 1d6 light crossbow | 1d6 shortbow |
-| **Heavy or Martial** | — | 1d8 heavy crossbow | 1d8 longbow |
+| **Small** | LEVELd4 dagger | LEVELd4 hand crossbow | — |
+| **Light or Simple** | LEVELd6 javelin, axe | 1d6 light crossbow | LEVELd6 shortbow |
+| **Heavy or Martial** | — | LEVELd8 heavy crossbow | LEVELd8 longbow |
 
 ## Level Progression
 

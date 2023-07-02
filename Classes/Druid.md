@@ -32,9 +32,9 @@ Druids start with 25gp.
 
 | **Weapon Type** | **One-Handed** | **Two-Handed** |
 | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d6 club, staff |
-| **Light or Simple** | 1d6 mace, axe, shell blade | 1d8 spear |
-| **Heavy or Martial** | 1d8 (-2 atk)\* warhammer, flail | 1d10 (–2 atk) dire flail, greataxe |
+| **Small** | LEVELd4 dagger | LEVELd6 club, staff |
+| **Light or Simple** | LEVELd6 mace, axe, shell blade | LEVELd8 spear |
+| **Heavy or Martial** | LEVELd8 (-2 atk)\* warhammer, flail | LEVELd10 (–2 atk) dire flail, greataxe |
 
 >\*Circle of War talent choices can change shield and one-handed weapon stats.
 
@@ -42,9 +42,9 @@ Druids start with 25gp.
 
 | **Weapon Type** | **Thrown** | **Crossbow** | **Bow** |
 | --- | --- | --- | --- |
-| **Small** | 1d4 dagger | 1d4 (-2 atk)hand crossbow | — |
-| **Light or Simple** | 1d6 javelin, axe | 1d6 (-2 atk) light crossbow | 1d6 shortbow |
-| **Heavy or Martial** | — | 1d8 (–5 atk) heavy crossbow | 1d8 (–2 atk) longbow |
+| **Small** | LEVELd4 dagger | LEVELd4 (-2 atk)hand crossbow | — |
+| **Light or Simple** | LEVELd6 javelin, axe | 1d6 (-2 atk) light crossbow | LEVELd6 shortbow |
+| **Heavy or Martial** | — | LEVELd8 (–5 atk) heavy crossbow | LEVELd8 (–2 atk) longbow |
 
 ## Level Progression
 
