@@ -412,43 +412,43 @@ The listed attack and damage values are for melee attacks. Your skeletal minion 
 
 #### Level 4 Skeletal Minion
 
-| Normal 4th level | **Attack +10 vs. AC--12d6 damage** | **AC** **PD**| **21** **19** |
+| Normal 4th level | **Attack +10 vs. AC--2d6 damage** | **AC** **PD**| **21** **19** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **15** **27** |
 
 #### Level 5 Skeletal Minion
 
-| Normal 5th level | **Attack +11 vs. AC--12d8 damage** | **AC** **PD**| **22** **20** |
+| Normal 5th level | **Attack +11 vs. AC--2d8 damage** | **AC** **PD**| **22** **20** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **16** **36** |
 
 #### Level 6 Skeletal Minion
 
-| Normal 6th level | **Attack +13 vs. AC--13d6 damage** | **AC** **PD**| **23** **21** |
+| Normal 6th level | **Attack +13 vs. AC--3d6 damage** | **AC** **PD**| **23** **21** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **17** **45** |
 
 #### Level 7 Skeletal Minion
 
-| Normal 7th level | **Attack +14 vs. AC--13d8 damage** | **AC** **PD**| **25** **23** |
+| Normal 7th level | **Attack +14 vs. AC--3d8 damage** | **AC** **PD**| **25** **23** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **19** **54** |
 
 #### Level 8 Skeletal Minion
 
-| Normal 8th level | **Attack +15 vs. AC--14d6 damage** | **AC** **PD**| **26** **24** |
+| Normal 8th level | **Attack +15 vs. AC--4d6 damage** | **AC** **PD**| **26** **24** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **20** **72** |
 
 #### Level 9 Skeletal Minion
 
-| Normal 9th level | **Attack +17 vs. AC--14d8 damage** | **AC** **PD**| **27** **25** |
+| Normal 9th level | **Attack +17 vs. AC--4d8 damage** | **AC** **PD**| **27** **25** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **21** **90** |
 
 #### Level 10 Skeletal Minion
 
-| Normal 10th level | **Attack +18 vs. AC--15d6 damage** | **AC** **PD**| **28** **26** |
+| Normal 10th level | **Attack +18 vs. AC--5d6 damage** | **AC** **PD**| **28** **26** |
 | --- | --- | --- | --- |
 | **Mook Undead** | | **MD** **HP** | **22** **108** |
 
