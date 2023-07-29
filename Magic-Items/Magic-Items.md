@@ -9494,9 +9494,9 @@ You gain a +1 bonus to AC while this dusty rose prism orbits your head.
 
 ---
 
-##### Religious Knowledge
+##### Forgotten Knowledge
 
-You gain a 5-point skill in the Religion skill while this tiny golden gem orbits your head
+You gain a 5-point skill in the Arcana skill while this tiny golden gem orbits your head
 
 ---
 
