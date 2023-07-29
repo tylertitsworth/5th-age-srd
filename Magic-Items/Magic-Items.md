@@ -3749,27 +3749,27 @@ You can touch normally intangible creatures with these gloves. When you make att
 
 #### Hands of Winter
 
+Once you’ve got the hand, you’re stuck with it until you perish or you willingly allow someone to take it from you. Technically, your hand is indestructible, but that’s something of a moot point, as the rest of your body is still mortal. If you try to, say, catch the fiery breath of Vaeros, your hand will survive but the rest of you will be frosted ash on the wind.
+
 Quick Action
 
-_Recharge 11+:_ It’s debatable if there’s one relic called the hand of winter that recurs in different forms, or if each one’s as distinct as one winter is from next year’s. To obtain the hand of winter, you need to find the current bearer (or their corpse) and touch their frozen, icy-blue hand. If they willingly pass on the curse of the hand (or they’re dead), then your own hand freezes solid and becomes living ice, while their hand unfreezes and rots instantly, as frostbite devours it completely. So, now that you’ve got an icy hand, what does it do for you? Your melee attacks and damaging spells can do cold damage instead of whatever damage they normally deal if you wish. You inflict additional cold damage equal to twice your level when you punch or touch someone. All those effects are automatic and passive – you don’t need to activate the hand for those.
-
-You may activate it to:
+_Recharge 11+:_ Choose one of the following:
 
 - add +5d10 cold damage to any one attack (if the attack has more than one target, then split the d10s among them before rolling – you could do an extra d10 to five different enemies, or hit two foes, one for 3d10 and the other for 2d10).
 - allow yourself or any nearby ally to automatically succeed at a save against ongoing cold damage.
 - change the weather in the local area. You can call up winter storms, blanket the land in a blizzard, or pick up and drag winter away to let spring in. You don’t have any fine control, so you can’t use this power as a direct attack.
 - Do epic, hand-wavey narrative things because you’ve got a season on the end of your arm.
 
-Once you’ve got the hand, you’re stuck with it until you perish or you willingly allow someone to take it from you. Technically, your hand is indestructible, but that’s something of a moot point, as the rest of your body is still mortal. If you try to, say, catch the fiery breath of Vaeros, your hand will survive but the rest of you will be frosted ash on the wind.
+**Quirk:** Depressed.
 
 Depending on the whims of the GM, the following may be true:
 
 - You have to physically drag the season of winter down from the north each year, and pull it back up when it’s time for spring
 - You’re doomed to freeze the hearts of anyone you love
 - You get to shape giant snow castles and rule an ice-bound empire with your frozen fist
-- You’re an honorary blood sibling of the Front Giant Jarl. Or his mortal enemy. Or both.
+- You’re an honorary blood sibling of the Frost Giant Jarl. Or his mortal enemy. Or both.
 
-**Quirk:** Depressed.
+<_Note:_ It’s debatable if there’s one relic called the hand of winter that recurs in different forms, or if each one’s as distinct as one winter is from next year’s. To obtain the hand of winter, you need to find the current bearer (or their corpse) and touch their frozen, icy-blue hand. If they willingly pass on the curse of the hand (or they’re dead), then your own hand freezes solid and becomes living ice, while their hand unfreezes and rots instantly, as frostbite devours it completely. So, now that you’ve got an icy hand, what does it do for you? Your melee attacks and damaging spells can do cold damage instead of whatever damage they normally deal if you wish. You inflict additional cold damage equal to twice your level when you punch or touch someone. All those effects are automatic and passive – you don’t need to activate the hand for those.
 
 >_Note:_ Hand of winter, breath of spring, Heart of summer, shadow’s fall, Seasons stop and old trees sing; When the Druid finds them all - Children’s rhyme in Eld
 
