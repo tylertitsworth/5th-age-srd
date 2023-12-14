@@ -1,4 +1,4 @@
-FROM ruby:3.1
+FROM ruby:3.2.2-slim-bullseye
 
 # Avoid warnings by switching to noninteractive
 ENV DEBIAN_FRONTEND=noninteractive
