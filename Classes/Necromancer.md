@@ -354,7 +354,7 @@ You gain an extra necromancer spell at the highest spell level you can normally 
 
 #### Champion Feat
 
-All 6s you roll with relationship dice count as 5s. You gain another extra necromancer spell, but it must be at least two levels lower than your level.
+You gain an additional negative relationship point in the relationship established with It's Complicated. You gain another extra necromancer spell, but it must be at least two levels lower than your level.
 
 ---
 
