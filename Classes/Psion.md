@@ -157,7 +157,9 @@ You can use the champion feat power a second time, but only if you choose a rela
 
 Psions usually display an uncanny weirdness that presents itself through their affinities, and sometimes even bleeds through to their general demeanor. This weirdness is represented in game mechanics through the High Weirdness table below.
 
-When an enemy scores a critical hit against you, roll high weirdness and consult the table to see what effect applies. You can use a standard action to change it. Unless otherwise specified, the high weirdness effects last until the end of the battle.
+When an enemy scores a critical hit against you, roll high weirdness and consult the table to see what effect applies.
+
+While any High Weirdness effect is active, you can use a standard action to change it by rolling again and replacing the current effect with a new one.
 
 Unless otherwise specified, the high weirdness effects last until the end of the battle.
 
