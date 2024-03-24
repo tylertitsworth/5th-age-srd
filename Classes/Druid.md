@@ -4175,15 +4175,15 @@ _Initiate effect:_ Until the end of the battle, you gain resist non-spell damage
 
 _Adept effect:_ As the initiate effect, and while you are not staggered, you gain the ability to fly. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. If you are staggered, you must have solid ground under your feet at the end of your turn or start falling.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Until the end of the battle, on a natural odd hit with a melee attack, the target pops free from you.
 
-##### Champion Feat
+###### Champion Feat
 
 Until the end of the battle, if your first natural roll for a melee attack is an even hit, you can repeat the attack against a different target.
 
-##### Epic Feat
+###### Epic Feat
 
 Your melee attacks attack the lower of AC and PD.
 
@@ -4275,15 +4275,15 @@ _Initiate effect:_ Until the end of the battle, you gain AC +1 and PD +1. Enemie
 
 _Adept effect:_ As the initiate effect, but AC +2 and PD +2. Staggered enemies also take a -5 penalty to disengage from you.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 If you spend a recovery to heal while in this aspect, gain a bonus recovery die. Gain two at champion tier and three at epic tier.
 
-##### Champion Feat
+###### Champion Feat
 
 When you are targeted by an attack with a natural roll of 10 or less, you can spend a recovery to heal before taking damage from the attack.
 
-##### Epic Feat
+###### Epic Feat
 
 Increase the AC and PD bonus to +3.
 
@@ -4301,15 +4301,15 @@ _Initiate effect:_ Until the end of the battle, you gain resist fire 12+ and you
 
 _Adept effect:_ As the initiate effect, but resist fire 16+ and three times your level ongoing damage.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Increase the fire resistance by 2.
 
-##### Champion Feat
+###### Champion Feat
 
 When an enemy makes a natural odd melee attack roll against you, that attacker takes two times your level in fire damage.
 
-##### Epic Feat
+###### Epic Feat
 
 Until the end of the battle, enemies that taking ongoing fire damage are vulnerable to your attacks.
 
@@ -4327,11 +4327,11 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, roll 1d6 at the start of your turn. If the result is equal to the escalation die or lower, you can make a melee basic attack as a quick action once this turn. This attack deals fire damage.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 If the d6 roll is higher than the escalation die, deal twice your level in fire damage to all enemies you are engaged with, and you have a +2 bonus to disengage checks this turn.
 
-##### Epic Feat
+###### Epic Feat
 
 If your quick action attack hits, you gain a +2 bonus to attack rolls against the target this turn.
 
@@ -4355,11 +4355,11 @@ _Natural Even **Hit:_** The target is hampered until the end of your next turn.
 
 _Natural Odd **Hit:_** The target is stuck until the end of your next turn.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 If you hit a hampered or stuck target with a melee attack, deal 10 (8th level: 20) ongoing poison damage to them.
 
-##### Epic Feat
+###### Epic Feat
 
 If the target has 150 hp (10th level: 250 hp) or less after taking damage, the hampered / stuck effect is “save ends”.
 
@@ -4417,15 +4417,15 @@ _Initiate Effect:_ Until the end of the battle, your crit range with melee attac
 
 _Adept Effect:_ As the initiate effect, and you gain a +1 bonus to melee attacks and a +2 bonus to AC and PD.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 When you score a critical hit, you heal hit points equal to your level + your Wisdom modifier, double your Wisdom modifier at champion tier, and triple it at epic tier.
 
-##### Champion Feat
+###### Champion Feat
 
 While you are in this aspect, your critical hits with melee attacks deal triple damage instead of double damage.
 
-##### Epic Feat
+###### Epic Feat
 
 Until the first time it recharges each full recovery, _owlbear aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
@@ -4443,7 +4443,7 @@ _Initiate Effect:_ Until the end of the battle, deal poison damage equal to your
 
 _Adept Effect:_ As the initiate effect, and once per round as a quick action, you can make a Dexterity + Level close-quarters attack against a nearby enemy that deals 1d6 per level poison damage.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Add your level to the poison damage.
 
@@ -4461,11 +4461,11 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you have resist physical damage 18+. Ignore any effects from enemy attacks that would cause you to pop free.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 If the natural attack roll against you is lower than 10, you ignore the attack entirely, including miss damage and non-damage effects.
 
-##### Epic Feat
+###### Epic Feat
 
 Enemies cannot force you to pop free from them.
 
@@ -4509,7 +4509,7 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you have advantage on melee attack rolls against staggered enemies.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 You also have advantage against enemies taking ongoing damage.
 
@@ -4527,11 +4527,11 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you can heal hit points equal to your Wisdom modifier, twice at champion tier and thrice at epic tier, to a nearby conscious ally as a quick action once per round. Double the healing if the ally is staggered.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Until the end of the battle, you and all nearby allies gain a +1 bonus to saving throws.
 
-##### Epic Feat
+###### Epic Feat
 
 If you score a critical hit with a beast form attack, a nearby ally can heal using a free recovery.
 
@@ -4549,11 +4549,11 @@ _Special:_ This aspect requires two slots. You must be a Moon adept or master to
 
 **Effect:** Until the end of the battle, you can fly and hover. While airborne, you have a -2 penalty to attack rolls, and you are vulnerable to attacks. You don’t suffer the attack penalty against staggered enemies. When you reduce an enemy below zero hit points, you can use a recovery to heal.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 If you fly to engage a normal-sized or smaller target before making an attack, and you hit, you can grab them and carry them into the air.
 
-##### Epic Feat
+###### Epic Feat
 
 Gain three bonus recovery dice when you reduce an enemy below 0 hp and use a recovery.
 
@@ -4571,15 +4571,15 @@ _Initiate Effect:_ You can swim with the agility of a native water creature, and
 
 _Adept Effect:_ As the initiate effect, and you gain a +1 bonus to all attacks and defenses. If you are in contact with a large body of water, at least a pond or a small river, the bonus increases to +2.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Double the healing effect.
 
-##### Champion Feat
+###### Champion Feat
 
 Until the end of the battle, you gain resist weapon damage 16+.
 
-##### Epic Feat
+###### Epic Feat
 
 Increase the adept effect bonus to +3 if you are in contact with a large body of water.
 
@@ -4601,7 +4601,7 @@ Quick Action
 
 **Adept Effect:** As the initiate effect, and you gain a +2 bonus to all defenses. You can also rally once this battle as a quick action instead of a standard action.
 
-##### Adventurer Feat
+###### Adventurer Feat
 
 Targets struck by the fear effect also have disadvantage on checks to disengage from you.
 
@@ -4625,7 +4625,7 @@ You can use the damage bonus against an enemy that started the battle with more 
 
 Until the first time it recharges each full recovery, _wolverine aspect_ is recharge 11+ instead of recharge 16+ for adepts.
 
-##### Epic Feat
+###### Epic Feat
 
 You have advantage on the follow-up attack against mooks and staggered enemies.
 
