@@ -4585,11 +4585,11 @@ Increase the adept effect bonus to +3 if you are in contact with a large body of
 
 ---
 
-##### Champion Tier Aspects
+#### Champion Tier Aspects
 
 These aspects can only be taken at 5th level or higher, and only if you are an adept or master. They require two aspect slots.
 
-###### Wolverine Aspect
+##### Wolverine Aspect
 
 Beast Aspect
 
