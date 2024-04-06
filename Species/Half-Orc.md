@@ -13,7 +13,7 @@ Choose one of the following species powers.
 
 ### Devastating Blow
 
-Once per battle when you hit with a two-handed weapon, you can choose to attempt a _devastating blow_. If you do, make a second attack roll. If you hit again, deal double damage. If you miss, the original attack deals haalf damage and the power is not expended.
+Once per battle when you hit with a two-handed weapon, you can choose to attempt a _devastating blow_. If you do, make a second attack roll. If you hit again, deal double damage. If you miss, the original attack deals half damage and the power is not expended.
 
 #### Adventurer Feat
 
