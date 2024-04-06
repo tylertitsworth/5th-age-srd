@@ -375,7 +375,7 @@ Once per battle, you or your manifested spirit companion can reroll a save with 
 
 ### Strongheart
 
-Your recovery dice are d12s instead of d10s.
+Your recovery dice are 2d6s instead of d12s.
 
 #### Adventurer Feat
 
