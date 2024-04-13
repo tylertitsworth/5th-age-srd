@@ -585,7 +585,7 @@ Spinning Willow Style saves are now easy saves (6+).
 
 #### Ki Power
 
-_The Willow Bends:_You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
+_The Willow Bends:_ You can spend 1 point of ki to turn a failed Spinning Willow Style save into a success.
 
 ---
 
