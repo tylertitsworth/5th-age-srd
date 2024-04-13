@@ -359,7 +359,7 @@ _A Thousand Palms:_ You must be engaged with 2 or more enemies to use this power
 
 ---
 
-#### Freezing Fist (Seven Deadly Secrets)
+### Freezing Fist (Seven Deadly Secrets)
 
 _Special:_ If you use Freezing Fist in a battle, you can’t use any other Deadly Secrets talents that battle.
 
