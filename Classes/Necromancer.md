@@ -2251,7 +2251,9 @@ Full Recovery
 
 **Miss:** You take 4d10 damage and regain _finger of death_ after the battle.
 
-_**Epic Feat:**_ You can now target an enemy with 320 hp or fewer.
+#### Epic Feat
+
+You can now target an enemy with 320 hp or fewer.
 
 ---
 
