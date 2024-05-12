@@ -4038,9 +4038,9 @@ _Adept; Master:_ Your beast aspects are Recharge 16+ after battle. When activati
 
 ### Circle of the Moon Talents
 
-#### Combat reconnaissance
+#### Combat Reconnaissance
 
-Once per full recovery, twice at champion tier, and three times), when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic tier) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
+Once per full recovery, twice at champion tier, and three times, when you roll initiative, make a skill check and gain a benefit based on the result. You need to achieve at least a normal difficulty check (DC 15 at adventurer tier; 20 at champion; 25 at epic tier) to gain any benefits. For every 5 points you beat the DC, you gain the next higher benefit, plus any lower ones.
 
 _Failure:_ Nothing came of your scouting.
 
