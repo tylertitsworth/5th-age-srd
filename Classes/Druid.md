@@ -4603,10 +4603,6 @@ Quick Action
 
 ###### Adventurer Feat
 
-Targets struck by the fear effect also have disadvantage on checks to disengage from you.
-
-###### Adventurer Feat
-
 Your extra melee damage while using this aspect increases according to your level:
 
 | Higher Level | Effect |
