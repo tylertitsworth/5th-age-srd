@@ -4006,9 +4006,9 @@ Once per battle
 
 **Attack:** Strength OR Dexterity + Level vs. AC
 
-_Natural Even Hit:_ 1d10 damage per level + Strength or Dexterity damage
+_Natural Even Hit:_ LEVELd10 + Strength or Dexterity damage
 
-_Natural Odd Hit:_ 1d6 damage per level + Strength or Dexterity damage
+_Natural Odd Hit:_ LEVELd6 + Strength or Dexterity damage
 
 **Miss:** Repeat the attack against the same or a different target. This second attack has no miss effect.
 
