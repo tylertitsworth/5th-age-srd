@@ -3,7 +3,7 @@ layout: doc
 ---
 # Magic Item Descriptions
 
-Each name/characteristic includes its action type, usage, description, power. Magic items in the adventurer tier can be used by players in any tier. Magic items in the champion tier cannot be used by players in the adventurer tier. Epic level magic items are limited to epic-tier players. Optionally, the GM can apply the quirk of an item, if applicable, to the item's user.
+Each name/characteristic includes its action type, usage, description, power. Quirks can be optionally assigned based on the GM's ruling.
 
 ## Arrow, Crossbow Bolt, Slingstone
 
