@@ -239,6 +239,20 @@ _Focus:_ A musical instrument you play as part of performing the ritual.
 
 ---
 
+#### Last Sight Vision
+**Casting Time/Duration:** 10 minutes**/**2 or more rounds
+**Market/Component Cost:** 150 gp**/**30 gp
+**Effect:** When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
+**Skill Check:** Your Arcana check determines the length of time prior to the target's death that you experience.
+| Arcana Check Result | Time Period |
+| ------------------------------- | ----------- |
+| 9 or lower | 2 round |
+| 10-19 | 4 rounds |
+| 20-29 | 6 rounds |
+| 30 or higher | 10 rounds |
+
+---
+
 #### Lullaby
 
 **Casting Time/Duration:** 10 minutes**/**As long as you play plus 10 minutes
