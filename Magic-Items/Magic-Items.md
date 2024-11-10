@@ -1421,7 +1421,7 @@ _Recharge 6+:_ Heal with a free recovery at the moment of sunset or sunrise.
 
 #### Dwarven Might
 
-_Recharge 11+:_ When you fail a Constitution skill check, you succeed instead.
+_Recharge 11+:_ When you fail a Strength skill check, you succeed instead.
 
 **Quirk:** Sings dwarven drinking songs.
 
