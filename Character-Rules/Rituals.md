@@ -240,6 +240,7 @@ _Focus:_ A musical instrument you play as part of performing the ritual.
 ---
 
 #### Last Sight Vision
+
 **Casting Time/Duration:** 10 minutes**/**2 or more rounds
 **Market/Component Cost:** 150 gp**/**30 gp
 **Effect:** When you perform this ritual in the presence of a corpse or a skull, you witness an auditory and visual replay of the moments before the death of that creature, as seen from the creature's perspective. You cannot perform this ritual on headless corpses. Once you have performed this ritual, you must wait 24 hours before using it again on the same remains.
