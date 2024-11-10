@@ -265,9 +265,9 @@ function addCards() {
 	var powerDivs = tempDiv.querySelectorAll(".powerCard")
 	// Ensure anchor tags are properly processed
 	powerDivs.forEach(card => {
-	        var anchors = card.querySelectorAll("a")
-	        anchors.forEach(anchor => {
-		        var linkText = document.createTextNode(anchor.textContent)
+	    var anchors = card.querySelectorAll("a")
+	    anchors.forEach(anchor => {
+		    var linkText = document.createTextNode(anchor.textContent)
 			anchor.parentNode.replaceChild(linkText, anchor)
 		})
 	})
