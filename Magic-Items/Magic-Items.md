@@ -9864,7 +9864,7 @@ Helm
 
 This insectile segmented helm is lined with ganglia that link with your brain.
 
-_Always:_ +1 MD (adventurer); +2 MD (champion); +MD (epic). _Chuulish recharge:_ You gain _resist psychic 12+_ until the end of the battle, _resist psychic 16+_ at champion tier, and _resist psychic 18+_ at epic tier.
+_Always:_ +1 MD (adventurer); +2 MD (champion); +3 MD (epic). _Chuulish recharge:_ You gain _resist psychic 12+_ until the end of the battle, _resist psychic 16+_ at champion tier, and _resist psychic 18+_ at epic tier.
 
 **Quirk:** Bone-ridged holes in skull.
 
